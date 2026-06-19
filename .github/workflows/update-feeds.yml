@@ -1,0 +1,137 @@
+name: RSS Feed Cache Refresh
+on:
+  schedule:
+    # 每天 UTC 0 点、6 点、12 点、18 点运行
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:  # 手动触发
+  push:
+    paths:
+      - '.github/workflows/update-feeds.yml'
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch RSS Feeds
+        shell: node {0}
+        run: |
+          const fs = require('fs');
+          const path = require('path');
+
+          // 读取订阅源列表（从 feeds-cache.json 中）
+          const cachePath = path.join('data', 'feeds-cache.json');
+          let existingFeeds = [];
+          try {
+            const raw = fs.readFileSync(cachePath, 'utf-8');
+            existingFeeds = JSON.parse(raw).feeds || [];
+          } catch {}
+
+          // 如果是首次运行，创建空缓存
+          if (existingFeeds.length === 0) {
+            const cache = { feeds: [], articles: {}, lastUpdated: new Date().toISOString() };
+            fs.writeFileSync(cachePath, JSON.stringify(cache, null, 2));
+            console.log('Created empty cache file');
+            process.exit(0);
+          }
+
+          // 抓取每个订阅源
+          async function fetchFeed(url) {
+            const proxyUrls = [
+              `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+              `https://corsproxy.io/?${encodeURIComponent(url)}`,
+            ];
+            for (const proxyUrl of proxyUrls) {
+              try {
+                const controller = new AbortController();
+                const timer = setTimeout(() => controller.abort(), 20000);
+                const resp = await fetch(proxyUrl, { signal: controller.signal });
+                clearTimeout(timer);
+                if (resp.ok) return await resp.text();
+              } catch {}
+            }
+            // 最后尝试直接请求
+            try {
+              const controller = new AbortController();
+              const timer = setTimeout(() => controller.abort(), 15000);
+              const resp = await fetch(url, { signal: controller.signal });
+              clearTimeout(timer);
+              if (resp.ok) return await resp.text();
+            } catch {}
+            return null;
+          }
+
+          function parseFeed(xmlText, feedUrl) {
+            // 使用简单的 XML 解析（Node.js 无 DOMParser，用正则替代）
+            const items = [];
+            const itemRegex = /<item>[\s\S]*?<\/item>/g;
+            let match;
+            while ((match = itemRegex.exec(xmlText)) !== null) {
+              const item = match[0];
+              items.push({
+                title: (item.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/)?.[1] || '').trim(),
+                link: (item.match(/<link>([\s\S]*?)<\/link>/)?.[1] || '').trim(),
+                description: (item.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/)?.[1] || '').trim(),
+                pubDate: (item.match(/<pubDate>([\s\S]*?)<\/pubDate>/)?.[1] || '').trim(),
+                guid: (item.match(/<guid[^>]*>([\s\S]*?)<\/guid>/)?.[1] || '').trim(),
+              });
+            }
+            return items;
+          }
+
+          async function main() {
+            const articles = {};
+            const feeds = [...existingFeeds];
+            let totalFetched = 0;
+
+            for (const feed of feeds) {
+              console.log(`Fetching: ${feed.title} (${feed.url})`);
+              try {
+                const xml = await fetchFeed(feed.url);
+                if (xml) {
+                  articles[feed.url] = parseFeed(xml, feed.url);
+                  feed.lastFetched = new Date().toISOString();
+                  totalFetched += articles[feed.url].length;
+                  console.log(`  -> ${articles[feed.url].length} articles`);
+                } else {
+                  console.log(`  -> Failed`);
+                }
+              } catch (e) {
+                console.log(`  -> Error: ${e.message}`);
+              }
+            }
+
+            const cache = {
+              feeds,
+              articles,
+              lastUpdated: new Date().toISOString(),
+              stats: { feeds: feeds.length, articles: totalFetched },
+            };
+
+            fs.mkdirSync('data', { recursive: true });
+            fs.writeFileSync(cachePath, JSON.stringify(cache, null, 2));
+            console.log(`\nDone! ${totalFetched} articles from ${feeds.length} feeds`);
+          }
+
+          main().catch(e => {
+            console.error('Fatal error:', e);
+            process.exit(1);
+          });
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '📡 Update RSS feed cache [skip ci]'
+          file_pattern: 'data/feeds-cache.json'
+          commit_user_name: 'RSS Bot'
+          commit_user_email: 'rss-bot@users.noreply.github.com'

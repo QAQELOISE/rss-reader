@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "id": "feed_1",
+      "title": "Hacker News Front Page",
+      "url": "https://hnrss.org/frontpage",
+      "group": "科技",
+      "lastFetched": "2026-06-19T08:00:00.000Z"
+    },
+    {
+      "id": "feed_2",
+      "title": "Simon Willison's Blog",
+      "url": "https://simonwillison.net/atom/everything/",
+      "group": "科技",
+      "lastFetched": "2026-06-19T08:00:00.000Z"
+    }
+  ],
+  "articles": {},
+  "lastUpdated": "2026-06-19T08:00:00.000Z",
+  "stats": {
+    "feeds": 2,
+    "articles": 0
+  }
+}

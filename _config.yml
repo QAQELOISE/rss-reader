@@ -1,0 +1,7 @@
+# 让 GitHub Pages 正确处理 SPA 路由
+# 保留 /data/ 目录中的 JSON 文件
+include:
+  - "*.html"
+  - "*.css"
+  - "*.js"
+  - "data/*.json"
