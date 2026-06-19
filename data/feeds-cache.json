@@ -5,20 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-19T08:00:00.000Z"
+      "lastFetched": "2026-06-19T10:10:46.091Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-19T08:00:00.000Z"
+      "lastFetched": "2026-06-19T10:11:01.932Z"
     }
   ],
-  "articles": {},
-  "lastUpdated": "2026-06-19T08:00:00.000Z",
+  "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "description": "<p>Article URL: <a href=\"https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\">https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595511\">https://news.ycombinator.com/item?id=48595511</a></p>\n<p>Points: 118</p>\n<p># Comments: 57</p>",
+        "pubDate": "Fri, 19 Jun 2026 06:35:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48595511"
+      },
+      {
+        "title": "So You Want to Define a Well-Known URI",
+        "link": "https://mnot.net/blog/2026/well_known_uris",
+        "description": "<p>Article URL: <a href=\"https://mnot.net/blog/2026/well_known_uris\">https://mnot.net/blog/2026/well_known_uris</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595331\">https://news.ycombinator.com/item?id=48595331</a></p>\n<p>Points: 66</p>\n<p># Comments: 30</p>",
+        "pubDate": "Fri, 19 Jun 2026 06:05:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48595331"
+      },
+      {
+        "title": "Fable Converted Pylint to Rust",
+        "link": "https://pypi.org/project/prylint/",
+        "description": "<p>Article URL: <a href=\"https://pypi.org/project/prylint/\">https://pypi.org/project/prylint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594733\">https://news.ycombinator.com/item?id=48594733</a></p>\n<p>Points: 39</p>\n<p># Comments: 29</p>",
+        "pubDate": "Fri, 19 Jun 2026 04:21:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48594733"
+      },
+      {
+        "title": "Ice water drowning survival of young patient (2025)",
+        "link": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+        "description": "<p>Article URL: <a href=\"https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885\">https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594592\">https://news.ycombinator.com/item?id=48594592</a></p>\n<p>Points: 147</p>\n<p># Comments: 96</p>",
+        "pubDate": "Fri, 19 Jun 2026 03:50:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48594592"
+      },
+      {
+        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+        "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jun/18/datasette-apps/\">https://simonwillison.net/2026/Jun/18/datasette-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48593731\">https://news.ycombinator.com/item?id=48593731</a></p>\n<p>Points: 80</p>\n<p># Comments: 28</p>",
+        "pubDate": "Fri, 19 Jun 2026 01:06:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48593731"
+      },
+      {
+        "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+        "link": "https://www.flexport.com/company/careers/",
+        "description": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48593694\">https://news.ycombinator.com/item?id=48593694</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 19 Jun 2026 01:01:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48593694"
+      },
+      {
+        "title": "The AirPods Effect",
+        "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+        "description": "<p>Article URL: <a href=\"https://www.theescapenewsletter.com/p/the-airpods-effect\">https://www.theescapenewsletter.com/p/the-airpods-effect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48592832\">https://news.ycombinator.com/item?id=48592832</a></p>\n<p>Points: 98</p>\n<p># Comments: 174</p>",
+        "pubDate": "Thu, 18 Jun 2026 23:08:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48592832"
+      },
+      {
+        "title": "Zero-Touch OAuth for MCP",
+        "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+        "description": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/\">https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48592163\">https://news.ycombinator.com/item?id=48592163</a></p>\n<p>Points: 198</p>\n<p># Comments: 66</p>",
+        "pubDate": "Thu, 18 Jun 2026 21:54:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48592163"
+      },
+      {
+        "title": "Show HN: Are You in the Weights?",
+        "link": "https://www.intheweights.com/",
+        "description": "<p>With more traffic moving off-web and into LLMs, I got curious about what traces we leave \"in the weights\". My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48591348\">https://news.ycombinator.com/item?id=48591348</a></p>\n<p>Points: 347</p>\n<p># Comments: 197</p>",
+        "pubDate": "Thu, 18 Jun 2026 20:49:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48591348"
+      },
+      {
+        "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+        "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+        "description": "<p><a href=\"https://web.archive.org/web/20260618212028/https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/\" rel=\"nofollow\">https://web.archive.org/web/20260618212028/https://www.thatp...</a><p><a href=\"https://archive.ph/I4zjA\" rel=\"nofollow\">https://archive.ph/I4zjA</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48589501\">https://news.ycombinator.com/item?id=48589501</a></p>\n<p>Points: 391</p>\n<p># Comments: 229</p>",
+        "pubDate": "Thu, 18 Jun 2026 18:31:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48589501"
+      },
+      {
+        "title": "Building a robotics research setup that lives next to my desk",
+        "link": "https://dfdxlabs.com/research/2026/robotics-setup/",
+        "description": "<p>Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup.<p>A few decisions I'm least settled on, and would love some pushback/feedback on:<p>- single arm vs. bimanual (I went single for cost/space, knowing it rules out things like folding cloth)<p>- not calibrating camera extrinsics/intrinsics for now<p>- RGB vs. RGB-D for from-scratch policies (ACT / Diffusion Policy)<p>And one I'm more confident about but expect disagreement on: not building on ROS 2 / LeRobot, and writing my own stack instead. Happy to get into the reasoning.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48586329\">https://news.ycombinator.com/item?id=48586329</a></p>\n<p>Points: 82</p>\n<p># Comments: 27</p>",
+        "pubDate": "Thu, 18 Jun 2026 14:51:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48586329"
+      },
+      {
+        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+        "link": "https://tester.army",
+        "description": "<p>Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (<a href=\"https://tester.army\">https://tester.army</a>). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We've built the platform fully around agents. Our agent will reliably execute the tests, but your coding agent can manage everything in our platform, from defining tests in natural language to running them on your behalf.<p>Check out our demo video: <a href=\"https://www.youtube.com/watch?v=291IkUbPrlk\" rel=\"nofollow\">https://www.youtube.com/watch?v=291IkUbPrlk</a>.<p>We started TesterArmy because testing is still far too painful. AI coding tools have made it dramatically faster to write and ship code, but testing is still a bottleneck. Traditional E2E tests are slow to set up and expensive to maintain. Managing auth and test users is painful. Setting up staging environments is painful. Running tests reliably is painful.<p>We think most teams do not actually want to spend their time writing selectors or maintaining test infrastructure. They just want confidence that their core flows work. With TesterArmy, an engineer can sign up, give an agent our CLI, and let it handle creating tests and running them on schedule or on GitHub.<p>When something breaks, TesterArmy alerts your team through Slack or Discord.<p>Over the past few months, we scaled from 0 to 30+ teams using our product every day. We caught bugs in critical flows, including onboarding, checkout, and AI chat. We've got many of our customers migrating from already established competitors to us because of the quality and reliability of our agents.<p>Here are a few of the recent bugs that our agent found (there were quite a lot of them!):<p>1) Timezone bug that affected the booking flow in one of our clients' apps, the dashboard was very complex and hard to catch by a human. \n2) Regression in agent orchestration that caused a sandboxed environment to be stuck on loading, thanks to TesterArmy, the team was able to resolve it before it hit production.\n3) Incorrectly counting the order amount in a complex dashboard flow with checkout, thanks to TesterArmy, the team was able to resolve it before it affected revenue\n4) Catching a regression in an AI chat flow that would result in a user not being able to retrieve their data due to broken tool calling.<p>And many more, mostly related to some incorrect API calls, 404s, unhandled errors, etc.<p>If this sounds useful, we would love your feedback at <a href=\"https://tester.army\">https://tester.army</a>. We have a bunch of free test runs for you to try. And don’t worry, we won’t make you do sales calls, and we don’t have long onboarding or annoying setup. Our goal is an it-just-works experience.<p>If you're looking for an end-to-end testing solution, we'd love to hear your feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48586299\">https://news.ycombinator.com/item?id=48586299</a></p>\n<p>Points: 120</p>\n<p># Comments: 55</p>",
+        "pubDate": "Thu, 18 Jun 2026 14:49:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48586299"
+      },
+      {
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "link": "https://blog.ui.com/article/introducing-enterprise-nas",
+        "description": "<p>Article URL: <a href=\"https://blog.ui.com/article/introducing-enterprise-nas\">https://blog.ui.com/article/introducing-enterprise-nas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48585866\">https://news.ycombinator.com/item?id=48585866</a></p>\n<p>Points: 340</p>\n<p># Comments: 292</p>",
+        "pubDate": "Thu, 18 Jun 2026 14:24:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48585866"
+      },
+      {
+        "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+        "link": "https://github.com/cajal-technologies/talos",
+        "description": "<p>At Cajal (YC W26) we’re excited to share Talos (<a href=\"https://github.com/cajal-technologies/talos\" rel=\"nofollow\">https://github.com/cajal-technologies/talos</a>), an open source framework for formal verification of WebAssembly modules in Lean.<p>AI is now writing tons of the code that gets pushed to production. As code generation gets cheaper, verification becomes the bottleneck. We believe in a future where every piece of software comes with a mathematical proof that it does what its author intended - in doing so, eliminating many classes of exploits. Talos is part of the foundation for that.<p>Talos provides a Wasm interpreter optimized for reasoning at the binary level, together with a weakest-precondition calculus layer for proving properties about programs. Because we reason directly about WebAssembly, any language with a Wasm backend is in scope: Rust, C++, Go, C, Swift, Kotlin, Zig, C#, and many more.<p>To make this possible, we use Lean: a programming language and theorem prover that lets you both write software and mathematically prove that it's correct - all in one system. That's what lets Talos double as both an executable interpreter and the formal object Lean reasons about. Lean also integrates with modern AI proving tools, discharging goals automatically via both proof search and direct evaluation.<p>To see Talos in action check out a proof for Stein's GCD algorithm, implemented in the popular Rust crate num-integer: <a href=\"https://github.com/cajal-technologies/talos/blob/main/programs/lean/Project/NumInteger/Spec.lean#L562-L588\" rel=\"nofollow\">https://github.com/cajal-technologies/talos/blob/main/progra...</a>.<p>Our roadmap:<p>- Full Wasm coverage by first passing the official W3C testsuite, then later verifying against SpecTec (formal Wasm spec)\n- Arbitrary crate verification - any Rust crate that compiles to Wasm should be in scope\n- Building our proof library codelib, to make verifying increasingly complex programs tractable<p>We would love to hear the community’s feedback on Talos and comments on the state of formal verification right now. Contributions are also welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584761\">https://news.ycombinator.com/item?id=48584761</a></p>\n<p>Points: 52</p>\n<p># Comments: 6</p>",
+        "pubDate": "Thu, 18 Jun 2026 13:10:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48584761"
+      },
+      {
+        "title": "W Social, public institutions and the theater of European digital sovereignty",
+        "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+        "description": "<p>Article URL: <a href=\"https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/\">https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584497\">https://news.ycombinator.com/item?id=48584497</a></p>\n<p>Points: 211</p>\n<p># Comments: 137</p>",
+        "pubDate": "Thu, 18 Jun 2026 12:46:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48584497"
+      },
+      {
+        "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+        "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+        "description": "<p><a href=\"https://web.archive.org/web/20260618100028/https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/\" rel=\"nofollow\">https://web.archive.org/web/20260618100028/https://www.wired...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584484\">https://news.ycombinator.com/item?id=48584484</a></p>\n<p>Points: 114</p>\n<p># Comments: 96</p>",
+        "pubDate": "Thu, 18 Jun 2026 12:44:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48584484"
+      },
+      {
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
+        "description": "<p>Article URL: <a href=\"https://orchidfiles.com/github-repositories-distributing-malware/\">https://orchidfiles.com/github-repositories-distributing-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583928\">https://news.ycombinator.com/item?id=48583928</a></p>\n<p>Points: 795</p>\n<p># Comments: 208</p>",
+        "pubDate": "Thu, 18 Jun 2026 11:45:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48583928"
+      },
+      {
+        "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+        "link": "https://spectrum.ieee.org/modos-e-paper-monitor",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/modos-e-paper-monitor\">https://spectrum.ieee.org/modos-e-paper-monitor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583897\">https://news.ycombinator.com/item?id=48583897</a></p>\n<p>Points: 281</p>\n<p># Comments: 68</p>",
+        "pubDate": "Thu, 18 Jun 2026 11:41:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48583897"
+      },
+      {
+        "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+        "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+        "description": "<p>Article URL: <a href=\"https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/\">https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583606\">https://news.ycombinator.com/item?id=48583606</a></p>\n<p>Points: 373</p>\n<p># Comments: 51</p>",
+        "pubDate": "Thu, 18 Jun 2026 11:04:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48583606"
+      },
+      {
+        "title": "Hospitals and universities repurposing drugs at lower cost",
+        "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+        "description": "<p>Article URL: <a href=\"https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost\">https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583386\">https://news.ycombinator.com/item?id=48583386</a></p>\n<p>Points: 309</p>\n<p># Comments: 141</p>",
+        "pubDate": "Thu, 18 Jun 2026 10:33:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48583386"
+      }
+    ],
+    "https://simonwillison.net/atom/everything/": []
+  },
+  "lastUpdated": "2026-06-19T10:11:01.932Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
