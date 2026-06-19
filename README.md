@@ -1,7 +1,8 @@
-# 📰 Velvet RSS · 微水泥阅读器
+# 📰 Velvet RSS · RSS本地阅读器
 
-> 极简微水泥 × 天鹅绒艺术漆风格的 RSS 阅读器，部署于 GitHub Pages
-
+> 自娱自乐仅满足个人需求的产品。本人没有任何代码能力，肘击claude code+dsv4pro制作的RSS阅读工具，API key储存于本地网页。纯AI产品，欢迎自己拿去玩，有问题请联系自己的AI……
+部署也是Ai做的，只有这行字是纯手打……
+> 
 ## ✨ 功能
 
 - 📡 **RSS/Atom 订阅** — 添加任意 RSS/Atom 源，实时或通过缓存阅读
