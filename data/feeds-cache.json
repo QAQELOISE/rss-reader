@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-21T05:08:55.244Z"
+      "lastFetched": "2026-06-21T10:02:01.578Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-21T05:09:15.157Z"
+      "lastFetched": "2026-06-21T10:02:13.272Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Google Hits 50% IPv6",
+        "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\">https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616800\">https://news.ycombinator.com/item?id=48616800</a></p>\n<p>Points: 73</p>\n<p># Comments: 46</p>",
+        "pubDate": "Sun, 21 Jun 2026 08:21:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48616800"
+      },
+      {
+        "title": "A 3D voxel game engine written in APL",
+        "link": "https://github.com/namgyaaal/avoxelgame",
+        "description": "<p>Article URL: <a href=\"https://github.com/namgyaaal/avoxelgame\">https://github.com/namgyaaal/avoxelgame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616713\">https://news.ycombinator.com/item?id=48616713</a></p>\n<p>Points: 36</p>\n<p># Comments: 6</p>",
+        "pubDate": "Sun, 21 Jun 2026 08:04:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48616713"
+      },
+      {
+        "title": "Windows UI evolution: Clicking an unassociated file",
+        "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+        "description": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html\">https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616173\">https://news.ycombinator.com/item?id=48616173</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 21 Jun 2026 06:24:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48616173"
+      },
+      {
+        "title": "The 100k Whys of AI",
+        "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "description": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/the-100000-whys-of-ai\">https://lcamtuf.substack.com/p/the-100000-whys-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616017\">https://news.ycombinator.com/item?id=48616017</a></p>\n<p>Points: 108</p>\n<p># Comments: 56</p>",
+        "pubDate": "Sun, 21 Jun 2026 05:45:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48616017"
+      },
+      {
+        "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+        "link": "https://spectrum.ieee.org/alan-turings-delilah",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/alan-turings-delilah\">https://spectrum.ieee.org/alan-turings-delilah</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615890\">https://news.ycombinator.com/item?id=48615890</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 21 Jun 2026 05:15:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48615890"
+      },
+      {
+        "title": "Building reliable agentic AI systems",
+        "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "description": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reliable-llm-bayer.html\">https://martinfowler.com/articles/reliable-llm-bayer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615680\">https://news.ycombinator.com/item?id=48615680</a></p>\n<p>Points: 105</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 21 Jun 2026 04:28:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48615680"
+      },
+      {
         "title": "Your brain was never designed for this much bad news",
         "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/06/260614012006.htm\">https://www.sciencedaily.com/releases/2026/06/260614012006.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615569\">https://news.ycombinator.com/item?id=48615569</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/06/260614012006.htm\">https://www.sciencedaily.com/releases/2026/06/260614012006.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615569\">https://news.ycombinator.com/item?id=48615569</a></p>\n<p>Points: 194</p>\n<p># Comments: 129</p>",
         "pubDate": "Sun, 21 Jun 2026 04:02:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48615569"
       },
       {
-        "title": "Armstrong Effect",
-        "link": "https://en.wikipedia.org/wiki/Armstrong_effect",
-        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Armstrong_effect\">https://en.wikipedia.org/wiki/Armstrong_effect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615529\">https://news.ycombinator.com/item?id=48615529</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 21 Jun 2026 03:54:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48615529"
-      },
-      {
         "title": "Developers don't understand CORS (2019)",
         "link": "https://fosterelli.co/developers-dont-understand-cors",
-        "description": "<p>Article URL: <a href=\"https://fosterelli.co/developers-dont-understand-cors\">https://fosterelli.co/developers-dont-understand-cors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614844\">https://news.ycombinator.com/item?id=48614844</a></p>\n<p>Points: 57</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://fosterelli.co/developers-dont-understand-cors\">https://fosterelli.co/developers-dont-understand-cors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614844\">https://news.ycombinator.com/item?id=48614844</a></p>\n<p>Points: 196</p>\n<p># Comments: 104</p>",
         "pubDate": "Sun, 21 Jun 2026 01:35:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=48614844"
       },
       {
         "title": "When I reject AI code even if it works",
         "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-        "description": "<p>Article URL: <a href=\"https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614631\">https://news.ycombinator.com/item?id=48614631</a></p>\n<p>Points: 103</p>\n<p># Comments: 64</p>",
+        "description": "<p>Article URL: <a href=\"https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614631\">https://news.ycombinator.com/item?id=48614631</a></p>\n<p>Points: 180</p>\n<p># Comments: 99</p>",
         "pubDate": "Sun, 21 Jun 2026 00:58:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=48614631"
       },
       {
         "title": "Project Fetch: Phase Two",
         "link": "https://www.anthropic.com/research/project-fetch-phase-two",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/project-fetch-phase-two\">https://www.anthropic.com/research/project-fetch-phase-two</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614311\">https://news.ycombinator.com/item?id=48614311</a></p>\n<p>Points: 50</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/project-fetch-phase-two\">https://www.anthropic.com/research/project-fetch-phase-two</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614311\">https://news.ycombinator.com/item?id=48614311</a></p>\n<p>Points: 59</p>\n<p># Comments: 21</p>",
         "pubDate": "Sun, 21 Jun 2026 00:00:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=48614311"
       },
       {
         "title": "Epoll vs. io_uring in Linux",
         "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-        "description": "<p>Article URL: <a href=\"https://sibexi.co/posts/epoll-vs-io_uring/\">https://sibexi.co/posts/epoll-vs-io_uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613872\">https://news.ycombinator.com/item?id=48613872</a></p>\n<p>Points: 98</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://sibexi.co/posts/epoll-vs-io_uring/\">https://sibexi.co/posts/epoll-vs-io_uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613872\">https://news.ycombinator.com/item?id=48613872</a></p>\n<p>Points: 165</p>\n<p># Comments: 37</p>",
         "pubDate": "Sat, 20 Jun 2026 23:07:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=48613872"
       },
       {
         "title": "Renting a sewing machine from the library",
         "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 165</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 231</p>\n<p># Comments: 121</p>",
         "pubDate": "Sat, 20 Jun 2026 22:54:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=48613755"
       },
       {
         "title": "Slow breathing modulates brain function and risk behavior",
         "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-        "description": "<p>Article URL: <a href=\"https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\">https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613555\">https://news.ycombinator.com/item?id=48613555</a></p>\n<p>Points: 108</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\">https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613555\">https://news.ycombinator.com/item?id=48613555</a></p>\n<p>Points: 207</p>\n<p># Comments: 50</p>",
         "pubDate": "Sat, 20 Jun 2026 22:22:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48613555"
       },
       {
         "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
         "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-        "description": "<p><a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=1a3746ccbb0a97bed3c06ccde6b880013b1dddc1\" rel=\"nofollow\">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612943\">https://news.ycombinator.com/item?id=48612943</a></p>\n<p>Points: 141</p>\n<p># Comments: 112</p>",
+        "description": "<p><a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=1a3746ccbb0a97bed3c06ccde6b880013b1dddc1\" rel=\"nofollow\">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612943\">https://news.ycombinator.com/item?id=48612943</a></p>\n<p>Points: 204</p>\n<p># Comments: 180</p>",
         "pubDate": "Sat, 20 Jun 2026 20:59:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=48612943"
       },
       {
         "title": "Alice is impatient",
         "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-        "description": "<p>Article URL: <a href=\"https://brooker.co.za/blog/2026/06/19/waiting.html\">https://brooker.co.za/blog/2026/06/19/waiting.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612740\">https://news.ycombinator.com/item?id=48612740</a></p>\n<p>Points: 72</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://brooker.co.za/blog/2026/06/19/waiting.html\">https://brooker.co.za/blog/2026/06/19/waiting.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612740\">https://news.ycombinator.com/item?id=48612740</a></p>\n<p>Points: 95</p>\n<p># Comments: 28</p>",
         "pubDate": "Sat, 20 Jun 2026 20:32:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=48612740"
       },
       {
         "title": "Unauthorized alert sent to cell phones across Brazil",
         "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam\">https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612502\">https://news.ycombinator.com/item?id=48612502</a></p>\n<p>Points: 108</p>\n<p># Comments: 82</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam\">https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612502\">https://news.ycombinator.com/item?id=48612502</a></p>\n<p>Points: 133</p>\n<p># Comments: 94</p>",
         "pubDate": "Sat, 20 Jun 2026 20:05:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48612502"
       },
       {
-        "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-        "link": "https://clickhouse.com/blog/postgresbench",
-        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/postgresbench\">https://clickhouse.com/blog/postgresbench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611942\">https://news.ycombinator.com/item?id=48611942</a></p>\n<p>Points: 91</p>\n<p># Comments: 22</p>",
-        "pubDate": "Sat, 20 Jun 2026 19:01:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48611942"
-      },
-      {
-        "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-        "link": "https://github.com/overflowy/make-look-scanned",
-        "description": "<p>I made this because the online \"make my PDF look scanned\" tools want you to upload your file to their servers, which feels sketchy at best. Also, I wasn't happy with the output they produce, I wanted something that looks realistic.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611513\">https://news.ycombinator.com/item?id=48611513</a></p>\n<p>Points: 99</p>\n<p># Comments: 49</p>",
-        "pubDate": "Sat, 20 Jun 2026 18:17:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48611513"
-      },
-      {
-        "title": "The Wholesale Plagiarism of Obscure Sorrows",
-        "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-        "description": "<p>Article URL: <a href=\"https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\">https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611411\">https://news.ycombinator.com/item?id=48611411</a></p>\n<p>Points: 349</p>\n<p># Comments: 141</p>",
-        "pubDate": "Sat, 20 Jun 2026 18:05:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48611411"
-      },
-      {
         "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
         "link": "https://www.lispm.net/apps/uhf-x11/",
-        "description": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 186</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 204</p>\n<p># Comments: 40</p>",
         "pubDate": "Sat, 20 Jun 2026 17:04:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48610853"
       },
       {
-        "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-        "link": "https://github.com/oven-sh/WebKit/pull/249",
-        "description": "<p>Article URL: <a href=\"https://github.com/oven-sh/WebKit/pull/249\">https://github.com/oven-sh/WebKit/pull/249</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610841\">https://news.ycombinator.com/item?id=48610841</a></p>\n<p>Points: 123</p>\n<p># Comments: 242</p>",
-        "pubDate": "Sat, 20 Jun 2026 17:02:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48610841"
-      },
-      {
         "title": "SMPTE Makes Its Standards Freely Accessible",
         "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-        "description": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 242</p>\n<p># Comments: 71</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 261</p>\n<p># Comments: 79</p>",
         "pubDate": "Sat, 20 Jun 2026 17:01:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=48610827"
       },
       {
-        "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
-        "link": "https://startupwiki.tech/",
-        "description": "<p>I've been building StartupWiki, a free startup database designed to make it easier to discover and research companies.<p>The original motivation was frustration with how difficult it can be to find information on early-stage startups. Most databases need accounts, or subscriptions, ro just feel too cluttered. I wanted a website that felt like Wikipedia, no accounts, no subscriptions, no weird metrics, just go in, the info is on the page.<p>The project is still very early, but currently includes:<p>Startup profiles\nSearch and filtering\nCompany categorization\nPublic API (in progress)<p>I'm especially interested in feedback on:<p>What information you look for when researching startups\nFeatures missing from existing startup databases\nAPI use cases<p>I'd love to hear feedback.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610224\">https://news.ycombinator.com/item?id=48610224</a></p>\n<p>Points: 178</p>\n<p># Comments: 57</p>",
-        "pubDate": "Sat, 20 Jun 2026 15:59:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48610224"
-      },
-      {
         "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
         "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-        "description": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 225</p>\n<p># Comments: 60</p>",
+        "description": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 252</p>\n<p># Comments: 65</p>",
         "pubDate": "Sat, 20 Jun 2026 15:10:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48609766"
       },
       {
         "title": "Loupe – A iOS app that raises awareness about what native apps can see",
         "link": "https://github.com/mysk-research/loupe",
-        "description": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 141</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 285</p>\n<p># Comments: 106</p>",
         "pubDate": "Sat, 20 Jun 2026 12:08:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=48608645"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-21T05:09:15.157Z",
+  "lastUpdated": "2026-06-21T10:02:13.272Z",
   "stats": {
     "feeds": 2,
     "articles": 20
