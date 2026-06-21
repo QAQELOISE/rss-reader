@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-20T19:49:17.463Z"
+      "lastFetched": "2026-06-21T05:08:55.244Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-20T19:49:25.907Z"
+      "lastFetched": "2026-06-21T05:09:15.157Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
-        "link": "https://mitchivin.com/",
-        "description": "<p>I posted my portfolio here about a year ago (<a href=\"https://news.ycombinator.com/item?id=45154609\">https://news.ycombinator.com/item?id=45154609</a>) and while there was a big response, it was very mixed! It'll probably be similar this time, but regardless of your thoughts about the concept, I think I've done a pretty good job creating one of the most nostalgic corners of the internet, especially with the latest additions.<p>It'll always be up for debate whether this is an effective way to get noticed as opposed to a standard, quick and easy portfolio, but I'll die on the hill that this is way more fun for both parties, every day of the week.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612095\">https://news.ycombinator.com/item?id=48612095</a></p>\n<p>Points: 8</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sat, 20 Jun 2026 19:18:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48612095"
+        "title": "Your brain was never designed for this much bad news",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/06/260614012006.htm\">https://www.sciencedaily.com/releases/2026/06/260614012006.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615569\">https://news.ycombinator.com/item?id=48615569</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 21 Jun 2026 04:02:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48615569"
+      },
+      {
+        "title": "Armstrong Effect",
+        "link": "https://en.wikipedia.org/wiki/Armstrong_effect",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Armstrong_effect\">https://en.wikipedia.org/wiki/Armstrong_effect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615529\">https://news.ycombinator.com/item?id=48615529</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 21 Jun 2026 03:54:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48615529"
+      },
+      {
+        "title": "Developers don't understand CORS (2019)",
+        "link": "https://fosterelli.co/developers-dont-understand-cors",
+        "description": "<p>Article URL: <a href=\"https://fosterelli.co/developers-dont-understand-cors\">https://fosterelli.co/developers-dont-understand-cors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614844\">https://news.ycombinator.com/item?id=48614844</a></p>\n<p>Points: 57</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sun, 21 Jun 2026 01:35:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48614844"
+      },
+      {
+        "title": "When I reject AI code even if it works",
+        "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+        "description": "<p>Article URL: <a href=\"https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614631\">https://news.ycombinator.com/item?id=48614631</a></p>\n<p>Points: 103</p>\n<p># Comments: 64</p>",
+        "pubDate": "Sun, 21 Jun 2026 00:58:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48614631"
+      },
+      {
+        "title": "Project Fetch: Phase Two",
+        "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/project-fetch-phase-two\">https://www.anthropic.com/research/project-fetch-phase-two</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614311\">https://news.ycombinator.com/item?id=48614311</a></p>\n<p>Points: 50</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sun, 21 Jun 2026 00:00:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48614311"
+      },
+      {
+        "title": "Epoll vs. io_uring in Linux",
+        "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+        "description": "<p>Article URL: <a href=\"https://sibexi.co/posts/epoll-vs-io_uring/\">https://sibexi.co/posts/epoll-vs-io_uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613872\">https://news.ycombinator.com/item?id=48613872</a></p>\n<p>Points: 98</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sat, 20 Jun 2026 23:07:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48613872"
+      },
+      {
+        "title": "Renting a sewing machine from the library",
+        "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 165</p>\n<p># Comments: 84</p>",
+        "pubDate": "Sat, 20 Jun 2026 22:54:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48613755"
+      },
+      {
+        "title": "Slow breathing modulates brain function and risk behavior",
+        "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+        "description": "<p>Article URL: <a href=\"https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\">https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613555\">https://news.ycombinator.com/item?id=48613555</a></p>\n<p>Points: 108</p>\n<p># Comments: 24</p>",
+        "pubDate": "Sat, 20 Jun 2026 22:22:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48613555"
+      },
+      {
+        "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+        "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+        "description": "<p><a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=1a3746ccbb0a97bed3c06ccde6b880013b1dddc1\" rel=\"nofollow\">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612943\">https://news.ycombinator.com/item?id=48612943</a></p>\n<p>Points: 141</p>\n<p># Comments: 112</p>",
+        "pubDate": "Sat, 20 Jun 2026 20:59:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48612943"
+      },
+      {
+        "title": "Alice is impatient",
+        "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+        "description": "<p>Article URL: <a href=\"https://brooker.co.za/blog/2026/06/19/waiting.html\">https://brooker.co.za/blog/2026/06/19/waiting.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612740\">https://news.ycombinator.com/item?id=48612740</a></p>\n<p>Points: 72</p>\n<p># Comments: 22</p>",
+        "pubDate": "Sat, 20 Jun 2026 20:32:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48612740"
+      },
+      {
+        "title": "Unauthorized alert sent to cell phones across Brazil",
+        "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam\">https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612502\">https://news.ycombinator.com/item?id=48612502</a></p>\n<p>Points: 108</p>\n<p># Comments: 82</p>",
+        "pubDate": "Sat, 20 Jun 2026 20:05:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48612502"
       },
       {
         "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
         "link": "https://clickhouse.com/blog/postgresbench",
-        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/postgresbench\">https://clickhouse.com/blog/postgresbench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611942\">https://news.ycombinator.com/item?id=48611942</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/postgresbench\">https://clickhouse.com/blog/postgresbench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611942\">https://news.ycombinator.com/item?id=48611942</a></p>\n<p>Points: 91</p>\n<p># Comments: 22</p>",
         "pubDate": "Sat, 20 Jun 2026 19:01:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=48611942"
       },
       {
-        "title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
-        "link": "https://github.com/confh/Tiny",
-        "description": "<p>Article URL: <a href=\"https://github.com/confh/Tiny\">https://github.com/confh/Tiny</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611857\">https://news.ycombinator.com/item?id=48611857</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 20 Jun 2026 18:53:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48611857"
-      },
-      {
         "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
         "link": "https://github.com/overflowy/make-look-scanned",
-        "description": "<p>Article URL: <a href=\"https://github.com/overflowy/make-look-scanned\">https://github.com/overflowy/make-look-scanned</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611513\">https://news.ycombinator.com/item?id=48611513</a></p>\n<p>Points: 13</p>\n<p># Comments: 8</p>",
+        "description": "<p>I made this because the online \"make my PDF look scanned\" tools want you to upload your file to their servers, which feels sketchy at best. Also, I wasn't happy with the output they produce, I wanted something that looks realistic.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611513\">https://news.ycombinator.com/item?id=48611513</a></p>\n<p>Points: 99</p>\n<p># Comments: 49</p>",
         "pubDate": "Sat, 20 Jun 2026 18:17:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=48611513"
       },
       {
         "title": "The Wholesale Plagiarism of Obscure Sorrows",
         "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-        "description": "<p>Article URL: <a href=\"https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\">https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611411\">https://news.ycombinator.com/item?id=48611411</a></p>\n<p>Points: 206</p>\n<p># Comments: 72</p>",
+        "description": "<p>Article URL: <a href=\"https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\">https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611411\">https://news.ycombinator.com/item?id=48611411</a></p>\n<p>Points: 349</p>\n<p># Comments: 141</p>",
         "pubDate": "Sat, 20 Jun 2026 18:05:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=48611411"
       },
       {
-        "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
-        "link": "https://news.ycombinator.com/item?id=48611303",
-        "description": "<p>I have a few projects on Github. I am receiving a lot of spam PRs and requests from vibe coders and bots. Most of them to prop up their profiles. The stars are obviously exaggerated too.<p>What other platforms are you using for your projects?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611303\">https://news.ycombinator.com/item?id=48611303</a></p>\n<p>Points: 30</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sat, 20 Jun 2026 17:52:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48611303"
-      },
-      {
-        "title": "The ability to regrow body parts is dormant in mammals, not lost",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/06/260617032207.htm\">https://www.sciencedaily.com/releases/2026/06/260617032207.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48611083\">https://news.ycombinator.com/item?id=48611083</a></p>\n<p>Points: 64</p>\n<p># Comments: 29</p>",
-        "pubDate": "Sat, 20 Jun 2026 17:27:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48611083"
-      },
-      {
         "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
         "link": "https://www.lispm.net/apps/uhf-x11/",
-        "description": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 67</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 186</p>\n<p># Comments: 32</p>",
         "pubDate": "Sat, 20 Jun 2026 17:04:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48610853"
       },
       {
         "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
         "link": "https://github.com/oven-sh/WebKit/pull/249",
-        "description": "<p>Article URL: <a href=\"https://github.com/oven-sh/WebKit/pull/249\">https://github.com/oven-sh/WebKit/pull/249</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610841\">https://news.ycombinator.com/item?id=48610841</a></p>\n<p>Points: 58</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/oven-sh/WebKit/pull/249\">https://github.com/oven-sh/WebKit/pull/249</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610841\">https://news.ycombinator.com/item?id=48610841</a></p>\n<p>Points: 123</p>\n<p># Comments: 242</p>",
         "pubDate": "Sat, 20 Jun 2026 17:02:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=48610841"
       },
       {
         "title": "SMPTE Makes Its Standards Freely Accessible",
         "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-        "description": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 94</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 242</p>\n<p># Comments: 71</p>",
         "pubDate": "Sat, 20 Jun 2026 17:01:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=48610827"
       },
       {
-        "title": "Ember, a native iOS Hacker News reader I built around accessibility",
-        "link": "https://github.com/DatanoiseTV/ember-hackernews",
-        "description": "<p>Article URL: <a href=\"https://github.com/DatanoiseTV/ember-hackernews\">https://github.com/DatanoiseTV/ember-hackernews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610816\">https://news.ycombinator.com/item?id=48610816</a></p>\n<p>Points: 58</p>\n<p># Comments: 13</p>",
-        "pubDate": "Sat, 20 Jun 2026 17:00:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48610816"
-      },
-      {
         "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
         "link": "https://startupwiki.tech/",
-        "description": "<p>I've been building StartupWiki, a free startup database designed to make it easier to discover and research companies.<p>The original motivation was frustration with how difficult it can be to find information on early-stage startups. Most databases need accounts, or subscriptions, ro just feel too cluttered. I wanted a website that felt like Wikipedia, no accounts, no subscriptions, no weird metrics, just go in, the info is on the page.<p>The project is still very early, but currently includes:<p>Startup profiles\nSearch and filtering\nCompany categorization\nPublic API (in progress)<p>I'm especially interested in feedback on:<p>What information you look for when researching startups\nFeatures missing from existing startup databases\nAPI use cases<p>I'd love to hear feedback.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610224\">https://news.ycombinator.com/item?id=48610224</a></p>\n<p>Points: 75</p>\n<p># Comments: 23</p>",
+        "description": "<p>I've been building StartupWiki, a free startup database designed to make it easier to discover and research companies.<p>The original motivation was frustration with how difficult it can be to find information on early-stage startups. Most databases need accounts, or subscriptions, ro just feel too cluttered. I wanted a website that felt like Wikipedia, no accounts, no subscriptions, no weird metrics, just go in, the info is on the page.<p>The project is still very early, but currently includes:<p>Startup profiles\nSearch and filtering\nCompany categorization\nPublic API (in progress)<p>I'm especially interested in feedback on:<p>What information you look for when researching startups\nFeatures missing from existing startup databases\nAPI use cases<p>I'd love to hear feedback.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610224\">https://news.ycombinator.com/item?id=48610224</a></p>\n<p>Points: 178</p>\n<p># Comments: 57</p>",
         "pubDate": "Sat, 20 Jun 2026 15:59:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=48610224"
       },
       {
         "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
         "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-        "description": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 102</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 225</p>\n<p># Comments: 60</p>",
         "pubDate": "Sat, 20 Jun 2026 15:10:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48609766"
       },
       {
-        "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
-        "link": "https://vawaa.com/",
-        "description": "<p>Article URL: <a href=\"https://vawaa.com/\">https://vawaa.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609553\">https://news.ycombinator.com/item?id=48609553</a></p>\n<p>Points: 43</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sat, 20 Jun 2026 14:40:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48609553"
-      },
-      {
-        "title": "Web Browsers on PDAS",
-        "link": "https://vale.rocks/posts/pda-browsers",
-        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/pda-browsers\">https://vale.rocks/posts/pda-browsers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609422\">https://news.ycombinator.com/item?id=48609422</a></p>\n<p>Points: 33</p>\n<p># Comments: 11</p>",
-        "pubDate": "Sat, 20 Jun 2026 14:20:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48609422"
-      },
-      {
-        "title": "VPN ban update for UK households as government looks at 'age-gate'",
-        "link": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-        "description": "<p>Article URL: <a href=\"https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063\">https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609385\">https://news.ycombinator.com/item?id=48609385</a></p>\n<p>Points: 233</p>\n<p># Comments: 243</p>",
-        "pubDate": "Sat, 20 Jun 2026 14:14:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48609385"
-      },
-      {
-        "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
-        "link": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
-        "description": "<p>Article URL: <a href=\"https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video\">https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609343\">https://news.ycombinator.com/item?id=48609343</a></p>\n<p>Points: 157</p>\n<p># Comments: 84</p>",
-        "pubDate": "Sat, 20 Jun 2026 14:08:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48609343"
-      },
-      {
-        "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-        "link": "https://www.argusred.com/cli",
-        "description": "<p>Anthropic and OpenAI's publicly available models are explicitly guard-railed so that they refuse offensive tasks. And their cyber-focussed models are gated for enterprises. This leaves SMEs and mid market open to major vulnerabilities.<p>AI can be used as both an adversarial and defensive tool in the world of cyber. A worst case outcome is if only the adversaries have access.<p>Meanwhile, most existing AI cyber tools are just wrappers. The problem is that they still have all the guardrails on from the foundation model where they will inherit its refusals.<p>For this project we've post-trained a specific model on a decade of capture-the-flag contests. This won't be made available to anyone and everyone, but we do believe that responsible SMEs and midmarket companies also need access to these tools in order to identify key vulnerabilities in their systems; not just enterprises.<p>We have developed two modes that run over a CLI:<p>• Security scan: a read-only audit of your local codebase for vulnerabilities. It only reports what it can tie to a specific file and line, so you're not wading through vibes-based findings.<p>• Pen test: an active adversarial mode that will try to break a live system in a sandboxed environment. It proves each vulnerability by running the exploit and showing the request it sent and the response your code gave back, not a confidence score. Currently gated.<p>To show what the scan does, we pointed it at Bank of Anthos and it found an integer overflow in the transfer path: amount is an int, and amount + fee can overflow negative, so the balance check passes and you move funds you don't have. Plus the usual auth and secrets issues. (Bank of Anthos is Google's open-source bank. It's a known app and some of it is intentionally weak, which is the point: you can clone it and re-run the scan yourself instead of trusting a screenshot)<p>The base model is a Kimi K2.6 (open weights). We didn't pretrain from scratch. We post-trained it ourselves, SFT on CTF writeups, then RL with verifiable rewards against actual exploit checks.<p>How the harness works:<p>Along with the model we built the harness to support this. The harness runs on a multi-agent swarm: an orchestrator splits the job across subagents running in parallel, each owning a slice, then synthesising one report.<p>The CLI is a local binary (brew/curl). It reads your code locally, then sends context to our inference API over TLS tcpdump it and you'll see exactly what leaves and where. Install is free; and you can run a scan for free up to 2m tokens, then need to pay for tokens beyond this.<p>For full disclosure this is a product part of Cosine (YC W23)<p>Up for debate: tool safety, e.g. domain verification is one method that proves control but not necessarily permission. How would you gate a pen-test tool given that?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609231\">https://news.ycombinator.com/item?id=48609231</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sat, 20 Jun 2026 13:49:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48609231"
-      },
-      {
-        "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\">https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609194\">https://news.ycombinator.com/item?id=48609194</a></p>\n<p>Points: 121</p>\n<p># Comments: 57</p>",
-        "pubDate": "Sat, 20 Jun 2026 13:44:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48609194"
-      },
-      {
-        "title": "The rise of South Korea’s weapons business",
-        "link": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
-        "description": "<p>Article URL: <a href=\"https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559\">https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608515\">https://news.ycombinator.com/item?id=48608515</a></p>\n<p>Points: 20</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sat, 20 Jun 2026 11:44:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48608515"
+        "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "link": "https://github.com/mysk-research/loupe",
+        "description": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 141</p>\n<p># Comments: 37</p>",
+        "pubDate": "Sat, 20 Jun 2026 12:08:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48608645"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-20T19:49:25.908Z",
+  "lastUpdated": "2026-06-21T05:09:15.157Z",
   "stats": {
     "feeds": 2,
     "articles": 20
