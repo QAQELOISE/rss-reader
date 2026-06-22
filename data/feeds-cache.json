@@ -5,113 +5,134 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-22T05:20:46.534Z"
+      "lastFetched": "2026-06-22T12:22:18.415Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-22T05:20:57.043Z"
+      "lastFetched": "2026-06-22T12:22:38.015Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Danish privacy activist Lars Andersen raided by police",
-        "link": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-        "description": "<p><a href=\"https://xcancel.com/LarsAnders1620/status/2068208864747540516#m\" rel=\"nofollow\">https://xcancel.com/LarsAnders1620/status/206820886474754051...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48625823\">https://news.ycombinator.com/item?id=48625823</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 22 Jun 2026 04:50:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48625823"
+        "title": "Britain's prime minister to step down, Burnham puts himself forward as successor",
+        "link": "https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/\">https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628605\">https://news.ycombinator.com/item?id=48628605</a></p>\n<p>Points: 24</p>\n<p># Comments: 16</p>",
+        "pubDate": "Mon, 22 Jun 2026 11:11:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48628605"
+      },
+      {
+        "title": "LLMs do not merely reflect the bias of their training, they police it",
+        "link": "https://twitter.com/brianroemmele/status/1991714955339657384",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/brianroemmele/status/1991714955339657384\">https://twitter.com/brianroemmele/status/1991714955339657384</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628450\">https://news.ycombinator.com/item?id=48628450</a></p>\n<p>Points: 24</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 22 Jun 2026 10:50:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48628450"
+      },
+      {
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "link": "https://github.com/openai/codex/issues/28224",
+        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28224\">https://github.com/openai/codex/issues/28224</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626930\">https://news.ycombinator.com/item?id=48626930</a></p>\n<p>Points: 153</p>\n<p># Comments: 80</p>",
+        "pubDate": "Mon, 22 Jun 2026 07:30:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48626930"
+      },
+      {
+        "title": "Investors get real-time view of UK bond market activity for the first time",
+        "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+        "description": "<p>Article URL: <a href=\"https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time\">https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626918\">https://news.ycombinator.com/item?id=48626918</a></p>\n<p>Points: 41</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 22 Jun 2026 07:29:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48626918"
+      },
+      {
+        "title": "GLM 5.2 vs. Opus",
+        "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+        "description": "<p>Article URL: <a href=\"https://techstackups.com/comparisons/glm-5.2-vs-opus/\">https://techstackups.com/comparisons/glm-5.2-vs-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626866\">https://news.ycombinator.com/item?id=48626866</a></p>\n<p>Points: 184</p>\n<p># Comments: 156</p>",
+        "pubDate": "Mon, 22 Jun 2026 07:22:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48626866"
+      },
+      {
+        "title": "Deno Desktop",
+        "link": "https://docs.deno.com/runtime/desktop/",
+        "description": "<p>Article URL: <a href=\"https://docs.deno.com/runtime/desktop/\">https://docs.deno.com/runtime/desktop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626137\">https://news.ycombinator.com/item?id=48626137</a></p>\n<p>Points: 538</p>\n<p># Comments: 203</p>",
+        "pubDate": "Mon, 22 Jun 2026 05:38:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48626137"
       },
       {
         "title": "Sakana Fugu",
         "link": "https://sakana.ai/fugu/",
-        "description": "<p>Article URL: <a href=\"https://sakana.ai/fugu/\">https://sakana.ai/fugu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624782\">https://news.ycombinator.com/item?id=48624782</a></p>\n<p>Points: 68</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://sakana.ai/fugu/\">https://sakana.ai/fugu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624782\">https://news.ycombinator.com/item?id=48624782</a></p>\n<p>Points: 138</p>\n<p># Comments: 82</p>",
         "pubDate": "Mon, 22 Jun 2026 02:08:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48624782"
       },
       {
         "title": "1983 Northern Telecom Commodore Phone",
         "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-        "description": "<p>Article URL: <a href=\"https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\">https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624114\">https://news.ycombinator.com/item?id=48624114</a></p>\n<p>Points: 38</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\">https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624114\">https://news.ycombinator.com/item?id=48624114</a></p>\n<p>Points: 64</p>\n<p># Comments: 21</p>",
         "pubDate": "Mon, 22 Jun 2026 00:34:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=48624114"
       },
       {
         "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
         "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-        "description": "<p>Article URL: <a href=\"https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\">https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623434\">https://news.ycombinator.com/item?id=48623434</a></p>\n<p>Points: 69</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\">https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623434\">https://news.ycombinator.com/item?id=48623434</a></p>\n<p>Points: 154</p>\n<p># Comments: 30</p>",
         "pubDate": "Sun, 21 Jun 2026 22:55:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=48623434"
       },
       {
         "title": "Japanese verb conjugation the simple hard way",
         "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
-        "description": "<p>Article URL: <a href=\"https://underreacted.leaflet.pub/3mmevu6woys27\">https://underreacted.leaflet.pub/3mmevu6woys27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623419\">https://news.ycombinator.com/item?id=48623419</a></p>\n<p>Points: 58</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://underreacted.leaflet.pub/3mmevu6woys27\">https://underreacted.leaflet.pub/3mmevu6woys27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623419\">https://news.ycombinator.com/item?id=48623419</a></p>\n<p>Points: 115</p>\n<p># Comments: 167</p>",
         "pubDate": "Sun, 21 Jun 2026 22:53:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=48623419"
       },
       {
         "title": "Rent collections are down in New York",
         "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-        "description": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\">https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622987\">https://news.ycombinator.com/item?id=48622987</a></p>\n<p>Points: 57</p>\n<p># Comments: 178</p>",
+        "description": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\">https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622987\">https://news.ycombinator.com/item?id=48622987</a></p>\n<p>Points: 95</p>\n<p># Comments: 384</p>",
         "pubDate": "Sun, 21 Jun 2026 21:54:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=48622987"
       },
       {
         "title": "Did my old job only exist because of fraud?",
         "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-        "description": "<p>Article URL: <a href=\"https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\">https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622867\">https://news.ycombinator.com/item?id=48622867</a></p>\n<p>Points: 370</p>\n<p># Comments: 161</p>",
+        "description": "<p>Article URL: <a href=\"https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\">https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622867\">https://news.ycombinator.com/item?id=48622867</a></p>\n<p>Points: 623</p>\n<p># Comments: 274</p>",
         "pubDate": "Sun, 21 Jun 2026 21:40:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=48622867"
       },
       {
-        "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-        "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/\">https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622788\">https://news.ycombinator.com/item?id=48622788</a></p>\n<p>Points: 156</p>\n<p># Comments: 83</p>",
-        "pubDate": "Sun, 21 Jun 2026 21:30:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48622788"
-      },
-      {
         "title": "Apertus – Open Foundation Model for Sovereign AI",
         "link": "https://apertvs.ai/",
-        "description": "<p>Article URL: <a href=\"https://apertvs.ai/\">https://apertvs.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622778\">https://news.ycombinator.com/item?id=48622778</a></p>\n<p>Points: 287</p>\n<p># Comments: 105</p>",
+        "description": "<p>Article URL: <a href=\"https://apertvs.ai/\">https://apertvs.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622778\">https://news.ycombinator.com/item?id=48622778</a></p>\n<p>Points: 436</p>\n<p># Comments: 141</p>",
         "pubDate": "Sun, 21 Jun 2026 21:29:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=48622778"
       },
       {
         "title": "PowerFox Browser",
         "link": "https://powerfox.jazzzny.me/",
-        "description": "<p>Article URL: <a href=\"https://powerfox.jazzzny.me/\">https://powerfox.jazzzny.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622731\">https://news.ycombinator.com/item?id=48622731</a></p>\n<p>Points: 102</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://powerfox.jazzzny.me/\">https://powerfox.jazzzny.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622731\">https://news.ycombinator.com/item?id=48622731</a></p>\n<p>Points: 145</p>\n<p># Comments: 40</p>",
         "pubDate": "Sun, 21 Jun 2026 21:23:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=48622731"
       },
       {
         "title": "Everything is logarithms",
         "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-        "description": "<p>Article URL: <a href=\"https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\">https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622626\">https://news.ycombinator.com/item?id=48622626</a></p>\n<p>Points: 166</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\">https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622626\">https://news.ycombinator.com/item?id=48622626</a></p>\n<p>Points: 243</p>\n<p># Comments: 50</p>",
         "pubDate": "Sun, 21 Jun 2026 21:10:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=48622626"
       },
       {
-        "title": "Show HN: Recall – Local project memory for Claude Code",
-        "link": "https://github.com/raiyanyahya/recall",
-        "description": "<p>Article URL: <a href=\"https://github.com/raiyanyahya/recall\">https://github.com/raiyanyahya/recall</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622590\">https://news.ycombinator.com/item?id=48622590</a></p>\n<p>Points: 93</p>\n<p># Comments: 61</p>",
-        "pubDate": "Sun, 21 Jun 2026 21:05:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48622590"
-      },
-      {
         "title": "There is minimal downside to switching to open models",
         "link": "https://www.marble.onl/posts/cancel_claude.html",
-        "description": "<p>Article URL: <a href=\"https://www.marble.onl/posts/cancel_claude.html\">https://www.marble.onl/posts/cancel_claude.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622518\">https://news.ycombinator.com/item?id=48622518</a></p>\n<p>Points: 124</p>\n<p># Comments: 72</p>",
+        "description": "<p>Article URL: <a href=\"https://www.marble.onl/posts/cancel_claude.html\">https://www.marble.onl/posts/cancel_claude.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622518\">https://news.ycombinator.com/item?id=48622518</a></p>\n<p>Points: 264</p>\n<p># Comments: 223</p>",
         "pubDate": "Sun, 21 Jun 2026 20:56:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48622518"
       },
       {
         "title": "JSON-LD explained for personal websites",
         "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-        "description": "<p>Article URL: <a href=\"https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\">https://hawksley.dev/blog/json-ld-explained-for-personal-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48621517\">https://news.ycombinator.com/item?id=48621517</a></p>\n<p>Points: 188</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\">https://hawksley.dev/blog/json-ld-explained-for-personal-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48621517\">https://news.ycombinator.com/item?id=48621517</a></p>\n<p>Points: 228</p>\n<p># Comments: 70</p>",
         "pubDate": "Sun, 21 Jun 2026 18:51:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=48621517"
       },
@@ -123,44 +144,23 @@
         "guid": "https://news.ycombinator.com/item?id=48620504"
       },
       {
-        "title": "The minimum viable unit of saleable software",
-        "link": "https://brandur.org/minimum-viable-unit",
-        "description": "<p>Article URL: <a href=\"https://brandur.org/minimum-viable-unit\">https://brandur.org/minimum-viable-unit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620342\">https://news.ycombinator.com/item?id=48620342</a></p>\n<p>Points: 146</p>\n<p># Comments: 56</p>",
-        "pubDate": "Sun, 21 Jun 2026 16:41:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48620342"
-      },
-      {
-        "title": "Prefer duplication over the wrong abstraction (2016)",
-        "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-        "description": "<p>Article URL: <a href=\"https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\">https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620090\">https://news.ycombinator.com/item?id=48620090</a></p>\n<p>Points: 449</p>\n<p># Comments: 302</p>",
-        "pubDate": "Sun, 21 Jun 2026 16:08:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48620090"
-      },
-      {
-        "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-        "link": "https://norvig.com/lispy.html",
-        "description": "<p>Article URL: <a href=\"https://norvig.com/lispy.html\">https://norvig.com/lispy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48619831\">https://news.ycombinator.com/item?id=48619831</a></p>\n<p>Points: 171</p>\n<p># Comments: 56</p>",
-        "pubDate": "Sun, 21 Jun 2026 15:36:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48619831"
-      },
-      {
         "title": "Show HN: Teach your kids perfect pitch",
         "link": "https://github.com/paytonjjones/bsharp",
-        "description": "<p>Article URL: <a href=\"https://github.com/paytonjjones/bsharp\">https://github.com/paytonjjones/bsharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618488\">https://news.ycombinator.com/item?id=48618488</a></p>\n<p>Points: 85</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/paytonjjones/bsharp\">https://github.com/paytonjjones/bsharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618488\">https://news.ycombinator.com/item?id=48618488</a></p>\n<p>Points: 154</p>\n<p># Comments: 96</p>",
         "pubDate": "Sun, 21 Jun 2026 12:49:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48618488"
       },
       {
         "title": "Identity verification on Claude",
         "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "description": "<p><a href=\"https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/\" rel=\"nofollow\">https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618455\">https://news.ycombinator.com/item?id=48618455</a></p>\n<p>Points: 657</p>\n<p># Comments: 555</p>",
+        "description": "<p><a href=\"https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/\" rel=\"nofollow\">https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618455\">https://news.ycombinator.com/item?id=48618455</a></p>\n<p>Points: 789</p>\n<p># Comments: 657</p>",
         "pubDate": "Sun, 21 Jun 2026 12:44:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=48618455"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-22T05:20:57.043Z",
+  "lastUpdated": "2026-06-22T12:22:38.015Z",
   "stats": {
     "feeds": 2,
     "articles": 20
