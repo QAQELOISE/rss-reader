@@ -5,18 +5,74 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-22T21:10:20.508Z"
+      "lastFetched": "2026-06-23T04:14:16.573Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-22T21:10:20.712Z"
+      "lastFetched": "2026-06-23T04:14:26.364Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
+      {
+        "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+        "link": "https://arxiv.org/abs/2606.03748",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.03748\">https://arxiv.org/abs/2606.03748</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639434\">https://news.ycombinator.com/item?id=48639434</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 23 Jun 2026 02:28:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48639434"
+      },
+      {
+        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+        "link": "https://arxiv.org/abs/2606.16140",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.16140\">https://arxiv.org/abs/2606.16140</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639240\">https://news.ycombinator.com/item?id=48639240</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+        "pubDate": "Tue, 23 Jun 2026 02:01:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48639240"
+      },
+      {
+        "title": "1,700 free online courses from top universities",
+        "link": "https://www.openculture.com/freeonlinecourses",
+        "description": "<p>Article URL: <a href=\"https://www.openculture.com/freeonlinecourses\">https://www.openculture.com/freeonlinecourses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639184\">https://news.ycombinator.com/item?id=48639184</a></p>\n<p>Points: 94</p>\n<p># Comments: 18</p>",
+        "pubDate": "Tue, 23 Jun 2026 01:54:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48639184"
+      },
+      {
+        "title": "An Introduction to YOLO26",
+        "link": "https://blog.roboflow.com/yolo26/",
+        "description": "<p>Article URL: <a href=\"https://blog.roboflow.com/yolo26/\">https://blog.roboflow.com/yolo26/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639165\">https://news.ycombinator.com/item?id=48639165</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 23 Jun 2026 01:52:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48639165"
+      },
+      {
+        "title": "SpaceX sheds $400B in market value as debut rally hits reverse",
+        "link": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4\">https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639057\">https://news.ycombinator.com/item?id=48639057</a></p>\n<p>Points: 42</p>\n<p># Comments: 30</p>",
+        "pubDate": "Tue, 23 Jun 2026 01:35:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48639057"
+      },
+      {
+        "title": "In praise of memcached",
+        "link": "https://jchri.st/blog/in-praise-of-memcached/",
+        "description": "<p>Article URL: <a href=\"https://jchri.st/blog/in-praise-of-memcached/\">https://jchri.st/blog/in-praise-of-memcached/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48638886\">https://news.ycombinator.com/item?id=48638886</a></p>\n<p>Points: 72</p>\n<p># Comments: 25</p>",
+        "pubDate": "Tue, 23 Jun 2026 01:15:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48638886"
+      },
+      {
+        "title": "ytr: YouTube Radio for Emacs",
+        "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+        "description": "<p>Article URL: <a href=\"https://xenodium.com/ytr-youtube-radio-for-emacs\">https://xenodium.com/ytr-youtube-radio-for-emacs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636380\">https://news.ycombinator.com/item?id=48636380</a></p>\n<p>Points: 70</p>\n<p># Comments: 8</p>",
+        "pubDate": "Mon, 22 Jun 2026 21:21:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48636380"
+      },
+      {
+        "title": "Runing GLM-5.2 on local hardware",
+        "link": "https://unsloth.ai/docs/models/glm-5.2",
+        "description": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/glm-5.2\">https://unsloth.ai/docs/models/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636377\">https://news.ycombinator.com/item?id=48636377</a></p>\n<p>Points: 240</p>\n<p># Comments: 110</p>",
+        "pubDate": "Mon, 22 Jun 2026 21:21:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48636377"
+      },
       {
         "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
         "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
@@ -25,88 +81,53 @@
         "guid": "https://news.ycombinator.com/item?id=48636125"
       },
       {
-        "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
-        "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
-        "description": "<p>Article URL: <a href=\"https://www.acquired.fm/episodes/the-walt-disney-company\">https://www.acquired.fm/episodes/the-walt-disney-company</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635409\">https://news.ycombinator.com/item?id=48635409</a></p>\n<p>Points: 27</p>\n<p># Comments: 17</p>",
-        "pubDate": "Mon, 22 Jun 2026 20:09:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48635409"
-      },
-      {
-        "title": "Jobs and Software Is Fucked",
-        "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-        "description": "<p>Article URL: <a href=\"https://urflow.bearblog.dev/jobs-and-software-is-fucked/\">https://urflow.bearblog.dev/jobs-and-software-is-fucked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635112\">https://news.ycombinator.com/item?id=48635112</a></p>\n<p>Points: 171</p>\n<p># Comments: 139</p>",
-        "pubDate": "Mon, 22 Jun 2026 19:47:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48635112"
+        "title": "Job application asked for my SAT scores",
+        "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+        "description": "<p>Article URL: <a href=\"https://mrmarket.lol/job-application-asked-for-my-sat-scores/\">https://mrmarket.lol/job-application-asked-for-my-sat-scores/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636062\">https://news.ycombinator.com/item?id=48636062</a></p>\n<p>Points: 105</p>\n<p># Comments: 264</p>",
+        "pubDate": "Mon, 22 Jun 2026 20:55:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48636062"
       },
       {
         "title": "Japanese symbols that speak without words",
         "link": "https://arun.is/blog/japan-symbols/",
-        "description": "<p>Article URL: <a href=\"https://arun.is/blog/japan-symbols/\">https://arun.is/blog/japan-symbols/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634803\">https://news.ycombinator.com/item?id=48634803</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://arun.is/blog/japan-symbols/\">https://arun.is/blog/japan-symbols/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634803\">https://news.ycombinator.com/item?id=48634803</a></p>\n<p>Points: 130</p>\n<p># Comments: 54</p>",
         "pubDate": "Mon, 22 Jun 2026 19:22:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=48634803"
       },
       {
         "title": "British Columbia, Time Zones, and Postgres",
         "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-        "description": "<p>Article URL: <a href=\"https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\">https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634787\">https://news.ycombinator.com/item?id=48634787</a></p>\n<p>Points: 47</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\">https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634787\">https://news.ycombinator.com/item?id=48634787</a></p>\n<p>Points: 123</p>\n<p># Comments: 80</p>",
         "pubDate": "Mon, 22 Jun 2026 19:21:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48634787"
       },
       {
         "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
         "link": "https://github.com/dorukkumkumoglu/optocamzero",
-        "description": "<p>Article URL: <a href=\"https://github.com/dorukkumkumoglu/optocamzero\">https://github.com/dorukkumkumoglu/optocamzero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634778\">https://news.ycombinator.com/item?id=48634778</a></p>\n<p>Points: 30</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/dorukkumkumoglu/optocamzero\">https://github.com/dorukkumkumoglu/optocamzero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634778\">https://news.ycombinator.com/item?id=48634778</a></p>\n<p>Points: 127</p>\n<p># Comments: 25</p>",
         "pubDate": "Mon, 22 Jun 2026 19:19:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48634778"
       },
       {
         "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
         "link": "https://ipvm.com/reports/police-chiefs-track",
-        "description": "<p>Article URL: <a href=\"https://ipvm.com/reports/police-chiefs-track\">https://ipvm.com/reports/police-chiefs-track</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634694\">https://news.ycombinator.com/item?id=48634694</a></p>\n<p>Points: 75</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://ipvm.com/reports/police-chiefs-track\">https://ipvm.com/reports/police-chiefs-track</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634694\">https://news.ycombinator.com/item?id=48634694</a></p>\n<p>Points: 428</p>\n<p># Comments: 170</p>",
         "pubDate": "Mon, 22 Jun 2026 19:13:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=48634694"
       },
       {
-        "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+        "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
         "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-        "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509\">https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634585\">https://news.ycombinator.com/item?id=48634585</a></p>\n<p>Points: 79</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509\">https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634585\">https://news.ycombinator.com/item?id=48634585</a></p>\n<p>Points: 370</p>\n<p># Comments: 222</p>",
         "pubDate": "Mon, 22 Jun 2026 19:06:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48634585"
       },
       {
-        "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
-        "link": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627\">https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634559\">https://news.ycombinator.com/item?id=48634559</a></p>\n<p>Points: 39</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 22 Jun 2026 19:04:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48634559"
-      },
-      {
-        "title": "Linux and Secure Boot certificate expiration (2025)",
-        "link": "https://lwn.net/Articles/1029767/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1029767/\">https://lwn.net/Articles/1029767/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48633941\">https://news.ycombinator.com/item?id=48633941</a></p>\n<p>Points: 58</p>\n<p># Comments: 27</p>",
-        "pubDate": "Mon, 22 Jun 2026 18:24:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48633941"
-      },
-      {
-        "title": "Finding the Best Dog Treat with Statistics",
-        "link": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-        "description": "<p>Article URL: <a href=\"https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html\">https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48633410\">https://news.ycombinator.com/item?id=48633410</a></p>\n<p>Points: 52</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 22 Jun 2026 17:46:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48633410"
-      },
-      {
         "title": "Steam Machine launches today",
         "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-        "description": "<p><a href=\"https://store.steampowered.com/sale/steammachine\" rel=\"nofollow\">https://store.steampowered.com/sale/steammachine</a><p><a href=\"https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...</a><p><a href=\"https://www.youtube.com/watch?v=66QzlDewigE\" rel=\"nofollow\">https://www.youtube.com/watch?v=66QzlDewigE</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632884\">https://news.ycombinator.com/item?id=48632884</a></p>\n<p>Points: 777</p>\n<p># Comments: 668</p>",
+        "description": "<p><a href=\"https://store.steampowered.com/sale/steammachine\" rel=\"nofollow\">https://store.steampowered.com/sale/steammachine</a><p><a href=\"https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...</a><p><a href=\"https://www.youtube.com/watch?v=66QzlDewigE\" rel=\"nofollow\">https://www.youtube.com/watch?v=66QzlDewigE</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632884\">https://news.ycombinator.com/item?id=48632884</a></p>\n<p>Points: 1323</p>\n<p># Comments: 1198</p>",
         "pubDate": "Mon, 22 Jun 2026 17:09:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=48632884"
-      },
-      {
-        "title": "Blogger defeats photographer's copyright claim",
-        "link": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
-        "description": "<p>Article URL: <a href=\"https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm\">https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632859\">https://news.ycombinator.com/item?id=48632859</a></p>\n<p>Points: 62</p>\n<p># Comments: 38</p>",
-        "pubDate": "Mon, 22 Jun 2026 17:06:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48632859"
       },
       {
         "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
@@ -116,51 +137,30 @@
         "guid": "https://news.ycombinator.com/item?id=48632792"
       },
       {
-        "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
-        "link": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
-        "description": "<p>Article URL: <a href=\"https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080\">https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632652\">https://news.ycombinator.com/item?id=48632652</a></p>\n<p>Points: 148</p>\n<p># Comments: 111</p>",
-        "pubDate": "Mon, 22 Jun 2026 16:48:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48632652"
-      },
-      {
-        "title": "DisplayMate",
-        "link": "https://www.displaymate.com/",
-        "description": "<p>Article URL: <a href=\"https://www.displaymate.com/\">https://www.displaymate.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632613\">https://news.ycombinator.com/item?id=48632613</a></p>\n<p>Points: 60</p>\n<p># Comments: 15</p>",
-        "pubDate": "Mon, 22 Jun 2026 16:45:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48632613"
-      },
-      {
         "title": "Prompt Injection as Role Confusion",
         "link": "https://role-confusion.github.io",
-        "description": "<p><a href=\"https://arxiv.org/abs/2603.12277\" rel=\"nofollow\">https://arxiv.org/abs/2603.12277</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631888\">https://news.ycombinator.com/item?id=48631888</a></p>\n<p>Points: 104</p>\n<p># Comments: 56</p>",
+        "description": "<p><a href=\"https://arxiv.org/abs/2603.12277\" rel=\"nofollow\">https://arxiv.org/abs/2603.12277</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631888\">https://news.ycombinator.com/item?id=48631888</a></p>\n<p>Points: 164</p>\n<p># Comments: 88</p>",
         "pubDate": "Mon, 22 Jun 2026 15:48:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48631888"
       },
       {
         "title": "Show HN: Oak – Git alternative designed for agents",
         "link": "https://oak.space/oak/oak",
-        "description": "<p>Oak is a version control system I've been working on designed for agents (<a href=\"https://oak.space\" rel=\"nofollow\">https://oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn't waste you or your agents time. It should be fast, creative and fun to make things with agents.<p>Oak is still early in development. There's no Windows build and missing plenty of features (no CI, no issues, no comments). We still use GitHub Actions for building Oak now, but we've been fully bootstrapped on Oak with no Git backup for several months: <a href=\"https://oak.space/oak/oak\" rel=\"nofollow\">https://oak.space/oak/oak</a>.<p>Blog post: <a href=\"https://oak.space/blog#git-is-forever\" rel=\"nofollow\">https://oak.space/blog#git-is-forever</a><p>Docs: <a href=\"https://oak.space/docs\" rel=\"nofollow\">https://oak.space/docs</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631726\">https://news.ycombinator.com/item?id=48631726</a></p>\n<p>Points: 102</p>\n<p># Comments: 111</p>",
+        "description": "<p>Oak is a version control system I've been working on designed for agents (<a href=\"https://oak.space\" rel=\"nofollow\">https://oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn't waste you or your agents time. It should be fast, creative and fun to make things with agents.<p>Oak is still early in development. There's no Windows build and missing plenty of features (no CI, no issues, no comments). We still use GitHub Actions for building Oak now, but we've been fully bootstrapped on Oak with no Git backup for several months: <a href=\"https://oak.space/oak/oak\" rel=\"nofollow\">https://oak.space/oak/oak</a>.<p>Blog post: <a href=\"https://oak.space/blog#git-is-forever\" rel=\"nofollow\">https://oak.space/blog#git-is-forever</a><p>Docs: <a href=\"https://oak.space/docs\" rel=\"nofollow\">https://oak.space/docs</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631726\">https://news.ycombinator.com/item?id=48631726</a></p>\n<p>Points: 161</p>\n<p># Comments: 154</p>",
         "pubDate": "Mon, 22 Jun 2026 15:37:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48631726"
       },
       {
-        "title": "The text in Claude Code’s “Extended Thinking” output",
-        "link": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-        "description": "<p>Article URL: <a href=\"https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/\">https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48630535\">https://news.ycombinator.com/item?id=48630535</a></p>\n<p>Points: 237</p>\n<p># Comments: 170</p>",
-        "pubDate": "Mon, 22 Jun 2026 14:22:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48630535"
-      },
-      {
         "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
         "link": "https://hustvl.github.io/Moebius/",
-        "description": "<p>Article URL: <a href=\"https://hustvl.github.io/Moebius/\">https://hustvl.github.io/Moebius/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48630171\">https://news.ycombinator.com/item?id=48630171</a></p>\n<p>Points: 179</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"https://hustvl.github.io/Moebius/\">https://hustvl.github.io/Moebius/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48630171\">https://news.ycombinator.com/item?id=48630171</a></p>\n<p>Points: 251</p>\n<p># Comments: 65</p>",
         "pubDate": "Mon, 22 Jun 2026 13:53:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=48630171"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-22T21:10:20.712Z",
+  "lastUpdated": "2026-06-23T04:14:26.364Z",
   "stats": {
     "feeds": 2,
     "articles": 20
