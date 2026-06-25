@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-25T09:37:59.447Z"
+      "lastFetched": "2026-06-25T14:53:52.185Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-25T09:38:08.454Z"
+      "lastFetched": "2026-06-25T14:54:11.750Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-        "link": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-        "description": "<p>Article URL: <a href=\"https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported\">https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670411\">https://news.ycombinator.com/item?id=48670411</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 25 Jun 2026 08:07:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48670411"
+        "title": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
+        "link": "https://news.ycombinator.com/item?id=48673801",
+        "description": "<p>From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.<p>I'm considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.<p>What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking/payment issues, tax complications, or other operational challenges you didn't anticipate?<p>How easy has it been to run the company remotely? Have you ever needed to travel to Estonia to resolve an issue?<p>Looking back, would you do it again? What do you wish you had known before getting started?<p>I'd appreciate any lessons learned, gotchas, or advice from current or former e-residents.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673801\">https://news.ycombinator.com/item?id=48673801</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 25 Jun 2026 14:17:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48673801"
+      },
+      {
+        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+        "link": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+        "description": "<p>Article URL: <a href=\"https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html\">https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673787\">https://news.ycombinator.com/item?id=48673787</a></p>\n<p>Points: 46</p>\n<p># Comments: 9</p>",
+        "pubDate": "Thu, 25 Jun 2026 14:16:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48673787"
+      },
+      {
+        "title": "Tell HN: OpenAI has started putting ads on paid programs",
+        "link": "https://news.ycombinator.com/item?id=48673194",
+        "description": "<p>I was on the £6.99/month program-- mainly because I didnt use it much. Last few days I've started seeing ads:<p>1. Ad for Financial Times\n2. Add for Shein\n3. Add for Amazon prime day<p>All 3 were on a chat where I was asking about tips on a mobile game.<p>Needless to say, I cancelled my plan. Im not paying money to see ads</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673194\">https://news.ycombinator.com/item?id=48673194</a></p>\n<p>Points: 22</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 25 Jun 2026 13:37:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48673194"
+      },
+      {
+        "title": "Countries are competing to see which can carry out mass surveillance the best",
+        "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+        "description": "<p>Article URL: <a href=\"https://mullvad.net/en/why-privacy-matters/state-mass-surveillance\">https://mullvad.net/en/why-privacy-matters/state-mass-surveillance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48672764\">https://news.ycombinator.com/item?id=48672764</a></p>\n<p>Points: 191</p>\n<p># Comments: 62</p>",
+        "pubDate": "Thu, 25 Jun 2026 13:07:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48672764"
+      },
+      {
+        "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+        "link": "https://github.com/Fran314/secrets-manager-rs",
+        "description": "<p>This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.<p>It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).<p>I have summed up a bit of explanation and some answers to reasonable questions in a blog post: <a href=\"https://baldino.dev/blog/secs-man/\" rel=\"nofollow\">https://baldino.dev/blog/secs-man/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48672389\">https://news.ycombinator.com/item?id=48672389</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 25 Jun 2026 12:30:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48672389"
+      },
+      {
+        "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+        "link": "https://lingochunk.com/try",
+        "description": "<p>Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds their base forms (lemmas) and groups the examples by the lemma. At some point I realised that I have a transcription with word level timestamps that opens a lot of other opportunities. So I added a mode to click the first and last word in the transcript and it starts looping with the right gap and repeat count.<p>Another feature I use a lot is selecting an audio fragment, sending a predefined prompt to an AI to \"explain grammar\" or \"explain nuances of meaning\" and I still experimenting with prompts.<p>And because shadowing is so easy I also use it as a player to improve my English pronunciation. (I am not a native English speaker.)<p>I made a quick video showing the workflow for creating Anki cards and shadowing: <a href=\"https://youtu.be/TaR58uuDBvU?si=o5aGLAi2S-BZ7Zy9\" rel=\"nofollow\">https://youtu.be/TaR58uuDBvU?si=o5aGLAi2S-BZ7Zy9</a><p>The app supports 15 input languages (Japanese and Chinese are the latest experimental additions), and more than 30 output languages.<p>I would really appreciate it if you could try it <a href=\"https://lingochunk.com/try\" rel=\"nofollow\">https://lingochunk.com/try</a>. I know there are other tools with similar functionality but I created something that fits my workflow and it is fun to build.<p>Also I struggled to find public domain audio for the try page. I'd be grateful if anyone could point me to public domain sources (I used LibriVox, Wikimedia and FSI courses), or if you're a creator, let me feature some of your own recordings with credits and links.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48671886\">https://news.ycombinator.com/item?id=48671886</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
+        "pubDate": "Thu, 25 Jun 2026 11:29:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48671886"
+      },
+      {
+        "title": "LastPass notifies users of yet another data breach",
+        "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+        "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/\">https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48671468\">https://news.ycombinator.com/item?id=48671468</a></p>\n<p>Points: 218</p>\n<p># Comments: 100</p>",
+        "pubDate": "Thu, 25 Jun 2026 10:28:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48671468"
+      },
+      {
+        "title": "Dolphin Emulator Progress Release 2606",
+        "link": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+        "description": "<p>Article URL: <a href=\"https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/\">https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48671392\">https://news.ycombinator.com/item?id=48671392</a></p>\n<p>Points: 175</p>\n<p># Comments: 23</p>",
+        "pubDate": "Thu, 25 Jun 2026 10:20:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48671392"
       },
       {
         "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
         "link": "https://utaw.tech/news/wikipedia-recognition",
-        "description": "<p>Article URL: <a href=\"https://utaw.tech/news/wikipedia-recognition\">https://utaw.tech/news/wikipedia-recognition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669932\">https://news.ycombinator.com/item?id=48669932</a></p>\n<p>Points: 61</p>\n<p># Comments: 48</p>",
+        "description": "<p>Article URL: <a href=\"https://utaw.tech/news/wikipedia-recognition\">https://utaw.tech/news/wikipedia-recognition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669932\">https://news.ycombinator.com/item?id=48669932</a></p>\n<p>Points: 157</p>\n<p># Comments: 155</p>",
         "pubDate": "Thu, 25 Jun 2026 07:02:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=48669932"
       },
       {
         "title": "Half-Life 2 in a Browser",
         "link": "https://hl2.slqnt.dev/",
-        "description": "<p>Article URL: <a href=\"https://hl2.slqnt.dev/\">https://hl2.slqnt.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669534\">https://news.ycombinator.com/item?id=48669534</a></p>\n<p>Points: 211</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://hl2.slqnt.dev/\">https://hl2.slqnt.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669534\">https://news.ycombinator.com/item?id=48669534</a></p>\n<p>Points: 453</p>\n<p># Comments: 185</p>",
         "pubDate": "Thu, 25 Jun 2026 06:00:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=48669534"
       },
       {
-        "title": "The Unbearable Cheapness of Open Weight Models",
-        "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-        "description": "<p>Article URL: <a href=\"https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/\">https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668255\">https://news.ycombinator.com/item?id=48668255</a></p>\n<p>Points: 64</p>\n<p># Comments: 44</p>",
-        "pubDate": "Thu, 25 Jun 2026 02:51:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48668255"
-      },
-      {
         "title": "Medical students are using popular research tool to pump out misleading studies",
         "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\">https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668119\">https://news.ycombinator.com/item?id=48668119</a></p>\n<p>Points: 51</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\">https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668119\">https://news.ycombinator.com/item?id=48668119</a></p>\n<p>Points: 106</p>\n<p># Comments: 62</p>",
         "pubDate": "Thu, 25 Jun 2026 02:30:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48668119"
       },
       {
         "title": "Cloudflare launched self-managed OAuth for all",
         "link": "https://blog.cloudflare.com/oauth-for-all/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/oauth-for-all/\">https://blog.cloudflare.com/oauth-for-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668033\">https://news.ycombinator.com/item?id=48668033</a></p>\n<p>Points: 158</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/oauth-for-all/\">https://blog.cloudflare.com/oauth-for-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668033\">https://news.ycombinator.com/item?id=48668033</a></p>\n<p>Points: 261</p>\n<p># Comments: 113</p>",
         "pubDate": "Thu, 25 Jun 2026 02:18:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=48668033"
       },
       {
-        "title": "Zombie unicorns are haunting Silicon Valley",
-        "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-        "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley\">https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668020\">https://news.ycombinator.com/item?id=48668020</a></p>\n<p>Points: 97</p>\n<p># Comments: 47</p>",
-        "pubDate": "Thu, 25 Jun 2026 02:16:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48668020"
-      },
-      {
-        "title": "Mixing Visual and Textual Code",
-        "link": "https://arxiv.org/abs/2603.15855",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.15855\">https://arxiv.org/abs/2603.15855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667560\">https://news.ycombinator.com/item?id=48667560</a></p>\n<p>Points: 49</p>\n<p># Comments: 18</p>",
-        "pubDate": "Thu, 25 Jun 2026 01:11:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48667560"
-      },
-      {
         "title": "LuaJIT 3.0 proposed syntax extensions",
         "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-        "description": "<p>Article URL: <a href=\"https://github.com/LuaJIT/LuaJIT/issues/1475\">https://github.com/LuaJIT/LuaJIT/issues/1475</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667336\">https://news.ycombinator.com/item?id=48667336</a></p>\n<p>Points: 154</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/LuaJIT/LuaJIT/issues/1475\">https://github.com/LuaJIT/LuaJIT/issues/1475</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667336\">https://news.ycombinator.com/item?id=48667336</a></p>\n<p>Points: 193</p>\n<p># Comments: 112</p>",
         "pubDate": "Thu, 25 Jun 2026 00:41:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=48667336"
       },
       {
         "title": "Blogging can just be stating the obvious",
         "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666927\">https://news.ycombinator.com/item?id=48666927</a></p>\n<p>Points: 227</p>\n<p># Comments: 78</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666927\">https://news.ycombinator.com/item?id=48666927</a></p>\n<p>Points: 340</p>\n<p># Comments: 108</p>",
         "pubDate": "Wed, 24 Jun 2026 23:46:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=48666927"
       },
       {
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\">https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664814\">https://news.ycombinator.com/item?id=48664814</a></p>\n<p>Points: 407</p>\n<p># Comments: 697</p>",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\">https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664814\">https://news.ycombinator.com/item?id=48664814</a></p>\n<p>Points: 604</p>\n<p># Comments: 974</p>",
         "pubDate": "Wed, 24 Jun 2026 19:48:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48664814"
       },
       {
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "description": "<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 698</p>\n<p># Comments: 390</p>",
+        "description": "<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 762</p>\n<p># Comments: 437</p>",
         "pubDate": "Wed, 24 Jun 2026 17:47:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48663324"
       },
       {
         "title": "Computer use in Gemini 3.5 Flash",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 217</p>\n<p># Comments: 138</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 232</p>\n<p># Comments: 155</p>",
         "pubDate": "Wed, 24 Jun 2026 17:21:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=48662999"
       },
       {
         "title": "The Xteink X4 E-Ink Reader",
         "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-        "description": "<p>Article URL: <a href=\"https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\">https://blog.omgmog.net/post/xteink-x4-e-ink-reader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662381\">https://news.ycombinator.com/item?id=48662381</a></p>\n<p>Points: 248</p>\n<p># Comments: 140</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\">https://blog.omgmog.net/post/xteink-x4-e-ink-reader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662381\">https://news.ycombinator.com/item?id=48662381</a></p>\n<p>Points: 289</p>\n<p># Comments: 170</p>",
         "pubDate": "Wed, 24 Jun 2026 16:35:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=48662381"
       },
       {
         "title": "RubyLLM: A Ruby framework for all major AI providers",
         "link": "https://rubyllm.com/",
-        "description": "<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 387</p>\n<p># Comments: 68</p>",
+        "description": "<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 416</p>\n<p># Comments: 70</p>",
         "pubDate": "Wed, 24 Jun 2026 14:41:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48660711"
       },
       {
         "title": "PR spam today looks like email spam in the early 2000s",
         "link": "https://www.greptile.com/blog/prs-on-openclaw",
-        "description": "<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 219</p>\n<p># Comments: 127</p>",
+        "description": "<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 247</p>\n<p># Comments: 143</p>",
         "pubDate": "Wed, 24 Jun 2026 14:32:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48660579"
-      },
-      {
-        "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-        "link": "https://github.com/nubjs/nub",
-        "description": "<p>Colin here, creator of Nub. I’ve had the general shape of this in mind for years. Nub runs your code with stock `node`, augmented with a `--require` preload hook[0] that adds a transpiler (oxc-powered, packaged as a Node-API add-on), registers a module resolution hook[1], and injects polyfills as needed for APIs like `Worker`, `Temporal`, etc. All purely additive, your code ultimately runs using Node’s actual engine & stdlib implementations.<p>[0] <a href=\"https://nodejs.org/api/cli.html#-require-module\" rel=\"nofollow\">https://nodejs.org/api/cli.html#-require-module</a><p>[1] <a href=\"https://nodejs.org/api/module.html#moduleregisterhooksoptions\" rel=\"nofollow\">https://nodejs.org/api/module.html#moduleregisterhooksoption...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660267\">https://news.ycombinator.com/item?id=48660267</a></p>\n<p>Points: 239</p>\n<p># Comments: 66</p>",
-        "pubDate": "Wed, 24 Jun 2026 14:14:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48660267"
-      },
-      {
-        "title": "45°C cooling design cuts data center water use to near zero",
-        "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-        "description": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/\">https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660178\">https://news.ycombinator.com/item?id=48660178</a></p>\n<p>Points: 328</p>\n<p># Comments: 219</p>",
-        "pubDate": "Wed, 24 Jun 2026 14:10:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48660178"
-      },
-      {
-        "title": "Qualcomm to Acquire Modular",
-        "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-        "description": "<p><a href=\"https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-to-Acquire-Modular/default.aspx\" rel=\"nofollow\">https://investor.qualcomm.com/news-events/press-releases/new...</a><p><a href=\"https://www.modular.com/blog/qualcomm-to-acquire-modular\" rel=\"nofollow\">https://www.modular.com/blog/qualcomm-to-acquire-modular</a><p><a href=\"https://x.com/clattner_llvm/status/2069769232477192354\" rel=\"nofollow\">https://x.com/clattner_llvm/status/2069769232477192354</a>, <a href=\"https://xcancel.com/clattner_llvm/status/2069769232477192354\" rel=\"nofollow\">https://xcancel.com/clattner_llvm/status/2069769232477192354</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659798\">https://news.ycombinator.com/item?id=48659798</a></p>\n<p>Points: 197</p>\n<p># Comments: 65</p>",
-        "pubDate": "Wed, 24 Jun 2026 13:49:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48659798"
-      },
-      {
-        "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
-        "link": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn",
-        "description": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48656219\">https://news.ycombinator.com/item?id=48656219</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 24 Jun 2026 07:01:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48656219"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-25T09:38:08.454Z",
+  "lastUpdated": "2026-06-25T14:54:11.750Z",
   "stats": {
     "feeds": 2,
     "articles": 20
