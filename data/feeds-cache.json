@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-24T19:59:09.610Z"
+      "lastFetched": "2026-06-25T04:17:15.817Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-24T19:59:29.338Z"
+      "lastFetched": "2026-06-25T04:17:24.689Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Thomann takes legal action against Fender",
-        "link": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
-        "description": "<p>Article URL: <a href=\"https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/\">https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664384\">https://news.ycombinator.com/item?id=48664384</a></p>\n<p>Points: 54</p>\n<p># Comments: 8</p>",
-        "pubDate": "Wed, 24 Jun 2026 19:08:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48664384"
+        "title": "Ask HN: Where is our profession (programmer) going?",
+        "link": "https://news.ycombinator.com/item?id=48668199",
+        "description": "<p>I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend's company to see what they were working on (15 ppl). To preface: I'm a heavy user of Claude (rarely write code by hand), but what I'm seeing in person has been rather shocking to me, and I wanted to calibrate with others.<p>In particular:\n- the code is not the source of truth anymore; it's ask claude to write, and ask claude to explain\n- LoC, abstractions, and all those \"software development principles\" does not seem to matter to people\n- Code review is not done by humans\n- Actually understanding the problem deeply seems to be offloaded to claude\n- Some developers are running like 5+ simultaneous claude sessions, and no code is being looked at\n- Explosion of llm-generated tests<p>First off, is this similar to what's going on at your company?<p>If this company is representative, it feels like software development is going from a precise occupation that requires high degree of understanding to something probabilistic and offloaded understanding (to eventually not an occupation at all honestly).<p>I'm interested to hear other folks' perspectives.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668199\">https://news.ycombinator.com/item?id=48668199</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+        "pubDate": "Thu, 25 Jun 2026 02:41:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48668199"
       },
       {
-        "title": "Wikipedia Workers to Seek Union Recognition",
-        "link": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
-        "description": "<p>Article URL: <a href=\"https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/\">https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663861\">https://news.ycombinator.com/item?id=48663861</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 24 Jun 2026 18:27:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48663861"
+        "title": "Medical students are using popular research tool to pump out misleading studies",
+        "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\">https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668119\">https://news.ycombinator.com/item?id=48668119</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 25 Jun 2026 02:30:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48668119"
       },
       {
-        "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-        "link": "https://posthog.com/blog/sql-parser",
-        "description": "<p>Article URL: <a href=\"https://posthog.com/blog/sql-parser\">https://posthog.com/blog/sql-parser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663544\">https://news.ycombinator.com/item?id=48663544</a></p>\n<p>Points: 39</p>\n<p># Comments: 7</p>",
-        "pubDate": "Wed, 24 Jun 2026 18:05:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48663544"
+        "title": "Cloudflare launched self-managed OAuth for all",
+        "link": "https://blog.cloudflare.com/oauth-for-all/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/oauth-for-all/\">https://blog.cloudflare.com/oauth-for-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668033\">https://news.ycombinator.com/item?id=48668033</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+        "pubDate": "Thu, 25 Jun 2026 02:18:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48668033"
+      },
+      {
+        "title": "Zombie unicorns are haunting Silicon Valley",
+        "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley\">https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668020\">https://news.ycombinator.com/item?id=48668020</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 25 Jun 2026 02:16:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48668020"
+      },
+      {
+        "title": "Writers and Drugs",
+        "link": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+        "description": "<p>Article URL: <a href=\"https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/\">https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667853\">https://news.ycombinator.com/item?id=48667853</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+        "pubDate": "Thu, 25 Jun 2026 01:50:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667853"
+      },
+      {
+        "title": "Bible as RAG Database",
+        "link": "https://www.crosscanon.com/",
+        "description": "<p>Article URL: <a href=\"https://www.crosscanon.com/\">https://www.crosscanon.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667807\">https://news.ycombinator.com/item?id=48667807</a></p>\n<p>Points: 59</p>\n<p># Comments: 35</p>",
+        "pubDate": "Thu, 25 Jun 2026 01:42:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667807"
+      },
+      {
+        "title": "Exploring the internal representations of Pangram 3.3.2",
+        "link": "https://www.pangram.com/pangram-space",
+        "description": "<p>Article URL: <a href=\"https://www.pangram.com/pangram-space\">https://www.pangram.com/pangram-space</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667761\">https://news.ycombinator.com/item?id=48667761</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 25 Jun 2026 01:36:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667761"
+      },
+      {
+        "title": "Ending All Respiratory Infections",
+        "link": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+        "description": "<p>Article URL: <a href=\"https://blog.interceptfund.com/p/ending-respiratory-infections\">https://blog.interceptfund.com/p/ending-respiratory-infections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667588\">https://news.ycombinator.com/item?id=48667588</a></p>\n<p>Points: 75</p>\n<p># Comments: 30</p>",
+        "pubDate": "Thu, 25 Jun 2026 01:14:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667588"
+      },
+      {
+        "title": "Mixing Visual and Textual Code",
+        "link": "https://arxiv.org/abs/2603.15855",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.15855\">https://arxiv.org/abs/2603.15855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667560\">https://news.ycombinator.com/item?id=48667560</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 25 Jun 2026 01:11:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667560"
+      },
+      {
+        "title": "What I'm Finding About LLM Code Style and Token Costs",
+        "link": "https://www.jimmont.com/llm-style-token-costs",
+        "description": "<p>Article URL: <a href=\"https://www.jimmont.com/llm-style-token-costs\">https://www.jimmont.com/llm-style-token-costs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667409\">https://news.ycombinator.com/item?id=48667409</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 25 Jun 2026 00:52:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667409"
+      },
+      {
+        "title": "LuaJIT 3.0 proposed syntax extensions",
+        "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "description": "<p>Article URL: <a href=\"https://github.com/LuaJIT/LuaJIT/issues/1475\">https://github.com/LuaJIT/LuaJIT/issues/1475</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667336\">https://news.ycombinator.com/item?id=48667336</a></p>\n<p>Points: 87</p>\n<p># Comments: 50</p>",
+        "pubDate": "Thu, 25 Jun 2026 00:41:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48667336"
+      },
+      {
+        "title": "Blogging can just be stating the obvious",
+        "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666927\">https://news.ycombinator.com/item?id=48666927</a></p>\n<p>Points: 114</p>\n<p># Comments: 45</p>",
+        "pubDate": "Wed, 24 Jun 2026 23:46:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48666927"
+      },
+      {
+        "title": "Elastic lays off 7% of employees",
+        "link": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+        "description": "<p>Article URL: <a href=\"https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees\">https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666100\">https://news.ycombinator.com/item?id=48666100</a></p>\n<p>Points: 160</p>\n<p># Comments: 144</p>",
+        "pubDate": "Wed, 24 Jun 2026 21:57:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48666100"
+      },
+      {
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\">https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664814\">https://news.ycombinator.com/item?id=48664814</a></p>\n<p>Points: 149</p>\n<p># Comments: 275</p>",
+        "pubDate": "Wed, 24 Jun 2026 19:48:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48664814"
       },
       {
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "description": "<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 222</p>\n<p># Comments: 171</p>",
+        "description": "<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 593</p>\n<p># Comments: 347</p>",
         "pubDate": "Wed, 24 Jun 2026 17:47:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48663324"
       },
       {
         "title": "Computer use in Gemini 3.5 Flash",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 83</p>\n<p># Comments: 41</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 189</p>\n<p># Comments: 118</p>",
         "pubDate": "Wed, 24 Jun 2026 17:21:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=48662999"
       },
       {
-        "title": "Big AI labs are hiring philosophers",
-        "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-        "description": "<p><a href=\"https://archive.is/T1FJG\" rel=\"nofollow\">https://archive.is/T1FJG</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662452\">https://news.ycombinator.com/item?id=48662452</a></p>\n<p>Points: 23</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 24 Jun 2026 16:40:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48662452"
-      },
-      {
-        "title": "I taught a bucket to speak Git",
-        "link": "https://www.tigrisdata.com/blog/objgit/",
-        "description": "<p>Article URL: <a href=\"https://www.tigrisdata.com/blog/objgit/\">https://www.tigrisdata.com/blog/objgit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48661938\">https://news.ycombinator.com/item?id=48661938</a></p>\n<p>Points: 57</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 24 Jun 2026 16:04:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48661938"
+        "title": "The Xteink X4 E-Ink Reader",
+        "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+        "description": "<p>Article URL: <a href=\"https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\">https://blog.omgmog.net/post/xteink-x4-e-ink-reader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662381\">https://news.ycombinator.com/item?id=48662381</a></p>\n<p>Points: 193</p>\n<p># Comments: 118</p>",
+        "pubDate": "Wed, 24 Jun 2026 16:35:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48662381"
       },
       {
         "title": "There are a few things that I look back on as my mistakes in the early days",
         "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-        "description": "<p><a href=\"https://xcancel.com/ID_AA_Carmack/status/2069799283369345247\" rel=\"nofollow\">https://xcancel.com/ID_AA_Carmack/status/2069799283369345247</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48661825\">https://news.ycombinator.com/item?id=48661825</a></p>\n<p>Points: 391</p>\n<p># Comments: 199</p>",
+        "description": "<p><a href=\"https://xcancel.com/ID_AA_Carmack/status/2069799283369345247\" rel=\"nofollow\">https://xcancel.com/ID_AA_Carmack/status/2069799283369345247</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48661825\">https://news.ycombinator.com/item?id=48661825</a></p>\n<p>Points: 505</p>\n<p># Comments: 252</p>",
         "pubDate": "Wed, 24 Jun 2026 15:56:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48661825"
       },
       {
-        "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
-        "link": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489\">https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48661535\">https://news.ycombinator.com/item?id=48661535</a></p>\n<p>Points: 123</p>\n<p># Comments: 46</p>",
-        "pubDate": "Wed, 24 Jun 2026 15:37:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48661535"
-      },
-      {
-        "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-        "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-        "description": "<p>Article URL: <a href=\"https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/\">https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660839\">https://news.ycombinator.com/item?id=48660839</a></p>\n<p>Points: 151</p>\n<p># Comments: 101</p>",
-        "pubDate": "Wed, 24 Jun 2026 14:50:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48660839"
-      },
-      {
         "title": "RubyLLM: A Ruby framework for all major AI providers",
         "link": "https://rubyllm.com/",
-        "description": "<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 265</p>\n<p># Comments: 40</p>",
+        "description": "<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 360</p>\n<p># Comments: 59</p>",
         "pubDate": "Wed, 24 Jun 2026 14:41:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48660711"
       },
       {
-        "title": "Running Windows Games on a Hobby OS with Wine",
-        "link": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-        "description": "<p>Article URL: <a href=\"https://astral-os.org/posts/2026/04/03/wine-on-astral.html\">https://astral-os.org/posts/2026/04/03/wine-on-astral.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660671\">https://news.ycombinator.com/item?id=48660671</a></p>\n<p>Points: 70</p>\n<p># Comments: 20</p>",
-        "pubDate": "Wed, 24 Jun 2026 14:38:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48660671"
-      },
-      {
         "title": "PR spam today looks like email spam in the early 2000s",
         "link": "https://www.greptile.com/blog/prs-on-openclaw",
-        "description": "<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 97</p>\n<p># Comments: 64</p>",
+        "description": "<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 191</p>\n<p># Comments: 112</p>",
         "pubDate": "Wed, 24 Jun 2026 14:32:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48660579"
-      },
-      {
-        "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-        "link": "https://github.com/nubjs/nub",
-        "description": "<p>Article URL: <a href=\"https://github.com/nubjs/nub\">https://github.com/nubjs/nub</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660267\">https://news.ycombinator.com/item?id=48660267</a></p>\n<p>Points: 153</p>\n<p># Comments: 38</p>",
-        "pubDate": "Wed, 24 Jun 2026 14:14:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48660267"
-      },
-      {
-        "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-        "link": "https://lookaway.com",
-        "description": "<p>Hello, I'm Kushagra and I am the indie developer behind LookAway (I've posted about it earlier but it has received quite a lot of updates since the last time so I am posting it again).<p>LookAway is a native break reminder for macOS that doesn't interrupt. I built it because I work from home and I spend a lot of time in front of my screens. It's very easy for me to get lost in the flow and I can end up sitting for hours. Due to this, I started facing issues like eye strain and back pain by the end of the day.<p>The solution to this was simply taking enough breaks throughout the day. But remembering to take breaks was difficult, especially when I was in the flow. I tried some reminder apps but the problem with those was that they always interrupted me at the worst moments. So I ended up not using them.<p>LookAway is designed not to interrupt. It gives enough heads up before a break so that you're not caught off-guard. It's also context-aware and it automatically pauses when you go into a meeting, start watching a video, record screen, and much more. It even waits for you to finish typing or dictating when a break is due.<p>One thing worth mentioning is the free iOS counterpart LookAway Mirror. When your Mac goes on a break, your iOS devices can also mirror the same break so you don't end up scrolling your phone screen during the Mac break.<p>I've spent a lot of time in making LookAway the least annoying break reminder app and I would love to know your thoughts. It's a native Swift app so it doesn't take much resources (150MB RAM and <1% CPU when idle).<p>It's available to download from the website (lookaway.com), Setapp, and the App Store. Thank you!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659483\">https://news.ycombinator.com/item?id=48659483</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 24 Jun 2026 13:29:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48659483"
-      },
-      {
-        "title": "Stealing Is a Skill",
-        "link": "https://ben-mini.com/2026/stealing-is-a-skill",
-        "description": "<p>Article URL: <a href=\"https://ben-mini.com/2026/stealing-is-a-skill\">https://ben-mini.com/2026/stealing-is-a-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659165\">https://news.ycombinator.com/item?id=48659165</a></p>\n<p>Points: 157</p>\n<p># Comments: 99</p>",
-        "pubDate": "Wed, 24 Jun 2026 13:08:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48659165"
-      },
-      {
-        "title": "NSA lost access to Mythos amid Anthropic dispute",
-        "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-        "description": "<p>Unlocked: <a href=\"https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html?unlocked_article_code=1.sVA.Xgol.aUCRzN6jvdv-&smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-acce...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48658300\">https://news.ycombinator.com/item?id=48658300</a></p>\n<p>Points: 143</p>\n<p># Comments: 107</p>",
-        "pubDate": "Wed, 24 Jun 2026 11:45:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48658300"
-      },
-      {
-        "title": "Too many R packages: CRAN is inundated with submissions",
-        "link": "https://rworks.dev/posts/too-many-R-packages/",
-        "description": "<p>Article URL: <a href=\"https://rworks.dev/posts/too-many-R-packages/\">https://rworks.dev/posts/too-many-R-packages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48657940\">https://news.ycombinator.com/item?id=48657940</a></p>\n<p>Points: 83</p>\n<p># Comments: 67</p>",
-        "pubDate": "Wed, 24 Jun 2026 10:59:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48657940"
-      },
-      {
-        "title": "We’re making Bunny DNS free",
-        "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-        "description": "<p>Article URL: <a href=\"https://bunny.net/blog/were-making-bunny-dns-free/\">https://bunny.net/blog/were-making-bunny-dns-free/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48657030\">https://news.ycombinator.com/item?id=48657030</a></p>\n<p>Points: 730</p>\n<p># Comments: 235</p>",
-        "pubDate": "Wed, 24 Jun 2026 08:50:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48657030"
-      },
-      {
-        "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
-        "link": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn",
-        "description": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48656219\">https://news.ycombinator.com/item?id=48656219</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 24 Jun 2026 07:01:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48656219"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-24T19:59:29.338Z",
+  "lastUpdated": "2026-06-25T04:17:24.689Z",
   "stats": {
     "feeds": 2,
     "articles": 20
