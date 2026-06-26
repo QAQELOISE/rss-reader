@@ -5,115 +5,115 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-26T09:44:50.937Z"
+      "lastFetched": "2026-06-26T14:41:05.720Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-26T09:44:59.803Z"
+      "lastFetched": "2026-06-26T14:41:15.133Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Why current LLM costs are not sustainable",
-        "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-        "description": "<p>Article URL: <a href=\"https://aditya.patadia.org/p/ai-and-cloud-costs\">https://aditya.patadia.org/p/ai-and-cloud-costs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48683588\">https://news.ycombinator.com/item?id=48683588</a></p>\n<p>Points: 80</p>\n<p># Comments: 86</p>",
-        "pubDate": "Fri, 26 Jun 2026 07:44:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48683588"
+        "title": "Why have papers by one of history's most famous physicists been retracted?",
+        "link": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted\">https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686834\">https://news.ycombinator.com/item?id=48686834</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 26 Jun 2026 14:10:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48686834"
       },
       {
-        "title": "Micron locks in historically high memory prices for five years",
-        "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854\">https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48683041\">https://news.ycombinator.com/item?id=48683041</a></p>\n<p>Points: 50</p>\n<p># Comments: 41</p>",
-        "pubDate": "Fri, 26 Jun 2026 06:27:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48683041"
+        "title": "The AI backlash is only getting started",
+        "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started\">https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686219\">https://news.ycombinator.com/item?id=48686219</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 26 Jun 2026 13:12:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48686219"
       },
       {
-        "title": "We All Depend on Open Source. We Will Defend It Together",
+        "title": "Incident CVE-2026-LGTM",
+        "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+        "description": "<p>Article URL: <a href=\"https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686093\">https://news.ycombinator.com/item?id=48686093</a></p>\n<p>Points: 63</p>\n<p># Comments: 15</p>",
+        "pubDate": "Fri, 26 Jun 2026 12:58:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48686093"
+      },
+      {
+        "title": "Ultrasound Imaging of the Brain",
+        "link": "https://alephneuro.com/blog/ultrasound-brain",
+        "description": "<p>Article URL: <a href=\"https://alephneuro.com/blog/ultrasound-brain\">https://alephneuro.com/blog/ultrasound-brain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48685558\">https://news.ycombinator.com/item?id=48685558</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 26 Jun 2026 11:51:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48685558"
+      },
+      {
+        "title": "We all depend on open source. We will defend it together",
         "link": "https://akrites.org/letter/",
-        "description": "<p>Article URL: <a href=\"https://akrites.org/letter/\">https://akrites.org/letter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48682737\">https://news.ycombinator.com/item?id=48682737</a></p>\n<p>Points: 88</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://akrites.org/letter/\">https://akrites.org/letter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48682737\">https://news.ycombinator.com/item?id=48682737</a></p>\n<p>Points: 350</p>\n<p># Comments: 167</p>",
         "pubDate": "Fri, 26 Jun 2026 05:40:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=48682737"
       },
       {
         "title": "Libre Barcode Project",
         "link": "https://graphicore.github.io/librebarcode/",
-        "description": "<p>Article URL: <a href=\"https://graphicore.github.io/librebarcode/\">https://graphicore.github.io/librebarcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681949\">https://news.ycombinator.com/item?id=48681949</a></p>\n<p>Points: 148</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://graphicore.github.io/librebarcode/\">https://graphicore.github.io/librebarcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681949\">https://news.ycombinator.com/item?id=48681949</a></p>\n<p>Points: 222</p>\n<p># Comments: 36</p>",
         "pubDate": "Fri, 26 Jun 2026 03:12:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48681949"
       },
       {
         "title": "What happened after 2k people tried to hack my AI assistant",
         "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
-        "description": "<p>Article URL: <a href=\"https://www.fernandoi.cl/posts/hackmyclaw/\">https://www.fernandoi.cl/posts/hackmyclaw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681687\">https://news.ycombinator.com/item?id=48681687</a></p>\n<p>Points: 150</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"https://www.fernandoi.cl/posts/hackmyclaw/\">https://www.fernandoi.cl/posts/hackmyclaw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681687\">https://news.ycombinator.com/item?id=48681687</a></p>\n<p>Points: 258</p>\n<p># Comments: 106</p>",
         "pubDate": "Fri, 26 Jun 2026 02:29:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=48681687"
       },
       {
         "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
         "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681220\">https://news.ycombinator.com/item?id=48681220</a></p>\n<p>Points: 163</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681220\">https://news.ycombinator.com/item?id=48681220</a></p>\n<p>Points: 245</p>\n<p># Comments: 134</p>",
         "pubDate": "Fri, 26 Jun 2026 01:10:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48681220"
       },
       {
         "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
         "link": "https://gchandbook.org/",
-        "description": "<p>Article URL: <a href=\"https://gchandbook.org/\">https://gchandbook.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48680370\">https://news.ycombinator.com/item?id=48680370</a></p>\n<p>Points: 138</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://gchandbook.org/\">https://gchandbook.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48680370\">https://news.ycombinator.com/item?id=48680370</a></p>\n<p>Points: 191</p>\n<p># Comments: 38</p>",
         "pubDate": "Thu, 25 Jun 2026 23:10:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=48680370"
       },
       {
         "title": "The 'papers, please' era of the internet will decimate your privacy",
         "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-        "description": "<p>Article URL: <a href=\"https://expression.fire.org/p/the-papers-please-era-of-the-internet\">https://expression.fire.org/p/the-papers-please-era-of-the-internet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679608\">https://news.ycombinator.com/item?id=48679608</a></p>\n<p>Points: 710</p>\n<p># Comments: 330</p>",
+        "description": "<p>Article URL: <a href=\"https://expression.fire.org/p/the-papers-please-era-of-the-internet\">https://expression.fire.org/p/the-papers-please-era-of-the-internet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679608\">https://news.ycombinator.com/item?id=48679608</a></p>\n<p>Points: 889</p>\n<p># Comments: 434</p>",
         "pubDate": "Thu, 25 Jun 2026 21:44:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48679608"
       },
       {
         "title": "Un-0: Generating Images with Coupled Oscillators",
         "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-        "description": "<p>Article URL: <a href=\"https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/\">https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679007\">https://news.ycombinator.com/item?id=48679007</a></p>\n<p>Points: 149</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/\">https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679007\">https://news.ycombinator.com/item?id=48679007</a></p>\n<p>Points: 170</p>\n<p># Comments: 41</p>",
         "pubDate": "Thu, 25 Jun 2026 20:50:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=48679007"
       },
       {
         "title": "Om Malik has died",
         "link": "https://om.co/2026/06/24/1966-2026/",
-        "description": "<p><a href=\"https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself\" rel=\"nofollow\">https://runtimewire.com/article/om-malik-taught-silicon-vall...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a></p>\n<p>Points: 886</p>\n<p># Comments: 100</p>",
+        "description": "<p><a href=\"https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself\" rel=\"nofollow\">https://runtimewire.com/article/om-malik-taught-silicon-vall...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a></p>\n<p>Points: 1090</p>\n<p># Comments: 128</p>",
         "pubDate": "Thu, 25 Jun 2026 20:33:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=48678852"
       },
       {
         "title": "An oral history of Bank Python (2021)",
         "link": "https://calpaterson.com/bank-python.html",
-        "description": "<p>Article URL: <a href=\"https://calpaterson.com/bank-python.html\">https://calpaterson.com/bank-python.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678645\">https://news.ycombinator.com/item?id=48678645</a></p>\n<p>Points: 116</p>\n<p># Comments: 36</p>",
+        "description": "<p>Article URL: <a href=\"https://calpaterson.com/bank-python.html\">https://calpaterson.com/bank-python.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678645\">https://news.ycombinator.com/item?id=48678645</a></p>\n<p>Points: 148</p>\n<p># Comments: 56</p>",
         "pubDate": "Thu, 25 Jun 2026 20:14:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48678645"
       },
       {
-        "title": "Parallel Parentheses Matching",
-        "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-        "description": "<p>Article URL: <a href=\"https://williamdue.github.io/blog/parallel-parentheses-matching\">https://williamdue.github.io/blog/parallel-parentheses-matching</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678623\">https://news.ycombinator.com/item?id=48678623</a></p>\n<p>Points: 86</p>\n<p># Comments: 10</p>",
-        "pubDate": "Thu, 25 Jun 2026 20:12:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48678623"
-      },
-      {
         "title": "The Doorman's Fallacy in action",
         "link": "https://rozumem.xyz/posts/17",
-        "description": "<p>Article URL: <a href=\"https://rozumem.xyz/posts/17\">https://rozumem.xyz/posts/17</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678495\">https://news.ycombinator.com/item?id=48678495</a></p>\n<p>Points: 113</p>\n<p># Comments: 152</p>",
+        "description": "<p>Article URL: <a href=\"https://rozumem.xyz/posts/17\">https://rozumem.xyz/posts/17</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678495\">https://news.ycombinator.com/item?id=48678495</a></p>\n<p>Points: 165</p>\n<p># Comments: 220</p>",
         "pubDate": "Thu, 25 Jun 2026 20:00:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48678495"
-      },
-      {
-        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-        "description": "<p>Giftlink: <a href=\"https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwNTU2MCwiZXhwIjoxNzgzMDEwMzYwLCJhcnRpY2xlSWQiOiJUSDM4OFJUOTZPU08wMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.3RpcTAgL-JUz9iWRQYzyWaSzoOhLU50chTDHkeU0GTI\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...</a><p>also <a href=\"https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai-focused-m7-line/ar-AA26xxES\" rel=\"nofollow\">https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48676795\">https://news.ycombinator.com/item?id=48676795</a></p>\n<p>Points: 257</p>\n<p># Comments: 249</p>",
-        "pubDate": "Thu, 25 Jun 2026 17:38:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48676795"
       },
       {
         "title": "Besimple AI (YC P25) Is Hiring",
@@ -125,42 +125,42 @@
       {
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "link": "https://github.com/inkeep/open-knowledge",
-        "description": "<p>Hi HN, Nick here. We’re launching OpenKnowledge (<a href=\"https://openknowledge.ai/\" rel=\"nofollow\">https://openknowledge.ai/</a>), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS.<p>We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/Codex outside of community plugins.<p>So we built OpenKnowledge. It takes shape as:<p>1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer.<p>2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience.<p>3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing<p>4. An embedded terminal and CLI for TUI-first users<p>OSS stack includes: Tiptap/prosemirror, CodeMirror, yjs (CRDT), Electron (MacOS app), Orama, remark/rehype/micromark/mdast, @pierre/trees<p>On the architecture side, the interesting eng. challenges included:<p>1. A pipeline to convert ProseMirror to markdown in a bidirectional lossless way. ProseMirror uses ASTs, which are not designed to have byte-fidelity.<p>2. A dual-observer CRDT to keep the ProseMirror and markdown state in-sync.<p>The CRDT + git also power a collaborative experience that shows what Agents are doing in the markdown, have undo/redo, and version history. The “Share” and cloud-sync functionality are geared for team collaboration. They feel “no-code” but leverage git/GitHub under the hood, which also means data stays fully private.<p>In that spirit, we made OpenKnowledge open source for anybody who’s curious or who’d like to contribute.<p>We’re actively thinking about plugins/extensibility and what’s next. If you have suggestions or feedback, would love to hear it.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675435\">https://news.ycombinator.com/item?id=48675435</a></p>\n<p>Points: 273</p>\n<p># Comments: 134</p>",
+        "description": "<p>Hi HN, Nick here. We’re launching OpenKnowledge (<a href=\"https://openknowledge.ai/\" rel=\"nofollow\">https://openknowledge.ai/</a>), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS.<p>We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/Codex outside of community plugins.<p>So we built OpenKnowledge. It takes shape as:<p>1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer.<p>2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience.<p>3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing<p>4. An embedded terminal and CLI for TUI-first users<p>OSS stack includes: Tiptap/prosemirror, CodeMirror, yjs (CRDT), Electron (MacOS app), Orama, remark/rehype/micromark/mdast, @pierre/trees<p>On the architecture side, the interesting eng. challenges included:<p>1. A pipeline to convert ProseMirror to markdown in a bidirectional lossless way. ProseMirror uses ASTs, which are not designed to have byte-fidelity.<p>2. A dual-observer CRDT to keep the ProseMirror and markdown state in-sync.<p>The CRDT + git also power a collaborative experience that shows what Agents are doing in the markdown, have undo/redo, and version history. The “Share” and cloud-sync functionality are geared for team collaboration. They feel “no-code” but leverage git/GitHub under the hood, which also means data stays fully private.<p>In that spirit, we made OpenKnowledge open source for anybody who’s curious or who’d like to contribute.<p>We’re actively thinking about plugins/extensibility and what’s next. If you have suggestions or feedback, would love to hear it.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675435\">https://news.ycombinator.com/item?id=48675435</a></p>\n<p>Points: 318</p>\n<p># Comments: 153</p>",
         "pubDate": "Thu, 25 Jun 2026 16:04:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=48675435"
       },
       {
         "title": "An entire Herculaneum scroll has been read for the first time",
         "link": "https://scrollprize.org/firstscroll",
-        "description": "<p>Preprint: <a href=\"https://scrollprize.org/pdf/main.pdf\" rel=\"nofollow\">https://scrollprize.org/pdf/main.pdf</a><p><a href=\"https://github.com/ScrollPrize/villa\" rel=\"nofollow\">https://github.com/ScrollPrize/villa</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675179\">https://news.ycombinator.com/item?id=48675179</a></p>\n<p>Points: 1298</p>\n<p># Comments: 273</p>",
+        "description": "<p>Preprint: <a href=\"https://scrollprize.org/pdf/main.pdf\" rel=\"nofollow\">https://scrollprize.org/pdf/main.pdf</a><p><a href=\"https://github.com/ScrollPrize/villa\" rel=\"nofollow\">https://github.com/ScrollPrize/villa</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675179\">https://news.ycombinator.com/item?id=48675179</a></p>\n<p>Points: 1466</p>\n<p># Comments: 308</p>",
         "pubDate": "Thu, 25 Jun 2026 15:48:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=48675179"
       },
       {
         "title": "IBM debuts sub-1 nanometer chip technology",
         "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-        "description": "<p>Article URL: <a href=\"https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\">https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674967\">https://news.ycombinator.com/item?id=48674967</a></p>\n<p>Points: 319</p>\n<p># Comments: 174</p>",
+        "description": "<p>Article URL: <a href=\"https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\">https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674967\">https://news.ycombinator.com/item?id=48674967</a></p>\n<p>Points: 353</p>\n<p># Comments: 190</p>",
         "pubDate": "Thu, 25 Jun 2026 15:33:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=48674967"
       },
       {
         "title": "OS9Map",
         "link": "https://yllan.org/software/OS9Map/",
-        "description": "<p>Article URL: <a href=\"https://yllan.org/software/OS9Map/\">https://yllan.org/software/OS9Map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674484\">https://news.ycombinator.com/item?id=48674484</a></p>\n<p>Points: 228</p>\n<p># Comments: 44</p>",
+        "description": "<p>Article URL: <a href=\"https://yllan.org/software/OS9Map/\">https://yllan.org/software/OS9Map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674484\">https://news.ycombinator.com/item?id=48674484</a></p>\n<p>Points: 248</p>\n<p># Comments: 47</p>",
         "pubDate": "Thu, 25 Jun 2026 15:01:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48674484"
       },
       {
         "title": "Zig's new bitCast semantics and LLVM back end improvements",
         "link": "https://ziglang.org/devlog/2026/#2026-06-25",
-        "description": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https://news.ycombinator.com/item?id=48673825</a></p>\n<p>Points: 238</p>\n<p># Comments: 120</p>",
+        "description": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https://news.ycombinator.com/item?id=48673825</a></p>\n<p>Points: 255</p>\n<p># Comments: 128</p>",
         "pubDate": "Thu, 25 Jun 2026 14:19:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48673825"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-26T09:44:59.803Z",
+  "lastUpdated": "2026-06-26T14:41:15.133Z",
   "stats": {
     "feeds": 2,
     "articles": 20
