@@ -5,92 +5,113 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-27T04:09:57.186Z"
+      "lastFetched": "2026-06-27T08:47:28.606Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-27T04:10:16.370Z"
+      "lastFetched": "2026-06-27T08:47:28.803Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Is America becoming a gerontocracy?",
+        "link": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy\">https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48695694\">https://news.ycombinator.com/item?id=48695694</a></p>\n<p>Points: 24</p>\n<p># Comments: 26</p>",
+        "pubDate": "Sat, 27 Jun 2026 06:22:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48695694"
+      },
+      {
+        "title": "IBM MCGA Gate Array Reverse Engineering",
+        "link": "https://github.com/schlae/IBM_MCGA",
+        "description": "<p>Article URL: <a href=\"https://github.com/schlae/IBM_MCGA\">https://github.com/schlae/IBM_MCGA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48695363\">https://news.ycombinator.com/item?id=48695363</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 27 Jun 2026 05:17:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48695363"
+      },
+      {
+        "title": "OpenTTD 16.0-Beta1",
+        "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+        "description": "<p>Article URL: <a href=\"https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1\">https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48695149\">https://news.ycombinator.com/item?id=48695149</a></p>\n<p>Points: 138</p>\n<p># Comments: 18</p>",
+        "pubDate": "Sat, 27 Jun 2026 04:31:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48695149"
+      },
+      {
         "title": "WordStar: A Writer's Word Processor (1996)",
         "link": "https://www.sfwriter.com/wordstar.htm",
-        "description": "<p>Article URL: <a href=\"https://www.sfwriter.com/wordstar.htm\">https://www.sfwriter.com/wordstar.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48694853\">https://news.ycombinator.com/item?id=48694853</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sfwriter.com/wordstar.htm\">https://www.sfwriter.com/wordstar.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48694853\">https://news.ycombinator.com/item?id=48694853</a></p>\n<p>Points: 77</p>\n<p># Comments: 32</p>",
         "pubDate": "Sat, 27 Jun 2026 03:30:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48694853"
       },
       {
-        "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
-        "link": "https://news.ycombinator.com/item?id=48694802",
-        "description": "<p>For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48694802\">https://news.ycombinator.com/item?id=48694802</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
-        "pubDate": "Sat, 27 Jun 2026 03:17:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48694802"
+        "title": "Anatomy of a Failed (Nation-State?) Attack",
+        "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+        "description": "<p>Article URL: <a href=\"https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/\">https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48694631\">https://news.ycombinator.com/item?id=48694631</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
+        "pubDate": "Sat, 27 Jun 2026 02:41:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48694631"
       },
       {
         "title": "Show HN: Hacker News on a train station-style flip board",
         "link": "https://popflame.quickish.space/hn-flipboard/",
-        "description": "<p>Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter (X) are what inspired me.<p>The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publish their own version. This is that all in action and it worked great. I wrote a blog about it (the blog is dogfooding, it's just an app hosted on quickish that uses the built in db lib).<p>For the HN version of this flip board I use their firebase api via the built in quickish server functions that make use of the fact that the front-end can get realtime updates (now that you mention firebase) from cloud function db updates. Of course that's over-kill but I wanted to show something fun. You can remix and host your own version for free, just need a google oauth login that's it.<p>OG flip board I built (Portland Based - Current Weather): <a href=\"https://popflame.quickish.space/flipboard-preview\" rel=\"nofollow\">https://popflame.quickish.space/flipboard-preview</a><p>Blog post that dives a tiny bit deeper: <a href=\"https://popflame.quickish.space/blog/hacker-news-on-a-split-flap-board/\" rel=\"nofollow\">https://popflame.quickish.space/blog/hacker-news-on-a-split-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693912\">https://news.ycombinator.com/item?id=48693912</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+        "description": "<p>Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter (X) are what inspired me.<p>The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publish their own version. This is that all in action and it worked great. I wrote a blog about it (the blog is dogfooding, it's just an app hosted on quickish that uses the built in db lib).<p>For the HN version of this flip board I use their firebase api via the built in quickish server functions that make use of the fact that the front-end can get realtime updates (now that you mention firebase) from cloud function db updates. Of course that's over-kill but I wanted to show something fun. You can remix and host your own version for free, just need a google oauth login that's it.<p>OG flip board I built (Portland Based - Current Weather): <a href=\"https://popflame.quickish.space/flipboard-preview\" rel=\"nofollow\">https://popflame.quickish.space/flipboard-preview</a><p>Blog post that dives a tiny bit deeper: <a href=\"https://popflame.quickish.space/blog/hacker-news-on-a-split-flap-board/\" rel=\"nofollow\">https://popflame.quickish.space/blog/hacker-news-on-a-split-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693912\">https://news.ycombinator.com/item?id=48693912</a></p>\n<p>Points: 66</p>\n<p># Comments: 13</p>",
         "pubDate": "Sat, 27 Jun 2026 00:43:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48693912"
       },
       {
+        "title": "Foreign funds help make housing unaffordable: research",
+        "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+        "description": "<p>Article URL: <a href=\"https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/\">https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693420\">https://news.ycombinator.com/item?id=48693420</a></p>\n<p>Points: 71</p>\n<p># Comments: 19</p>",
+        "pubDate": "Fri, 26 Jun 2026 23:36:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48693420"
+      },
+      {
         "title": "Om",
         "link": "https://daringfireball.net/2026/06/om",
-        "description": "<p>Related: <i>Om Malik has died</i> - <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a> - June 2026 (161 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693391\">https://news.ycombinator.com/item?id=48693391</a></p>\n<p>Points: 182</p>\n<p># Comments: 12</p>",
+        "description": "<p>Related: <i>Om Malik has died</i> - <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a> - June 2026 (161 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693391\">https://news.ycombinator.com/item?id=48693391</a></p>\n<p>Points: 347</p>\n<p># Comments: 15</p>",
         "pubDate": "Fri, 26 Jun 2026 23:33:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=48693391"
       },
       {
         "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
         "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-        "description": "<p><a href=\"https://archive.md/ArXuF\" rel=\"nofollow\">https://archive.md/ArXuF</a><p><a href=\"https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018\" rel=\"nofollow\">https://www.nbcnews.com/tech/tech-news/us-government-gives-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692995\">https://news.ycombinator.com/item?id=48692995</a></p>\n<p>Points: 280</p>\n<p># Comments: 278</p>",
+        "description": "<p><a href=\"https://archive.md/ArXuF\" rel=\"nofollow\">https://archive.md/ArXuF</a><p><a href=\"https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018\" rel=\"nofollow\">https://www.nbcnews.com/tech/tech-news/us-government-gives-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692995\">https://news.ycombinator.com/item?id=48692995</a></p>\n<p>Points: 414</p>\n<p># Comments: 438</p>",
         "pubDate": "Fri, 26 Jun 2026 22:48:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48692995"
       },
       {
         "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
         "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-        "description": "<p>Article URL: <a href=\"https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed\">https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692946\">https://news.ycombinator.com/item?id=48692946</a></p>\n<p>Points: 137</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed\">https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692946\">https://news.ycombinator.com/item?id=48692946</a></p>\n<p>Points: 228</p>\n<p># Comments: 104</p>",
         "pubDate": "Fri, 26 Jun 2026 22:43:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=48692946"
       },
       {
         "title": "AI in mathematics is forcing big questions",
         "link": "https://spectrum.ieee.org/ai-in-mathematics",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-mathematics\">https://spectrum.ieee.org/ai-in-mathematics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692883\">https://news.ycombinator.com/item?id=48692883</a></p>\n<p>Points: 71</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-mathematics\">https://spectrum.ieee.org/ai-in-mathematics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692883\">https://news.ycombinator.com/item?id=48692883</a></p>\n<p>Points: 115</p>\n<p># Comments: 82</p>",
         "pubDate": "Fri, 26 Jun 2026 22:36:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=48692883"
       },
       {
-        "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-        "link": "https://news.ycombinator.com/item?id=48692474",
-        "description": "<p>The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692474\">https://news.ycombinator.com/item?id=48692474</a></p>\n<p>Points: 72</p>\n<p># Comments: 36</p>",
-        "pubDate": "Fri, 26 Jun 2026 21:54:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48692474"
-      },
-      {
         "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
         "link": "https://github.com/Tessil/hopscotch-map",
-        "description": "<p>Article URL: <a href=\"https://github.com/Tessil/hopscotch-map\">https://github.com/Tessil/hopscotch-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692090\">https://news.ycombinator.com/item?id=48692090</a></p>\n<p>Points: 73</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Tessil/hopscotch-map\">https://github.com/Tessil/hopscotch-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692090\">https://news.ycombinator.com/item?id=48692090</a></p>\n<p>Points: 90</p>\n<p># Comments: 15</p>",
         "pubDate": "Fri, 26 Jun 2026 21:18:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48692090"
       },
       {
         "title": "The gap between open weights LLMs and closed source LLMs",
         "link": "https://blog.doubleword.ai/frontier-os-llm",
-        "description": "<p>Article URL: <a href=\"https://blog.doubleword.ai/frontier-os-llm\">https://blog.doubleword.ai/frontier-os-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692058\">https://news.ycombinator.com/item?id=48692058</a></p>\n<p>Points: 141</p>\n<p># Comments: 118</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.doubleword.ai/frontier-os-llm\">https://blog.doubleword.ai/frontier-os-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692058\">https://news.ycombinator.com/item?id=48692058</a></p>\n<p>Points: 195</p>\n<p># Comments: 160</p>",
         "pubDate": "Fri, 26 Jun 2026 21:14:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=48692058"
       },
       {
         "title": "We can still stop California's 3D printer surveillance scheme",
         "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme\">https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692051\">https://news.ycombinator.com/item?id=48692051</a></p>\n<p>Points: 272</p>\n<p># Comments: 96</p>",
+        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme\">https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692051\">https://news.ycombinator.com/item?id=48692051</a></p>\n<p>Points: 386</p>\n<p># Comments: 129</p>",
         "pubDate": "Fri, 26 Jun 2026 21:13:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=48692051"
       },
@@ -102,51 +123,30 @@
         "guid": "https://news.ycombinator.com/item?id=48691893"
       },
       {
-        "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-        "link": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-        "description": "<p>Article URL: <a href=\"https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013\">https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691346\">https://news.ycombinator.com/item?id=48691346</a></p>\n<p>Points: 200</p>\n<p># Comments: 114</p>",
-        "pubDate": "Fri, 26 Jun 2026 20:07:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48691346"
-      },
-      {
-        "title": "Long Wave radio era set to end with Droitwich switch-off",
-        "link": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c74yn7v7k4qo\">https://www.bbc.com/news/articles/c74yn7v7k4qo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48690709\">https://news.ycombinator.com/item?id=48690709</a></p>\n<p>Points: 67</p>\n<p># Comments: 27</p>",
-        "pubDate": "Fri, 26 Jun 2026 19:12:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48690709"
-      },
-      {
-        "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-        "link": "https://gossamer-lang.org/",
-        "description": "<p>Article URL: <a href=\"https://gossamer-lang.org/\">https://gossamer-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48690231\">https://news.ycombinator.com/item?id=48690231</a></p>\n<p>Points: 72</p>\n<p># Comments: 67</p>",
-        "pubDate": "Fri, 26 Jun 2026 18:32:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48690231"
-      },
-      {
         "title": "U.S. government will decide who gets to use GPT-5.6",
         "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-        "description": "<p><a href=\"https://archive.ph/PCQQl\" rel=\"nofollow\">https://archive.ph/PCQQl</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48690101\">https://news.ycombinator.com/item?id=48690101</a></p>\n<p>Points: 888</p>\n<p># Comments: 968</p>",
+        "description": "<p><a href=\"https://archive.ph/PCQQl\" rel=\"nofollow\">https://archive.ph/PCQQl</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48690101\">https://news.ycombinator.com/item?id=48690101</a></p>\n<p>Points: 1008</p>\n<p># Comments: 1051</p>",
         "pubDate": "Fri, 26 Jun 2026 18:23:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=48690101"
       },
       {
         "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
         "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/\">https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689859\">https://news.ycombinator.com/item?id=48689859</a></p>\n<p>Points: 66</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/\">https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689859\">https://news.ycombinator.com/item?id=48689859</a></p>\n<p>Points: 92</p>\n<p># Comments: 17</p>",
         "pubDate": "Fri, 26 Jun 2026 18:04:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=48689859"
       },
       {
         "title": "What Is a Nomogram and Why Would It Interest Me?",
         "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-        "description": "<p>Article URL: <a href=\"https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me\">https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689277\">https://news.ycombinator.com/item?id=48689277</a></p>\n<p>Points: 96</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me\">https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689277\">https://news.ycombinator.com/item?id=48689277</a></p>\n<p>Points: 115</p>\n<p># Comments: 19</p>",
         "pubDate": "Fri, 26 Jun 2026 17:24:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=48689277"
       },
       {
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
         "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-        "description": "<p>System card: <a href=\"https://deploymentsafety.openai.com/gpt-5-6-preview\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6-preview</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689028\">https://news.ycombinator.com/item?id=48689028</a></p>\n<p>Points: 887</p>\n<p># Comments: 539</p>",
+        "description": "<p>System card: <a href=\"https://deploymentsafety.openai.com/gpt-5-6-preview\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6-preview</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689028\">https://news.ycombinator.com/item?id=48689028</a></p>\n<p>Points: 983</p>\n<p># Comments: 608</p>",
         "pubDate": "Fri, 26 Jun 2026 17:06:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48689028"
       },
@@ -160,7 +160,7 @@
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-27T04:10:16.371Z",
+  "lastUpdated": "2026-06-27T08:47:28.803Z",
   "stats": {
     "feeds": 2,
     "articles": 20
