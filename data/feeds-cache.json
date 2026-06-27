@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-27T08:47:28.606Z"
+      "lastFetched": "2026-06-27T19:40:34.841Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-27T14:01:16.322Z"
+      "lastFetched": "2026-06-27T19:40:43.854Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Ships keep moving through Hormuz despite strike",
+        "link": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
+        "description": "<p>Article URL: <a href=\"https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy\">https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48700805\">https://news.ycombinator.com/item?id=48700805</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 27 Jun 2026 19:06:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48700805"
+      },
+      {
+        "title": "The Card That Made the Apple II Serious",
+        "link": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
+        "description": "<p>Article URL: <a href=\"https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/\">https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48700317\">https://news.ycombinator.com/item?id=48700317</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 27 Jun 2026 18:00:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48700317"
+      },
+      {
+        "title": "\"No, I swear I wrote this.\"",
+        "link": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
+        "description": "<p>Article URL: <a href=\"https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this\">https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699969\">https://news.ycombinator.com/item?id=48699969</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 27 Jun 2026 17:17:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48699969"
+      },
+      {
+        "title": "Turn your site into a place people can bump into each other",
+        "link": "https://cauenapier.com/blog/townsquare_release/",
+        "description": "<p>Article URL: <a href=\"https://cauenapier.com/blog/townsquare_release/\">https://cauenapier.com/blog/townsquare_release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 31</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 27 Jun 2026 17:11:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48699928"
+      },
+      {
+        "title": "Supabase (YC S20) Is Hiring for Multigres",
+        "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+        "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\">https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699842\">https://news.ycombinator.com/item?id=48699842</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 27 Jun 2026 17:00:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48699842"
+      },
+      {
+        "title": "Screen time can damage under-twos' development, landmark study suggests",
+        "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\">https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699778\">https://news.ycombinator.com/item?id=48699778</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 27 Jun 2026 16:51:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48699778"
+      },
+      {
+        "title": "Doctors suspected man had brain cancer. He had worms",
+        "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\">https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699617\">https://news.ycombinator.com/item?id=48699617</a></p>\n<p>Points: 41</p>\n<p># Comments: 18</p>",
+        "pubDate": "Sat, 27 Jun 2026 16:31:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48699617"
+      },
+      {
+        "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+        "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+        "description": "<p>Article URL: <a href=\"https://pluralistic.net/2026/06/27/zuckerstreisand-2/\">https://pluralistic.net/2026/06/27/zuckerstreisand-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698684\">https://news.ycombinator.com/item?id=48698684</a></p>\n<p>Points: 423</p>\n<p># Comments: 159</p>",
+        "pubDate": "Sat, 27 Jun 2026 14:38:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48698684"
+      },
+      {
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "link": "https://github.com/bikini/exploitarium",
+        "description": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 403</p>\n<p># Comments: 167</p>",
+        "pubDate": "Sat, 27 Jun 2026 14:31:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48698617"
+      },
+      {
+        "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+        "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+        "description": "<p>Article URL: <a href=\"https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\">https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698559\">https://news.ycombinator.com/item?id=48698559</a></p>\n<p>Points: 86</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sat, 27 Jun 2026 14:23:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48698559"
+      },
+      {
+        "title": "Suspicious Discontinuities (2020)",
+        "link": "https://danluu.com/discontinuities/",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/discontinuities/\">https://danluu.com/discontinuities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698151\">https://news.ycombinator.com/item?id=48698151</a></p>\n<p>Points: 142</p>\n<p># Comments: 40</p>",
+        "pubDate": "Sat, 27 Jun 2026 13:32:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48698151"
+      },
+      {
+        "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+        "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/\">https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697768\">https://news.ycombinator.com/item?id=48697768</a></p>\n<p>Points: 185</p>\n<p># Comments: 43</p>",
+        "pubDate": "Sat, 27 Jun 2026 12:43:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48697768"
+      },
+      {
+        "title": "How Many Elementary Particles Are There, Really?",
+        "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/\">https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697746\">https://news.ycombinator.com/item?id=48697746</a></p>\n<p>Points: 93</p>\n<p># Comments: 75</p>",
+        "pubDate": "Sat, 27 Jun 2026 12:40:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48697746"
+      },
+      {
+        "title": "OpenRA",
+        "link": "https://www.openra.net/",
+        "description": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 419</p>\n<p># Comments: 76</p>",
+        "pubDate": "Sat, 27 Jun 2026 12:10:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48697560"
+      },
+      {
+        "title": "Nox Metals (YC S25) Is Hiring SWE",
+        "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\">https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697504\">https://news.ycombinator.com/item?id=48697504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 27 Jun 2026 12:01:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48697504"
+      },
+      {
+        "title": "If you can't hold it, you don't own it",
+        "link": "https://dervis.de/physical/",
+        "description": "<p>Article URL: <a href=\"https://dervis.de/physical/\">https://dervis.de/physical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697335\">https://news.ycombinator.com/item?id=48697335</a></p>\n<p>Points: 267</p>\n<p># Comments: 175</p>",
+        "pubDate": "Sat, 27 Jun 2026 11:32:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48697335"
+      },
+      {
+        "title": "Fintech Engineering Handbook",
+        "link": "https://w.pitula.me/fintech-engineering-handbook/",
+        "description": "<p>Article URL: <a href=\"https://w.pitula.me/fintech-engineering-handbook/\">https://w.pitula.me/fintech-engineering-handbook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696982\">https://news.ycombinator.com/item?id=48696982</a></p>\n<p>Points: 370</p>\n<p># Comments: 118</p>",
+        "pubDate": "Sat, 27 Jun 2026 10:28:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48696982"
+      },
+      {
+        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "description": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\">https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696585\">https://news.ycombinator.com/item?id=48696585</a></p>\n<p>Points: 673</p>\n<p># Comments: 267</p>",
+        "pubDate": "Sat, 27 Jun 2026 09:18:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48696585"
+      },
+      {
+        "title": "Beer CSS – Build material design in record time",
+        "link": "https://www.beercss.com",
+        "description": "<p>Article URL: <a href=\"https://www.beercss.com\">https://www.beercss.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696510\">https://news.ycombinator.com/item?id=48696510</a></p>\n<p>Points: 112</p>\n<p># Comments: 57</p>",
+        "pubDate": "Sat, 27 Jun 2026 09:06:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48696510"
+      },
+      {
+        "title": "Researchers have developed pixels that can emit and analyse light together",
+        "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
+        "description": "<p>Article URL: <a href=\"https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html\">https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696127\">https://news.ycombinator.com/item?id=48696127</a></p>\n<p>Points: 22</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 27 Jun 2026 07:51:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48696127"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-27T14:01:16.323Z",
+  "lastUpdated": "2026-06-27T19:40:43.854Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
