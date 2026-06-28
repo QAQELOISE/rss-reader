@@ -5,43 +5,113 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-27T19:40:34.841Z"
+      "lastFetched": "2026-06-28T04:43:14.180Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-27T19:40:43.854Z"
+      "lastFetched": "2026-06-28T04:43:34.080Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Ships keep moving through Hormuz despite strike",
-        "link": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
-        "description": "<p>Article URL: <a href=\"https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy\">https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48700805\">https://news.ycombinator.com/item?id=48700805</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 27 Jun 2026 19:06:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48700805"
+        "title": "Ford hired AI and sacked humans. It backfired badly",
+        "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+        "description": "<p>Article URL: <a href=\"https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\">https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703968\">https://news.ycombinator.com/item?id=48703968</a></p>\n<p>Points: 44</p>\n<p># Comments: 19</p>",
+        "pubDate": "Sun, 28 Jun 2026 03:09:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48703968"
       },
       {
-        "title": "The Card That Made the Apple II Serious",
-        "link": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
-        "description": "<p>Article URL: <a href=\"https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/\">https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48700317\">https://news.ycombinator.com/item?id=48700317</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 27 Jun 2026 18:00:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48700317"
+        "title": "Marfa Public Radio Puts You to Sleep",
+        "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "description": "<p>Article URL: <a href=\"https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\">https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703759\">https://news.ycombinator.com/item?id=48703759</a></p>\n<p>Points: 82</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sun, 28 Jun 2026 02:23:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48703759"
       },
       {
-        "title": "\"No, I swear I wrote this.\"",
-        "link": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
-        "description": "<p>Article URL: <a href=\"https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this\">https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699969\">https://news.ycombinator.com/item?id=48699969</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sat, 27 Jun 2026 17:17:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48699969"
+        "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+        "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+        "description": "<p>Article URL: <a href=\"https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\">https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703613\">https://news.ycombinator.com/item?id=48703613</a></p>\n<p>Points: 60</p>\n<p># Comments: 38</p>",
+        "pubDate": "Sun, 28 Jun 2026 01:55:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48703613"
+      },
+      {
+        "title": "Response to AI slop is from Robin Williams",
+        "link": "https://jayacunzo.com/blog/your-move-chief",
+        "description": "<p>Article URL: <a href=\"https://jayacunzo.com/blog/your-move-chief\">https://jayacunzo.com/blog/your-move-chief</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703452\">https://news.ycombinator.com/item?id=48703452</a></p>\n<p>Points: 111</p>\n<p># Comments: 64</p>",
+        "pubDate": "Sun, 28 Jun 2026 01:28:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48703452"
+      },
+      {
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "link": "https://decomp-academy.dev",
+        "description": "<p>Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.<p>Learning how to decompile was challenging. It's difficult to find any good learning resources for it and any open-source projects for this are inactive and/or contain little actual learning material.<p>So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC/2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that's a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile.<p>As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you're not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done.<p>The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src/curriculum), it's trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I'm happy to share it with HN. I'm very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think!<p>Source: <a href=\"https://github.com/JackPriceBurns/decomp-academy-fe\" rel=\"nofollow\">https://github.com/JackPriceBurns/decomp-academy-fe</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703412\">https://news.ycombinator.com/item?id=48703412</a></p>\n<p>Points: 62</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sun, 28 Jun 2026 01:21:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48703412"
+      },
+      {
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "description": "<p>Article URL: <a href=\"https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\">https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703258\">https://news.ycombinator.com/item?id=48703258</a></p>\n<p>Points: 70</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 28 Jun 2026 00:46:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48703258"
+      },
+      {
+        "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+        "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/walrus-postgres-backups-in-rust\">https://clickhouse.com/blog/walrus-postgres-backups-in-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702848\">https://news.ycombinator.com/item?id=48702848</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 27 Jun 2026 23:32:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48702848"
+      },
+      {
+        "title": "Choosing a Public DNS Resolver",
+        "link": "https://evilbit.de/dns-resolver-guide.html",
+        "description": "<p>Article URL: <a href=\"https://evilbit.de/dns-resolver-guide.html\">https://evilbit.de/dns-resolver-guide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702273\">https://news.ycombinator.com/item?id=48702273</a></p>\n<p>Points: 94</p>\n<p># Comments: 29</p>",
+        "pubDate": "Sat, 27 Jun 2026 22:11:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48702273"
+      },
+      {
+        "title": "Michigan spent $1.8B and only created 602 jobs",
+        "link": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+        "description": "<p>Article URL: <a href=\"https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu\">https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702060\">https://news.ycombinator.com/item?id=48702060</a></p>\n<p>Points: 148</p>\n<p># Comments: 65</p>",
+        "pubDate": "Sat, 27 Jun 2026 21:44:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48702060"
+      },
+      {
+        "title": "What Ozempic does to the gut-brain axis",
+        "link": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+        "description": "<p>Article URL: <a href=\"https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis\">https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48701984\">https://news.ycombinator.com/item?id=48701984</a></p>\n<p>Points: 116</p>\n<p># Comments: 266</p>",
+        "pubDate": "Sat, 27 Jun 2026 21:34:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48701984"
+      },
+      {
+        "title": "Enhancing X11 Application Security with LXC",
+        "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+        "description": "<p>Article URL: <a href=\"https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/\">https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48701936\">https://news.ycombinator.com/item?id=48701936</a></p>\n<p>Points: 51</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sat, 27 Jun 2026 21:27:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48701936"
+      },
+      {
+        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+        "link": "https://github.com/kageroumado/adrafinil",
+        "description": "<p>A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents. Some people made snarky comments about using tmux or Amphetamine, and some defended their choice with “but I only need it sometimes, and forgetting to disable Amphetamine and finding my laptop discharged in my bag is worse.”<p>This is a solution to this problem. Unlike caffeinate, it will prevent your MacBook from sleeping even with the lid closed, with no external power or display, using pmset disablesleep 1. Unlike other sleep-preventing apps, Adrafinil only activates when there’s an agent actively doing something. It detects agent activity through hooks it installs into Claude Code, Codex, and others. To reassure you it’s working, the app shows the active status in the menu bar, and it plays a chime when you close the lid.<p>Once the agent is done, Adrafinil detects it and lets the laptop go to sleep by setting pmset disablesleep back to 0. It will also let it sleep in case of overheating. And if you want to manually toggle it, you can install an optional MCP and tell your agent to keep the MacBook awake for a specific time.<p>It has four binaries, one of which is a root helper exposing a single setSleepBlocked call. All the logic and policy live in the unprivileged parts. They’re all notarized, and the app is fully open source (MIT).</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48701512\">https://news.ycombinator.com/item?id=48701512</a></p>\n<p>Points: 103</p>\n<p># Comments: 65</p>",
+        "pubDate": "Sat, 27 Jun 2026 20:34:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48701512"
+      },
+      {
+        "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+        "link": "https://ipcrawl.com/",
+        "description": "<p>Article URL: <a href=\"https://ipcrawl.com/\">https://ipcrawl.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48700834\">https://news.ycombinator.com/item?id=48700834</a></p>\n<p>Points: 268</p>\n<p># Comments: 134</p>",
+        "pubDate": "Sat, 27 Jun 2026 19:09:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48700834"
       },
       {
         "title": "Turn your site into a place people can bump into each other",
         "link": "https://cauenapier.com/blog/townsquare_release/",
-        "description": "<p>Article URL: <a href=\"https://cauenapier.com/blog/townsquare_release/\">https://cauenapier.com/blog/townsquare_release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 31</p>\n<p># Comments: 12</p>",
+        "description": "<p>Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 179</p>\n<p># Comments: 81</p>",
         "pubDate": "Sat, 27 Jun 2026 17:11:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=48699928"
       },
@@ -53,114 +123,44 @@
         "guid": "https://news.ycombinator.com/item?id=48699842"
       },
       {
-        "title": "Screen time can damage under-twos' development, landmark study suggests",
-        "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\">https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699778\">https://news.ycombinator.com/item?id=48699778</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sat, 27 Jun 2026 16:51:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48699778"
-      },
-      {
-        "title": "Doctors suspected man had brain cancer. He had worms",
-        "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\">https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699617\">https://news.ycombinator.com/item?id=48699617</a></p>\n<p>Points: 41</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sat, 27 Jun 2026 16:31:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48699617"
-      },
-      {
-        "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-        "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-        "description": "<p>Article URL: <a href=\"https://pluralistic.net/2026/06/27/zuckerstreisand-2/\">https://pluralistic.net/2026/06/27/zuckerstreisand-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698684\">https://news.ycombinator.com/item?id=48698684</a></p>\n<p>Points: 423</p>\n<p># Comments: 159</p>",
-        "pubDate": "Sat, 27 Jun 2026 14:38:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48698684"
-      },
-      {
         "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
         "link": "https://github.com/bikini/exploitarium",
-        "description": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 403</p>\n<p># Comments: 167</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 716</p>\n<p># Comments: 280</p>",
         "pubDate": "Sat, 27 Jun 2026 14:31:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48698617"
       },
       {
         "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
         "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-        "description": "<p>Article URL: <a href=\"https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\">https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698559\">https://news.ycombinator.com/item?id=48698559</a></p>\n<p>Points: 86</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\">https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698559\">https://news.ycombinator.com/item?id=48698559</a></p>\n<p>Points: 139</p>\n<p># Comments: 46</p>",
         "pubDate": "Sat, 27 Jun 2026 14:23:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=48698559"
       },
       {
         "title": "Suspicious Discontinuities (2020)",
         "link": "https://danluu.com/discontinuities/",
-        "description": "<p>Article URL: <a href=\"https://danluu.com/discontinuities/\">https://danluu.com/discontinuities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698151\">https://news.ycombinator.com/item?id=48698151</a></p>\n<p>Points: 142</p>\n<p># Comments: 40</p>",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/discontinuities/\">https://danluu.com/discontinuities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698151\">https://news.ycombinator.com/item?id=48698151</a></p>\n<p>Points: 222</p>\n<p># Comments: 70</p>",
         "pubDate": "Sat, 27 Jun 2026 13:32:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=48698151"
       },
       {
-        "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
-        "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/\">https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697768\">https://news.ycombinator.com/item?id=48697768</a></p>\n<p>Points: 185</p>\n<p># Comments: 43</p>",
-        "pubDate": "Sat, 27 Jun 2026 12:43:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48697768"
-      },
-      {
-        "title": "How Many Elementary Particles Are There, Really?",
-        "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/\">https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697746\">https://news.ycombinator.com/item?id=48697746</a></p>\n<p>Points: 93</p>\n<p># Comments: 75</p>",
-        "pubDate": "Sat, 27 Jun 2026 12:40:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48697746"
+        "title": "Asian AI startups launch Mythos-like models",
+        "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697958\">https://news.ycombinator.com/item?id=48697958</a></p>\n<p>Points: 178</p>\n<p># Comments: 146</p>",
+        "pubDate": "Sat, 27 Jun 2026 13:10:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48697958"
       },
       {
         "title": "OpenRA",
         "link": "https://www.openra.net/",
-        "description": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 419</p>\n<p># Comments: 76</p>",
+        "description": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 617</p>\n<p># Comments: 123</p>",
         "pubDate": "Sat, 27 Jun 2026 12:10:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=48697560"
-      },
-      {
-        "title": "Nox Metals (YC S25) Is Hiring SWE",
-        "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\">https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697504\">https://news.ycombinator.com/item?id=48697504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 27 Jun 2026 12:01:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48697504"
-      },
-      {
-        "title": "If you can't hold it, you don't own it",
-        "link": "https://dervis.de/physical/",
-        "description": "<p>Article URL: <a href=\"https://dervis.de/physical/\">https://dervis.de/physical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697335\">https://news.ycombinator.com/item?id=48697335</a></p>\n<p>Points: 267</p>\n<p># Comments: 175</p>",
-        "pubDate": "Sat, 27 Jun 2026 11:32:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48697335"
-      },
-      {
-        "title": "Fintech Engineering Handbook",
-        "link": "https://w.pitula.me/fintech-engineering-handbook/",
-        "description": "<p>Article URL: <a href=\"https://w.pitula.me/fintech-engineering-handbook/\">https://w.pitula.me/fintech-engineering-handbook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696982\">https://news.ycombinator.com/item?id=48696982</a></p>\n<p>Points: 370</p>\n<p># Comments: 118</p>",
-        "pubDate": "Sat, 27 Jun 2026 10:28:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48696982"
-      },
-      {
-        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-        "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-        "description": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\">https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696585\">https://news.ycombinator.com/item?id=48696585</a></p>\n<p>Points: 673</p>\n<p># Comments: 267</p>",
-        "pubDate": "Sat, 27 Jun 2026 09:18:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48696585"
-      },
-      {
-        "title": "Beer CSS – Build material design in record time",
-        "link": "https://www.beercss.com",
-        "description": "<p>Article URL: <a href=\"https://www.beercss.com\">https://www.beercss.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696510\">https://news.ycombinator.com/item?id=48696510</a></p>\n<p>Points: 112</p>\n<p># Comments: 57</p>",
-        "pubDate": "Sat, 27 Jun 2026 09:06:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48696510"
-      },
-      {
-        "title": "Researchers have developed pixels that can emit and analyse light together",
-        "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
-        "description": "<p>Article URL: <a href=\"https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html\">https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696127\">https://news.ycombinator.com/item?id=48696127</a></p>\n<p>Points: 22</p>\n<p># Comments: 12</p>",
-        "pubDate": "Sat, 27 Jun 2026 07:51:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48696127"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-27T19:40:43.854Z",
+  "lastUpdated": "2026-06-28T04:43:34.081Z",
   "stats": {
     "feeds": 2,
     "articles": 20
