@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-29T16:03:49.556Z"
+      "lastFetched": "2026-06-29T20:09:53.254Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-29T16:04:09.754Z"
+      "lastFetched": "2026-06-29T20:10:12.845Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "JumpServer: Open-Source Privileged Access Management",
+        "link": "https://github.com/jumpserver/jumpserver",
+        "description": "<p>Article URL: <a href=\"https://github.com/jumpserver/jumpserver\">https://github.com/jumpserver/jumpserver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48723677\">https://news.ycombinator.com/item?id=48723677</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 29 Jun 2026 19:06:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48723677"
+      },
+      {
+        "title": ".garden TLD's change to a bad neighborhood",
+        "link": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
+        "description": "<p>Article URL: <a href=\"https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627\">https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48723452\">https://news.ycombinator.com/item?id=48723452</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 29 Jun 2026 18:49:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48723452"
+      },
+      {
+        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+        "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+        "description": "<p>Article URL: <a href=\"https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\">https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722802\">https://news.ycombinator.com/item?id=48722802</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 29 Jun 2026 18:03:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48722802"
+      },
+      {
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "link": "https://github.com/deepreinforce-ai/Ornith-1",
+        "description": "<p>Article URL: <a href=\"https://github.com/deepreinforce-ai/Ornith-1\">https://github.com/deepreinforce-ai/Ornith-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722052\">https://news.ycombinator.com/item?id=48722052</a></p>\n<p>Points: 60</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 29 Jun 2026 17:16:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48722052"
+      },
+      {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen-36-is-awesome/\">https://quesma.com/blog/qwen-36-is-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721903\">https://news.ycombinator.com/item?id=48721903</a></p>\n<p>Points: 322</p>\n<p># Comments: 243</p>",
+        "pubDate": "Mon, 29 Jun 2026 17:05:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48721903"
+      },
+      {
+        "title": "The Radiation Exposure Lie",
+        "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+        "description": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/how-to-lie-about-radiation/\">https://worksinprogress.co/issue/how-to-lie-about-radiation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721308\">https://news.ycombinator.com/item?id=48721308</a></p>\n<p>Points: 72</p>\n<p># Comments: 37</p>",
+        "pubDate": "Mon, 29 Jun 2026 16:27:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48721308"
+      },
+      {
+        "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+        "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+        "description": "<p>Article URL: <a href=\"https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/\">https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721072\">https://news.ycombinator.com/item?id=48721072</a></p>\n<p>Points: 228</p>\n<p># Comments: 61</p>",
+        "pubDate": "Mon, 29 Jun 2026 16:07:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48721072"
+      },
+      {
+        "title": "US Supreme Court rules geofence warrants require constitutional protections",
+        "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\">https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720924\">https://news.ycombinator.com/item?id=48720924</a></p>\n<p>Points: 261</p>\n<p># Comments: 106</p>",
+        "pubDate": "Mon, 29 Jun 2026 15:54:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48720924"
+      },
+      {
+        "title": "A native graphical shell for SSH",
+        "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+        "description": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720758\">https://news.ycombinator.com/item?id=48720758</a></p>\n<p>Points: 153</p>\n<p># Comments: 62</p>",
+        "pubDate": "Mon, 29 Jun 2026 15:42:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48720758"
+      },
+      {
         "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
         "link": "https://humphri.es/blog/WATaBoy/",
-        "description": "<p>Article URL: <a href=\"https://humphri.es/blog/WATaBoy/\">https://humphri.es/blog/WATaBoy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720190\">https://news.ycombinator.com/item?id=48720190</a></p>\n<p>Points: 30</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://humphri.es/blog/WATaBoy/\">https://humphri.es/blog/WATaBoy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720190\">https://news.ycombinator.com/item?id=48720190</a></p>\n<p>Points: 135</p>\n<p># Comments: 14</p>",
         "pubDate": "Mon, 29 Jun 2026 15:02:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48720190"
       },
       {
-        "title": "WebGL Without a GPU",
-        "link": "https://microlink.io/blog/webgl-without-a-gpu",
-        "description": "<p>Article URL: <a href=\"https://microlink.io/blog/webgl-without-a-gpu\">https://microlink.io/blog/webgl-without-a-gpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720179\">https://news.ycombinator.com/item?id=48720179</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 29 Jun 2026 15:01:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48720179"
-      },
-      {
-        "title": "A field guide to the modern front end for developers who hand-wrote HTML",
-        "link": "https://davidpoblador.com/deep-dives/the-descent/",
-        "description": "<p>Article URL: <a href=\"https://davidpoblador.com/deep-dives/the-descent/\">https://davidpoblador.com/deep-dives/the-descent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719665\">https://news.ycombinator.com/item?id=48719665</a></p>\n<p>Points: 53</p>\n<p># Comments: 33</p>",
-        "pubDate": "Mon, 29 Jun 2026 14:23:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48719665"
-      },
-      {
         "title": "Mag 7 starting to underperform [pdf]",
         "link": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf\">https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719532\">https://news.ycombinator.com/item?id=48719532</a></p>\n<p>Points: 113</p>\n<p># Comments: 86</p>",
+        "description": "<p>Article URL: <a href=\"https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf\">https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719532\">https://news.ycombinator.com/item?id=48719532</a></p>\n<p>Points: 167</p>\n<p># Comments: 134</p>",
         "pubDate": "Mon, 29 Jun 2026 14:12:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48719532"
       },
       {
+        "title": "You Don't Know Jack About Formal Verification",
+        "link": "https://queue.acm.org/detail.cfm?id=3819084",
+        "description": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3819084\">https://queue.acm.org/detail.cfm?id=3819084</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719521\">https://news.ycombinator.com/item?id=48719521</a></p>\n<p>Points: 52</p>\n<p># Comments: 15</p>",
+        "pubDate": "Mon, 29 Jun 2026 14:12:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48719521"
+      },
+      {
         "title": "Rocketlab acquires Iridium",
         "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-        "description": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 81</p>\n<p># Comments: 43</p>",
+        "description": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 272</p>\n<p># Comments: 156</p>",
         "pubDate": "Mon, 29 Jun 2026 14:09:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48719485"
       },
       {
-        "title": "DocumentDB – a MongoDB compatible open-source database",
-        "link": "https://documentdb.io/",
-        "description": "<p>Article URL: <a href=\"https://documentdb.io/\">https://documentdb.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719483\">https://news.ycombinator.com/item?id=48719483</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 29 Jun 2026 14:09:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48719483"
-      },
-      {
         "title": "CachyOS June 2026 Release",
         "link": "https://cachyos.org/blog/2606-june-release/",
-        "description": "<p>Article URL: <a href=\"https://cachyos.org/blog/2606-june-release/\">https://cachyos.org/blog/2606-june-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719361\">https://news.ycombinator.com/item?id=48719361</a></p>\n<p>Points: 33</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://cachyos.org/blog/2606-june-release/\">https://cachyos.org/blog/2606-june-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719361\">https://news.ycombinator.com/item?id=48719361</a></p>\n<p>Points: 108</p>\n<p># Comments: 52</p>",
         "pubDate": "Mon, 29 Jun 2026 13:56:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=48719361"
       },
       {
         "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
         "link": "https://twitter.com/i/status/2071277885646868536",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/i/status/2071277885646868536\">https://twitter.com/i/status/2071277885646868536</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719027\">https://news.ycombinator.com/item?id=48719027</a></p>\n<p>Points: 130</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/i/status/2071277885646868536\">https://twitter.com/i/status/2071277885646868536</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719027\">https://news.ycombinator.com/item?id=48719027</a></p>\n<p>Points: 258</p>\n<p># Comments: 116</p>",
         "pubDate": "Mon, 29 Jun 2026 13:26:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48719027"
       },
       {
         "title": "Building Principia for Windows XP",
         "link": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-        "description": "<p>Article URL: <a href=\"https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/\">https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718995\">https://news.ycombinator.com/item?id=48718995</a></p>\n<p>Points: 62</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/\">https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718995\">https://news.ycombinator.com/item?id=48718995</a></p>\n<p>Points: 99</p>\n<p># Comments: 27</p>",
         "pubDate": "Mon, 29 Jun 2026 13:23:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48718995"
       },
       {
-        "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
-        "link": "https://www.playstation.com/en-gb/legal/psvideocontent/",
-        "description": "<p>Article URL: <a href=\"https://www.playstation.com/en-gb/legal/psvideocontent/\">https://www.playstation.com/en-gb/legal/psvideocontent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718967\">https://news.ycombinator.com/item?id=48718967</a></p>\n<p>Points: 92</p>\n<p># Comments: 48</p>",
-        "pubDate": "Mon, 29 Jun 2026 13:20:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48718967"
-      },
-      {
         "title": "What happens when you run a CUDA kernel?",
         "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-        "description": "<p>Article URL: <a href=\"https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/\">https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718863\">https://news.ycombinator.com/item?id=48718863</a></p>\n<p>Points: 73</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/\">https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718863\">https://news.ycombinator.com/item?id=48718863</a></p>\n<p>Points: 164</p>\n<p># Comments: 14</p>",
         "pubDate": "Mon, 29 Jun 2026 13:11:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48718863"
       },
       {
         "title": "Tidal AI Policy",
         "link": "https://tidal.com/ai-policy",
-        "description": "<p>Article URL: <a href=\"https://tidal.com/ai-policy\">https://tidal.com/ai-policy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718840\">https://news.ycombinator.com/item?id=48718840</a></p>\n<p>Points: 179</p>\n<p># Comments: 208</p>",
+        "description": "<p>Article URL: <a href=\"https://tidal.com/ai-policy\">https://tidal.com/ai-policy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718840\">https://news.ycombinator.com/item?id=48718840</a></p>\n<p>Points: 266</p>\n<p># Comments: 301</p>",
         "pubDate": "Mon, 29 Jun 2026 13:09:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48718840"
       },
       {
-        "title": "NixOS 26.05",
-        "link": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-        "description": "<p>Article URL: <a href=\"https://nixos.org/blog/announcements/2026/nixos-2605/\">https://nixos.org/blog/announcements/2026/nixos-2605/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718753\">https://news.ycombinator.com/item?id=48718753</a></p>\n<p>Points: 30</p>\n<p># Comments: 1</p>",
-        "pubDate": "Mon, 29 Jun 2026 13:01:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48718753"
-      },
-      {
         "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
         "link": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-        "description": "<p>Article URL: <a href=\"https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing\">https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718102\">https://news.ycombinator.com/item?id=48718102</a></p>\n<p>Points: 134</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing\">https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718102\">https://news.ycombinator.com/item?id=48718102</a></p>\n<p>Points: 254</p>\n<p># Comments: 129</p>",
         "pubDate": "Mon, 29 Jun 2026 11:58:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48718102"
       },
       {
-        "title": "Rebuilding the Computer Room",
-        "link": "https://alexwlchan.net/2026/computer-room/",
-        "description": "<p>Article URL: <a href=\"https://alexwlchan.net/2026/computer-room/\">https://alexwlchan.net/2026/computer-room/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717905\">https://news.ycombinator.com/item?id=48717905</a></p>\n<p>Points: 49</p>\n<p># Comments: 19</p>",
-        "pubDate": "Mon, 29 Jun 2026 11:34:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48717905"
-      },
-      {
-        "title": "DeepSeek V4 Peak Valley Pricing Change",
-        "link": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
-        "description": "<p>Article URL: <a href=\"https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing\">https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717869\">https://news.ycombinator.com/item?id=48717869</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
-        "pubDate": "Mon, 29 Jun 2026 11:29:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48717869"
-      },
-      {
-        "title": "Sandia National Labs SA3000 8085 CPU",
-        "link": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-        "description": "<p>Article URL: <a href=\"https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/\">https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717287\">https://news.ycombinator.com/item?id=48717287</a></p>\n<p>Points: 104</p>\n<p># Comments: 28</p>",
-        "pubDate": "Mon, 29 Jun 2026 10:20:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48717287"
-      },
-      {
-        "title": "Pollen tried to remove my article and Google is assisting with it",
-        "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-        "description": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/\">https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48716902\">https://news.ycombinator.com/item?id=48716902</a></p>\n<p>Points: 635</p>\n<p># Comments: 93</p>",
-        "pubDate": "Mon, 29 Jun 2026 09:28:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48716902"
-      },
-      {
-        "title": "Herdr: Agent multiplexer that lives in your terminal",
-        "link": "https://github.com/ogulcancelik/herdr",
-        "description": "<p>Article URL: <a href=\"https://github.com/ogulcancelik/herdr\">https://github.com/ogulcancelik/herdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714802\">https://news.ycombinator.com/item?id=48714802</a></p>\n<p>Points: 117</p>\n<p># Comments: 76</p>",
-        "pubDate": "Mon, 29 Jun 2026 04:27:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48714802"
-      },
-      {
-        "title": "Age verification is just a precursor to automated attribution of speech",
-        "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-        "description": "<p>Article URL: <a href=\"https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714529\">https://news.ycombinator.com/item?id=48714529</a></p>\n<p>Points: 805</p>\n<p># Comments: 489</p>",
-        "pubDate": "Mon, 29 Jun 2026 03:42:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48714529"
+        "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+        "link": "https://det.social/@lostgen/116820546568940358",
+        "description": "<p>Article URL: <a href=\"https://det.social/@lostgen/116820546568940358\">https://det.social/@lostgen/116820546568940358</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717469\">https://news.ycombinator.com/item?id=48717469</a></p>\n<p>Points: 390</p>\n<p># Comments: 861</p>",
+        "pubDate": "Mon, 29 Jun 2026 10:45:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48717469"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-29T16:04:09.754Z",
+  "lastUpdated": "2026-06-29T20:10:12.845Z",
   "stats": {
     "feeds": 2,
     "articles": 20
