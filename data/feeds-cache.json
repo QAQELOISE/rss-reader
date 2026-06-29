@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-28T19:41:54.759Z"
+      "lastFetched": "2026-06-29T04:52:06.056Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-28T19:42:03.811Z"
+      "lastFetched": "2026-06-29T04:52:25.775Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Age verification is just a precursor to automated attribution of speech",
+        "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+        "description": "<p>Article URL: <a href=\"https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714529\">https://news.ycombinator.com/item?id=48714529</a></p>\n<p>Points: 117</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 29 Jun 2026 03:42:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48714529"
+      },
+      {
+        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "description": "<p>Article URL: <a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\">https://danunparsed.com/p/hackerrank-open-source-ats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48713832\">https://news.ycombinator.com/item?id=48713832</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 29 Jun 2026 01:44:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48713832"
+      },
+      {
+        "title": "You might not need a service worker",
+        "link": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
+        "description": "<p>Article URL: <a href=\"https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/\">https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48713453\">https://news.ycombinator.com/item?id=48713453</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 29 Jun 2026 00:48:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48713453"
+      },
+      {
+        "title": "Better Images of AI",
+        "link": "https://betterimagesofai.org/",
+        "description": "<p>Article URL: <a href=\"https://betterimagesofai.org/\">https://betterimagesofai.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48713051\">https://news.ycombinator.com/item?id=48713051</a></p>\n<p>Points: 42</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 28 Jun 2026 23:50:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48713051"
+      },
+      {
+        "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+        "link": "https://arxiv.org/abs/2401.07013",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2401.07013\">https://arxiv.org/abs/2401.07013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48712420\">https://news.ycombinator.com/item?id=48712420</a></p>\n<p>Points: 66</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sun, 28 Jun 2026 22:32:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48712420"
+      },
+      {
+        "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+        "link": "https://github.com/kamaludu/bash4llm/",
+        "description": "<p>Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.<p>It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.<p>I tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be added with dedicated Bash scripts in the extras/providers/ folder.<p>Example:<p><pre><code>  echo \"explains the command: ls -l\" | ./bash4llm</code></pre></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710827\">https://news.ycombinator.com/item?id=48710827</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sun, 28 Jun 2026 19:43:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48710827"
+      },
+      {
+        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "link": "https://github.com/JustVugg/nanoeuler",
+        "description": "<p>Hi everyone,<p>I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and (2), working on llm with a very low-level layer to understand the correlation between parameters and data and growth of the model and how the GPU works and how some layers can be optimized.<p>So I started working on it with a research aspect by making nanoeuler grow more and more but doing one step after another starting from Shakespeare.txt and understanding what a text generation model understands at 23 million parameters. For example, nanoeuler at that number had understood that Name: started a line and wrote that line with sense.<p>I wrote everything in CUDA because I wanted to not use any intermediary between the model in training and inference and what it had to do. Then the use of SFT and much more, even if in small ways, were really useful to understand the various step to make an llm like a chatbot.Any feedback, help, or suggestions are absolutely welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710778\">https://news.ycombinator.com/item?id=48710778</a></p>\n<p>Points: 43</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 28 Jun 2026 19:38:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48710778"
+      },
+      {
+        "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+        "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number\">https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710775\">https://news.ycombinator.com/item?id=48710775</a></p>\n<p>Points: 90</p>\n<p># Comments: 48</p>",
+        "pubDate": "Sun, 28 Jun 2026 19:38:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48710775"
+      },
+      {
+        "title": "Librepods: AirPods liberated",
+        "link": "https://github.com/librepods-org/librepods",
+        "description": "<p>Article URL: <a href=\"https://github.com/librepods-org/librepods\">https://github.com/librepods-org/librepods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710232\">https://news.ycombinator.com/item?id=48710232</a></p>\n<p>Points: 319</p>\n<p># Comments: 101</p>",
+        "pubDate": "Sun, 28 Jun 2026 18:48:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48710232"
+      },
+      {
         "title": "Historical memory prices 1960-2026",
         "link": "https://dam.stanford.edu/memory-prices.html",
-        "description": "<p>Article URL: <a href=\"https://dam.stanford.edu/memory-prices.html\">https://dam.stanford.edu/memory-prices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710092\">https://news.ycombinator.com/item?id=48710092</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://dam.stanford.edu/memory-prices.html\">https://dam.stanford.edu/memory-prices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710092\">https://news.ycombinator.com/item?id=48710092</a></p>\n<p>Points: 228</p>\n<p># Comments: 85</p>",
         "pubDate": "Sun, 28 Jun 2026 18:32:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=48710092"
       },
       {
-        "title": "The cost YAGNI was never about",
-        "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-        "description": "<p>Article URL: <a href=\"https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about\">https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710082\">https://news.ycombinator.com/item?id=48710082</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sun, 28 Jun 2026 18:31:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48710082"
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "description": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\">https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709670\">https://news.ycombinator.com/item?id=48709670</a></p>\n<p>Points: 596</p>\n<p># Comments: 288</p>",
+        "pubDate": "Sun, 28 Jun 2026 17:50:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48709670"
       },
       {
         "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
         "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-        "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\">http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709187\">https://news.ycombinator.com/item?id=48709187</a></p>\n<p>Points: 50</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\">http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709187\">https://news.ycombinator.com/item?id=48709187</a></p>\n<p>Points: 97</p>\n<p># Comments: 26</p>",
         "pubDate": "Sun, 28 Jun 2026 16:58:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=48709187"
       },
       {
         "title": "Show HN: DRM-Free Books",
         "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-        "description": "<p>After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright.<p><a href=\"https://frequal.com/Perspectives/DrmFreeAuthors.html\" rel=\"nofollow\">https://frequal.com/Perspectives/DrmFreeAuthors.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709186\">https://news.ycombinator.com/item?id=48709186</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+        "description": "<p>After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright.<p><a href=\"https://frequal.com/Perspectives/DrmFreeAuthors.html\" rel=\"nofollow\">https://frequal.com/Perspectives/DrmFreeAuthors.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709186\">https://news.ycombinator.com/item?id=48709186</a></p>\n<p>Points: 87</p>\n<p># Comments: 35</p>",
         "pubDate": "Sun, 28 Jun 2026 16:58:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=48709186"
       },
       {
+        "title": "Professor denounces mass AI fraud on an exam at Brown",
+        "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+        "description": "<p>Article URL: <a href=\"https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\">https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708991\">https://news.ycombinator.com/item?id=48708991</a></p>\n<p>Points: 325</p>\n<p># Comments: 433</p>",
+        "pubDate": "Sun, 28 Jun 2026 16:41:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48708991"
+      },
+      {
         "title": "I used Claude Code to get a second opinion on my MRI",
         "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "description": "<p>Article URL: <a href=\"https://antoine.fi/mri-analysis-using-claude-code-opus\">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708941\">https://news.ycombinator.com/item?id=48708941</a></p>\n<p>Points: 135</p>\n<p># Comments: 216</p>",
+        "description": "<p>Article URL: <a href=\"https://antoine.fi/mri-analysis-using-claude-code-opus\">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708941\">https://news.ycombinator.com/item?id=48708941</a></p>\n<p>Points: 380</p>\n<p># Comments: 494</p>",
         "pubDate": "Sun, 28 Jun 2026 16:35:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48708941"
       },
       {
         "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
         "link": "https://www.openculture.com/2020/10/daisugi.html",
-        "description": "<p><a href=\"https://x.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://x.com/wrathofgnon/status/1250287741247426565</a>, <a href=\"https://xcancel.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://xcancel.com/wrathofgnon/status/1250287741247426565</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708859\">https://news.ycombinator.com/item?id=48708859</a></p>\n<p>Points: 59</p>\n<p># Comments: 18</p>",
+        "description": "<p><a href=\"https://x.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://x.com/wrathofgnon/status/1250287741247426565</a>, <a href=\"https://xcancel.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://xcancel.com/wrathofgnon/status/1250287741247426565</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708859\">https://news.ycombinator.com/item?id=48708859</a></p>\n<p>Points: 124</p>\n<p># Comments: 39</p>",
         "pubDate": "Sun, 28 Jun 2026 16:28:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=48708859"
       },
       {
         "title": "Tokenmaxxing is dead, long live tokenmaxxing",
         "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-        "description": "<p>Article URL: <a href=\"https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\">https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708795\">https://news.ycombinator.com/item?id=48708795</a></p>\n<p>Points: 41</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\">https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708795\">https://news.ycombinator.com/item?id=48708795</a></p>\n<p>Points: 123</p>\n<p># Comments: 147</p>",
         "pubDate": "Sun, 28 Jun 2026 16:24:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=48708795"
       },
       {
-        "title": "Reflections on software engineering in the age of AI",
-        "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-        "description": "<p>Article URL: <a href=\"https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/\">https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708721\">https://news.ycombinator.com/item?id=48708721</a></p>\n<p>Points: 62</p>\n<p># Comments: 30</p>",
-        "pubDate": "Sun, 28 Jun 2026 16:17:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48708721"
-      },
-      {
         "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
         "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html\">https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708700\">https://news.ycombinator.com/item?id=48708700</a></p>\n<p>Points: 52</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html\">https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708700\">https://news.ycombinator.com/item?id=48708700</a></p>\n<p>Points: 94</p>\n<p># Comments: 21</p>",
         "pubDate": "Sun, 28 Jun 2026 16:16:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=48708700"
       },
       {
-        "title": "Programmable Probabilistic Computer with 1M p-bits",
-        "link": "https://arxiv.org/abs/2606.25313",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.25313\">https://arxiv.org/abs/2606.25313</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708496\">https://news.ycombinator.com/item?id=48708496</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 28 Jun 2026 15:55:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48708496"
-      },
-      {
         "title": "Show HN: Zanagrams",
         "link": "https://zanagrams.com/",
-        "description": "<p>Article URL: <a href=\"https://zanagrams.com/\">https://zanagrams.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708182\">https://news.ycombinator.com/item?id=48708182</a></p>\n<p>Points: 76</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://zanagrams.com/\">https://zanagrams.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708182\">https://news.ycombinator.com/item?id=48708182</a></p>\n<p>Points: 225</p>\n<p># Comments: 55</p>",
         "pubDate": "Sun, 28 Jun 2026 15:26:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=48708182"
       },
       {
-        "title": "California legislature agrees to upload driver's licenses to national database",
-        "link": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
-        "description": "<p>Article URL: <a href=\"https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/\">https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708139\">https://news.ycombinator.com/item?id=48708139</a></p>\n<p>Points: 81</p>\n<p># Comments: 37</p>",
-        "pubDate": "Sun, 28 Jun 2026 15:22:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48708139"
-      },
-      {
-        "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-        "link": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-        "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/\">https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707769\">https://news.ycombinator.com/item?id=48707769</a></p>\n<p>Points: 178</p>\n<p># Comments: 117</p>",
-        "pubDate": "Sun, 28 Jun 2026 14:46:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48707769"
-      },
-      {
-        "title": "5k Restaurant Menus, Years 1880-1920",
-        "link": "https://pudding.cool/2026/06/menu-collection/",
-        "description": "<p>Article URL: <a href=\"https://pudding.cool/2026/06/menu-collection/\">https://pudding.cool/2026/06/menu-collection/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707763\">https://news.ycombinator.com/item?id=48707763</a></p>\n<p>Points: 246</p>\n<p># Comments: 63</p>",
+        "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+        "link": "https://pudding.cool/2026/06/menu-story/",
+        "description": "<p><a href=\"https://pudding.cool/2026/06/menu-collection/\" rel=\"nofollow\">https://pudding.cool/2026/06/menu-collection/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707763\">https://news.ycombinator.com/item?id=48707763</a></p>\n<p>Points: 343</p>\n<p># Comments: 88</p>",
         "pubDate": "Sun, 28 Jun 2026 14:44:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=48707763"
-      },
-      {
-        "title": "EU to legislate about Chat Control behind closed doors",
-        "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-        "description": "<p>Article URL: <a href=\"https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/\">https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707719\">https://news.ycombinator.com/item?id=48707719</a></p>\n<p>Points: 410</p>\n<p># Comments: 236</p>",
-        "pubDate": "Sun, 28 Jun 2026 14:40:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48707719"
-      },
-      {
-        "title": "Flock cameras track more than your license plate, and they're spreading fast",
-        "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-        "description": "<p>Article URL: <a href=\"https://www.engadget.com/2203000/flock-cameras-recording-license-plate/\">https://www.engadget.com/2203000/flock-cameras-recording-license-plate/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707673\">https://news.ycombinator.com/item?id=48707673</a></p>\n<p>Points: 289</p>\n<p># Comments: 210</p>",
-        "pubDate": "Sun, 28 Jun 2026 14:35:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48707673"
-      },
-      {
-        "title": "Google limits Meta's use of its Gemini AI models",
-        "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html\">https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707103\">https://news.ycombinator.com/item?id=48707103</a></p>\n<p>Points: 124</p>\n<p># Comments: 58</p>",
-        "pubDate": "Sun, 28 Jun 2026 13:30:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48707103"
-      },
-      {
-        "title": "The curious case of the disappearing Polish S (2015)",
-        "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-        "description": "<p>Article URL: <a href=\"https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/\">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706814\">https://news.ycombinator.com/item?id=48706814</a></p>\n<p>Points: 179</p>\n<p># Comments: 47</p>",
-        "pubDate": "Sun, 28 Jun 2026 12:44:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48706814"
-      },
-      {
-        "title": "The MUMPS 76 Primer – anniversary edition",
-        "link": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
-        "description": "<p>Article URL: <a href=\"https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc\">https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706796\">https://news.ycombinator.com/item?id=48706796</a></p>\n<p>Points: 53</p>\n<p># Comments: 23</p>",
-        "pubDate": "Sun, 28 Jun 2026 12:41:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48706796"
-      },
-      {
-        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-        "link": "https://github.com/openai/codex/issues/2847",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/2847\">https://github.com/openai/codex/issues/2847</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706714\">https://news.ycombinator.com/item?id=48706714</a></p>\n<p>Points: 147</p>\n<p># Comments: 96</p>",
-        "pubDate": "Sun, 28 Jun 2026 12:27:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48706714"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-28T19:42:03.812Z",
+  "lastUpdated": "2026-06-29T04:52:25.775Z",
   "stats": {
     "feeds": 2,
     "articles": 20
