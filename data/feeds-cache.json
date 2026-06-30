@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-30T04:18:33.503Z"
+      "lastFetched": "2026-06-30T09:56:06.130Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-30T04:18:53.078Z"
+      "lastFetched": "2026-06-30T09:56:06.356Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Popping the GPU Bubble",
+        "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+        "description": "<p>Article URL: <a href=\"https://moondream.ai/blog/popping-the-gpu-bubble\">https://moondream.ai/blog/popping-the-gpu-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48728729\">https://news.ycombinator.com/item?id=48728729</a></p>\n<p>Points: 129</p>\n<p># Comments: 31</p>",
+        "pubDate": "Tue, 30 Jun 2026 05:14:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48728729"
+      },
+      {
+        "title": "The end of the AArch64 desktop experiment",
+        "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+        "description": "<p>Article URL: <a href=\"https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\">https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48728599\">https://news.ycombinator.com/item?id=48728599</a></p>\n<p>Points: 42</p>\n<p># Comments: 24</p>",
+        "pubDate": "Tue, 30 Jun 2026 04:51:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48728599"
+      },
+      {
         "title": "Exploring PDP-1 Lisp (1960)",
         "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-        "description": "<p>Article URL: <a href=\"https://obsolescence.dev/pdp1-lisp-introduction.html\">https://obsolescence.dev/pdp1-lisp-introduction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727323\">https://news.ycombinator.com/item?id=48727323</a></p>\n<p>Points: 30</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://obsolescence.dev/pdp1-lisp-introduction.html\">https://obsolescence.dev/pdp1-lisp-introduction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727323\">https://news.ycombinator.com/item?id=48727323</a></p>\n<p>Points: 74</p>\n<p># Comments: 17</p>",
         "pubDate": "Tue, 30 Jun 2026 00:56:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48727323"
       },
       {
-        "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+        "title": "Memory Safe Context Switching",
         "link": "https://fil-c.org/context_switches",
-        "description": "<p>Article URL: <a href=\"https://fil-c.org/context_switches\">https://fil-c.org/context_switches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727177\">https://news.ycombinator.com/item?id=48727177</a></p>\n<p>Points: 53</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://fil-c.org/context_switches\">https://fil-c.org/context_switches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727177\">https://news.ycombinator.com/item?id=48727177</a></p>\n<p>Points: 127</p>\n<p># Comments: 25</p>",
         "pubDate": "Tue, 30 Jun 2026 00:38:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48727177"
       },
       {
         "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
         "link": "https://longcat.chat/blog/longcat-2.0/",
-        "description": "<p>Article URL: <a href=\"https://longcat.chat/blog/longcat-2.0/\">https://longcat.chat/blog/longcat-2.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727116\">https://news.ycombinator.com/item?id=48727116</a></p>\n<p>Points: 52</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://longcat.chat/blog/longcat-2.0/\">https://longcat.chat/blog/longcat-2.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727116\">https://news.ycombinator.com/item?id=48727116</a></p>\n<p>Points: 146</p>\n<p># Comments: 42</p>",
         "pubDate": "Tue, 30 Jun 2026 00:30:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=48727116"
       },
       {
-        "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-        "link": "https://github.com/SMJAI/open-memory-protocol",
-        "description": "<p>Article URL: <a href=\"https://github.com/SMJAI/open-memory-protocol\">https://github.com/SMJAI/open-memory-protocol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48726966\">https://news.ycombinator.com/item?id=48726966</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 30 Jun 2026 00:05:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48726966"
-      },
-      {
         "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
         "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48726102\">https://news.ycombinator.com/item?id=48726102</a></p>\n<p>Points: 169</p>\n<p># Comments: 98</p>",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48726102\">https://news.ycombinator.com/item?id=48726102</a></p>\n<p>Points: 224</p>\n<p># Comments: 151</p>",
         "pubDate": "Mon, 29 Jun 2026 22:21:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48726102"
       },
       {
-        "title": "Scientists find molecular-level evidence for two structures in liquid water",
-        "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-        "description": "<p><a href=\"https://www.nature.com/articles/s41567-026-03301-8\" rel=\"nofollow\">https://www.nature.com/articles/s41567-026-03301-8</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48726073\">https://news.ycombinator.com/item?id=48726073</a></p>\n<p>Points: 83</p>\n<p># Comments: 35</p>",
-        "pubDate": "Mon, 29 Jun 2026 22:18:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48726073"
-      },
-      {
         "title": ".self: A new top-level domain designed to support self-hosting",
         "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-        "description": "<p>Article URL: <a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\">https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48724230\">https://news.ycombinator.com/item?id=48724230</a></p>\n<p>Points: 382</p>\n<p># Comments: 216</p>",
+        "description": "<p>Article URL: <a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\">https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48724230\">https://news.ycombinator.com/item?id=48724230</a></p>\n<p>Points: 510</p>\n<p># Comments: 293</p>",
         "pubDate": "Mon, 29 Jun 2026 19:49:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48724230"
       },
       {
-        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-        "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "description": "<p>Article URL: <a href=\"https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\">https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722802\">https://news.ycombinator.com/item?id=48722802</a></p>\n<p>Points: 63</p>\n<p># Comments: 19</p>",
-        "pubDate": "Mon, 29 Jun 2026 18:03:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48722802"
-      },
-      {
         "title": "Ornith-1.0: self-improving open-source models for agentic coding",
         "link": "https://github.com/deepreinforce-ai/Ornith-1",
-        "description": "<p>Article URL: <a href=\"https://github.com/deepreinforce-ai/Ornith-1\">https://github.com/deepreinforce-ai/Ornith-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722052\">https://news.ycombinator.com/item?id=48722052</a></p>\n<p>Points: 173</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/deepreinforce-ai/Ornith-1\">https://github.com/deepreinforce-ai/Ornith-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722052\">https://news.ycombinator.com/item?id=48722052</a></p>\n<p>Points: 211</p>\n<p># Comments: 39</p>",
         "pubDate": "Mon, 29 Jun 2026 17:16:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=48722052"
       },
       {
         "title": "Qwen 3.6 27B is the sweet spot for local development",
         "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen-36-is-awesome/\">https://quesma.com/blog/qwen-36-is-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721903\">https://news.ycombinator.com/item?id=48721903</a></p>\n<p>Points: 705</p>\n<p># Comments: 545</p>",
+        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen-36-is-awesome/\">https://quesma.com/blog/qwen-36-is-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721903\">https://news.ycombinator.com/item?id=48721903</a></p>\n<p>Points: 916</p>\n<p># Comments: 613</p>",
         "pubDate": "Mon, 29 Jun 2026 17:05:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=48721903"
       },
       {
         "title": "US Supreme Court rules geofence warrants require constitutional protections",
         "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\">https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720924\">https://news.ycombinator.com/item?id=48720924</a></p>\n<p>Points: 487</p>\n<p># Comments: 227</p>",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\">https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720924\">https://news.ycombinator.com/item?id=48720924</a></p>\n<p>Points: 526</p>\n<p># Comments: 248</p>",
         "pubDate": "Mon, 29 Jun 2026 15:54:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48720924"
       },
       {
         "title": "A native graphical shell for SSH",
         "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-        "description": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720758\">https://news.ycombinator.com/item?id=48720758</a></p>\n<p>Points: 266</p>\n<p># Comments: 136</p>",
+        "description": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720758\">https://news.ycombinator.com/item?id=48720758</a></p>\n<p>Points: 309</p>\n<p># Comments: 170</p>",
         "pubDate": "Mon, 29 Jun 2026 15:42:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=48720758"
       },
       {
         "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
         "link": "https://humphri.es/blog/WATaBoy/",
-        "description": "<p>Article URL: <a href=\"https://humphri.es/blog/WATaBoy/\">https://humphri.es/blog/WATaBoy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720190\">https://news.ycombinator.com/item?id=48720190</a></p>\n<p>Points: 191</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://humphri.es/blog/WATaBoy/\">https://humphri.es/blog/WATaBoy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720190\">https://news.ycombinator.com/item?id=48720190</a></p>\n<p>Points: 205</p>\n<p># Comments: 34</p>",
         "pubDate": "Mon, 29 Jun 2026 15:02:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48720190"
       },
       {
-        "title": "Working With AI: A concrete example",
-        "link": "https://htmx.org/essays/working-with-ai/",
-        "description": "<p>Article URL: <a href=\"https://htmx.org/essays/working-with-ai/\">https://htmx.org/essays/working-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720064\">https://news.ycombinator.com/item?id=48720064</a></p>\n<p>Points: 107</p>\n<p># Comments: 35</p>",
-        "pubDate": "Mon, 29 Jun 2026 14:53:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48720064"
+        "title": "Linux for the Sega MegaDrive",
+        "link": "https://github.com/LinuxMD/linuxmd",
+        "description": "<p><a href=\"https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/\" rel=\"nofollow\">https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadriv...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720186\">https://news.ycombinator.com/item?id=48720186</a></p>\n<p>Points: 107</p>\n<p># Comments: 15</p>",
+        "pubDate": "Mon, 29 Jun 2026 15:01:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48720186"
       },
       {
         "title": "Rocketlab acquires Iridium",
         "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-        "description": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 381</p>\n<p># Comments: 246</p>",
+        "description": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 413</p>\n<p># Comments: 274</p>",
         "pubDate": "Mon, 29 Jun 2026 14:09:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48719485"
       },
       {
         "title": "What happens when you run a CUDA kernel?",
         "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-        "description": "<p>Article URL: <a href=\"https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/\">https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718863\">https://news.ycombinator.com/item?id=48718863</a></p>\n<p>Points: 227</p>\n<p># Comments: 28</p>",
+        "description": "<p>Article URL: <a href=\"https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/\">https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718863\">https://news.ycombinator.com/item?id=48718863</a></p>\n<p>Points: 256</p>\n<p># Comments: 30</p>",
         "pubDate": "Mon, 29 Jun 2026 13:11:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48718863"
       },
       {
-        "title": "Sandia National Labs SA3000 8085 CPU",
-        "link": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-        "description": "<p>Article URL: <a href=\"https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/\">https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717287\">https://news.ycombinator.com/item?id=48717287</a></p>\n<p>Points: 168</p>\n<p># Comments: 42</p>",
-        "pubDate": "Mon, 29 Jun 2026 10:20:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48717287"
-      },
-      {
         "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
         "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-        "description": "<p>Article URL: <a href=\"https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/\">https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48711981\">https://news.ycombinator.com/item?id=48711981</a></p>\n<p>Points: 411</p>\n<p># Comments: 235</p>",
+        "description": "<p>Article URL: <a href=\"https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/\">https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48711981\">https://news.ycombinator.com/item?id=48711981</a></p>\n<p>Points: 570</p>\n<p># Comments: 337</p>",
         "pubDate": "Sun, 28 Jun 2026 21:42:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48711981"
       },
       {
-        "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-        "link": "https://deep-reinforce.com/ornith_1_0.html",
-        "description": "<p>Article URL: <a href=\"https://deep-reinforce.com/ornith_1_0.html\">https://deep-reinforce.com/ornith_1_0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709744\">https://news.ycombinator.com/item?id=48709744</a></p>\n<p>Points: 66</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sun, 28 Jun 2026 17:58:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48709744"
+        "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+        "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+        "description": "<p>Article URL: <a href=\"https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/\">https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710325\">https://news.ycombinator.com/item?id=48710325</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 28 Jun 2026 18:56:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48710325"
       },
       {
         "title": "One million passports leaked online",
         "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-        "description": "<p><a href=\"https://web.archive.org/web/20260617075233/https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal\" rel=\"nofollow\">https://web.archive.org/web/20260617075233/https://www.theve...</a><p><a href=\"https://archive.ph/n2HnK\" rel=\"nofollow\">https://archive.ph/n2HnK</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706389\">https://news.ycombinator.com/item?id=48706389</a></p>\n<p>Points: 182</p>\n<p># Comments: 106</p>",
+        "description": "<p><a href=\"https://web.archive.org/web/20260617075233/https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal\" rel=\"nofollow\">https://web.archive.org/web/20260617075233/https://www.theve...</a><p><a href=\"https://archive.ph/n2HnK\" rel=\"nofollow\">https://archive.ph/n2HnK</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706389\">https://news.ycombinator.com/item?id=48706389</a></p>\n<p>Points: 272</p>\n<p># Comments: 155</p>",
         "pubDate": "Sun, 28 Jun 2026 11:22:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=48706389"
+      },
+      {
+        "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+        "link": "https://arxiv.org/abs/2606.22283",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.22283\">https://arxiv.org/abs/2606.22283</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702825\">https://news.ycombinator.com/item?id=48702825</a></p>\n<p>Points: 172</p>\n<p># Comments: 23</p>",
+        "pubDate": "Sat, 27 Jun 2026 23:30:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48702825"
+      },
+      {
+        "title": "Old Computer Challenge",
+        "link": "http://occ.sdf.org/",
+        "description": "<p>Article URL: <a href=\"http://occ.sdf.org/\">http://occ.sdf.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702320\">https://news.ycombinator.com/item?id=48702320</a></p>\n<p>Points: 63</p>\n<p># Comments: 24</p>",
+        "pubDate": "Sat, 27 Jun 2026 22:18:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48702320"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-30T04:18:53.078Z",
+  "lastUpdated": "2026-06-30T09:56:06.356Z",
   "stats": {
     "feeds": 2,
     "articles": 20
