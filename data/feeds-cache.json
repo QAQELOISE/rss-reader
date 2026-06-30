@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-06-30T14:36:37.072Z"
+      "lastFetched": "2026-06-30T20:09:46.031Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-06-30T14:36:57.233Z"
+      "lastFetched": "2026-06-30T20:09:56.490Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-        "link": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
-        "description": "<p>Article URL: <a href=\"https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/\">https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48733062\">https://news.ycombinator.com/item?id=48733062</a></p>\n<p>Points: 22</p>\n<p># Comments: 12</p>",
-        "pubDate": "Tue, 30 Jun 2026 14:16:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48733062"
+        "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+        "link": "https://apparent.social/heat-map",
+        "description": "<p>Article URL: <a href=\"https://apparent.social/heat-map\">https://apparent.social/heat-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48737302\">https://news.ycombinator.com/item?id=48737302</a></p>\n<p>Points: 18</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 30 Jun 2026 18:38:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48737302"
       },
       {
-        "title": "Have You Restarted Your Computer This Week?",
-        "link": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-        "description": "<p>Article URL: <a href=\"https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html\">https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48733043\">https://news.ycombinator.com/item?id=48733043</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 30 Jun 2026 14:15:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48733043"
+        "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+        "link": "https://news.ycombinator.com/item?id=48737226",
+        "description": "<p>Just hit this today and I'm furious. I installed the Cursor iOS app to see what it had.<p>I've been on `Privacy Mode (Legacy)` for a long time, which is the \"Do not store my code\" setting. A year or so ago they marked this as \"Legacy\" and hid it under a \"Extra options\" menu. They added a new Privacy Mode which is significantly more wishy-washy about what it might store - it includes a clause of \"Code may be stored for Background Agents or Other Features\", so I've never touched it or wanted to enable it.<p>pic: https://us1.discourse-cdn.com/cursor1/optimized/3X/0/9/09412f800cb07a713d13c034f40eaf28e165e8f4_2_1032x1000.jpeg<p>Upon installing and logging in to the iOS app, my account was changed to the softer Privacy Mode and the previous setting I was on has disappeared from all menus. I contacted support and they've said:<p>> Really sorry about this. When you set up the mobile app, the prompt to turn on Cloud Agents switched you from Privacy Mode (Legacy) to our current Privacy Mode,<p>> without making clear what that meant or that it's hard to undo. That wasn't right, and we're working on making that prompt clearer.<p>><p>> To be straight with you: I'm not able to switch your account back to Privacy Mode (Legacy). The option to move back isn't available in the app today.<p>So just a PSA I guess; do not install or set up the app if you want to keep your privacy settings.<p>I honestly don't understand how it's legal to make logging into the iOS app change your privacy settings at all. Making the option then disappear from all menus so you can't get it back is doubly ridiculous.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48737226\">https://news.ycombinator.com/item?id=48737226</a></p>\n<p>Points: 92</p>\n<p># Comments: 15</p>",
+        "pubDate": "Tue, 30 Jun 2026 18:33:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48737226"
+      },
+      {
+        "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
+        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees\">https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48736839\">https://news.ycombinator.com/item?id=48736839</a></p>\n<p>Points: 41</p>\n<p># Comments: 19</p>",
+        "pubDate": "Tue, 30 Jun 2026 18:12:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48736839"
+      },
+      {
+        "title": "Claude Sonnet 5",
+        "link": "https://www.anthropic.com/news/claude-sonnet-5",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-sonnet-5\">https://www.anthropic.com/news/claude-sonnet-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48736605\">https://news.ycombinator.com/item?id=48736605</a></p>\n<p>Points: 524</p>\n<p># Comments: 272</p>",
+        "pubDate": "Tue, 30 Jun 2026 17:59:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48736605"
+      },
+      {
+        "title": "I built a mmWave material classification radar",
+        "link": "https://gauthier-lechevalier.com/radar",
+        "description": "<p>Article URL: <a href=\"https://gauthier-lechevalier.com/radar\">https://gauthier-lechevalier.com/radar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48736137\">https://news.ycombinator.com/item?id=48736137</a></p>\n<p>Points: 70</p>\n<p># Comments: 24</p>",
+        "pubDate": "Tue, 30 Jun 2026 17:29:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48736137"
+      },
+      {
+        "title": "Claude Science",
+        "link": "https://claude.com/product/claude-science",
+        "description": "<p>Article URL: <a href=\"https://claude.com/product/claude-science\">https://claude.com/product/claude-science</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48735770\">https://news.ycombinator.com/item?id=48735770</a></p>\n<p>Points: 205</p>\n<p># Comments: 80</p>",
+        "pubDate": "Tue, 30 Jun 2026 17:07:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48735770"
+      },
+      {
+        "title": "Xsnow \"protestware\" in Debian",
+        "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\">https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48735554\">https://news.ycombinator.com/item?id=48735554</a></p>\n<p>Points: 101</p>\n<p># Comments: 87</p>",
+        "pubDate": "Tue, 30 Jun 2026 16:54:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48735554"
+      },
+      {
+        "title": "Nano Banana 2 Lite",
+        "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+        "description": "<p>Article URL: <a href=\"https://deepmind.google/models/gemini-image/flash-lite/\">https://deepmind.google/models/gemini-image/flash-lite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48735444\">https://news.ycombinator.com/item?id=48735444</a></p>\n<p>Points: 185</p>\n<p># Comments: 66</p>",
+        "pubDate": "Tue, 30 Jun 2026 16:48:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48735444"
+      },
+      {
+        "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+        "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/\">https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48735376\">https://news.ycombinator.com/item?id=48735376</a></p>\n<p>Points: 158</p>\n<p># Comments: 64</p>",
+        "pubDate": "Tue, 30 Jun 2026 16:44:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48735376"
+      },
+      {
+        "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+        "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+        "description": "<p>Article URL: <a href=\"https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/\">https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48734699\">https://news.ycombinator.com/item?id=48734699</a></p>\n<p>Points: 298</p>\n<p># Comments: 141</p>",
+        "pubDate": "Tue, 30 Jun 2026 16:05:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48734699"
+      },
+      {
+        "title": "Claude Code is steganographically marking requests",
+        "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "description": "<p>Article URL: <a href=\"https://thereallo.dev/blog/claude-code-prompt-steganography\">https://thereallo.dev/blog/claude-code-prompt-steganography</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48734373\">https://news.ycombinator.com/item?id=48734373</a></p>\n<p>Points: 915</p>\n<p># Comments: 250</p>",
+        "pubDate": "Tue, 30 Jun 2026 15:44:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48734373"
+      },
+      {
+        "title": "The labor share of income in the US is at its lowest post-war level",
+        "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+        "description": "<p>Article URL: <a href=\"https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/\">https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48734234\">https://news.ycombinator.com/item?id=48734234</a></p>\n<p>Points: 422</p>\n<p># Comments: 437</p>",
+        "pubDate": "Tue, 30 Jun 2026 15:35:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48734234"
+      },
+      {
+        "title": "Supreme Court upholds broad conception of birthright citizenship",
+        "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026\">https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48733406\">https://news.ycombinator.com/item?id=48733406</a></p>\n<p>Points: 98</p>\n<p># Comments: 209</p>",
+        "pubDate": "Tue, 30 Jun 2026 14:43:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48733406"
       },
       {
         "title": "Looking Ahead to Postgres 19",
         "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-        "description": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/\">https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48733031\">https://news.ycombinator.com/item?id=48733031</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/\">https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48733031\">https://news.ycombinator.com/item?id=48733031</a></p>\n<p>Points: 196</p>\n<p># Comments: 114</p>",
         "pubDate": "Tue, 30 Jun 2026 14:14:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=48733031"
       },
       {
         "title": "Knoppix",
         "link": "https://www.knopper.net/knoppix/index-en.html",
-        "description": "<p>Article URL: <a href=\"https://www.knopper.net/knoppix/index-en.html\">https://www.knopper.net/knoppix/index-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48732056\">https://news.ycombinator.com/item?id=48732056</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.knopper.net/knoppix/index-en.html\">https://www.knopper.net/knoppix/index-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48732056\">https://news.ycombinator.com/item?id=48732056</a></p>\n<p>Points: 177</p>\n<p># Comments: 81</p>",
         "pubDate": "Tue, 30 Jun 2026 12:54:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48732056"
       },
       {
         "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
         "link": "https://www.gutenberg.org/ebooks/24518",
-        "description": "<p>Article URL: <a href=\"https://www.gutenberg.org/ebooks/24518\">https://www.gutenberg.org/ebooks/24518</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48731989\">https://news.ycombinator.com/item?id=48731989</a></p>\n<p>Points: 41</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://www.gutenberg.org/ebooks/24518\">https://www.gutenberg.org/ebooks/24518</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48731989\">https://news.ycombinator.com/item?id=48731989</a></p>\n<p>Points: 136</p>\n<p># Comments: 39</p>",
         "pubDate": "Tue, 30 Jun 2026 12:47:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=48731989"
       },
       {
-        "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-        "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-        "description": "<p>Article URL: <a href=\"https://cekrem.github.io/posts/parse-dont-validate-typescript/\">https://cekrem.github.io/posts/parse-dont-validate-typescript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730818\">https://news.ycombinator.com/item?id=48730818</a></p>\n<p>Points: 77</p>\n<p># Comments: 59</p>",
-        "pubDate": "Tue, 30 Jun 2026 10:48:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48730818"
-      },
-      {
-        "title": "European digital ID wallets rely on safety services of Google and Apple",
-        "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-        "description": "<p>Article URL: <a href=\"https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/\">https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730729\">https://news.ycombinator.com/item?id=48730729</a></p>\n<p>Points: 465</p>\n<p># Comments: 199</p>",
-        "pubDate": "Tue, 30 Jun 2026 10:36:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48730729"
-      },
-      {
         "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
         "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-        "description": "<p>Article URL: <a href=\"https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/\">https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730713\">https://news.ycombinator.com/item?id=48730713</a></p>\n<p>Points: 47</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/\">https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730713\">https://news.ycombinator.com/item?id=48730713</a></p>\n<p>Points: 122</p>\n<p># Comments: 12</p>",
         "pubDate": "Tue, 30 Jun 2026 10:34:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=48730713"
       },
       {
         "title": "Exercise intensity influences body composition in healthy older adults (2025)",
         "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-        "description": "<p>Article URL: <a href=\"https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext\">https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730694\">https://news.ycombinator.com/item?id=48730694</a></p>\n<p>Points: 105</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext\">https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730694\">https://news.ycombinator.com/item?id=48730694</a></p>\n<p>Points: 184</p>\n<p># Comments: 153</p>",
         "pubDate": "Tue, 30 Jun 2026 10:31:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=48730694"
       },
       {
-        "title": "The US ambassador had Belgian police stop our reporting",
-        "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-        "description": "<p>Article URL: <a href=\"https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting\">https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48730608\">https://news.ycombinator.com/item?id=48730608</a></p>\n<p>Points: 480</p>\n<p># Comments: 171</p>",
-        "pubDate": "Tue, 30 Jun 2026 10:15:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48730608"
-      },
-      {
-        "title": "Exploring PDP-1 Lisp (1960)",
-        "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-        "description": "<p>Article URL: <a href=\"https://obsolescence.dev/pdp1-lisp-introduction.html\">https://obsolescence.dev/pdp1-lisp-introduction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727323\">https://news.ycombinator.com/item?id=48727323</a></p>\n<p>Points: 94</p>\n<p># Comments: 23</p>",
-        "pubDate": "Tue, 30 Jun 2026 00:56:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48727323"
-      },
-      {
         "title": "Memory Safe Context Switching",
         "link": "https://fil-c.org/context_switches",
-        "description": "<p>Article URL: <a href=\"https://fil-c.org/context_switches\">https://fil-c.org/context_switches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727177\">https://news.ycombinator.com/item?id=48727177</a></p>\n<p>Points: 168</p>\n<p># Comments: 26</p>",
+        "description": "<p>Article URL: <a href=\"https://fil-c.org/context_switches\">https://fil-c.org/context_switches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727177\">https://news.ycombinator.com/item?id=48727177</a></p>\n<p>Points: 198</p>\n<p># Comments: 30</p>",
         "pubDate": "Tue, 30 Jun 2026 00:38:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48727177"
       },
       {
         "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
         "link": "https://longcat.chat/blog/longcat-2.0/",
-        "description": "<p>Article URL: <a href=\"https://longcat.chat/blog/longcat-2.0/\">https://longcat.chat/blog/longcat-2.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727116\">https://news.ycombinator.com/item?id=48727116</a></p>\n<p>Points: 206</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://longcat.chat/blog/longcat-2.0/\">https://longcat.chat/blog/longcat-2.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727116\">https://news.ycombinator.com/item?id=48727116</a></p>\n<p>Points: 258</p>\n<p># Comments: 76</p>",
         "pubDate": "Tue, 30 Jun 2026 00:30:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=48727116"
-      },
-      {
-        "title": ".self: A new top-level domain designed to support self-hosting",
-        "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-        "description": "<p>Article URL: <a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\">https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48724230\">https://news.ycombinator.com/item?id=48724230</a></p>\n<p>Points: 587</p>\n<p># Comments: 335</p>",
-        "pubDate": "Mon, 29 Jun 2026 19:49:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48724230"
-      },
-      {
-        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-        "link": "https://github.com/deepreinforce-ai/Ornith-1",
-        "description": "<p>Article URL: <a href=\"https://github.com/deepreinforce-ai/Ornith-1\">https://github.com/deepreinforce-ai/Ornith-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722052\">https://news.ycombinator.com/item?id=48722052</a></p>\n<p>Points: 234</p>\n<p># Comments: 44</p>",
-        "pubDate": "Mon, 29 Jun 2026 17:16:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48722052"
-      },
-      {
-        "title": "Qwen 3.6 27B is the sweet spot for local development",
-        "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen-36-is-awesome/\">https://quesma.com/blog/qwen-36-is-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721903\">https://news.ycombinator.com/item?id=48721903</a></p>\n<p>Points: 1025</p>\n<p># Comments: 667</p>",
-        "pubDate": "Mon, 29 Jun 2026 17:05:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48721903"
-      },
-      {
-        "title": "US Supreme Court rules geofence warrants require constitutional protections",
-        "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\">https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720924\">https://news.ycombinator.com/item?id=48720924</a></p>\n<p>Points: 568</p>\n<p># Comments: 263</p>",
-        "pubDate": "Mon, 29 Jun 2026 15:54:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48720924"
-      },
-      {
-        "title": "Linux for the Sega MegaDrive",
-        "link": "https://github.com/LinuxMD/linuxmd",
-        "description": "<p><a href=\"https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/\" rel=\"nofollow\">https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadriv...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720186\">https://news.ycombinator.com/item?id=48720186</a></p>\n<p>Points: 166</p>\n<p># Comments: 38</p>",
-        "pubDate": "Mon, 29 Jun 2026 15:01:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48720186"
-      },
-      {
-        "title": "Rocketlab acquires Iridium",
-        "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-        "description": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 434</p>\n<p># Comments: 288</p>",
-        "pubDate": "Mon, 29 Jun 2026 14:09:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48719485"
-      },
-      {
-        "title": "Who are the fire-tamers?",
-        "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
-        "description": "<p>Article URL: <a href=\"https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france\">https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709662\">https://news.ycombinator.com/item?id=48709662</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sun, 28 Jun 2026 17:49:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48709662"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-06-30T14:36:57.233Z",
+  "lastUpdated": "2026-06-30T20:09:56.490Z",
   "stats": {
     "feeds": 2,
     "articles": 20
