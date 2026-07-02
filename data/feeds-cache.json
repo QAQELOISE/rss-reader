@@ -5,24 +5,143 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-02T14:23:38.655Z"
+      "lastFetched": "2026-07-02T19:44:21.878Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-02T14:23:49.189Z"
+      "lastFetched": "2026-07-02T19:44:41.774Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
+        "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html\">https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766076\">https://news.ycombinator.com/item?id=48766076</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 02 Jul 2026 19:16:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48766076"
+      },
+      {
+        "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+        "link": "https://openjdk.org/jeps/539",
+        "description": "<p>Article URL: <a href=\"https://openjdk.org/jeps/539\">https://openjdk.org/jeps/539</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765830\">https://news.ycombinator.com/item?id=48765830</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 02 Jul 2026 18:56:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48765830"
+      },
+      {
+        "title": "Exapunks (2018)",
+        "link": "https://www.zachtronics.com/exapunks/",
+        "description": "<p>Article URL: <a href=\"https://www.zachtronics.com/exapunks/\">https://www.zachtronics.com/exapunks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765663\">https://news.ycombinator.com/item?id=48765663</a></p>\n<p>Points: 61</p>\n<p># Comments: 17</p>",
+        "pubDate": "Thu, 02 Jul 2026 18:41:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48765663"
+      },
+      {
+        "title": "Postgres transactions are a distributed systems superpower",
+        "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+        "description": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data\">https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765639\">https://news.ycombinator.com/item?id=48765639</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 02 Jul 2026 18:38:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48765639"
+      },
+      {
+        "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+        "link": "https://github.com/anthropics/claude-code/issues/73125",
+        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/73125\">https://github.com/anthropics/claude-code/issues/73125</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765630\">https://news.ycombinator.com/item?id=48765630</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 02 Jul 2026 18:37:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48765630"
+      },
+      {
+        "title": "Vulkan is now available on NetBSD",
+        "link": "https://github.com/segaboy/vulkan-netbsd",
+        "description": "<p>Article URL: <a href=\"https://github.com/segaboy/vulkan-netbsd\">https://github.com/segaboy/vulkan-netbsd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765607\">https://news.ycombinator.com/item?id=48765607</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 02 Jul 2026 18:36:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48765607"
+      },
+      {
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "link": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@iblech/116769502749142438\">https://mathstodon.xyz/@iblech/116769502749142438</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763035\">https://news.ycombinator.com/item?id=48763035</a></p>\n<p>Points: 282</p>\n<p># Comments: 141</p>",
+        "pubDate": "Thu, 02 Jul 2026 15:25:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48763035"
+      },
+      {
+        "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+        "link": "https://manufact.com",
+        "description": "<p>Hi HN, we are Pietro and Luigi, cofounders of Manufact (<a href=\"https://manufact.com\">https://manufact.com</a>), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: <a href=\"https://github.com/mcp-use/mcp-use\" rel=\"nofollow\">https://github.com/mcp-use/mcp-use</a>. We did a Show HN about that last year: <a href=\"https://news.ycombinator.com/item?id=44747229\">https://news.ycombinator.com/item?id=44747229</a>.<p>Today we want to tell you about our cloud product, Manufact, which is to mcp-use as Vercel is to Next.js. Manufact is an MCP vertical cloud designed for dev teams putting MCP Apps and servers in production.You can ship, iterate on, test and monitor your MCPs, and get them ready for the store submissions. All with the best developer and agent experience in mind.<p>Here is a demo video of the product: <a href=\"https://www.youtube.com/watch?v=R2rbr5OT9LI\" rel=\"nofollow\">https://www.youtube.com/watch?v=R2rbr5OT9LI</a>.<p>We have been working on MCP since April 2025. Our first focus was making it easy to build agents that could use any MCP server, and a lot of people started using our SDKs. Then the harness revolution kicked off: Claude Code, Claude Cowork, ChatGPT, Codex, OpenCode started shipping agent harnesses that made most standalone agent frameworks redundant. That pushed us to the other side of the connection, the servers. If agents were going to consolidate into a few harnesses, then first-class integration with the rest of a company's systems (i.e. MCP) would become the thing that mattered, so we started building up our server SDKs.<p>Then in succession:<p>1. Oct 2025. ChatGPT Apps SDK. OpenAI brings app UIs to ChatGPT, built on top of MCP and the work of mcp-ui.\n2. Late 2025. The stores open. ChatGPT starts accepting app submissions, Claude grows its connector directory with selected partners.\n3. Jan 2026. MCP Apps becomes official. SEP-1865 merges as the first MCP extension (io.modelcontextprotocol/ui): one UI standard any host can render.<p>Today, all the major clients fully support MCP and are opening marketplaces of reviewed MCPs that can be one click installed. All major tech companies have an MCP server, and many of those are reporting that already 15+% of their usage comes from their MCP, and we start to have a good way to distribute them just now.<p>MCP can return fully interactive UIs. So companies can (1) display data in more meaningful ways to their users (e.g. analytics, ecommerce) and (2) display their branding in some of the most used products on the planet (ChatGPT, Claude etc). Numbers: an engineer at Amplitude reported that their MCP saw a 2x increase in retention after adding UI to their MCP.<p>Clients (Claude, ChatGPT, Cursor) are starting to dynamically present MCP servers/apps to users, based on their intent. Products will be organically discovered on the chats!<p>We feel that MCP is reaching its maturity moment. Now that MCPs are starting to be easy to install and discover, there is going to be a huge incentive for users to use them and for companies to create them:<p>1 - Most work is already done from AI chats, this is not going to stop, MCP gives you a way to interact with products without manually using their dashboards.<p>2 - MCP allows you to bring the context together in one place: you can read an email, create a ticket while plugged into the source code of your product, or your knowledge base. Aggregation of products that was not possible before, will happen in the chat, orchestrated by increasingly intelligent models.<p>If AI apps (Codex, Claude Desktop) are the new browsers, as PG said in a recent tweet <a href=\"https://x.com/paulg/status/2069080429236191504\" rel=\"nofollow\">https://x.com/paulg/status/2069080429236191504</a>, then MCPs are the new websites.<p>But there is a catch:<p>- Submission process on the stores is still quite tricky, manual and takes up valuable time.\n- Hardly anybody knows how to design a good MCP: most of them are 1:1 proxies of the API and are abandoned, since being one shotted a few months ago.\n- The MCP Spec advances quickly and it is not easy to keep track of the changes, and what they mean for your server.\n- Auth is still a mystery for most teams (API key in the URL ???).\n- Most companies are not even aware that MCPs can return interactive UIs.\n- Clients still have to consolidate behavior, some do dynamic tool discovery, some don't, some persist authentication properly some don't.<p>We built Manufact and mcp-use to solve these problems.\nOur SDKs help them build good MCPs, our inspector helps them test locally, and our cloud helps them ship/publish and monitor them in production.<p>To deploy on Manufact you just need to connect a Github app, pick the repo, we'll detect the framework you are working with and get you a live MCP url as soon as possible.<p>In our platform, that live URL will be used to give you a chat where you can try/debug your MCP immediately and share it with your team. If you push an update on a new experimental branch, you'll be able to test that as well thanks to preview deployments.<p>Once your server is ready to go live, we help you make sure that it does not break. You can configure automated tests that will take your MCP server, install it in ChatGPT and Claude and test it. We do not test the model, we test the client (model + harness). This way you reliably know if your server breaks where people use it.<p>Since publishing on the store is a major distribution unlock for companies (your MCP can be dynamically discovered and one click installed across Claude\nproducts, and ChatGPT), we collected a set of requirements that will keep your submission from being rejected. You check this locally before going through the actual review process.<p>Once your server is live, you'll want to understand how it is used. Our analytics are designed for MCP, so you'll know how many users are hitting\nyour MCP, how many tool calls you receive, from which client.<p>You can try out <a href=\"https://manufact.com\">https://manufact.com</a> for free today. We have usage-based pricing and on our free account we give free credits for you to try it out. If you have an\nMCP already, just connect your Github repo and deploy, if not you can build one using our skill and SDKs pretty simply (we will guide you in the onboarding).<p>We would love to hear feedback about the product in the comments, and hear thoughts from everyone about MCP. Thanks! :)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762862\">https://news.ycombinator.com/item?id=48762862</a></p>\n<p>Points: 77</p>\n<p># Comments: 50</p>",
+        "pubDate": "Thu, 02 Jul 2026 15:11:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48762862"
+      },
+      {
+        "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+        "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+        "description": "<p>Article URL: <a href=\"https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\">https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762725\">https://news.ycombinator.com/item?id=48762725</a></p>\n<p>Points: 287</p>\n<p># Comments: 78</p>",
+        "pubDate": "Thu, 02 Jul 2026 15:02:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48762725"
+      },
+      {
+        "title": "Podman v6.0.0",
+        "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+        "description": "<p>Article URL: <a href=\"https://blog.podman.io/2026/07/introducing-podman-v6-0-0/\">https://blog.podman.io/2026/07/introducing-podman-v6-0-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762098\">https://news.ycombinator.com/item?id=48762098</a></p>\n<p>Points: 124</p>\n<p># Comments: 38</p>",
+        "pubDate": "Thu, 02 Jul 2026 14:23:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48762098"
+      },
+      {
+        "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+        "link": "https://github.com/rafal-qa/slopo",
+        "description": "<p>Article URL: <a href=\"https://github.com/rafal-qa/slopo\">https://github.com/rafal-qa/slopo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762038\">https://news.ycombinator.com/item?id=48762038</a></p>\n<p>Points: 56</p>\n<p># Comments: 24</p>",
+        "pubDate": "Thu, 02 Jul 2026 14:19:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48762038"
+      },
+      {
+        "title": "No LLM Code in Dependencies",
+        "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+        "description": "<p>Article URL: <a href=\"https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/\">https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762008\">https://news.ycombinator.com/item?id=48762008</a></p>\n<p>Points: 48</p>\n<p># Comments: 23</p>",
+        "pubDate": "Thu, 02 Jul 2026 14:17:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48762008"
+      },
+      {
+        "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+        "link": "https://mailmemories.com",
+        "description": "<p>Hey HN, I’m the creator of Mail Memories. Like many of you, I've had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buried deep in my account. I ended up finding lots of \"lost\" pictures of old friends, family members, and a ridiculous number of vintage memes.<p>I originally built and launched this as a SaaS, but even with code and policies in place that kept users' photos private, I figured everyone would feel more comfortable with a desktop app.<p>So, I threw out the server architecture and completely rewrote it as a 100% local desktop app for Mac and Windows.<p>How it works now: The app connects directly to Google's server from your computer, processes everything entirely on your system, and saves photos straight to your hard drive.<p>You can download your 50 oldest photos for free (no credit card required) just to see what's in there. If you want to download all the pictures in your account, it's a one-time payment of $29. No subscriptions.<p>If you have an old, pre-2010 Gmail account, definitely give it a spin. You'll be surprised at what you find deep in your archive.<p>I'd love to hear your feedback on the layout, scanning performance, or anything else.<p>TL;DR: I turned my SaaS into a local desktop app (Mac/Windows) that recovers decades of forgotten photos from your Gmail. 100% local, no cloud, no subscriptions, no AI.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762000\">https://news.ycombinator.com/item?id=48762000</a></p>\n<p>Points: 93</p>\n<p># Comments: 38</p>",
+        "pubDate": "Thu, 02 Jul 2026 14:16:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48762000"
+      },
+      {
+        "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+        "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+        "description": "<p>Article URL: <a href=\"https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/\">https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761536\">https://news.ycombinator.com/item?id=48761536</a></p>\n<p>Points: 284</p>\n<p># Comments: 148</p>",
+        "pubDate": "Thu, 02 Jul 2026 13:43:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48761536"
+      },
+      {
         "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
         "link": "https://www.zerofs.net/",
-        "description": "<p>Article URL: <a href=\"https://www.zerofs.net/\">https://www.zerofs.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761493\">https://news.ycombinator.com/item?id=48761493</a></p>\n<p>Points: 22</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://www.zerofs.net/\">https://www.zerofs.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761493\">https://news.ycombinator.com/item?id=48761493</a></p>\n<p>Points: 101</p>\n<p># Comments: 47</p>",
         "pubDate": "Thu, 02 Jul 2026 13:41:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=48761493"
+      },
+      {
+        "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+        "link": "https://freegraphpaper.net/",
+        "description": "<p>Article URL: <a href=\"https://freegraphpaper.net/\">https://freegraphpaper.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761294\">https://news.ycombinator.com/item?id=48761294</a></p>\n<p>Points: 68</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 02 Jul 2026 13:29:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48761294"
+      },
+      {
+        "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+        "link": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+        "description": "<p>Article URL: <a href=\"https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a\">https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761229\">https://news.ycombinator.com/item?id=48761229</a></p>\n<p>Points: 318</p>\n<p># Comments: 151</p>",
+        "pubDate": "Thu, 02 Jul 2026 13:25:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48761229"
+      },
+      {
+        "title": "How to ask for help from people who don't know you",
+        "link": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+        "description": "<p>Article URL: <a href=\"https://pradyuprasad.com/writings/how-to-ask-for-help/\">https://pradyuprasad.com/writings/how-to-ask-for-help/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761118\">https://news.ycombinator.com/item?id=48761118</a></p>\n<p>Points: 230</p>\n<p># Comments: 33</p>",
+        "pubDate": "Thu, 02 Jul 2026 13:19:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48761118"
       },
       {
         "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
@@ -32,135 +151,16 @@
         "guid": "https://news.ycombinator.com/item?id=48761068"
       },
       {
-        "title": "Winamp Skin Museum",
-        "link": "https://skins.webamp.org",
-        "description": "<p>Article URL: <a href=\"https://skins.webamp.org\">https://skins.webamp.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760840\">https://news.ycombinator.com/item?id=48760840</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
-        "pubDate": "Thu, 02 Jul 2026 12:58:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48760840"
-      },
-      {
-        "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
-        "link": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
-        "description": "<p>Article URL: <a href=\"https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy\">https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760669\">https://news.ycombinator.com/item?id=48760669</a></p>\n<p>Points: 28</p>\n<p># Comments: 1</p>",
-        "pubDate": "Thu, 02 Jul 2026 12:46:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48760669"
-      },
-      {
-        "title": "AI fake news complaining about how AI fake news is the death of real news",
-        "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/\">https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760598\">https://news.ycombinator.com/item?id=48760598</a></p>\n<p>Points: 88</p>\n<p># Comments: 22</p>",
-        "pubDate": "Thu, 02 Jul 2026 12:40:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48760598"
-      },
-      {
-        "title": "This blog is written in en-GB",
-        "link": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
-        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/\">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760289\">https://news.ycombinator.com/item?id=48760289</a></p>\n<p>Points: 256</p>\n<p># Comments: 216</p>",
-        "pubDate": "Thu, 02 Jul 2026 12:17:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48760289"
-      },
-      {
         "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
         "link": "https://arxiv.org/abs/2607.01232",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.01232\">https://arxiv.org/abs/2607.01232</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760201\">https://news.ycombinator.com/item?id=48760201</a></p>\n<p>Points: 32</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.01232\">https://arxiv.org/abs/2607.01232</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760201\">https://news.ycombinator.com/item?id=48760201</a></p>\n<p>Points: 113</p>\n<p># Comments: 28</p>",
         "pubDate": "Thu, 02 Jul 2026 12:10:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48760201"
-      },
-      {
-        "title": "Many people misunderstand the purpose of code review",
-        "link": "https://mathstodon.xyz/@mjd/115096720350507897",
-        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@mjd/115096720350507897\">https://mathstodon.xyz/@mjd/115096720350507897</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48759870\">https://news.ycombinator.com/item?id=48759870</a></p>\n<p>Points: 50</p>\n<p># Comments: 28</p>",
-        "pubDate": "Thu, 02 Jul 2026 11:41:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48759870"
-      },
-      {
-        "title": "Vite+ Beta",
-        "link": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-        "description": "<p>Article URL: <a href=\"https://voidzero.dev/posts/announcing-vite-plus-beta\">https://voidzero.dev/posts/announcing-vite-plus-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48759761\">https://news.ycombinator.com/item?id=48759761</a></p>\n<p>Points: 121</p>\n<p># Comments: 67</p>",
-        "pubDate": "Thu, 02 Jul 2026 11:30:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48759761"
-      },
-      {
-        "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-        "link": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
-        "description": "<p>Article URL: <a href=\"https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0\">https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758970\">https://news.ycombinator.com/item?id=48758970</a></p>\n<p>Points: 198</p>\n<p># Comments: 118</p>",
-        "pubDate": "Thu, 02 Jul 2026 10:00:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48758970"
-      },
-      {
-        "title": "Google loses fight over record $4.7B EU antitrust fine",
-        "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html\">https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758309\">https://news.ycombinator.com/item?id=48758309</a></p>\n<p>Points: 208</p>\n<p># Comments: 168</p>",
-        "pubDate": "Thu, 02 Jul 2026 08:34:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48758309"
-      },
-      {
-        "title": "The fall of the theorem economy",
-        "link": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-        "description": "<p>Article URL: <a href=\"https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy\">https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758048\">https://news.ycombinator.com/item?id=48758048</a></p>\n<p>Points: 135</p>\n<p># Comments: 53</p>",
-        "pubDate": "Thu, 02 Jul 2026 08:01:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48758048"
-      },
-      {
-        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-        "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/\">https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48756602\">https://news.ycombinator.com/item?id=48756602</a></p>\n<p>Points: 261</p>\n<p># Comments: 108</p>",
-        "pubDate": "Thu, 02 Jul 2026 04:32:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48756602"
-      },
-      {
-        "title": "Android Developer Verification: Threat masquerading as Protection",
-        "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-        "description": "<p>Article URL: <a href=\"https://f-droid.org/2026/07/01/adv-malware.html\">https://f-droid.org/2026/07/01/adv-malware.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755965\">https://news.ycombinator.com/item?id=48755965</a></p>\n<p>Points: 1045</p>\n<p># Comments: 420</p>",
-        "pubDate": "Thu, 02 Jul 2026 03:00:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48755965"
-      },
-      {
-        "title": "Bring back crappy forums",
-        "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/07/01/online-web-forums-retrospective/\">https://tedium.co/2026/07/01/online-web-forums-retrospective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755731\">https://news.ycombinator.com/item?id=48755731</a></p>\n<p>Points: 400</p>\n<p># Comments: 254</p>",
-        "pubDate": "Thu, 02 Jul 2026 02:30:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48755731"
-      },
-      {
-        "title": "Oomwoo, an open-source robot vacuum you build yourself",
-        "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-        "description": "<p>Article URL: <a href=\"https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\">https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755005\">https://news.ycombinator.com/item?id=48755005</a></p>\n<p>Points: 386</p>\n<p># Comments: 73</p>",
-        "pubDate": "Thu, 02 Jul 2026 00:48:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48755005"
-      },
-      {
-        "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
-        "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/\">https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753979\">https://news.ycombinator.com/item?id=48753979</a></p>\n<p>Points: 203</p>\n<p># Comments: 219</p>",
-        "pubDate": "Wed, 01 Jul 2026 22:27:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48753979"
-      },
-      {
-        "title": "ZCode – Harness for GLM-5.2",
-        "link": "https://zcode.z.ai/en",
-        "description": "<p>Article URL: <a href=\"https://zcode.z.ai/en\">https://zcode.z.ai/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753715\">https://news.ycombinator.com/item?id=48753715</a></p>\n<p>Points: 458</p>\n<p># Comments: 312</p>",
-        "pubDate": "Wed, 01 Jul 2026 22:03:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48753715"
-      },
-      {
-        "title": "Proliferate (YC S25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753045\">https://news.ycombinator.com/item?id=48753045</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 01 Jul 2026 21:00:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48753045"
-      },
-      {
-        "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-        "link": "https://www.weaverobotics.com/isaac-1",
-        "description": "<p><a href=\"https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch\" rel=\"nofollow\">https://runtimewire.com/article/weave-robotics-isaac-1-home-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750989\">https://news.ycombinator.com/item?id=48750989</a></p>\n<p>Points: 212</p>\n<p># Comments: 314</p>",
-        "pubDate": "Wed, 01 Jul 2026 18:12:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48750989"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-02T14:23:49.190Z",
+  "lastUpdated": "2026-07-02T19:44:41.774Z",
   "stats": {
     "feeds": 2,
     "articles": 20
