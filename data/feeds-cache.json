@@ -5,92 +5,113 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-02T04:14:11.204Z"
+      "lastFetched": "2026-07-02T09:28:17.317Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-02T04:14:16.512Z"
+      "lastFetched": "2026-07-02T09:28:24.101Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Google loses fight over record $4.7B EU antitrust fine",
+        "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html\">https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758309\">https://news.ycombinator.com/item?id=48758309</a></p>\n<p>Points: 28</p>\n<p># Comments: 5</p>",
+        "pubDate": "Thu, 02 Jul 2026 08:34:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48758309"
+      },
+      {
+        "title": "We Don't Have to Be This Bad at Improving Society",
+        "link": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+        "description": "<p>Article URL: <a href=\"https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/\">https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758242\">https://news.ycombinator.com/item?id=48758242</a></p>\n<p>Points: 44</p>\n<p># Comments: 39</p>",
+        "pubDate": "Thu, 02 Jul 2026 08:26:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48758242"
+      },
+      {
+        "title": "The Fall of the Theorem Economy",
+        "link": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+        "description": "<p>Article URL: <a href=\"https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy\">https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758048\">https://news.ycombinator.com/item?id=48758048</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 02 Jul 2026 08:01:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48758048"
+      },
+      {
+        "title": "CursorBench 3.1",
+        "link": "https://cursor.com/evals",
+        "description": "<p>Article URL: <a href=\"https://cursor.com/evals\">https://cursor.com/evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48756840\">https://news.ycombinator.com/item?id=48756840</a></p>\n<p>Points: 59</p>\n<p># Comments: 37</p>",
+        "pubDate": "Thu, 02 Jul 2026 05:19:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48756840"
+      },
+      {
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/\">https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48756602\">https://news.ycombinator.com/item?id=48756602</a></p>\n<p>Points: 139</p>\n<p># Comments: 47</p>",
+        "pubDate": "Thu, 02 Jul 2026 04:32:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48756602"
+      },
+      {
+        "title": "A new Android malware from Google",
+        "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+        "description": "<p>Article URL: <a href=\"https://f-droid.org/2026/07/01/adv-malware.html\">https://f-droid.org/2026/07/01/adv-malware.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755965\">https://news.ycombinator.com/item?id=48755965</a></p>\n<p>Points: 382</p>\n<p># Comments: 176</p>",
+        "pubDate": "Thu, 02 Jul 2026 03:00:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48755965"
+      },
+      {
         "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
         "link": "https://senior-swe-bench.snorkel.ai/",
-        "description": "<p>Article URL: <a href=\"https://senior-swe-bench.snorkel.ai/\">https://senior-swe-bench.snorkel.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755928\">https://news.ycombinator.com/item?id=48755928</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://senior-swe-bench.snorkel.ai/\">https://senior-swe-bench.snorkel.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755928\">https://news.ycombinator.com/item?id=48755928</a></p>\n<p>Points: 79</p>\n<p># Comments: 65</p>",
         "pubDate": "Thu, 02 Jul 2026 02:55:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=48755928"
       },
       {
-        "title": "Bring Back Crappy Forums",
+        "title": "Bring back crappy forums",
         "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/07/01/online-web-forums-retrospective/\">https://tedium.co/2026/07/01/online-web-forums-retrospective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755731\">https://news.ycombinator.com/item?id=48755731</a></p>\n<p>Points: 47</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/07/01/online-web-forums-retrospective/\">https://tedium.co/2026/07/01/online-web-forums-retrospective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755731\">https://news.ycombinator.com/item?id=48755731</a></p>\n<p>Points: 254</p>\n<p># Comments: 150</p>",
         "pubDate": "Thu, 02 Jul 2026 02:30:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=48755731"
       },
       {
-        "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+        "title": "Oomwoo, an open-source robot vacuum you build yourself",
         "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-        "description": "<p>Article URL: <a href=\"https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\">https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755005\">https://news.ycombinator.com/item?id=48755005</a></p>\n<p>Points: 93</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\">https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755005\">https://news.ycombinator.com/item?id=48755005</a></p>\n<p>Points: 280</p>\n<p># Comments: 53</p>",
         "pubDate": "Thu, 02 Jul 2026 00:48:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48755005"
       },
       {
-        "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-        "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-        "description": "<p>Article URL: <a href=\"https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\">https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754963\">https://news.ycombinator.com/item?id=48754963</a></p>\n<p>Points: 200</p>\n<p># Comments: 170</p>",
-        "pubDate": "Thu, 02 Jul 2026 00:40:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48754963"
-      },
-      {
-        "title": "The <Usermedia> HTML Element",
-        "link": "https://developer.chrome.com/blog/usermedia-html-element",
-        "description": "<p>Article URL: <a href=\"https://developer.chrome.com/blog/usermedia-html-element\">https://developer.chrome.com/blog/usermedia-html-element</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754700\">https://news.ycombinator.com/item?id=48754700</a></p>\n<p>Points: 54</p>\n<p># Comments: 23</p>",
-        "pubDate": "Wed, 01 Jul 2026 23:56:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48754700"
-      },
-      {
-        "title": "Healthy but sedentary people show early decline in cellular energy production",
-        "link": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-        "description": "<p>Article URL: <a href=\"https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production\">https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754155\">https://news.ycombinator.com/item?id=48754155</a></p>\n<p>Points: 87</p>\n<p># Comments: 63</p>",
-        "pubDate": "Wed, 01 Jul 2026 22:48:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48754155"
-      },
-      {
         "title": "The Underhanded C Contest",
         "link": "https://underhanded-c.org/",
-        "description": "<p>Article URL: <a href=\"https://underhanded-c.org/\">https://underhanded-c.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754080\">https://news.ycombinator.com/item?id=48754080</a></p>\n<p>Points: 55</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://underhanded-c.org/\">https://underhanded-c.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754080\">https://news.ycombinator.com/item?id=48754080</a></p>\n<p>Points: 91</p>\n<p># Comments: 11</p>",
         "pubDate": "Wed, 01 Jul 2026 22:39:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=48754080"
       },
       {
         "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
         "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/\">https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753979\">https://news.ycombinator.com/item?id=48753979</a></p>\n<p>Points: 79</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/\">https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753979\">https://news.ycombinator.com/item?id=48753979</a></p>\n<p>Points: 154</p>\n<p># Comments: 146</p>",
         "pubDate": "Wed, 01 Jul 2026 22:27:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=48753979"
       },
       {
         "title": "ZCode – Harness for GLM-5.2",
         "link": "https://zcode.z.ai/en",
-        "description": "<p>Article URL: <a href=\"https://zcode.z.ai/en\">https://zcode.z.ai/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753715\">https://news.ycombinator.com/item?id=48753715</a></p>\n<p>Points: 270</p>\n<p># Comments: 236</p>",
+        "description": "<p>Article URL: <a href=\"https://zcode.z.ai/en\">https://zcode.z.ai/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753715\">https://news.ycombinator.com/item?id=48753715</a></p>\n<p>Points: 392</p>\n<p># Comments: 291</p>",
         "pubDate": "Wed, 01 Jul 2026 22:03:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=48753715"
       },
       {
-        "title": "Chip Off the Old Block",
+        "title": "Chip Off The Old Block",
         "link": "https://www.astralcodexten.com/p/chip-off-the-old-block",
-        "description": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/chip-off-the-old-block\">https://www.astralcodexten.com/p/chip-off-the-old-block</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753524\">https://news.ycombinator.com/item?id=48753524</a></p>\n<p>Points: 60</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/chip-off-the-old-block\">https://www.astralcodexten.com/p/chip-off-the-old-block</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753524\">https://news.ycombinator.com/item?id=48753524</a></p>\n<p>Points: 81</p>\n<p># Comments: 8</p>",
         "pubDate": "Wed, 01 Jul 2026 21:42:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48753524"
       },
       {
         "title": "Qualcomm Linux 2.0",
         "link": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available\">https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753069\">https://news.ycombinator.com/item?id=48753069</a></p>\n<p>Points: 65</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available\">https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753069\">https://news.ycombinator.com/item?id=48753069</a></p>\n<p>Points: 102</p>\n<p># Comments: 45</p>",
         "pubDate": "Wed, 01 Jul 2026 21:01:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48753069"
       },
@@ -104,63 +125,42 @@
       {
         "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
         "link": "https://www.workerowned.info/",
-        "description": "<p>Article URL: <a href=\"https://www.workerowned.info/\">https://www.workerowned.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752905\">https://news.ycombinator.com/item?id=48752905</a></p>\n<p>Points: 282</p>\n<p># Comments: 57</p>",
+        "description": "<p>Article URL: <a href=\"https://www.workerowned.info/\">https://www.workerowned.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752905\">https://news.ycombinator.com/item?id=48752905</a></p>\n<p>Points: 344</p>\n<p># Comments: 67</p>",
         "pubDate": "Wed, 01 Jul 2026 20:47:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48752905"
       },
       {
-        "title": "Fable 5 Is Back",
-        "link": "https://twitter.com/claudeai/status/2072402636813607381",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/claudeai/status/2072402636813607381\">https://twitter.com/claudeai/status/2072402636813607381</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752030\">https://news.ycombinator.com/item?id=48752030</a></p>\n<p>Points: 347</p>\n<p># Comments: 329</p>",
-        "pubDate": "Wed, 01 Jul 2026 19:35:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48752030"
-      },
-      {
         "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
         "link": "https://www.weaverobotics.com/isaac-1",
-        "description": "<p><a href=\"https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch\" rel=\"nofollow\">https://runtimewire.com/article/weave-robotics-isaac-1-home-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750989\">https://news.ycombinator.com/item?id=48750989</a></p>\n<p>Points: 107</p>\n<p># Comments: 148</p>",
+        "description": "<p><a href=\"https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch\" rel=\"nofollow\">https://runtimewire.com/article/weave-robotics-isaac-1-home-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750989\">https://news.ycombinator.com/item?id=48750989</a></p>\n<p>Points: 177</p>\n<p># Comments: 246</p>",
         "pubDate": "Wed, 01 Jul 2026 18:12:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48750989"
       },
       {
+        "title": "Learn Vim motions with an ice-cream van",
+        "link": "https://thisismodest.com/vimscoops/",
+        "description": "<p>Article URL: <a href=\"https://thisismodest.com/vimscoops/\">https://thisismodest.com/vimscoops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750803\">https://news.ycombinator.com/item?id=48750803</a></p>\n<p>Points: 68</p>\n<p># Comments: 14</p>",
+        "pubDate": "Wed, 01 Jul 2026 18:00:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48750803"
+      },
+      {
         "title": "What to learn to be a graphics programmer",
         "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-        "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/\">https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750710\">https://news.ycombinator.com/item?id=48750710</a></p>\n<p>Points: 266</p>\n<p># Comments: 145</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/\">https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750710\">https://news.ycombinator.com/item?id=48750710</a></p>\n<p>Points: 339</p>\n<p># Comments: 177</p>",
         "pubDate": "Wed, 01 Jul 2026 17:53:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48750710"
       },
       {
         "title": "How We Made IPFS Content Publishing 10x Faster",
         "link": "https://probelab.io/blog/optimistic-provide/",
-        "description": "<p>Article URL: <a href=\"https://probelab.io/blog/optimistic-provide/\">https://probelab.io/blog/optimistic-provide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48748518\">https://news.ycombinator.com/item?id=48748518</a></p>\n<p>Points: 151</p>\n<p># Comments: 51</p>",
+        "description": "<p>Article URL: <a href=\"https://probelab.io/blog/optimistic-provide/\">https://probelab.io/blog/optimistic-provide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48748518\">https://news.ycombinator.com/item?id=48748518</a></p>\n<p>Points: 165</p>\n<p># Comments: 54</p>",
         "pubDate": "Wed, 01 Jul 2026 15:30:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48748518"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (July 2026)",
-        "link": "https://news.ycombinator.com/item?id=48747976",
-        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=48747975\">https://news.ycombinator.com/item?id=48747975</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747976\">https://news.ycombinator.com/item?id=48747976</a></p>\n<p>Points: 167</p>\n<p># Comments: 183</p>",
-        "pubDate": "Wed, 01 Jul 2026 15:01:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48747976"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (July 2026)",
-        "link": "https://news.ycombinator.com/item?id=48747975",
-        "description": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-wants-to-be-hired\" rel=\"nofollow\">https://nthesis.ai/public/hn-wants-to-be-hired</a>, <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747975\">https://news.ycombinator.com/item?id=48747975</a></p>\n<p>Points: 110</p>\n<p># Comments: 267</p>",
-        "pubDate": "Wed, 01 Jul 2026 15:01:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48747975"
-      },
-      {
-        "title": "For first time, a cell built from scratch grows and divides",
-        "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-        "description": "<p><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a><p><a href=\"https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https://www.science.org/content/article/lab-created-spudcell...</a><p><a href=\"https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/interactive/2026/07/01/science/spudc...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747304\">https://news.ycombinator.com/item?id=48747304</a></p>\n<p>Points: 775</p>\n<p># Comments: 260</p>",
-        "pubDate": "Wed, 01 Jul 2026 14:20:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48747304"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-02T04:14:16.512Z",
+  "lastUpdated": "2026-07-02T09:28:24.101Z",
   "stats": {
     "feeds": 2,
     "articles": 20
