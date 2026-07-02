@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-01T20:05:57.820Z"
+      "lastFetched": "2026-07-02T04:14:11.204Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-01T20:05:58.092Z"
+      "lastFetched": "2026-07-02T04:14:16.512Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "link": "https://senior-swe-bench.snorkel.ai/",
+        "description": "<p>Article URL: <a href=\"https://senior-swe-bench.snorkel.ai/\">https://senior-swe-bench.snorkel.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755928\">https://news.ycombinator.com/item?id=48755928</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+        "pubDate": "Thu, 02 Jul 2026 02:55:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48755928"
+      },
+      {
+        "title": "Bring Back Crappy Forums",
+        "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/07/01/online-web-forums-retrospective/\">https://tedium.co/2026/07/01/online-web-forums-retrospective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755731\">https://news.ycombinator.com/item?id=48755731</a></p>\n<p>Points: 47</p>\n<p># Comments: 24</p>",
+        "pubDate": "Thu, 02 Jul 2026 02:30:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48755731"
+      },
+      {
+        "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+        "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+        "description": "<p>Article URL: <a href=\"https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\">https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755005\">https://news.ycombinator.com/item?id=48755005</a></p>\n<p>Points: 93</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 02 Jul 2026 00:48:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48755005"
+      },
+      {
+        "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
+        "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+        "description": "<p>Article URL: <a href=\"https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\">https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754963\">https://news.ycombinator.com/item?id=48754963</a></p>\n<p>Points: 200</p>\n<p># Comments: 170</p>",
+        "pubDate": "Thu, 02 Jul 2026 00:40:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48754963"
+      },
+      {
+        "title": "The <Usermedia> HTML Element",
+        "link": "https://developer.chrome.com/blog/usermedia-html-element",
+        "description": "<p>Article URL: <a href=\"https://developer.chrome.com/blog/usermedia-html-element\">https://developer.chrome.com/blog/usermedia-html-element</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754700\">https://news.ycombinator.com/item?id=48754700</a></p>\n<p>Points: 54</p>\n<p># Comments: 23</p>",
+        "pubDate": "Wed, 01 Jul 2026 23:56:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48754700"
+      },
+      {
+        "title": "Healthy but sedentary people show early decline in cellular energy production",
+        "link": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+        "description": "<p>Article URL: <a href=\"https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production\">https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754155\">https://news.ycombinator.com/item?id=48754155</a></p>\n<p>Points: 87</p>\n<p># Comments: 63</p>",
+        "pubDate": "Wed, 01 Jul 2026 22:48:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48754155"
+      },
+      {
+        "title": "The Underhanded C Contest",
+        "link": "https://underhanded-c.org/",
+        "description": "<p>Article URL: <a href=\"https://underhanded-c.org/\">https://underhanded-c.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754080\">https://news.ycombinator.com/item?id=48754080</a></p>\n<p>Points: 55</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 01 Jul 2026 22:39:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48754080"
+      },
+      {
+        "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+        "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/\">https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753979\">https://news.ycombinator.com/item?id=48753979</a></p>\n<p>Points: 79</p>\n<p># Comments: 59</p>",
+        "pubDate": "Wed, 01 Jul 2026 22:27:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48753979"
+      },
+      {
+        "title": "ZCode – Harness for GLM-5.2",
+        "link": "https://zcode.z.ai/en",
+        "description": "<p>Article URL: <a href=\"https://zcode.z.ai/en\">https://zcode.z.ai/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753715\">https://news.ycombinator.com/item?id=48753715</a></p>\n<p>Points: 270</p>\n<p># Comments: 236</p>",
+        "pubDate": "Wed, 01 Jul 2026 22:03:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48753715"
+      },
+      {
+        "title": "Chip Off the Old Block",
+        "link": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+        "description": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/chip-off-the-old-block\">https://www.astralcodexten.com/p/chip-off-the-old-block</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753524\">https://news.ycombinator.com/item?id=48753524</a></p>\n<p>Points: 60</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 01 Jul 2026 21:42:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48753524"
+      },
+      {
+        "title": "Qualcomm Linux 2.0",
+        "link": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
+        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available\">https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753069\">https://news.ycombinator.com/item?id=48753069</a></p>\n<p>Points: 65</p>\n<p># Comments: 22</p>",
+        "pubDate": "Wed, 01 Jul 2026 21:01:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48753069"
+      },
+      {
+        "title": "Proliferate (YC S25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753045\">https://news.ycombinator.com/item?id=48753045</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 01 Jul 2026 21:00:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48753045"
+      },
+      {
+        "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+        "link": "https://www.workerowned.info/",
+        "description": "<p>Article URL: <a href=\"https://www.workerowned.info/\">https://www.workerowned.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752905\">https://news.ycombinator.com/item?id=48752905</a></p>\n<p>Points: 282</p>\n<p># Comments: 57</p>",
+        "pubDate": "Wed, 01 Jul 2026 20:47:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48752905"
+      },
+      {
         "title": "Fable 5 Is Back",
         "link": "https://twitter.com/claudeai/status/2072402636813607381",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/claudeai/status/2072402636813607381\">https://twitter.com/claudeai/status/2072402636813607381</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752030\">https://news.ycombinator.com/item?id=48752030</a></p>\n<p>Points: 81</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/claudeai/status/2072402636813607381\">https://twitter.com/claudeai/status/2072402636813607381</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752030\">https://news.ycombinator.com/item?id=48752030</a></p>\n<p>Points: 347</p>\n<p># Comments: 329</p>",
         "pubDate": "Wed, 01 Jul 2026 19:35:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48752030"
       },
       {
-        "title": "Claude Fable 5 Promotional Access",
-        "link": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
-        "description": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access\">https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48751978\">https://news.ycombinator.com/item?id=48751978</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 01 Jul 2026 19:31:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48751978"
-      },
-      {
-        "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
-        "link": "https://github.com/Division-36/Z-Jail/",
-        "description": "<p>Article URL: <a href=\"https://github.com/Division-36/Z-Jail/\">https://github.com/Division-36/Z-Jail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48751824\">https://news.ycombinator.com/item?id=48751824</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 01 Jul 2026 19:18:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48751824"
-      },
-      {
-        "title": "ZCode: Claude Code from the Makers of GLM",
-        "link": "https://zcode.z.ai/cn",
-        "description": "<p>Article URL: <a href=\"https://zcode.z.ai/cn\">https://zcode.z.ai/cn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48751752\">https://news.ycombinator.com/item?id=48751752</a></p>\n<p>Points: 89</p>\n<p># Comments: 24</p>",
-        "pubDate": "Wed, 01 Jul 2026 19:11:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48751752"
-      },
-      {
-        "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
-        "link": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
-        "description": "<p>Article URL: <a href=\"https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch\">https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750989\">https://news.ycombinator.com/item?id=48750989</a></p>\n<p>Points: 14</p>\n<p># Comments: 22</p>",
+        "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+        "link": "https://www.weaverobotics.com/isaac-1",
+        "description": "<p><a href=\"https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch\" rel=\"nofollow\">https://runtimewire.com/article/weave-robotics-isaac-1-home-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750989\">https://news.ycombinator.com/item?id=48750989</a></p>\n<p>Points: 107</p>\n<p># Comments: 148</p>",
         "pubDate": "Wed, 01 Jul 2026 18:12:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48750989"
       },
       {
-        "title": "What to Learn to Be a Graphics Programmer",
+        "title": "What to learn to be a graphics programmer",
         "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-        "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/\">https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750710\">https://news.ycombinator.com/item?id=48750710</a></p>\n<p>Points: 101</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/\">https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750710\">https://news.ycombinator.com/item?id=48750710</a></p>\n<p>Points: 266</p>\n<p># Comments: 145</p>",
         "pubDate": "Wed, 01 Jul 2026 17:53:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48750710"
       },
       {
-        "title": "Building Gin: Simple over Easy",
-        "link": "https://manualmeida.dev/articles/gin-simple-over-easy/",
-        "description": "<p>Article URL: <a href=\"https://manualmeida.dev/articles/gin-simple-over-easy/\">https://manualmeida.dev/articles/gin-simple-over-easy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750593\">https://news.ycombinator.com/item?id=48750593</a></p>\n<p>Points: 42</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 01 Jul 2026 17:45:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48750593"
-      },
-      {
-        "title": "Hanami 3.0: In Full Bloom",
-        "link": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
-        "description": "<p>Article URL: <a href=\"https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom\">https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750527\">https://news.ycombinator.com/item?id=48750527</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 01 Jul 2026 17:41:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48750527"
-      },
-      {
-        "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
-        "link": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
-        "description": "<p>Article URL: <a href=\"https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study\">https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750373\">https://news.ycombinator.com/item?id=48750373</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 01 Jul 2026 17:29:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48750373"
-      },
-      {
-        "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
-        "link": "https://wasm.chdb.io/",
-        "description": "<p>Article URL: <a href=\"https://wasm.chdb.io/\">https://wasm.chdb.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750000\">https://news.ycombinator.com/item?id=48750000</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 01 Jul 2026 17:05:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48750000"
-      },
-      {
-        "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
-        "link": "https://github.com/pglayers/pglayers",
-        "description": "<p>Article URL: <a href=\"https://github.com/pglayers/pglayers\">https://github.com/pglayers/pglayers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48749752\">https://news.ycombinator.com/item?id=48749752</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 01 Jul 2026 16:50:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48749752"
-      },
-      {
-        "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
-        "link": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-        "description": "<p>Article URL: <a href=\"https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second\">https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48749313\">https://news.ycombinator.com/item?id=48749313</a></p>\n<p>Points: 39</p>\n<p># Comments: 15</p>",
-        "pubDate": "Wed, 01 Jul 2026 16:19:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48749313"
-      },
-      {
         "title": "How We Made IPFS Content Publishing 10x Faster",
         "link": "https://probelab.io/blog/optimistic-provide/",
-        "description": "<p>Article URL: <a href=\"https://probelab.io/blog/optimistic-provide/\">https://probelab.io/blog/optimistic-provide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48748518\">https://news.ycombinator.com/item?id=48748518</a></p>\n<p>Points: 109</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://probelab.io/blog/optimistic-provide/\">https://probelab.io/blog/optimistic-provide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48748518\">https://news.ycombinator.com/item?id=48748518</a></p>\n<p>Points: 151</p>\n<p># Comments: 51</p>",
         "pubDate": "Wed, 01 Jul 2026 15:30:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48748518"
       },
       {
         "title": "Ask HN: Who is hiring? (July 2026)",
         "link": "https://news.ycombinator.com/item?id=48747976",
-        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=48747975\">https://news.ycombinator.com/item?id=48747975</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747976\">https://news.ycombinator.com/item?id=48747976</a></p>\n<p>Points: 106</p>\n<p># Comments: 119</p>",
+        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=48747975\">https://news.ycombinator.com/item?id=48747975</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747976\">https://news.ycombinator.com/item?id=48747976</a></p>\n<p>Points: 167</p>\n<p># Comments: 183</p>",
         "pubDate": "Wed, 01 Jul 2026 15:01:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=48747976"
       },
       {
         "title": "Ask HN: Who wants to be hired? (July 2026)",
         "link": "https://news.ycombinator.com/item?id=48747975",
-        "description": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-wants-to-be-hired\" rel=\"nofollow\">https://nthesis.ai/public/hn-wants-to-be-hired</a>, <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747975\">https://news.ycombinator.com/item?id=48747975</a></p>\n<p>Points: 75</p>\n<p># Comments: 170</p>",
+        "description": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-wants-to-be-hired\" rel=\"nofollow\">https://nthesis.ai/public/hn-wants-to-be-hired</a>, <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747975\">https://news.ycombinator.com/item?id=48747975</a></p>\n<p>Points: 110</p>\n<p># Comments: 267</p>",
         "pubDate": "Wed, 01 Jul 2026 15:01:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=48747975"
       },
       {
-        "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-        "link": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-        "description": "<p>Article URL: <a href=\"https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for\">https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747389\">https://news.ycombinator.com/item?id=48747389</a></p>\n<p>Points: 348</p>\n<p># Comments: 170</p>",
-        "pubDate": "Wed, 01 Jul 2026 14:26:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48747389"
-      },
-      {
         "title": "For first time, a cell built from scratch grows and divides",
         "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-        "description": "<p><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747304\">https://news.ycombinator.com/item?id=48747304</a></p>\n<p>Points: 548</p>\n<p># Comments: 183</p>",
+        "description": "<p><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a><p><a href=\"https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https://www.science.org/content/article/lab-created-spudcell...</a><p><a href=\"https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/interactive/2026/07/01/science/spudc...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747304\">https://news.ycombinator.com/item?id=48747304</a></p>\n<p>Points: 775</p>\n<p># Comments: 260</p>",
         "pubDate": "Wed, 01 Jul 2026 14:20:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48747304"
-      },
-      {
-        "title": "FFmpeg 9.1's new AAC encoder",
-        "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-        "description": "<p>Article URL: <a href=\"https://hydrogenaudio.org/index.php/topic,129691.0.html\">https://hydrogenaudio.org/index.php/topic,129691.0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747116\">https://news.ycombinator.com/item?id=48747116</a></p>\n<p>Points: 148</p>\n<p># Comments: 60</p>",
-        "pubDate": "Wed, 01 Jul 2026 14:10:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48747116"
-      },
-      {
-        "title": "Monetization Gateway",
-        "link": "https://blog.cloudflare.com/monetization-gateway/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/monetization-gateway/\">https://blog.cloudflare.com/monetization-gateway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48746914\">https://news.ycombinator.com/item?id=48746914</a></p>\n<p>Points: 180</p>\n<p># Comments: 101</p>",
-        "pubDate": "Wed, 01 Jul 2026 13:59:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48746914"
-      },
-      {
-        "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-        "link": "https://news.ycombinator.com/item?id=48746752",
-        "description": "<p>Hi all, it’s Greg and Max, founders of Parsewise here (<a href=\"https://www.parsewise.ai/api\">https://www.parsewise.ai/api</a>). Parsewise transforms a bucket of unstructured data into schema compliant data, retaining lineage for values resolved across documents.<p>Imagine giving Claude a bunch of files and asking for a CSV or JSON output. If you have tried this, you know both the system limitations (number of files, type of inputs, cost, latency) but also the human-facing challenge of having no way to validate the results quickly. We solve both.\nWe help tech teams simplify their unstructured data ETL, and loop in business experts for the definitions and for instant validation.<p>Here is a video with a few use cases: <a href=\"https://www.youtube.com/watch?v=dbRllnnh47w\" rel=\"nofollow\">https://www.youtube.com/watch?v=dbRllnnh47w</a><p>Parsewise in the words of someone coming to us:\n”I need to extract information from insurance policy PDFs, phone calls that have been transcribed, emails, etc. I am NOT looking for something that would just extract data point by data point, page by page into a structured well-defined schema but more something more agentic that can understand that information might be across documents and that it should reason over what to extract.”<p>We started the company based on a decade of experience (and pain) in complex data transformation and data analysis / synthesis. Greg was building both classical ETL and implemented AI workflows at Palantir. At Bain, Max did highly complex data analysis in the financial sector, similar to many of our customers.<p>Parsewise works by taking in a bucket of data (think hundreds or thousands of pdfs, excels etc.), and outputting schema compliant data where every single value is traceable down to word level citations across multiple documents in the bucket. We provide API customers with ways to show the lineage in their own applications, or they can use our platform for internal operations.\nAt the core of the data processing we have self-improving agent definitions. They define the acceptable sources, the logic for resolving or combining values, and the rule for highlighting uncertainty to the end user.<p>The underlying tech is model and cloud agnostic and can be deployed in private networks. We have seen the best results with Gemini models for visual reasoning, achieving SOTA (beating Claude Fable) on the strongest grounded reasoning benchmark we have found (Databricks OfficeQA).\nNotably, we focused more on the “human harness” rather than the model harness, leaning into the actual friction we saw in uptake, which is around verifiability. That means optimizing the time and clicks required to trust the outcomes.\nWe use vLLMs for parsing, and then we use small models for efficient large scale exhaustive search. Unlike RAG, we do not sample; instead, we exhaustively find all relevant values for a given query. We use larger models for decision making around resolutions and flagging inconsistencies to users.<p>This exhaustiveness and explicit value sourcing is unique to our platform, and it goes beyond the first step of data parsing that many existing providers cover.<p>We would love to welcome builders and tinkerers to try Parsewise on your complex document challenges. We have a ton of ideas on how we can expand the product and make it better, but would appreciate feedback and ideas from the community!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48746752\">https://news.ycombinator.com/item?id=48746752</a></p>\n<p>Points: 39</p>\n<p># Comments: 35</p>",
-        "pubDate": "Wed, 01 Jul 2026 13:48:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48746752"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-01T20:05:58.092Z",
+  "lastUpdated": "2026-07-02T04:14:16.512Z",
   "stats": {
     "feeds": 2,
     "articles": 20
