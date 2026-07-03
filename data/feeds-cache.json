@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-03T04:00:32.336Z"
+      "lastFetched": "2026-07-03T09:31:57.500Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-03T04:00:51.924Z"
+      "lastFetched": "2026-07-03T09:32:05.726Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+        "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/\">https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48772443\">https://news.ycombinator.com/item?id=48772443</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 03 Jul 2026 08:31:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48772443"
+      },
+      {
+        "title": "Half-Baked Product",
+        "link": "https://weli.dev/blog/half-baked-product/",
+        "description": "<p>Article URL: <a href=\"https://weli.dev/blog/half-baked-product/\">https://weli.dev/blog/half-baked-product/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48772388\">https://news.ycombinator.com/item?id=48772388</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 03 Jul 2026 08:23:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48772388"
+      },
+      {
+        "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+        "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+        "description": "<p>Article URL: <a href=\"https://manticoresearch.com/blog/onnx-embeddings-speedup/\">https://manticoresearch.com/blog/onnx-embeddings-speedup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48770477\">https://news.ycombinator.com/item?id=48770477</a></p>\n<p>Points: 47</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 03 Jul 2026 03:49:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48770477"
+      },
+      {
+        "title": "AI is 'not smart' so what's next in artificial intelligence?",
+        "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cj6gr0xkyr3o\">https://www.bbc.com/news/articles/cj6gr0xkyr3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48769696\">https://news.ycombinator.com/item?id=48769696</a></p>\n<p>Points: 37</p>\n<p># Comments: 40</p>",
+        "pubDate": "Fri, 03 Jul 2026 01:42:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48769696"
+      },
+      {
+        "title": "The Safari MCP server for web developers",
+        "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+        "description": "<p>Article URL: <a href=\"https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\">https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48769639\">https://news.ycombinator.com/item?id=48769639</a></p>\n<p>Points: 86</p>\n<p># Comments: 14</p>",
+        "pubDate": "Fri, 03 Jul 2026 01:37:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48769639"
+      },
+      {
         "title": "CarPlay Is Additive",
         "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-        "description": "<p>Article URL: <a href=\"https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\">https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48769397\">https://news.ycombinator.com/item?id=48769397</a></p>\n<p>Points: 80</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\">https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48769397\">https://news.ycombinator.com/item?id=48769397</a></p>\n<p>Points: 282</p>\n<p># Comments: 342</p>",
         "pubDate": "Fri, 03 Jul 2026 01:02:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=48769397"
       },
       {
-        "title": "Order a burned CD of your own public GitHub repo",
-        "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl",
-        "description": "<p>Article URL: <a href=\"https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl\">https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768997\">https://news.ycombinator.com/item?id=48768997</a></p>\n<p>Points: 110</p>\n<p># Comments: 82</p>",
-        "pubDate": "Fri, 03 Jul 2026 00:01:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48768997"
-      },
-      {
         "title": "An American Privacy Emergency",
         "link": "https://scottaaronson.blog/?p=9902",
-        "description": "<p>Recent and related:<p><i>Noise infusion banned from statistical products published by Census Bureau</i> - <a href=\"https://news.ycombinator.com/item?id=48517377\">https://news.ycombinator.com/item?id=48517377</a> - June 2026 (604 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768992\">https://news.ycombinator.com/item?id=48768992</a></p>\n<p>Points: 206</p>\n<p># Comments: 69</p>",
+        "description": "<p>Recent and related:<p><i>Noise infusion banned from statistical products published by Census Bureau</i> - <a href=\"https://news.ycombinator.com/item?id=48517377\">https://news.ycombinator.com/item?id=48517377</a> - June 2026 (604 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768992\">https://news.ycombinator.com/item?id=48768992</a></p>\n<p>Points: 300</p>\n<p># Comments: 93</p>",
         "pubDate": "Fri, 03 Jul 2026 00:01:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48768992"
       },
       {
         "title": "Right to Local Intelligence",
         "link": "https://righttointelligence.org/",
-        "description": "<p>Article URL: <a href=\"https://righttointelligence.org/\">https://righttointelligence.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768951\">https://news.ycombinator.com/item?id=48768951</a></p>\n<p>Points: 71</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://righttointelligence.org/\">https://righttointelligence.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768951\">https://news.ycombinator.com/item?id=48768951</a></p>\n<p>Points: 232</p>\n<p># Comments: 78</p>",
         "pubDate": "Thu, 02 Jul 2026 23:54:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48768951"
       },
       {
         "title": "crustc: entirety of `rustc`, translated to C",
         "link": "https://github.com/FractalFir/crustc",
-        "description": "<p>Article URL: <a href=\"https://github.com/FractalFir/crustc\">https://github.com/FractalFir/crustc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768464\">https://news.ycombinator.com/item?id=48768464</a></p>\n<p>Points: 175</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/FractalFir/crustc\">https://github.com/FractalFir/crustc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768464\">https://news.ycombinator.com/item?id=48768464</a></p>\n<p>Points: 274</p>\n<p># Comments: 54</p>",
         "pubDate": "Thu, 02 Jul 2026 22:57:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48768464"
       },
       {
         "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
         "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-        "description": "<p>Article URL: <a href=\"https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html\">https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768336\">https://news.ycombinator.com/item?id=48768336</a></p>\n<p>Points: 66</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html\">https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48768336\">https://news.ycombinator.com/item?id=48768336</a></p>\n<p>Points: 104</p>\n<p># Comments: 61</p>",
         "pubDate": "Thu, 02 Jul 2026 22:44:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=48768336"
       },
       {
         "title": "Virginia bans sale of geolocation data",
         "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-        "description": "<p>Article URL: <a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\">https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48767347\">https://news.ycombinator.com/item?id=48767347</a></p>\n<p>Points: 588</p>\n<p># Comments: 102</p>",
+        "description": "<p>Article URL: <a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\">https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48767347\">https://news.ycombinator.com/item?id=48767347</a></p>\n<p>Points: 757</p>\n<p># Comments: 122</p>",
         "pubDate": "Thu, 02 Jul 2026 21:03:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=48767347"
       },
       {
-        "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-        "link": "http://www.lmdb.tech/doc/",
-        "description": "<p>Article URL: <a href=\"http://www.lmdb.tech/doc/\">http://www.lmdb.tech/doc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766598\">https://news.ycombinator.com/item?id=48766598</a></p>\n<p>Points: 68</p>\n<p># Comments: 39</p>",
-        "pubDate": "Thu, 02 Jul 2026 20:01:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48766598"
-      },
-      {
         "title": "Great Salt Lake Tracker – Grow the Flow",
         "link": "https://growtheflowutah.org/laketracker/",
-        "description": "<p>Article URL: <a href=\"https://growtheflowutah.org/laketracker/\">https://growtheflowutah.org/laketracker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766286\">https://news.ycombinator.com/item?id=48766286</a></p>\n<p>Points: 70</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://growtheflowutah.org/laketracker/\">https://growtheflowutah.org/laketracker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766286\">https://news.ycombinator.com/item?id=48766286</a></p>\n<p>Points: 99</p>\n<p># Comments: 37</p>",
         "pubDate": "Thu, 02 Jul 2026 19:33:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48766286"
       },
       {
-        "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
-        "link": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-        "description": "<p>Article URL: <a href=\"https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf\">https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766209\">https://news.ycombinator.com/item?id=48766209</a></p>\n<p>Points: 115</p>\n<p># Comments: 45</p>",
+        "title": "EFF letter to FTC on X consent order [pdf]",
+        "link": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
+        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected\">https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766209\">https://news.ycombinator.com/item?id=48766209</a></p>\n<p>Points: 139</p>\n<p># Comments: 57</p>",
         "pubDate": "Thu, 02 Jul 2026 19:27:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=48766209"
       },
       {
         "title": "The short leash AI coding method for beating Fable",
         "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-        "description": "<p>Article URL: <a href=\"https://blog.okturtles.org/2026/07/short-leash-ai-method/\">https://blog.okturtles.org/2026/07/short-leash-ai-method/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766026\">https://news.ycombinator.com/item?id=48766026</a></p>\n<p>Points: 78</p>\n<p># Comments: 79</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.okturtles.org/2026/07/short-leash-ai-method/\">https://blog.okturtles.org/2026/07/short-leash-ai-method/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766026\">https://news.ycombinator.com/item?id=48766026</a></p>\n<p>Points: 130</p>\n<p># Comments: 156</p>",
         "pubDate": "Thu, 02 Jul 2026 19:11:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48766026"
       },
       {
         "title": "Claude-real-video － any LLM can watch a video",
         "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "description": "<p>Article URL: <a href=\"https://github.com/HUANGCHIHHUNGLeo/claude-real-video\">https://github.com/HUANGCHIHHUNGLeo/claude-real-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766005\">https://news.ycombinator.com/item?id=48766005</a></p>\n<p>Points: 93</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/HUANGCHIHHUNGLeo/claude-real-video\">https://github.com/HUANGCHIHHUNGLeo/claude-real-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48766005\">https://news.ycombinator.com/item?id=48766005</a></p>\n<p>Points: 133</p>\n<p># Comments: 41</p>",
         "pubDate": "Thu, 02 Jul 2026 19:10:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48766005"
       },
       {
         "title": "Exapunks (2018)",
         "link": "https://www.zachtronics.com/exapunks/",
-        "description": "<p>Article URL: <a href=\"https://www.zachtronics.com/exapunks/\">https://www.zachtronics.com/exapunks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765663\">https://news.ycombinator.com/item?id=48765663</a></p>\n<p>Points: 234</p>\n<p># Comments: 82</p>",
+        "description": "<p>Article URL: <a href=\"https://www.zachtronics.com/exapunks/\">https://www.zachtronics.com/exapunks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765663\">https://news.ycombinator.com/item?id=48765663</a></p>\n<p>Points: 290</p>\n<p># Comments: 99</p>",
         "pubDate": "Thu, 02 Jul 2026 18:41:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48765663"
       },
       {
         "title": "Postgres transactions are a distributed systems superpower",
         "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-        "description": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data\">https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765639\">https://news.ycombinator.com/item?id=48765639</a></p>\n<p>Points: 128</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data\">https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765639\">https://news.ycombinator.com/item?id=48765639</a></p>\n<p>Points: 175</p>\n<p># Comments: 73</p>",
         "pubDate": "Thu, 02 Jul 2026 18:38:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=48765639"
       },
       {
         "title": "This is my attempt to get Vulkan going on NetBSD",
         "link": "https://github.com/segaboy/vulkan-netbsd",
-        "description": "<p>Article URL: <a href=\"https://github.com/segaboy/vulkan-netbsd\">https://github.com/segaboy/vulkan-netbsd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765607\">https://news.ycombinator.com/item?id=48765607</a></p>\n<p>Points: 88</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/segaboy/vulkan-netbsd\">https://github.com/segaboy/vulkan-netbsd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48765607\">https://news.ycombinator.com/item?id=48765607</a></p>\n<p>Points: 106</p>\n<p># Comments: 30</p>",
         "pubDate": "Thu, 02 Jul 2026 18:36:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=48765607"
       },
       {
         "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
         "link": "https://zk.golf/",
-        "description": "<p>Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHowever to prove anything, the computation first has to be expressed as a circuit: a system of polynomial equations (constraints) over a finite field. \nCircuits are the assembly language of zk and every constraint costs prover (and sometimes verifier) time, so production circuits are aggressively hand-optimized.<p>Over the last months, we have been experimenting with writing formal specifications instead and letting LLMs produce the circuits: as long as they could prove that their implementation was correct. \nIt started with SHA-256: we hand wrote a specification in Lean for SHA-256 compression, and then we asked LLMs to write the circuit, targeting R1CS arithmetization and large fields.<p>It took a few hours of work for Opus 4.7, and some light steering into the right direction, but in the end the model came up with a reasonable implementation. We then asked the LLM to aggressively optimize the circuits, by driving down a cost metric of the circuit (number of constraints). We immediately got very promising results, just by asking to come up with optimization ideas, implement them and prove that the new circuit still satisfies soundness and completeness. Sometimes, it came up with unsound optimizations, however, since it could not prove them, it backtracked and got itself back on to the right approach.<p>The result was a (non-deterministic) circuit beating the current, human optimized, state of the art for SHA256 compression. This experience lead us to create \"zk.golf\" which is an open competition to produce optimized, formally verified circuits to lower the bar for the use of ZKPs and make their application more efficient.<p>Come play (<a href=\"https://zk.golf/llms.txt\" rel=\"nofollow\">https://zk.golf/llms.txt</a>) and learn about formal verification.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763246\">https://news.ycombinator.com/item?id=48763246</a></p>\n<p>Points: 49</p>\n<p># Comments: 5</p>",
+        "description": "<p>Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHowever to prove anything, the computation first has to be expressed as a circuit: a system of polynomial equations (constraints) over a finite field. \nCircuits are the assembly language of zk and every constraint costs prover (and sometimes verifier) time, so production circuits are aggressively hand-optimized.<p>Over the last months, we have been experimenting with writing formal specifications instead and letting LLMs produce the circuits: as long as they could prove that their implementation was correct. \nIt started with SHA-256: we hand wrote a specification in Lean for SHA-256 compression, and then we asked LLMs to write the circuit, targeting R1CS arithmetization and large fields.<p>It took a few hours of work for Opus 4.7, and some light steering into the right direction, but in the end the model came up with a reasonable implementation. We then asked the LLM to aggressively optimize the circuits, by driving down a cost metric of the circuit (number of constraints). We immediately got very promising results, just by asking to come up with optimization ideas, implement them and prove that the new circuit still satisfies soundness and completeness. Sometimes, it came up with unsound optimizations, however, since it could not prove them, it backtracked and got itself back on to the right approach.<p>The result was a (non-deterministic) circuit beating the current, human optimized, state of the art for SHA256 compression. This experience lead us to create \"zk.golf\" which is an open competition to produce optimized, formally verified circuits to lower the bar for the use of ZKPs and make their application more efficient.<p>Come play (<a href=\"https://zk.golf/llms.txt\" rel=\"nofollow\">https://zk.golf/llms.txt</a>) and learn about formal verification.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763246\">https://news.ycombinator.com/item?id=48763246</a></p>\n<p>Points: 59</p>\n<p># Comments: 9</p>",
         "pubDate": "Thu, 02 Jul 2026 15:40:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=48763246"
       },
       {
-        "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
-        "link": "https://kendal.codeberg.page/inkwell/",
-        "description": "<p>Article URL: <a href=\"https://kendal.codeberg.page/inkwell/\">https://kendal.codeberg.page/inkwell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763222\">https://news.ycombinator.com/item?id=48763222</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
-        "pubDate": "Thu, 02 Jul 2026 15:38:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48763222"
-      },
-      {
         "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
         "link": "https://mathstodon.xyz/@iblech/116769502749142438",
-        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@iblech/116769502749142438\">https://mathstodon.xyz/@iblech/116769502749142438</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763035\">https://news.ycombinator.com/item?id=48763035</a></p>\n<p>Points: 422</p>\n<p># Comments: 190</p>",
+        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@iblech/116769502749142438\">https://mathstodon.xyz/@iblech/116769502749142438</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763035\">https://news.ycombinator.com/item?id=48763035</a></p>\n<p>Points: 465</p>\n<p># Comments: 203</p>",
         "pubDate": "Thu, 02 Jul 2026 15:25:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=48763035"
-      },
-      {
-        "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
-        "link": "https://apple.github.io/foundationdb/flow.html",
-        "description": "<p>Article URL: <a href=\"https://apple.github.io/foundationdb/flow.html\">https://apple.github.io/foundationdb/flow.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762372\">https://news.ycombinator.com/item?id=48762372</a></p>\n<p>Points: 44</p>\n<p># Comments: 6</p>",
-        "pubDate": "Thu, 02 Jul 2026 14:41:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48762372"
-      },
-      {
-        "title": "Podman v6.0.0",
-        "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-        "description": "<p>Article URL: <a href=\"https://blog.podman.io/2026/07/introducing-podman-v6-0-0/\">https://blog.podman.io/2026/07/introducing-podman-v6-0-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762098\">https://news.ycombinator.com/item?id=48762098</a></p>\n<p>Points: 416</p>\n<p># Comments: 167</p>",
-        "pubDate": "Thu, 02 Jul 2026 14:23:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48762098"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-03T04:00:51.924Z",
+  "lastUpdated": "2026-07-03T09:32:05.726Z",
   "stats": {
     "feeds": 2,
     "articles": 20
