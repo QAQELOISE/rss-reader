@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-04T13:52:18.834Z"
+      "lastFetched": "2026-07-04T19:25:55.471Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-04T13:52:38.917Z"
+      "lastFetched": "2026-07-04T19:26:05.787Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
+        "link": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+        "description": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/\">https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48787725\">https://news.ycombinator.com/item?id=48787725</a></p>\n<p>Points: 22</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sat, 04 Jul 2026 18:42:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48787725"
+      },
+      {
+        "title": "Verizon is About to Break our Watches",
+        "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+        "description": "<p>Article URL: <a href=\"https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\">https://www.jefftk.com/p/verizon-is-about-to-break-our-watches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48787329\">https://news.ycombinator.com/item?id=48787329</a></p>\n<p>Points: 41</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sat, 04 Jul 2026 17:52:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48787329"
+      },
+      {
+        "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+        "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+        "description": "<p>Article URL: <a href=\"https://github.com/pIat0n/BareMetal-RAM-Dumper\">https://github.com/pIat0n/BareMetal-RAM-Dumper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48787201\">https://news.ycombinator.com/item?id=48787201</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sat, 04 Jul 2026 17:37:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48787201"
+      },
+      {
+        "title": "Sick leave: Germany rising but not the worst in Europe",
+        "link": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+        "description": "<p>Article URL: <a href=\"https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488\">https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48787058\">https://news.ycombinator.com/item?id=48787058</a></p>\n<p>Points: 30</p>\n<p># Comments: 38</p>",
+        "pubDate": "Sat, 04 Jul 2026 17:18:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48787058"
+      },
+      {
+        "title": "No more than 100 000 faint satellites should orbit Earth",
+        "link": "https://www.eso.org/public/news/eso2607/",
+        "description": "<p>Article URL: <a href=\"https://www.eso.org/public/news/eso2607/\">https://www.eso.org/public/news/eso2607/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48787042\">https://news.ycombinator.com/item?id=48787042</a></p>\n<p>Points: 72</p>\n<p># Comments: 77</p>",
+        "pubDate": "Sat, 04 Jul 2026 17:17:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48787042"
+      },
+      {
+        "title": "Game Boy Advance Dev: Logging to the Console",
+        "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+        "description": "<p>Article URL: <a href=\"https://www.mattgreer.dev/blog/gba-dev-logging/\">https://www.mattgreer.dev/blog/gba-dev-logging/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48787001\">https://news.ycombinator.com/item?id=48787001</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 04 Jul 2026 17:12:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48787001"
+      },
+      {
+        "title": "EndBASIC 0.14: Are we multimedia yet?",
+        "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+        "description": "<p>Article URL: <a href=\"https://www.endbasic.dev/2026/07/endbasic-0.14.html\">https://www.endbasic.dev/2026/07/endbasic-0.14.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786970\">https://news.ycombinator.com/item?id=48786970</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 04 Jul 2026 17:08:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786970"
+      },
+      {
+        "title": "Plein Air",
+        "link": "https://art.joonas.wtf/",
+        "description": "<p>Article URL: <a href=\"https://art.joonas.wtf/\">https://art.joonas.wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786880\">https://news.ycombinator.com/item?id=48786880</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:55:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786880"
+      },
+      {
+        "title": "Finland's last analogue landline phones go silent after 150 years",
+        "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+        "description": "<p>Article URL: <a href=\"https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years\">https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786868\">https://news.ycombinator.com/item?id=48786868</a></p>\n<p>Points: 48</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:54:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786868"
+      },
+      {
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "description": "<p>Article URL: <a href=\"https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234\">https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786838\">https://news.ycombinator.com/item?id=48786838</a></p>\n<p>Points: 138</p>\n<p># Comments: 51</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:51:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786838"
+      },
+      {
+        "title": "Meta data center water discharges suspended for contaminating water supply",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system\">https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786782\">https://news.ycombinator.com/item?id=48786782</a></p>\n<p>Points: 92</p>\n<p># Comments: 37</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:45:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786782"
+      },
+      {
+        "title": "Leaking YouTube creators' private videos",
+        "link": "https://javoriuski.com/post/youtube",
+        "description": "<p>Article URL: <a href=\"https://javoriuski.com/post/youtube\">https://javoriuski.com/post/youtube</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786781\">https://news.ycombinator.com/item?id=48786781</a></p>\n<p>Points: 244</p>\n<p># Comments: 116</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:45:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786781"
+      },
+      {
+        "title": "Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012)",
+        "link": "https://vimeo.com/49718712",
+        "description": "<p>Article URL: <a href=\"https://vimeo.com/49718712\">https://vimeo.com/49718712</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786713\">https://news.ycombinator.com/item?id=48786713</a></p>\n<p>Points: 39</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:37:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786713"
+      },
+      {
+        "title": "Curveball",
+        "link": "https://mightyburger.net/projects/curveball/",
+        "description": "<p>Article URL: <a href=\"https://mightyburger.net/projects/curveball/\">https://mightyburger.net/projects/curveball/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48786495\">https://news.ycombinator.com/item?id=48786495</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 04 Jul 2026 16:15:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48786495"
+      },
+      {
+        "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+        "link": "https://github.com/maximqaxd/wince-dc",
+        "description": "<p>Article URL: <a href=\"https://github.com/maximqaxd/wince-dc\">https://github.com/maximqaxd/wince-dc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48785840\">https://news.ycombinator.com/item?id=48785840</a></p>\n<p>Points: 54</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 04 Jul 2026 14:52:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48785840"
+      },
+      {
+        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+        "link": "https://github.com/anthropics/claude-code/issues/74066",
+        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/74066\">https://github.com/anthropics/claude-code/issues/74066</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48785485\">https://news.ycombinator.com/item?id=48785485</a></p>\n<p>Points: 229</p>\n<p># Comments: 114</p>",
+        "pubDate": "Sat, 04 Jul 2026 14:03:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48785485"
+      },
+      {
+        "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+        "link": "https://peteris.rocks/blog/htop/",
+        "description": "<p>Article URL: <a href=\"https://peteris.rocks/blog/htop/\">https://peteris.rocks/blog/htop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48784777\">https://news.ycombinator.com/item?id=48784777</a></p>\n<p>Points: 289</p>\n<p># Comments: 37</p>",
+        "pubDate": "Sat, 04 Jul 2026 12:00:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48784777"
+      },
+      {
         "title": "Astrophysicists Puzzle over Webb’s New Universe",
         "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/\">https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48783948\">https://news.ycombinator.com/item?id=48783948</a></p>\n<p>Points: 74</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/\">https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48783948\">https://news.ycombinator.com/item?id=48783948</a></p>\n<p>Points: 162</p>\n<p># Comments: 98</p>",
         "pubDate": "Sat, 04 Jul 2026 09:08:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=48783948"
       },
       {
         "title": "The bottleneck might be the air in the room",
         "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-        "description": "<p>Article URL: <a href=\"https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\">https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48783117\">https://news.ycombinator.com/item?id=48783117</a></p>\n<p>Points: 481</p>\n<p># Comments: 297</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\">https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48783117\">https://news.ycombinator.com/item?id=48783117</a></p>\n<p>Points: 680</p>\n<p># Comments: 385</p>",
         "pubDate": "Sat, 04 Jul 2026 06:32:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48783117"
       },
       {
-        "title": "2026 Unslop AI-Written Fiction Contest Results",
-        "link": "https://www.hyperstitionai.com/unslop-results",
-        "description": "<p>Article URL: <a href=\"https://www.hyperstitionai.com/unslop-results\">https://www.hyperstitionai.com/unslop-results</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48782890\">https://news.ycombinator.com/item?id=48782890</a></p>\n<p>Points: 29</p>\n<p># Comments: 80</p>",
-        "pubDate": "Sat, 04 Jul 2026 05:37:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48782890"
-      },
-      {
-        "title": "Agentic coding notes from Galapagos Island",
-        "link": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-        "description": "<p>Article URL: <a href=\"https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post\">https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48782671\">https://news.ycombinator.com/item?id=48782671</a></p>\n<p>Points: 130</p>\n<p># Comments: 61</p>",
-        "pubDate": "Sat, 04 Jul 2026 04:37:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48782671"
-      },
-      {
         "title": "Maybe you should learn something",
         "link": "https://www.marginalia.nu/log/a_135_learn/",
-        "description": "<p>Article URL: <a href=\"https://www.marginalia.nu/log/a_135_learn/\">https://www.marginalia.nu/log/a_135_learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48782435\">https://news.ycombinator.com/item?id=48782435</a></p>\n<p>Points: 192</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://www.marginalia.nu/log/a_135_learn/\">https://www.marginalia.nu/log/a_135_learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48782435\">https://news.ycombinator.com/item?id=48782435</a></p>\n<p>Points: 371</p>\n<p># Comments: 172</p>",
         "pubDate": "Sat, 04 Jul 2026 03:36:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48782435"
-      },
-      {
-        "title": "Synthesis is harder than analysis",
-        "link": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-        "description": "<p>Article URL: <a href=\"https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/\">https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48782219\">https://news.ycombinator.com/item?id=48782219</a></p>\n<p>Points: 113</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sat, 04 Jul 2026 02:45:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48782219"
-      },
-      {
-        "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-        "link": "https://mrbruh.com/msicenter/",
-        "description": "<p>Article URL: <a href=\"https://mrbruh.com/msicenter/\">https://mrbruh.com/msicenter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48781688\">https://news.ycombinator.com/item?id=48781688</a></p>\n<p>Points: 112</p>\n<p># Comments: 47</p>",
-        "pubDate": "Sat, 04 Jul 2026 00:57:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48781688"
-      },
-      {
-        "title": "Soatok's Informal Guide to Threat Models",
-        "link": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-        "description": "<p>Article URL: <a href=\"https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/\">https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48781597\">https://news.ycombinator.com/item?id=48781597</a></p>\n<p>Points: 108</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sat, 04 Jul 2026 00:35:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48781597"
-      },
-      {
-        "title": "Odin, Wikipedia and engagement farming",
-        "link": "https://katamari64.se/posts/2026/odin-wikipedia/",
-        "description": "<p>Article URL: <a href=\"https://katamari64.se/posts/2026/odin-wikipedia/\">https://katamari64.se/posts/2026/odin-wikipedia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48781196\">https://news.ycombinator.com/item?id=48781196</a></p>\n<p>Points: 185</p>\n<p># Comments: 251</p>",
-        "pubDate": "Fri, 03 Jul 2026 23:24:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48781196"
-      },
-      {
-        "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-        "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-        "description": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/\">https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48780913\">https://news.ycombinator.com/item?id=48780913</a></p>\n<p>Points: 109</p>\n<p># Comments: 20</p>",
-        "pubDate": "Fri, 03 Jul 2026 22:46:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48780913"
-      },
-      {
-        "title": "Giant trees have no trouble pumping water to top branches: new research",
-        "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-        "description": "<p>Article URL: <a href=\"https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/\">https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48780870\">https://news.ycombinator.com/item?id=48780870</a></p>\n<p>Points: 229</p>\n<p># Comments: 102</p>",
-        "pubDate": "Fri, 03 Jul 2026 22:40:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48780870"
-      },
-      {
-        "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-        "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-        "description": "<p>Article URL: <a href=\"https://github.com/FossPrime/Steam-Controller-Auto-Charge\">https://github.com/FossPrime/Steam-Controller-Auto-Charge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48780865\">https://news.ycombinator.com/item?id=48780865</a></p>\n<p>Points: 164</p>\n<p># Comments: 36</p>",
-        "pubDate": "Fri, 03 Jul 2026 22:39:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48780865"
-      },
-      {
-        "title": "Leanstral 1.5: Proof abundance for all",
-        "link": "https://mistral.ai/news/leanstral-1-5/",
-        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/leanstral-1-5/\">https://mistral.ai/news/leanstral-1-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48780801\">https://news.ycombinator.com/item?id=48780801</a></p>\n<p>Points: 287</p>\n<p># Comments: 83</p>",
-        "pubDate": "Fri, 03 Jul 2026 22:33:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48780801"
-      },
-      {
-        "title": "Performance per dollar is getting faster and cheaper",
-        "link": "https://www.wafer.ai/blog/glm52-amd",
-        "description": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/glm52-amd\">https://www.wafer.ai/blog/glm52-amd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48780417\">https://news.ycombinator.com/item?id=48780417</a></p>\n<p>Points: 288</p>\n<p># Comments: 103</p>",
-        "pubDate": "Fri, 03 Jul 2026 21:49:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48780417"
-      },
-      {
-        "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "link": "https://epoch.ai/data-insights/cve-severity-spike",
-        "description": "<p>Article URL: <a href=\"https://epoch.ai/data-insights/cve-severity-spike\">https://epoch.ai/data-insights/cve-severity-spike</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48780056\">https://news.ycombinator.com/item?id=48780056</a></p>\n<p>Points: 128</p>\n<p># Comments: 54</p>",
-        "pubDate": "Fri, 03 Jul 2026 21:16:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48780056"
-      },
-      {
-        "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
-        "link": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead\">https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48779906\">https://news.ycombinator.com/item?id=48779906</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 03 Jul 2026 21:00:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48779906"
-      },
-      {
-        "title": "Applied Category Theory Course (2018)",
-        "link": "https://math.ucr.edu/home/baez/act_course/index.html",
-        "description": "<p>Article URL: <a href=\"https://math.ucr.edu/home/baez/act_course/index.html\">https://math.ucr.edu/home/baez/act_course/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48779723\">https://news.ycombinator.com/item?id=48779723</a></p>\n<p>Points: 128</p>\n<p># Comments: 11</p>",
-        "pubDate": "Fri, 03 Jul 2026 20:42:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48779723"
-      },
-      {
-        "title": "SearXNG: A free internet metasearch engine",
-        "link": "https://github.com/searxng/searxng",
-        "description": "<p>Article URL: <a href=\"https://github.com/searxng/searxng\">https://github.com/searxng/searxng</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48779454\">https://news.ycombinator.com/item?id=48779454</a></p>\n<p>Points: 238</p>\n<p># Comments: 64</p>",
-        "pubDate": "Fri, 03 Jul 2026 20:15:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48779454"
-      },
-      {
-        "title": "FreeBSD ate my RAM",
-        "link": "https://crocidb.com/post/freebsd-ate-my-ram/",
-        "description": "<p>Article URL: <a href=\"https://crocidb.com/post/freebsd-ate-my-ram/\">https://crocidb.com/post/freebsd-ate-my-ram/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48778757\">https://news.ycombinator.com/item?id=48778757</a></p>\n<p>Points: 162</p>\n<p># Comments: 64</p>",
-        "pubDate": "Fri, 03 Jul 2026 19:08:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48778757"
-      },
-      {
-        "title": "Costco is the anti-Amazon",
-        "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-        "description": "<p>Article URL: <a href=\"https://phenomenalworld.org/analysis/the-anti-amazon/\">https://phenomenalworld.org/analysis/the-anti-amazon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48776044\">https://news.ycombinator.com/item?id=48776044</a></p>\n<p>Points: 452</p>\n<p># Comments: 413</p>",
-        "pubDate": "Fri, 03 Jul 2026 15:14:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48776044"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-04T13:52:38.917Z",
+  "lastUpdated": "2026-07-04T19:26:05.787Z",
   "stats": {
     "feeds": 2,
     "articles": 20
