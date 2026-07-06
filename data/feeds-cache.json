@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-06T15:51:46.370Z"
+      "lastFetched": "2026-07-06T20:09:02.375Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-06T15:51:55.400Z"
+      "lastFetched": "2026-07-06T20:09:02.651Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Price per 1M tokens is meaningless",
+        "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+        "description": "<p>Article URL: <a href=\"https://janilowski.pl/en/blog/2026/price-per-m-tokens/\">https://janilowski.pl/en/blog/2026/price-per-m-tokens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809542\">https://news.ycombinator.com/item?id=48809542</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 06 Jul 2026 19:43:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48809542"
+      },
+      {
+        "title": "CoMaps – FOSS Offline Maps",
+        "link": "https://www.comaps.app/",
+        "description": "<p>Article URL: <a href=\"https://www.comaps.app/\">https://www.comaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808928\">https://news.ycombinator.com/item?id=48808928</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 06 Jul 2026 18:55:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48808928"
+      },
+      {
+        "title": "Linux on the Atari Jaguar. No, really.",
+        "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+        "description": "<p>Article URL: <a href=\"https://cakehonolulu.github.io/linux-for-jaguar/\">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808663\">https://news.ycombinator.com/item?id=48808663</a></p>\n<p>Points: 29</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 06 Jul 2026 18:35:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48808663"
+      },
+      {
+        "title": "Pros and Cons of Solo Development",
+        "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+        "description": "<p>Article URL: <a href=\"https://johnjeffers.com/pros-and-cons-of-solo-development/\">https://johnjeffers.com/pros-and-cons-of-solo-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808508\">https://news.ycombinator.com/item?id=48808508</a></p>\n<p>Points: 70</p>\n<p># Comments: 24</p>",
+        "pubDate": "Mon, 06 Jul 2026 18:24:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48808508"
+      },
+      {
+        "title": "OpenWrt One – Open Hardware Router",
+        "link": "https://openwrt.org/toh/openwrt/one",
+        "description": "<p>Article URL: <a href=\"https://openwrt.org/toh/openwrt/one\">https://openwrt.org/toh/openwrt/one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808482\">https://news.ycombinator.com/item?id=48808482</a></p>\n<p>Points: 156</p>\n<p># Comments: 75</p>",
+        "pubDate": "Mon, 06 Jul 2026 18:23:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48808482"
+      },
+      {
+        "title": "A global workspace in language models",
+        "link": "https://www.anthropic.com/research/global-workspace",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/global-workspace\">https://www.anthropic.com/research/global-workspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808002\">https://news.ycombinator.com/item?id=48808002</a></p>\n<p>Points: 81</p>\n<p># Comments: 17</p>",
+        "pubDate": "Mon, 06 Jul 2026 17:44:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48808002"
+      },
+      {
+        "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+        "link": "https://github.com/V4bel/Januscape",
+        "description": "<p>Article URL: <a href=\"https://github.com/V4bel/Januscape\">https://github.com/V4bel/Januscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807908\">https://news.ycombinator.com/item?id=48807908</a></p>\n<p>Points: 34</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 06 Jul 2026 17:35:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48807908"
+      },
+      {
+        "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+        "link": "https://github.com/iOfficeAI/OfficeCLI",
+        "description": "<p>Article URL: <a href=\"https://github.com/iOfficeAI/OfficeCLI\">https://github.com/iOfficeAI/OfficeCLI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807225\">https://news.ycombinator.com/item?id=48807225</a></p>\n<p>Points: 57</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 06 Jul 2026 16:47:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48807225"
+      },
+      {
+        "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+        "link": "https://news.ycombinator.com/item?id=48806976",
+        "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806976\">https://news.ycombinator.com/item?id=48806976</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 06 Jul 2026 16:33:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48806976"
+      },
+      {
+        "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle",
+        "link": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
+        "description": "<p>Article URL: <a href=\"https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/\">https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806741\">https://news.ycombinator.com/item?id=48806741</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 06 Jul 2026 16:17:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48806741"
+      },
+      {
+        "title": "Show HN: Pulpie – Models for Cleaning the Web",
+        "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+        "description": "<p>Hey HN, I'm Shreyash, founder of Feyn. We built Pulpie, a family of Pareto optimal models for cleaning the web. Pulpie strips boilerplate (ads, footers, sidebars) from raw HTML and returns just the main content as HTML or Markdown.<p>We match SOTA extraction quality while being 20x cheaper. Cleaning 1 billion webpages costs $7,900 with Pulpie versus $159,000 with Dripper, the current leading extractor.<p>The gains come from architecture. Today's leading extractors are decoders that generate output one token at a time. Each step reads the full model from memory to produce a single token. Conversely, Pulpie models are encoders. They run one forward pass over the full input HTML and label each block as boilerplate or content. As a result, Pulpie is compute-bound while decoders are memory-bound. Cheaper GPUs have relatively more compute than memory bandwidth. This makes Pulpie easy to run optimally.<p>Here's Pulpie and Dripper cleaning the same pages side by side: <a href=\"https://www.youtube.com/watch?v=ibd-tIiQECo\" rel=\"nofollow\">https://www.youtube.com/watch?v=ibd-tIiQECo</a>. You can try a side-by-side comparison yourself: <a href=\"https://huggingface.co/spaces/feyninc/pulpie\" rel=\"nofollow\">https://huggingface.co/spaces/feyninc/pulpie</a><p>Our motivation for Pulpie came from building a deep research harness. Every search API returns noisy content that contains ads, nav elements, and sidebars. In one instance, an ad for \"Gemini on Pixel\" slipped into our search results, got passed into LLM context, and ended up in the final answer served to the user. Pretty embarrassing moment for us but it helped us realize how bad data kills model intelligence. We built Pulpie to get clean data for cheap.<p>All models are open source on Hugging Face. You can read about our training process and how to use Pulpie here: <a href=\"https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/#get-started\">https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cl...</a><p>Happy to answer any questions!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806575\">https://news.ycombinator.com/item?id=48806575</a></p>\n<p>Points: 57</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 06 Jul 2026 16:04:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48806575"
+      },
+      {
+        "title": "Kani: A Model Checker for Rust",
+        "link": "https://arxiv.org/abs/2607.01504",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.01504\">https://arxiv.org/abs/2607.01504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806410\">https://news.ycombinator.com/item?id=48806410</a></p>\n<p>Points: 88</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 06 Jul 2026 15:53:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48806410"
+      },
+      {
+        "title": "Should DayQuil Be Legal?",
+        "link": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
+        "description": "<p>Article URL: <a href=\"https://www.theargumentmag.com/p/should-dayquil-be-legal\">https://www.theargumentmag.com/p/should-dayquil-be-legal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806289\">https://news.ycombinator.com/item?id=48806289</a></p>\n<p>Points: 114</p>\n<p># Comments: 160</p>",
+        "pubDate": "Mon, 06 Jul 2026 15:44:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48806289"
+      },
+      {
+        "title": "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
+        "link": "https://github.com/adriancable/eternal",
+        "description": "<p>Article URL: <a href=\"https://github.com/adriancable/eternal\">https://github.com/adriancable/eternal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806156\">https://news.ycombinator.com/item?id=48806156</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 06 Jul 2026 15:35:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48806156"
+      },
+      {
         "title": "1k Words: A Writing Contest",
         "link": "https://writingclub.world/1picture1000words",
-        "description": "<p>Article URL: <a href=\"https://writingclub.world/1picture1000words\">https://writingclub.world/1picture1000words</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806073\">https://news.ycombinator.com/item?id=48806073</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://writingclub.world/1picture1000words\">https://writingclub.world/1picture1000words</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806073\">https://news.ycombinator.com/item?id=48806073</a></p>\n<p>Points: 63</p>\n<p># Comments: 28</p>",
         "pubDate": "Mon, 06 Jul 2026 15:30:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48806073"
       },
       {
-        "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-        "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon\">https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805985\">https://news.ycombinator.com/item?id=48805985</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 06 Jul 2026 15:24:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805985"
+        "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+        "link": "https://github.com/karola3vax/CS2FOW",
+        "description": "<p>Article URL: <a href=\"https://github.com/karola3vax/CS2FOW\">https://github.com/karola3vax/CS2FOW</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805965\">https://news.ycombinator.com/item?id=48805965</a></p>\n<p>Points: 63</p>\n<p># Comments: 27</p>",
+        "pubDate": "Mon, 06 Jul 2026 15:23:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48805965"
       },
       {
         "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
         "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-        "description": "<p>Article URL: <a href=\"https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo\">https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805624\">https://news.ycombinator.com/item?id=48805624</a></p>\n<p>Points: 30</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo\">https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805624\">https://news.ycombinator.com/item?id=48805624</a></p>\n<p>Points: 213</p>\n<p># Comments: 155</p>",
         "pubDate": "Mon, 06 Jul 2026 15:01:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48805624"
       },
       {
-        "title": "Do you really need separate systems when you already have Postgres?",
-        "link": "https://postgresisenough.dev/",
-        "description": "<p>Article URL: <a href=\"https://postgresisenough.dev/\">https://postgresisenough.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805564\">https://news.ycombinator.com/item?id=48805564</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
-        "pubDate": "Mon, 06 Jul 2026 14:57:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805564"
-      },
-      {
-        "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-        "link": "https://spectrum.ieee.org/stochastic-parrot",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/stochastic-parrot\">https://spectrum.ieee.org/stochastic-parrot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805401\">https://news.ycombinator.com/item?id=48805401</a></p>\n<p>Points: 69</p>\n<p># Comments: 48</p>",
-        "pubDate": "Mon, 06 Jul 2026 14:45:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805401"
-      },
-      {
-        "title": "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
-        "link": "https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat",
-        "description": "<p>Article URL: <a href=\"https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat\">https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805304\">https://news.ycombinator.com/item?id=48805304</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 06 Jul 2026 14:38:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805304"
+        "title": "Show HN: I Built LangGraph for Swift",
+        "link": "https://github.com/christopherkarani/Swarm",
+        "description": "<p>Article URL: <a href=\"https://github.com/christopherkarani/Swarm\">https://github.com/christopherkarani/Swarm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805437\">https://news.ycombinator.com/item?id=48805437</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 06 Jul 2026 14:47:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48805437"
       },
       {
         "title": "Resetting Xbox",
         "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-        "description": "<p>Article URL: <a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\">https://news.xbox.com/en-us/2026/07/06/resetting-xbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804993\">https://news.ycombinator.com/item?id=48804993</a></p>\n<p>Points: 64</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\">https://news.xbox.com/en-us/2026/07/06/resetting-xbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804993\">https://news.ycombinator.com/item?id=48804993</a></p>\n<p>Points: 307</p>\n<p># Comments: 257</p>",
         "pubDate": "Mon, 06 Jul 2026 14:18:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=48804993"
       },
       {
         "title": "Aluminum foil (2021)",
         "link": "https://dernocua.github.io/notes/aluminum-foil.html",
-        "description": "<p>Article URL: <a href=\"https://dernocua.github.io/notes/aluminum-foil.html\">https://dernocua.github.io/notes/aluminum-foil.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804297\">https://news.ycombinator.com/item?id=48804297</a></p>\n<p>Points: 80</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://dernocua.github.io/notes/aluminum-foil.html\">https://dernocua.github.io/notes/aluminum-foil.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804297\">https://news.ycombinator.com/item?id=48804297</a></p>\n<p>Points: 196</p>\n<p># Comments: 92</p>",
         "pubDate": "Mon, 06 Jul 2026 13:28:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48804297"
-      },
-      {
-        "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-        "link": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-        "description": "<p>Article URL: <a href=\"https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html\">https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804193\">https://news.ycombinator.com/item?id=48804193</a></p>\n<p>Points: 134</p>\n<p># Comments: 79</p>",
-        "pubDate": "Mon, 06 Jul 2026 13:18:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804193"
-      },
-      {
-        "title": "Show HN: Scan your AI agents for dangerous capabilities",
-        "link": "https://github.com/makerchecker/MakerChecker",
-        "description": "<p>Article URL: <a href=\"https://github.com/makerchecker/MakerChecker\">https://github.com/makerchecker/MakerChecker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804182\">https://news.ycombinator.com/item?id=48804182</a></p>\n<p>Points: 32</p>\n<p># Comments: 17</p>",
-        "pubDate": "Mon, 06 Jul 2026 13:17:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804182"
-      },
-      {
-        "title": "How Kalshi Infects the News",
-        "link": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
-        "description": "<p>Article URL: <a href=\"https://www.publicnotice.co/p/kalshi-cnn-cnbc\">https://www.publicnotice.co/p/kalshi-cnn-cnbc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804123\">https://news.ycombinator.com/item?id=48804123</a></p>\n<p>Points: 56</p>\n<p># Comments: 33</p>",
-        "pubDate": "Mon, 06 Jul 2026 13:12:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804123"
-      },
-      {
-        "title": "Why low-latency Java still requires discipline?",
-        "link": "https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline",
-        "description": "<p>Article URL: <a href=\"https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline\">https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804017\">https://news.ycombinator.com/item?id=48804017</a></p>\n<p>Points: 43</p>\n<p># Comments: 21</p>",
-        "pubDate": "Mon, 06 Jul 2026 13:03:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804017"
-      },
-      {
-        "title": "Workers Cache",
-        "link": "https://blog.cloudflare.com/workers-cache/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/workers-cache/\">https://blog.cloudflare.com/workers-cache/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804014\">https://news.ycombinator.com/item?id=48804014</a></p>\n<p>Points: 164</p>\n<p># Comments: 63</p>",
-        "pubDate": "Mon, 06 Jul 2026 13:02:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804014"
-      },
-      {
-        "title": "Amazon will stop accepting new customers for Mechanical Turk",
-        "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/\">https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803886\">https://news.ycombinator.com/item?id=48803886</a></p>\n<p>Points: 69</p>\n<p># Comments: 16</p>",
-        "pubDate": "Mon, 06 Jul 2026 12:51:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48803886"
-      },
-      {
-        "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-        "link": "https://andonlabs.com/blog/fable5-vending-bench",
-        "description": "<p>Article URL: <a href=\"https://andonlabs.com/blog/fable5-vending-bench\">https://andonlabs.com/blog/fable5-vending-bench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803762\">https://news.ycombinator.com/item?id=48803762</a></p>\n<p>Points: 71</p>\n<p># Comments: 25</p>",
-        "pubDate": "Mon, 06 Jul 2026 12:38:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48803762"
-      },
-      {
-        "title": "Road to Elm 1.0",
-        "link": "https://elm-lang.org/news/faster-builds",
-        "description": "<p>Article URL: <a href=\"https://elm-lang.org/news/faster-builds\">https://elm-lang.org/news/faster-builds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803364\">https://news.ycombinator.com/item?id=48803364</a></p>\n<p>Points: 170</p>\n<p># Comments: 77</p>",
-        "pubDate": "Mon, 06 Jul 2026 11:47:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48803364"
-      },
-      {
-        "title": "C programmers commit fresh crimes against readability",
-        "link": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981\">https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803347\">https://news.ycombinator.com/item?id=48803347</a></p>\n<p>Points: 94</p>\n<p># Comments: 14</p>",
-        "pubDate": "Mon, 06 Jul 2026 11:44:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48803347"
-      },
-      {
-        "title": "X402, a static blog monetization excercise",
-        "link": "https://shtein.me/posts/x402-poc/",
-        "description": "<p>Article URL: <a href=\"https://shtein.me/posts/x402-poc/\">https://shtein.me/posts/x402-poc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802885\">https://news.ycombinator.com/item?id=48802885</a></p>\n<p>Points: 32</p>\n<p># Comments: 19</p>",
-        "pubDate": "Mon, 06 Jul 2026 10:37:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48802885"
-      },
-      {
-        "title": "Real-time map of Great Britain's rail network",
-        "link": "https://www.map.signalbox.io",
-        "description": "<p>Article URL: <a href=\"https://www.map.signalbox.io\">https://www.map.signalbox.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802535\">https://news.ycombinator.com/item?id=48802535</a></p>\n<p>Points: 291</p>\n<p># Comments: 111</p>",
-        "pubDate": "Mon, 06 Jul 2026 09:38:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48802535"
-      },
-      {
-        "title": "Building relationships with customers through support didn't turn out as hoped",
-        "link": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-        "description": "<p>Article URL: <a href=\"https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\">https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799929\">https://news.ycombinator.com/item?id=48799929</a></p>\n<p>Points: 261</p>\n<p># Comments: 161</p>",
-        "pubDate": "Mon, 06 Jul 2026 02:06:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48799929"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-06T15:51:55.400Z",
+  "lastUpdated": "2026-07-06T20:09:02.651Z",
   "stats": {
     "feeds": 2,
     "articles": 20
