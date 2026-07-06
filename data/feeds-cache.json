@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-05T19:37:11.633Z"
+      "lastFetched": "2026-07-06T04:20:39.218Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-05T19:37:23.317Z"
+      "lastFetched": "2026-07-06T04:20:49.891Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Shrimple – A Simpler, Nicer Markdown",
+        "link": "https://qount25.dev/Shrimple/",
+        "description": "<p>Article URL: <a href=\"https://qount25.dev/Shrimple/\">https://qount25.dev/Shrimple/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48800026\">https://news.ycombinator.com/item?id=48800026</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 06 Jul 2026 02:24:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48800026"
+      },
+      {
+        "title": "Building relationships with customers through support didn't turn out as hoped",
+        "link": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+        "description": "<p>Article URL: <a href=\"https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\">https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799929\">https://news.ycombinator.com/item?id=48799929</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 06 Jul 2026 02:06:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799929"
+      },
+      {
+        "title": "The Sneakerweb",
+        "link": "https://sneakerweb.org/",
+        "description": "<p>Article URL: <a href=\"https://sneakerweb.org/\">https://sneakerweb.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799781\">https://news.ycombinator.com/item?id=48799781</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 06 Jul 2026 01:35:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799781"
+      },
+      {
+        "title": "GPT-5.6 Sol Ultra will be in Codex",
+        "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2073933490513752151\">https://twitter.com/thsottiaux/status/2073933490513752151</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799614\">https://news.ycombinator.com/item?id=48799614</a></p>\n<p>Points: 129</p>\n<p># Comments: 66</p>",
+        "pubDate": "Mon, 06 Jul 2026 01:04:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799614"
+      },
+      {
+        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+        "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+        "description": "<p>Article URL: <a href=\"https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt\">https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799256\">https://news.ycombinator.com/item?id=48799256</a></p>\n<p>Points: 118</p>\n<p># Comments: 40</p>",
+        "pubDate": "Mon, 06 Jul 2026 00:04:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799256"
+      },
+      {
+        "title": "The Private Capture of Public Genius",
+        "link": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+        "description": "<p>Article URL: <a href=\"https://www.wysr.xyz/p/the-private-capture-of-public-genius\">https://www.wysr.xyz/p/the-private-capture-of-public-genius</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799178\">https://news.ycombinator.com/item?id=48799178</a></p>\n<p>Points: 56</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sun, 05 Jul 2026 23:52:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799178"
+      },
+      {
+        "title": "Has_not_been_viewed_much",
+        "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+        "description": "<p>Article URL: <a href=\"https://iamwillwang.com/notes/has-not-been-viewed-much/\">https://iamwillwang.com/notes/has-not-been-viewed-much/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799155\">https://news.ycombinator.com/item?id=48799155</a></p>\n<p>Points: 126</p>\n<p># Comments: 35</p>",
+        "pubDate": "Sun, 05 Jul 2026 23:49:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799155"
+      },
+      {
+        "title": "Connections in Math: the two kinds of random",
+        "link": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+        "description": "<p>Article URL: <a href=\"https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/\">https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799026\">https://news.ycombinator.com/item?id=48799026</a></p>\n<p>Points: 28</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sun, 05 Jul 2026 23:31:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48799026"
+      },
+      {
+        "title": "Does Code Cleanliness Affect Coding Agents?",
+        "link": "https://arxiv.org/abs/2605.20049",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.20049\">https://arxiv.org/abs/2605.20049</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798815\">https://news.ycombinator.com/item?id=48798815</a></p>\n<p>Points: 51</p>\n<p># Comments: 23</p>",
+        "pubDate": "Sun, 05 Jul 2026 23:03:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48798815"
+      },
+      {
+        "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+        "link": "https://github.com/514-labs/dnsglobe",
+        "description": "<p>Article URL: <a href=\"https://github.com/514-labs/dnsglobe\">https://github.com/514-labs/dnsglobe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798313\">https://news.ycombinator.com/item?id=48798313</a></p>\n<p>Points: 32</p>\n<p># Comments: 24</p>",
+        "pubDate": "Sun, 05 Jul 2026 21:55:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48798313"
+      },
+      {
+        "title": "Composite Video on the NES: Why's it so wobbly?",
+        "link": "https://nicole.express/2026/phase-altering-by-line.html",
+        "description": "<p>Article URL: <a href=\"https://nicole.express/2026/phase-altering-by-line.html\">https://nicole.express/2026/phase-altering-by-line.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798247\">https://news.ycombinator.com/item?id=48798247</a></p>\n<p>Points: 62</p>\n<p># Comments: 6</p>",
+        "pubDate": "Sun, 05 Jul 2026 21:45:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48798247"
+      },
+      {
+        "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+        "link": "https://homegames.io",
+        "description": "<p>I'm making a platform for simple open source games you can play anywhere.<p>Games are all just JavaScript classes and you can read the source of every game on the platform.<p>I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games.<p>There's also an in-browser editor available for you to make and publish games all from the browser.<p>Would love some feedback on the games and studio features as well as the platform overall. All of the code is available at <a href=\"https://github.com/homegamesio\" rel=\"nofollow\">https://github.com/homegamesio</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798153\">https://news.ycombinator.com/item?id=48798153</a></p>\n<p>Points: 107</p>\n<p># Comments: 32</p>",
+        "pubDate": "Sun, 05 Jul 2026 21:32:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48798153"
+      },
+      {
+        "title": "Completing a computer science degree on Coursera",
+        "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+        "description": "<p>Article URL: <a href=\"https://notesbylex.com/completing-a-computer-science-degree-on-coursera\">https://notesbylex.com/completing-a-computer-science-degree-on-coursera</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798061\">https://news.ycombinator.com/item?id=48798061</a></p>\n<p>Points: 132</p>\n<p># Comments: 101</p>",
+        "pubDate": "Sun, 05 Jul 2026 21:20:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48798061"
+      },
+      {
+        "title": "OpenPrinter",
+        "link": "https://www.opentools.studio/",
+        "description": "<p>Article URL: <a href=\"https://www.opentools.studio/\">https://www.opentools.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797916\">https://news.ycombinator.com/item?id=48797916</a></p>\n<p>Points: 535</p>\n<p># Comments: 125</p>",
+        "pubDate": "Sun, 05 Jul 2026 21:03:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48797916"
+      },
+      {
+        "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+        "link": "https://dhilst.github.io/algae/game/index.html",
+        "description": "<p>Article URL: <a href=\"https://dhilst.github.io/algae/game/index.html\">https://dhilst.github.io/algae/game/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797895\">https://news.ycombinator.com/item?id=48797895</a></p>\n<p>Points: 45</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sun, 05 Jul 2026 21:00:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48797895"
+      },
+      {
+        "title": "Cursed circuits #5: capacitance multiplier",
+        "link": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+        "description": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier\">https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797467\">https://news.ycombinator.com/item?id=48797467</a></p>\n<p>Points: 69</p>\n<p># Comments: 6</p>",
+        "pubDate": "Sun, 05 Jul 2026 20:00:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48797467"
+      },
+      {
+        "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+        "link": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+        "description": "<p>Article URL: <a href=\"https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/\">https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797141\">https://news.ycombinator.com/item?id=48797141</a></p>\n<p>Points: 89</p>\n<p># Comments: 106</p>",
+        "pubDate": "Sun, 05 Jul 2026 19:22:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48797141"
+      },
+      {
         "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
         "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-        "description": "<p>Article URL: <a href=\"https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf\">https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796817\">https://news.ycombinator.com/item?id=48796817</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf\">https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796817\">https://news.ycombinator.com/item?id=48796817</a></p>\n<p>Points: 142</p>\n<p># Comments: 86</p>",
         "pubDate": "Sun, 05 Jul 2026 18:47:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=48796817"
       },
       {
-        "title": "You Need a Webring",
+        "title": "You need a webring",
         "link": "https://shub.club/writings/2026/july/you-need-a-webring/",
-        "description": "<p>Article URL: <a href=\"https://shub.club/writings/2026/july/you-need-a-webring/\">https://shub.club/writings/2026/july/you-need-a-webring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796792\">https://news.ycombinator.com/item?id=48796792</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://shub.club/writings/2026/july/you-need-a-webring/\">https://shub.club/writings/2026/july/you-need-a-webring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796792\">https://news.ycombinator.com/item?id=48796792</a></p>\n<p>Points: 71</p>\n<p># Comments: 46</p>",
         "pubDate": "Sun, 05 Jul 2026 18:46:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=48796792"
       },
       {
-        "title": "The Future of Flipper Zero Development",
+        "title": "The future of Flipper Zero development",
         "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
-        "description": "<p>Article URL: <a href=\"https://blog.flipper.net/future-of-flipper-zero-development/\">https://blog.flipper.net/future-of-flipper-zero-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796552\">https://news.ycombinator.com/item?id=48796552</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.flipper.net/future-of-flipper-zero-development/\">https://blog.flipper.net/future-of-flipper-zero-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796552\">https://news.ycombinator.com/item?id=48796552</a></p>\n<p>Points: 253</p>\n<p># Comments: 105</p>",
         "pubDate": "Sun, 05 Jul 2026 18:22:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48796552"
-      },
-      {
-        "title": "Every Postcard Tells a Story",
-        "link": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-        "description": "<p>Article URL: <a href=\"https://observer.co.uk/style/features/article/every-postcard-tells-a-story\">https://observer.co.uk/style/features/article/every-postcard-tells-a-story</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796473\">https://news.ycombinator.com/item?id=48796473</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 05 Jul 2026 18:14:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48796473"
-      },
-      {
-        "title": "Do you hate XML? (2010)",
-        "link": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
-        "description": "<p>Article URL: <a href=\"https://sigfrid-lundberg.se/entries/2010/07/hate_xml/\">https://sigfrid-lundberg.se/entries/2010/07/hate_xml/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796438\">https://news.ycombinator.com/item?id=48796438</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-        "pubDate": "Sun, 05 Jul 2026 18:10:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48796438"
-      },
-      {
-        "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
-        "link": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c\">https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796110\">https://news.ycombinator.com/item?id=48796110</a></p>\n<p>Points: 18</p>\n<p># Comments: 21</p>",
-        "pubDate": "Sun, 05 Jul 2026 17:34:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48796110"
-      },
-      {
-        "title": "Starring the Computer",
-        "link": "https://www.starringthecomputer.com/computers.html",
-        "description": "<p>Article URL: <a href=\"https://www.starringthecomputer.com/computers.html\">https://www.starringthecomputer.com/computers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796093\">https://news.ycombinator.com/item?id=48796093</a></p>\n<p>Points: 80</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sun, 05 Jul 2026 17:33:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48796093"
-      },
-      {
-        "title": "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
-        "link": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.aeb7219\">https://www.science.org/doi/10.1126/sciadv.aeb7219</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796049\">https://news.ycombinator.com/item?id=48796049</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 05 Jul 2026 17:27:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48796049"
-      },
-      {
-        "title": "\"These cameras are just like the Eye of Sauron\"",
-        "link": "https://arxiv.org/abs/2602.09239",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.09239\">https://arxiv.org/abs/2602.09239</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48795830\">https://news.ycombinator.com/item?id=48795830</a></p>\n<p>Points: 71</p>\n<p># Comments: 38</p>",
-        "pubDate": "Sun, 05 Jul 2026 17:05:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48795830"
-      },
-      {
-        "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-        "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
-        "description": "<p>Article URL: <a href=\"https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement\">https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48795368\">https://news.ycombinator.com/item?id=48795368</a></p>\n<p>Points: 113</p>\n<p># Comments: 15</p>",
-        "pubDate": "Sun, 05 Jul 2026 16:11:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48795368"
-      },
-      {
-        "title": "Installing A/UX 1.1 like it's the 90s",
-        "link": "https://thomasw.dev/post/aux11/",
-        "description": "<p>Article URL: <a href=\"https://thomasw.dev/post/aux11/\">https://thomasw.dev/post/aux11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48795323\">https://news.ycombinator.com/item?id=48795323</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 05 Jul 2026 16:07:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48795323"
-      },
-      {
-        "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-        "link": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
-        "description": "<p>Article URL: <a href=\"https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/\">https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48795174\">https://news.ycombinator.com/item?id=48795174</a></p>\n<p>Points: 60</p>\n<p># Comments: 27</p>",
-        "pubDate": "Sun, 05 Jul 2026 15:49:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48795174"
-      },
-      {
-        "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-        "link": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
-        "description": "<p>Article URL: <a href=\"https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec\">https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48794788\">https://news.ycombinator.com/item?id=48794788</a></p>\n<p>Points: 28</p>\n<p># Comments: 12</p>",
-        "pubDate": "Sun, 05 Jul 2026 15:00:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48794788"
-      },
-      {
-        "title": "It's not about physical vs. digital games, it's about ownership",
-        "link": "https://popcar.bearblog.dev/its-about-ownership/",
-        "description": "<p>Article URL: <a href=\"https://popcar.bearblog.dev/its-about-ownership/\">https://popcar.bearblog.dev/its-about-ownership/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48794750\">https://news.ycombinator.com/item?id=48794750</a></p>\n<p>Points: 107</p>\n<p># Comments: 82</p>",
-        "pubDate": "Sun, 05 Jul 2026 14:56:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48794750"
-      },
-      {
-        "title": "Organic Maps",
-        "link": "https://organicmaps.app/",
-        "description": "<p>Article URL: <a href=\"https://organicmaps.app/\">https://organicmaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48794446\">https://news.ycombinator.com/item?id=48794446</a></p>\n<p>Points: 538</p>\n<p># Comments: 157</p>",
-        "pubDate": "Sun, 05 Jul 2026 14:14:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48794446"
-      },
-      {
-        "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-        "link": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-        "description": "<p>Article URL: <a href=\"https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html\">https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48794302\">https://news.ycombinator.com/item?id=48794302</a></p>\n<p>Points: 66</p>\n<p># Comments: 37</p>",
-        "pubDate": "Sun, 05 Jul 2026 13:47:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48794302"
-      },
-      {
-        "title": "Show HN: KiCad in the Browser",
-        "link": "https://demo.pcbjam.com/",
-        "description": "<p>KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there's a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is \"working\".<p>We’re Emergence Engineering, a dev shop from Hungary, mostly working with rich text editors, CRDTs. PCBJam started as my (Viktor, CTO, ex-electrical engineer) hobby project but as time went on I put more\nand more energy into it, and a product started shaping up in my head, in the last few months we’ve started to focus on this project a bit more, and this is the first MVP~ish result.<p>This project is a ton of fun, ton of learning, ton of improvements over improvements:<p>- I thought there must be ways to emulate the PCB canvas OpenGL code on the web. And yes, there are a lot of ways, all of them very buggy. Turns out it’s faster to just write WebGL code that works with\nKiCad’s Graphics Abstraction Layer if you add the right intermediate debugging steps. I (with Claude) implemented the features and compared them to native at every step, then the app loaded up the first \ntime and just worked. I spent weeks hunting weird emulation bugs before that.<p>- There was an old wxWidgets web port as a starting point that helped a lot, bringing it up to the level KiCad needed is a long (and still ongoing) task. Thanks ahilss!<p>- Pthreads on the web: with Emscripten it’s possible to port multithreaded apps (used by DRC, software 3D renderer). A lot of Emscripten features (Asyncify, Pthreads, native exceptions) are in a war with each other, but it’s possible.<p>- Asyncify with native exceptions: Asyncify (used to make the WASM code suspend then call into the JS land, emulating blocking C++ calls by rewriting the WASM directly) is not compatible with native exceptions, even on the latest Binaryen version it can’t suspend inside catch arms. If you write a new Binaryen pass then it can, making the bundle 30-40% smaller and the app load in a second instead of 10.<p>- Optimizing bundle size is a fun game. We just moved Open CASCADE into a separate lazy-loaded WASM module, moving from 180 to 130 MB (24 MB brotli), still on -O1. -O2 / -Oz etc will be more work than it\nlooks.<p>And a ton more problems like these above on a daily basis.<p>A few months ago I had a barely loading laggy pcbnew that crashed when you looked at it wrong, now we have the whole application working. I should say with quite a few bugs still, but now it feels pretty\nclose to native.<p>There’s a lot of built up knowledge / code that we want to release as blogposts, mainline our changes to Binaryen / KiCad / wxWidgets, but I want to focus on the release first. Our wxWidgets port is quite \nclose to the core, the KiCad is ~150 changed core files (mostly build scripts, some code changes too). The goal is to keep as close to the mainline as possible, and merge eventually.<p>We’ll have a free tier for sure and something around $30/mo for bigger/closed projects, optional paid AI integration / self hosting / enterprise features / native & mobile version down the line.<p>The goal is to build a product on top of KiCad (collaboration, AI integration, sharing, integrations), kind of like what Red Hat did with Linux back then. We’re heads down making it functional and have the\nfirst version up in a ~month or so.<p>And of course we’re standing on the shoulders of the people who made KiCad & wxWidgets and we want to give back and contribute as much as possible, if you have an idea on how to do that best let me know, I\nreleased a few moderately successful open source projects, but I’ve never been a contributor. All of the front-end code is GPL (it has to be) and you can run this project if you want.<p>You can find the sources at: <a href=\"https://github.com/emergence-engineering/pcbjam\" rel=\"nofollow\">https://github.com/emergence-engineering/pcbjam</a>.<p>Our company site is at:\n<a href=\"https://emergence-engineering.com/\" rel=\"nofollow\">https://emergence-engineering.com/</a><p>Our crappy LP is at: \n<a href=\"https://www.pcbjam.com/\" rel=\"nofollow\">https://www.pcbjam.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793542\">https://news.ycombinator.com/item?id=48793542</a></p>\n<p>Points: 76</p>\n<p># Comments: 30</p>",
-        "pubDate": "Sun, 05 Jul 2026 12:06:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48793542"
-      },
-      {
-        "title": "Introduction to Compilers and Language Design (2021)",
-        "link": "https://dthain.github.io/books/compiler/",
-        "description": "<p>Article URL: <a href=\"https://dthain.github.io/books/compiler/\">https://dthain.github.io/books/compiler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793454\">https://news.ycombinator.com/item?id=48793454</a></p>\n<p>Points: 232</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sun, 05 Jul 2026 11:54:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48793454"
-      },
-      {
-        "title": "EU Council forces Chat Control via fast-track",
-        "link": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-        "description": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html\">https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793393\">https://news.ycombinator.com/item?id=48793393</a></p>\n<p>Points: 272</p>\n<p># Comments: 147</p>",
-        "pubDate": "Sun, 05 Jul 2026 11:44:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48793393"
-      },
-      {
-        "title": "Web-based cryptography is always snake oil",
-        "link": "https://www.devever.net/~hl/webcrypto",
-        "description": "<p>Article URL: <a href=\"https://www.devever.net/~hl/webcrypto\">https://www.devever.net/~hl/webcrypto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48792203\">https://news.ycombinator.com/item?id=48792203</a></p>\n<p>Points: 74</p>\n<p># Comments: 86</p>",
-        "pubDate": "Sun, 05 Jul 2026 08:01:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48792203"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-05T19:37:23.317Z",
+  "lastUpdated": "2026-07-06T04:20:49.891Z",
   "stats": {
     "feeds": 2,
     "articles": 20
