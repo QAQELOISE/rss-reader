@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-07T09:57:23.547Z"
+      "lastFetched": "2026-07-07T20:08:00.285Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-07T14:56:15.840Z"
+      "lastFetched": "2026-07-07T20:08:20.053Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "link": "https://davit.app",
+        "description": "<p>Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821848\">https://news.ycombinator.com/item?id=48821848</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:44:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821848"
+      },
+      {
+        "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+        "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+        "description": "<p>Article URL: <a href=\"https://blog.zksecurity.xyz/posts/circl-bugs/\">https://blog.zksecurity.xyz/posts/circl-bugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821749\">https://news.ycombinator.com/item?id=48821749</a></p>\n<p>Points: 29</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:36:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821749"
+      },
+      {
+        "title": "Astro 7.0",
+        "link": "https://astro.build/blog/astro-7/",
+        "description": "<p>Article URL: <a href=\"https://astro.build/blog/astro-7/\">https://astro.build/blog/astro-7/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821653\">https://news.ycombinator.com/item?id=48821653</a></p>\n<p>Points: 101</p>\n<p># Comments: 23</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:30:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821653"
+      },
+      {
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "description": "<p>Article URL: <a href=\"https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/\">https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821576\">https://news.ycombinator.com/item?id=48821576</a></p>\n<p>Points: 49</p>\n<p># Comments: 12</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:24:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821576"
+      },
+      {
+        "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+        "link": "https://github.com/kklimuk/docx-cli",
+        "description": "<p>Article URL: <a href=\"https://github.com/kklimuk/docx-cli\">https://github.com/kklimuk/docx-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821500\">https://news.ycombinator.com/item?id=48821500</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:19:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821500"
+      },
+      {
+        "title": "Notes on Software Quality",
+        "link": "https://anthonyhobday.com/blog/20260410",
+        "description": "<p>Article URL: <a href=\"https://anthonyhobday.com/blog/20260410\">https://anthonyhobday.com/blog/20260410</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821441\">https://news.ycombinator.com/item?id=48821441</a></p>\n<p>Points: 22</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:14:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821441"
+      },
+      {
+        "title": "l: A new runtime for k and q",
+        "link": "https://lv1.sh/",
+        "description": "<p><a href=\"https://lv1.sh/blog/why-l/\" rel=\"nofollow\">https://lv1.sh/blog/why-l/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821378\">https://news.ycombinator.com/item?id=48821378</a></p>\n<p>Points: 40</p>\n<p># Comments: 21</p>",
+        "pubDate": "Tue, 07 Jul 2026 18:08:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48821378"
+      },
+      {
+        "title": "China sentences official to death for taking $325M in bribes",
+        "link": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c33y0n1v1xjo\">https://www.bbc.com/news/articles/c33y0n1v1xjo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48820220\">https://news.ycombinator.com/item?id=48820220</a></p>\n<p>Points: 173</p>\n<p># Comments: 193</p>",
+        "pubDate": "Tue, 07 Jul 2026 16:38:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48820220"
+      },
+      {
+        "title": "Reducing Doom Loops with Final Token Preference Optimization",
+        "link": "https://www.liquid.ai/blog/antidoom",
+        "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/antidoom\">https://www.liquid.ai/blog/antidoom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48820127\">https://news.ycombinator.com/item?id=48820127</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 07 Jul 2026 16:31:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48820127"
+      },
+      {
+        "title": "Jim's TrueType QR Code Font",
+        "link": "https://github.com/jimparis/qr-font",
+        "description": "<p><a href=\"https://qr.jim.sh/\" rel=\"nofollow\">https://qr.jim.sh/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48820119\">https://news.ycombinator.com/item?id=48820119</a></p>\n<p>Points: 73</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 07 Jul 2026 16:30:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48820119"
+      },
+      {
+        "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+        "link": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+        "description": "<p>Article URL: <a href=\"https://github.com/mplsllc/macsurf/releases/tag/v1.86\">https://github.com/mplsllc/macsurf/releases/tag/v1.86</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48820022\">https://news.ycombinator.com/item?id=48820022</a></p>\n<p>Points: 48</p>\n<p># Comments: 8</p>",
+        "pubDate": "Tue, 07 Jul 2026 16:24:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48820022"
+      },
+      {
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "link": "https://github.com/rowboatlabs/rowboat",
+        "description": "<p>Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below).<p>Our repo is <a href=\"https://github.com/rowboatlabs/rowboat\" rel=\"nofollow\">https://github.com/rowboatlabs/rowboat</a>, and there’s a demo video here: <a href=\"https://www.youtube.com/watch?v=et5yQABJ3xI\" rel=\"nofollow\">https://www.youtube.com/watch?v=et5yQABJ3xI</a><p>In a previous startup, we built a deep-learning product for enterprise support reps, including teams supporting P&G brands. Models took live notes, suggested replies, and recommended actions while support reps were on calls or handling emails. One lesson stuck with us: it's not enough for the AI to be right, the help has to show up where the work is happening.<p>So we added what we came to call “work surfaces”: dedicated areas for email, meetings, notes, browser, and parallel coding, where the assistant can help inside the workflow itself rather than only through chat:<p>- Email client: Rowboat has a simple email client that sorts incoming emails into important vs. everything else, and pre-creates drafts for important emails. As you edit and send emails, it takes notes on your style, so future drafts get closer to your voice.<p>- Meeting notes: We built a Granola-style local meeting notetaker. Notes are stored as plain Markdown files on your machine. After a meeting, Rowboat feeds the notes back into the knowledge graph and updates the relevant people, project, and topic notes.<p>- Browser: We added a built-in browser, isolated from your main one, where you can log in only to the accounts you want the assistant to help with. The assistant uses browser-use skills to navigate websites.<p>- Parallel coding: The code-mode inside Rowboat lets you spin multiple instances of Claude Code or Codex and either work with them directly or let Rowboat use your work context to orchestrate them. We built an ACP (Agent Client Protocol) client in Rowboat for this.<p>- Notes: Rowboat has an Obsidian-style local note-taking system. It comes with graph view, bases view, and voice notes. You can also sync Google Docs files and edit them inside Rowboat.<p>You can also build your own work surfaces inside Rowboat (web apps). Each app gets its own UI and a background agent, and can use all of Rowboat's tools, product integrations, and your work memory. For instance: an app to manage GitHub activity, project tracking, or ads campaign management. There are a few community apps at launch you can search and install, and you can publish your own by creating a GitHub repo for it and registering it.<p>Rowboat also indexes your work into a knowledge graph that all of the above surfaces use to have better context. We did a Show HN a few months back on this: <a href=\"https://news.ycombinator.com/item?id=46962641\">https://news.ycombinator.com/item?id=46962641</a>.<p>As an example that ties some of these together: you can create an app inside Rowboat that collects feature requests from your email, meetings, and Slack and ranks them, then uses Claude Code to draft a first version of the top-ranked feature, pulling prior context about it from your knowledge graph.<p>Rowboat is local-first: data is stored as plain Markdown files you can read, edit, or delete anytime. It is Apache-2.0 and works with any LLM, including local models through Ollama or LM Studio.<p>We’d love to hear your thoughts, and contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819808\">https://news.ycombinator.com/item?id=48819808</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+        "pubDate": "Tue, 07 Jul 2026 16:10:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48819808"
+      },
+      {
+        "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+        "link": "https://30papers.com/",
+        "description": "<p>Article URL: <a href=\"https://30papers.com/\">https://30papers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819608\">https://news.ycombinator.com/item?id=48819608</a></p>\n<p>Points: 194</p>\n<p># Comments: 34</p>",
+        "pubDate": "Tue, 07 Jul 2026 15:58:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48819608"
+      },
+      {
+        "title": "Why we built yet another Postgres connection pooler",
+        "link": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+        "description": "<p>Article URL: <a href=\"https://pgdog.dev/blog/why-yet-another-connection-pooler\">https://pgdog.dev/blog/why-yet-another-connection-pooler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819308\">https://news.ycombinator.com/item?id=48819308</a></p>\n<p>Points: 72</p>\n<p># Comments: 9</p>",
+        "pubDate": "Tue, 07 Jul 2026 15:36:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48819308"
+      },
+      {
+        "title": "Microsoft fire idTech team at Id software",
+        "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+        "description": "<p>Article URL: <a href=\"https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/\">https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819244\">https://news.ycombinator.com/item?id=48819244</a></p>\n<p>Points: 382</p>\n<p># Comments: 381</p>",
+        "pubDate": "Tue, 07 Jul 2026 15:33:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48819244"
+      },
+      {
+        "title": "Chat Control passed first round in EU Parliament",
+        "link": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+        "description": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html\">https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819008\">https://news.ycombinator.com/item?id=48819008</a></p>\n<p>Points: 416</p>\n<p># Comments: 187</p>",
+        "pubDate": "Tue, 07 Jul 2026 15:16:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48819008"
+      },
+      {
+        "title": "Amazon without the knockoffs",
+        "link": "https://knockoff.shopping/",
+        "description": "<p>Article URL: <a href=\"https://knockoff.shopping/\">https://knockoff.shopping/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818963\">https://news.ycombinator.com/item?id=48818963</a></p>\n<p>Points: 262</p>\n<p># Comments: 182</p>",
+        "pubDate": "Tue, 07 Jul 2026 15:13:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48818963"
+      },
+      {
+        "title": "Automating AI Away",
+        "link": "https://replicated.live/blog/away",
+        "description": "<p>Article URL: <a href=\"https://replicated.live/blog/away\">https://replicated.live/blog/away</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818937\">https://news.ycombinator.com/item?id=48818937</a></p>\n<p>Points: 57</p>\n<p># Comments: 30</p>",
+        "pubDate": "Tue, 07 Jul 2026 15:11:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48818937"
+      },
+      {
+        "title": "The revenge of the philosophy majors",
+        "link": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html\">https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818544\">https://news.ycombinator.com/item?id=48818544</a></p>\n<p>Points: 96</p>\n<p># Comments: 147</p>",
+        "pubDate": "Tue, 07 Jul 2026 14:41:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48818544"
+      },
+      {
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "link": "https://fightchatcontrol.eu/chat-control-overview",
+        "description": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/chat-control-overview\">https://fightchatcontrol.eu/chat-control-overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818311\">https://news.ycombinator.com/item?id=48818311</a></p>\n<p>Points: 215</p>\n<p># Comments: 61</p>",
+        "pubDate": "Tue, 07 Jul 2026 14:23:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48818311"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-07T14:56:15.841Z",
+  "lastUpdated": "2026-07-07T20:08:20.053Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
