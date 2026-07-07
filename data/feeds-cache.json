@@ -5,71 +5,141 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-06T20:09:02.375Z"
+      "lastFetched": "2026-07-07T04:10:11.261Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-06T20:09:02.651Z"
+      "lastFetched": "2026-07-07T04:10:16.734Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Price per 1M tokens is meaningless",
-        "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-        "description": "<p>Article URL: <a href=\"https://janilowski.pl/en/blog/2026/price-per-m-tokens/\">https://janilowski.pl/en/blog/2026/price-per-m-tokens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809542\">https://news.ycombinator.com/item?id=48809542</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 06 Jul 2026 19:43:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48809542"
+        "title": "How to sequence your own DNA at home",
+        "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+        "description": "<p>Article URL: <a href=\"https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\">https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48812156\">https://news.ycombinator.com/item?id=48812156</a></p>\n<p>Points: 94</p>\n<p># Comments: 23</p>",
+        "pubDate": "Tue, 07 Jul 2026 00:14:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48812156"
+      },
+      {
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48812055\">https://news.ycombinator.com/item?id=48812055</a></p>\n<p>Points: 44</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 06 Jul 2026 23:59:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48812055"
+      },
+      {
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "link": "https://ternlight-demo.vercel.app/",
+        "description": "<p>Article URL: <a href=\"https://ternlight-demo.vercel.app/\">https://ternlight-demo.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811644\">https://news.ycombinator.com/item?id=48811644</a></p>\n<p>Points: 120</p>\n<p># Comments: 34</p>",
+        "pubDate": "Mon, 06 Jul 2026 23:06:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48811644"
+      },
+      {
+        "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+        "link": "https://github.com/MaximeRivest/Riddle",
+        "description": "<p>Article URL: <a href=\"https://github.com/MaximeRivest/Riddle\">https://github.com/MaximeRivest/Riddle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811591\">https://news.ycombinator.com/item?id=48811591</a></p>\n<p>Points: 218</p>\n<p># Comments: 134</p>",
+        "pubDate": "Mon, 06 Jul 2026 23:00:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48811591"
+      },
+      {
+        "title": "OpenSSH 10.4/10.4p1 Released",
+        "link": "https://www.openssh.org/txt/release-10.4",
+        "description": "<p>Article URL: <a href=\"https://www.openssh.org/txt/release-10.4\">https://www.openssh.org/txt/release-10.4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811373\">https://news.ycombinator.com/item?id=48811373</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 06 Jul 2026 22:32:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48811373"
+      },
+      {
+        "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+        "link": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+        "description": "<p>Article URL: <a href=\"https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/\">https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811339\">https://news.ycombinator.com/item?id=48811339</a></p>\n<p>Points: 31</p>\n<p># Comments: 17</p>",
+        "pubDate": "Mon, 06 Jul 2026 22:30:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48811339"
+      },
+      {
+        "title": "Poly/ML – A Standard ML Implementation",
+        "link": "https://github.com/polyml/polyml",
+        "description": "<p>Article URL: <a href=\"https://github.com/polyml/polyml\">https://github.com/polyml/polyml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811317\">https://news.ycombinator.com/item?id=48811317</a></p>\n<p>Points: 31</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 06 Jul 2026 22:28:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48811317"
+      },
+      {
+        "title": "Full Writeup of the Windows GDID",
+        "link": "https://github.com/SmtimesIWndr/gdid-reversal",
+        "description": "<p>Article URL: <a href=\"https://github.com/SmtimesIWndr/gdid-reversal\">https://github.com/SmtimesIWndr/gdid-reversal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811081\">https://news.ycombinator.com/item?id=48811081</a></p>\n<p>Points: 46</p>\n<p># Comments: 22</p>",
+        "pubDate": "Mon, 06 Jul 2026 22:02:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48811081"
+      },
+      {
+        "title": "Learning to code is still worthwhile",
+        "link": "https://stevekrouse.com/learn-to-code",
+        "description": "<p>Article URL: <a href=\"https://stevekrouse.com/learn-to-code\">https://stevekrouse.com/learn-to-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48810439\">https://news.ycombinator.com/item?id=48810439</a></p>\n<p>Points: 131</p>\n<p># Comments: 131</p>",
+        "pubDate": "Mon, 06 Jul 2026 20:59:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48810439"
+      },
+      {
+        "title": "GLM 5.2 and the coming AI margin collapse",
+        "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "description": "<p>Article URL: <a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\">https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809877\">https://news.ycombinator.com/item?id=48809877</a></p>\n<p>Points: 225</p>\n<p># Comments: 147</p>",
+        "pubDate": "Mon, 06 Jul 2026 20:14:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48809877"
+      },
+      {
+        "title": "M/PC – A Concatenative OS",
+        "link": "https://wiki.xxiivv.com/site/m_pc.html",
+        "description": "<p>Article URL: <a href=\"https://wiki.xxiivv.com/site/m_pc.html\">https://wiki.xxiivv.com/site/m_pc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809810\">https://news.ycombinator.com/item?id=48809810</a></p>\n<p>Points: 45</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 06 Jul 2026 20:08:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48809810"
+      },
+      {
+        "title": "Pruning RAG context down to what the answer actually needs",
+        "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+        "description": "<p>Article URL: <a href=\"https://www.kapa.ai/blog/how-we-prune-rag-context\">https://www.kapa.ai/blog/how-we-prune-rag-context</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809354\">https://news.ycombinator.com/item?id=48809354</a></p>\n<p>Points: 63</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 06 Jul 2026 19:28:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48809354"
       },
       {
         "title": "CoMaps – FOSS Offline Maps",
         "link": "https://www.comaps.app/",
-        "description": "<p>Article URL: <a href=\"https://www.comaps.app/\">https://www.comaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808928\">https://news.ycombinator.com/item?id=48808928</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://www.comaps.app/\">https://www.comaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808928\">https://news.ycombinator.com/item?id=48808928</a></p>\n<p>Points: 361</p>\n<p># Comments: 73</p>",
         "pubDate": "Mon, 06 Jul 2026 18:55:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=48808928"
       },
       {
-        "title": "Linux on the Atari Jaguar. No, really.",
+        "title": "Linux on the Atari Jaguar",
         "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-        "description": "<p>Article URL: <a href=\"https://cakehonolulu.github.io/linux-for-jaguar/\">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808663\">https://news.ycombinator.com/item?id=48808663</a></p>\n<p>Points: 29</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://cakehonolulu.github.io/linux-for-jaguar/\">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808663\">https://news.ycombinator.com/item?id=48808663</a></p>\n<p>Points: 117</p>\n<p># Comments: 21</p>",
         "pubDate": "Mon, 06 Jul 2026 18:35:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=48808663"
       },
       {
-        "title": "Pros and Cons of Solo Development",
-        "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-        "description": "<p>Article URL: <a href=\"https://johnjeffers.com/pros-and-cons-of-solo-development/\">https://johnjeffers.com/pros-and-cons-of-solo-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808508\">https://news.ycombinator.com/item?id=48808508</a></p>\n<p>Points: 70</p>\n<p># Comments: 24</p>",
-        "pubDate": "Mon, 06 Jul 2026 18:24:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48808508"
-      },
-      {
         "title": "OpenWrt One – Open Hardware Router",
         "link": "https://openwrt.org/toh/openwrt/one",
-        "description": "<p>Article URL: <a href=\"https://openwrt.org/toh/openwrt/one\">https://openwrt.org/toh/openwrt/one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808482\">https://news.ycombinator.com/item?id=48808482</a></p>\n<p>Points: 156</p>\n<p># Comments: 75</p>",
+        "description": "<p>Article URL: <a href=\"https://openwrt.org/toh/openwrt/one\">https://openwrt.org/toh/openwrt/one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808482\">https://news.ycombinator.com/item?id=48808482</a></p>\n<p>Points: 480</p>\n<p># Comments: 196</p>",
         "pubDate": "Mon, 06 Jul 2026 18:23:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48808482"
       },
       {
         "title": "A global workspace in language models",
         "link": "https://www.anthropic.com/research/global-workspace",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/global-workspace\">https://www.anthropic.com/research/global-workspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808002\">https://news.ycombinator.com/item?id=48808002</a></p>\n<p>Points: 81</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/global-workspace\">https://www.anthropic.com/research/global-workspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808002\">https://news.ycombinator.com/item?id=48808002</a></p>\n<p>Points: 300</p>\n<p># Comments: 106</p>",
         "pubDate": "Mon, 06 Jul 2026 17:44:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48808002"
       },
       {
         "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
         "link": "https://github.com/V4bel/Januscape",
-        "description": "<p>Article URL: <a href=\"https://github.com/V4bel/Januscape\">https://github.com/V4bel/Januscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807908\">https://news.ycombinator.com/item?id=48807908</a></p>\n<p>Points: 34</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/V4bel/Januscape\">https://github.com/V4bel/Januscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807908\">https://news.ycombinator.com/item?id=48807908</a></p>\n<p>Points: 85</p>\n<p># Comments: 27</p>",
         "pubDate": "Mon, 06 Jul 2026 17:35:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=48807908"
       },
       {
         "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
         "link": "https://github.com/iOfficeAI/OfficeCLI",
-        "description": "<p>Article URL: <a href=\"https://github.com/iOfficeAI/OfficeCLI\">https://github.com/iOfficeAI/OfficeCLI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807225\">https://news.ycombinator.com/item?id=48807225</a></p>\n<p>Points: 57</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/iOfficeAI/OfficeCLI\">https://github.com/iOfficeAI/OfficeCLI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807225\">https://news.ycombinator.com/item?id=48807225</a></p>\n<p>Points: 141</p>\n<p># Comments: 36</p>",
         "pubDate": "Mon, 06 Jul 2026 16:47:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48807225"
       },
@@ -81,86 +151,16 @@
         "guid": "https://news.ycombinator.com/item?id=48806976"
       },
       {
-        "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle",
-        "link": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
-        "description": "<p>Article URL: <a href=\"https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/\">https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806741\">https://news.ycombinator.com/item?id=48806741</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 06 Jul 2026 16:17:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48806741"
-      },
-      {
-        "title": "Show HN: Pulpie – Models for Cleaning the Web",
-        "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-        "description": "<p>Hey HN, I'm Shreyash, founder of Feyn. We built Pulpie, a family of Pareto optimal models for cleaning the web. Pulpie strips boilerplate (ads, footers, sidebars) from raw HTML and returns just the main content as HTML or Markdown.<p>We match SOTA extraction quality while being 20x cheaper. Cleaning 1 billion webpages costs $7,900 with Pulpie versus $159,000 with Dripper, the current leading extractor.<p>The gains come from architecture. Today's leading extractors are decoders that generate output one token at a time. Each step reads the full model from memory to produce a single token. Conversely, Pulpie models are encoders. They run one forward pass over the full input HTML and label each block as boilerplate or content. As a result, Pulpie is compute-bound while decoders are memory-bound. Cheaper GPUs have relatively more compute than memory bandwidth. This makes Pulpie easy to run optimally.<p>Here's Pulpie and Dripper cleaning the same pages side by side: <a href=\"https://www.youtube.com/watch?v=ibd-tIiQECo\" rel=\"nofollow\">https://www.youtube.com/watch?v=ibd-tIiQECo</a>. You can try a side-by-side comparison yourself: <a href=\"https://huggingface.co/spaces/feyninc/pulpie\" rel=\"nofollow\">https://huggingface.co/spaces/feyninc/pulpie</a><p>Our motivation for Pulpie came from building a deep research harness. Every search API returns noisy content that contains ads, nav elements, and sidebars. In one instance, an ad for \"Gemini on Pixel\" slipped into our search results, got passed into LLM context, and ended up in the final answer served to the user. Pretty embarrassing moment for us but it helped us realize how bad data kills model intelligence. We built Pulpie to get clean data for cheap.<p>All models are open source on Hugging Face. You can read about our training process and how to use Pulpie here: <a href=\"https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/#get-started\">https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cl...</a><p>Happy to answer any questions!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806575\">https://news.ycombinator.com/item?id=48806575</a></p>\n<p>Points: 57</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 06 Jul 2026 16:04:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48806575"
-      },
-      {
         "title": "Kani: A Model Checker for Rust",
         "link": "https://arxiv.org/abs/2607.01504",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.01504\">https://arxiv.org/abs/2607.01504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806410\">https://news.ycombinator.com/item?id=48806410</a></p>\n<p>Points: 88</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.01504\">https://arxiv.org/abs/2607.01504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806410\">https://news.ycombinator.com/item?id=48806410</a></p>\n<p>Points: 130</p>\n<p># Comments: 7</p>",
         "pubDate": "Mon, 06 Jul 2026 15:53:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48806410"
-      },
-      {
-        "title": "Should DayQuil Be Legal?",
-        "link": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
-        "description": "<p>Article URL: <a href=\"https://www.theargumentmag.com/p/should-dayquil-be-legal\">https://www.theargumentmag.com/p/should-dayquil-be-legal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806289\">https://news.ycombinator.com/item?id=48806289</a></p>\n<p>Points: 114</p>\n<p># Comments: 160</p>",
-        "pubDate": "Mon, 06 Jul 2026 15:44:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48806289"
-      },
-      {
-        "title": "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
-        "link": "https://github.com/adriancable/eternal",
-        "description": "<p>Article URL: <a href=\"https://github.com/adriancable/eternal\">https://github.com/adriancable/eternal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806156\">https://news.ycombinator.com/item?id=48806156</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 06 Jul 2026 15:35:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48806156"
-      },
-      {
-        "title": "1k Words: A Writing Contest",
-        "link": "https://writingclub.world/1picture1000words",
-        "description": "<p>Article URL: <a href=\"https://writingclub.world/1picture1000words\">https://writingclub.world/1picture1000words</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806073\">https://news.ycombinator.com/item?id=48806073</a></p>\n<p>Points: 63</p>\n<p># Comments: 28</p>",
-        "pubDate": "Mon, 06 Jul 2026 15:30:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48806073"
-      },
-      {
-        "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-        "link": "https://github.com/karola3vax/CS2FOW",
-        "description": "<p>Article URL: <a href=\"https://github.com/karola3vax/CS2FOW\">https://github.com/karola3vax/CS2FOW</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805965\">https://news.ycombinator.com/item?id=48805965</a></p>\n<p>Points: 63</p>\n<p># Comments: 27</p>",
-        "pubDate": "Mon, 06 Jul 2026 15:23:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805965"
-      },
-      {
-        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-        "description": "<p>Article URL: <a href=\"https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo\">https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805624\">https://news.ycombinator.com/item?id=48805624</a></p>\n<p>Points: 213</p>\n<p># Comments: 155</p>",
-        "pubDate": "Mon, 06 Jul 2026 15:01:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805624"
-      },
-      {
-        "title": "Show HN: I Built LangGraph for Swift",
-        "link": "https://github.com/christopherkarani/Swarm",
-        "description": "<p>Article URL: <a href=\"https://github.com/christopherkarani/Swarm\">https://github.com/christopherkarani/Swarm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805437\">https://news.ycombinator.com/item?id=48805437</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 06 Jul 2026 14:47:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48805437"
-      },
-      {
-        "title": "Resetting Xbox",
-        "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-        "description": "<p>Article URL: <a href=\"https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\">https://news.xbox.com/en-us/2026/07/06/resetting-xbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804993\">https://news.ycombinator.com/item?id=48804993</a></p>\n<p>Points: 307</p>\n<p># Comments: 257</p>",
-        "pubDate": "Mon, 06 Jul 2026 14:18:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804993"
-      },
-      {
-        "title": "Aluminum foil (2021)",
-        "link": "https://dernocua.github.io/notes/aluminum-foil.html",
-        "description": "<p>Article URL: <a href=\"https://dernocua.github.io/notes/aluminum-foil.html\">https://dernocua.github.io/notes/aluminum-foil.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48804297\">https://news.ycombinator.com/item?id=48804297</a></p>\n<p>Points: 196</p>\n<p># Comments: 92</p>",
-        "pubDate": "Mon, 06 Jul 2026 13:28:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48804297"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-06T20:09:02.651Z",
+  "lastUpdated": "2026-07-07T04:10:16.734Z",
   "stats": {
     "feeds": 2,
     "articles": 20
