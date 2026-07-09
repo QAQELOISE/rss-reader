@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-09T04:04:18.252Z"
+      "lastFetched": "2026-07-09T09:54:11.989Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-09T04:04:18.410Z"
+      "lastFetched": "2026-07-09T09:54:21.226Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "I Think I Have LLM Burnout",
-        "link": "https://www.alecscollon.com/blog/llm-burnout/",
-        "description": "<p>Article URL: <a href=\"https://www.alecscollon.com/blog/llm-burnout/\">https://www.alecscollon.com/blog/llm-burnout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48839984\">https://news.ycombinator.com/item?id=48839984</a></p>\n<p>Points: 157</p>\n<p># Comments: 107</p>",
-        "pubDate": "Thu, 09 Jul 2026 01:56:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48839984"
+        "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+        "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+        "description": "<p>Article URL: <a href=\"https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\">https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48842611\">https://news.ycombinator.com/item?id=48842611</a></p>\n<p>Points: 65</p>\n<p># Comments: 40</p>",
+        "pubDate": "Thu, 09 Jul 2026 08:22:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48842611"
+      },
+      {
+        "title": "CollectWise (YC F24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\">https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841963\">https://news.ycombinator.com/item?id=48841963</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 09 Jul 2026 07:00:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48841963"
+      },
+      {
+        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "link": "https://github.com/malisper/pgrust",
+        "description": "<p>Article URL: <a href=\"https://github.com/malisper/pgrust\">https://github.com/malisper/pgrust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841676\">https://news.ycombinator.com/item?id=48841676</a></p>\n<p>Points: 127</p>\n<p># Comments: 165</p>",
+        "pubDate": "Thu, 09 Jul 2026 06:18:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48841676"
+      },
+      {
+        "title": "How Donkey Kong Toppled Atari",
+        "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+        "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/how-donkey-kong-toppled-atari/\">https://dfarq.homeip.net/how-donkey-kong-toppled-atari/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841385\">https://news.ycombinator.com/item?id=48841385</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 09 Jul 2026 05:34:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48841385"
+      },
+      {
+        "title": "Spider venom kills varroa mites without harming honeybees",
+        "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "description": "<p>Article URL: <a href=\"https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming\">https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841259\">https://news.ycombinator.com/item?id=48841259</a></p>\n<p>Points: 113</p>\n<p># Comments: 47</p>",
+        "pubDate": "Thu, 09 Jul 2026 05:14:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48841259"
       },
       {
         "title": "Remote Attestation",
         "link": "https://www.liamcvw.com/p/remote-attestation",
-        "description": "<p>Article URL: <a href=\"https://www.liamcvw.com/p/remote-attestation\">https://www.liamcvw.com/p/remote-attestation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48839397\">https://news.ycombinator.com/item?id=48839397</a></p>\n<p>Points: 41</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://www.liamcvw.com/p/remote-attestation\">https://www.liamcvw.com/p/remote-attestation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48839397\">https://news.ycombinator.com/item?id=48839397</a></p>\n<p>Points: 94</p>\n<p># Comments: 80</p>",
         "pubDate": "Thu, 09 Jul 2026 00:32:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=48839397"
       },
       {
         "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
         "link": "https://mira-wm.com/",
-        "description": "<p><a href=\"https://mira-wm.com/blog-post/\" rel=\"nofollow\">https://mira-wm.com/blog-post/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48839355\">https://news.ycombinator.com/item?id=48839355</a></p>\n<p>Points: 40</p>\n<p># Comments: 9</p>",
+        "description": "<p><a href=\"https://mira-wm.com/blog-post/\" rel=\"nofollow\">https://mira-wm.com/blog-post/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48839355\">https://news.ycombinator.com/item?id=48839355</a></p>\n<p>Points: 77</p>\n<p># Comments: 13</p>",
         "pubDate": "Thu, 09 Jul 2026 00:27:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48839355"
       },
       {
         "title": "John Deere owners will get the right to repair equipment under FTC settlement",
         "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\">https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48838876\">https://news.ycombinator.com/item?id=48838876</a></p>\n<p>Points: 436</p>\n<p># Comments: 89</p>",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\">https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48838876\">https://news.ycombinator.com/item?id=48838876</a></p>\n<p>Points: 818</p>\n<p># Comments: 153</p>",
         "pubDate": "Wed, 08 Jul 2026 23:37:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=48838876"
       },
       {
-        "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-        "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off\">https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48838772\">https://news.ycombinator.com/item?id=48838772</a></p>\n<p>Points: 99</p>\n<p># Comments: 40</p>",
-        "pubDate": "Wed, 08 Jul 2026 23:27:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48838772"
-      },
-      {
         "title": "Rewriting Bun in Rust",
         "link": "https://bun.com/blog/bun-in-rust",
-        "description": "<p>Article URL: <a href=\"https://bun.com/blog/bun-in-rust\">https://bun.com/blog/bun-in-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837877\">https://news.ycombinator.com/item?id=48837877</a></p>\n<p>Points: 365</p>\n<p># Comments: 195</p>",
+        "description": "<p>Article URL: <a href=\"https://bun.com/blog/bun-in-rust\">https://bun.com/blog/bun-in-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837877\">https://news.ycombinator.com/item?id=48837877</a></p>\n<p>Points: 584</p>\n<p># Comments: 332</p>",
         "pubDate": "Wed, 08 Jul 2026 21:49:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=48837877"
       },
       {
         "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
         "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-        "description": "<p>Article URL: <a href=\"https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase\">https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837696\">https://news.ycombinator.com/item?id=48837696</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase\">https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837696\">https://news.ycombinator.com/item?id=48837696</a></p>\n<p>Points: 86</p>\n<p># Comments: 32</p>",
         "pubDate": "Wed, 08 Jul 2026 21:30:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=48837696"
       },
       {
         "title": "Separating signal from noise in coding evaluations",
         "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/separating-signal-from-noise-coding-evaluations/\">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837396\">https://news.ycombinator.com/item?id=48837396</a></p>\n<p>Points: 176</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/separating-signal-from-noise-coding-evaluations/\">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837396\">https://news.ycombinator.com/item?id=48837396</a></p>\n<p>Points: 214</p>\n<p># Comments: 75</p>",
         "pubDate": "Wed, 08 Jul 2026 21:03:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=48837396"
       },
       {
         "title": "Turning a pile of documents into a searchable useable knowledge base",
         "link": "https://github.com/linuxrebel/DocuBrowser",
-        "description": "<p>Article URL: <a href=\"https://github.com/linuxrebel/DocuBrowser\">https://github.com/linuxrebel/DocuBrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837110\">https://news.ycombinator.com/item?id=48837110</a></p>\n<p>Points: 93</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/linuxrebel/DocuBrowser\">https://github.com/linuxrebel/DocuBrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837110\">https://news.ycombinator.com/item?id=48837110</a></p>\n<p>Points: 139</p>\n<p># Comments: 31</p>",
         "pubDate": "Wed, 08 Jul 2026 20:37:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=48837110"
       },
       {
         "title": "FAANG Simulator",
         "link": "https://www.abeyk.com/escape-the-rat-race/",
-        "description": "<p>Article URL: <a href=\"https://www.abeyk.com/escape-the-rat-race/\">https://www.abeyk.com/escape-the-rat-race/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836778\">https://news.ycombinator.com/item?id=48836778</a></p>\n<p>Points: 329</p>\n<p># Comments: 124</p>",
+        "description": "<p>Article URL: <a href=\"https://www.abeyk.com/escape-the-rat-race/\">https://www.abeyk.com/escape-the-rat-race/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836778\">https://news.ycombinator.com/item?id=48836778</a></p>\n<p>Points: 415</p>\n<p># Comments: 158</p>",
         "pubDate": "Wed, 08 Jul 2026 20:05:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48836778"
       },
       {
         "title": "New Sweden: the US's long-lost 'secret' colony",
         "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony\">https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836324\">https://news.ycombinator.com/item?id=48836324</a></p>\n<p>Points: 62</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony\">https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836324\">https://news.ycombinator.com/item?id=48836324</a></p>\n<p>Points: 112</p>\n<p># Comments: 41</p>",
         "pubDate": "Wed, 08 Jul 2026 19:26:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48836324"
       },
       {
         "title": "Cloudflare Drop",
         "link": "https://www.cloudflare.com/drop/",
-        "description": "<p>Article URL: <a href=\"https://www.cloudflare.com/drop/\">https://www.cloudflare.com/drop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836233\">https://news.ycombinator.com/item?id=48836233</a></p>\n<p>Points: 306</p>\n<p># Comments: 148</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cloudflare.com/drop/\">https://www.cloudflare.com/drop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836233\">https://news.ycombinator.com/item?id=48836233</a></p>\n<p>Points: 431</p>\n<p># Comments: 228</p>",
         "pubDate": "Wed, 08 Jul 2026 19:18:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48836233"
       },
       {
-        "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-        "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-        "description": "<p>Article URL: <a href=\"https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997\">https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48835439\">https://news.ycombinator.com/item?id=48835439</a></p>\n<p>Points: 86</p>\n<p># Comments: 16</p>",
-        "pubDate": "Wed, 08 Jul 2026 18:21:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48835439"
-      },
-      {
         "title": "Grok 4.5",
         "link": "https://x.ai/news/grok-4-5",
-        "description": "<p><a href=\"https://cursor.com/blog/grok-4-5\" rel=\"nofollow\">https://cursor.com/blog/grok-4-5</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48835111\">https://news.ycombinator.com/item?id=48835111</a></p>\n<p>Points: 516</p>\n<p># Comments: 673</p>",
+        "description": "<p><a href=\"https://cursor.com/blog/grok-4-5\" rel=\"nofollow\">https://cursor.com/blog/grok-4-5</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48835111\">https://news.ycombinator.com/item?id=48835111</a></p>\n<p>Points: 632</p>\n<p># Comments: 930</p>",
         "pubDate": "Wed, 08 Jul 2026 18:00:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=48835111"
       },
       {
         "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
         "link": "https://microsoft.github.io/flint-chart/#/",
-        "description": "<p>Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability<p>We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft <a href=\"https://data-formulator.ai/\" rel=\"nofollow\">https://data-formulator.ai/</a>).<p>Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48834924\">https://news.ycombinator.com/item?id=48834924</a></p>\n<p>Points: 225</p>\n<p># Comments: 83</p>",
+        "description": "<p>Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability<p>We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft <a href=\"https://data-formulator.ai/\" rel=\"nofollow\">https://data-formulator.ai/</a>).<p>Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48834924\">https://news.ycombinator.com/item?id=48834924</a></p>\n<p>Points: 281</p>\n<p># Comments: 109</p>",
         "pubDate": "Wed, 08 Jul 2026 17:46:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48834924"
       },
       {
         "title": "GPT‑Live",
         "link": "https://openai.com/index/introducing-gpt-live/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-live/\">https://openai.com/index/introducing-gpt-live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48834405\">https://news.ycombinator.com/item?id=48834405</a></p>\n<p>Points: 632</p>\n<p># Comments: 422</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-live/\">https://openai.com/index/introducing-gpt-live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48834405\">https://news.ycombinator.com/item?id=48834405</a></p>\n<p>Points: 704</p>\n<p># Comments: 463</p>",
         "pubDate": "Wed, 08 Jul 2026 17:03:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48834405"
       },
       {
         "title": "TypeScript 7",
         "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/\">https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48833715\">https://news.ycombinator.com/item?id=48833715</a></p>\n<p>Points: 504</p>\n<p># Comments: 202</p>",
+        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/\">https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48833715\">https://news.ycombinator.com/item?id=48833715</a></p>\n<p>Points: 620</p>\n<p># Comments: 243</p>",
         "pubDate": "Wed, 08 Jul 2026 16:06:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48833715"
       },
       {
         "title": "Chatto is now open source",
         "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-        "description": "<p>Article URL: <a href=\"https://www.hmans.dev/blog/chatto-is-open-source\">https://www.hmans.dev/blog/chatto-is-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48833116\">https://news.ycombinator.com/item?id=48833116</a></p>\n<p>Points: 793</p>\n<p># Comments: 211</p>",
+        "description": "<p>Article URL: <a href=\"https://www.hmans.dev/blog/chatto-is-open-source\">https://www.hmans.dev/blog/chatto-is-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48833116\">https://news.ycombinator.com/item?id=48833116</a></p>\n<p>Points: 966</p>\n<p># Comments: 268</p>",
         "pubDate": "Wed, 08 Jul 2026 15:19:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=48833116"
-      },
-      {
-        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-        "link": "https://mistral.ai/news/robostral-navigate/",
-        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/robostral-navigate/\">https://mistral.ai/news/robostral-navigate/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832212\">https://news.ycombinator.com/item?id=48832212</a></p>\n<p>Points: 429</p>\n<p># Comments: 97</p>",
-        "pubDate": "Wed, 08 Jul 2026 14:09:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48832212"
-      },
-      {
-        "title": "A bug which affected only left handed users",
-        "link": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/\">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48831587\">https://news.ycombinator.com/item?id=48831587</a></p>\n<p>Points: 96</p>\n<p># Comments: 47</p>",
-        "pubDate": "Wed, 08 Jul 2026 13:20:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48831587"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-09T04:04:18.411Z",
+  "lastUpdated": "2026-07-09T09:54:21.227Z",
   "stats": {
     "feeds": 2,
     "articles": 20
