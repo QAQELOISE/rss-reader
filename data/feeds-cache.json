@@ -5,78 +5,64 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-10T04:04:01.257Z"
+      "lastFetched": "2026-07-10T09:49:59.695Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-10T04:04:21.163Z"
+      "lastFetched": "2026-07-10T09:50:00.088Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-        "link": "https://www.anthropic.com/news/ben-bernanke",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/ben-bernanke\">https://www.anthropic.com/news/ben-bernanke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48855112\">https://news.ycombinator.com/item?id=48855112</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 10 Jul 2026 02:39:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48855112"
+        "title": "AI-generated videos to maximally drive a target brain region",
+        "link": "https://nevo-project.epfl.ch/",
+        "description": "<p>Article URL: <a href=\"https://nevo-project.epfl.ch/\">https://nevo-project.epfl.ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48856904\">https://news.ycombinator.com/item?id=48856904</a></p>\n<p>Points: 48</p>\n<p># Comments: 46</p>",
+        "pubDate": "Fri, 10 Jul 2026 07:39:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48856904"
       },
       {
         "title": "Build your own vulnerability harness",
         "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/build-your-own-vulnerability-harness/\">https://blog.cloudflare.com/build-your-own-vulnerability-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854681\">https://news.ycombinator.com/item?id=48854681</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/build-your-own-vulnerability-harness/\">https://blog.cloudflare.com/build-your-own-vulnerability-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854681\">https://news.ycombinator.com/item?id=48854681</a></p>\n<p>Points: 45</p>\n<p># Comments: 19</p>",
         "pubDate": "Fri, 10 Jul 2026 01:28:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=48854681"
       },
       {
-        "title": "Star Just Ate a Planet, and It's Not Done Yet",
-        "link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html\">https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854638\">https://news.ycombinator.com/item?id=48854638</a></p>\n<p>Points: 27</p>\n<p># Comments: 35</p>",
-        "pubDate": "Fri, 10 Jul 2026 01:20:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48854638"
-      },
-      {
-        "title": "Focus",
-        "link": "https://boz.com/articles/focus",
-        "description": "<p>Article URL: <a href=\"https://boz.com/articles/focus\">https://boz.com/articles/focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854363\">https://news.ycombinator.com/item?id=48854363</a></p>\n<p>Points: 75</p>\n<p># Comments: 38</p>",
-        "pubDate": "Fri, 10 Jul 2026 00:40:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48854363"
-      },
-      {
-        "title": "Study: \"Mommy, do you love your phone more than me?\"",
+        "title": "Parental device use and the adolescent-caregiver attachment bond",
         "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-        "description": "<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full\">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854247\">https://news.ycombinator.com/item?id=48854247</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full\">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854247\">https://news.ycombinator.com/item?id=48854247</a></p>\n<p>Points: 127</p>\n<p># Comments: 102</p>",
         "pubDate": "Fri, 10 Jul 2026 00:20:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48854247"
       },
       {
         "title": "Why American ambulance rides are so expensive",
         "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-        "description": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-american-ambulance-rides-are\">https://davidoks.blog/p/why-american-ambulance-rides-are</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48853091\">https://news.ycombinator.com/item?id=48853091</a></p>\n<p>Points: 129</p>\n<p># Comments: 163</p>",
+        "description": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-american-ambulance-rides-are\">https://davidoks.blog/p/why-american-ambulance-rides-are</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48853091\">https://news.ycombinator.com/item?id=48853091</a></p>\n<p>Points: 210</p>\n<p># Comments: 277</p>",
         "pubDate": "Thu, 09 Jul 2026 22:15:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=48853091"
       },
       {
         "title": "Building a real-time AI tutor for 5-year-olds",
         "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-        "description": "<p>Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow.<p>Effective teaching isn't just about answering a child's  question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right.<p>Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48852199\">https://news.ycombinator.com/item?id=48852199</a></p>\n<p>Points: 61</p>\n<p># Comments: 90</p>",
+        "description": "<p>Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow.<p>Effective teaching isn't just about answering a child's  question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right.<p>Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48852199\">https://news.ycombinator.com/item?id=48852199</a></p>\n<p>Points: 88</p>\n<p># Comments: 149</p>",
         "pubDate": "Thu, 09 Jul 2026 20:51:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48852199"
       },
       {
         "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
         "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "description": "<p>Article URL: <a href=\"https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\">https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849292\">https://news.ycombinator.com/item?id=48849292</a></p>\n<p>Points: 156</p>\n<p># Comments: 61</p>",
+        "description": "<p>Article URL: <a href=\"https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\">https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849292\">https://news.ycombinator.com/item?id=48849292</a></p>\n<p>Points: 243</p>\n<p># Comments: 110</p>",
         "pubDate": "Thu, 09 Jul 2026 17:17:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=48849292"
       },
       {
         "title": "GPT-5.6",
         "link": "https://openai.com/index/gpt-5-6/",
-        "description": "<p><a href=\"https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf</a><p><a href=\"https://developers.openai.com/api/docs/guides/latest-model\" rel=\"nofollow\">https://developers.openai.com/api/docs/guides/latest-model</a><p><a href=\"https://x.com/levie/status/2075287443411222628\" rel=\"nofollow\">https://x.com/levie/status/2075287443411222628</a>, <a href=\"https://xcancel.com/levie/status/2075287443411222628\" rel=\"nofollow\">https://xcancel.com/levie/status/2075287443411222628</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849066\">https://news.ycombinator.com/item?id=48849066</a></p>\n<p>Points: 1126</p>\n<p># Comments: 812</p>",
+        "description": "<p><a href=\"https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf</a><p><a href=\"https://developers.openai.com/api/docs/guides/latest-model\" rel=\"nofollow\">https://developers.openai.com/api/docs/guides/latest-model</a><p><a href=\"https://x.com/levie/status/2075287443411222628\" rel=\"nofollow\">https://x.com/levie/status/2075287443411222628</a>, <a href=\"https://xcancel.com/levie/status/2075287443411222628\" rel=\"nofollow\">https://xcancel.com/levie/status/2075287443411222628</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849066\">https://news.ycombinator.com/item?id=48849066</a></p>\n<p>Points: 1257</p>\n<p># Comments: 899</p>",
         "pubDate": "Thu, 09 Jul 2026 17:04:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=48849066"
       },
@@ -90,63 +76,70 @@
       {
         "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
         "link": "https://www.context.dev",
-        "description": "<p>Hi Hacker News, I’m Yahia. I built Context.dev (<a href=\"https://www.context.dev/\">https://www.context.dev/</a>) to make it really easy to integrate web data into your products and agents.<p>Here’s a demo video: <a href=\"https://www.tella.tv/video/build-faster-with-context-dev-apis-2cgl\" rel=\"nofollow\">https://www.tella.tv/video/build-faster-with-context-dev-api...</a><p>Since it’s an API, here are the docs: <a href=\"https://docs.context.dev/quickstart\">https://docs.context.dev/quickstart</a>.<p>You can send us a URL and get back clean Markdown, rendered HTML, screenshots, extracted images, etc.. You can also send us a domain and get company or brand context: name, description, logos, colors, fonts, social links, screenshots, style information, and related metadata. For more custom use cases, you can send a URL plus a JSON Schema and ask us to extract structured data from the site into that shape. For example, you might ask for pricing plans, product categories, office locations, support links, integration partners, or anything else that is visible on the public site.<p>The goal is to give developers the output they actually want. Raw HTML is rarely the useful thing; the useful thing is usually Markdown for a model, JSON for an application, a logo for a UI, or a structured company profile for an agent.<p>Before, I worked at Amazon and Sunrun, and co-founded StockAlarm.io & essense.io, both of which were acquired. Also, I built knifegeek.io, which scraped pocket knives from across the internet and listed them easily. The project is outdated now (coming back soon) but back then it hit the frontpage of hacker news and people seemed to like it: <a href=\"https://news.ycombinator.com/item?id=34604281\">https://news.ycombinator.com/item?id=34604281</a>.<p>Just before Context.dev, I built Brand.dev. The idea was that your software product should automatically know about your customer if they sign up with a corporate email. The API pulled brand data such as logos, backdrops, name, description, industry, and more from the public web and surfaced it to your product to integrate as part of their onboarding experience. That’s worth doing because conversion rates on onboarding improve dramatically when you go from “enter all this info” to “confirm all this info” (and there was never any privacy concern all the information is public).<p>That was a nifty niche, but the more customers used it, it became obvious that “brand data” was only one slice of a larger need. People started asking for things like screenshots, structured extraction, and LLM ready data. So I expanded to Context.dev, and applied to YC (got rejected after an interview), then kept going and re-applied at which point I got in as a solo founder.<p>People use Context.dev in more ways than I can list, but here are some: keeping context up to date on customer websites for chatbots - building beautiful brand assets/ads for customers - enrichment flows using agent harnesses like eve.dev - crawling customer websites into chatbot knowledge bases - turning GitHub repos into branded docs sites - academic journal and PDF crawling. There are a ton more examples at <a href=\"https://www.context.dev/customers\">https://www.context.dev/customers</a>.<p>We know that many crawlers are not behaving like good citizens on the web, and the entire space has a bad reputation as a result. At the same time, customers are not usually trying to buy “scraping”. They are trying to make a support bot work, personalize onboarding, enrich CRM records, generate docs, monitor leads, or let an agent research a company. There are lots of legit use cases. We want to satisfy those while being respectful of everyone involved.<p>We maintain a caching layer and avoid hammering websites. Customers can configure the cache, but if we find we’re sending too many requests to a url in a certain amount of time, we step in and tone it down. Websites can opt out of our service, and we respect these requests and add them to our block list.<p>We focus on customers who want to build cool things for their users. Enriching onboarding is a popular use case. So is integrating context about their own websites (things like support bots), and building agents that can automatically reason about complex tasks involving the internet.<p>We only allow customers to use brand data to identify a specific customer on their software, you cannot use it in your own materials or to imply endorsement.<p>I'd love to hear your feedback about the product in the comments, thanks!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847562\">https://news.ycombinator.com/item?id=48847562</a></p>\n<p>Points: 77</p>\n<p># Comments: 58</p>",
+        "description": "<p>Hi Hacker News, I’m Yahia. I built Context.dev (<a href=\"https://www.context.dev/\">https://www.context.dev/</a>) to make it really easy to integrate web data into your products and agents.<p>Here’s a demo video: <a href=\"https://www.tella.tv/video/build-faster-with-context-dev-apis-2cgl\" rel=\"nofollow\">https://www.tella.tv/video/build-faster-with-context-dev-api...</a><p>Since it’s an API, here are the docs: <a href=\"https://docs.context.dev/quickstart\">https://docs.context.dev/quickstart</a>.<p>You can send us a URL and get back clean Markdown, rendered HTML, screenshots, extracted images, etc.. You can also send us a domain and get company or brand context: name, description, logos, colors, fonts, social links, screenshots, style information, and related metadata. For more custom use cases, you can send a URL plus a JSON Schema and ask us to extract structured data from the site into that shape. For example, you might ask for pricing plans, product categories, office locations, support links, integration partners, or anything else that is visible on the public site.<p>The goal is to give developers the output they actually want. Raw HTML is rarely the useful thing; the useful thing is usually Markdown for a model, JSON for an application, a logo for a UI, or a structured company profile for an agent.<p>Before, I worked at Amazon and Sunrun, and co-founded StockAlarm.io & essense.io, both of which were acquired. Also, I built knifegeek.io, which scraped pocket knives from across the internet and listed them easily. The project is outdated now (coming back soon) but back then it hit the frontpage of hacker news and people seemed to like it: <a href=\"https://news.ycombinator.com/item?id=34604281\">https://news.ycombinator.com/item?id=34604281</a>.<p>Just before Context.dev, I built Brand.dev. The idea was that your software product should automatically know about your customer if they sign up with a corporate email. The API pulled brand data such as logos, backdrops, name, description, industry, and more from the public web and surfaced it to your product to integrate as part of their onboarding experience. That’s worth doing because conversion rates on onboarding improve dramatically when you go from “enter all this info” to “confirm all this info” (and there was never any privacy concern all the information is public).<p>That was a nifty niche, but the more customers used it, it became obvious that “brand data” was only one slice of a larger need. People started asking for things like screenshots, structured extraction, and LLM ready data. So I expanded to Context.dev, and applied to YC (got rejected after an interview), then kept going and re-applied at which point I got in as a solo founder.<p>People use Context.dev in more ways than I can list, but here are some: keeping context up to date on customer websites for chatbots - building beautiful brand assets/ads for customers - enrichment flows using agent harnesses like eve.dev - crawling customer websites into chatbot knowledge bases - turning GitHub repos into branded docs sites - academic journal and PDF crawling. There are a ton more examples at <a href=\"https://www.context.dev/customers\">https://www.context.dev/customers</a>.<p>We know that many crawlers are not behaving like good citizens on the web, and the entire space has a bad reputation as a result. At the same time, customers are not usually trying to buy “scraping”. They are trying to make a support bot work, personalize onboarding, enrich CRM records, generate docs, monitor leads, or let an agent research a company. There are lots of legit use cases. We want to satisfy those while being respectful of everyone involved.<p>We maintain a caching layer and avoid hammering websites. Customers can configure the cache, but if we find we’re sending too many requests to a url in a certain amount of time, we step in and tone it down. Websites can opt out of our service, and we respect these requests and add them to our block list.<p>We focus on customers who want to build cool things for their users. Enriching onboarding is a popular use case. So is integrating context about their own websites (things like support bots), and building agents that can automatically reason about complex tasks involving the internet.<p>We only allow customers to use brand data to identify a specific customer on their software, you cannot use it in your own materials or to imply endorsement.<p>I'd love to hear your feedback about the product in the comments, thanks!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847562\">https://news.ycombinator.com/item?id=48847562</a></p>\n<p>Points: 96</p>\n<p># Comments: 67</p>",
         "pubDate": "Thu, 09 Jul 2026 15:28:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48847562"
       },
       {
         "title": "Hy3",
         "link": "https://hy.tencent.com/research/hy3",
-        "description": "<p>Article URL: <a href=\"https://hy.tencent.com/research/hy3\">https://hy.tencent.com/research/hy3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847552\">https://news.ycombinator.com/item?id=48847552</a></p>\n<p>Points: 410</p>\n<p># Comments: 89</p>",
+        "description": "<p>Article URL: <a href=\"https://hy.tencent.com/research/hy3\">https://hy.tencent.com/research/hy3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847552\">https://news.ycombinator.com/item?id=48847552</a></p>\n<p>Points: 474</p>\n<p># Comments: 95</p>",
         "pubDate": "Thu, 09 Jul 2026 15:27:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48847552"
       },
       {
         "title": "A possible future for Damn Interesting",
         "link": "https://www.damninteresting.com/a-possible-future/",
-        "description": "<p>Article URL: <a href=\"https://www.damninteresting.com/a-possible-future/\">https://www.damninteresting.com/a-possible-future/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847511\">https://news.ycombinator.com/item?id=48847511</a></p>\n<p>Points: 253</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://www.damninteresting.com/a-possible-future/\">https://www.damninteresting.com/a-possible-future/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847511\">https://news.ycombinator.com/item?id=48847511</a></p>\n<p>Points: 281</p>\n<p># Comments: 37</p>",
         "pubDate": "Thu, 09 Jul 2026 15:25:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=48847511"
       },
       {
         "title": "Opinionated and easy Pi.dev configuration",
         "link": "https://lazypi.org/",
-        "description": "<p>Article URL: <a href=\"https://lazypi.org/\">https://lazypi.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847407\">https://news.ycombinator.com/item?id=48847407</a></p>\n<p>Points: 124</p>\n<p># Comments: 63</p>",
+        "description": "<p>Article URL: <a href=\"https://lazypi.org/\">https://lazypi.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847407\">https://news.ycombinator.com/item?id=48847407</a></p>\n<p>Points: 131</p>\n<p># Comments: 69</p>",
         "pubDate": "Thu, 09 Jul 2026 15:19:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=48847407"
       },
       {
+        "title": "TLS certificates for internal services done right",
+        "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
+        "description": "<p>Article URL: <a href=\"https://tuxnet.dev/posts/tls-for-internal-services/\">https://tuxnet.dev/posts/tls-for-internal-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846995\">https://news.ycombinator.com/item?id=48846995</a></p>\n<p>Points: 152</p>\n<p># Comments: 109</p>",
+        "pubDate": "Thu, 09 Jul 2026 14:57:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48846995"
+      },
+      {
         "title": "No leap second will be introduced at the end of December 2026",
         "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-        "description": "<p>Article URL: <a href=\"https://datacenter.iers.org/data/latestVersion/bulletinC.txt\">https://datacenter.iers.org/data/latestVersion/bulletinC.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846281\">https://news.ycombinator.com/item?id=48846281</a></p>\n<p>Points: 255</p>\n<p># Comments: 191</p>",
+        "description": "<p>Article URL: <a href=\"https://datacenter.iers.org/data/latestVersion/bulletinC.txt\">https://datacenter.iers.org/data/latestVersion/bulletinC.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846281\">https://news.ycombinator.com/item?id=48846281</a></p>\n<p>Points: 278</p>\n<p># Comments: 218</p>",
         "pubDate": "Thu, 09 Jul 2026 14:16:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=48846281"
       },
       {
         "title": "Muse Spark 1.1",
         "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-        "description": "<p><a href=\"https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report\" rel=\"nofollow\">https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio...</a> [pdf]<p><a href=\"https://developer.meta.com/ai/resources/blog/build-with-muse-spark/\" rel=\"nofollow\">https://developer.meta.com/ai/resources/blog/build-with-muse...</a><p><a href=\"https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzYxMzQ0OCwiZXhwIjoxNzg0MjE4MjQ4LCJhcnRpY2xlSWQiOiJUSFZDVENSS1YyVTYwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.O5sxV2QajBiyISnu5AVyVUdWWGQtozl0yeCNAbc5JJQ&leadSource=uverify%20wall\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-07-09/meta-star...</a>, <a href=\"https://archive.is/3ccKa\" rel=\"nofollow\">https://archive.is/3ccKa</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846184\">https://news.ycombinator.com/item?id=48846184</a></p>\n<p>Points: 337</p>\n<p># Comments: 176</p>",
+        "description": "<p><a href=\"https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report\" rel=\"nofollow\">https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio...</a> [pdf]<p><a href=\"https://developer.meta.com/ai/resources/blog/build-with-muse-spark/\" rel=\"nofollow\">https://developer.meta.com/ai/resources/blog/build-with-muse...</a><p><a href=\"https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzYxMzQ0OCwiZXhwIjoxNzg0MjE4MjQ4LCJhcnRpY2xlSWQiOiJUSFZDVENSS1YyVTYwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.O5sxV2QajBiyISnu5AVyVUdWWGQtozl0yeCNAbc5JJQ&leadSource=uverify%20wall\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-07-09/meta-star...</a>, <a href=\"https://archive.is/3ccKa\" rel=\"nofollow\">https://archive.is/3ccKa</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846184\">https://news.ycombinator.com/item?id=48846184</a></p>\n<p>Points: 373</p>\n<p># Comments: 188</p>",
         "pubDate": "Thu, 09 Jul 2026 14:10:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=48846184"
       },
       {
         "title": "The glass backbone: Why the Army's logistics will break in the next war",
         "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-        "description": "<p>Article URL: <a href=\"https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/\">https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845442\">https://news.ycombinator.com/item?id=48845442</a></p>\n<p>Points: 320</p>\n<p># Comments: 406</p>",
+        "description": "<p>Article URL: <a href=\"https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/\">https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845442\">https://news.ycombinator.com/item?id=48845442</a></p>\n<p>Points: 373</p>\n<p># Comments: 457</p>",
         "pubDate": "Thu, 09 Jul 2026 13:24:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=48845442"
       },
       {
         "title": "A road to Lisp: Why Lisp",
         "link": "https://scotto.me/blog/2026-07-09-why-lisp/",
-        "description": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-09-why-lisp/\">https://scotto.me/blog/2026-07-09-why-lisp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845209\">https://news.ycombinator.com/item?id=48845209</a></p>\n<p>Points: 129</p>\n<p># Comments: 126</p>",
+        "description": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-09-why-lisp/\">https://scotto.me/blog/2026-07-09-why-lisp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845209\">https://news.ycombinator.com/item?id=48845209</a></p>\n<p>Points: 228</p>\n<p># Comments: 176</p>",
         "pubDate": "Thu, 09 Jul 2026 13:06:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=48845209"
       },
       {
         "title": "Show HN: 18 Words",
         "link": "https://18words.com/",
-        "description": "<p>Article URL: <a href=\"https://18words.com/\">https://18words.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845049\">https://news.ycombinator.com/item?id=48845049</a></p>\n<p>Points: 868</p>\n<p># Comments: 292</p>",
+        "description": "<p>Article URL: <a href=\"https://18words.com/\">https://18words.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845049\">https://news.ycombinator.com/item?id=48845049</a></p>\n<p>Points: 991</p>\n<p># Comments: 317</p>",
         "pubDate": "Thu, 09 Jul 2026 12:48:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48845049"
       },
@@ -156,11 +149,18 @@
         "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48844517\">https://news.ycombinator.com/item?id=48844517</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
         "pubDate": "Thu, 09 Jul 2026 12:01:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=48844517"
+      },
+      {
+        "title": "EU Parliament greenlights Chat Control 1.0",
+        "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "description": "<p>Article URL: <a href=\"https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/\">https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48843923\">https://news.ycombinator.com/item?id=48843923</a></p>\n<p>Points: 1377</p>\n<p># Comments: 654</p>",
+        "pubDate": "Thu, 09 Jul 2026 11:03:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48843923"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-10T04:04:21.163Z",
+  "lastUpdated": "2026-07-10T09:50:00.088Z",
   "stats": {
     "feeds": 2,
     "articles": 20
