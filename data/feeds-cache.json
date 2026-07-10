@@ -5,87 +5,122 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-10T14:46:00.327Z"
+      "lastFetched": "2026-07-10T19:45:25.573Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-10T14:46:10.746Z"
+      "lastFetched": "2026-07-10T19:45:25.759Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "ActivityPub over ATProto",
-        "link": "https://berjon.com/ap-at/",
-        "description": "<p>Article URL: <a href=\"https://berjon.com/ap-at/\">https://berjon.com/ap-at/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859784\">https://news.ycombinator.com/item?id=48859784</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:40:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859784"
+        "title": "Materials innovation has a scale-up problem, not discovery",
+        "link": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
+        "description": "<p>Article URL: <a href=\"https://www.atomscale.ai/updates/our-thesis-atom-to-scale\">https://www.atomscale.ai/updates/our-thesis-atom-to-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863849\">https://news.ycombinator.com/item?id=48863849</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 10 Jul 2026 19:03:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48863849"
       },
       {
-        "title": "Proton AG Services is currently experiencing some issues",
-        "link": "https://status.proton.me/incidents/01lxtcq155lc",
-        "description": "<p>Article URL: <a href=\"https://status.proton.me/incidents/01lxtcq155lc\">https://status.proton.me/incidents/01lxtcq155lc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859752\">https://news.ycombinator.com/item?id=48859752</a></p>\n<p>Points: 16</p>\n<p># Comments: 14</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:36:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859752"
+        "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+        "link": "https://casp.ac/reports/ai-enabled-terrorism",
+        "description": "<p>Article URL: <a href=\"https://casp.ac/reports/ai-enabled-terrorism\">https://casp.ac/reports/ai-enabled-terrorism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863707\">https://news.ycombinator.com/item?id=48863707</a></p>\n<p>Points: 18</p>\n<p># Comments: 12</p>",
+        "pubDate": "Fri, 10 Jul 2026 18:49:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48863707"
+      },
+      {
+        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "description": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863490\">https://news.ycombinator.com/item?id=48863490</a></p>\n<p>Points: 99</p>\n<p># Comments: 70</p>",
+        "pubDate": "Fri, 10 Jul 2026 18:29:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48863490"
+      },
+      {
+        "title": "New York City to become first in US to ban deceptive subscription practices",
+        "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban\">https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863464\">https://news.ycombinator.com/item?id=48863464</a></p>\n<p>Points: 75</p>\n<p># Comments: 19</p>",
+        "pubDate": "Fri, 10 Jul 2026 18:26:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48863464"
+      },
+      {
+        "title": "War Atlas: An interactive cartography of every named war in human history",
+        "link": "https://waratlas.org",
+        "description": "<p>Article URL: <a href=\"https://waratlas.org\">https://waratlas.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863080\">https://news.ycombinator.com/item?id=48863080</a></p>\n<p>Points: 37</p>\n<p># Comments: 12</p>",
+        "pubDate": "Fri, 10 Jul 2026 17:52:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48863080"
+      },
+      {
+        "title": "The tech of 'Terminator 2' – an oral history (2017)",
+        "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+        "description": "<p>Article URL: <a href=\"https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862365\">https://news.ycombinator.com/item?id=48862365</a></p>\n<p>Points: 81</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 10 Jul 2026 16:48:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48862365"
+      },
+      {
+        "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+        "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\">https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862252\">https://news.ycombinator.com/item?id=48862252</a></p>\n<p>Points: 91</p>\n<p># Comments: 59</p>",
+        "pubDate": "Fri, 10 Jul 2026 16:37:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48862252"
+      },
+      {
+        "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
+        "link": "https://github.com/Cpp2Rust/cpp2rust",
+        "description": "<p>Article URL: <a href=\"https://github.com/Cpp2Rust/cpp2rust\">https://github.com/Cpp2Rust/cpp2rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862086\">https://news.ycombinator.com/item?id=48862086</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 10 Jul 2026 16:24:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48862086"
+      },
+      {
+        "title": "Hands-On with the AMD Ryzen AI Halo",
+        "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+        "description": "<p>Article URL: <a href=\"https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx\">https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861833\">https://news.ycombinator.com/item?id=48861833</a></p>\n<p>Points: 27</p>\n<p># Comments: 26</p>",
+        "pubDate": "Fri, 10 Jul 2026 16:06:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48861833"
+      },
+      {
+        "title": "QuadRF can spot drones and see WiFi through my wall",
+        "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861717\">https://news.ycombinator.com/item?id=48861717</a></p>\n<p>Points: 258</p>\n<p># Comments: 91</p>",
+        "pubDate": "Fri, 10 Jul 2026 15:59:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48861717"
+      },
+      {
+        "title": "A Love Letter to Flashcards",
+        "link": "https://lesleylai.info/en/flashcards/",
+        "description": "<p>Article URL: <a href=\"https://lesleylai.info/en/flashcards/\">https://lesleylai.info/en/flashcards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861319\">https://news.ycombinator.com/item?id=48861319</a></p>\n<p>Points: 96</p>\n<p># Comments: 53</p>",
+        "pubDate": "Fri, 10 Jul 2026 15:30:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48861319"
+      },
+      {
+        "title": "The Annotated JEPA",
+        "link": "https://elonlit.com/scrivings/the-annotated-jepa/",
+        "description": "<p>Article URL: <a href=\"https://elonlit.com/scrivings/the-annotated-jepa/\">https://elonlit.com/scrivings/the-annotated-jepa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859835\">https://news.ycombinator.com/item?id=48859835</a></p>\n<p>Points: 39</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 10 Jul 2026 13:45:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48859835"
       },
       {
         "title": "Write code like a human will maintain it",
         "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-        "description": "<p>Article URL: <a href=\"https://unstack.io/write-code-like-a-human-will-maintain-it\">https://unstack.io/write-code-like-a-human-will-maintain-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859701\">https://news.ycombinator.com/item?id=48859701</a></p>\n<p>Points: 75</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://unstack.io/write-code-like-a-human-will-maintain-it\">https://unstack.io/write-code-like-a-human-will-maintain-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859701\">https://news.ycombinator.com/item?id=48859701</a></p>\n<p>Points: 277</p>\n<p># Comments: 233</p>",
         "pubDate": "Fri, 10 Jul 2026 13:33:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48859701"
       },
       {
         "title": "Successful Companies Go Blind",
         "link": "https://ianreppel.org/how-successful-companies-go-blind/",
-        "description": "<p>Article URL: <a href=\"https://ianreppel.org/how-successful-companies-go-blind/\">https://ianreppel.org/how-successful-companies-go-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859678\">https://news.ycombinator.com/item?id=48859678</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://ianreppel.org/how-successful-companies-go-blind/\">https://ianreppel.org/how-successful-companies-go-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859678\">https://news.ycombinator.com/item?id=48859678</a></p>\n<p>Points: 141</p>\n<p># Comments: 54</p>",
         "pubDate": "Fri, 10 Jul 2026 13:31:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48859678"
       },
       {
-        "title": "Scarf has moved away from Haskell",
-        "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-        "description": "<p>Article URL: <a href=\"https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\">https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859673\">https://news.ycombinator.com/item?id=48859673</a></p>\n<p>Points: 27</p>\n<p># Comments: 22</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:30:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859673"
-      },
-      {
-        "title": "Punk, or why I don't stream anymore",
-        "link": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-        "description": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html\">https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859671\">https://news.ycombinator.com/item?id=48859671</a></p>\n<p>Points: 83</p>\n<p># Comments: 52</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:30:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859671"
-      },
-      {
-        "title": "Ryanair passenger almost sucked out of shattered window during flight",
-        "link": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight\">https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859515\">https://news.ycombinator.com/item?id=48859515</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:17:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859515"
-      },
-      {
         "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
         "link": "https://github.com/robertsdotpm/runloom",
-        "description": "<p>Article URL: <a href=\"https://github.com/robertsdotpm/runloom\">https://github.com/robertsdotpm/runloom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859387\">https://news.ycombinator.com/item?id=48859387</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/robertsdotpm/runloom\">https://github.com/robertsdotpm/runloom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859387\">https://news.ycombinator.com/item?id=48859387</a></p>\n<p>Points: 39</p>\n<p># Comments: 15</p>",
         "pubDate": "Fri, 10 Jul 2026 13:07:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=48859387"
-      },
-      {
-        "title": "Man nearly sucked out of window mid-air on Ryanair plane",
-        "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cgk65knkyzdo\">https://www.bbc.co.uk/news/articles/cgk65knkyzdo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859186\">https://news.ycombinator.com/item?id=48859186</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-        "pubDate": "Fri, 10 Jul 2026 12:50:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859186"
-      },
-      {
-        "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
-        "link": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
-        "description": "<p>Article URL: <a href=\"https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/\">https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858997\">https://news.ycombinator.com/item?id=48858997</a></p>\n<p>Points: 35</p>\n<p># Comments: 31</p>",
-        "pubDate": "Fri, 10 Jul 2026 12:31:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48858997"
       },
       {
         "title": "Laylo (YC S20) Is Hiring a Head of Finance",
@@ -97,70 +132,35 @@
       {
         "title": "Late Bronze Age Collapse",
         "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 102</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 255</p>\n<p># Comments: 166</p>",
         "pubDate": "Fri, 10 Jul 2026 11:59:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48858737"
       },
       {
         "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
         "link": "https://ec.europa.eu/commission/presscorner/home/en",
-        "description": "<p>Article URL: <a href=\"https://ec.europa.eu/commission/presscorner/home/en\">https://ec.europa.eu/commission/presscorner/home/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858292\">https://news.ycombinator.com/item?id=48858292</a></p>\n<p>Points: 128</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://ec.europa.eu/commission/presscorner/home/en\">https://ec.europa.eu/commission/presscorner/home/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858292\">https://news.ycombinator.com/item?id=48858292</a></p>\n<p>Points: 222</p>\n<p># Comments: 150</p>",
         "pubDate": "Fri, 10 Jul 2026 11:00:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=48858292"
       },
       {
-        "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
-        "link": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
-        "description": "<p>Article URL: <a href=\"https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/\">https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858171\">https://news.ycombinator.com/item?id=48858171</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 10 Jul 2026 10:40:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48858171"
-      },
-      {
         "title": "Good Tools Are Invisible",
         "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-        "description": "<p>Article URL: <a href=\"https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\">https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858121\">https://news.ycombinator.com/item?id=48858121</a></p>\n<p>Points: 104</p>\n<p># Comments: 81</p>",
+        "description": "<p>Article URL: <a href=\"https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\">https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858121\">https://news.ycombinator.com/item?id=48858121</a></p>\n<p>Points: 249</p>\n<p># Comments: 128</p>",
         "pubDate": "Fri, 10 Jul 2026 10:32:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48858121"
       },
       {
-        "title": "Java 27: What's New?",
-        "link": "https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/",
-        "description": "<p>Article URL: <a href=\"https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/\">https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857962\">https://news.ycombinator.com/item?id=48857962</a></p>\n<p>Points: 39</p>\n<p># Comments: 46</p>",
-        "pubDate": "Fri, 10 Jul 2026 10:08:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48857962"
-      },
-      {
         "title": "In Emacs, Everything Looks Like a Service",
         "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-        "description": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html\">http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857230\">https://news.ycombinator.com/item?id=48857230</a></p>\n<p>Points: 96</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html\">http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857230\">https://news.ycombinator.com/item?id=48857230</a></p>\n<p>Points: 146</p>\n<p># Comments: 87</p>",
         "pubDate": "Fri, 10 Jul 2026 08:21:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=48857230"
-      },
-      {
-        "title": "AI-generated videos to maximally drive a target brain region",
-        "link": "https://nevo-project.epfl.ch/",
-        "description": "<p>Article URL: <a href=\"https://nevo-project.epfl.ch/\">https://nevo-project.epfl.ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48856904\">https://news.ycombinator.com/item?id=48856904</a></p>\n<p>Points: 154</p>\n<p># Comments: 162</p>",
-        "pubDate": "Fri, 10 Jul 2026 07:39:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48856904"
-      },
-      {
-        "title": "Building a real-time AI tutor for 5-year-olds",
-        "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-        "description": "<p>Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow.<p>Effective teaching isn't just about answering a child's  question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right.<p>Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48852199\">https://news.ycombinator.com/item?id=48852199</a></p>\n<p>Points: 118</p>\n<p># Comments: 238</p>",
-        "pubDate": "Thu, 09 Jul 2026 20:51:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48852199"
-      },
-      {
-        "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-        "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-        "description": "<p>Article URL: <a href=\"https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\">https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849292\">https://news.ycombinator.com/item?id=48849292</a></p>\n<p>Points: 306</p>\n<p># Comments: 156</p>",
-        "pubDate": "Thu, 09 Jul 2026 17:17:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48849292"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-10T14:46:10.746Z",
+  "lastUpdated": "2026-07-10T19:45:25.759Z",
   "stats": {
     "feeds": 2,
     "articles": 20
