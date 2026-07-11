@@ -5,36 +5,50 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-11T08:07:44.627Z"
+      "lastFetched": "2026-07-11T13:44:33.560Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-11T08:08:04.389Z"
+      "lastFetched": "2026-07-11T13:44:53.358Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "What's the best way to do authentication in modern applications",
-        "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-        "description": "<p>Article URL: <a href=\"https://neciudan.dev/most-secure-way-to-store-auth-token\">https://neciudan.dev/most-secure-way-to-store-auth-token</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48869243\">https://news.ycombinator.com/item?id=48869243</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sat, 11 Jul 2026 06:09:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48869243"
+        "title": "Networking and the Internet, from First Principles",
+        "link": "https://fazamhd.com/mental-models/networking/",
+        "description": "<p>Article URL: <a href=\"https://fazamhd.com/mental-models/networking/\">https://fazamhd.com/mental-models/networking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48871470\">https://news.ycombinator.com/item?id=48871470</a></p>\n<p>Points: 53</p>\n<p># Comments: 24</p>",
+        "pubDate": "Sat, 11 Jul 2026 12:30:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48871470"
+      },
+      {
+        "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html\">https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48871367\">https://news.ycombinator.com/item?id=48871367</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 11 Jul 2026 12:12:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48871367"
+      },
+      {
+        "title": "Your code is fast – if you're lucky",
+        "link": "https://tiki.li/blog/lucky_code.html",
+        "description": "<p>Article URL: <a href=\"https://tiki.li/blog/lucky_code.html\">https://tiki.li/blog/lucky_code.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48870799\">https://news.ycombinator.com/item?id=48870799</a></p>\n<p>Points: 40</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 11 Jul 2026 10:50:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48870799"
       },
       {
         "title": "The vintage beauty of Soviet control rooms (2018)",
         "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-        "description": "<p>Article URL: <a href=\"https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\">https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48868996\">https://news.ycombinator.com/item?id=48868996</a></p>\n<p>Points: 50</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\">https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48868996\">https://news.ycombinator.com/item?id=48868996</a></p>\n<p>Points: 146</p>\n<p># Comments: 48</p>",
         "pubDate": "Sat, 11 Jul 2026 05:19:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48868996"
       },
       {
         "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
         "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-        "description": "<p><a href=\"https://www.science.org/doi/10.1126/science.aei1285\" rel=\"nofollow\">https://www.science.org/doi/10.1126/science.aei1285</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48866134\">https://news.ycombinator.com/item?id=48866134</a></p>\n<p>Points: 208</p>\n<p># Comments: 72</p>",
+        "description": "<p><a href=\"https://www.science.org/doi/10.1126/science.aei1285\" rel=\"nofollow\">https://www.science.org/doi/10.1126/science.aei1285</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48866134\">https://news.ycombinator.com/item?id=48866134</a></p>\n<p>Points: 299</p>\n<p># Comments: 118</p>",
         "pubDate": "Fri, 10 Jul 2026 22:30:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48866134"
       },
@@ -48,91 +62,77 @@
       {
         "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
         "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "description": "<p><a href=\"https://www.macrumors.com/2026/07/10/apple-sues-openai/\" rel=\"nofollow\">https://www.macrumors.com/2026/07/10/apple-sues-openai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865019\">https://news.ycombinator.com/item?id=48865019</a></p>\n<p>Points: 971</p>\n<p># Comments: 479</p>",
+        "description": "<p><a href=\"https://www.macrumors.com/2026/07/10/apple-sues-openai/\" rel=\"nofollow\">https://www.macrumors.com/2026/07/10/apple-sues-openai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865019\">https://news.ycombinator.com/item?id=48865019</a></p>\n<p>Points: 1230</p>\n<p># Comments: 653</p>",
         "pubDate": "Fri, 10 Jul 2026 20:47:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=48865019"
       },
       {
-        "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-        "link": "https://nebusec.ai/research/ionstack-part-2/",
-        "description": "<p>Article URL: <a href=\"https://nebusec.ai/research/ionstack-part-2/\">https://nebusec.ai/research/ionstack-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48864969\">https://news.ycombinator.com/item?id=48864969</a></p>\n<p>Points: 73</p>\n<p># Comments: 16</p>",
-        "pubDate": "Fri, 10 Jul 2026 20:43:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48864969"
-      },
-      {
         "title": "An update on residential proxies and the scraper situation",
         "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\">https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48864252\">https://news.ycombinator.com/item?id=48864252</a></p>\n<p>Points: 177</p>\n<p># Comments: 169</p>",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\">https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48864252\">https://news.ycombinator.com/item?id=48864252</a></p>\n<p>Points: 238</p>\n<p># Comments: 242</p>",
         "pubDate": "Fri, 10 Jul 2026 19:38:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=48864252"
       },
       {
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "description": "<p><a href=\"https://x.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://x.com/__eknight__/status/2075643450196971805</a>, <a href=\"https://xcancel.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://xcancel.com/__eknight__/status/2075643450196971805</a><p>Prompt: <a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\" rel=\"nofollow\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863490\">https://news.ycombinator.com/item?id=48863490</a></p>\n<p>Points: 437</p>\n<p># Comments: 354</p>",
+        "description": "<p><a href=\"https://x.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://x.com/__eknight__/status/2075643450196971805</a>, <a href=\"https://xcancel.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://xcancel.com/__eknight__/status/2075643450196971805</a><p>Prompt: <a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\" rel=\"nofollow\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863490\">https://news.ycombinator.com/item?id=48863490</a></p>\n<p>Points: 484</p>\n<p># Comments: 392</p>",
         "pubDate": "Fri, 10 Jul 2026 18:29:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863490"
       },
       {
         "title": "New York City to ban deceptive subscription practices",
         "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-        "description": "<p><a href=\"https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot\" rel=\"nofollow\">https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863464\">https://news.ycombinator.com/item?id=48863464</a></p>\n<p>Points: 502</p>\n<p># Comments: 250</p>",
+        "description": "<p><a href=\"https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot\" rel=\"nofollow\">https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863464\">https://news.ycombinator.com/item?id=48863464</a></p>\n<p>Points: 562</p>\n<p># Comments: 276</p>",
         "pubDate": "Fri, 10 Jul 2026 18:26:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863464"
       },
       {
-        "title": "War Atlas: An interactive cartography of every named war in human history",
-        "link": "https://waratlas.org",
-        "description": "<p>Article URL: <a href=\"https://waratlas.org\">https://waratlas.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863080\">https://news.ycombinator.com/item?id=48863080</a></p>\n<p>Points: 145</p>\n<p># Comments: 61</p>",
-        "pubDate": "Fri, 10 Jul 2026 17:52:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48863080"
-      },
-      {
         "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
         "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-        "description": "<p>Article URL: <a href=\"https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\">https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863064\">https://news.ycombinator.com/item?id=48863064</a></p>\n<p>Points: 164</p>\n<p># Comments: 507</p>",
+        "description": "<p>Article URL: <a href=\"https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\">https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863064\">https://news.ycombinator.com/item?id=48863064</a></p>\n<p>Points: 221</p>\n<p># Comments: 727</p>",
         "pubDate": "Fri, 10 Jul 2026 17:51:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863064"
       },
       {
         "title": "The tech of 'Terminator 2' – an oral history (2017)",
         "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-        "description": "<p>Article URL: <a href=\"https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862365\">https://news.ycombinator.com/item?id=48862365</a></p>\n<p>Points: 210</p>\n<p># Comments: 74</p>",
+        "description": "<p>Article URL: <a href=\"https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862365\">https://news.ycombinator.com/item?id=48862365</a></p>\n<p>Points: 229</p>\n<p># Comments: 79</p>",
         "pubDate": "Fri, 10 Jul 2026 16:48:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48862365"
       },
       {
         "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
         "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\">https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862252\">https://news.ycombinator.com/item?id=48862252</a></p>\n<p>Points: 182</p>\n<p># Comments: 143</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\">https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862252\">https://news.ycombinator.com/item?id=48862252</a></p>\n<p>Points: 207</p>\n<p># Comments: 155</p>",
         "pubDate": "Fri, 10 Jul 2026 16:37:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48862252"
       },
       {
         "title": "QuadRF can spot drones and see WiFi through my wall",
         "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861717\">https://news.ycombinator.com/item?id=48861717</a></p>\n<p>Points: 544</p>\n<p># Comments: 191</p>",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861717\">https://news.ycombinator.com/item?id=48861717</a></p>\n<p>Points: 633</p>\n<p># Comments: 208</p>",
         "pubDate": "Fri, 10 Jul 2026 15:59:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=48861717"
       },
       {
         "title": "A love letter to flashcards",
         "link": "https://lesleylai.info/en/flashcards/",
-        "description": "<p>Article URL: <a href=\"https://lesleylai.info/en/flashcards/\">https://lesleylai.info/en/flashcards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861319\">https://news.ycombinator.com/item?id=48861319</a></p>\n<p>Points: 150</p>\n<p># Comments: 94</p>",
+        "description": "<p>Article URL: <a href=\"https://lesleylai.info/en/flashcards/\">https://lesleylai.info/en/flashcards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861319\">https://news.ycombinator.com/item?id=48861319</a></p>\n<p>Points: 163</p>\n<p># Comments: 98</p>",
         "pubDate": "Fri, 10 Jul 2026 15:30:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48861319"
       },
       {
         "title": "Computation as a universal and fundamental concept",
         "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-        "description": "<p>Article URL: <a href=\"https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept\">https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861213\">https://news.ycombinator.com/item?id=48861213</a></p>\n<p>Points: 125</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept\">https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861213\">https://news.ycombinator.com/item?id=48861213</a></p>\n<p>Points: 144</p>\n<p># Comments: 112</p>",
         "pubDate": "Fri, 10 Jul 2026 15:23:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48861213"
       },
       {
         "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
         "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-        "description": "<p>Article URL: <a href=\"https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\">https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859673\">https://news.ycombinator.com/item?id=48859673</a></p>\n<p>Points: 123</p>\n<p># Comments: 154</p>",
+        "description": "<p>Article URL: <a href=\"https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\">https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859673\">https://news.ycombinator.com/item?id=48859673</a></p>\n<p>Points: 170</p>\n<p># Comments: 210</p>",
         "pubDate": "Fri, 10 Jul 2026 13:30:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48859673"
       },
@@ -146,21 +146,21 @@
       {
         "title": "Late Bronze Age Collapse",
         "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 362</p>\n<p># Comments: 246</p>",
+        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 387</p>\n<p># Comments: 266</p>",
         "pubDate": "Fri, 10 Jul 2026 11:59:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48858737"
       },
       {
         "title": "Good Tools Are Invisible",
         "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-        "description": "<p>Article URL: <a href=\"https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\">https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858121\">https://news.ycombinator.com/item?id=48858121</a></p>\n<p>Points: 407</p>\n<p># Comments: 192</p>",
+        "description": "<p>Article URL: <a href=\"https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\">https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858121\">https://news.ycombinator.com/item?id=48858121</a></p>\n<p>Points: 486</p>\n<p># Comments: 218</p>",
         "pubDate": "Fri, 10 Jul 2026 10:32:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48858121"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-11T08:08:04.389Z",
+  "lastUpdated": "2026-07-11T13:44:53.358Z",
   "stats": {
     "feeds": 2,
     "articles": 20
