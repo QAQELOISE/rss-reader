@@ -5,122 +5,143 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-10T19:45:25.573Z"
+      "lastFetched": "2026-07-11T03:30:55.444Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-10T19:45:25.759Z"
+      "lastFetched": "2026-07-11T03:31:15.215Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Materials innovation has a scale-up problem, not discovery",
-        "link": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
-        "description": "<p>Article URL: <a href=\"https://www.atomscale.ai/updates/our-thesis-atom-to-scale\">https://www.atomscale.ai/updates/our-thesis-atom-to-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863849\">https://news.ycombinator.com/item?id=48863849</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 10 Jul 2026 19:03:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48863849"
+        "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
+        "link": "https://tilion.dev/blog/cloudflare-blocks-agents",
+        "description": "<p>Article URL: <a href=\"https://tilion.dev/blog/cloudflare-blocks-agents\">https://tilion.dev/blog/cloudflare-blocks-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48867124\">https://news.ycombinator.com/item?id=48867124</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 11 Jul 2026 00:26:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48867124"
       },
       {
-        "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+        "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+        "description": "<p>Article URL: <a href=\"https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\">https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48866134\">https://news.ycombinator.com/item?id=48866134</a></p>\n<p>Points: 130</p>\n<p># Comments: 45</p>",
+        "pubDate": "Fri, 10 Jul 2026 22:30:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48866134"
+      },
+      {
+        "title": "Moss (YC F25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\">https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865332\">https://news.ycombinator.com/item?id=48865332</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 10 Jul 2026 21:11:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48865332"
+      },
+      {
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "description": "<p><a href=\"https://www.macrumors.com/2026/07/10/apple-sues-openai/\" rel=\"nofollow\">https://www.macrumors.com/2026/07/10/apple-sues-openai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865019\">https://news.ycombinator.com/item?id=48865019</a></p>\n<p>Points: 656</p>\n<p># Comments: 316</p>",
+        "pubDate": "Fri, 10 Jul 2026 20:47:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48865019"
+      },
+      {
+        "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+        "link": "https://nebusec.ai/research/ionstack-part-2/",
+        "description": "<p>Article URL: <a href=\"https://nebusec.ai/research/ionstack-part-2/\">https://nebusec.ai/research/ionstack-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48864969\">https://news.ycombinator.com/item?id=48864969</a></p>\n<p>Points: 45</p>\n<p># Comments: 10</p>",
+        "pubDate": "Fri, 10 Jul 2026 20:43:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48864969"
+      },
+      {
+        "title": "An update on residential proxies and the scraper situation",
+        "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\">https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48864252\">https://news.ycombinator.com/item?id=48864252</a></p>\n<p>Points: 114</p>\n<p># Comments: 102</p>",
+        "pubDate": "Fri, 10 Jul 2026 19:38:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48864252"
+      },
+      {
+        "title": "How the terrorist group Boko Haram uses frontier AI",
         "link": "https://casp.ac/reports/ai-enabled-terrorism",
-        "description": "<p>Article URL: <a href=\"https://casp.ac/reports/ai-enabled-terrorism\">https://casp.ac/reports/ai-enabled-terrorism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863707\">https://news.ycombinator.com/item?id=48863707</a></p>\n<p>Points: 18</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://casp.ac/reports/ai-enabled-terrorism\">https://casp.ac/reports/ai-enabled-terrorism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863707\">https://news.ycombinator.com/item?id=48863707</a></p>\n<p>Points: 190</p>\n<p># Comments: 160</p>",
         "pubDate": "Fri, 10 Jul 2026 18:49:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863707"
       },
       {
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "description": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863490\">https://news.ycombinator.com/item?id=48863490</a></p>\n<p>Points: 99</p>\n<p># Comments: 70</p>",
+        "description": "<p><a href=\"https://x.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://x.com/__eknight__/status/2075643450196971805</a>, <a href=\"https://xcancel.com/__eknight__/status/2075643450196971805\" rel=\"nofollow\">https://xcancel.com/__eknight__/status/2075643450196971805</a><p>Prompt: <a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\" rel=\"nofollow\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863490\">https://news.ycombinator.com/item?id=48863490</a></p>\n<p>Points: 375</p>\n<p># Comments: 300</p>",
         "pubDate": "Fri, 10 Jul 2026 18:29:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863490"
       },
       {
-        "title": "New York City to become first in US to ban deceptive subscription practices",
+        "title": "New York City to to ban deceptive subscription practices",
         "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban\">https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863464\">https://news.ycombinator.com/item?id=48863464</a></p>\n<p>Points: 75</p>\n<p># Comments: 19</p>",
+        "description": "<p><a href=\"https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot\" rel=\"nofollow\">https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863464\">https://news.ycombinator.com/item?id=48863464</a></p>\n<p>Points: 442</p>\n<p># Comments: 225</p>",
         "pubDate": "Fri, 10 Jul 2026 18:26:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863464"
       },
       {
         "title": "War Atlas: An interactive cartography of every named war in human history",
         "link": "https://waratlas.org",
-        "description": "<p>Article URL: <a href=\"https://waratlas.org\">https://waratlas.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863080\">https://news.ycombinator.com/item?id=48863080</a></p>\n<p>Points: 37</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://waratlas.org\">https://waratlas.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863080\">https://news.ycombinator.com/item?id=48863080</a></p>\n<p>Points: 126</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 10 Jul 2026 17:52:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48863080"
       },
       {
+        "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+        "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+        "description": "<p>Article URL: <a href=\"https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\">https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48863064\">https://news.ycombinator.com/item?id=48863064</a></p>\n<p>Points: 102</p>\n<p># Comments: 311</p>",
+        "pubDate": "Fri, 10 Jul 2026 17:51:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48863064"
+      },
+      {
         "title": "The tech of 'Terminator 2' – an oral history (2017)",
         "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-        "description": "<p>Article URL: <a href=\"https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862365\">https://news.ycombinator.com/item?id=48862365</a></p>\n<p>Points: 81</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\">https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862365\">https://news.ycombinator.com/item?id=48862365</a></p>\n<p>Points: 184</p>\n<p># Comments: 68</p>",
         "pubDate": "Fri, 10 Jul 2026 16:48:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48862365"
       },
       {
-        "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+        "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
         "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\">https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862252\">https://news.ycombinator.com/item?id=48862252</a></p>\n<p>Points: 91</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\">https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862252\">https://news.ycombinator.com/item?id=48862252</a></p>\n<p>Points: 162</p>\n<p># Comments: 127</p>",
         "pubDate": "Fri, 10 Jul 2026 16:37:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48862252"
       },
       {
-        "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
-        "link": "https://github.com/Cpp2Rust/cpp2rust",
-        "description": "<p>Article URL: <a href=\"https://github.com/Cpp2Rust/cpp2rust\">https://github.com/Cpp2Rust/cpp2rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48862086\">https://news.ycombinator.com/item?id=48862086</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 10 Jul 2026 16:24:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48862086"
-      },
-      {
-        "title": "Hands-On with the AMD Ryzen AI Halo",
-        "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-        "description": "<p>Article URL: <a href=\"https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx\">https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861833\">https://news.ycombinator.com/item?id=48861833</a></p>\n<p>Points: 27</p>\n<p># Comments: 26</p>",
-        "pubDate": "Fri, 10 Jul 2026 16:06:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48861833"
-      },
-      {
         "title": "QuadRF can spot drones and see WiFi through my wall",
         "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861717\">https://news.ycombinator.com/item?id=48861717</a></p>\n<p>Points: 258</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861717\">https://news.ycombinator.com/item?id=48861717</a></p>\n<p>Points: 479</p>\n<p># Comments: 177</p>",
         "pubDate": "Fri, 10 Jul 2026 15:59:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=48861717"
       },
       {
-        "title": "A Love Letter to Flashcards",
+        "title": "A love letter to flashcards",
         "link": "https://lesleylai.info/en/flashcards/",
-        "description": "<p>Article URL: <a href=\"https://lesleylai.info/en/flashcards/\">https://lesleylai.info/en/flashcards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861319\">https://news.ycombinator.com/item?id=48861319</a></p>\n<p>Points: 96</p>\n<p># Comments: 53</p>",
+        "description": "<p>Article URL: <a href=\"https://lesleylai.info/en/flashcards/\">https://lesleylai.info/en/flashcards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861319\">https://news.ycombinator.com/item?id=48861319</a></p>\n<p>Points: 135</p>\n<p># Comments: 84</p>",
         "pubDate": "Fri, 10 Jul 2026 15:30:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48861319"
       },
       {
-        "title": "The Annotated JEPA",
-        "link": "https://elonlit.com/scrivings/the-annotated-jepa/",
-        "description": "<p>Article URL: <a href=\"https://elonlit.com/scrivings/the-annotated-jepa/\">https://elonlit.com/scrivings/the-annotated-jepa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859835\">https://news.ycombinator.com/item?id=48859835</a></p>\n<p>Points: 39</p>\n<p># Comments: 8</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:45:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859835"
-      },
-      {
-        "title": "Write code like a human will maintain it",
-        "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-        "description": "<p>Article URL: <a href=\"https://unstack.io/write-code-like-a-human-will-maintain-it\">https://unstack.io/write-code-like-a-human-will-maintain-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859701\">https://news.ycombinator.com/item?id=48859701</a></p>\n<p>Points: 277</p>\n<p># Comments: 233</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:33:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859701"
+        "title": "Computation as a universal and fundamental concept",
+        "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+        "description": "<p>Article URL: <a href=\"https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept\">https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48861213\">https://news.ycombinator.com/item?id=48861213</a></p>\n<p>Points: 97</p>\n<p># Comments: 74</p>",
+        "pubDate": "Fri, 10 Jul 2026 15:23:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48861213"
       },
       {
         "title": "Successful Companies Go Blind",
         "link": "https://ianreppel.org/how-successful-companies-go-blind/",
-        "description": "<p>Article URL: <a href=\"https://ianreppel.org/how-successful-companies-go-blind/\">https://ianreppel.org/how-successful-companies-go-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859678\">https://news.ycombinator.com/item?id=48859678</a></p>\n<p>Points: 141</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://ianreppel.org/how-successful-companies-go-blind/\">https://ianreppel.org/how-successful-companies-go-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859678\">https://news.ycombinator.com/item?id=48859678</a></p>\n<p>Points: 196</p>\n<p># Comments: 69</p>",
         "pubDate": "Fri, 10 Jul 2026 13:31:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48859678"
       },
       {
-        "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
-        "link": "https://github.com/robertsdotpm/runloom",
-        "description": "<p>Article URL: <a href=\"https://github.com/robertsdotpm/runloom\">https://github.com/robertsdotpm/runloom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859387\">https://news.ycombinator.com/item?id=48859387</a></p>\n<p>Points: 39</p>\n<p># Comments: 15</p>",
-        "pubDate": "Fri, 10 Jul 2026 13:07:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48859387"
+        "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+        "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+        "description": "<p>Article URL: <a href=\"https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\">https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48859673\">https://news.ycombinator.com/item?id=48859673</a></p>\n<p>Points: 90</p>\n<p># Comments: 102</p>",
+        "pubDate": "Fri, 10 Jul 2026 13:30:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48859673"
       },
       {
         "title": "Laylo (YC S20) Is Hiring a Head of Finance",
@@ -132,35 +153,14 @@
       {
         "title": "Late Bronze Age Collapse",
         "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 255</p>\n<p># Comments: 166</p>",
+        "description": "<p>Article URL: <a href=\"https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/\">https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858737\">https://news.ycombinator.com/item?id=48858737</a></p>\n<p>Points: 333</p>\n<p># Comments: 233</p>",
         "pubDate": "Fri, 10 Jul 2026 11:59:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48858737"
-      },
-      {
-        "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-        "link": "https://ec.europa.eu/commission/presscorner/home/en",
-        "description": "<p>Article URL: <a href=\"https://ec.europa.eu/commission/presscorner/home/en\">https://ec.europa.eu/commission/presscorner/home/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858292\">https://news.ycombinator.com/item?id=48858292</a></p>\n<p>Points: 222</p>\n<p># Comments: 150</p>",
-        "pubDate": "Fri, 10 Jul 2026 11:00:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48858292"
-      },
-      {
-        "title": "Good Tools Are Invisible",
-        "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-        "description": "<p>Article URL: <a href=\"https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\">https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858121\">https://news.ycombinator.com/item?id=48858121</a></p>\n<p>Points: 249</p>\n<p># Comments: 128</p>",
-        "pubDate": "Fri, 10 Jul 2026 10:32:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48858121"
-      },
-      {
-        "title": "In Emacs, Everything Looks Like a Service",
-        "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-        "description": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html\">http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857230\">https://news.ycombinator.com/item?id=48857230</a></p>\n<p>Points: 146</p>\n<p># Comments: 87</p>",
-        "pubDate": "Fri, 10 Jul 2026 08:21:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48857230"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-10T19:45:25.759Z",
+  "lastUpdated": "2026-07-11T03:31:15.215Z",
   "stats": {
     "feeds": 2,
     "articles": 20
