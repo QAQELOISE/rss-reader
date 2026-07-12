@@ -5,127 +5,106 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-12T08:28:41.185Z"
+      "lastFetched": "2026-07-12T13:45:56.947Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-12T08:28:51.814Z"
+      "lastFetched": "2026-07-12T13:46:09.190Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Making Crash Bandicoot (2011)",
+        "link": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
+        "description": "<p>Article URL: <a href=\"https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/\">https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880987\">https://news.ycombinator.com/item?id=48880987</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 12 Jul 2026 13:18:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48880987"
+      },
+      {
+        "title": "Understanding the Odin Programming Language",
+        "link": "https://odinbook.com/",
+        "description": "<p>Article URL: <a href=\"https://odinbook.com/\">https://odinbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880499\">https://news.ycombinator.com/item?id=48880499</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 12 Jul 2026 12:08:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48880499"
+      },
+      {
+        "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+        "link": "https://mrbruh.com/motorola/",
+        "description": "<p>Article URL: <a href=\"https://mrbruh.com/motorola/\">https://mrbruh.com/motorola/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880406\">https://news.ycombinator.com/item?id=48880406</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 12 Jul 2026 11:52:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48880406"
+      },
+      {
+        "title": "Yt-Dlp Sequence Diagrams",
+        "link": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+        "description": "<p>Article URL: <a href=\"https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video\">https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880384\">https://news.ycombinator.com/item?id=48880384</a></p>\n<p>Points: 49</p>\n<p># Comments: 9</p>",
+        "pubDate": "Sun, 12 Jul 2026 11:49:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48880384"
+      },
+      {
+        "title": "Old and new apps, via modern coding agents by Terry Tao",
+        "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880170\">https://news.ycombinator.com/item?id=48880170</a></p>\n<p>Points: 117</p>\n<p># Comments: 26</p>",
+        "pubDate": "Sun, 12 Jul 2026 11:09:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48880170"
+      },
+      {
+        "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+        "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france\">https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879950\">https://news.ycombinator.com/item?id=48879950</a></p>\n<p>Points: 50</p>\n<p># Comments: 53</p>",
+        "pubDate": "Sun, 12 Jul 2026 10:23:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48879950"
+      },
+      {
+        "title": "Ghostel.el: Terminal emulator powered by libghostty",
+        "link": "https://dakra.github.io/ghostel/",
+        "description": "<p>Article URL: <a href=\"https://dakra.github.io/ghostel/\">https://dakra.github.io/ghostel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879504\">https://news.ycombinator.com/item?id=48879504</a></p>\n<p>Points: 75</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 12 Jul 2026 08:52:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48879504"
+      },
+      {
         "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
         "link": "https://github.com/cosmtrek/mindwalk",
-        "description": "<p>Article URL: <a href=\"https://github.com/cosmtrek/mindwalk\">https://github.com/cosmtrek/mindwalk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878682\">https://news.ycombinator.com/item?id=48878682</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/cosmtrek/mindwalk\">https://github.com/cosmtrek/mindwalk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878682\">https://news.ycombinator.com/item?id=48878682</a></p>\n<p>Points: 101</p>\n<p># Comments: 46</p>",
         "pubDate": "Sun, 12 Jul 2026 05:51:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=48878682"
       },
       {
-        "title": "Why Write Code in 2026",
-        "link": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-        "description": "<p>Article URL: <a href=\"https://softwaredoug.com/blog/2026/07/09/write-code.html\">https://softwaredoug.com/blog/2026/07/09/write-code.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878195\">https://news.ycombinator.com/item?id=48878195</a></p>\n<p>Points: 46</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sun, 12 Jul 2026 04:15:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48878195"
-      },
-      {
         "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
         "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-        "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878126\">https://news.ycombinator.com/item?id=48878126</a></p>\n<p>Points: 66</p>\n<p># Comments: 108</p>",
+        "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878126\">https://news.ycombinator.com/item?id=48878126</a></p>\n<p>Points: 134</p>\n<p># Comments: 289</p>",
         "pubDate": "Sun, 12 Jul 2026 04:00:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=48878126"
       },
       {
-        "title": "Unexpected Solidlike Fracture in Simple Liquids",
-        "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-        "description": "<p><a href=\"https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr\" rel=\"nofollow\">https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877668\">https://news.ycombinator.com/item?id=48877668</a></p>\n<p>Points: 87</p>\n<p># Comments: 44</p>",
-        "pubDate": "Sun, 12 Jul 2026 02:13:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48877668"
-      },
-      {
-        "title": "The Energetic Costs of Cellular Computation (2012)",
-        "link": "https://arxiv.org/abs/1203.5426",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1203.5426\">https://arxiv.org/abs/1203.5426</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877613\">https://news.ycombinator.com/item?id=48877613</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sun, 12 Jul 2026 01:59:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48877613"
-      },
-      {
-        "title": "A Erlang style pure Scheme Webserver and further",
-        "link": "https://igropyr.com",
-        "description": "<p>Article URL: <a href=\"https://igropyr.com\">https://igropyr.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877344\">https://news.ycombinator.com/item?id=48877344</a></p>\n<p>Points: 60</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 12 Jul 2026 01:03:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48877344"
-      },
-      {
-        "title": "A pure scheme web programming tool",
-        "link": "https://goeteia.dev",
-        "description": "<p>Article URL: <a href=\"https://goeteia.dev\">https://goeteia.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877314\">https://news.ycombinator.com/item?id=48877314</a></p>\n<p>Points: 88</p>\n<p># Comments: 20</p>",
-        "pubDate": "Sun, 12 Jul 2026 00:57:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48877314"
-      },
-      {
-        "title": "A dock that wakes up reliably",
-        "link": "https://fabiensanglard.net/tb4/index.html",
-        "description": "<p>Article URL: <a href=\"https://fabiensanglard.net/tb4/index.html\">https://fabiensanglard.net/tb4/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877269\">https://news.ycombinator.com/item?id=48877269</a></p>\n<p>Points: 69</p>\n<p># Comments: 42</p>",
-        "pubDate": "Sun, 12 Jul 2026 00:48:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48877269"
-      },
-      {
-        "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-        "link": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-        "description": "<p>Article URL: <a href=\"https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491\">https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877178\">https://news.ycombinator.com/item?id=48877178</a></p>\n<p>Points: 76</p>\n<p># Comments: 22</p>",
-        "pubDate": "Sun, 12 Jul 2026 00:32:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48877178"
-      },
-      {
-        "title": "How Doctors die. It’s not like the rest of us (2016)",
-        "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
-        "description": "<p>Article URL: <a href=\"https://archive.cancerworld.net/featured/how-doctors-die/\">https://archive.cancerworld.net/featured/how-doctors-die/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876741\">https://news.ycombinator.com/item?id=48876741</a></p>\n<p>Points: 151</p>\n<p># Comments: 82</p>",
-        "pubDate": "Sat, 11 Jul 2026 23:15:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48876741"
-      },
-      {
-        "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-        "link": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-        "description": "<p>Article URL: <a href=\"https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/\">https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876619\">https://news.ycombinator.com/item?id=48876619</a></p>\n<p>Points: 54</p>\n<p># Comments: 22</p>",
-        "pubDate": "Sat, 11 Jul 2026 22:54:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48876619"
-      },
-      {
         "title": "Mesh LLM: distributed AI computing on iroh",
         "link": "https://www.iroh.computer/blog/mesh-llm",
-        "description": "<p>Article URL: <a href=\"https://www.iroh.computer/blog/mesh-llm\">https://www.iroh.computer/blog/mesh-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876505\">https://news.ycombinator.com/item?id=48876505</a></p>\n<p>Points: 228</p>\n<p># Comments: 51</p>",
+        "description": "<p>Article URL: <a href=\"https://www.iroh.computer/blog/mesh-llm\">https://www.iroh.computer/blog/mesh-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876505\">https://news.ycombinator.com/item?id=48876505</a></p>\n<p>Points: 287</p>\n<p># Comments: 66</p>",
         "pubDate": "Sat, 11 Jul 2026 22:38:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48876505"
       },
       {
         "title": "RISCBoy is an open-source portable games console, designed from scratch",
         "link": "https://github.com/Wren6991/RISCBoy",
-        "description": "<p>Article URL: <a href=\"https://github.com/Wren6991/RISCBoy\">https://github.com/Wren6991/RISCBoy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876245\">https://news.ycombinator.com/item?id=48876245</a></p>\n<p>Points: 131</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Wren6991/RISCBoy\">https://github.com/Wren6991/RISCBoy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876245\">https://news.ycombinator.com/item?id=48876245</a></p>\n<p>Points: 168</p>\n<p># Comments: 23</p>",
         "pubDate": "Sat, 11 Jul 2026 21:58:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48876245"
       },
       {
         "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
         "link": "https://antjs.org",
-        "description": "<p>Hello HN!<p>I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.<p>The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It's still early, and I'd appreciate any feedback on the overall direction or what you'd like to see from an e2e alternative to the existing JavaScript stacks.<p>P.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48875377\">https://news.ycombinator.com/item?id=48875377</a></p>\n<p>Points: 253</p>\n<p># Comments: 108</p>",
+        "description": "<p>Hello HN!<p>I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.<p>The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It's still early, and I'd appreciate any feedback on the overall direction or what you'd like to see from an e2e alternative to the existing JavaScript stacks.<p>P.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48875377\">https://news.ycombinator.com/item?id=48875377</a></p>\n<p>Points: 294</p>\n<p># Comments: 132</p>",
         "pubDate": "Sat, 11 Jul 2026 20:07:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48875377"
       },
       {
-        "title": "Prefer strict tables in SQLite",
-        "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-        "description": "<p>Article URL: <a href=\"https://evanhahn.com/prefer-strict-tables-in-sqlite/\">https://evanhahn.com/prefer-strict-tables-in-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873940\">https://news.ycombinator.com/item?id=48873940</a></p>\n<p>Points: 274</p>\n<p># Comments: 130</p>",
-        "pubDate": "Sat, 11 Jul 2026 17:33:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48873940"
-      },
-      {
         "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
         "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "description": "<p>Article URL: <a href=\"https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom\">https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873836\">https://news.ycombinator.com/item?id=48873836</a></p>\n<p>Points: 246</p>\n<p># Comments: 83</p>",
+        "description": "<p>Article URL: <a href=\"https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom\">https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873836\">https://news.ycombinator.com/item?id=48873836</a></p>\n<p>Points: 303</p>\n<p># Comments: 121</p>",
         "pubDate": "Sat, 11 Jul 2026 17:21:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=48873836"
       },
@@ -139,28 +118,49 @@
       {
         "title": "UPI: Anatomy of a Payment Transaction",
         "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-        "description": "<p>Article URL: <a href=\"https://timeseriesofindia.com/economy/reads/upi-architecture/\">https://timeseriesofindia.com/economy/reads/upi-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873457\">https://news.ycombinator.com/item?id=48873457</a></p>\n<p>Points: 176</p>\n<p># Comments: 63</p>",
+        "description": "<p>Article URL: <a href=\"https://timeseriesofindia.com/economy/reads/upi-architecture/\">https://timeseriesofindia.com/economy/reads/upi-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873457\">https://news.ycombinator.com/item?id=48873457</a></p>\n<p>Points: 214</p>\n<p># Comments: 98</p>",
         "pubDate": "Sat, 11 Jul 2026 16:33:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48873457"
       },
       {
+        "title": "Modern decor may be straining people's brains",
+        "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+        "description": "<p>Article URL: <a href=\"https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/\">https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873424\">https://news.ycombinator.com/item?id=48873424</a></p>\n<p>Points: 225</p>\n<p># Comments: 224</p>",
+        "pubDate": "Sat, 11 Jul 2026 16:28:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48873424"
+      },
+      {
         "title": "We scaled PgBouncer to 4x throughput",
         "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\">https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48872874\">https://news.ycombinator.com/item?id=48872874</a></p>\n<p>Points: 204</p>\n<p># Comments: 44</p>",
+        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\">https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48872874\">https://news.ycombinator.com/item?id=48872874</a></p>\n<p>Points: 225</p>\n<p># Comments: 53</p>",
         "pubDate": "Sat, 11 Jul 2026 15:28:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=48872874"
       },
       {
         "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
         "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\">https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48872858\">https://news.ycombinator.com/item?id=48872858</a></p>\n<p>Points: 113</p>\n<p># Comments: 63</p>",
+        "description": "<p>Article URL: <a href=\"https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\">https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48872858\">https://news.ycombinator.com/item?id=48872858</a></p>\n<p>Points: 131</p>\n<p># Comments: 69</p>",
         "pubDate": "Sat, 11 Jul 2026 15:26:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48872858"
+      },
+      {
+        "title": "Moss (YC F25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\">https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865332\">https://news.ycombinator.com/item?id=48865332</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 10 Jul 2026 21:11:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48865332"
+      },
+      {
+        "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+        "link": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\">https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858745\">https://news.ycombinator.com/item?id=48858745</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 10 Jul 2026 12:00:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48858745"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-12T08:28:51.814Z",
+  "lastUpdated": "2026-07-12T13:46:09.191Z",
   "stats": {
     "feeds": 2,
     "articles": 20
