@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-12T13:45:56.947Z"
+      "lastFetched": "2026-07-12T19:16:48.669Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-12T13:46:09.190Z"
+      "lastFetched": "2026-07-12T19:17:03.685Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Making Crash Bandicoot (2011)",
-        "link": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
-        "description": "<p>Article URL: <a href=\"https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/\">https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880987\">https://news.ycombinator.com/item?id=48880987</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 12 Jul 2026 13:18:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48880987"
+        "title": "I love LLMs, I hate hype",
+        "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "description": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html\">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883343\">https://news.ycombinator.com/item?id=48883343</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 12 Jul 2026 18:31:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48883343"
+      },
+      {
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "description": "<p>This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883275\">https://news.ycombinator.com/item?id=48883275</a></p>\n<p>Points: 83</p>\n<p># Comments: 29</p>",
+        "pubDate": "Sun, 12 Jul 2026 18:25:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48883275"
+      },
+      {
+        "title": "Can We Understand How Large Language Models Reason?",
+        "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+        "description": "<p>Article URL: <a href=\"https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/\">https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883090\">https://news.ycombinator.com/item?id=48883090</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 12 Jul 2026 18:04:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48883090"
+      },
+      {
+        "title": "Against Usefulness",
+        "link": "https://www.motivenotes.ai/p/against-usefulness",
+        "description": "<p>Article URL: <a href=\"https://www.motivenotes.ai/p/against-usefulness\">https://www.motivenotes.ai/p/against-usefulness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882956\">https://news.ycombinator.com/item?id=48882956</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 12 Jul 2026 17:47:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882956"
+      },
+      {
+        "title": "LARP – Revenue infrastructure for serious founders",
+        "link": "https://www.larp.website/",
+        "description": "<p>Article URL: <a href=\"https://www.larp.website/\">https://www.larp.website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882569\">https://news.ycombinator.com/item?id=48882569</a></p>\n<p>Points: 32</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 12 Jul 2026 16:56:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882569"
+      },
+      {
+        "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+        "link": "https://github.com/hasenj/go-shirei/",
+        "description": "<p>Article URL: <a href=\"https://github.com/hasenj/go-shirei/\">https://github.com/hasenj/go-shirei/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882562\">https://news.ycombinator.com/item?id=48882562</a></p>\n<p>Points: 45</p>\n<p># Comments: 25</p>",
+        "pubDate": "Sun, 12 Jul 2026 16:55:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882562"
+      },
+      {
+        "title": "Automation Without Understanding",
+        "link": "https://arxiv.org/abs/2607.06377",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.06377\">https://arxiv.org/abs/2607.06377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882554\">https://news.ycombinator.com/item?id=48882554</a></p>\n<p>Points: 37</p>\n<p># Comments: 22</p>",
+        "pubDate": "Sun, 12 Jul 2026 16:54:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882554"
+      },
+      {
+        "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+        "link": "https://marc.info/?l=openbsd-misc&amp;m=119318909016582",
+        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-misc&m=119318909016582\">https://marc.info/?l=openbsd-misc&m=119318909016582</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882189\">https://news.ycombinator.com/item?id=48882189</a></p>\n<p>Points: 46</p>\n<p># Comments: 38</p>",
+        "pubDate": "Sun, 12 Jul 2026 16:05:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882189"
+      },
+      {
+        "title": "Why study Diophantine equations?",
+        "link": "https://hidden-phenomena.com/articles/modular",
+        "description": "<p>Article URL: <a href=\"https://hidden-phenomena.com/articles/modular\">https://hidden-phenomena.com/articles/modular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882097\">https://news.ycombinator.com/item?id=48882097</a></p>\n<p>Points: 41</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sun, 12 Jul 2026 15:53:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882097"
+      },
+      {
+        "title": "How to Read More Books",
+        "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+        "description": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-12-how-to-read-more-books/\">https://scotto.me/blog/2026-07-12-how-to-read-more-books/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882056\">https://news.ycombinator.com/item?id=48882056</a></p>\n<p>Points: 163</p>\n<p># Comments: 90</p>",
+        "pubDate": "Sun, 12 Jul 2026 15:47:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48882056"
+      },
+      {
+        "title": "The power of collaboration: How we can reduce traffic congestion",
+        "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+        "description": "<p>Article URL: <a href=\"https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/\">https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881967\">https://news.ycombinator.com/item?id=48881967</a></p>\n<p>Points: 33</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 12 Jul 2026 15:35:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48881967"
+      },
+      {
+        "title": "The shingles vaccine may reduce the risk of dementia",
+        "link": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+        "description": "<p><a href=\"https://archive.ph/PzPop\" rel=\"nofollow\">https://archive.ph/PzPop</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881874\">https://news.ycombinator.com/item?id=48881874</a></p>\n<p>Points: 113</p>\n<p># Comments: 92</p>",
+        "pubDate": "Sun, 12 Jul 2026 15:23:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48881874"
+      },
+      {
+        "title": "Don't you mean extinct?",
+        "link": "https://fabiensanglard.net/extinct/index.html",
+        "description": "<p>Article URL: <a href=\"https://fabiensanglard.net/extinct/index.html\">https://fabiensanglard.net/extinct/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881830\">https://news.ycombinator.com/item?id=48881830</a></p>\n<p>Points: 119</p>\n<p># Comments: 51</p>",
+        "pubDate": "Sun, 12 Jul 2026 15:17:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48881830"
+      },
+      {
+        "title": "Autoresearch, Claude and Constrained Optimization",
+        "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+        "description": "<p>Article URL: <a href=\"https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/\">https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881498\">https://news.ycombinator.com/item?id=48881498</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 12 Jul 2026 14:32:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48881498"
+      },
+      {
+        "title": "AI boosts research careers but narrow the span of ideas explored: study",
+        "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-science-research-flattens-discovery\">https://spectrum.ieee.org/ai-science-research-flattens-discovery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881043\">https://news.ycombinator.com/item?id=48881043</a></p>\n<p>Points: 110</p>\n<p># Comments: 85</p>",
+        "pubDate": "Sun, 12 Jul 2026 13:26:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48881043"
       },
       {
         "title": "Understanding the Odin Programming Language",
         "link": "https://odinbook.com/",
-        "description": "<p>Article URL: <a href=\"https://odinbook.com/\">https://odinbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880499\">https://news.ycombinator.com/item?id=48880499</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://odinbook.com/\">https://odinbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880499\">https://news.ycombinator.com/item?id=48880499</a></p>\n<p>Points: 121</p>\n<p># Comments: 61</p>",
         "pubDate": "Sun, 12 Jul 2026 12:08:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=48880499"
       },
       {
         "title": "Unauthenticated RCE in Motorola's MR2600 Router",
         "link": "https://mrbruh.com/motorola/",
-        "description": "<p>Article URL: <a href=\"https://mrbruh.com/motorola/\">https://mrbruh.com/motorola/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880406\">https://news.ycombinator.com/item?id=48880406</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://mrbruh.com/motorola/\">https://mrbruh.com/motorola/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880406\">https://news.ycombinator.com/item?id=48880406</a></p>\n<p>Points: 63</p>\n<p># Comments: 22</p>",
         "pubDate": "Sun, 12 Jul 2026 11:52:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=48880406"
       },
       {
-        "title": "Yt-Dlp Sequence Diagrams",
-        "link": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-        "description": "<p>Article URL: <a href=\"https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video\">https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880384\">https://news.ycombinator.com/item?id=48880384</a></p>\n<p>Points: 49</p>\n<p># Comments: 9</p>",
-        "pubDate": "Sun, 12 Jul 2026 11:49:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48880384"
-      },
-      {
-        "title": "Old and new apps, via modern coding agents by Terry Tao",
+        "title": "Old and new apps, via modern coding agents",
         "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880170\">https://news.ycombinator.com/item?id=48880170</a></p>\n<p>Points: 117</p>\n<p># Comments: 26</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880170\">https://news.ycombinator.com/item?id=48880170</a></p>\n<p>Points: 349</p>\n<p># Comments: 98</p>",
         "pubDate": "Sun, 12 Jul 2026 11:09:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=48880170"
       },
       {
-        "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
-        "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france\">https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879950\">https://news.ycombinator.com/item?id=48879950</a></p>\n<p>Points: 50</p>\n<p># Comments: 53</p>",
-        "pubDate": "Sun, 12 Jul 2026 10:23:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48879950"
+        "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+        "link": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
+        "description": "<p>Article URL: <a href=\"https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media\">https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879902\">https://news.ycombinator.com/item?id=48879902</a></p>\n<p>Points: 53</p>\n<p># Comments: 60</p>",
+        "pubDate": "Sun, 12 Jul 2026 10:14:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48879902"
       },
       {
         "title": "Ghostel.el: Terminal emulator powered by libghostty",
         "link": "https://dakra.github.io/ghostel/",
-        "description": "<p>Article URL: <a href=\"https://dakra.github.io/ghostel/\">https://dakra.github.io/ghostel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879504\">https://news.ycombinator.com/item?id=48879504</a></p>\n<p>Points: 75</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://dakra.github.io/ghostel/\">https://dakra.github.io/ghostel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879504\">https://news.ycombinator.com/item?id=48879504</a></p>\n<p>Points: 224</p>\n<p># Comments: 36</p>",
         "pubDate": "Sun, 12 Jul 2026 08:52:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=48879504"
-      },
-      {
-        "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-        "link": "https://github.com/cosmtrek/mindwalk",
-        "description": "<p>Article URL: <a href=\"https://github.com/cosmtrek/mindwalk\">https://github.com/cosmtrek/mindwalk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878682\">https://news.ycombinator.com/item?id=48878682</a></p>\n<p>Points: 101</p>\n<p># Comments: 46</p>",
-        "pubDate": "Sun, 12 Jul 2026 05:51:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48878682"
-      },
-      {
-        "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-        "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-        "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878126\">https://news.ycombinator.com/item?id=48878126</a></p>\n<p>Points: 134</p>\n<p># Comments: 289</p>",
-        "pubDate": "Sun, 12 Jul 2026 04:00:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48878126"
-      },
-      {
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "link": "https://www.iroh.computer/blog/mesh-llm",
-        "description": "<p>Article URL: <a href=\"https://www.iroh.computer/blog/mesh-llm\">https://www.iroh.computer/blog/mesh-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876505\">https://news.ycombinator.com/item?id=48876505</a></p>\n<p>Points: 287</p>\n<p># Comments: 66</p>",
-        "pubDate": "Sat, 11 Jul 2026 22:38:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48876505"
-      },
-      {
-        "title": "RISCBoy is an open-source portable games console, designed from scratch",
-        "link": "https://github.com/Wren6991/RISCBoy",
-        "description": "<p>Article URL: <a href=\"https://github.com/Wren6991/RISCBoy\">https://github.com/Wren6991/RISCBoy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48876245\">https://news.ycombinator.com/item?id=48876245</a></p>\n<p>Points: 168</p>\n<p># Comments: 23</p>",
-        "pubDate": "Sat, 11 Jul 2026 21:58:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48876245"
-      },
-      {
-        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-        "link": "https://antjs.org",
-        "description": "<p>Hello HN!<p>I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.<p>The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It's still early, and I'd appreciate any feedback on the overall direction or what you'd like to see from an e2e alternative to the existing JavaScript stacks.<p>P.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48875377\">https://news.ycombinator.com/item?id=48875377</a></p>\n<p>Points: 294</p>\n<p># Comments: 132</p>",
-        "pubDate": "Sat, 11 Jul 2026 20:07:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48875377"
-      },
-      {
-        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "description": "<p>Article URL: <a href=\"https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom\">https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873836\">https://news.ycombinator.com/item?id=48873836</a></p>\n<p>Points: 303</p>\n<p># Comments: 121</p>",
-        "pubDate": "Sat, 11 Jul 2026 17:21:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48873836"
-      },
-      {
-        "title": "Sixtyfour (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success\">https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873665\">https://news.ycombinator.com/item?id=48873665</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 11 Jul 2026 17:00:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48873665"
-      },
-      {
-        "title": "UPI: Anatomy of a Payment Transaction",
-        "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-        "description": "<p>Article URL: <a href=\"https://timeseriesofindia.com/economy/reads/upi-architecture/\">https://timeseriesofindia.com/economy/reads/upi-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873457\">https://news.ycombinator.com/item?id=48873457</a></p>\n<p>Points: 214</p>\n<p># Comments: 98</p>",
-        "pubDate": "Sat, 11 Jul 2026 16:33:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48873457"
-      },
-      {
-        "title": "Modern decor may be straining people's brains",
-        "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-        "description": "<p>Article URL: <a href=\"https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/\">https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48873424\">https://news.ycombinator.com/item?id=48873424</a></p>\n<p>Points: 225</p>\n<p># Comments: 224</p>",
-        "pubDate": "Sat, 11 Jul 2026 16:28:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48873424"
-      },
-      {
-        "title": "We scaled PgBouncer to 4x throughput",
-        "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\">https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48872874\">https://news.ycombinator.com/item?id=48872874</a></p>\n<p>Points: 225</p>\n<p># Comments: 53</p>",
-        "pubDate": "Sat, 11 Jul 2026 15:28:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48872874"
-      },
-      {
-        "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-        "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\">https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48872858\">https://news.ycombinator.com/item?id=48872858</a></p>\n<p>Points: 131</p>\n<p># Comments: 69</p>",
-        "pubDate": "Sat, 11 Jul 2026 15:26:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48872858"
-      },
-      {
-        "title": "Moss (YC F25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\">https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48865332\">https://news.ycombinator.com/item?id=48865332</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 10 Jul 2026 21:11:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48865332"
-      },
-      {
-        "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-        "link": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\">https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858745\">https://news.ycombinator.com/item?id=48858745</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 10 Jul 2026 12:00:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48858745"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-12T13:46:09.191Z",
+  "lastUpdated": "2026-07-12T19:17:03.685Z",
   "stats": {
     "feeds": 2,
     "articles": 20
