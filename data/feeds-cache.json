@@ -5,18 +5,81 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-14T14:04:10.074Z"
+      "lastFetched": "2026-07-14T19:38:14.782Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-14T14:04:27.045Z"
+      "lastFetched": "2026-07-14T19:38:21.680Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
+      {
+        "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+        "link": "https://prismml.com/news/bonsai-27b",
+        "description": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-27b\">https://prismml.com/news/bonsai-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910545\">https://news.ycombinator.com/item?id=48910545</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
+        "pubDate": "Tue, 14 Jul 2026 17:50:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48910545"
+      },
+      {
+        "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+        "link": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security\">https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909820\">https://news.ycombinator.com/item?id=48909820</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 14 Jul 2026 17:00:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48909820"
+      },
+      {
+        "title": "The Tower Keeps Rising",
+        "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\">https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909785\">https://news.ycombinator.com/item?id=48909785</a></p>\n<p>Points: 143</p>\n<p># Comments: 47</p>",
+        "pubDate": "Tue, 14 Jul 2026 16:57:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48909785"
+      },
+      {
+        "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
+        "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+        "description": "<p>Article URL: <a href=\"https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html\">https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909768\">https://news.ycombinator.com/item?id=48909768</a></p>\n<p>Points: 240</p>\n<p># Comments: 203</p>",
+        "pubDate": "Tue, 14 Jul 2026 16:56:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48909768"
+      },
+      {
+        "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+        "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+        "description": "<p>Article URL: <a href=\"https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\">https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909424\">https://news.ycombinator.com/item?id=48909424</a></p>\n<p>Points: 243</p>\n<p># Comments: 129</p>",
+        "pubDate": "Tue, 14 Jul 2026 16:36:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48909424"
+      },
+      {
+        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+        "link": "https://agnost.ai",
+        "description": "<p>Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (<a href=\"https://agnost.ai\">https://agnost.ai</a>), product analytics for teams building chat and voice agents.<p>We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful.<p>We have an interactive demo with no signup here: <a href=\"https://app.agnost.ai?demo=true\">https://app.agnost.ai?demo=true</a><p>Here's a demo video: <a href=\"https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa\" rel=\"nofollow\">https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa</a><p>The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted.<p>We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building.<p>We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist.<p>Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it.<p>One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature.<p>Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections.<p>For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases.<p>We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm.<p>We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908950\">https://news.ycombinator.com/item?id=48908950</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 14 Jul 2026 16:06:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48908950"
+      },
+      {
+        "title": "Show HN: Opening lines of famous literary works",
+        "link": "https://www.verbaprima.com/",
+        "description": "<p>This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i've added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908271\">https://news.ycombinator.com/item?id=48908271</a></p>\n<p>Points: 107</p>\n<p># Comments: 69</p>",
+        "pubDate": "Tue, 14 Jul 2026 15:24:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48908271"
+      },
+      {
+        "title": "Are we offloading too much of our thinking to AI?",
+        "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "description": "<p>Article URL: <a href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\">https://www.artfish.ai/p/offloading-thinking-to-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908178\">https://news.ycombinator.com/item?id=48908178</a></p>\n<p>Points: 249</p>\n<p># Comments: 239</p>",
+        "pubDate": "Tue, 14 Jul 2026 15:18:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48908178"
+      },
+      {
+        "title": "The Agentic Loop: Three loops in a trench coat",
+        "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+        "description": "<p>Article URL: <a href=\"https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a\">https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48907672\">https://news.ycombinator.com/item?id=48907672</a></p>\n<p>Points: 36</p>\n<p># Comments: 8</p>",
+        "pubDate": "Tue, 14 Jul 2026 14:39:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48907672"
+      },
       {
         "title": "Serena Williams Fit-Dex",
         "link": "https://serena-williams-fitdex.netlify.app/",
@@ -25,142 +88,79 @@
         "guid": "https://news.ycombinator.com/item?id=48906339"
       },
       {
-        "title": "Proof of Care in the Age of A.I",
-        "link": "https://jacobfilipp.com/care/",
-        "description": "<p>Article URL: <a href=\"https://jacobfilipp.com/care/\">https://jacobfilipp.com/care/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906125\">https://news.ycombinator.com/item?id=48906125</a></p>\n<p>Points: 37</p>\n<p># Comments: 12</p>",
-        "pubDate": "Tue, 14 Jul 2026 12:56:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48906125"
-      },
-      {
-        "title": "Tensor Is the Might",
-        "link": "https://zserge.com/posts/tensor/",
-        "description": "<p>Article URL: <a href=\"https://zserge.com/posts/tensor/\">https://zserge.com/posts/tensor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906123\">https://news.ycombinator.com/item?id=48906123</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
-        "pubDate": "Tue, 14 Jul 2026 12:56:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48906123"
-      },
-      {
         "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
         "link": "https://github.com/Danau5tin/ai-trains-ai",
-        "description": "<p>Article URL: <a href=\"https://github.com/Danau5tin/ai-trains-ai\">https://github.com/Danau5tin/ai-trains-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905919\">https://news.ycombinator.com/item?id=48905919</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Danau5tin/ai-trains-ai\">https://github.com/Danau5tin/ai-trains-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905919\">https://news.ycombinator.com/item?id=48905919</a></p>\n<p>Points: 79</p>\n<p># Comments: 37</p>",
         "pubDate": "Tue, 14 Jul 2026 12:41:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=48905919"
       },
       {
         "title": "Beautiful Type Erasure with C++26 Reflection",
         "link": "https://ryanjk5.github.io/posts/rjk-duck/",
-        "description": "<p>Article URL: <a href=\"https://ryanjk5.github.io/posts/rjk-duck/\">https://ryanjk5.github.io/posts/rjk-duck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905914\">https://news.ycombinator.com/item?id=48905914</a></p>\n<p>Points: 27</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://ryanjk5.github.io/posts/rjk-duck/\">https://ryanjk5.github.io/posts/rjk-duck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905914\">https://news.ycombinator.com/item?id=48905914</a></p>\n<p>Points: 92</p>\n<p># Comments: 36</p>",
         "pubDate": "Tue, 14 Jul 2026 12:40:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=48905914"
       },
       {
-        "title": "Coding agents think ahead of time",
-        "link": "https://arxiv.org/abs/2607.05188",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.05188\">https://arxiv.org/abs/2607.05188</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905764\">https://news.ycombinator.com/item?id=48905764</a></p>\n<p>Points: 32</p>\n<p># Comments: 24</p>",
-        "pubDate": "Tue, 14 Jul 2026 12:28:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48905764"
-      },
-      {
         "title": "Differentiable Fortran with LFortran and Enzyme",
         "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-        "description": "<p>Article URL: <a href=\"https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html\">https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905667\">https://news.ycombinator.com/item?id=48905667</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html\">https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905667\">https://news.ycombinator.com/item?id=48905667</a></p>\n<p>Points: 42</p>\n<p># Comments: 15</p>",
         "pubDate": "Tue, 14 Jul 2026 12:21:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=48905667"
       },
       {
-        "title": "Germany set to restrict its Freedom of Information Act",
-        "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-        "description": "<p>Article URL: <a href=\"https://www.dw.com/en/germany-freedom-of-information-act/a-77939695\">https://www.dw.com/en/germany-freedom-of-information-act/a-77939695</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905290\">https://news.ycombinator.com/item?id=48905290</a></p>\n<p>Points: 106</p>\n<p># Comments: 60</p>",
-        "pubDate": "Tue, 14 Jul 2026 11:49:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48905290"
+        "title": "How to stop Claude from saying load-bearing",
+        "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+        "description": "<p>Article URL: <a href=\"https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing\">https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905248\">https://news.ycombinator.com/item?id=48905248</a></p>\n<p>Points: 272</p>\n<p># Comments: 346</p>",
+        "pubDate": "Tue, 14 Jul 2026 11:46:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48905248"
       },
       {
-        "title": "Punch Yourself in the Face with Reality",
+        "title": "Punch yourself in the face with reality",
         "link": "https://adi.bio/reality",
-        "description": "<p>Article URL: <a href=\"https://adi.bio/reality\">https://adi.bio/reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905118\">https://news.ycombinator.com/item?id=48905118</a></p>\n<p>Points: 56</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://adi.bio/reality\">https://adi.bio/reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905118\">https://news.ycombinator.com/item?id=48905118</a></p>\n<p>Points: 158</p>\n<p># Comments: 78</p>",
         "pubDate": "Tue, 14 Jul 2026 11:33:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48905118"
       },
       {
-        "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-        "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-        "description": "<p>Article URL: <a href=\"https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948\">https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905091\">https://news.ycombinator.com/item?id=48905091</a></p>\n<p>Points: 87</p>\n<p># Comments: 63</p>",
-        "pubDate": "Tue, 14 Jul 2026 11:30:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48905091"
+        "title": "No Spanish reading crisis?",
+        "link": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
+        "description": "<p>Article URL: <a href=\"https://www.commonreader.co.uk/p/no-spanish-reading-crisis\">https://www.commonreader.co.uk/p/no-spanish-reading-crisis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905105\">https://news.ycombinator.com/item?id=48905105</a></p>\n<p>Points: 66</p>\n<p># Comments: 104</p>",
+        "pubDate": "Tue, 14 Jul 2026 11:31:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48905105"
       },
       {
-        "title": "Codex starts encrypting sub-agent prompts",
-        "link": "https://github.com/openai/codex/issues/28058",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28058\">https://github.com/openai/codex/issues/28058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905028\">https://news.ycombinator.com/item?id=48905028</a></p>\n<p>Points: 231</p>\n<p># Comments: 147</p>",
-        "pubDate": "Tue, 14 Jul 2026 11:21:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48905028"
-      },
-      {
-        "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-        "link": "https://github.com/rejourneyco/rejourney",
-        "description": "<p>Hello there (General Kenobi's favorite way to start the conversation),<p>I’m Rashid, a sophomore at UT Austin. I built Rejourney.co (<a href=\"https://rejourney.co/\" rel=\"nofollow\">https://rejourney.co/</a>) to predict issues with your apps and websites before they happen, based on real user session recordings.<p>Here is a silly video (with cats) on how it works: <a href=\"https://www.youtube.com/watch?v=Z95MDxBXMjk\" rel=\"nofollow\">https://www.youtube.com/watch?v=Z95MDxBXMjk</a><p>It’s open source, and the post link is the github repo, but here it is again: <a href=\"https://github.com/rejourneyco/rejourney\" rel=\"nofollow\">https://github.com/rejourneyco/rejourney</a><p>I originally built this because I had a campus freebie finder app that grew quickly, and I had a lot of users dm me on instagram about issues with the app’s onboarding and UX confusion. I initially lost about 340 users out of my 5,000ish users because of these issues, and I had to recover some by nudging them with notifications. It was a big pain, and I felt bad that I lost this many users to small and easy fixes. So I built Rejourney to predict that before it happens. Here is how it works:<p>First, the SDK is installed on Web JS, Swift, or React Native apps. You then help the SDK a little with a few lines of tracking important events -- such as a subscription bought, a signup completed, etc -- before you ship the app. We called these “critical conversion events”.<p>From here, Rejourney records the user session along with the meta data you set up, and relates it to the sequence of the user journey, each touch/scroll/pan interaction, and rage taps. If deemed an issue, it bundles in API response times and codes, ANRS, and crash traces into the context.<p>A heuristic then bundles all the user recordings into similarity cohorts for processing, and finds similar user journeys and outcomes in relation to the critical conversion actions that matter to you. If a trend is found that is possibly worrying, it admits the user recordings into segmentation and processing by an LLM on our back (in this case Gemini for cost and speed, but it has been tested on GPT 5.5 if you decide to self-host and set this up on your side).<p>If the LLM views similarities in the touch sequence frame by frame, it can determine whether the cohort is likely to present a negative outlook on the critical conversion event that matters to you. Based on the replays and all the surrounding context, it outputs a .MD file with the context and the fix that would patch it (which you can copy into your coding agent). Optionally, you can attach your github repo so the .MD file includes a code fix with the detected issue.<p>Furthermore, this occurs at the scale of thousands of user recordings daily. We have seen how this works on a medium-scale, as Rejourney has been tested with about 2.5 million user recordings from people shipping the SDK. One of our users even emailed us reporting a 30% increase in onboarding after 2 weeks of fixing non-stop issues found.<p>We have made it soooo cost effective to run with different strategies, that our first 3 paid users made us break even on costs…and this means more compute space for cool things later :D<p>Other considerations and criteria: Privacy was also very very important as we have to consider GDPR, after the retention period (usually 7-days) we quantize all the user recordings, anonymize all the fingerprints and aggregate them into a general dashboard (similar to Firebase’s general analytics dashboard).<p>I’d love to hear your feedback, critics, and requests in the comments! I’m all ears (or eyes since I’m reading).</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48904912\">https://news.ycombinator.com/item?id=48904912</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 14 Jul 2026 11:06:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48904912"
-      },
-      {
-        "title": "The Future Worth Building Is Human",
-        "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/blog/the-future-worth-building-is-human/\">https://thinkingmachines.ai/blog/the-future-worth-building-is-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48904905\">https://news.ycombinator.com/item?id=48904905</a></p>\n<p>Points: 67</p>\n<p># Comments: 43</p>",
-        "pubDate": "Tue, 14 Jul 2026 11:05:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48904905"
-      },
-      {
-        "title": "Actegories",
-        "link": "https://bartoszmilewski.com/2026/06/30/actegories/",
-        "description": "<p>Article URL: <a href=\"https://bartoszmilewski.com/2026/06/30/actegories/\">https://bartoszmilewski.com/2026/06/30/actegories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48904902\">https://news.ycombinator.com/item?id=48904902</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 14 Jul 2026 11:05:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48904902"
-      },
-      {
-        "title": "The great digital fatigue: How digital burnout is changing social media use",
-        "link": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-        "description": "<p>Article URL: <a href=\"https://blog.incogni.com/digital-fatigue-and-burnout/\">https://blog.incogni.com/digital-fatigue-and-burnout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48904855\">https://news.ycombinator.com/item?id=48904855</a></p>\n<p>Points: 63</p>\n<p># Comments: 56</p>",
-        "pubDate": "Tue, 14 Jul 2026 10:58:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48904855"
+        "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+        "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+        "description": "<p>Article URL: <a href=\"https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19\">https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903777\">https://news.ycombinator.com/item?id=48903777</a></p>\n<p>Points: 355</p>\n<p># Comments: 234</p>",
+        "pubDate": "Tue, 14 Jul 2026 08:34:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48903777"
       },
       {
         "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
         "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-        "description": "<p>Article URL: <a href=\"https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/\">https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903715\">https://news.ycombinator.com/item?id=48903715</a></p>\n<p>Points: 87</p>\n<p># Comments: 43</p>",
+        "description": "<p>Article URL: <a href=\"https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/\">https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903715\">https://news.ycombinator.com/item?id=48903715</a></p>\n<p>Points: 116</p>\n<p># Comments: 66</p>",
         "pubDate": "Tue, 14 Jul 2026 08:24:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=48903715"
       },
       {
         "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
         "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cg53l737v1qo\">https://www.bbc.com/news/articles/cg53l737v1qo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903082\">https://news.ycombinator.com/item?id=48903082</a></p>\n<p>Points: 115</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cg53l737v1qo\">https://www.bbc.com/news/articles/cg53l737v1qo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903082\">https://news.ycombinator.com/item?id=48903082</a></p>\n<p>Points: 178</p>\n<p># Comments: 20</p>",
         "pubDate": "Tue, 14 Jul 2026 06:43:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=48903082"
       },
       {
-        "title": "Just Let Me Write Digits",
-        "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-        "description": "<p>Article URL: <a href=\"https://gendx.dev/blog/2026/07/13/input-digits.html\">https://gendx.dev/blog/2026/07/13/input-digits.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902791\">https://news.ycombinator.com/item?id=48902791</a></p>\n<p>Points: 106</p>\n<p># Comments: 38</p>",
-        "pubDate": "Tue, 14 Jul 2026 05:57:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48902791"
-      },
-      {
         "title": "Australian energy retailers must provide three hours of free daytime electricity",
         "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-        "description": "<p>Article URL: <a href=\"https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/\">https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902320\">https://news.ycombinator.com/item?id=48902320</a></p>\n<p>Points: 169</p>\n<p># Comments: 260</p>",
+        "description": "<p>Article URL: <a href=\"https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/\">https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902320\">https://news.ycombinator.com/item?id=48902320</a></p>\n<p>Points: 238</p>\n<p># Comments: 313</p>",
         "pubDate": "Tue, 14 Jul 2026 04:31:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48902320"
-      },
-      {
-        "title": "YouTrackDB is a general-use object-oriented graph database",
-        "link": "https://github.com/JetBrains/youtrackdb",
-        "description": "<p>Article URL: <a href=\"https://github.com/JetBrains/youtrackdb\">https://github.com/JetBrains/youtrackdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902026\">https://news.ycombinator.com/item?id=48902026</a></p>\n<p>Points: 150</p>\n<p># Comments: 47</p>",
-        "pubDate": "Tue, 14 Jul 2026 03:39:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48902026"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-14T14:04:27.045Z",
+  "lastUpdated": "2026-07-14T19:38:21.680Z",
   "stats": {
     "feeds": 2,
     "articles": 20
