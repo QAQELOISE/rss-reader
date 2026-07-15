@@ -5,106 +5,120 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-15T03:18:40.918Z"
+      "lastFetched": "2026-07-15T08:28:39.656Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-15T03:18:48.312Z"
+      "lastFetched": "2026-07-15T08:28:59.303Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-        "link": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-        "description": "<p>Article URL: <a href=\"https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/\">https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915244\">https://news.ycombinator.com/item?id=48915244</a></p>\n<p>Points: 43</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 15 Jul 2026 01:43:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48915244"
+        "title": "Ask HN: How do you track feedback when you post across multiple places?",
+        "link": "https://news.ycombinator.com/item?id=48917697",
+        "description": "<p>Over the last two years I have been working on multiple projects and when trying to get feedback from people, I kept facing the same problem. I post across multiple platforms - X, Reddit, Facebook, etc and all responses ended up scattered across different places. So I'm wondering if others have the same problem. If you want to share your experience: https://remarkd.app/r/how-to-track-feedback</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48917697\">https://news.ycombinator.com/item?id=48917697</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 15 Jul 2026 08:10:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48917697"
+      },
+      {
+        "title": "Who's running all those tiny RPKI servers?",
+        "link": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/\">https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48917055\">https://news.ycombinator.com/item?id=48917055</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 15 Jul 2026 06:38:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48917055"
+      },
+      {
+        "title": "I tricked Claude into leaking your deepest, darkest secrets",
+        "link": "https://www.ayush.digital/blog/the-memory-heist",
+        "description": "<p>Article URL: <a href=\"https://www.ayush.digital/blog/the-memory-heist\">https://www.ayush.digital/blog/the-memory-heist</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48916975\">https://news.ycombinator.com/item?id=48916975</a></p>\n<p>Points: 178</p>\n<p># Comments: 70</p>",
+        "pubDate": "Wed, 15 Jul 2026 06:28:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48916975"
+      },
+      {
+        "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+        "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+        "description": "<p>Article URL: <a href=\"https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/\">https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48916805\">https://news.ycombinator.com/item?id=48916805</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 15 Jul 2026 06:02:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48916805"
+      },
+      {
+        "title": "Jurassic Park computers in excruciating detail",
+        "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+        "description": "<p>Article URL: <a href=\"https://fabiensanglard.net/jurrasic_park_computers/index.html\">https://fabiensanglard.net/jurrasic_park_computers/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915709\">https://news.ycombinator.com/item?id=48915709</a></p>\n<p>Points: 359</p>\n<p># Comments: 86</p>",
+        "pubDate": "Wed, 15 Jul 2026 02:57:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48915709"
       },
       {
         "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
         "link": "https://tailscale.com/security-bulletins",
-        "description": "<p>Article URL: <a href=\"https://tailscale.com/security-bulletins\">https://tailscale.com/security-bulletins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915004\">https://news.ycombinator.com/item?id=48915004</a></p>\n<p>Points: 56</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/security-bulletins\">https://tailscale.com/security-bulletins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915004\">https://news.ycombinator.com/item?id=48915004</a></p>\n<p>Points: 140</p>\n<p># Comments: 62</p>",
         "pubDate": "Wed, 15 Jul 2026 01:08:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48915004"
       },
       {
-        "title": "Data centers have hiked electricity prices on the public by $23B",
-        "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-        "description": "<p>Article URL: <a href=\"https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/\">https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914683\">https://news.ycombinator.com/item?id=48914683</a></p>\n<p>Points: 85</p>\n<p># Comments: 43</p>",
-        "pubDate": "Wed, 15 Jul 2026 00:20:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48914683"
-      },
-      {
         "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
         "link": "https://www.starfleetmath.com/",
-        "description": "<p>Article URL: <a href=\"https://www.starfleetmath.com/\">https://www.starfleetmath.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914646\">https://news.ycombinator.com/item?id=48914646</a></p>\n<p>Points: 45</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.starfleetmath.com/\">https://www.starfleetmath.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914646\">https://news.ycombinator.com/item?id=48914646</a></p>\n<p>Points: 123</p>\n<p># Comments: 54</p>",
         "pubDate": "Wed, 15 Jul 2026 00:15:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=48914646"
       },
       {
         "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
         "link": "https://vpd.ca/",
-        "description": "<p>Article URL: <a href=\"https://vpd.ca/\">https://vpd.ca/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914644\">https://news.ycombinator.com/item?id=48914644</a></p>\n<p>Points: 142</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://vpd.ca/\">https://vpd.ca/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914644\">https://news.ycombinator.com/item?id=48914644</a></p>\n<p>Points: 252</p>\n<p># Comments: 99</p>",
         "pubDate": "Wed, 15 Jul 2026 00:15:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=48914644"
       },
       {
         "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
         "link": "https://www.benjamin-bai.com/projects/lemario",
-        "description": "<p>Article URL: <a href=\"https://www.benjamin-bai.com/projects/lemario\">https://www.benjamin-bai.com/projects/lemario</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913763\">https://news.ycombinator.com/item?id=48913763</a></p>\n<p>Points: 61</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://www.benjamin-bai.com/projects/lemario\">https://www.benjamin-bai.com/projects/lemario</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913763\">https://news.ycombinator.com/item?id=48913763</a></p>\n<p>Points: 89</p>\n<p># Comments: 11</p>",
         "pubDate": "Tue, 14 Jul 2026 22:30:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=48913763"
       },
       {
         "title": "Probably check on your smart appliances",
         "link": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-        "description": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/check-your-smart-tv/\">https://xeiaso.net/notes/2026/check-your-smart-tv/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913457\">https://news.ycombinator.com/item?id=48913457</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/check-your-smart-tv/\">https://xeiaso.net/notes/2026/check-your-smart-tv/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913457\">https://news.ycombinator.com/item?id=48913457</a></p>\n<p>Points: 61</p>\n<p># Comments: 21</p>",
         "pubDate": "Tue, 14 Jul 2026 22:00:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=48913457"
       },
       {
-        "title": "Financing the AI boom: from cash flows to debt [pdf]",
-        "link": "https://www.bis.org/publ/bisbull120.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.bis.org/publ/bisbull120.pdf\">https://www.bis.org/publ/bisbull120.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913443\">https://news.ycombinator.com/item?id=48913443</a></p>\n<p>Points: 104</p>\n<p># Comments: 53</p>",
-        "pubDate": "Tue, 14 Jul 2026 21:58:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48913443"
-      },
-      {
-        "title": "Microsoft Patches a Record 570 Security Flaws",
+        "title": "Microsoft has released software updates to plug at least 570 security holes",
         "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/\">https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913190\">https://news.ycombinator.com/item?id=48913190</a></p>\n<p>Points: 47</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/\">https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913190\">https://news.ycombinator.com/item?id=48913190</a></p>\n<p>Points: 114</p>\n<p># Comments: 57</p>",
         "pubDate": "Tue, 14 Jul 2026 21:32:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=48913190"
       },
       {
         "title": "Dependabot version updates introduce default package cooldown",
         "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/\">https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913050\">https://news.ycombinator.com/item?id=48913050</a></p>\n<p>Points: 114</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/\">https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913050\">https://news.ycombinator.com/item?id=48913050</a></p>\n<p>Points: 168</p>\n<p># Comments: 106</p>",
         "pubDate": "Tue, 14 Jul 2026 21:15:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=48913050"
       },
       {
         "title": "How I use HTMX with Go",
         "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-        "description": "<p>Article URL: <a href=\"https://www.alexedwards.net/blog/how-i-use-htmx-with-go\">https://www.alexedwards.net/blog/how-i-use-htmx-with-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912175\">https://news.ycombinator.com/item?id=48912175</a></p>\n<p>Points: 134</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://www.alexedwards.net/blog/how-i-use-htmx-with-go\">https://www.alexedwards.net/blog/how-i-use-htmx-with-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912175\">https://news.ycombinator.com/item?id=48912175</a></p>\n<p>Points: 223</p>\n<p># Comments: 55</p>",
         "pubDate": "Tue, 14 Jul 2026 19:55:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=48912175"
       },
       {
         "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
         "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "description": "<p>Article URL: <a href=\"https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left\">https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910676\">https://news.ycombinator.com/item?id=48910676</a></p>\n<p>Points: 271</p>\n<p># Comments: 122</p>",
+        "description": "<p>Article URL: <a href=\"https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left\">https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910676\">https://news.ycombinator.com/item?id=48910676</a></p>\n<p>Points: 346</p>\n<p># Comments: 160</p>",
         "pubDate": "Tue, 14 Jul 2026 17:58:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=48910676"
       },
       {
         "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
         "link": "https://prismml.com/news/bonsai-27b",
-        "description": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-27b\">https://prismml.com/news/bonsai-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910545\">https://news.ycombinator.com/item?id=48910545</a></p>\n<p>Points: 466</p>\n<p># Comments: 173</p>",
+        "description": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-27b\">https://prismml.com/news/bonsai-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910545\">https://news.ycombinator.com/item?id=48910545</a></p>\n<p>Points: 567</p>\n<p># Comments: 206</p>",
         "pubDate": "Tue, 14 Jul 2026 17:50:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=48910545"
       },
@@ -118,49 +132,35 @@
       {
         "title": "The Tower Keeps Rising",
         "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\">https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909785\">https://news.ycombinator.com/item?id=48909785</a></p>\n<p>Points: 365</p>\n<p># Comments: 173</p>",
+        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\">https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909785\">https://news.ycombinator.com/item?id=48909785</a></p>\n<p>Points: 450</p>\n<p># Comments: 215</p>",
         "pubDate": "Tue, 14 Jul 2026 16:57:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=48909785"
       },
       {
-        "title": "Show HN: Opening lines of famous literary works",
-        "link": "https://www.verbaprima.com/",
-        "description": "<p>This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i've added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908271\">https://news.ycombinator.com/item?id=48908271</a></p>\n<p>Points: 145</p>\n<p># Comments: 87</p>",
-        "pubDate": "Tue, 14 Jul 2026 15:24:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48908271"
+        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+        "link": "https://agnost.ai",
+        "description": "<p>Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (<a href=\"https://agnost.ai\">https://agnost.ai</a>), product analytics for teams building chat and voice agents.<p>We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful.<p>We have an interactive demo with no signup here: <a href=\"https://app.agnost.ai?demo=true\">https://app.agnost.ai?demo=true</a><p>Here's a demo video: <a href=\"https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa\" rel=\"nofollow\">https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa</a><p>The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted.<p>We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building.<p>We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist.<p>Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it.<p>One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature.<p>Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections.<p>For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases.<p>We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm.<p>We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908950\">https://news.ycombinator.com/item?id=48908950</a></p>\n<p>Points: 77</p>\n<p># Comments: 40</p>",
+        "pubDate": "Tue, 14 Jul 2026 16:06:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48908950"
       },
       {
         "title": "I'm a USB-C Maximalist",
         "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/\">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908214\">https://news.ycombinator.com/item?id=48908214</a></p>\n<p>Points: 185</p>\n<p># Comments: 291</p>",
+        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/\">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908214\">https://news.ycombinator.com/item?id=48908214</a></p>\n<p>Points: 268</p>\n<p># Comments: 361</p>",
         "pubDate": "Tue, 14 Jul 2026 15:20:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=48908214"
       },
       {
         "title": "Are we offloading too much of our thinking to AI?",
         "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-        "description": "<p>Article URL: <a href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\">https://www.artfish.ai/p/offloading-thinking-to-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908178\">https://news.ycombinator.com/item?id=48908178</a></p>\n<p>Points: 394</p>\n<p># Comments: 391</p>",
+        "description": "<p>Article URL: <a href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\">https://www.artfish.ai/p/offloading-thinking-to-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908178\">https://news.ycombinator.com/item?id=48908178</a></p>\n<p>Points: 457</p>\n<p># Comments: 420</p>",
         "pubDate": "Tue, 14 Jul 2026 15:18:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=48908178"
-      },
-      {
-        "title": "Serena Williams Fit-Dex",
-        "link": "https://serena-williams-fitdex.netlify.app/",
-        "description": "<p>Article URL: <a href=\"https://serena-williams-fitdex.netlify.app/\">https://serena-williams-fitdex.netlify.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906339\">https://news.ycombinator.com/item?id=48906339</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 14 Jul 2026 13:12:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48906339"
-      },
-      {
-        "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-        "link": "https://gwern.net/guardian-angel",
-        "description": "<p>Article URL: <a href=\"https://gwern.net/guardian-angel\">https://gwern.net/guardian-angel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906041\">https://news.ycombinator.com/item?id=48906041</a></p>\n<p>Points: 63</p>\n<p># Comments: 11</p>",
-        "pubDate": "Tue, 14 Jul 2026 12:50:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48906041"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-15T03:18:48.312Z",
+  "lastUpdated": "2026-07-15T08:28:59.304Z",
   "stats": {
     "feeds": 2,
     "articles": 20
