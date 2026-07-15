@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-15T14:01:00.621Z"
+      "lastFetched": "2026-07-15T19:24:18.526Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-15T14:01:20.629Z"
+      "lastFetched": "2026-07-15T19:24:38.269Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Ask HN: Is it just me, or is software buggier across the board?",
-        "link": "https://news.ycombinator.com/item?id=48920698",
-        "description": "<p>I feel like I’m going crazy, I’ve been hitting the strangest bugs across all my devices in the last 6 months. Is anyone else experiencing this too?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920698\">https://news.ycombinator.com/item?id=48920698</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 15 Jul 2026 13:41:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48920698"
+        "title": "Why I Left Google DeepMind",
+        "link": "https://turntrout.com/why-i-left-google-deepmind",
+        "description": "<p>Article URL: <a href=\"https://turntrout.com/why-i-left-google-deepmind\">https://turntrout.com/why-i-left-google-deepmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925271\">https://news.ycombinator.com/item?id=48925271</a></p>\n<p>Points: 93</p>\n<p># Comments: 34</p>",
+        "pubDate": "Wed, 15 Jul 2026 18:40:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48925271"
       },
       {
-        "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-        "link": "https://github.com/evansjp/grepathy",
-        "description": "<p>hey HN - Claude pre-created users in Clerk with null emails/names as \"guest users\" on a contract job. Wasn't in any plan. The CTO asked why, and I didn't know! I didn't make that decision!<p>The reasoning was in a transcript on my laptop. Claude Code deletes those after 30 days by default. Two of my projects lost their whole history that way.<p>Grepathy distills transcripts locally into markdown committed with the code. Decisions only, never your messages, no server.<p>List every decision nobody approved:<p><pre><code>  grep -rn \"agent-initiated\" .ai/why/\n</code></pre>\nRan a blind eval before shipping, published it including the misses (REPORT.md). Agents with Grepathy answered the \"why\" questions right. Baseline agents made up confident wrong answers.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920537\">https://news.ycombinator.com/item?id=48920537</a></p>\n<p>Points: 4</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 15 Jul 2026 13:26:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48920537"
+        "title": "Inkling: Our Open-Weights Model",
+        "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">https://thinkingmachines.ai/news/introducing-inkling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48924912\">https://news.ycombinator.com/item?id=48924912</a></p>\n<p>Points: 83</p>\n<p># Comments: 30</p>",
+        "pubDate": "Wed, 15 Jul 2026 18:12:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48924912"
       },
       {
-        "title": "Mysteries of Telegram Data Centers",
+        "title": "Artie (YC S23) Is Hiring Software Engineers",
+        "link": "https://jobs.ashbyhq.com/artie",
+        "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/artie\">https://jobs.ashbyhq.com/artie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923833\">https://news.ycombinator.com/item?id=48923833</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 15 Jul 2026 17:01:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923833"
+      },
+      {
+        "title": "A General Goal-Conditioned Minecraft Model",
+        "link": "https://pantograph.com/journal/pan-1",
+        "description": "<p>Article URL: <a href=\"https://pantograph.com/journal/pan-1\">https://pantograph.com/journal/pan-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923412\">https://news.ycombinator.com/item?id=48923412</a></p>\n<p>Points: 24</p>\n<p># Comments: 9</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:35:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923412"
+      },
+      {
+        "title": "Collection of Digital Clock Designs",
+        "link": "https://clocks.dev",
+        "description": "<p>Article URL: <a href=\"https://clocks.dev\">https://clocks.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923380\">https://news.ycombinator.com/item?id=48923380</a></p>\n<p>Points: 60</p>\n<p># Comments: 18</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:33:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923380"
+      },
+      {
+        "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+        "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+        "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free\">https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923363\">https://news.ycombinator.com/item?id=48923363</a></p>\n<p>Points: 62</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:32:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923363"
+      },
+      {
+        "title": "What designing 54 computer science cards taught me about graphic design",
+        "link": "https://fhoehl.com/designing-algodeck",
+        "description": "<p>Article URL: <a href=\"https://fhoehl.com/designing-algodeck\">https://fhoehl.com/designing-algodeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923209\">https://news.ycombinator.com/item?id=48923209</a></p>\n<p>Points: 24</p>\n<p># Comments: 10</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:22:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923209"
+      },
+      {
+        "title": "Open-source memory for coding agents, synced over SSH",
+        "link": "https://github.com/vshulcz/deja-vu/",
+        "description": "<p>Article URL: <a href=\"https://github.com/vshulcz/deja-vu/\">https://github.com/vshulcz/deja-vu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923111\">https://news.ycombinator.com/item?id=48923111</a></p>\n<p>Points: 64</p>\n<p># Comments: 16</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:15:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923111"
+      },
+      {
+        "title": "Unsolved Problems in MLOps",
+        "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+        "description": "<p>Article URL: <a href=\"https://spawn-queue.acm.org/doi/pdf/10.1145/3762989\">https://spawn-queue.acm.org/doi/pdf/10.1145/3762989</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923109\">https://news.ycombinator.com/item?id=48923109</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:15:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923109"
+      },
+      {
+        "title": "Codex Micro",
+        "link": "https://openai.com/supply/co-lab/work-louder/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/supply/co-lab/work-louder/\">https://openai.com/supply/co-lab/work-louder/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923079\">https://news.ycombinator.com/item?id=48923079</a></p>\n<p>Points: 169</p>\n<p># Comments: 141</p>",
+        "pubDate": "Wed, 15 Jul 2026 16:12:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48923079"
+      },
+      {
+        "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+        "link": "https://github.com/welcome-to-the-sunny-side/misa77",
+        "description": "<p>I've spent the last few months working on this codec.<p>It has the following characteristics:<p><pre><code>  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n</code></pre>\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format.<p>Results on the tarred Silesia corpus on Intel x86-64 follow:<p><pre><code>  codec       decode      ratio    encode\n  misa77 -0   5219 MB/s   42.64%   54.5 MB/s\n  misa77 -1   4274 MB/s   39.65%   51.2 MB/s\n  lz4         2505 MB/s   47.59%   371 MB/s\n  lz4hc -12   2531 MB/s   36.45%   7.31 MB/s</code></pre></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922838\">https://news.ycombinator.com/item?id=48922838</a></p>\n<p>Points: 78</p>\n<p># Comments: 29</p>",
+        "pubDate": "Wed, 15 Jul 2026 15:58:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48922838"
+      },
+      {
+        "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+        "link": "https://coasty.ai/docs",
+        "description": "<p>Hey HN, we’re Nitish and Prateek, the founders of Coasty (<a href=\"https://coasty.ai/computer-use\">https://coasty.ai/computer-use</a>). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.<p>Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then operates the interface through screenshots, mouse, and keyboard input, verifies the result, and returns a structured run record with screenshots, actions, outputs, and errors.<p>Here is a raw demo of an agent completing a workflow in a legacy application(It’s a mockup): <a href=\"https://drive.google.com/file/d/1ZghU_3vsAYhHVz1bsvE0pkvZYk7OUnb1/view?usp=sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1ZghU_3vsAYhHVz1bsvE0pkvZYk7...</a><p>A lot of important software is still difficult to automate. Healthcare teams submit prior authorizations through payer portals, accounting teams enter data into desktop applications, and operations teams move information between internal systems, spreadsheets, and remote desktops. Many of these applications have no API, incomplete APIs, or integrations that take months to build.<p>The usual alternative is RPA, record a sequence of clicks and replay it. That works when the interface and workflow are predictable, but it often breaks when a button moves, a pop-up appears, a page loads slowly, or the application enters an unexpected state.<p>Coasty takes a different approach. The agent observes the current screen, decides what action to take, executes it, and then observes the resulting state before continuing. It does not require DOM access, an accessibility tree, selectors, or an application-specific integration, so the same API can operate browsers, remote desktops, and older Windows applications.<p>A simplified request looks roughly like this:<p><pre><code>  run = coasty.runs.create(\n      environment=\"vm_123\",\n      task=\"\"\"\n      Open the patient record in the billing portal.\n      Enter the attached authorization data.\n      Do not submit if the member ID or procedure code does not match.\n      Return the confirmation number.\n      \"\"\",\n      files=[\"authorization.pdf\"],\n      approval_required=[\"final_submission\"]\n  )\n</code></pre>\nThe response includes the final status, extracted outputs, a replay URL, and a timestamped event log:<p><pre><code>  {\n    \"status\": \"completed\",\n    \"output\": {\n      \"confirmation_number\": \"PA-184392\"\n    },\n    \"replay_url\": \"...\",\n    \"events\": [\n      {\n        \"type\": \"verification\",\n        \"field\": \"member_id\",\n        \"result\": \"matched\"\n      }\n    ]\n  }\n</code></pre>\nThe API can also pause a run for human approval, retry from a checkpoint, or return control to the developer when it encounters a condition the workflow did not anticipate.<p>We started working on this last summer, because we saw that models were getting better at vision but kept seeing a gap between computer-use demos and the reliability needed for production workflows. Getting an agent to complete a task once is fairly straightforward. Getting it to repeat that task, recover from unexpected states, avoid silently entering incorrect data, and produce evidence of what it did is much harder.<p>We built several layers around the underlying computer-use model. The system tracks the expected state of the workflow, detects when the application has diverged from that state, and can re-plan instead of continuing blindly. Developers can define invariants such as “the patient name must match the source document” or “never submit without approval,” and the agent checks those conditions during the run.<p>Each run happens in an isolated virtual machine. We expose APIs for provisioning environments, uploading files, starting tasks, streaming events, inserting human approvals, and retrieving the full replay and audit trail. Environments can be kept alive across runs when the application has a long login flow or persistent local state.<p>One problem we are still working through is the tradeoff between speed and reliability. The agent can move faster by taking fewer observations and verification steps, but that becomes risky in workflows involving patient records, payments, or regulatory filings. We currently bias toward slower execution with more checks and let developers configure approval points and verification policies.<p>We are initially working with healthcare operations teams because their workflows combine many of the hardest conditions: payer portals, EHRs, PDFs, spreadsheets, remote desktops, and actions where quiet mistakes are expensive. We also expose the same infrastructure through the developer API for teams building their own agents and vertical automation products.<p>We currently charge based on agent runtime and workflow volume, with separate pricing for dedicated environments and enterprise deployments.<p>We’d especially appreciate feedback from people who have built and/or used browser agents, RPA systems, desktop automation, or agent infrastructure. We’re curious which parts of the API you would want direct control over, where you would prefer higher-level abstractions, and which failure modes have been hardest in your own automation systems.<p>If you've hit weird failure modes automating software like this, we want to hear about them. We'll be here all day answering questions and taking notes!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922706\">https://news.ycombinator.com/item?id=48922706</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 15 Jul 2026 15:51:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48922706"
+      },
+      {
+        "title": "When A.I. Is a Member of the Family",
+        "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
+        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family\">https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922487\">https://news.ycombinator.com/item?id=48922487</a></p>\n<p>Points: 42</p>\n<p># Comments: 47</p>",
+        "pubDate": "Wed, 15 Jul 2026 15:37:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48922487"
+      },
+      {
+        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "description": "<p>Article URL: <a href=\"https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\">https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922434\">https://news.ycombinator.com/item?id=48922434</a></p>\n<p>Points: 141</p>\n<p># Comments: 75</p>",
+        "pubDate": "Wed, 15 Jul 2026 15:34:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48922434"
+      },
+      {
+        "title": "OpenAI loses trademark dispute at EU court",
+        "link": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+        "description": "<p>Article URL: <a href=\"https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/\">https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921461\">https://news.ycombinator.com/item?id=48921461</a></p>\n<p>Points: 162</p>\n<p># Comments: 112</p>",
+        "pubDate": "Wed, 15 Jul 2026 14:32:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48921461"
+      },
+      {
+        "title": "My midlife crisis Corolla is fast, furious, and modded",
+        "link": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+        "description": "<p>Article URL: <a href=\"https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/\">https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921303\">https://news.ycombinator.com/item?id=48921303</a></p>\n<p>Points: 96</p>\n<p># Comments: 199</p>",
+        "pubDate": "Wed, 15 Jul 2026 14:23:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48921303"
+      },
+      {
+        "title": "The well-calibrated Bayesian [pdf] (1982)",
+        "link": "https://fitelson.org/seminar/dawid.pdf",
+        "description": "<p>Article URL: <a href=\"https://fitelson.org/seminar/dawid.pdf\">https://fitelson.org/seminar/dawid.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921121\">https://news.ycombinator.com/item?id=48921121</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
+        "pubDate": "Wed, 15 Jul 2026 14:11:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48921121"
+      },
+      {
+        "title": "Towards a Harness That Can Do Anything",
+        "link": "https://eardatasci.github.io/c/ambiance/index.html",
+        "description": "<p>Article URL: <a href=\"https://eardatasci.github.io/c/ambiance/index.html\">https://eardatasci.github.io/c/ambiance/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921077\">https://news.ycombinator.com/item?id=48921077</a></p>\n<p>Points: 110</p>\n<p># Comments: 60</p>",
+        "pubDate": "Wed, 15 Jul 2026 14:08:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48921077"
+      },
+      {
+        "title": "Mysteries of Telegram Data Centers (2022)",
         "link": "https://dev.moe/en/3025",
-        "description": "<p>Article URL: <a href=\"https://dev.moe/en/3025\">https://dev.moe/en/3025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920475\">https://news.ycombinator.com/item?id=48920475</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://dev.moe/en/3025\">https://dev.moe/en/3025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920475\">https://news.ycombinator.com/item?id=48920475</a></p>\n<p>Points: 188</p>\n<p># Comments: 68</p>",
         "pubDate": "Wed, 15 Jul 2026 13:22:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=48920475"
       },
       {
-        "title": "Privacy Incidents – Real-world examples of why your photos need protection",
-        "link": "https://snapsafe.org/incidents.html",
-        "description": "<p>Article URL: <a href=\"https://snapsafe.org/incidents.html\">https://snapsafe.org/incidents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920443\">https://news.ycombinator.com/item?id=48920443</a></p>\n<p>Points: 25</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 15 Jul 2026 13:19:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48920443"
-      },
-      {
         "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
         "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-        "description": "<p>Article URL: <a href=\"https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence\">https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920432\">https://news.ycombinator.com/item?id=48920432</a></p>\n<p>Points: 20</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence\">https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920432\">https://news.ycombinator.com/item?id=48920432</a></p>\n<p>Points: 136</p>\n<p># Comments: 174</p>",
         "pubDate": "Wed, 15 Jul 2026 13:18:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=48920432"
-      },
-      {
-        "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
-        "link": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541\">https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920181\">https://news.ycombinator.com/item?id=48920181</a></p>\n<p>Points: 83</p>\n<p># Comments: 20</p>",
-        "pubDate": "Wed, 15 Jul 2026 12:59:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48920181"
-      },
-      {
-        "title": "What `for x in y` hides from you – From Scratch Code",
-        "link": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
-        "description": "<p>Article URL: <a href=\"https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/\">https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920156\">https://news.ycombinator.com/item?id=48920156</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 15 Jul 2026 12:57:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48920156"
-      },
-      {
-        "title": "What's the most popular number in Hacker News titles?",
-        "link": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
-        "description": "<p>Article URL: <a href=\"https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/\">https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919967\">https://news.ycombinator.com/item?id=48919967</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 15 Jul 2026 12:40:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919967"
-      },
-      {
-        "title": "Germany maybe found a new source of renewable energy",
-        "link": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
-        "description": "<p>Article URL: <a href=\"https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany\">https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919874\">https://news.ycombinator.com/item?id=48919874</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 15 Jul 2026 12:34:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919874"
-      },
-      {
-        "title": "Briar Is in Maintenance Mode",
-        "link": "https://briarproject.org/news/2026-maintenance-mode/",
-        "description": "<p>Article URL: <a href=\"https://briarproject.org/news/2026-maintenance-mode/\">https://briarproject.org/news/2026-maintenance-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919869\">https://news.ycombinator.com/item?id=48919869</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 15 Jul 2026 12:33:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919869"
-      },
-      {
-        "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-        "link": "https://jiga.io/about-us/",
-        "description": "<p>Article URL: <a href=\"https://jiga.io/about-us/\">https://jiga.io/about-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919510\">https://news.ycombinator.com/item?id=48919510</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 15 Jul 2026 12:00:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919510"
-      },
-      {
-        "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-        "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-        "description": "<p>Article URL: <a href=\"https://academic.oup.com/sleep/article/47/1/zsad253/7280269\">https://academic.oup.com/sleep/article/47/1/zsad253/7280269</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919363\">https://news.ycombinator.com/item?id=48919363</a></p>\n<p>Points: 231</p>\n<p># Comments: 93</p>",
-        "pubDate": "Wed, 15 Jul 2026 11:46:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919363"
-      },
-      {
-        "title": "Prioritize mental health, and why communication is so important",
-        "link": "https://ramones.dev/posts/mental-health/",
-        "description": "<p>Article URL: <a href=\"https://ramones.dev/posts/mental-health/\">https://ramones.dev/posts/mental-health/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919198\">https://news.ycombinator.com/item?id=48919198</a></p>\n<p>Points: 72</p>\n<p># Comments: 54</p>",
-        "pubDate": "Wed, 15 Jul 2026 11:27:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919198"
-      },
-      {
-        "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
-        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
-        "description": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919191\">https://news.ycombinator.com/item?id=48919191</a></p>\n<p>Points: 29</p>\n<p># Comments: 36</p>",
-        "pubDate": "Wed, 15 Jul 2026 11:26:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919191"
-      },
-      {
-        "title": "Weathergotchi – an open-source climate Tamagotchi",
-        "link": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-        "description": "<p>Article URL: <a href=\"https://github.com/Michael-Manning/E-Paper-Climate-Logger\">https://github.com/Michael-Manning/E-Paper-Climate-Logger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919013\">https://news.ycombinator.com/item?id=48919013</a></p>\n<p>Points: 40</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 15 Jul 2026 11:02:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48919013"
-      },
-      {
-        "title": "Societal Impacts: Claude's values across models and languages",
-        "link": "https://www.anthropic.com/research/claude-values-models-languages",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-values-models-languages\">https://www.anthropic.com/research/claude-values-models-languages</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48918956\">https://news.ycombinator.com/item?id=48918956</a></p>\n<p>Points: 27</p>\n<p># Comments: 29</p>",
-        "pubDate": "Wed, 15 Jul 2026 10:56:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48918956"
-      },
-      {
-        "title": "DSLs Enable Reliable Use of LLMs",
-        "link": "https://martinfowler.com/articles/llm-and-dsls.html",
-        "description": "<p>Article URL: <a href=\"https://martinfowler.com/articles/llm-and-dsls.html\">https://martinfowler.com/articles/llm-and-dsls.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48918575\">https://news.ycombinator.com/item?id=48918575</a></p>\n<p>Points: 68</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 15 Jul 2026 10:11:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48918575"
-      },
-      {
-        "title": "Telegram Serverless",
-        "link": "https://core.telegram.org/bots/serverless",
-        "description": "<p>Article URL: <a href=\"https://core.telegram.org/bots/serverless\">https://core.telegram.org/bots/serverless</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48918534\">https://news.ycombinator.com/item?id=48918534</a></p>\n<p>Points: 65</p>\n<p># Comments: 43</p>",
-        "pubDate": "Wed, 15 Jul 2026 10:06:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48918534"
-      },
-      {
-        "title": "Using Go for Mobile Apps",
-        "link": "https://www.davidsobsessions.com/p/one-year-of-gomobile/",
-        "description": "<p>Article URL: <a href=\"https://www.davidsobsessions.com/p/one-year-of-gomobile/\">https://www.davidsobsessions.com/p/one-year-of-gomobile/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48918270\">https://news.ycombinator.com/item?id=48918270</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
-        "pubDate": "Wed, 15 Jul 2026 09:28:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48918270"
-      },
-      {
-        "title": "Who's running all those tiny RPKI servers?",
-        "link": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/\">https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48917055\">https://news.ycombinator.com/item?id=48917055</a></p>\n<p>Points: 58</p>\n<p># Comments: 8</p>",
-        "pubDate": "Wed, 15 Jul 2026 06:38:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48917055"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-15T14:01:20.629Z",
+  "lastUpdated": "2026-07-15T19:24:38.269Z",
   "stats": {
     "feeds": 2,
     "articles": 20
