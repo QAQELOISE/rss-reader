@@ -5,120 +5,127 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-16T03:26:18.306Z"
+      "lastFetched": "2026-07-16T08:26:23.056Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-16T03:26:28.075Z"
+      "lastFetched": "2026-07-16T08:26:23.270Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Netstrings (1997)",
+        "link": "https://cr.yp.to/proto/netstrings.txt",
+        "description": "<p>Article URL: <a href=\"https://cr.yp.to/proto/netstrings.txt\">https://cr.yp.to/proto/netstrings.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930713\">https://news.ycombinator.com/item?id=48930713</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 16 Jul 2026 05:33:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48930713"
+      },
+      {
+        "title": "The lost joy of music piracy",
+        "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+        "description": "<p>Article URL: <a href=\"https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming\">https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930454\">https://news.ycombinator.com/item?id=48930454</a></p>\n<p>Points: 219</p>\n<p># Comments: 105</p>",
+        "pubDate": "Thu, 16 Jul 2026 04:46:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48930454"
+      },
+      {
+        "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+        "link": "https://github.com/minh-ton/reynard-browser",
+        "description": "<p>Article URL: <a href=\"https://github.com/minh-ton/reynard-browser\">https://github.com/minh-ton/reynard-browser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930397\">https://news.ycombinator.com/item?id=48930397</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 16 Jul 2026 04:36:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48930397"
+      },
+      {
+        "title": "If you want to create a button from scratch, you must first create the universe",
+        "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+        "description": "<p>Article URL: <a href=\"https://madcampos.dev/blog/2026/07/accessibility-from-scratch/\">https://madcampos.dev/blog/2026/07/accessibility-from-scratch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930136\">https://news.ycombinator.com/item?id=48930136</a></p>\n<p>Points: 89</p>\n<p># Comments: 40</p>",
+        "pubDate": "Thu, 16 Jul 2026 03:48:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48930136"
+      },
+      {
+        "title": "Making 768 servers look like 1",
+        "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
+        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/making-768-servers-look-like-1\">https://planetscale.com/blog/making-768-servers-look-like-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930075\">https://news.ycombinator.com/item?id=48930075</a></p>\n<p>Points: 68</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 16 Jul 2026 03:36:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48930075"
+      },
+      {
+        "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+        "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+        "description": "<p>Article URL: <a href=\"https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html\">https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929945\">https://news.ycombinator.com/item?id=48929945</a></p>\n<p>Points: 69</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 16 Jul 2026 03:12:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48929945"
+      },
+      {
+        "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+        "link": "https://arxiv.org/abs/2607.11859",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11859\">https://arxiv.org/abs/2607.11859</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929660\">https://news.ycombinator.com/item?id=48929660</a></p>\n<p>Points: 44</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 16 Jul 2026 02:17:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48929660"
+      },
+      {
+        "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+        "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+        "description": "<p>Article URL: <a href=\"https://pmbanugo.me/blog/why-async-await-complect-concurrency\">https://pmbanugo.me/blog/why-async-await-complect-concurrency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929587\">https://news.ycombinator.com/item?id=48929587</a></p>\n<p>Points: 54</p>\n<p># Comments: 35</p>",
+        "pubDate": "Thu, 16 Jul 2026 02:06:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48929587"
+      },
+      {
         "title": "Bluesky Trademarks ATProto",
         "link": "https://atproto.com/blog/at-protocol-trademark",
-        "description": "<p>Article URL: <a href=\"https://atproto.com/blog/at-protocol-trademark\">https://atproto.com/blog/at-protocol-trademark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929351\">https://news.ycombinator.com/item?id=48929351</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://atproto.com/blog/at-protocol-trademark\">https://atproto.com/blog/at-protocol-trademark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929351\">https://news.ycombinator.com/item?id=48929351</a></p>\n<p>Points: 88</p>\n<p># Comments: 34</p>",
         "pubDate": "Thu, 16 Jul 2026 01:21:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=48929351"
       },
       {
-        "title": "Show HN: One More Letter",
-        "link": "https://playonemoreletter.com/",
-        "description": "<p>Article URL: <a href=\"https://playonemoreletter.com/\">https://playonemoreletter.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928402\">https://news.ycombinator.com/item?id=48928402</a></p>\n<p>Points: 52</p>\n<p># Comments: 31</p>",
-        "pubDate": "Wed, 15 Jul 2026 23:10:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48928402"
-      },
-      {
-        "title": "Nul Characters in Strings in SQLite",
-        "link": "https://sqlite.org/nulinstr.html",
-        "description": "<p>Article URL: <a href=\"https://sqlite.org/nulinstr.html\">https://sqlite.org/nulinstr.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928343\">https://news.ycombinator.com/item?id=48928343</a></p>\n<p>Points: 35</p>\n<p># Comments: 10</p>",
-        "pubDate": "Wed, 15 Jul 2026 23:03:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48928343"
-      },
-      {
         "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
         "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-        "description": "<p>Article URL: <a href=\"https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\">https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928313\">https://news.ycombinator.com/item?id=48928313</a></p>\n<p>Points: 43</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\">https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928313\">https://news.ycombinator.com/item?id=48928313</a></p>\n<p>Points: 52</p>\n<p># Comments: 12</p>",
         "pubDate": "Wed, 15 Jul 2026 23:00:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=48928313"
       },
       {
-        "title": "The Anti-Mac User Interface (1996)",
-        "link": "https://www.nngroup.com/articles/anti-mac-interface/",
-        "description": "<p>Article URL: <a href=\"https://www.nngroup.com/articles/anti-mac-interface/\">https://www.nngroup.com/articles/anti-mac-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928234\">https://news.ycombinator.com/item?id=48928234</a></p>\n<p>Points: 60</p>\n<p># Comments: 20</p>",
-        "pubDate": "Wed, 15 Jul 2026 22:52:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48928234"
-      },
-      {
         "title": "SQLite should have (Rust-style) editions",
         "link": "https://mort.coffee/home/sqlite-editions/",
-        "description": "<p>Article URL: <a href=\"https://mort.coffee/home/sqlite-editions/\">https://mort.coffee/home/sqlite-editions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928135\">https://news.ycombinator.com/item?id=48928135</a></p>\n<p>Points: 141</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://mort.coffee/home/sqlite-editions/\">https://mort.coffee/home/sqlite-editions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928135\">https://news.ycombinator.com/item?id=48928135</a></p>\n<p>Points: 245</p>\n<p># Comments: 94</p>",
         "pubDate": "Wed, 15 Jul 2026 22:42:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=48928135"
       },
       {
         "title": "LLM Networking with MikroTik",
         "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-        "description": "<p>Article URL: <a href=\"https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\">https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927915\">https://news.ycombinator.com/item?id=48927915</a></p>\n<p>Points: 59</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\">https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927915\">https://news.ycombinator.com/item?id=48927915</a></p>\n<p>Points: 84</p>\n<p># Comments: 38</p>",
         "pubDate": "Wed, 15 Jul 2026 22:23:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=48927915"
       },
       {
-        "title": "P2P local file transfer based on WebRTC",
-        "link": "https://pairdrop.net/",
-        "description": "<p>Article URL: <a href=\"https://pairdrop.net/\">https://pairdrop.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927900\">https://news.ycombinator.com/item?id=48927900</a></p>\n<p>Points: 38</p>\n<p># Comments: 16</p>",
-        "pubDate": "Wed, 15 Jul 2026 22:22:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48927900"
-      },
-      {
         "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
         "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\">https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927095\">https://news.ycombinator.com/item?id=48927095</a></p>\n<p>Points: 101</p>\n<p># Comments: 45</p>",
+        "description": "<p>Article URL: <a href=\"https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\">https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927095\">https://news.ycombinator.com/item?id=48927095</a></p>\n<p>Points: 174</p>\n<p># Comments: 62</p>",
         "pubDate": "Wed, 15 Jul 2026 21:16:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=48927095"
       },
       {
-        "title": "Show HN: Firefox in WebAssembly",
-        "link": "https://developer.puter.com/labs/firefox-wasm/",
-        "description": "<p>This is the entire Firefox browser rendering to a <canvas> element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.<p>Here are a few things you might find interesting:<p>- This is fully end to end encrypted! We use the WISP protocol for TCP-over-websockets.<p>- There is a novel WASM->JS JIT for experimental site speedup<p>- This port cost over 25k in opus/fable tokens for debugging and JIT research<p>This was just a fun experiment to push the boundaries of WebAssembly. For a more usable \"browser in browser\" experience, we also built <a href=\"https://github.com/HeyPuter/browser.js\" rel=\"nofollow\">https://github.com/HeyPuter/browser.js</a> that eats a bit less RAM.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926939\">https://news.ycombinator.com/item?id=48926939</a></p>\n<p>Points: 146</p>\n<p># Comments: 86</p>",
-        "pubDate": "Wed, 15 Jul 2026 21:00:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48926939"
-      },
-      {
         "title": "Grok Build is open source",
         "link": "https://github.com/xai-org/grok-build",
-        "description": "<p>Article URL: <a href=\"https://github.com/xai-org/grok-build\">https://github.com/xai-org/grok-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926590\">https://news.ycombinator.com/item?id=48926590</a></p>\n<p>Points: 300</p>\n<p># Comments: 346</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/xai-org/grok-build\">https://github.com/xai-org/grok-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926590\">https://news.ycombinator.com/item?id=48926590</a></p>\n<p>Points: 421</p>\n<p># Comments: 437</p>",
         "pubDate": "Wed, 15 Jul 2026 20:24:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=48926590"
       },
       {
-        "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-        "link": "https://brainless.swerdlow.dev",
-        "description": "<p>Article URL: <a href=\"https://brainless.swerdlow.dev\">https://brainless.swerdlow.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926085\">https://news.ycombinator.com/item?id=48926085</a></p>\n<p>Points: 103</p>\n<p># Comments: 21</p>",
-        "pubDate": "Wed, 15 Jul 2026 19:42:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48926085"
-      },
-      {
-        "title": "Voxatron",
-        "link": "https://www.lexaloffle.com/voxatron.php",
-        "description": "<p>Article URL: <a href=\"https://www.lexaloffle.com/voxatron.php\">https://www.lexaloffle.com/voxatron.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926053\">https://news.ycombinator.com/item?id=48926053</a></p>\n<p>Points: 70</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 15 Jul 2026 19:40:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48926053"
-      },
-      {
         "title": "Duskers, the scary command line game, is getting a sequel",
         "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-        "description": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\">https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925888\">https://news.ycombinator.com/item?id=48925888</a></p>\n<p>Points: 99</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\">https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925888\">https://news.ycombinator.com/item?id=48925888</a></p>\n<p>Points: 124</p>\n<p># Comments: 39</p>",
         "pubDate": "Wed, 15 Jul 2026 19:27:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=48925888"
       },
       {
         "title": "Inkling: Our Open-Weights Model",
         "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">https://thinkingmachines.ai/news/introducing-inkling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48924912\">https://news.ycombinator.com/item?id=48924912</a></p>\n<p>Points: 750</p>\n<p># Comments: 188</p>",
+        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">https://thinkingmachines.ai/news/introducing-inkling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48924912\">https://news.ycombinator.com/item?id=48924912</a></p>\n<p>Points: 931</p>\n<p># Comments: 228</p>",
         "pubDate": "Wed, 15 Jul 2026 18:12:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=48924912"
       },
@@ -132,35 +139,28 @@
       {
         "title": "Collection of Digital Clock Designs",
         "link": "https://clocks.dev",
-        "description": "<p>Article URL: <a href=\"https://clocks.dev\">https://clocks.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923380\">https://news.ycombinator.com/item?id=48923380</a></p>\n<p>Points: 189</p>\n<p># Comments: 36</p>",
+        "description": "<p>Article URL: <a href=\"https://clocks.dev\">https://clocks.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923380\">https://news.ycombinator.com/item?id=48923380</a></p>\n<p>Points: 233</p>\n<p># Comments: 42</p>",
         "pubDate": "Wed, 15 Jul 2026 16:33:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=48923380"
       },
       {
-        "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-        "link": "https://github.com/welcome-to-the-sunny-side/misa77",
-        "description": "<p>I've spent the last few months working on this codec.<p>It has the following characteristics:<p><pre><code>  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n</code></pre>\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format.<p>Results on the tarred Silesia corpus on Intel x86-64 follow:<p><pre><code>  codec       decode      ratio    encode\n  misa77 -0   5219 MB/s   42.64%   54.5 MB/s\n  misa77 -1   4274 MB/s   39.65%   51.2 MB/s\n  lz4         2505 MB/s   47.59%   371 MB/s\n  lz4hc -12   2531 MB/s   36.45%   7.31 MB/s</code></pre></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922838\">https://news.ycombinator.com/item?id=48922838</a></p>\n<p>Points: 134</p>\n<p># Comments: 40</p>",
-        "pubDate": "Wed, 15 Jul 2026 15:58:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48922838"
+        "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+        "link": "https://coasty.ai/docs",
+        "description": "<p>Hey HN, we’re Nitish and Prateek, the founders of Coasty (<a href=\"https://coasty.ai/computer-use\">https://coasty.ai/computer-use</a>). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.<p>Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then operates the interface through screenshots, mouse, and keyboard input, verifies the result, and returns a structured run record with screenshots, actions, outputs, and errors.<p>Here is a raw demo of an agent completing a workflow in a legacy application(It’s a mockup): <a href=\"https://drive.google.com/file/d/1ZghU_3vsAYhHVz1bsvE0pkvZYk7OUnb1/view?usp=sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1ZghU_3vsAYhHVz1bsvE0pkvZYk7...</a><p>A lot of important software is still difficult to automate. Healthcare teams submit prior authorizations through payer portals, accounting teams enter data into desktop applications, and operations teams move information between internal systems, spreadsheets, and remote desktops. Many of these applications have no API, incomplete APIs, or integrations that take months to build.<p>The usual alternative is RPA, record a sequence of clicks and replay it. That works when the interface and workflow are predictable, but it often breaks when a button moves, a pop-up appears, a page loads slowly, or the application enters an unexpected state.<p>Coasty takes a different approach. The agent observes the current screen, decides what action to take, executes it, and then observes the resulting state before continuing. It does not require DOM access, an accessibility tree, selectors, or an application-specific integration, so the same API can operate browsers, remote desktops, and older Windows applications.<p>A simplified request looks roughly like this:<p><pre><code>  run = coasty.runs.create(\n      environment=\"vm_123\",\n      task=\"\"\"\n      Open the patient record in the billing portal.\n      Enter the attached authorization data.\n      Do not submit if the member ID or procedure code does not match.\n      Return the confirmation number.\n      \"\"\",\n      files=[\"authorization.pdf\"],\n      approval_required=[\"final_submission\"]\n  )\n</code></pre>\nThe response includes the final status, extracted outputs, a replay URL, and a timestamped event log:<p><pre><code>  {\n    \"status\": \"completed\",\n    \"output\": {\n      \"confirmation_number\": \"PA-184392\"\n    },\n    \"replay_url\": \"...\",\n    \"events\": [\n      {\n        \"type\": \"verification\",\n        \"field\": \"member_id\",\n        \"result\": \"matched\"\n      }\n    ]\n  }\n</code></pre>\nThe API can also pause a run for human approval, retry from a checkpoint, or return control to the developer when it encounters a condition the workflow did not anticipate.<p>We started working on this last summer, because we saw that models were getting better at vision but kept seeing a gap between computer-use demos and the reliability needed for production workflows. Getting an agent to complete a task once is fairly straightforward. Getting it to repeat that task, recover from unexpected states, avoid silently entering incorrect data, and produce evidence of what it did is much harder.<p>We built several layers around the underlying computer-use model. The system tracks the expected state of the workflow, detects when the application has diverged from that state, and can re-plan instead of continuing blindly. Developers can define invariants such as “the patient name must match the source document” or “never submit without approval,” and the agent checks those conditions during the run.<p>Each run happens in an isolated virtual machine. We expose APIs for provisioning environments, uploading files, starting tasks, streaming events, inserting human approvals, and retrieving the full replay and audit trail. Environments can be kept alive across runs when the application has a long login flow or persistent local state.<p>One problem we are still working through is the tradeoff between speed and reliability. The agent can move faster by taking fewer observations and verification steps, but that becomes risky in workflows involving patient records, payments, or regulatory filings. We currently bias toward slower execution with more checks and let developers configure approval points and verification policies.<p>We are initially working with healthcare operations teams because their workflows combine many of the hardest conditions: payer portals, EHRs, PDFs, spreadsheets, remote desktops, and actions where quiet mistakes are expensive. We also expose the same infrastructure through the developer API for teams building their own agents and vertical automation products.<p>We currently charge based on agent runtime and workflow volume, with separate pricing for dedicated environments and enterprise deployments.<p>We’d especially appreciate feedback from people who have built and/or used browser agents, RPA systems, desktop automation, or agent infrastructure. We’re curious which parts of the API you would want direct control over, where you would prefer higher-level abstractions, and which failure modes have been hardest in your own automation systems.<p>If you've hit weird failure modes automating software like this, we want to hear about them. We'll be here all day answering questions and taking notes!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922706\">https://news.ycombinator.com/item?id=48922706</a></p>\n<p>Points: 34</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 15 Jul 2026 15:51:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48922706"
       },
       {
         "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
         "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-        "description": "<p>Article URL: <a href=\"https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\">https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922434\">https://news.ycombinator.com/item?id=48922434</a></p>\n<p>Points: 245</p>\n<p># Comments: 159</p>",
+        "description": "<p>Article URL: <a href=\"https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\">https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922434\">https://news.ycombinator.com/item?id=48922434</a></p>\n<p>Points: 277</p>\n<p># Comments: 180</p>",
         "pubDate": "Wed, 15 Jul 2026 15:34:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=48922434"
-      },
-      {
-        "title": "Towards a harness that can do anything",
-        "link": "https://eardatasci.github.io/c/ambiance/index.html",
-        "description": "<p>Article URL: <a href=\"https://eardatasci.github.io/c/ambiance/index.html\">https://eardatasci.github.io/c/ambiance/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921077\">https://news.ycombinator.com/item?id=48921077</a></p>\n<p>Points: 179</p>\n<p># Comments: 92</p>",
-        "pubDate": "Wed, 15 Jul 2026 14:08:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48921077"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-16T03:26:28.075Z",
+  "lastUpdated": "2026-07-16T08:26:23.271Z",
   "stats": {
     "feeds": 2,
     "articles": 20
