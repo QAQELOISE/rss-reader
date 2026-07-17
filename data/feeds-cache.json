@@ -5,31 +5,108 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-16T19:23:59.905Z"
+      "lastFetched": "2026-07-17T03:28:32.801Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-16T19:24:07.081Z"
+      "lastFetched": "2026-07-17T03:28:52.893Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-        "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-        "description": "<p>Article URL: <a href=\"https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/\">https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937756\">https://news.ycombinator.com/item?id=48937756</a></p>\n<p>Points: 32</p>\n<p># Comments: 2</p>",
-        "pubDate": "Thu, 16 Jul 2026 17:44:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48937756"
+        "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+        "description": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48942125\">https://news.ycombinator.com/item?id=48942125</a></p>\n<p>Points: 42</p>\n<p># Comments: 12</p>",
+        "pubDate": "Fri, 17 Jul 2026 00:45:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48942125"
       },
       {
-        "title": "42% of adults rely on their parents for financial support",
-        "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html\">https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937288\">https://news.ycombinator.com/item?id=48937288</a></p>\n<p>Points: 80</p>\n<p># Comments: 77</p>",
-        "pubDate": "Thu, 16 Jul 2026 17:11:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48937288"
+        "title": "The Human-in-the-Loop Is Tired",
+        "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+        "description": "<p>Article URL: <a href=\"https://pydantic.dev/articles/the-human-in-the-loop-is-tired\">https://pydantic.dev/articles/the-human-in-the-loop-is-tired</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48942000\">https://news.ycombinator.com/item?id=48942000</a></p>\n<p>Points: 37</p>\n<p># Comments: 27</p>",
+        "pubDate": "Fri, 17 Jul 2026 00:21:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48942000"
+      },
+      {
+        "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+        "link": "https://github.com/Robbyant/lingbot-map",
+        "description": "<p>Article URL: <a href=\"https://github.com/Robbyant/lingbot-map\">https://github.com/Robbyant/lingbot-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941908\">https://news.ycombinator.com/item?id=48941908</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 17 Jul 2026 00:07:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48941908"
+      },
+      {
+        "title": "Show HN: Mojibake – A low-level Unicode library written in C",
+        "link": "https://mojibake.zaerl.com/",
+        "description": "<p>I've written Mojibake because I don't like the other Unicode libraries for Unicode support.<p>It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case conversion, segmentation, bidirectional text, collation, confusable, and others.<p>I regularly test it in these OSes: Linux, macOS, FreeBSD, OpenBSD, NetBSD, and Windows 11.<p>You can find a WASM demo on that site of all the public API functions and the documentation. If you want to participate, feel free to do it. Any kind of help is welcome. Check the CONTRIBUTING.md and API.md files in the GitHub repository for instructions on how to do it.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941123\">https://news.ycombinator.com/item?id=48941123</a></p>\n<p>Points: 43</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 16 Jul 2026 22:29:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48941123"
+      },
+      {
+        "title": "The Little Book of Reinforcement Learning",
+        "link": "https://github.com/alxndrTL/little-book-rl/",
+        "description": "<p>Article URL: <a href=\"https://github.com/alxndrTL/little-book-rl/\">https://github.com/alxndrTL/little-book-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941104\">https://news.ycombinator.com/item?id=48941104</a></p>\n<p>Points: 66</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 16 Jul 2026 22:27:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48941104"
+      },
+      {
+        "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+        "link": "https://hellorecon.com/blog/cve-2026-25089",
+        "description": "<p>Article URL: <a href=\"https://hellorecon.com/blog/cve-2026-25089\">https://hellorecon.com/blog/cve-2026-25089</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940895\">https://news.ycombinator.com/item?id=48940895</a></p>\n<p>Points: 28</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 16 Jul 2026 22:07:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48940895"
+      },
+      {
+        "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+        "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+        "description": "<p>Article URL: <a href=\"https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin\">https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940833\">https://news.ycombinator.com/item?id=48940833</a></p>\n<p>Points: 54</p>\n<p># Comments: 8</p>",
+        "pubDate": "Thu, 16 Jul 2026 22:00:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48940833"
+      },
+      {
+        "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+        "link": "https://arxiv.org/abs/2607.12395",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.12395\">https://arxiv.org/abs/2607.12395</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940603\">https://news.ycombinator.com/item?id=48940603</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
+        "pubDate": "Thu, 16 Jul 2026 21:38:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48940603"
+      },
+      {
+        "title": "Mathematics of Data Science",
+        "link": "https://arxiv.org/abs/2607.11938",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11938\">https://arxiv.org/abs/2607.11938</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939896\">https://news.ycombinator.com/item?id=48939896</a></p>\n<p>Points: 111</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 16 Jul 2026 20:38:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48939896"
+      },
+      {
+        "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+        "link": "https://www.science.org/doi/10.1126/science.aea9708",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.aea9708\">https://www.science.org/doi/10.1126/science.aea9708</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939742\">https://news.ycombinator.com/item?id=48939742</a></p>\n<p>Points: 77</p>\n<p># Comments: 17</p>",
+        "pubDate": "Thu, 16 Jul 2026 20:24:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48939742"
+      },
+      {
+        "title": "LM Studio Bionic: the AI agent for open models",
+        "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "description": "<p>Article URL: <a href=\"https://lmstudio.ai/blog/introducing-lm-studio-bionic\">https://lmstudio.ai/blog/introducing-lm-studio-bionic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939662\">https://news.ycombinator.com/item?id=48939662</a></p>\n<p>Points: 176</p>\n<p># Comments: 67</p>",
+        "pubDate": "Thu, 16 Jul 2026 20:18:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48939662"
+      },
+      {
+        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+        "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\">https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939524\">https://news.ycombinator.com/item?id=48939524</a></p>\n<p>Points: 160</p>\n<p># Comments: 170</p>",
+        "pubDate": "Thu, 16 Jul 2026 20:03:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48939524"
+      },
+      {
+        "title": "CD sales growth outpaced vinyl in the first half of 2026",
+        "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+        "description": "<p>Article URL: <a href=\"https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/\">https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937398\">https://news.ycombinator.com/item?id=48937398</a></p>\n<p>Points: 71</p>\n<p># Comments: 83</p>",
+        "pubDate": "Thu, 16 Jul 2026 17:19:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48937398"
       },
       {
         "title": "Adaptional (YC S25) Is Hiring",
@@ -41,126 +118,49 @@
       {
         "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
         "link": "https://news.ycombinator.com/item?id=48937020",
-        "description": "<p>Hey HN, we’re Xia and Varun, the founders of Traceforce (<a href=\"https://www.traceforce.ai/\" rel=\"nofollow\">https://www.traceforce.ai/</a>). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool <a href=\"https://github.com/traceforce/mcp-xray\" rel=\"nofollow\">https://github.com/traceforce/mcp-xray</a> to detect vulnerable MCPs.<p>The purpose of Traceforce is to:<p>- Give a company’s employees a standardized way to ensure that AI software running on their device is operating safely<p>- Give the company’s security team visibility of the activities of AI software on the company’s devices, and to detect and prevent unsafe actions and security breaches as early as possible.<p>How Traceforce works<p>1. Traceforce is installed on each device as a lightweight binary and browser extension.<p>2. Within 30 minutes, the device is uploading live data to the company profile, displaying all the AI agents/apps running across all company devices on a dashboard.<p>3. Company security staff can monitor the activity of all the agents in real time, implement controls, and be alerted to any security risks as soon as they arise.<p>Here’s the video demo: <a href=\"https://youtu.be/IdK2WKg7kaM\" rel=\"nofollow\">https://youtu.be/IdK2WKg7kaM</a><p>The inspiration for Traceforce came via Xia’s experience as Director of Engineering at a startup called Clumio (which was acquired by Commvault in Oct 2024). Being able to monitor how team members are using AI without slowing them down was a top priority at Clumio. After speaking with 50+ CISOs and CIOs, it became clear that this is a much-needed solution right now across industries. We keep hearing that new AI features are being adopted so quickly and so broadly that visibility and control just can't keep up.<p>Traceforce is transparent about what we monitor and collect. By default, Traceforce collects only metadata and telemetry about the AI applications, MCPs, and tools running on a device. Security teams can enable options to inspect tool calls for the purpose of detecting, warning on, or blocking predefined high-risk or potentially destructive actions. All content inspection happens locally on the device. User prompts are never stored unless explicitly configured by the organization's security administrators.<p>We work closely with end-users of the product, and once they understand what is being monitored/shared, they actually have great comfort that they have a powerful layer of protection on their device to prevent security incidents. It enables them to just focus on their work without worrying about what leaks and breaches may be happening under the hood without their awareness.<p>The Traceforce binary is built using Go and the browser extension is written in Node JS. The hardest part is building a complete connectivity graph between AI applications, MCPs, and tools, then identifying the vulnerabilities and attack paths introduced by those connections. Traditional security tools fall short: EDRs see processes, CASBs see network traffic, but neither has visibility into the application-level activity happening inside AI apps. The way we got it to work was by understanding the configurations and logs of each and every app. It’s a labor intensive process because every app is different and AI features change frequently.<p>Traceforce is currently deployed across more than 1,000 devices at 10 organizations. On average, we discover over 15 AI applications per device with each application connected to 5-10 MCPs. We've helped customers identify exposed plaintext secrets in MCP configurations, prevent API keys from leaking through AI-generated code, and warn developers before executing potentially destructive commands such as “DROP TABLE”. Our \"warn and acknowledge\" approach has been especially well received, giving developers the freedom to work while helping them avoid costly mistakes.<p>We're looking to work with security, IT, and AI platform teams at small to medium enterprises (200+ employees) that are rapidly adopting AI coding assistants, ChatGPT, Claude, and MCPs. If you're struggling to understand what AI tools people use to boost their productivity or need a practical way to reduce AI-related security risk without slowing folks down, we'd love to talk.<p>You can get started with a free trial at <a href=\"https://www.traceforce.ai\" rel=\"nofollow\">https://www.traceforce.ai</a> or reach out directly to schedule a demo and discuss your environment.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937020\">https://news.ycombinator.com/item?id=48937020</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+        "description": "<p>Hey HN, we’re Xia and Varun, the founders of Traceforce (<a href=\"https://www.traceforce.ai/\" rel=\"nofollow\">https://www.traceforce.ai/</a>). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool <a href=\"https://github.com/traceforce/mcp-xray\" rel=\"nofollow\">https://github.com/traceforce/mcp-xray</a> to detect vulnerable MCPs.<p>The purpose of Traceforce is to:<p>- Give a company’s employees a standardized way to ensure that AI software running on their device is operating safely<p>- Give the company’s security team visibility of the activities of AI software on the company’s devices, and to detect and prevent unsafe actions and security breaches as early as possible.<p>How Traceforce works<p>1. Traceforce is installed on each device as a lightweight binary and browser extension.<p>2. Within 30 minutes, the device is uploading live data to the company profile, displaying all the AI agents/apps running across all company devices on a dashboard.<p>3. Company security staff can monitor the activity of all the agents in real time, implement controls, and be alerted to any security risks as soon as they arise.<p>Here’s the video demo: <a href=\"https://youtube.com/watch?v=IdK2WKg7kaM\" rel=\"nofollow\">https://youtube.com/watch?v=IdK2WKg7kaM</a><p>The inspiration for Traceforce came via Xia’s experience as Director of Engineering at a startup called Clumio (which was acquired by Commvault in Oct 2024). Being able to monitor how team members are using AI without slowing them down was a top priority at Clumio. After speaking with 50+ CISOs and CIOs, it became clear that this is a much-needed solution right now across industries. We keep hearing that new AI features are being adopted so quickly and so broadly that visibility and control just can't keep up.<p>Traceforce is transparent about what we monitor and collect. By default, Traceforce collects only metadata and telemetry about the AI applications, MCPs, and tools running on a device. Security teams can enable options to inspect tool calls for the purpose of detecting, warning on, or blocking predefined high-risk or potentially destructive actions. All content inspection happens locally on the device. User prompts are never stored unless explicitly configured by the organization's security administrators.<p>We work closely with end-users of the product, and once they understand what is being monitored/shared, they actually have great comfort that they have a powerful layer of protection on their device to prevent security incidents. It enables them to just focus on their work without worrying about what leaks and breaches may be happening under the hood without their awareness.<p>The Traceforce binary is built using Go and the browser extension is written in Node JS. The hardest part is building a complete connectivity graph between AI applications, MCPs, and tools, then identifying the vulnerabilities and attack paths introduced by those connections. Traditional security tools fall short: EDRs see processes, CASBs see network traffic, but neither has visibility into the application-level activity happening inside AI apps. The way we got it to work was by understanding the configurations and logs of each and every app. It’s a labor intensive process because every app is different and AI features change frequently.<p>Traceforce is currently deployed across more than 1,000 devices at 10 organizations. On average, we discover over 15 AI applications per device with each application connected to 5-10 MCPs. We've helped customers identify exposed plaintext secrets in MCP configurations, prevent API keys from leaking through AI-generated code, and warn developers before executing potentially destructive commands such as “DROP TABLE”. Our \"warn and acknowledge\" approach has been especially well received, giving developers the freedom to work while helping them avoid costly mistakes.<p>We're looking to work with security, IT, and AI platform teams at small to medium enterprises (200+ employees) that are rapidly adopting AI coding assistants, ChatGPT, Claude, and MCPs. If you're struggling to understand what AI tools people use to boost their productivity or need a practical way to reduce AI-related security risk without slowing folks down, we'd love to talk.<p>You can get started with a free trial at <a href=\"https://www.traceforce.ai\" rel=\"nofollow\">https://www.traceforce.ai</a> or reach out directly to schedule a demo and discuss your environment.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937020\">https://news.ycombinator.com/item?id=48937020</a></p>\n<p>Points: 38</p>\n<p># Comments: 18</p>",
         "pubDate": "Thu, 16 Jul 2026 16:52:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=48937020"
       },
       {
         "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
         "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-        "description": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/llm-classifier/\">https://blog.lyc8503.net/en/post/llm-classifier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936880\">https://news.ycombinator.com/item?id=48936880</a></p>\n<p>Points: 76</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/llm-classifier/\">https://blog.lyc8503.net/en/post/llm-classifier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936880\">https://news.ycombinator.com/item?id=48936880</a></p>\n<p>Points: 163</p>\n<p># Comments: 112</p>",
         "pubDate": "Thu, 16 Jul 2026 16:41:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=48936880"
       },
       {
-        "title": "Show HN: Galois connections for composable numeric casts in Rust",
-        "link": "https://github.com/cmk/connections",
-        "description": "<p>Article URL: <a href=\"https://github.com/cmk/connections\">https://github.com/cmk/connections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936803\">https://news.ycombinator.com/item?id=48936803</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-        "pubDate": "Thu, 16 Jul 2026 16:36:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48936803"
-      },
-      {
-        "title": "56,000 lines of DOOM, in a language I made up",
-        "link": "https://betlang.dev/about/",
-        "description": "<p>Article URL: <a href=\"https://betlang.dev/about/\">https://betlang.dev/about/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936657\">https://news.ycombinator.com/item?id=48936657</a></p>\n<p>Points: 25</p>\n<p># Comments: 17</p>",
-        "pubDate": "Thu, 16 Jul 2026 16:24:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48936657"
-      },
-      {
         "title": "Decoy Font",
         "link": "https://www.mixfont.com/experiments/decoy-font",
-        "description": "<p>Article URL: <a href=\"https://www.mixfont.com/experiments/decoy-font\">https://www.mixfont.com/experiments/decoy-font</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936584\">https://news.ycombinator.com/item?id=48936584</a></p>\n<p>Points: 154</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.mixfont.com/experiments/decoy-font\">https://www.mixfont.com/experiments/decoy-font</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936584\">https://news.ycombinator.com/item?id=48936584</a></p>\n<p>Points: 433</p>\n<p># Comments: 105</p>",
         "pubDate": "Thu, 16 Jul 2026 16:18:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=48936584"
       },
       {
-        "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
-        "link": "https://news.ycombinator.com/item?id=48936554",
-        "description": "<p>I ported modern Linux to a ten-year-old HTC QWERTY phone as a handheld terminal.<p>I wrote it up here: <a href=\"https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-year-old-qwerty-phone/\" rel=\"nofollow\">https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-...</a><p>You can see the code here:\n<a href=\"https://github.com/tmzt/linux-stable-msm-dtsi\" rel=\"nofollow\">https://github.com/tmzt/linux-stable-msm-dtsi</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936554\">https://news.ycombinator.com/item?id=48936554</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
-        "pubDate": "Thu, 16 Jul 2026 16:15:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48936554"
-      },
-      {
-        "title": "Agent-talk: Enabling coding agents to work together",
-        "link": "https://github.com/xhluca/agent-talk",
-        "description": "<p>Article URL: <a href=\"https://github.com/xhluca/agent-talk\">https://github.com/xhluca/agent-talk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936534\">https://news.ycombinator.com/item?id=48936534</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
-        "pubDate": "Thu, 16 Jul 2026 16:14:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48936534"
-      },
-      {
         "title": "NotebookLM is now Gemini Notebook",
         "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\">https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936451\">https://news.ycombinator.com/item?id=48936451</a></p>\n<p>Points: 92</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\">https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936451\">https://news.ycombinator.com/item?id=48936451</a></p>\n<p>Points: 261</p>\n<p># Comments: 131</p>",
         "pubDate": "Thu, 16 Jul 2026 16:08:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=48936451"
       },
       {
         "title": "Microsoft Comic Chat is now open source",
         "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-        "description": "<p>Article URL: <a href=\"https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/\">https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936426\">https://news.ycombinator.com/item?id=48936426</a></p>\n<p>Points: 246</p>\n<p># Comments: 68</p>",
+        "description": "<p>Article URL: <a href=\"https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/\">https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936426\">https://news.ycombinator.com/item?id=48936426</a></p>\n<p>Points: 573</p>\n<p># Comments: 124</p>",
         "pubDate": "Thu, 16 Jul 2026 16:06:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=48936426"
       },
       {
-        "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
-        "link": "https://github.com/patonw/leaves",
-        "description": "<p>GUI disk analyzers are great for figuring out what's filling up your laptop/desktop drive.<p>On containers or remote servers, the options are limited to purely text based\nutilities (e.g. du) or list-centric TUIs (e.g. ncdu) which are usually limited\nto viewing one directory at a time.<p>I created <i>leaves</i> to fill that gap.<p>Inspired by classic utilities like WinDirStat and KDirStat, it uses a\n2-dimensional treemap^1 visualization to show the entire directory hierarchy\nwith proportionally sized rectangles.<p>It's performant enough to handle millions of files, thanks to Rust and\nmulti-threading. However, block characters aren't as suited as pixels for\nresolving a large number of items. Leaves can show file-type summaries per\ndirectory or partition the top-level directories by extension, allowing you to\nsee not only where space is being used, but also how.<p>For instance, I can see the largest chunk of my home directory is taken up by\nuv caches for python and old Linux ISOs that I could easily re-download if\nneeded. Or in a particular container, +600MB is used by standard Rust\ndocumentation and tutorials, and that it is the only location with HTML/JS files,\nwhen only the libraries and build tools are needed (note to self: remember to\nuse the <i>minimal</i> profile next time).<p>^1: <a href=\"https://github.com/shundhammer/qdirstat/blob/master/doc/Treemap.md\" rel=\"nofollow\">https://github.com/shundhammer/qdirstat/blob/master/doc/Tree...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936389\">https://news.ycombinator.com/item?id=48936389</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
-        "pubDate": "Thu, 16 Jul 2026 16:03:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48936389"
-      },
-      {
         "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
         "link": "https://immersivemath.com/ila/",
-        "description": "<p>Article URL: <a href=\"https://immersivemath.com/ila/\">https://immersivemath.com/ila/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935951\">https://news.ycombinator.com/item?id=48935951</a></p>\n<p>Points: 71</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://immersivemath.com/ila/\">https://immersivemath.com/ila/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935951\">https://news.ycombinator.com/item?id=48935951</a></p>\n<p>Points: 177</p>\n<p># Comments: 26</p>",
         "pubDate": "Thu, 16 Jul 2026 15:32:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=48935951"
-      },
-      {
-        "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-        "link": "https://schema-harness.github.io/",
-        "description": "<p>Article URL: <a href=\"https://schema-harness.github.io/\">https://schema-harness.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935905\">https://news.ycombinator.com/item?id=48935905</a></p>\n<p>Points: 32</p>\n<p># Comments: 7</p>",
-        "pubDate": "Thu, 16 Jul 2026 15:29:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48935905"
-      },
-      {
-        "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-        "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-        "description": "<p>Article URL: <a href=\"https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model\">https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935687\">https://news.ycombinator.com/item?id=48935687</a></p>\n<p>Points: 48</p>\n<p># Comments: 34</p>",
-        "pubDate": "Thu, 16 Jul 2026 15:13:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48935687"
-      },
-      {
-        "title": "Guide to data tools landscape for developers",
-        "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
-        "description": "<p>Article URL: <a href=\"https://sinja.io/blog/data-landscape-guide-for-developers\">https://sinja.io/blog/data-landscape-guide-for-developers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935510\">https://news.ycombinator.com/item?id=48935510</a></p>\n<p>Points: 63</p>\n<p># Comments: 18</p>",
-        "pubDate": "Thu, 16 Jul 2026 14:59:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48935510"
-      },
-      {
-        "title": "Kimi K3 is now live",
-        "link": "https://www.kimi.com/en",
-        "description": "<p>Article URL: <a href=\"https://www.kimi.com/en\">https://www.kimi.com/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935342\">https://news.ycombinator.com/item?id=48935342</a></p>\n<p>Points: 572</p>\n<p># Comments: 299</p>",
-        "pubDate": "Thu, 16 Jul 2026 14:46:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48935342"
-      },
-      {
-        "title": "Goes-19 weather satellite enters Safe Hold mode",
-        "link": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-        "description": "<p>Article URL: <a href=\"https://www.spaceweather.gov/news/goes-19-safe-hold\">https://www.spaceweather.gov/news/goes-19-safe-hold</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48934286\">https://news.ycombinator.com/item?id=48934286</a></p>\n<p>Points: 118</p>\n<p># Comments: 55</p>",
-        "pubDate": "Thu, 16 Jul 2026 13:30:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48934286"
-      },
-      {
-        "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
-        "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-        "description": "<p>Article URL: <a href=\"https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/\">https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933419\">https://news.ycombinator.com/item?id=48933419</a></p>\n<p>Points: 428</p>\n<p># Comments: 266</p>",
-        "pubDate": "Thu, 16 Jul 2026 12:13:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48933419"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-16T19:24:07.081Z",
+  "lastUpdated": "2026-07-17T03:28:52.893Z",
   "stats": {
     "feeds": 2,
     "articles": 20
