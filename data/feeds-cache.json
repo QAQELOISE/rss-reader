@@ -5,18 +5,123 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-17T13:56:36.588Z"
+      "lastFetched": "2026-07-17T19:21:58.423Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-17T13:56:56.332Z"
+      "lastFetched": "2026-07-17T19:22:09.227Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
+      {
+        "title": "Learning a few things about running SQLite",
+        "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "description": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950122\">https://news.ycombinator.com/item?id=48950122</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 17 Jul 2026 17:45:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48950122"
+      },
+      {
+        "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+        "link": "https://sofar.belfortlabs.cloud/",
+        "description": "<p>Article URL: <a href=\"https://sofar.belfortlabs.cloud/\">https://sofar.belfortlabs.cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48949240\">https://news.ycombinator.com/item?id=48949240</a></p>\n<p>Points: 11</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 17 Jul 2026 16:29:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48949240"
+      },
+      {
+        "title": "Designing emoji for the way we communicate today",
+        "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/\">https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48949184\">https://news.ycombinator.com/item?id=48949184</a></p>\n<p>Points: 26</p>\n<p># Comments: 23</p>",
+        "pubDate": "Fri, 17 Jul 2026 16:24:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48949184"
+      },
+      {
+        "title": "Show HN: Explore the Workspaces of Modern Creators",
+        "link": "https://workspaces.xyz/",
+        "description": "<p>Article URL: <a href=\"https://workspaces.xyz/\">https://workspaces.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48948693\">https://news.ycombinator.com/item?id=48948693</a></p>\n<p>Points: 35</p>\n<p># Comments: 28</p>",
+        "pubDate": "Fri, 17 Jul 2026 15:41:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48948693"
+      },
+      {
+        "title": "Frame – the first Linux Assembly X server",
+        "link": "https://isene.org/2026/07/Frame.html",
+        "description": "<p>Article URL: <a href=\"https://isene.org/2026/07/Frame.html\">https://isene.org/2026/07/Frame.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48948597\">https://news.ycombinator.com/item?id=48948597</a></p>\n<p>Points: 65</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 17 Jul 2026 15:31:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48948597"
+      },
+      {
+        "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+        "link": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/\">https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48948435\">https://news.ycombinator.com/item?id=48948435</a></p>\n<p>Points: 79</p>\n<p># Comments: 46</p>",
+        "pubDate": "Fri, 17 Jul 2026 15:17:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48948435"
+      },
+      {
+        "title": "Mozilla: The state of open source AI",
+        "link": "https://stateofopensource.ai/",
+        "description": "<p>Article URL: <a href=\"https://stateofopensource.ai/\">https://stateofopensource.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947825\">https://news.ycombinator.com/item?id=48947825</a></p>\n<p>Points: 259</p>\n<p># Comments: 175</p>",
+        "pubDate": "Fri, 17 Jul 2026 14:31:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947825"
+      },
+      {
+        "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+        "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">https://simonwillison.net/2026/Jul/16/kimi-k3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947717\">https://news.ycombinator.com/item?id=48947717</a></p>\n<p>Points: 137</p>\n<p># Comments: 81</p>",
+        "pubDate": "Fri, 17 Jul 2026 14:21:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947717"
+      },
+      {
+        "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+        "description": "<p>Article URL: <a href=\"https://blog.zksecurity.xyz/posts/openvm-bugs/\">https://blog.zksecurity.xyz/posts/openvm-bugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947714\">https://news.ycombinator.com/item?id=48947714</a></p>\n<p>Points: 59</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 17 Jul 2026 14:21:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947714"
+      },
+      {
+        "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+        "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cy4kdd1e0ejo\">https://www.bbc.com/news/articles/cy4kdd1e0ejo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947560\">https://news.ycombinator.com/item?id=48947560</a></p>\n<p>Points: 218</p>\n<p># Comments: 152</p>",
+        "pubDate": "Fri, 17 Jul 2026 14:06:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947560"
+      },
+      {
+        "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+        "link": "https://honeypotlive.cc/",
+        "description": "<p>Article URL: <a href=\"https://honeypotlive.cc/\">https://honeypotlive.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947548\">https://news.ycombinator.com/item?id=48947548</a></p>\n<p>Points: 102</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 17 Jul 2026 14:05:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947548"
+      },
+      {
+        "title": "Three ways people respond to a problem (other than solving it)",
+        "link": "https://improvesomething.today/responses-to-problems/",
+        "description": "<p>Article URL: <a href=\"https://improvesomething.today/responses-to-problems/\">https://improvesomething.today/responses-to-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947490\">https://news.ycombinator.com/item?id=48947490</a></p>\n<p>Points: 119</p>\n<p># Comments: 54</p>",
+        "pubDate": "Fri, 17 Jul 2026 14:00:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947490"
+      },
+      {
+        "title": "A Road to Lisp: Which Lisp",
+        "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
+        "description": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-17-which-lisp/\">https://scotto.me/blog/2026-07-17-which-lisp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947455\">https://news.ycombinator.com/item?id=48947455</a></p>\n<p>Points: 118</p>\n<p># Comments: 76</p>",
+        "pubDate": "Fri, 17 Jul 2026 13:56:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947455"
+      },
+      {
+        "title": "More Bounce to the Ounce",
+        "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+        "description": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/more-bounce-to-the-ounce\">https://mceglowski.substack.com/p/more-bounce-to-the-ounce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947201\">https://news.ycombinator.com/item?id=48947201</a></p>\n<p>Points: 66</p>\n<p># Comments: 18</p>",
+        "pubDate": "Fri, 17 Jul 2026 13:32:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947201"
+      },
+      {
+        "title": "PennyLane is an open-source quantum software platform for quantum",
+        "link": "https://github.com/PennyLaneAI/pennylane",
+        "description": "<p>Article URL: <a href=\"https://github.com/PennyLaneAI/pennylane\">https://github.com/PennyLaneAI/pennylane</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947184\">https://news.ycombinator.com/item?id=48947184</a></p>\n<p>Points: 35</p>\n<p># Comments: 5</p>",
+        "pubDate": "Fri, 17 Jul 2026 13:30:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48947184"
+      },
       {
         "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
         "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
@@ -25,142 +130,37 @@
         "guid": "https://news.ycombinator.com/item?id=48947100"
       },
       {
-        "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-        "link": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
-        "description": "<p>Article URL: <a href=\"https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/\">https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946895\">https://news.ycombinator.com/item?id=48946895</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
-        "pubDate": "Fri, 17 Jul 2026 13:02:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48946895"
-      },
-      {
-        "title": "Minikotlin",
-        "link": "https://minikotlin.run",
-        "description": "<p>Article URL: <a href=\"https://minikotlin.run\">https://minikotlin.run</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946783\">https://news.ycombinator.com/item?id=48946783</a></p>\n<p>Points: 36</p>\n<p># Comments: 7</p>",
-        "pubDate": "Fri, 17 Jul 2026 12:50:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48946783"
-      },
-      {
         "title": "VulnHunter: Capital One's agentic AI code security tool",
         "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-        "description": "<p>Article URL: <a href=\"https://www.capitalone.com/tech/open-source/announcing-vulnhunter/\">https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946692\">https://news.ycombinator.com/item?id=48946692</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://www.capitalone.com/tech/open-source/announcing-vulnhunter/\">https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946692\">https://news.ycombinator.com/item?id=48946692</a></p>\n<p>Points: 43</p>\n<p># Comments: 27</p>",
         "pubDate": "Fri, 17 Jul 2026 12:42:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48946692"
       },
       {
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166\">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946303\">https://news.ycombinator.com/item?id=48946303</a></p>\n<p>Points: 91</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166\">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946303\">https://news.ycombinator.com/item?id=48946303</a></p>\n<p>Points: 299</p>\n<p># Comments: 241</p>",
         "pubDate": "Fri, 17 Jul 2026 12:02:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48946303"
       },
       {
-        "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-        "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-        "description": "<p>Article URL: <a href=\"https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423\">https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946010\">https://news.ycombinator.com/item?id=48946010</a></p>\n<p>Points: 308</p>\n<p># Comments: 172</p>",
-        "pubDate": "Fri, 17 Jul 2026 11:30:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48946010"
-      },
-      {
-        "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-        "link": "https://news.ycombinator.com/item?id=48945681",
-        "description": "<p>I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven't even used AWS actively in the last year, but AWS console lists the amount as stated above. No feedback from AWS support yet, but the support AI chat bot says: \"Die perfekt gleichmäßigen Tageskosten seit dem 1. Juli deuten stark auf einen Abrechnungs- oder Messfehler hin.\" (\"The perfectly consistent daily costs since July 1 strongly suggest a billing or metering error.\") Bot created a support ticket (or at least told me so). Anyone else seeing something like this?\nAlready disabled all AWS IAM roles and deleted all other AWS resources I know of. AWS login not hacked as far as I can tell. But owing Amazon 3 billion dollars is a bit of a concern.\nAny ideas?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945681\">https://news.ycombinator.com/item?id=48945681</a></p>\n<p>Points: 121</p>\n<p># Comments: 63</p>",
-        "pubDate": "Fri, 17 Jul 2026 10:45:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48945681"
-      },
-      {
-        "title": "I Owe My Life to the Commodore 64",
-        "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-        "description": "<p>Article URL: <a href=\"https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64\">https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945260\">https://news.ycombinator.com/item?id=48945260</a></p>\n<p>Points: 61</p>\n<p># Comments: 40</p>",
-        "pubDate": "Fri, 17 Jul 2026 09:44:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48945260"
+        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "link": "https://news.ycombinator.com/item?id=48945241",
+        "description": "<p>URL already posted: <a href=\"https://health.aws.amazon.com/health/status\" rel=\"nofollow\">https://health.aws.amazon.com/health/status</a><p>I've got an estimated bill for $1.7 BILLION over this month. Normal usage is < $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href=\"https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/\" rel=\"nofollow\">https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_s...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945241\">https://news.ycombinator.com/item?id=48945241</a></p>\n<p>Points: 761</p>\n<p># Comments: 431</p>",
+        "pubDate": "Fri, 17 Jul 2026 09:42:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48945241"
       },
       {
         "title": "EEG shows brain can simultaneous encode two speech streams",
         "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-        "description": "<p>Article URL: <a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876\">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943745\">https://news.ycombinator.com/item?id=48943745</a></p>\n<p>Points: 171</p>\n<p># Comments: 105</p>",
+        "description": "<p>Article URL: <a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876\">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943745\">https://news.ycombinator.com/item?id=48943745</a></p>\n<p>Points: 230</p>\n<p># Comments: 149</p>",
         "pubDate": "Fri, 17 Jul 2026 05:51:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=48943745"
-      },
-      {
-        "title": "Pebble Mega Update – July 2026",
-        "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-        "description": "<p>Article URL: <a href=\"https://repebble.com/blog/pebble-mega-update-july-2026\">https://repebble.com/blog/pebble-mega-update-july-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943174\">https://news.ycombinator.com/item?id=48943174</a></p>\n<p>Points: 173</p>\n<p># Comments: 88</p>",
-        "pubDate": "Fri, 17 Jul 2026 03:53:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48943174"
-      },
-      {
-        "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-        "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/\">https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943142\">https://news.ycombinator.com/item?id=48943142</a></p>\n<p>Points: 184</p>\n<p># Comments: 141</p>",
-        "pubDate": "Fri, 17 Jul 2026 03:48:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48943142"
-      },
-      {
-        "title": "The Little Book of Reinforcement Learning",
-        "link": "https://github.com/alxndrTL/little-book-rl/",
-        "description": "<p>Article URL: <a href=\"https://github.com/alxndrTL/little-book-rl/\">https://github.com/alxndrTL/little-book-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941104\">https://news.ycombinator.com/item?id=48941104</a></p>\n<p>Points: 179</p>\n<p># Comments: 20</p>",
-        "pubDate": "Thu, 16 Jul 2026 22:27:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48941104"
-      },
-      {
-        "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-        "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-        "description": "<p>Article URL: <a href=\"https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin\">https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940833\">https://news.ycombinator.com/item?id=48940833</a></p>\n<p>Points: 100</p>\n<p># Comments: 25</p>",
-        "pubDate": "Thu, 16 Jul 2026 22:00:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48940833"
-      },
-      {
-        "title": "Mathematics of Data Science",
-        "link": "https://arxiv.org/abs/2607.11938",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11938\">https://arxiv.org/abs/2607.11938</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939896\">https://news.ycombinator.com/item?id=48939896</a></p>\n<p>Points: 183</p>\n<p># Comments: 11</p>",
-        "pubDate": "Thu, 16 Jul 2026 20:38:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48939896"
-      },
-      {
-        "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-        "link": "https://www.science.org/doi/10.1126/science.aea9708",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.aea9708\">https://www.science.org/doi/10.1126/science.aea9708</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939742\">https://news.ycombinator.com/item?id=48939742</a></p>\n<p>Points: 130</p>\n<p># Comments: 42</p>",
-        "pubDate": "Thu, 16 Jul 2026 20:24:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48939742"
-      },
-      {
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "description": "<p>Article URL: <a href=\"https://lmstudio.ai/blog/introducing-lm-studio-bionic\">https://lmstudio.ai/blog/introducing-lm-studio-bionic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939662\">https://news.ycombinator.com/item?id=48939662</a></p>\n<p>Points: 286</p>\n<p># Comments: 103</p>",
-        "pubDate": "Thu, 16 Jul 2026 20:18:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48939662"
-      },
-      {
-        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-        "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\">https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939524\">https://news.ycombinator.com/item?id=48939524</a></p>\n<p>Points: 321</p>\n<p># Comments: 424</p>",
-        "pubDate": "Thu, 16 Jul 2026 20:03:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48939524"
-      },
-      {
-        "title": "CD sales growth outpaced vinyl in the first half of 2026",
-        "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-        "description": "<p>Article URL: <a href=\"https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/\">https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937398\">https://news.ycombinator.com/item?id=48937398</a></p>\n<p>Points: 144</p>\n<p># Comments: 157</p>",
-        "pubDate": "Thu, 16 Jul 2026 17:19:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48937398"
-      },
-      {
-        "title": "Adaptional (YC S25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/adaptional/jobs",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adaptional/jobs\">https://www.ycombinator.com/companies/adaptional/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937125\">https://news.ycombinator.com/item?id=48937125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 16 Jul 2026 17:00:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48937125"
-      },
-      {
-        "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-        "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-        "description": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/llm-classifier/\">https://blog.lyc8503.net/en/post/llm-classifier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936880\">https://news.ycombinator.com/item?id=48936880</a></p>\n<p>Points: 218</p>\n<p># Comments: 157</p>",
-        "pubDate": "Thu, 16 Jul 2026 16:41:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48936880"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-17T13:56:56.332Z",
+  "lastUpdated": "2026-07-17T19:22:09.227Z",
   "stats": {
     "feeds": 2,
     "articles": 20
