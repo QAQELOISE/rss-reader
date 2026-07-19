@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-19T13:42:10.995Z"
+      "lastFetched": "2026-07-19T19:17:25.459Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-19T13:42:30.419Z"
+      "lastFetched": "2026-07-19T19:17:33.816Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "I burned all my tokens researching how to save tokens",
-        "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
-        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/custom-deep-research-pipeline/\">https://quesma.com/blog/custom-deep-research-pipeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967355\">https://news.ycombinator.com/item?id=48967355</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 19 Jul 2026 12:01:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48967355"
+        "title": "Less Is More: Why Audio on SoundCloud Looks Different",
+        "link": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
+        "description": "<p>Article URL: <a href=\"https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/\">https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970372\">https://news.ycombinator.com/item?id=48970372</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 19 Jul 2026 18:10:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48970372"
+      },
+      {
+        "title": "Neither GCC nor Clang are compliant with standard C++",
+        "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
+        "description": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260708-badstdcxx.html\">https://sebsite.pw/w/20260708-badstdcxx.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970039\">https://news.ycombinator.com/item?id=48970039</a></p>\n<p>Points: 17</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 19 Jul 2026 17:32:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48970039"
+      },
+      {
+        "title": "HMD Touch 4G",
+        "link": "https://www.hmd.com/en_int/hmd-touch-4g",
+        "description": "<p>Article URL: <a href=\"https://www.hmd.com/en_int/hmd-touch-4g\">https://www.hmd.com/en_int/hmd-touch-4g</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969983\">https://news.ycombinator.com/item?id=48969983</a></p>\n<p>Points: 30</p>\n<p># Comments: 31</p>",
+        "pubDate": "Sun, 19 Jul 2026 17:25:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48969983"
+      },
+      {
+        "title": "The Last MPEG-4 Visual Patent Has Expired",
+        "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+        "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired\">https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969635\">https://news.ycombinator.com/item?id=48969635</a></p>\n<p>Points: 52</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sun, 19 Jul 2026 16:45:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48969635"
+      },
+      {
+        "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+        "link": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+        "description": "<p>Article URL: <a href=\"https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes\">https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969582\">https://news.ycombinator.com/item?id=48969582</a></p>\n<p>Points: 59</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sun, 19 Jul 2026 16:38:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48969582"
+      },
+      {
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/kimi_moonshot/status/2078855608565207130\">https://twitter.com/kimi_moonshot/status/2078855608565207130</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969291\">https://news.ycombinator.com/item?id=48969291</a></p>\n<p>Points: 72</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sun, 19 Jul 2026 16:02:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48969291"
+      },
+      {
+        "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+        "link": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+        "description": "<p>Article URL: <a href=\"https://retrogamecoders.com/c64-basic-dungeon-part8/\">https://retrogamecoders.com/c64-basic-dungeon-part8/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968949\">https://news.ycombinator.com/item?id=48968949</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 19 Jul 2026 15:20:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48968949"
+      },
+      {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "link": "https://news.ycombinator.com/item?id=48968606",
+        "description": "<p>I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food desert? This is an R&R desert.<p>It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn't work perfectly. The system that keeps your score is particularly interesting to me. It's the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.<p>Ours was installed in 2008 and cost six figures. It's calculating ball speed and trajectory, camera-based pin detection (object detection and trig, on ICs!), runs the fouling, the animations, the pinsetting machine and ball return. Very cool stuff for its age.<p>From the business perspective, my facility only cost me $105k. To forklift-replace the score keeping system runs anywhere between $80-$120k, depending on features, vendor, and unit age. No upgrades or service contracts, mind you, and every feature and customization is a new line item. That's for a 1:1 replacement on a system installed in 2008. Incredible, given how fast the tech world moves.<p>Replacement parts cost a shocking $4000 per pair of lanes. But wait, the bowling machines themselves are 70 years old, so what's this \"advanced\" system actually doing back there? Actuating a single relay to trigger that big old machine. Everything else is strictly mechanical. Meanwhile I've got a six-figure invoice in my hand. I'm upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I've built an equivalent prototype for about $200 per lane-pair, $400 if you're fancy. ESP32 and ESPNow with an RS485 fallback, reporting to a raspberry pi lane computer that's really just redis and a state machine bolted to an ESP32 gateway for the mesh.<p>Since it's all ESP32, I've got a fistful of spare controllers in a drawer, pre-flashed or waiting to be. All common off-the-shelf hardware: microcontrollers wired to relays, optocouplers, and IR-break-beam sensors, each running slightly different firmware. Writing the firmware and protocol is the actual hard part.<p>It's an ESPNow star-topology mesh: each node emits events from its sensors and accepts commands for its controls, reporting to a gateway node connected to the raspi over UART. From there it's event streaming: RX packets get translated and tossed into redis, commands relay back out to the mesh as needed. RS485 sits underneath as a wired fallback for noisy RF environments.<p>Once the data's in redis, it's familiar middleware/React/websocket/pub-sub stuff. Any React dev can build their own UI and bowling animations. Since it all runs on commodity hardware, I can do legit anything I want as the proprietor, and I own all my data. Repairs take five minutes; I can swap the rig on a lane pair in under 10. I'd bet a house like mine could go from zero to running in an hour or two.<p>We're calling it OpenLaneLink, and I plan to open source the hardware, firmware, and software stack when it's ready. Bowling is fun, and I want to help keep it affordable for alleys like mine.\nI hate vendor lock-in. I'm not a fan of closed systems, calling support for every hiccup, or paying to \"white label\" my own equipment. Want to go Tron-themed for a night? Good luck finding a neon neumorphic theme in something bought at the turn of the century.<p>All that bugged me. Sure, bowling equipment is niche, but the open hardware and software landscape is amazing.<p>Thanks for reading! Let me know if anyone's interested in more posts about this bowling nonsense.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968606\">https://news.ycombinator.com/item?id=48968606</a></p>\n<p>Points: 265</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 19 Jul 2026 14:41:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48968606"
+      },
+      {
+        "title": "Terence McKenna's Mega Bad Trip",
+        "link": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
+        "description": "<p>Article URL: <a href=\"https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip\">https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968515\">https://news.ycombinator.com/item?id=48968515</a></p>\n<p>Points: 48</p>\n<p># Comments: 34</p>",
+        "pubDate": "Sun, 19 Jul 2026 14:30:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48968515"
+      },
+      {
+        "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+        "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg8edqq5g5o\">https://www.bbc.com/news/articles/cvg8edqq5g5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968063\">https://news.ycombinator.com/item?id=48968063</a></p>\n<p>Points: 70</p>\n<p># Comments: 55</p>",
+        "pubDate": "Sun, 19 Jul 2026 13:29:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48968063"
       },
       {
         "title": "Minecraft: Java Edition now uses SDL3",
         "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-        "description": "<p>Article URL: <a href=\"https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967256\">https://news.ycombinator.com/item?id=48967256</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967256\">https://news.ycombinator.com/item?id=48967256</a></p>\n<p>Points: 190</p>\n<p># Comments: 139</p>",
         "pubDate": "Sun, 19 Jul 2026 11:48:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=48967256"
       },
       {
         "title": "I joined the IndieWeb, here's what I learned",
         "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-        "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/\">https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966984\">https://news.ycombinator.com/item?id=48966984</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/\">https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966984\">https://news.ycombinator.com/item?id=48966984</a></p>\n<p>Points: 94</p>\n<p># Comments: 64</p>",
         "pubDate": "Sun, 19 Jul 2026 11:14:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=48966984"
       },
       {
         "title": "The death and rebirth of my home server",
         "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
-        "description": "<p>Article URL: <a href=\"https://sgt.hootr.club/blog/home-server-rebirth/\">https://sgt.hootr.club/blog/home-server-rebirth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966769\">https://news.ycombinator.com/item?id=48966769</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://sgt.hootr.club/blog/home-server-rebirth/\">https://sgt.hootr.club/blog/home-server-rebirth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966769\">https://news.ycombinator.com/item?id=48966769</a></p>\n<p>Points: 87</p>\n<p># Comments: 61</p>",
         "pubDate": "Sun, 19 Jul 2026 10:44:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=48966769"
       },
       {
         "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
         "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-        "description": "<p>Article URL: <a href=\"https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\">https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966713\">https://news.ycombinator.com/item?id=48966713</a></p>\n<p>Points: 98</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\">https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966713\">https://news.ycombinator.com/item?id=48966713</a></p>\n<p>Points: 324</p>\n<p># Comments: 149</p>",
         "pubDate": "Sun, 19 Jul 2026 10:34:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=48966713"
       },
       {
-        "title": "Qwen 3.8 Max Preview",
-        "link": "https://www.qwencloud.com/pricing/token-plan",
-        "description": "<p>Article URL: <a href=\"https://www.qwencloud.com/pricing/token-plan\">https://www.qwencloud.com/pricing/token-plan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966190\">https://news.ycombinator.com/item?id=48966190</a></p>\n<p>Points: 161</p>\n<p># Comments: 86</p>",
-        "pubDate": "Sun, 19 Jul 2026 08:57:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48966190"
+        "title": "Claude Code uses Bun written in Rust now",
+        "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966569\">https://news.ycombinator.com/item?id=48966569</a></p>\n<p>Points: 287</p>\n<p># Comments: 368</p>",
+        "pubDate": "Sun, 19 Jul 2026 10:03:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48966569"
       },
       {
-        "title": "Half a Second – a book about the XZ backdoor",
-        "link": "https://www.half-second.com/",
-        "description": "<p>Article URL: <a href=\"https://www.half-second.com/\">https://www.half-second.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966139\">https://news.ycombinator.com/item?id=48966139</a></p>\n<p>Points: 40</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sun, 19 Jul 2026 08:48:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48966139"
-      },
-      {
-        "title": "Qwen3.8 is launching and going open-weight soon",
+        "title": "Qwen 3.8",
         "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/Alibaba_Qwen/status/2078759124914098291\">https://twitter.com/Alibaba_Qwen/status/2078759124914098291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966120\">https://news.ycombinator.com/item?id=48966120</a></p>\n<p>Points: 291</p>\n<p># Comments: 150</p>",
+        "description": "<p><a href=\"https://www.qwencloud.com/pricing/token-plan\" rel=\"nofollow\">https://www.qwencloud.com/pricing/token-plan</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966120\">https://news.ycombinator.com/item?id=48966120</a></p>\n<p>Points: 614</p>\n<p># Comments: 447</p>",
         "pubDate": "Sun, 19 Jul 2026 08:44:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=48966120"
       },
       {
-        "title": "The Mighty Big Array of Finn Jensen LA8YB",
-        "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-        "description": "<p>Article URL: <a href=\"https://la0by.darc.de/LA8YB_EME_MBA.htm\">https://la0by.darc.de/LA8YB_EME_MBA.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965914\">https://news.ycombinator.com/item?id=48965914</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sun, 19 Jul 2026 08:05:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48965914"
-      },
-      {
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "link": "https://github.com/openai/codex/pull/33972/files",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/pull/33972/files\">https://github.com/openai/codex/pull/33972/files</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965850\">https://news.ycombinator.com/item?id=48965850</a></p>\n<p>Points: 77</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/pull/33972/files\">https://github.com/openai/codex/pull/33972/files</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965850\">https://news.ycombinator.com/item?id=48965850</a></p>\n<p>Points: 235</p>\n<p># Comments: 104</p>",
         "pubDate": "Sun, 19 Jul 2026 07:54:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48965850"
       },
       {
-        "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
-        "link": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
-        "description": "<p>Article URL: <a href=\"https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf\">https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965719\">https://news.ycombinator.com/item?id=48965719</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sun, 19 Jul 2026 07:27:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48965719"
-      },
-      {
-        "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-        "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\">https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965161\">https://news.ycombinator.com/item?id=48965161</a></p>\n<p>Points: 39</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 19 Jul 2026 05:07:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48965161"
-      },
-      {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-        "description": "<p>Article URL: <a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964185\">https://news.ycombinator.com/item?id=48964185</a></p>\n<p>Points: 281</p>\n<p># Comments: 127</p>",
-        "pubDate": "Sun, 19 Jul 2026 01:29:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48964185"
-      },
-      {
         "title": "Better and Cheaper Than IPTV",
         "link": "https://github.com/stupside/castor",
-        "description": "<p>Article URL: <a href=\"https://github.com/stupside/castor\">https://github.com/stupside/castor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964015\">https://news.ycombinator.com/item?id=48964015</a></p>\n<p>Points: 242</p>\n<p># Comments: 68</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/stupside/castor\">https://github.com/stupside/castor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964015\">https://news.ycombinator.com/item?id=48964015</a></p>\n<p>Points: 294</p>\n<p># Comments: 91</p>",
         "pubDate": "Sun, 19 Jul 2026 00:59:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48964015"
       },
       {
         "title": "Transcribe.cpp",
         "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "description": "<p>Article URL: <a href=\"https://workshop.cjpais.com/projects/transcribe-cpp\">https://workshop.cjpais.com/projects/transcribe-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963879\">https://news.ycombinator.com/item?id=48963879</a></p>\n<p>Points: 595</p>\n<p># Comments: 127</p>",
+        "description": "<p>Article URL: <a href=\"https://workshop.cjpais.com/projects/transcribe-cpp\">https://workshop.cjpais.com/projects/transcribe-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963879\">https://news.ycombinator.com/item?id=48963879</a></p>\n<p>Points: 682</p>\n<p># Comments: 140</p>",
         "pubDate": "Sun, 19 Jul 2026 00:38:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48963879"
       },
       {
         "title": "Codex Resets",
         "link": "https://codex-resets.com/",
-        "description": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 222</p>\n<p># Comments: 150</p>",
+        "description": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 263</p>\n<p># Comments: 173</p>",
         "pubDate": "Sat, 18 Jul 2026 23:24:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48963465"
-      },
-      {
-        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-        "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "description": "<p>Article URL: <a href=\"https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\">https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962983\">https://news.ycombinator.com/item?id=48962983</a></p>\n<p>Points: 507</p>\n<p># Comments: 220</p>",
-        "pubDate": "Sat, 18 Jul 2026 22:13:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48962983"
-      },
-      {
-        "title": "Classic Amiga titles, free to download",
-        "link": "https://amigafreeware.downer.tech/",
-        "description": "<p>Article URL: <a href=\"https://amigafreeware.downer.tech/\">https://amigafreeware.downer.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962838\">https://news.ycombinator.com/item?id=48962838</a></p>\n<p>Points: 139</p>\n<p># Comments: 19</p>",
-        "pubDate": "Sat, 18 Jul 2026 21:55:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48962838"
-      },
-      {
-        "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-        "link": "https://www.neatnik.net/hardcore-indieweb",
-        "description": "<p>Article URL: <a href=\"https://www.neatnik.net/hardcore-indieweb\">https://www.neatnik.net/hardcore-indieweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962758\">https://news.ycombinator.com/item?id=48962758</a></p>\n<p>Points: 193</p>\n<p># Comments: 163</p>",
-        "pubDate": "Sat, 18 Jul 2026 21:45:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48962758"
-      },
-      {
-        "title": "The Kimi K3 Moment",
-        "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-        "description": "<p>Article URL: <a href=\"https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/\">https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960218\">https://news.ycombinator.com/item?id=48960218</a></p>\n<p>Points: 486</p>\n<p># Comments: 492</p>",
-        "pubDate": "Sat, 18 Jul 2026 17:32:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48960218"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-19T13:42:30.419Z",
+  "lastUpdated": "2026-07-19T19:17:33.816Z",
   "stats": {
     "feeds": 2,
     "articles": 20
