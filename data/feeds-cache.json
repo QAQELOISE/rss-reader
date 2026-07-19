@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-19T03:38:25.974Z"
+      "lastFetched": "2026-07-19T08:30:03.252Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-19T03:38:34.453Z"
+      "lastFetched": "2026-07-19T08:30:10.496Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+        "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\">https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965161\">https://news.ycombinator.com/item?id=48965161</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 19 Jul 2026 05:07:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48965161"
+      },
+      {
+        "title": "I built a browser-based P2P file transfer tool using WebRTC",
+        "link": "https://airdows.com/",
+        "description": "<p>Article URL: <a href=\"https://airdows.com/\">https://airdows.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964424\">https://news.ycombinator.com/item?id=48964424</a></p>\n<p>Points: 17</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 19 Jul 2026 02:17:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48964424"
+      },
+      {
+        "title": "Deepsec",
+        "link": "https://github.com/vercel-labs/deepsec",
+        "description": "<p>Article URL: <a href=\"https://github.com/vercel-labs/deepsec\">https://github.com/vercel-labs/deepsec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964215\">https://news.ycombinator.com/item?id=48964215</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 19 Jul 2026 01:33:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48964215"
+      },
+      {
         "title": "AI Mania Is Eviscerating Global Decision-Making",
         "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-        "description": "<p>Article URL: <a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964185\">https://news.ycombinator.com/item?id=48964185</a></p>\n<p>Points: 33</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964185\">https://news.ycombinator.com/item?id=48964185</a></p>\n<p>Points: 187</p>\n<p># Comments: 71</p>",
         "pubDate": "Sun, 19 Jul 2026 01:29:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=48964185"
       },
       {
         "title": "Better and Cheaper Than IPTV",
         "link": "https://github.com/stupside/castor",
-        "description": "<p>Article URL: <a href=\"https://github.com/stupside/castor\">https://github.com/stupside/castor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964015\">https://news.ycombinator.com/item?id=48964015</a></p>\n<p>Points: 49</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/stupside/castor\">https://github.com/stupside/castor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964015\">https://news.ycombinator.com/item?id=48964015</a></p>\n<p>Points: 168</p>\n<p># Comments: 43</p>",
         "pubDate": "Sun, 19 Jul 2026 00:59:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=48964015"
       },
       {
         "title": "Transcribe.cpp",
         "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "description": "<p>Article URL: <a href=\"https://workshop.cjpais.com/projects/transcribe-cpp\">https://workshop.cjpais.com/projects/transcribe-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963879\">https://news.ycombinator.com/item?id=48963879</a></p>\n<p>Points: 145</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://workshop.cjpais.com/projects/transcribe-cpp\">https://workshop.cjpais.com/projects/transcribe-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963879\">https://news.ycombinator.com/item?id=48963879</a></p>\n<p>Points: 458</p>\n<p># Comments: 84</p>",
         "pubDate": "Sun, 19 Jul 2026 00:38:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48963879"
       },
       {
-        "title": "Harness Engineering",
-        "link": "https://github.com/lopopolo/harness-engineering",
-        "description": "<p>Article URL: <a href=\"https://github.com/lopopolo/harness-engineering\">https://github.com/lopopolo/harness-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963483\">https://news.ycombinator.com/item?id=48963483</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
-        "pubDate": "Sat, 18 Jul 2026 23:27:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48963483"
-      },
-      {
         "title": "Codex Resets",
         "link": "https://codex-resets.com/",
-        "description": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 96</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 163</p>\n<p># Comments: 117</p>",
         "pubDate": "Sat, 18 Jul 2026 23:24:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=48963465"
       },
       {
-        "title": "European Court Confirms Ethical Veganism Is a Protected Philosophical Belief",
-        "link": "https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/",
-        "description": "<p>Article URL: <a href=\"https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/\">https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963402\">https://news.ycombinator.com/item?id=48963402</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-        "pubDate": "Sat, 18 Jul 2026 23:15:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48963402"
-      },
-      {
-        "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
         "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "description": "<p>Article URL: <a href=\"https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\">https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962983\">https://news.ycombinator.com/item?id=48962983</a></p>\n<p>Points: 287</p>\n<p># Comments: 142</p>",
+        "description": "<p>Article URL: <a href=\"https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\">https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962983\">https://news.ycombinator.com/item?id=48962983</a></p>\n<p>Points: 450</p>\n<p># Comments: 202</p>",
         "pubDate": "Sat, 18 Jul 2026 22:13:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48962983"
       },
       {
-        "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-        "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.tug.org/tug2026/preprints/lode-realtime.pdf\">https://www.tug.org/tug2026/preprints/lode-realtime.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962944\">https://news.ycombinator.com/item?id=48962944</a></p>\n<p>Points: 40</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sat, 18 Jul 2026 22:09:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48962944"
-      },
-      {
-        "title": "Judge a book by its first pages",
-        "link": "https://uncovered.ink",
-        "description": "<p>Article URL: <a href=\"https://uncovered.ink\">https://uncovered.ink</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962893\">https://news.ycombinator.com/item?id=48962893</a></p>\n<p>Points: 46</p>\n<p># Comments: 34</p>",
-        "pubDate": "Sat, 18 Jul 2026 22:02:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48962893"
-      },
-      {
         "title": "Classic Amiga titles, free to download",
         "link": "https://amigafreeware.downer.tech/",
-        "description": "<p>Article URL: <a href=\"https://amigafreeware.downer.tech/\">https://amigafreeware.downer.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962838\">https://news.ycombinator.com/item?id=48962838</a></p>\n<p>Points: 68</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://amigafreeware.downer.tech/\">https://amigafreeware.downer.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962838\">https://news.ycombinator.com/item?id=48962838</a></p>\n<p>Points: 107</p>\n<p># Comments: 16</p>",
         "pubDate": "Sat, 18 Jul 2026 21:55:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=48962838"
       },
       {
         "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
         "link": "https://www.neatnik.net/hardcore-indieweb",
-        "description": "<p>Article URL: <a href=\"https://www.neatnik.net/hardcore-indieweb\">https://www.neatnik.net/hardcore-indieweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962758\">https://news.ycombinator.com/item?id=48962758</a></p>\n<p>Points: 96</p>\n<p># Comments: 73</p>",
+        "description": "<p>Article URL: <a href=\"https://www.neatnik.net/hardcore-indieweb\">https://www.neatnik.net/hardcore-indieweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962758\">https://news.ycombinator.com/item?id=48962758</a></p>\n<p>Points: 152</p>\n<p># Comments: 91</p>",
         "pubDate": "Sat, 18 Jul 2026 21:45:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=48962758"
       },
       {
         "title": "Co-evolution of self-replication and function in a digital primordial soup",
         "link": "https://arxiv.org/abs/2607.09211",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.09211\">https://arxiv.org/abs/2607.09211</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962429\">https://news.ycombinator.com/item?id=48962429</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.09211\">https://arxiv.org/abs/2607.09211</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962429\">https://news.ycombinator.com/item?id=48962429</a></p>\n<p>Points: 66</p>\n<p># Comments: 14</p>",
         "pubDate": "Sat, 18 Jul 2026 21:09:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48962429"
       },
       {
+        "title": "What's the deal with all the random weekly quota resets for agents lately?",
+        "link": "https://minimaxir.com/2026/07/agent-quota-reset/",
+        "description": "<p>Article URL: <a href=\"https://minimaxir.com/2026/07/agent-quota-reset/\">https://minimaxir.com/2026/07/agent-quota-reset/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48961157\">https://news.ycombinator.com/item?id=48961157</a></p>\n<p>Points: 51</p>\n<p># Comments: 56</p>",
+        "pubDate": "Sat, 18 Jul 2026 19:06:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48961157"
+      },
+      {
+        "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+        "link": "https://reotrucks.com",
+        "description": "<p>Article URL: <a href=\"https://reotrucks.com\">https://reotrucks.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960607\">https://news.ycombinator.com/item?id=48960607</a></p>\n<p>Points: 87</p>\n<p># Comments: 136</p>",
+        "pubDate": "Sat, 18 Jul 2026 18:13:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48960607"
+      },
+      {
+        "title": "The Kimi K3 Moment",
+        "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+        "description": "<p>Article URL: <a href=\"https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/\">https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960218\">https://news.ycombinator.com/item?id=48960218</a></p>\n<p>Points: 360</p>\n<p># Comments: 398</p>",
+        "pubDate": "Sat, 18 Jul 2026 17:32:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48960218"
+      },
+      {
+        "title": "Goodbye, and Thanks for All the Bikesheds",
+        "link": "https://queue.acm.org/detail.cfm?id=3818307",
+        "description": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3818307\">https://queue.acm.org/detail.cfm?id=3818307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960155\">https://news.ycombinator.com/item?id=48960155</a></p>\n<p>Points: 208</p>\n<p># Comments: 208</p>",
+        "pubDate": "Sat, 18 Jul 2026 17:27:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48960155"
+      },
+      {
         "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "link": "https://ykdojo.github.io/claude-controls-mac/",
-        "description": "<p>Article URL: <a href=\"https://ykdojo.github.io/claude-controls-mac/\">https://ykdojo.github.io/claude-controls-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959392\">https://news.ycombinator.com/item?id=48959392</a></p>\n<p>Points: 190</p>\n<p># Comments: 135</p>",
+        "description": "<p>Article URL: <a href=\"https://ykdojo.github.io/claude-controls-mac/\">https://ykdojo.github.io/claude-controls-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959392\">https://news.ycombinator.com/item?id=48959392</a></p>\n<p>Points: 226</p>\n<p># Comments: 154</p>",
         "pubDate": "Sat, 18 Jul 2026 16:12:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=48959392"
       },
       {
-        "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-        "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/our-approach-to-bioresilience/\">https://deepmind.google/blog/our-approach-to-bioresilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959297\">https://news.ycombinator.com/item?id=48959297</a></p>\n<p>Points: 72</p>\n<p># Comments: 22</p>",
-        "pubDate": "Sat, 18 Jul 2026 16:02:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48959297"
-      },
-      {
         "title": "Gleam Is Now on Tangled",
         "link": "https://tangled.org/gleam.run/gleam",
-        "description": "<p>Article URL: <a href=\"https://tangled.org/gleam.run/gleam\">https://tangled.org/gleam.run/gleam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959143\">https://news.ycombinator.com/item?id=48959143</a></p>\n<p>Points: 217</p>\n<p># Comments: 138</p>",
+        "description": "<p>Article URL: <a href=\"https://tangled.org/gleam.run/gleam\">https://tangled.org/gleam.run/gleam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959143\">https://news.ycombinator.com/item?id=48959143</a></p>\n<p>Points: 231</p>\n<p># Comments: 144</p>",
         "pubDate": "Sat, 18 Jul 2026 15:44:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=48959143"
       },
       {
         "title": "If You Build It, They Will Come",
         "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-        "description": "<p>Article URL: <a href=\"https://www.benlandautaylor.com/p/if-you-build-it-they-will-come\">https://www.benlandautaylor.com/p/if-you-build-it-they-will-come</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959090\">https://news.ycombinator.com/item?id=48959090</a></p>\n<p>Points: 301</p>\n<p># Comments: 113</p>",
+        "description": "<p>Article URL: <a href=\"https://www.benlandautaylor.com/p/if-you-build-it-they-will-come\">https://www.benlandautaylor.com/p/if-you-build-it-they-will-come</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959090\">https://news.ycombinator.com/item?id=48959090</a></p>\n<p>Points: 388</p>\n<p># Comments: 134</p>",
         "pubDate": "Sat, 18 Jul 2026 15:37:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=48959090"
       },
       {
         "title": "Elixir-lang.org has a new design",
         "link": "https://elixir-lang.org/",
-        "description": "<p>Article URL: <a href=\"https://elixir-lang.org/\">https://elixir-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959042\">https://news.ycombinator.com/item?id=48959042</a></p>\n<p>Points: 179</p>\n<p># Comments: 110</p>",
+        "description": "<p>Article URL: <a href=\"https://elixir-lang.org/\">https://elixir-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959042\">https://news.ycombinator.com/item?id=48959042</a></p>\n<p>Points: 224</p>\n<p># Comments: 126</p>",
         "pubDate": "Sat, 18 Jul 2026 15:32:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=48959042"
       },
       {
-        "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-        "link": "https://q3edit.com",
-        "description": "<p>I've been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map file and you can play the maps you build directly in the browser using a webassembly build of ioquake3.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48958854\">https://news.ycombinator.com/item?id=48958854</a></p>\n<p>Points: 69</p>\n<p># Comments: 13</p>",
-        "pubDate": "Sat, 18 Jul 2026 15:12:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48958854"
-      },
-      {
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-        "description": "<p>Article URL: <a href=\"https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957779\">https://news.ycombinator.com/item?id=48957779</a></p>\n<p>Points: 517</p>\n<p># Comments: 328</p>",
+        "description": "<p>Article URL: <a href=\"https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957779\">https://news.ycombinator.com/item?id=48957779</a></p>\n<p>Points: 554</p>\n<p># Comments: 355</p>",
         "pubDate": "Sat, 18 Jul 2026 13:00:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48957779"
-      },
-      {
-        "title": "What AI did to stackoverflow in a graph",
-        "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-        "description": "<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1953768#graph\">https://data.stackexchange.com/stackoverflow/query/1953768#graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956949\">https://news.ycombinator.com/item?id=48956949</a></p>\n<p>Points: 378</p>\n<p># Comments: 470</p>",
-        "pubDate": "Sat, 18 Jul 2026 11:12:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48956949"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-19T03:38:34.453Z",
+  "lastUpdated": "2026-07-19T08:30:10.496Z",
   "stats": {
     "feeds": 2,
     "articles": 20
