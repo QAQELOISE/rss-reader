@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-20T14:26:08.560Z"
+      "lastFetched": "2026-07-20T19:52:08.563Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-20T14:26:28.658Z"
+      "lastFetched": "2026-07-20T19:52:28.316Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Perfection Is Not Over-Engineering",
-        "link": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-        "description": "<p>Article URL: <a href=\"https://var0.xyz/posts/perfection-is-not-over-engineering.html\">https://var0.xyz/posts/perfection-is-not-over-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979120\">https://news.ycombinator.com/item?id=48979120</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 20 Jul 2026 14:10:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48979120"
+        "title": "Safety and alignment in an era of long-horizon models",
+        "link": "https://openai.com/index/safety-alignment-long-horizon-models/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/safety-alignment-long-horizon-models/\">https://openai.com/index/safety-alignment-long-horizon-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983108\">https://news.ycombinator.com/item?id=48983108</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 20 Jul 2026 18:43:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48983108"
       },
       {
-        "title": "Hacker wipes Romania's land registry database",
-        "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-        "description": "<p>Article URL: <a href=\"https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/\">https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978605\">https://news.ycombinator.com/item?id=48978605</a></p>\n<p>Points: 80</p>\n<p># Comments: 17</p>",
-        "pubDate": "Mon, 20 Jul 2026 13:28:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48978605"
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "link": "https://blaizzy.github.io/nativ/",
+        "description": "<p>Article URL: <a href=\"https://blaizzy.github.io/nativ/\">https://blaizzy.github.io/nativ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982681\">https://news.ycombinator.com/item?id=48982681</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 20 Jul 2026 18:16:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48982681"
       },
       {
-        "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-        "link": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
-        "description": "<p>Article URL: <a href=\"https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510\">https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978545\">https://news.ycombinator.com/item?id=48978545</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 20 Jul 2026 13:23:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48978545"
+        "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+        "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+        "description": "<p>Article URL: <a href=\"https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/\">https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982583\">https://news.ycombinator.com/item?id=48982583</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 20 Jul 2026 18:10:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48982583"
       },
       {
-        "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-        "link": "https://yang-ai-lab.github.io/Inertia-1/",
-        "description": "<p>Article URL: <a href=\"https://yang-ai-lab.github.io/Inertia-1/\">https://yang-ai-lab.github.io/Inertia-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978388\">https://news.ycombinator.com/item?id=48978388</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 20 Jul 2026 13:11:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48978388"
+        "title": "The drivers behind software delivery inefficiency",
+        "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+        "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3800646.3800650\">https://dl.acm.org/doi/10.1145/3800646.3800650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982578\">https://news.ycombinator.com/item?id=48982578</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 20 Jul 2026 18:10:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48982578"
       },
       {
-        "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
-        "link": "https://spectrum.ieee.org/led-light-pollution",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/led-light-pollution\">https://spectrum.ieee.org/led-light-pollution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978350\">https://news.ycombinator.com/item?id=48978350</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 20 Jul 2026 13:07:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48978350"
+        "title": "Agent swarms and the new model economics",
+        "link": "https://cursor.com/blog/agent-swarm-model-economics",
+        "description": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-swarm-model-economics\">https://cursor.com/blog/agent-swarm-model-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982535\">https://news.ycombinator.com/item?id=48982535</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+        "pubDate": "Mon, 20 Jul 2026 18:06:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48982535"
       },
       {
-        "title": "Codex is wearing out our devices",
-        "link": "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
-        "description": "<p>Article URL: <a href=\"https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/\">https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978331\">https://news.ycombinator.com/item?id=48978331</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 20 Jul 2026 13:04:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48978331"
+        "title": "That post never existed. Stop listening to that thing",
+        "link": "https://rachelbythebay.com/w/2026/05/05/404/",
+        "description": "<p>Article URL: <a href=\"https://rachelbythebay.com/w/2026/05/05/404/\">https://rachelbythebay.com/w/2026/05/05/404/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982374\">https://news.ycombinator.com/item?id=48982374</a></p>\n<p>Points: 76</p>\n<p># Comments: 55</p>",
+        "pubDate": "Mon, 20 Jul 2026 17:57:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48982374"
       },
       {
-        "title": "Stop Using OpenCode",
-        "link": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-        "description": "<p>Article URL: <a href=\"https://wren.wtf/shower-thoughts/stop-using-opencode/\">https://wren.wtf/shower-thoughts/stop-using-opencode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978112\">https://news.ycombinator.com/item?id=48978112</a></p>\n<p>Points: 154</p>\n<p># Comments: 101</p>",
-        "pubDate": "Mon, 20 Jul 2026 12:45:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48978112"
+        "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+        "link": "https://hypr.land/news/update55/",
+        "description": "<p>Article URL: <a href=\"https://hypr.land/news/update55/\">https://hypr.land/news/update55/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982011\">https://news.ycombinator.com/item?id=48982011</a></p>\n<p>Points: 70</p>\n<p># Comments: 48</p>",
+        "pubDate": "Mon, 20 Jul 2026 17:31:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48982011"
       },
       {
-        "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-        "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-        "description": "<p>Article URL: <a href=\"https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/\">https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48977711\">https://news.ycombinator.com/item?id=48977711</a></p>\n<p>Points: 187</p>\n<p># Comments: 107</p>",
-        "pubDate": "Mon, 20 Jul 2026 12:14:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48977711"
+        "title": "Kimi Work",
+        "link": "https://www.kimi.com/products/kimi-work",
+        "description": "<p>Article URL: <a href=\"https://www.kimi.com/products/kimi-work\">https://www.kimi.com/products/kimi-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981703\">https://news.ycombinator.com/item?id=48981703</a></p>\n<p>Points: 103</p>\n<p># Comments: 51</p>",
+        "pubDate": "Mon, 20 Jul 2026 17:13:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48981703"
       },
       {
-        "title": "Airport Simulator",
-        "link": "https://airport.apunen.com/",
-        "description": "<p>Article URL: <a href=\"https://airport.apunen.com/\">https://airport.apunen.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976846\">https://news.ycombinator.com/item?id=48976846</a></p>\n<p>Points: 231</p>\n<p># Comments: 63</p>",
-        "pubDate": "Mon, 20 Jul 2026 10:30:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48976846"
+        "title": "Jelly UI: Soft-body physics for native HTML form controls",
+        "link": "https://jelly-ui.com/",
+        "description": "<p>Article URL: <a href=\"https://jelly-ui.com/\">https://jelly-ui.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981620\">https://news.ycombinator.com/item?id=48981620</a></p>\n<p>Points: 117</p>\n<p># Comments: 40</p>",
+        "pubDate": "Mon, 20 Jul 2026 17:07:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48981620"
       },
       {
-        "title": "Airbus Takes Flight from AWS",
-        "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\">https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976682\">https://news.ycombinator.com/item?id=48976682</a></p>\n<p>Points: 162</p>\n<p># Comments: 120</p>",
-        "pubDate": "Mon, 20 Jul 2026 10:12:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48976682"
+        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+        "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "description": "<p>Article URL: <a href=\"https://unslop.run/blog/measuring-ai-writing-on-arxiv\">https://unslop.run/blog/measuring-ai-writing-on-arxiv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981206\">https://news.ycombinator.com/item?id=48981206</a></p>\n<p>Points: 145</p>\n<p># Comments: 105</p>",
+        "pubDate": "Mon, 20 Jul 2026 16:36:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48981206"
       },
       {
-        "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-        "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-        "description": "<p>Article URL: <a href=\"https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/\">https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48975665\">https://news.ycombinator.com/item?id=48975665</a></p>\n<p>Points: 262</p>\n<p># Comments: 138</p>",
-        "pubDate": "Mon, 20 Jul 2026 08:13:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48975665"
+        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+        "link": "https://news.ycombinator.com/item?id=48981136",
+        "description": "<p>Hi HN, I’m Alex Southmayd, the founder of Bloomy (<a href=\"https://bloomylearning.com\">https://bloomylearning.com</a>) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).<p>How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.<p>The goal is to solve the Bloom 2-sigma problem (<a href=\"https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem</a>) with AI.<p>Short launch video: <a href=\"https://tinyurl.com/bloomylearning\" rel=\"nofollow\">https://tinyurl.com/bloomylearning</a><p>Longer product demo: <a href=\"https://youtu.be/XHvoKt6qMeo\" rel=\"nofollow\">https://youtu.be/XHvoKt6qMeo</a><p>Families access for Bloomy: <a href=\"https://bloomylearning.com/families\">https://bloomylearning.com/families</a><p>I started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.<p>Then AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.<p>Most students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learning products often feel like digital worksheets: they provide plenty of practice, but not much diagnosis or teaching. Very few have AI tutors providing the core instruction.\nBloomy starts with a diagnostic—we integrate with third-party assessments and provide our own—and creates a learning path for each student. Students work one skill at a time, receive a short lesson, practice at an adaptive difficulty, and only move forward after demonstrating at least 90% mastery. The learning path updates as the student works, based on their performance and our knowledge graph of skill prerequisites (built in collaboration with Learning Commons / Chan Zuckerberg Initiative).<p>Each skill has three stages. Base Camp teaches the concept with worked examples. Climb provides guided practice and Socratic support. Summit is an independent ten-question mastery assessment with no hints or AI assistance. Students need to achieve 90% on the Summit to advance. If they struggle too much, they’ll be routed to a different skill better suited for their level.<p>BloomyBot is not a blank chat window but rather a live, interactive, and observant digital tutor. During practice, it receives the active passage or problem, the question, the student’s attempt, an authored explanation, and relevant misconception context. It follows a scaffolded tutoring ladder: first asking what the student tried, then pointing toward the concept, suggesting a strategy, working through one step together, and only providing heavier scaffolding after the student has struggled, adapting to and learning from the student along the way. Students can interrupt it, and we’ve begun to roll out multilingual support for Spanish, French, and a few other more niche languages that customers have asked for.<p>We currently use a variety of Anthropic and OpenAI models for BloomyBot. The tutor is restricted to the current lesson, redirects unrelated questions, limits conversation length, and is unavailable during mastery assessments. The language model does not choose the curriculum or decide whether a student has mastered a skill.<p>That separation is important. A conventionally “helpful” AI response can be a bad tutoring response: if it gives away the answer, the student completes the task but may not learn anything. Our goal is not to build a homework-answering chatbot. It is to put AI inside a structured loop of diagnosis, instruction, practice, feedback, and independent mastery.<p>LLMs can still be wrong, and we do not claim our constraints eliminate that. We reduce the surface area by grounding BloomyBot in authored lesson content, keeping it on topic, logging conversations, and removing it from assessments. Teachers and parents can review tutoring activity, students can report problems, and safety signals trigger human alerts and a backup audit.\nWe also do not see Bloomy as a replacement for teachers, parents, or human tutors. A good human tutor is better. The narrower question we are testing is whether, during a bounded learning session a student would already be doing, a context-aware tutor can provide better help than static “correct/incorrect” feedback. Longer term, the question becomes more whether a student would perform better with one-on-one AI tutoring (at least in certain aspects of the curriculum) than with many-to-one instruction in a medium- or large-sized classroom.<p>Bloomy is now being used across several settings: traditional districts, charter schools, hybrid schools, microschools, homeschools, and families looking for additional academic support. In an early pilot at a charter school in Massachusetts serving ~150 students in grades 6 through 8, students averaged roughly 1.8 times the expected winter-to-spring NWEA MAP growth. This was an observational pilot, not a randomized study, so we treat it as an encouraging signal rather than proof that Bloomy caused the difference.<p>Parents and teachers can see what a student has mastered, what is in progress, and where support may be needed. We have found that adults generally do not want another generic score; they want to know which small number of skills deserve attention this week.<p>Bloomy makes money through family subscriptions and school licensing. ELA costs $39/month or $279/year per learner, and Writing Studio costs $19/month or $139/year. Math is scheduled to launch July 31 at the same price as ELA. Schools and microschools pay per student, with pricing varying by subject coverage, enrollment, rostering, and implementation needs.<p>Because children use Bloomy, we collect learning responses, progress data, and tutoring conversations. We do not sell personal information, use child data for behavioral advertising, or permit model providers to train general-purpose models on identifiable child data sent by Bloomy. We have Zero Data Retention agreements with both Anthropic and OpenAI. Parents and schools can request access, export, correction, or deletion under the applicable account or school agreement.<p>More background on me: after Teach For America, I taught and designed GMAT and GRE curriculum for Manhattan Prep / Kaplan, led the driver acquisition team for Lyft’s New England markets, completed an MBA at Stanford, and led AI transformation projects at McKinsey (so when models finally became good enough this past January to achieve the kinds of things I am pursuing with Bloomy, I was in the right place at the right time to begin building). Bloomy brings together the different parts of my career that I care most about: educational outcomes, learning design, building products, and getting useful technology into people’s hands.<p>I’d especially value feedback from parents, teachers, engineers working on child-facing AI, and people who have built tutoring, assessment, or adaptive-learning systems. Does the separation between guided AI help and independent mastery make sense? Where do you see the greatest potential with AI in education? Where are our safeguards insufficient? What evidence or product behavior would you need to trust something like this with a student?<p>Certainly there are many dangers and pitfalls we must beware of, too, but I believe we can really move the needle in K-12 (for the first time in a long time) if we use AI responsibly and intelligently.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981136\">https://news.ycombinator.com/item?id=48981136</a></p>\n<p>Points: 27</p>\n<p># Comments: 60</p>",
+        "pubDate": "Mon, 20 Jul 2026 16:32:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48981136"
       },
       {
-        "title": "Xiaomi-Robotics-1",
-        "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-        "description": "<p>Article URL: <a href=\"https://robotics.xiaomi.com/xiaomi-robotics-1.html\">https://robotics.xiaomi.com/xiaomi-robotics-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974454\">https://news.ycombinator.com/item?id=48974454</a></p>\n<p>Points: 344</p>\n<p># Comments: 230</p>",
-        "pubDate": "Mon, 20 Jul 2026 04:45:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48974454"
+        "title": "I Stopped \"Creating Content\"",
+        "link": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+        "description": "<p>Article URL: <a href=\"https://refactoringenglish.com/blog/why-i-stopped-creating-content/\">https://refactoringenglish.com/blog/why-i-stopped-creating-content/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980520\">https://news.ycombinator.com/item?id=48980520</a></p>\n<p>Points: 93</p>\n<p># Comments: 67</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:47:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48980520"
       },
       {
-        "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-        "link": "https://github.com/Saivineeth147/lora-speedrun",
-        "description": "<p>Article URL: <a href=\"https://github.com/Saivineeth147/lora-speedrun\">https://github.com/Saivineeth147/lora-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974325\">https://news.ycombinator.com/item?id=48974325</a></p>\n<p>Points: 115</p>\n<p># Comments: 23</p>",
-        "pubDate": "Mon, 20 Jul 2026 04:24:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48974325"
+        "title": "Ziggity – A terminal UI for Git, written in Zig",
+        "link": "https://github.com/simoarpe/ziggity",
+        "description": "<p>Article URL: <a href=\"https://github.com/simoarpe/ziggity\">https://github.com/simoarpe/ziggity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980506\">https://news.ycombinator.com/item?id=48980506</a></p>\n<p>Points: 40</p>\n<p># Comments: 28</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:46:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48980506"
       },
       {
-        "title": "Satan's 19th-Century Bank Note (2017)",
-        "link": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-        "description": "<p>Article URL: <a href=\"https://www.historytoday.com/miscellanies/satans-19th-century-bank-note\">https://www.historytoday.com/miscellanies/satans-19th-century-bank-note</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48973455\">https://news.ycombinator.com/item?id=48973455</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-        "pubDate": "Mon, 20 Jul 2026 01:31:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48973455"
+        "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+        "link": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NwhVJ7cv9B4\">https://www.youtube.com/watch?v=NwhVJ7cv9B4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980404\">https://news.ycombinator.com/item?id=48980404</a></p>\n<p>Points: 38</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:40:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48980404"
       },
       {
-        "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-        "link": "https://github.com/hgaiser/moonshine",
-        "description": "<p>Article URL: <a href=\"https://github.com/hgaiser/moonshine\">https://github.com/hgaiser/moonshine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48972970\">https://news.ycombinator.com/item?id=48972970</a></p>\n<p>Points: 274</p>\n<p># Comments: 111</p>",
-        "pubDate": "Mon, 20 Jul 2026 00:16:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48972970"
+        "title": "The Voice of Google",
+        "link": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google\">https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980053\">https://news.ycombinator.com/item?id=48980053</a></p>\n<p>Points: 91</p>\n<p># Comments: 36</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:15:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48980053"
       },
       {
-        "title": "Orion Browser by Kagi",
-        "link": "https://orionbrowser.com/",
-        "description": "<p>Article URL: <a href=\"https://orionbrowser.com/\">https://orionbrowser.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970894\">https://news.ycombinator.com/item?id=48970894</a></p>\n<p>Points: 263</p>\n<p># Comments: 220</p>",
-        "pubDate": "Sun, 19 Jul 2026 19:13:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48970894"
+        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+        "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+        "description": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/frontier-lab-economics/\">https://www.emergingtrajectories.com/lh/frontier-lab-economics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980019\">https://news.ycombinator.com/item?id=48980019</a></p>\n<p>Points: 197</p>\n<p># Comments: 199</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:13:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48980019"
       },
       {
-        "title": "ECC and DDR5",
-        "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-        "description": "<p>Article URL: <a href=\"https://etbe.coker.com.au/2026/07/19/ecc-ddr5/\">https://etbe.coker.com.au/2026/07/19/ecc-ddr5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969530\">https://news.ycombinator.com/item?id=48969530</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sun, 19 Jul 2026 16:31:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48969530"
+        "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+        "link": "https://nothings.org/gamedev/ssao/",
+        "description": "<p>Article URL: <a href=\"https://nothings.org/gamedev/ssao/\">https://nothings.org/gamedev/ssao/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979931\">https://news.ycombinator.com/item?id=48979931</a></p>\n<p>Points: 117</p>\n<p># Comments: 43</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:07:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48979931"
       },
       {
-        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-        "link": "https://news.ycombinator.com/item?id=48968606",
-        "description": "<p>I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food desert? This is an R&R desert.<p>It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn't work perfectly. The system that keeps your score is particularly interesting to me. It's the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.<p>Ours was installed in 2008 and cost six figures. It's calculating ball speed and trajectory, camera-based pin detection (object detection and trig, on ICs!), runs the fouling, the animations, the pinsetting machine and ball return. Very cool stuff for its age.<p>From the business perspective, my facility only cost me $105k. To forklift-replace the score keeping system runs anywhere between $80-$120k, depending on features, vendor, and unit age. No upgrades or service contracts, mind you, and every feature and customization is a new line item. That's for a 1:1 replacement on a system installed in 2008. Incredible, given how fast the tech world moves.<p>Replacement parts cost a shocking $4000 per pair of lanes. But wait, the bowling machines themselves are 70 years old, so what's this \"advanced\" system actually doing back there? Actuating a single relay to trigger that big old machine. Everything else is strictly mechanical. Meanwhile I've got a six-figure invoice in my hand. I'm upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I've built an equivalent prototype for about $200 per lane-pair, $400 if you're fancy. ESP32 and ESPNow with an RS485 fallback, reporting to a raspberry pi lane computer that's really just redis and a state machine bolted to an ESP32 gateway for the mesh.<p>Since it's all ESP32, I've got a fistful of spare controllers in a drawer, pre-flashed or waiting to be. All common off-the-shelf hardware: microcontrollers wired to relays, optocouplers, and IR-break-beam sensors, each running slightly different firmware. Writing the firmware and protocol is the actual hard part.<p>It's an ESPNow star-topology mesh: each node emits events from its sensors and accepts commands for its controls, reporting to a gateway node connected to the raspi over UART. From there it's event streaming: RX packets get translated and tossed into redis, commands relay back out to the mesh as needed. RS485 sits underneath as a wired fallback for noisy RF environments.<p>Once the data's in redis, it's familiar middleware/React/websocket/pub-sub stuff. Any React dev can build their own UI and bowling animations. Since it all runs on commodity hardware, I can do legit anything I want as the proprietor, and I own all my data. Repairs take five minutes; I can swap the rig on a lane pair in under 10. I'd bet a house like mine could go from zero to running in an hour or two.<p>We're calling it OpenLaneLink, and I plan to open source the hardware, firmware, and software stack when it's ready. Bowling is fun, and I want to help keep it affordable for alleys like mine.\nI hate vendor lock-in. I'm not a fan of closed systems, calling support for every hiccup, or paying to \"white label\" my own equipment. Want to go Tron-themed for a night? Good luck finding a neon neumorphic theme in something bought at the turn of the century.<p>All that bugged me. Sure, bowling equipment is niche, but the open hardware and software landscape is amazing.<p>Thanks for reading! Let me know if anyone's interested in more posts about this bowling nonsense.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968606\">https://news.ycombinator.com/item?id=48968606</a></p>\n<p>Points: 2627</p>\n<p># Comments: 293</p>",
-        "pubDate": "Sun, 19 Jul 2026 14:41:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48968606"
+        "title": "NYC Subway Signals: A Complete Guide",
+        "link": "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide",
+        "description": "<p>Article URL: <a href=\"https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide\">https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979823\">https://news.ycombinator.com/item?id=48979823</a></p>\n<p>Points: 32</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 20 Jul 2026 15:00:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48979823"
       },
       {
-        "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-        "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg8edqq5g5o\">https://www.bbc.com/news/articles/cvg8edqq5g5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968063\">https://news.ycombinator.com/item?id=48968063</a></p>\n<p>Points: 175</p>\n<p># Comments: 134</p>",
-        "pubDate": "Sun, 19 Jul 2026 13:29:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48968063"
+        "title": "Controlling Reasoning Effort in LLMs",
+        "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+        "description": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms\">https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979475\">https://news.ycombinator.com/item?id=48979475</a></p>\n<p>Points: 43</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 20 Jul 2026 14:35:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48979475"
       },
       {
-        "title": "Minecraft: Java Edition now uses SDL3",
-        "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-        "description": "<p>Article URL: <a href=\"https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967256\">https://news.ycombinator.com/item?id=48967256</a></p>\n<p>Points: 339</p>\n<p># Comments: 231</p>",
-        "pubDate": "Sun, 19 Jul 2026 11:48:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48967256"
+        "title": "China's open-weights AI strategy is winning",
+        "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "description": "<p>Article URL: <a href=\"https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/\">https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979269\">https://news.ycombinator.com/item?id=48979269</a></p>\n<p>Points: 552</p>\n<p># Comments: 472</p>",
+        "pubDate": "Mon, 20 Jul 2026 14:21:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48979269"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-20T14:26:28.659Z",
+  "lastUpdated": "2026-07-20T19:52:28.316Z",
   "stats": {
     "feeds": 2,
     "articles": 20
