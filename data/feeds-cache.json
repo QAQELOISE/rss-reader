@@ -5,141 +5,148 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-22T08:40:34.408Z"
+      "lastFetched": "2026-07-22T14:15:26.426Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-22T08:40:53.762Z"
+      "lastFetched": "2026-07-22T14:15:45.907Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
-        "link": "https://www.readkinetic.com/app/",
-        "description": "<p>Article URL: <a href=\"https://www.readkinetic.com/app/\">https://www.readkinetic.com/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002344\">https://news.ycombinator.com/item?id=49002344</a></p>\n<p>Points: 48</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 22 Jul 2026 05:49:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49002344"
+        "title": "Back to Kagi",
+        "link": "https://blog.melashri.net/micro/back-to-kagi/",
+        "description": "<p>Article URL: <a href=\"https://blog.melashri.net/micro/back-to-kagi/\">https://blog.melashri.net/micro/back-to-kagi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006195\">https://news.ycombinator.com/item?id=49006195</a></p>\n<p>Points: 81</p>\n<p># Comments: 55</p>",
+        "pubDate": "Wed, 22 Jul 2026 13:08:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49006195"
       },
       {
-        "title": "Show HN: A new kind of FPS aim trainer",
-        "link": "https://openaim.pramit.gg/",
-        "description": "<p>I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also chooses sens and difficulty as part of the tasks, and makes playlists that are optimal difficulty for you to learn and progress faster!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002276\">https://news.ycombinator.com/item?id=49002276</a></p>\n<p>Points: 30</p>\n<p># Comments: 14</p>",
-        "pubDate": "Wed, 22 Jul 2026 05:39:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49002276"
+        "title": "Businesses with ugly AI menu redesigns",
+        "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+        "description": "<p>Article URL: <a href=\"https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/\">https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005973\">https://news.ycombinator.com/item?id=49005973</a></p>\n<p>Points: 69</p>\n<p># Comments: 37</p>",
+        "pubDate": "Wed, 22 Jul 2026 12:49:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49005973"
+      },
+      {
+        "title": "10 REM\"_(C2SLFF4",
+        "link": "https://beej.us/blog/data/mystery-comment/",
+        "description": "<p>Article URL: <a href=\"https://beej.us/blog/data/mystery-comment/\">https://beej.us/blog/data/mystery-comment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005329\">https://news.ycombinator.com/item?id=49005329</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+        "pubDate": "Wed, 22 Jul 2026 11:58:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49005329"
+      },
+      {
+        "title": "OverpAId – Fire your CEO. Hire the future",
+        "link": "https://overpaid.lol",
+        "description": "<p>Article URL: <a href=\"https://overpaid.lol\">https://overpaid.lol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49004663\">https://news.ycombinator.com/item?id=49004663</a></p>\n<p>Points: 435</p>\n<p># Comments: 199</p>",
+        "pubDate": "Wed, 22 Jul 2026 10:49:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49004663"
       },
       {
         "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
         "link": "https://github.com/chrislgarry/Apollo-11",
-        "description": "<p>Article URL: <a href=\"https://github.com/chrislgarry/Apollo-11\">https://github.com/chrislgarry/Apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002166\">https://news.ycombinator.com/item?id=49002166</a></p>\n<p>Points: 55</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/chrislgarry/Apollo-11\">https://github.com/chrislgarry/Apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002166\">https://news.ycombinator.com/item?id=49002166</a></p>\n<p>Points: 118</p>\n<p># Comments: 36</p>",
         "pubDate": "Wed, 22 Jul 2026 05:18:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49002166"
       },
       {
+        "title": "Never Enough",
+        "link": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+        "description": "<p>Article URL: <a href=\"https://dark.ronacher.eu/2026/7/21/never-enough/\">https://dark.ronacher.eu/2026/7/21/never-enough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001472\">https://news.ycombinator.com/item?id=49001472</a></p>\n<p>Points: 101</p>\n<p># Comments: 34</p>",
+        "pubDate": "Wed, 22 Jul 2026 03:24:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49001472"
+      },
+      {
         "title": "Late.sh – a command-line Clubhouse for computer people",
         "link": "https://late.sh/",
-        "description": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Points: 136</p>\n<p># Comments: 47</p>",
+        "description": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Points: 245</p>\n<p># Comments: 86</p>",
         "pubDate": "Wed, 22 Jul 2026 02:32:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49001127"
       },
       {
-        "title": "LG to ban residential proxies from smart TV apps",
-        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000864\">https://news.ycombinator.com/item?id=49000864</a></p>\n<p>Points: 245</p>\n<p># Comments: 211</p>",
-        "pubDate": "Wed, 22 Jul 2026 01:52:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49000864"
-      },
-      {
         "title": "Ten Steps Towards Happiness (2015)",
         "link": "http://hintjens.com/blog:99",
-        "description": "<p>Article URL: <a href=\"http://hintjens.com/blog:99\">http://hintjens.com/blog:99</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000600\">https://news.ycombinator.com/item?id=49000600</a></p>\n<p>Points: 115</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"http://hintjens.com/blog:99\">http://hintjens.com/blog:99</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000600\">https://news.ycombinator.com/item?id=49000600</a></p>\n<p>Points: 179</p>\n<p># Comments: 75</p>",
         "pubDate": "Wed, 22 Jul 2026 01:17:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49000600"
       },
       {
         "title": "It's a shame what's happened to radio",
         "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
-        "description": "<p>Article URL: <a href=\"https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\">https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999825\">https://news.ycombinator.com/item?id=48999825</a></p>\n<p>Points: 99</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\">https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999825\">https://news.ycombinator.com/item?id=48999825</a></p>\n<p>Points: 162</p>\n<p># Comments: 179</p>",
         "pubDate": "Tue, 21 Jul 2026 23:33:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=48999825"
       },
       {
         "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
         "link": "https://fireworks.ai/blog/kimik3-fable",
-        "description": "<p>Also: Kimi K3: second only to Fable 5 on AA-Briefcase\n <a href=\"https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark\" rel=\"nofollow\">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowl...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 578</p>\n<p># Comments: 322</p>",
+        "description": "<p>Also: Kimi K3: second only to Fable 5 on AA-Briefcase\n <a href=\"https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark\" rel=\"nofollow\">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowl...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 763</p>\n<p># Comments: 397</p>",
         "pubDate": "Tue, 21 Jul 2026 22:35:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=48999291"
       },
       {
         "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
         "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-        "description": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 76</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 113</p>\n<p># Comments: 39</p>",
         "pubDate": "Tue, 21 Jul 2026 21:27:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=48998606"
       },
       {
         "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
         "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 188</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 227</p>\n<p># Comments: 80</p>",
         "pubDate": "Tue, 21 Jul 2026 21:13:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=48998404"
       },
       {
         "title": "A digestion of the Jacobian conjecture counterexample",
         "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 250</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 288</p>\n<p># Comments: 118</p>",
         "pubDate": "Tue, 21 Jul 2026 21:09:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=48998362"
       },
       {
         "title": "OpenAI and Hugging Face address security incident during model evaluation",
         "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "description": "<p><a href=\"https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https://www.axios.com/2026/07/21/openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https://news.ycombinator.com/item?id=48956248\">https://news.ycombinator.com/item?id=48956248</a> (9 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 1079</p>\n<p># Comments: 732</p>",
+        "description": "<p><a href=\"https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https://www.axios.com/2026/07/21/openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https://news.ycombinator.com/item?id=48956248\">https://news.ycombinator.com/item?id=48956248</a> (9 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 1374</p>\n<p># Comments: 928</p>",
         "pubDate": "Tue, 21 Jul 2026 20:09:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=48997548"
       },
       {
-        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-        "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-        "description": "<p>Article URL: <a href=\"https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling\">https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997221\">https://news.ycombinator.com/item?id=48997221</a></p>\n<p>Points: 530</p>\n<p># Comments: 89</p>",
-        "pubDate": "Tue, 21 Jul 2026 19:43:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48997221"
-      },
-      {
         "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
         "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\">https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996652\">https://news.ycombinator.com/item?id=48996652</a></p>\n<p>Points: 329</p>\n<p># Comments: 246</p>",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\">https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996652\">https://news.ycombinator.com/item?id=48996652</a></p>\n<p>Points: 467</p>\n<p># Comments: 435</p>",
         "pubDate": "Tue, 21 Jul 2026 19:04:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=48996652"
       },
       {
         "title": "Advertise in ChatGPT",
         "link": "https://ads.openai.com/",
-        "description": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 699</p>\n<p># Comments: 486</p>",
+        "description": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 941</p>\n<p># Comments: 721</p>",
         "pubDate": "Tue, 21 Jul 2026 18:58:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48996571"
       },
       {
         "title": "FreeInk: Open ecosystem for e-readers",
         "link": "https://freeink.org/",
-        "description": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 538</p>\n<p># Comments: 116</p>",
+        "description": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 644</p>\n<p># Comments: 132</p>",
         "pubDate": "Tue, 21 Jul 2026 18:39:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48996318"
       },
       {
         "title": "Laguna S 2.1",
         "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-        "description": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 305</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 371</p>\n<p># Comments: 69</p>",
         "pubDate": "Tue, 21 Jul 2026 17:17:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995261"
       },
       {
         "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
         "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "description": "<p><a href=\"https://x.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://x.com/jack/status/2079605800998146171</a>, <a href=\"https://xcancel.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://xcancel.com/jack/status/2079605800998146171</a><p><a href=\"https://buzz.xyz/\" rel=\"nofollow\">https://buzz.xyz/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 311</p>\n<p># Comments: 262</p>",
+        "description": "<p><a href=\"https://x.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://x.com/jack/status/2079605800998146171</a>, <a href=\"https://xcancel.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://xcancel.com/jack/status/2079605800998146171</a><p><a href=\"https://buzz.xyz/\" rel=\"nofollow\">https://buzz.xyz/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 346</p>\n<p># Comments: 306</p>",
         "pubDate": "Tue, 21 Jul 2026 17:14:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995213"
       },
@@ -149,18 +156,11 @@
         "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
         "pubDate": "Tue, 21 Jul 2026 17:00:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995037"
-      },
-      {
-        "title": "Roblox Officially Supports GrapheneOS",
-        "link": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
-        "description": "<p>Article URL: <a href=\"https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation\">https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48994716\">https://news.ycombinator.com/item?id=48994716</a></p>\n<p>Points: 178</p>\n<p># Comments: 45</p>",
-        "pubDate": "Tue, 21 Jul 2026 16:39:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48994716"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-22T08:40:53.762Z",
+  "lastUpdated": "2026-07-22T14:15:45.907Z",
   "stats": {
     "feeds": 2,
     "articles": 20
