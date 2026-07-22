@@ -5,150 +5,143 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-21T19:43:41.907Z"
+      "lastFetched": "2026-07-22T03:31:27.728Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-21T19:44:01.520Z"
+      "lastFetched": "2026-07-22T03:31:47.229Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000864\">https://news.ycombinator.com/item?id=49000864</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
+        "pubDate": "Wed, 22 Jul 2026 01:52:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49000864"
+      },
+      {
+        "title": "Ten Steps Towards Happiness (2015)",
+        "link": "http://hintjens.com/blog:99",
+        "description": "<p>Article URL: <a href=\"http://hintjens.com/blog:99\">http://hintjens.com/blog:99</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000600\">https://news.ycombinator.com/item?id=49000600</a></p>\n<p>Points: 31</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 22 Jul 2026 01:17:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49000600"
+      },
+      {
+        "title": "How an AI Anime Is Created",
+        "link": "https://www.aventos.dev/our-process?view=blog",
+        "description": "<p>Article URL: <a href=\"https://www.aventos.dev/our-process?view=blog\">https://www.aventos.dev/our-process?view=blog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000429\">https://news.ycombinator.com/item?id=49000429</a></p>\n<p>Points: 22</p>\n<p># Comments: 19</p>",
+        "pubDate": "Wed, 22 Jul 2026 00:53:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49000429"
+      },
+      {
+        "title": "A flaky test exposed a Redis client use-after-free",
+        "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+        "description": "<p>Article URL: <a href=\"https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/\">https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000250\">https://news.ycombinator.com/item?id=49000250</a></p>\n<p>Points: 32</p>\n<p># Comments: 10</p>",
+        "pubDate": "Wed, 22 Jul 2026 00:27:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49000250"
+      },
+      {
+        "title": "It's a shame what's happened to radio",
+        "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+        "description": "<p>Article URL: <a href=\"https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\">https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999825\">https://news.ycombinator.com/item?id=48999825</a></p>\n<p>Points: 34</p>\n<p># Comments: 14</p>",
+        "pubDate": "Tue, 21 Jul 2026 23:33:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48999825"
+      },
+      {
+        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+        "link": "https://fireworks.ai/blog/kimik3-fable",
+        "description": "<p>Article URL: <a href=\"https://fireworks.ai/blog/kimik3-fable\">https://fireworks.ai/blog/kimik3-fable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 358</p>\n<p># Comments: 204</p>",
+        "pubDate": "Tue, 21 Jul 2026 22:35:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48999291"
+      },
+      {
+        "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+        "link": "https://www.getcomputable.com/",
+        "description": "<p>Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through private bilateral leases, there’s no visible price, and nothing can be resold. The same H100 rents at a 2x spread depending on who’s asking, and once you sign a 24-month lease, it can never change hands.<p>So we built a market for GPU nodes, sold by the calendar week. Here are three things you can do on it that you can’t do anywhere else:<p>- Buy exactly the weeks you need. Three nodes for the last two weeks of October means you pay for those two weeks and walk away when the run is done. You don't have to commit to 6-24 months, and there's no flexibility premium.<p>- Sell back what you don’t use. If your plans change, unused weeks turn back into cash: we keep a market quote posted on every position, so there’s always a price to hit.<p>- Buy (or sell) the future. Lock January in July at a price you set, so the cost of a future run is known before another 40% H100 rate jump makes it not.<p>The first auction is live now at <a href=\"https://market.getcomputable.com\">https://market.getcomputable.com</a>: a block of nodes, August through the end of January. Bidding closes July 31. The bids are sealed. You bid how many nodes, which weeks, and your price. Every clearing price gets published after settlement, because nobody knows what a GPU week is worth and we want the prints to exist in public.<p>Happy to go deep in the comments on anything, including the clearing mechanism, which is a packing problem and was fun to design!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998828\">https://news.ycombinator.com/item?id=48998828</a></p>\n<p>Points: 27</p>\n<p># Comments: 20</p>",
+        "pubDate": "Tue, 21 Jul 2026 21:48:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48998828"
+      },
+      {
+        "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+        "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+        "description": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 48</p>\n<p># Comments: 16</p>",
+        "pubDate": "Tue, 21 Jul 2026 21:27:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48998606"
+      },
+      {
+        "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+        "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 133</p>\n<p># Comments: 49</p>",
+        "pubDate": "Tue, 21 Jul 2026 21:13:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48998404"
+      },
+      {
+        "title": "A digestion of the Jacobian conjecture counterexample",
+        "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 198</p>\n<p># Comments: 66</p>",
+        "pubDate": "Tue, 21 Jul 2026 21:09:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48998362"
+      },
+      {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "description": "<p><a href=\"https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https://www.axios.com/2026/07/21/openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https://news.ycombinator.com/item?id=48956248\">https://news.ycombinator.com/item?id=48956248</a> (9 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 794</p>\n<p># Comments: 550</p>",
+        "pubDate": "Tue, 21 Jul 2026 20:09:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48997548"
+      },
+      {
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+        "description": "<p>Article URL: <a href=\"https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling\">https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997221\">https://news.ycombinator.com/item?id=48997221</a></p>\n<p>Points: 408</p>\n<p># Comments: 71</p>",
+        "pubDate": "Tue, 21 Jul 2026 19:43:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48997221"
+      },
+      {
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\">https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996652\">https://news.ycombinator.com/item?id=48996652</a></p>\n<p>Points: 162</p>\n<p># Comments: 121</p>",
+        "pubDate": "Tue, 21 Jul 2026 19:04:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48996652"
+      },
+      {
         "title": "Advertise in ChatGPT",
         "link": "https://ads.openai.com/",
-        "description": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 103</p>\n<p># Comments: 97</p>",
+        "description": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 406</p>\n<p># Comments: 362</p>",
         "pubDate": "Tue, 21 Jul 2026 18:58:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=48996571"
       },
       {
-        "title": "The Price of Happiness",
-        "link": "https://happiness-science.org/price-of-happiness/",
-        "description": "<p>Article URL: <a href=\"https://happiness-science.org/price-of-happiness/\">https://happiness-science.org/price-of-happiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996364\">https://news.ycombinator.com/item?id=48996364</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:42:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996364"
-      },
-      {
-        "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
-        "link": "https://github.com/Hikari-Systems/slater",
-        "description": "<p>Article URL: <a href=\"https://github.com/Hikari-Systems/slater\">https://github.com/Hikari-Systems/slater</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996325\">https://news.ycombinator.com/item?id=48996325</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:39:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996325"
-      },
-      {
-        "title": "Freeink: Open Ecosystem for E-Readers",
+        "title": "FreeInk: Open ecosystem for e-readers",
         "link": "https://freeink.org/",
-        "description": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 46</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 439</p>\n<p># Comments: 109</p>",
         "pubDate": "Tue, 21 Jul 2026 18:39:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48996318"
       },
       {
-        "title": "AI Agent – TRMNL",
-        "link": "https://help.trmnl.com/en/articles/14130438-ai-agent",
-        "description": "<p>Article URL: <a href=\"https://help.trmnl.com/en/articles/14130438-ai-agent\">https://help.trmnl.com/en/articles/14130438-ai-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996236\">https://news.ycombinator.com/item?id=48996236</a></p>\n<p>Points: 9</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:32:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996236"
-      },
-      {
-        "title": "Apple has decided to compete for creativity app users",
-        "link": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
-        "description": "<p>Article URL: <a href=\"https://alex4d.com/notes/item/apple-competing-for-creativity-app-users\">https://alex4d.com/notes/item/apple-competing-for-creativity-app-users</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996211\">https://news.ycombinator.com/item?id=48996211</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:30:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996211"
-      },
-      {
-        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-        "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "description": "<p>Article URL: <a href=\"https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/\">https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996197\">https://news.ycombinator.com/item?id=48996197</a></p>\n<p>Points: 66</p>\n<p># Comments: 19</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:30:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996197"
-      },
-      {
-        "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
-        "link": "https://github.com/Kalcode/spaceprojectsim",
-        "description": "<p>I built this with Claude cause I always wanted to tinker with a simulation economoy and I love space themes.<p>A space-economy sim where nothing is scripted. A few hundred autonomous ships each run their own planner. Some chase the best trade route, take a delivery contract, refuel, retrofit at a shipyard, or dock so the crew can rest before morale tanks.<p>Markets price everything off supply with shortage-urgency multipliers, factions tax and subsidize, populations migrate when they're unhappy, and stations that go broke get abandoned and rot.<p>It started as an Elixir/Phoenix prototype, but the BEAM scheduler struggled on Windows gaming PCs, so I had Claude rewrite the engine in Rust.<p>The sim core is pure, synchronous, IO-free (its own hecs ECS), and the Bevy client embeds it directly as a library, sim and renderer share one world with zero marshalling. Ship AI is a GOAP planner over a world state; ships replan mid-flight when a better option appears. ~485 agents today at p50 ~10-20ms/tick, architected to push toward 100k+. Single native binary, bundled SQLite, no runtime deps. Getting into 100k has been a struggle, but I have pushed it into the thousand and it was running fine.<p>It's a sandbox, not a game yet, there's no objective yet, and I'm not actively pushing it toward \"shippable.\" Anyone can fork it and take it over. Or it can stay as some type of AI slop, but part of me thinks it is already in a pretty good shape for a simulation use for various games or ideas.<p>(Full disclosure: a lot of this was built pairing with Claude. That's how I had the bandwidth to take it this far. Happy to talk about what that workflow actually looked like.)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996187\">https://news.ycombinator.com/item?id=48996187</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:29:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996187"
-      },
-      {
-        "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
-        "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
-        "description": "<p>Article URL: <a href=\"https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/\">https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996128\">https://news.ycombinator.com/item?id=48996128</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:25:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996128"
-      },
-      {
-        "title": "YouTube System Design for Robotics Data Infrastructure",
-        "link": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
-        "description": "<p>Article URL: <a href=\"https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure\">https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995923\">https://news.ycombinator.com/item?id=48995923</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:08:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995923"
-      },
-      {
-        "title": "Greedy is optimal for single-pass semi-streaming matching",
-        "link": "https://arxiv.org/abs/2607.14656",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.14656\">https://arxiv.org/abs/2607.14656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995814\">https://news.ycombinator.com/item?id=48995814</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:59:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995814"
-      },
-      {
         "title": "Apple Private Cloud Compute SoC 3 audit reports",
         "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
-        "description": "<p>Article URL: <a href=\"https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web\">https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995796\">https://news.ycombinator.com/item?id=48995796</a></p>\n<p>Points: 30</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web\">https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995796\">https://news.ycombinator.com/item?id=48995796</a></p>\n<p>Points: 108</p>\n<p># Comments: 47</p>",
         "pubDate": "Tue, 21 Jul 2026 17:58:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995796"
       },
       {
-        "title": "Show HN: DocCharm – The help center that keeps itself up to date",
-        "link": "https://doccharm.com/",
-        "description": "<p>Hello HN!<p>We were finding it too much work to keep our Zendesk help center up to date as our product kept changing, so I built DocCharm — it keeps a help center up to date automatically by watching PRs as they land in your GitHub repository. It suggests updates (with AI) to existing articles, or drafts entirely new ones if nothing appropriate exists yet.<p>Everything goes into a review queue first, so a human always checks (and can optionally edit) before anything publishes. In practice this has proven to be a pretty slick workflow (in my opinion anyway, but not only!).<p>We’ve been using it at my main job for a while now and it’s a big time saver. It’s also gaining some traction with other companies in the same investor portfolio. My sales process so far has been high-touch outbound. This probably won’t scale in the long run, but I’m hoping to learn as much as I can by nurturing all of the initial relationships. If you run a business with a help center that’s drifting out of date, email me and I’ll comp your first couple of months. Email is in my HN profile.<p>Both Zendesk and Mintlify help centers can already be automatically imported into DocCharm. If you use a different help center, let me know and I’ll get it automatically imported one way or another. I've also implemented some support for theming, so you can keep your own branding.<p>The tech is essentially the same that I use for most of my work (and it's not a differentiator, but we're all tech-curious here):<p>- Haskell/Yesod<p>- NixOS<p>- SQLite with Litestream (db per tenant; backed up on both Hetzner and Cloudflare; encrypted)<p>- Sentry for error reporting<p>- Stripe for billing<p>- Healthchecks.io as a dead man’s switch<p>- Prometheus and Grafana for telemetry<p>- Resend for transactional email<p>There's plenty still to do on the roadmap, but this is already working nicely and providing value as is. I'm not building in the open, though what I prioritise will naturally be heavily guided by the needs of the earliest users.<p>WDYT?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995507\">https://news.ycombinator.com/item?id=48995507</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:34:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995507"
-      },
-      {
-        "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
-        "link": "https://github.com/cristibaluta/Imagin-Raw",
-        "description": "<p>Article URL: <a href=\"https://github.com/cristibaluta/Imagin-Raw\">https://github.com/cristibaluta/Imagin-Raw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995444\">https://news.ycombinator.com/item?id=48995444</a></p>\n<p>Points: 33</p>\n<p># Comments: 7</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:30:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995444"
-      },
-      {
         "title": "Laguna S 2.1",
         "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-        "description": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 50</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 250</p>\n<p># Comments: 46</p>",
         "pubDate": "Tue, 21 Jul 2026 17:17:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995261"
       },
       {
         "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
         "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "description": "<p>Article URL: <a href=\"https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git\">https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 75</p>\n<p># Comments: 68</p>",
+        "description": "<p><a href=\"https://x.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://x.com/jack/status/2079605800998146171</a>, <a href=\"https://xcancel.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://xcancel.com/jack/status/2079605800998146171</a><p><a href=\"https://buzz.xyz/\" rel=\"nofollow\">https://buzz.xyz/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 259</p>\n<p># Comments: 227</p>",
         "pubDate": "Tue, 21 Jul 2026 17:14:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995213"
-      },
-      {
-        "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
-        "link": "https://github.com/AlmanacCode/codealmanac/",
-        "description": "<p>Hey HN! This is Divit from Almanac (YC S26). We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. It is open-source, local, and free.<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=XNQWV3TFBWM\" rel=\"nofollow\">https://www.youtube.com/watch?v=XNQWV3TFBWM</a><p>Your CC/Codex conversations contain a LOT of knowledge that is forgotten because it was never documented. People have their own methods of documenting their chats. We used to make Markdown files like MANUAL.md and DESIGN.md, and would prompt Claude to keep them updated. The problem is that these files quickly become outdated and messy, and there’s only so much you can put in a single file.<p>So we set out to build CodeAlmanac. We wanted something that was 1) maintained automatically, 2) lived inside our repository, and 3) used our existing Codex/Claude Code subscriptions.<p>CodeAlmanac maintains an almanac/ folder inside your repository. It contains connected Markdown pages that cover things not documented in the codebase, including decisions you have made and why the codebase is shaped this way.<p>The pages are indexed in SQLite and are queryable through a CLI. We add instructions to AGENTS.md or CLAUDE.md so future sessions automatically search the wiki before they start coding.<p>Every five hours, CodeAlmanac uses the Codex/CC SDK to spin up an agent that reads your new conversations and updates the relevant pages. We went with a time-based trigger instead of commits because we saw people commit very frequently, which would lead to high token costs.<p>We originally made CodeAlmanac for individual developers, but the team use case has become much more obvious to us while using it ourselves. We are a team of three, and each of us works with our own coding agents. Before this, I would make some change after a lot of thinking and then later have to call my cofounders and explain why it looked this way. There is almost a sense of relief now knowing that the decisions I made are written down somewhere their agents will actually read.<p>It’s live today for everyone to try. Please let me know your feedback and I’ll be here to answer any questions. Would also love to hear how you all maintain context across conversations today!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995181\">https://news.ycombinator.com/item?id=48995181</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:12:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995181"
-      },
-      {
-        "title": "Uhubctl – control USB power per-port on smart USB hubs",
-        "link": "https://github.com/mvp/uhubctl",
-        "description": "<p>Article URL: <a href=\"https://github.com/mvp/uhubctl\">https://github.com/mvp/uhubctl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995149\">https://news.ycombinator.com/item?id=48995149</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:09:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995149"
-      },
-      {
-        "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-        "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-        "description": "<p>Article URL: <a href=\"https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1\">https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995074\">https://news.ycombinator.com/item?id=48995074</a></p>\n<p>Points: 56</p>\n<p># Comments: 39</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:03:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995074"
       },
       {
         "title": "Bloomy (YC S26) is hiring a founding engineer",
@@ -156,11 +149,18 @@
         "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
         "pubDate": "Tue, 21 Jul 2026 17:00:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=48995037"
+      },
+      {
+        "title": "Show HN: An MCP server that turns async-work practices into tools",
+        "link": "https://github.com/open-and-async/mcp",
+        "description": "<p>More than a decade ago, I adopted the self-imposed rule, if I answer a question more than once, the third time I need to be able to answer with a URL. Today, I published one very large URL - a book distilling what I learned from helping people work remotely at GitHub, and I wanted to rethink my rule for the age of AI.<p>What if, instead of a URL, I could create an interactive experience that could tailor the guidance to your particular situation?<p>What I ended up building was an Open and Async Advisor MCP server. To install (in claude or any other AI):<p>> claude mcp add open-async -- npx -y @open-and-async/mcp<p>Transparently, yes, it's from a book I wrote which launched today, but the MCP server is open source and free to use. No purchase required. It knows the key principles of the book, and has specialized tools like `draft_decision_doc`, `convert_meeting_to_async`, `score_status_update`, `triage_sync_vs_async`.<p>This is an experiment for me, and I'm genuinely curious if it's helpful for others.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48994186\">https://news.ycombinator.com/item?id=48994186</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 21 Jul 2026 16:06:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=48994186"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-21T19:44:01.520Z",
+  "lastUpdated": "2026-07-22T03:31:47.229Z",
   "stats": {
     "feeds": 2,
     "articles": 20
