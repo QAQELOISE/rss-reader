@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-22T14:15:26.426Z"
+      "lastFetched": "2026-07-22T19:38:22.098Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-22T14:15:45.907Z"
+      "lastFetched": "2026-07-22T19:38:29.017Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Back to Kagi",
-        "link": "https://blog.melashri.net/micro/back-to-kagi/",
-        "description": "<p>Article URL: <a href=\"https://blog.melashri.net/micro/back-to-kagi/\">https://blog.melashri.net/micro/back-to-kagi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006195\">https://news.ycombinator.com/item?id=49006195</a></p>\n<p>Points: 81</p>\n<p># Comments: 55</p>",
-        "pubDate": "Wed, 22 Jul 2026 13:08:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49006195"
+        "title": "Everyone Should Know SIMD",
+        "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+        "description": "<p>Article URL: <a href=\"https://mitchellh.com/writing/everyone-should-know-simd\">https://mitchellh.com/writing/everyone-should-know-simd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010648\">https://news.ycombinator.com/item?id=49010648</a></p>\n<p>Points: 25</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 22 Jul 2026 17:48:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49010648"
       },
       {
-        "title": "Businesses with ugly AI menu redesigns",
-        "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-        "description": "<p>Article URL: <a href=\"https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/\">https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005973\">https://news.ycombinator.com/item?id=49005973</a></p>\n<p>Points: 69</p>\n<p># Comments: 37</p>",
-        "pubDate": "Wed, 22 Jul 2026 12:49:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49005973"
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "description": "<p>Article URL: <a href=\"https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\">https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010345\">https://news.ycombinator.com/item?id=49010345</a></p>\n<p>Points: 248</p>\n<p># Comments: 114</p>",
+        "pubDate": "Wed, 22 Jul 2026 17:30:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49010345"
       },
       {
-        "title": "10 REM\"_(C2SLFF4",
-        "link": "https://beej.us/blog/data/mystery-comment/",
-        "description": "<p>Article URL: <a href=\"https://beej.us/blog/data/mystery-comment/\">https://beej.us/blog/data/mystery-comment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005329\">https://news.ycombinator.com/item?id=49005329</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 22 Jul 2026 11:58:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49005329"
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "link": "https://github.com/marcelroed/gigatoken/",
+        "description": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 140</p>\n<p># Comments: 26</p>",
+        "pubDate": "Wed, 22 Jul 2026 17:20:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49010167"
       },
       {
-        "title": "OverpAId – Fire your CEO. Hire the future",
-        "link": "https://overpaid.lol",
-        "description": "<p>Article URL: <a href=\"https://overpaid.lol\">https://overpaid.lol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49004663\">https://news.ycombinator.com/item?id=49004663</a></p>\n<p>Points: 435</p>\n<p># Comments: 199</p>",
-        "pubDate": "Wed, 22 Jul 2026 10:49:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49004663"
+        "title": "Are AI Labs Pelicanmaxxing?",
+        "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "description": "<p>Article URL: <a href=\"https://dylancastillo.co/posts/pelicanmaxxing.html\">https://dylancastillo.co/posts/pelicanmaxxing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010129\">https://news.ycombinator.com/item?id=49010129</a></p>\n<p>Points: 91</p>\n<p># Comments: 32</p>",
+        "pubDate": "Wed, 22 Jul 2026 17:17:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49010129"
       },
       {
-        "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-        "link": "https://github.com/chrislgarry/Apollo-11",
-        "description": "<p>Article URL: <a href=\"https://github.com/chrislgarry/Apollo-11\">https://github.com/chrislgarry/Apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002166\">https://news.ycombinator.com/item?id=49002166</a></p>\n<p>Points: 118</p>\n<p># Comments: 36</p>",
-        "pubDate": "Wed, 22 Jul 2026 05:18:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49002166"
+        "title": "Show HN: Web swing through midtown NYC",
+        "link": "https://www.swingnyc.com/",
+        "description": "<p>Article URL: <a href=\"https://www.swingnyc.com/\">https://www.swingnyc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49009324\">https://news.ycombinator.com/item?id=49009324</a></p>\n<p>Points: 44</p>\n<p># Comments: 15</p>",
+        "pubDate": "Wed, 22 Jul 2026 16:25:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49009324"
       },
       {
-        "title": "Never Enough",
-        "link": "https://dark.ronacher.eu/2026/7/21/never-enough/",
-        "description": "<p>Article URL: <a href=\"https://dark.ronacher.eu/2026/7/21/never-enough/\">https://dark.ronacher.eu/2026/7/21/never-enough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001472\">https://news.ycombinator.com/item?id=49001472</a></p>\n<p>Points: 101</p>\n<p># Comments: 34</p>",
-        "pubDate": "Wed, 22 Jul 2026 03:24:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49001472"
+        "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+        "link": "https://unlayer.com",
+        "description": "<p>Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href=\"https://unlayer.com/\">https://unlayer.com/</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=0HsDtNkdMpM\" rel=\"nofollow\">https://www.youtube.com/watch?v=0HsDtNkdMpM</a>.<p>We started with an embeddable email editor because a lot of products eventually need one: CRMs, marketing tools, customer engagement platforms, marketplaces, internal tools, and vertical SaaS apps all run into this at some point. At first, it sounds like a small feature: \"just\" add a drag and drop editor. In practice, it turns into a big pain. You end up dealing with email rendering, Outlook quirks, responsive layouts, templates, merge tags, image uploads, exports, permissions, localization, versioning, and a long tail of edge cases that have nothing to do with your core product<p>Over time, we saw the same problem beyond email. Apps also need landing pages, invoices, proposals, reports, contracts, and PDFs. Some of this content is best created visually by end users. Some of it is better generated in code by developers. Increasingly, some of it is also generated by AI agents. Many teams eventually need all three workflows. That is the direction we have been working toward with Unlayer.<p>There are three parts we are showing today:<p>(1) <i>Unlayer Elements</i>. This is our open-source React component library for creating emails, pages, and documents in code (repo: <a href=\"https://github.com/unlayer/elements\" rel=\"nofollow\">https://github.com/unlayer/elements</a>, more at <a href=\"https://unlayer.com/elements\">https://unlayer.com/elements</a>). Instead of hand-writing raw HTML templates, developers can compose content using React components, reuse sections like headers, footers, CTAs, invoice rows, and branded blocks, keep templates in Git, and render them into production output.<p>One newer use case we are seeing is AI-assisted content creation. If an AI agent is asked to create an email, invoice, report, or landing page, the output is usually raw HTML or markdown that becomes hard to maintain. With Elements, the agent can generate structured React components instead. A developer can review the result, refactor it, keep it in Git, and still pass the design into a visual builder later if someone needs to edit it.<p>(2) <i>Visual Builder</i>. This is the drag and drop editor (repo: <a href=\"https://github.com/unlayer/react-email-editor\" rel=\"nofollow\">https://github.com/unlayer/react-email-editor</a>, more at <a href=\"https://unlayer.com/email-builder\">https://unlayer.com/email-builder</a>) that can be embedded inside an app so non-technical users can create or edit content. In the demo, we show the email builder and the AI assistant inside the builder. The goal is not to replace the developer workflow, but to connect it with a visual workflow when marketers, admins, customers, or internal teams need to make changes themselves.<p>(3) <i>Document Builder</i>. This is for structured documents such as proposals, reports, invoices, contracts, and PDFs. We have seen a lot of teams build separate systems for email templates, web pages, and document generation, even though the underlying primitives are similar: layout, content blocks, variables, assets, preview, export, and permissions. More: <a href=\"https://unlayer.com/document-builder\">https://unlayer.com/document-builder</a><p>The technical challenge is making these workflows share a common foundation. Developers should be able to build templates in code when that makes sense. End users should be able to edit visually when that makes sense. AI agents should be able to generate structured content instead of unmaintainable blobs. The final output should still be usable by the host application.<p>We make money by selling hosted builder, template, export, and platform features to companies embedding this into their products. Elements is open source. The commercial product is the broader hosted platform around builders, collaboration, storage, exports, and production use cases.<p>We were part of W22, so this is a late Launch HN. At the time, Unlayer was an embeddable email editor, and we did not think we had the right broader story for HN yet. Since then, the product has expanded into a more general content creation layer for products, including emails, pages, documents, APIs, open-source developer projects, and AI-assisted workflows. That felt like a better moment to bring it to HN and ask for feedback.<p>We'd really appreciate thoughts from HN. This is one of those areas where a lot of people have strong opinions because they’ve been burned by editors, email HTML, document editing, or “simple” content workflows before. We'd love to hear what resonates, what sounds wrong, and what you think we should be thinking harder about!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008901\">https://news.ycombinator.com/item?id=49008901</a></p>\n<p>Points: 28</p>\n<p># Comments: 19</p>",
+        "pubDate": "Wed, 22 Jul 2026 16:02:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008901"
       },
       {
-        "title": "Late.sh – a command-line Clubhouse for computer people",
-        "link": "https://late.sh/",
-        "description": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Points: 245</p>\n<p># Comments: 86</p>",
-        "pubDate": "Wed, 22 Jul 2026 02:32:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49001127"
+        "title": "Does creatine make you smarter?",
+        "link": "https://dynomight.net/creatine/",
+        "description": "<p>Article URL: <a href=\"https://dynomight.net/creatine/\">https://dynomight.net/creatine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008642\">https://news.ycombinator.com/item?id=49008642</a></p>\n<p>Points: 135</p>\n<p># Comments: 134</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:45:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008642"
       },
       {
-        "title": "Ten Steps Towards Happiness (2015)",
-        "link": "http://hintjens.com/blog:99",
-        "description": "<p>Article URL: <a href=\"http://hintjens.com/blog:99\">http://hintjens.com/blog:99</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000600\">https://news.ycombinator.com/item?id=49000600</a></p>\n<p>Points: 179</p>\n<p># Comments: 75</p>",
-        "pubDate": "Wed, 22 Jul 2026 01:17:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49000600"
+        "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+        "link": "https://cruciblebench.ai/",
+        "description": "<p>I'm the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We've spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising was the measurements of each LLM. We scored each on four behavioral dimensions, two of which lean heavily on an LLM classifier. When we removed those two, one of the frontier models fell six positions. When we then checked the classifier against a second judge, the per-model agreement between them ranged from 85% to 22%. The aggregate kappa (0.04 on probe detection) indicated the instrument was noisy without saying which models the noise was hitting. The most affected model shared a model family with the classifier. This isn't proof of bias, just one observation we recorded.<p>We realize LLM judges can be unreliable, and while it wasn't our original intent to test this, it ended up being the most interesting finding. The divergence between the two judges is the finding we think generalizes to other judge-based benchmarks.<p>We emphasize this is just a proof of concept and not a validated benchmark. We prepared a thorough limitations section in the paper, including just 50 runs per model, overlapping CIs among the top models, no human raters, a tiny environment, etc.<p>Everything we did is publicly available, the paper and data are CC BY 4.0, while the code is MIT. The paper, transcripts, code, and complete API billing export  can be found at <a href=\"https://doi.org/10.5281/zenodo.21386663\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.21386663</a><p>If you find issues, please let us know, that's why we're sharing this. We're currently designing Phase 2 and want it to be as robust as possible. We're looking at human baselines, multiple judges, more objectives, a larger environment, etc.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008538\">https://news.ycombinator.com/item?id=49008538</a></p>\n<p>Points: 61</p>\n<p># Comments: 30</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:39:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008538"
       },
       {
-        "title": "It's a shame what's happened to radio",
-        "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
-        "description": "<p>Article URL: <a href=\"https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\">https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999825\">https://news.ycombinator.com/item?id=48999825</a></p>\n<p>Points: 162</p>\n<p># Comments: 179</p>",
-        "pubDate": "Tue, 21 Jul 2026 23:33:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48999825"
+        "title": "Making",
+        "link": "https://beej.us/blog/data/ai-making/",
+        "description": "<p>Article URL: <a href=\"https://beej.us/blog/data/ai-making/\">https://beej.us/blog/data/ai-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008440\">https://news.ycombinator.com/item?id=49008440</a></p>\n<p>Points: 178</p>\n<p># Comments: 71</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:33:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008440"
       },
       {
-        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-        "link": "https://fireworks.ai/blog/kimik3-fable",
-        "description": "<p>Also: Kimi K3: second only to Fable 5 on AA-Briefcase\n <a href=\"https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark\" rel=\"nofollow\">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowl...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 763</p>\n<p># Comments: 397</p>",
-        "pubDate": "Tue, 21 Jul 2026 22:35:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48999291"
+        "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+        "link": "https://www.orangecrumbs.com/hall/",
+        "description": "<p>Article URL: <a href=\"https://www.orangecrumbs.com/hall/\">https://www.orangecrumbs.com/hall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008406\">https://news.ycombinator.com/item?id=49008406</a></p>\n<p>Points: 147</p>\n<p># Comments: 33</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:30:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008406"
       },
       {
-        "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-        "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-        "description": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 113</p>\n<p># Comments: 39</p>",
-        "pubDate": "Tue, 21 Jul 2026 21:27:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48998606"
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "link": "https://bento.page/slides/",
+        "description": "<p>Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.<p>Check it out at <a href=\"https://bento.page/slides/\" rel=\"nofollow\">https://bento.page/slides/</a> which takes you straight to the editor.<p>Go to <a href=\"https://bento.page/guestbook/\" rel=\"nofollow\">https://bento.page/guestbook/</a> to try out the live guestbook to experience share editing / collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https://bento.page/\" rel=\"nofollow\">https://bento.page/</a><p>All the code is MIT licensed and you can find it here - <a href=\"https://github.com/nyblnet/bento\" rel=\"nofollow\">https://github.com/nyblnet/bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008211\">https://news.ycombinator.com/item?id=49008211</a></p>\n<p>Points: 443</p>\n<p># Comments: 95</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:19:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008211"
       },
       {
-        "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-        "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-        "description": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 227</p>\n<p># Comments: 80</p>",
-        "pubDate": "Tue, 21 Jul 2026 21:13:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48998404"
+        "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
+        "link": "https://neoradar.space",
+        "description": "<p>Article URL: <a href=\"https://neoradar.space\">https://neoradar.space</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008143\">https://news.ycombinator.com/item?id=49008143</a></p>\n<p>Points: 46</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:15:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008143"
       },
       {
-        "title": "A digestion of the Jacobian conjecture counterexample",
-        "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 288</p>\n<p># Comments: 118</p>",
-        "pubDate": "Tue, 21 Jul 2026 21:09:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48998362"
+        "title": "Perlin's Noise Algorithm",
+        "link": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
+        "description": "<p>Article URL: <a href=\"https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/\">https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007863\">https://news.ycombinator.com/item?id=49007863</a></p>\n<p>Points: 49</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:59:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007863"
       },
       {
-        "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "description": "<p><a href=\"https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https://www.axios.com/2026/07/21/openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https://news.ycombinator.com/item?id=48956248\">https://news.ycombinator.com/item?id=48956248</a> (9 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 1374</p>\n<p># Comments: 928</p>",
-        "pubDate": "Tue, 21 Jul 2026 20:09:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48997548"
+        "title": "The Pillars of an API Platform",
+        "link": "https://launchany.com/the-pillars-of-an-api-platform/",
+        "description": "<p>Article URL: <a href=\"https://launchany.com/the-pillars-of-an-api-platform/\">https://launchany.com/the-pillars-of-an-api-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007839\">https://news.ycombinator.com/item?id=49007839</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:57:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007839"
       },
       {
-        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-        "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\">https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996652\">https://news.ycombinator.com/item?id=48996652</a></p>\n<p>Points: 467</p>\n<p># Comments: 435</p>",
-        "pubDate": "Tue, 21 Jul 2026 19:04:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996652"
+        "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
+        "link": "https://ishmael.textualize.io/blog/ghost-cut/",
+        "description": "<p>Article URL: <a href=\"https://ishmael.textualize.io/blog/ghost-cut/\">https://ishmael.textualize.io/blog/ghost-cut/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007626\">https://news.ycombinator.com/item?id=49007626</a></p>\n<p>Points: 69</p>\n<p># Comments: 51</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:43:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007626"
       },
       {
-        "title": "Advertise in ChatGPT",
-        "link": "https://ads.openai.com/",
-        "description": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 941</p>\n<p># Comments: 721</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:58:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996571"
+        "title": "Hologram works. Elixir runs in the browser",
+        "link": "https://hologram.page/blog/backing-hologram",
+        "description": "<p>Article URL: <a href=\"https://hologram.page/blog/backing-hologram\">https://hologram.page/blog/backing-hologram</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007620\">https://news.ycombinator.com/item?id=49007620</a></p>\n<p>Points: 68</p>\n<p># Comments: 10</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:42:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007620"
       },
       {
-        "title": "FreeInk: Open ecosystem for e-readers",
-        "link": "https://freeink.org/",
-        "description": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 644</p>\n<p># Comments: 132</p>",
-        "pubDate": "Tue, 21 Jul 2026 18:39:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48996318"
+        "title": "“We have information that Moonshot distilled Fable for the development of K3”",
+        "link": "https://twitter.com/mkratsios47/status/2079933645888880708",
+        "description": "<p><a href=\"https://xcancel.com/mkratsios47/status/2079933645888880708\" rel=\"nofollow\">https://xcancel.com/mkratsios47/status/2079933645888880708</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007610\">https://news.ycombinator.com/item?id=49007610</a></p>\n<p>Points: 128</p>\n<p># Comments: 294</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:42:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007610"
       },
       {
-        "title": "Laguna S 2.1",
-        "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-        "description": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 371</p>\n<p># Comments: 69</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:17:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995261"
+        "title": "OpenNode – Bitcoin Payment Processor",
+        "link": "https://opennode.com/",
+        "description": "<p>Article URL: <a href=\"https://opennode.com/\">https://opennode.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007524\">https://news.ycombinator.com/item?id=49007524</a></p>\n<p>Points: 91</p>\n<p># Comments: 78</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:34:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007524"
       },
       {
-        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-        "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "description": "<p><a href=\"https://x.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://x.com/jack/status/2079605800998146171</a>, <a href=\"https://xcancel.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://xcancel.com/jack/status/2079605800998146171</a><p><a href=\"https://buzz.xyz/\" rel=\"nofollow\">https://buzz.xyz/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 346</p>\n<p># Comments: 306</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:14:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995213"
+        "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+        "link": "https://twitter.com/nikitabier/status/2079787406300266743",
+        "description": "<p><a href=\"https://xcancel.com/nikitabier/status/2079787406300266743\" rel=\"nofollow\">https://xcancel.com/nikitabier/status/2079787406300266743</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007374\">https://news.ycombinator.com/item?id=49007374</a></p>\n<p>Points: 306</p>\n<p># Comments: 398</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:25:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007374"
       },
       {
-        "title": "Bloomy (YC S26) is hiring a founding engineer",
-        "link": "https://news.ycombinator.com/item?id=48995037",
-        "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 21 Jul 2026 17:00:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=48995037"
+        "title": "When is NVLink worth it?",
+        "link": "https://platform-fools.com/posts/2026-04-27-nvlink/",
+        "description": "<p>Article URL: <a href=\"https://platform-fools.com/posts/2026-04-27-nvlink/\">https://platform-fools.com/posts/2026-04-27-nvlink/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007249\">https://news.ycombinator.com/item?id=49007249</a></p>\n<p>Points: 33</p>\n<p># Comments: 6</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:18:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007249"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-22T14:15:45.907Z",
+  "lastUpdated": "2026-07-22T19:38:29.017Z",
   "stats": {
     "feeds": 2,
     "articles": 20
