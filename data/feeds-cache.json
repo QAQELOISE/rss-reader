@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-23T03:35:53.825Z"
+      "lastFetched": "2026-07-23T08:42:04.050Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-23T03:36:07.514Z"
+      "lastFetched": "2026-07-23T08:42:23.837Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+        "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+        "description": "<p>Article URL: <a href=\"https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734\">https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49017344\">https://news.ycombinator.com/item?id=49017344</a></p>\n<p>Points: 32</p>\n<p># Comments: 6</p>",
+        "pubDate": "Thu, 23 Jul 2026 05:40:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49017344"
+      },
+      {
+        "title": "Amiga 1000: Ten years ahead of its time",
+        "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+        "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/\">https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49017265\">https://news.ycombinator.com/item?id=49017265</a></p>\n<p>Points: 57</p>\n<p># Comments: 30</p>",
+        "pubDate": "Thu, 23 Jul 2026 05:24:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49017265"
+      },
+      {
         "title": "Restructuring GitHub's bug bounty program",
         "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49016099\">https://news.ycombinator.com/item?id=49016099</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49016099\">https://news.ycombinator.com/item?id=49016099</a></p>\n<p>Points: 43</p>\n<p># Comments: 17</p>",
         "pubDate": "Thu, 23 Jul 2026 02:28:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49016099"
       },
       {
-        "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-        "link": "https://arxiv.org/abs/2607.20386",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.20386\">https://arxiv.org/abs/2607.20386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015878\">https://news.ycombinator.com/item?id=49015878</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 23 Jul 2026 01:58:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49015878"
-      },
-      {
-        "title": "Run large language models at home, BitTorrent‑style",
+        "title": "Petals: Run LLMs at home, BitTorrent-style",
         "link": "https://petals.dev/",
-        "description": "<p>Article URL: <a href=\"https://petals.dev/\">https://petals.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015735\">https://news.ycombinator.com/item?id=49015735</a></p>\n<p>Points: 52</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://petals.dev/\">https://petals.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015735\">https://news.ycombinator.com/item?id=49015735</a></p>\n<p>Points: 109</p>\n<p># Comments: 32</p>",
         "pubDate": "Thu, 23 Jul 2026 01:33:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49015735"
       },
       {
-        "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-        "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">https://simonwillison.net/2026/Jul/22/openai-cyberattack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015639\">https://news.ycombinator.com/item?id=49015639</a></p>\n<p>Points: 37</p>\n<p># Comments: 23</p>",
-        "pubDate": "Thu, 23 Jul 2026 01:16:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49015639"
-      },
-      {
-        "title": "Codeberg Bans Cryptocurrency Projects",
-        "link": "https://codeberg.org/Codeberg/org/pulls/1254",
-        "description": "<p>Article URL: <a href=\"https://codeberg.org/Codeberg/org/pulls/1254\">https://codeberg.org/Codeberg/org/pulls/1254</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015588\">https://news.ycombinator.com/item?id=49015588</a></p>\n<p>Points: 131</p>\n<p># Comments: 143</p>",
-        "pubDate": "Thu, 23 Jul 2026 01:06:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49015588"
+        "title": "Protecting our FLOSS commons from LLMs",
+        "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+        "description": "<p>Article URL: <a href=\"https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html\">https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015635\">https://news.ycombinator.com/item?id=49015635</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 23 Jul 2026 01:14:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49015635"
       },
       {
         "title": "Medici family mystery may be solved after more than 400 years",
         "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\">https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49014007\">https://news.ycombinator.com/item?id=49014007</a></p>\n<p>Points: 88</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\">https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49014007\">https://news.ycombinator.com/item?id=49014007</a></p>\n<p>Points: 115</p>\n<p># Comments: 30</p>",
         "pubDate": "Wed, 22 Jul 2026 21:55:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49014007"
       },
       {
-        "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-        "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-        "description": "<p>Article URL: <a href=\"https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\">https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013995\">https://news.ycombinator.com/item?id=49013995</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
-        "pubDate": "Wed, 22 Jul 2026 21:54:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49013995"
+        "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+        "link": "https://claytondorge.com/patterns-list",
+        "description": "<p>Article URL: <a href=\"https://claytondorge.com/patterns-list\">https://claytondorge.com/patterns-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013924\">https://news.ycombinator.com/item?id=49013924</a></p>\n<p>Points: 70</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 22 Jul 2026 21:48:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49013924"
       },
       {
         "title": "Malleable Computing, Emacs, and You",
         "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-        "description": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\">http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013538\">https://news.ycombinator.com/item?id=49013538</a></p>\n<p>Points: 75</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\">http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013538\">https://news.ycombinator.com/item?id=49013538</a></p>\n<p>Points: 102</p>\n<p># Comments: 30</p>",
         "pubDate": "Wed, 22 Jul 2026 21:15:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49013538"
       },
       {
-        "title": "Safari Technology Preview 248 Released",
-        "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-        "description": "<p>Article URL: <a href=\"https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/\">https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013356\">https://news.ycombinator.com/item?id=49013356</a></p>\n<p>Points: 83</p>\n<p># Comments: 55</p>",
-        "pubDate": "Wed, 22 Jul 2026 21:00:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49013356"
-      },
-      {
-        "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-        "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-        "description": "<p>Article URL: <a href=\"https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/\">https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013036\">https://news.ycombinator.com/item?id=49013036</a></p>\n<p>Points: 297</p>\n<p># Comments: 77</p>",
-        "pubDate": "Wed, 22 Jul 2026 20:33:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49013036"
-      },
-      {
         "title": "Fairphone 6 wide camera experimental Linux support",
         "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-        "description": "<p>Article URL: <a href=\"https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\">https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012777\">https://news.ycombinator.com/item?id=49012777</a></p>\n<p>Points: 80</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\">https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012777\">https://news.ycombinator.com/item?id=49012777</a></p>\n<p>Points: 114</p>\n<p># Comments: 24</p>",
         "pubDate": "Wed, 22 Jul 2026 20:16:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49012777"
       },
       {
         "title": "John C. Dvorak has died",
         "link": "https://twitter.com/na_announce/status/2079952538040672302",
-        "description": "<p><a href=\"https://xcancel.com/na_announce/status/2079952538040672302\" rel=\"nofollow\">https://xcancel.com/na_announce/status/2079952538040672302</a><p><a href=\"https://www.twit.community/t/john-c-dvorak-has-passed-away/20291\" rel=\"nofollow\">https://www.twit.community/t/john-c-dvorak-has-passed-away/2...</a><p><a href=\"https://www.facebook.com/aric.mackey/posts/john-c-dvorak-19462026john-c-dvorak-a-pioneering-technology-journalist-podcaster/10242625420121221/\" rel=\"nofollow\">https://www.facebook.com/aric.mackey/posts/john-c-dvorak-194...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012070\">https://news.ycombinator.com/item?id=49012070</a></p>\n<p>Points: 620</p>\n<p># Comments: 194</p>",
+        "description": "<p><a href=\"https://xcancel.com/na_announce/status/2079952538040672302\" rel=\"nofollow\">https://xcancel.com/na_announce/status/2079952538040672302</a><p><a href=\"https://www.twit.community/t/john-c-dvorak-has-passed-away/20291\" rel=\"nofollow\">https://www.twit.community/t/john-c-dvorak-has-passed-away/2...</a><p><a href=\"https://www.facebook.com/aric.mackey/posts/john-c-dvorak-19462026john-c-dvorak-a-pioneering-technology-journalist-podcaster/10242625420121221/\" rel=\"nofollow\">https://www.facebook.com/aric.mackey/posts/john-c-dvorak-194...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012070\">https://news.ycombinator.com/item?id=49012070</a></p>\n<p>Points: 734</p>\n<p># Comments: 234</p>",
         "pubDate": "Wed, 22 Jul 2026 19:22:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=49012070"
       },
       {
-        "title": "Clarity didn't work, trying mysterianism (2012)",
-        "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-        "description": "<p>Article URL: <a href=\"https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html\">https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011687\">https://news.ycombinator.com/item?id=49011687</a></p>\n<p>Points: 45</p>\n<p># Comments: 13</p>",
-        "pubDate": "Wed, 22 Jul 2026 18:55:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49011687"
-      },
-      {
         "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
         "link": "https://github.com/cactus-compute/cactus-hybrid",
-        "description": "<p>Hey HN, Henry & Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it's high, hand off to a bigger cloud model when it's low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemini 3.1 Flash-Lite on most benchmarks.<p>- ChartQA: 15-20%<p>- LibriSpeech: 25-30%<p>- MMBench, GigaSpeech, MMAU: 30-35%<p>- MMLU-Pro: 45-55%<p>We were always frustrated by the routing signals hybrid apps rely on: asking the model to rate itself in text (unreliable, and you're parsing prose), or token entropy heuristics (barely better than a coin flip in our tests). So we did mechanistic studies on small models, Gemma 4 particularly, and found the hidden state for different layers carry meaningful self-awareness signal for various situations.<p>SO we extended the model with a 68k params probe layer (LayerNorm, low-rank projection, attention pooling, small MLP head) reads one intermediate layer during decoding and predicts p(wrong); confidence = 1 - p(wrong), returned as structured data, never parsed out of the answer text.<p>Across 12 hold-out benchmarks spanning text, vision and audio, the probe averages 0.814 AUROC vs 0.549 for token entropy. The result that convinced us this is real: the probe was trained on zero audio data, yet scores 0.79-0.88 AUROC on four audio benchmarks where entropy is near-random or worse (0.32-0.52). It's reading a modality-independent correctness signal from the hidden state, not memorizing patterns from its training data.<p>We published all weights on HuggingFace and provide copy-pase codes to run it on Transformers, MLX, Llama.cpp or Cactus. With Ollama, vLLM, SGLang etc in the works. For llama.cpp we ship a patch series you compile in once (upstreaming is planned). The code is MIT licensed; Gemma model use remains subject to the Gemma terms.<p>GitHub: <a href=\"https://github.com/cactus-compute/cactus-hybrid\" rel=\"nofollow\">https://github.com/cactus-compute/cactus-hybrid</a><p>Weights: <a href=\"https://huggingface.co/collections/Cactus-Compute/cactus-hybrid-6a60da4551074db058e8bb64\" rel=\"nofollow\">https://huggingface.co/collections/Cactus-Compute/cactus-hyb...</a><p>Some caveats:<p>- The probe scores single-sequence decoding only, up to the first 1024 generated tokens.<p>- Handoff works best when routing per task in a multi-step process, not per step.<p>- Hierarchical routing is still in the works: try on-device, then DeepSeek v4 Flash, before Fable/GPT5.5/Gemini/Muse/Grok.<p>- The technique is boutique for each model, we will share each weights as they roll out.<p>These issues are currently being tackled at Cactus and updated weights will be shipped directly into the HuggingFace collection and GitHub repository straight up. Please let us know your thoughts, it helps us find ways to improve the design progressively.<p>Thanks a million!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010782\">https://news.ycombinator.com/item?id=49010782</a></p>\n<p>Points: 86</p>\n<p># Comments: 13</p>",
+        "description": "<p>Hey HN, Henry & Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it's high, hand off to a bigger cloud model when it's low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemini 3.1 Flash-Lite on most benchmarks.<p>- ChartQA: 15-20%<p>- LibriSpeech: 25-30%<p>- MMBench, GigaSpeech, MMAU: 30-35%<p>- MMLU-Pro: 45-55%<p>We were always frustrated by the routing signals hybrid apps rely on: asking the model to rate itself in text (unreliable, and you're parsing prose), or token entropy heuristics (barely better than a coin flip in our tests). So we did mechanistic studies on small models, Gemma 4 particularly, and found the hidden state for different layers carry meaningful self-awareness signal for various situations.<p>SO we extended the model with a 68k params probe layer (LayerNorm, low-rank projection, attention pooling, small MLP head) reads one intermediate layer during decoding and predicts p(wrong); confidence = 1 - p(wrong), returned as structured data, never parsed out of the answer text.<p>Across 12 hold-out benchmarks spanning text, vision and audio, the probe averages 0.814 AUROC vs 0.549 for token entropy. The result that convinced us this is real: the probe was trained on zero audio data, yet scores 0.79-0.88 AUROC on four audio benchmarks where entropy is near-random or worse (0.32-0.52). It's reading a modality-independent correctness signal from the hidden state, not memorizing patterns from its training data.<p>We published all weights on HuggingFace and provide copy-pase codes to run it on Transformers, MLX, Llama.cpp or Cactus. With Ollama, vLLM, SGLang etc in the works. For llama.cpp we ship a patch series you compile in once (upstreaming is planned). The code is MIT licensed; Gemma model use remains subject to the Gemma terms.<p>GitHub: <a href=\"https://github.com/cactus-compute/cactus-hybrid\" rel=\"nofollow\">https://github.com/cactus-compute/cactus-hybrid</a><p>Weights: <a href=\"https://huggingface.co/collections/Cactus-Compute/cactus-hybrid-6a60da4551074db058e8bb64\" rel=\"nofollow\">https://huggingface.co/collections/Cactus-Compute/cactus-hyb...</a><p>Some caveats:<p>- The probe scores single-sequence decoding only, up to the first 1024 generated tokens.<p>- Handoff works best when routing per task in a multi-step process, not per step.<p>- Hierarchical routing is still in the works: try on-device, then DeepSeek v4 Flash, before Fable/GPT5.5/Gemini/Muse/Grok.<p>- The technique is boutique for each model, we will share each weights as they roll out.<p>These issues are currently being tackled at Cactus and updated weights will be shipped directly into the HuggingFace collection and GitHub repository straight up. Please let us know your thoughts, it helps us find ways to improve the design progressively.<p>Thanks a million!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010782\">https://news.ycombinator.com/item?id=49010782</a></p>\n<p>Points: 129</p>\n<p># Comments: 23</p>",
         "pubDate": "Wed, 22 Jul 2026 17:56:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49010782"
       },
       {
-        "title": "Everyone Should Know SIMD",
+        "title": "Everyone should know SIMD",
         "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-        "description": "<p>Article URL: <a href=\"https://mitchellh.com/writing/everyone-should-know-simd\">https://mitchellh.com/writing/everyone-should-know-simd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010648\">https://news.ycombinator.com/item?id=49010648</a></p>\n<p>Points: 290</p>\n<p># Comments: 81</p>",
+        "description": "<p>Article URL: <a href=\"https://mitchellh.com/writing/everyone-should-know-simd\">https://mitchellh.com/writing/everyone-should-know-simd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010648\">https://news.ycombinator.com/item?id=49010648</a></p>\n<p>Points: 405</p>\n<p># Comments: 149</p>",
         "pubDate": "Wed, 22 Jul 2026 17:48:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49010648"
       },
       {
-        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
         "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-        "description": "<p>Article URL: <a href=\"https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\">https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010345\">https://news.ycombinator.com/item?id=49010345</a></p>\n<p>Points: 664</p>\n<p># Comments: 398</p>",
+        "description": "<p><i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https://news.ycombinator.com/item?id=48973869\">https://news.ycombinator.com/item?id=48973869</a> - July 2026 (508 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010345\">https://news.ycombinator.com/item?id=49010345</a></p>\n<p>Points: 845</p>\n<p># Comments: 490</p>",
         "pubDate": "Wed, 22 Jul 2026 17:30:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49010345"
       },
       {
         "title": "GigaToken: ~1000x faster Language model tokenization",
         "link": "https://github.com/marcelroed/gigatoken/",
-        "description": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 390</p>\n<p># Comments: 77</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 486</p>\n<p># Comments: 97</p>",
         "pubDate": "Wed, 22 Jul 2026 17:20:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49010167"
       },
       {
-        "title": "Are AI Labs Pelicanmaxxing?",
+        "title": "Are AI labs pelicanmaxxing?",
         "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-        "description": "<p>Article URL: <a href=\"https://dylancastillo.co/posts/pelicanmaxxing.html\">https://dylancastillo.co/posts/pelicanmaxxing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010129\">https://news.ycombinator.com/item?id=49010129</a></p>\n<p>Points: 414</p>\n<p># Comments: 160</p>",
+        "description": "<p>Article URL: <a href=\"https://dylancastillo.co/posts/pelicanmaxxing.html\">https://dylancastillo.co/posts/pelicanmaxxing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010129\">https://news.ycombinator.com/item?id=49010129</a></p>\n<p>Points: 512</p>\n<p># Comments: 198</p>",
         "pubDate": "Wed, 22 Jul 2026 17:17:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49010129"
       },
       {
-        "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-        "link": "https://unlayer.com",
-        "description": "<p>Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href=\"https://unlayer.com/\">https://unlayer.com/</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=0HsDtNkdMpM\" rel=\"nofollow\">https://www.youtube.com/watch?v=0HsDtNkdMpM</a>.<p>We started with an embeddable email editor because a lot of products eventually need one: CRMs, marketing tools, customer engagement platforms, marketplaces, internal tools, and vertical SaaS apps all run into this at some point. At first, it sounds like a small feature: \"just\" add a drag and drop editor. In practice, it turns into a big pain. You end up dealing with email rendering, Outlook quirks, responsive layouts, templates, merge tags, image uploads, exports, permissions, localization, versioning, and a long tail of edge cases that have nothing to do with your core product<p>Over time, we saw the same problem beyond email. Apps also need landing pages, invoices, proposals, reports, contracts, and PDFs. Some of this content is best created visually by end users. Some of it is better generated in code by developers. Increasingly, some of it is also generated by AI agents. Many teams eventually need all three workflows. That is the direction we have been working toward with Unlayer.<p>There are three parts we are showing today:<p>(1) <i>Unlayer Elements</i>. This is our open-source React component library for creating emails, pages, and documents in code (repo: <a href=\"https://github.com/unlayer/elements\" rel=\"nofollow\">https://github.com/unlayer/elements</a>, more at <a href=\"https://unlayer.com/elements\">https://unlayer.com/elements</a>). Instead of hand-writing raw HTML templates, developers can compose content using React components, reuse sections like headers, footers, CTAs, invoice rows, and branded blocks, keep templates in Git, and render them into production output.<p>One newer use case we are seeing is AI-assisted content creation. If an AI agent is asked to create an email, invoice, report, or landing page, the output is usually raw HTML or markdown that becomes hard to maintain. With Elements, the agent can generate structured React components instead. A developer can review the result, refactor it, keep it in Git, and still pass the design into a visual builder later if someone needs to edit it.<p>(2) <i>Visual Builder</i>. This is the drag and drop editor (repo: <a href=\"https://github.com/unlayer/react-email-editor\" rel=\"nofollow\">https://github.com/unlayer/react-email-editor</a>, more at <a href=\"https://unlayer.com/email-builder\">https://unlayer.com/email-builder</a>) that can be embedded inside an app so non-technical users can create or edit content. In the demo, we show the email builder and the AI assistant inside the builder. The goal is not to replace the developer workflow, but to connect it with a visual workflow when marketers, admins, customers, or internal teams need to make changes themselves.<p>(3) <i>Document Builder</i>. This is for structured documents such as proposals, reports, invoices, contracts, and PDFs. We have seen a lot of teams build separate systems for email templates, web pages, and document generation, even though the underlying primitives are similar: layout, content blocks, variables, assets, preview, export, and permissions. More: <a href=\"https://unlayer.com/document-builder\">https://unlayer.com/document-builder</a><p>The technical challenge is making these workflows share a common foundation. Developers should be able to build templates in code when that makes sense. End users should be able to edit visually when that makes sense. AI agents should be able to generate structured content instead of unmaintainable blobs. The final output should still be usable by the host application.<p>We make money by selling hosted builder, template, export, and platform features to companies embedding this into their products. Elements is open source. The commercial product is the broader hosted platform around builders, collaboration, storage, exports, and production use cases.<p>We were part of W22, so this is a late Launch HN. At the time, Unlayer was an embeddable email editor, and we did not think we had the right broader story for HN yet. Since then, the product has expanded into a more general content creation layer for products, including emails, pages, documents, APIs, open-source developer projects, and AI-assisted workflows. That felt like a better moment to bring it to HN and ask for feedback.<p>We'd really appreciate thoughts from HN. This is one of those areas where a lot of people have strong opinions because they’ve been burned by editors, email HTML, document editing, or “simple” content workflows before. We'd love to hear what resonates, what sounds wrong, and what you think we should be thinking harder about!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008901\">https://news.ycombinator.com/item?id=49008901</a></p>\n<p>Points: 47</p>\n<p># Comments: 33</p>",
-        "pubDate": "Wed, 22 Jul 2026 16:02:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49008901"
-      },
-      {
         "title": "Making",
         "link": "https://beej.us/blog/data/ai-making/",
-        "description": "<p>Article URL: <a href=\"https://beej.us/blog/data/ai-making/\">https://beej.us/blog/data/ai-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008440\">https://news.ycombinator.com/item?id=49008440</a></p>\n<p>Points: 296</p>\n<p># Comments: 112</p>",
+        "description": "<p>Article URL: <a href=\"https://beej.us/blog/data/ai-making/\">https://beej.us/blog/data/ai-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008440\">https://news.ycombinator.com/item?id=49008440</a></p>\n<p>Points: 349</p>\n<p># Comments: 140</p>",
         "pubDate": "Wed, 22 Jul 2026 15:33:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49008440"
+      },
+      {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "link": "https://bento.page/slides/",
+        "description": "<p>Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.<p>Check it out at <a href=\"https://bento.page/slides/\" rel=\"nofollow\">https://bento.page/slides/</a> which takes you straight to the editor.<p>Go to <a href=\"https://bento.page/guestbook/\" rel=\"nofollow\">https://bento.page/guestbook/</a> to try out the live guestbook to experience share editing / collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https://bento.page/\" rel=\"nofollow\">https://bento.page/</a><p>All the code is MIT licensed and you can find it here - <a href=\"https://github.com/nyblnet/bento\" rel=\"nofollow\">https://github.com/nyblnet/bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008211\">https://news.ycombinator.com/item?id=49008211</a></p>\n<p>Points: 811</p>\n<p># Comments: 177</p>",
+        "pubDate": "Wed, 22 Jul 2026 15:19:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49008211"
+      },
+      {
+        "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
+        "link": "https://ishmael.textualize.io/blog/ghost-cut/",
+        "description": "<p>Article URL: <a href=\"https://ishmael.textualize.io/blog/ghost-cut/\">https://ishmael.textualize.io/blog/ghost-cut/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007626\">https://news.ycombinator.com/item?id=49007626</a></p>\n<p>Points: 161</p>\n<p># Comments: 106</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:43:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007626"
+      },
+      {
+        "title": "Quality non-fiction books are the antithesis of AI slop",
+        "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+        "description": "<p><a href=\"https://book-prize-index.vercel.app/\" rel=\"nofollow\">https://book-prize-index.vercel.app/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007247\">https://news.ycombinator.com/item?id=49007247</a></p>\n<p>Points: 336</p>\n<p># Comments: 113</p>",
+        "pubDate": "Wed, 22 Jul 2026 14:18:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49007247"
+      },
+      {
+        "title": "Back to Kagi",
+        "link": "https://blog.melashri.net/micro/back-to-kagi/",
+        "description": "<p>Article URL: <a href=\"https://blog.melashri.net/micro/back-to-kagi/\">https://blog.melashri.net/micro/back-to-kagi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006195\">https://news.ycombinator.com/item?id=49006195</a></p>\n<p>Points: 263</p>\n<p># Comments: 195</p>",
+        "pubDate": "Wed, 22 Jul 2026 13:08:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49006195"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-23T03:36:07.514Z",
+  "lastUpdated": "2026-07-23T08:42:23.837Z",
   "stats": {
     "feeds": 2,
     "articles": 20
