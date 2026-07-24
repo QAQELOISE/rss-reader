@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-24T03:32:41.138Z"
+      "lastFetched": "2026-07-24T14:03:22.261Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-24T08:38:38.236Z"
+      "lastFetched": "2026-07-24T14:03:41.831Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Patreon laying off 20% of staff",
+        "link": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+        "description": "<p>Article URL: <a href=\"https://www.patreon.com/jackconte/posts/painful-update-164628951\">https://www.patreon.com/jackconte/posts/painful-update-164628951</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034948\">https://news.ycombinator.com/item?id=49034948</a></p>\n<p>Points: 86</p>\n<p># Comments: 99</p>",
+        "pubDate": "Fri, 24 Jul 2026 13:02:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034948"
+      },
+      {
+        "title": "Ah, the Codeberg Drama",
+        "link": "https://gagliardoni.net/#20260724_codeberg_drama",
+        "description": "<p>Article URL: <a href=\"https://gagliardoni.net/#20260724_codeberg_drama\">https://gagliardoni.net/#20260724_codeberg_drama</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034928\">https://news.ycombinator.com/item?id=49034928</a></p>\n<p>Points: 28</p>\n<p># Comments: 18</p>",
+        "pubDate": "Fri, 24 Jul 2026 13:00:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034928"
+      },
+      {
+        "title": "Em dashes are fucking amazing",
+        "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+        "description": "<p>Article URL: <a href=\"https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing\">https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034747\">https://news.ycombinator.com/item?id=49034747</a></p>\n<p>Points: 65</p>\n<p># Comments: 62</p>",
+        "pubDate": "Fri, 24 Jul 2026 12:40:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034747"
+      },
+      {
+        "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+        "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+        "description": "<p>Article URL: <a href=\"https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/\">https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034673\">https://news.ycombinator.com/item?id=49034673</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 24 Jul 2026 12:34:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034673"
+      },
+      {
+        "title": "Why is programming so captivating, yet so agonizing?",
+        "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+        "description": "<p>Article URL: <a href=\"https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing\">https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034468\">https://news.ycombinator.com/item?id=49034468</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+        "pubDate": "Fri, 24 Jul 2026 12:15:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034468"
+      },
+      {
+        "title": "I Tried Building a Real App with AI. It Took a Year",
+        "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+        "description": "<p>Article URL: <a href=\"https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/\">https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034342\">https://news.ycombinator.com/item?id=49034342</a></p>\n<p>Points: 50</p>\n<p># Comments: 45</p>",
+        "pubDate": "Fri, 24 Jul 2026 12:00:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034342"
+      },
+      {
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "link": "https://hhh.hn/hanwha-github-token/",
+        "description": "<p>Article URL: <a href=\"https://hhh.hn/hanwha-github-token/\">https://hhh.hn/hanwha-github-token/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034292\">https://news.ycombinator.com/item?id=49034292</a></p>\n<p>Points: 47</p>\n<p># Comments: 10</p>",
+        "pubDate": "Fri, 24 Jul 2026 11:54:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49034292"
+      },
+      {
+        "title": "The IBM PC, Part 1: Arrival",
+        "link": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+        "description": "<p>Article URL: <a href=\"https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/\">https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033916\">https://news.ycombinator.com/item?id=49033916</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 24 Jul 2026 11:13:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033916"
+      },
+      {
+        "title": "Game of Trees – Git-based version control from OpenBSD folks",
+        "link": "https://www.gameoftrees.org/",
+        "description": "<p>Article URL: <a href=\"https://www.gameoftrees.org/\">https://www.gameoftrees.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033412\">https://news.ycombinator.com/item?id=49033412</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 24 Jul 2026 10:15:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033412"
+      },
+      {
+        "title": "How Do We Stop Vibe Coding?",
+        "link": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+        "description": "<p>Article URL: <a href=\"https://alexklos.ca/blog/how-do-we-stop-vibe-coding\">https://alexklos.ca/blog/how-do-we-stop-vibe-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033388\">https://news.ycombinator.com/item?id=49033388</a></p>\n<p>Points: 18</p>\n<p># Comments: 15</p>",
+        "pubDate": "Fri, 24 Jul 2026 10:12:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033388"
+      },
+      {
+        "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+        "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+        "description": "<p>Article URL: <a href=\"https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/\">https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033240\">https://news.ycombinator.com/item?id=49033240</a></p>\n<p>Points: 51</p>\n<p># Comments: 20</p>",
+        "pubDate": "Fri, 24 Jul 2026 09:52:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033240"
+      },
+      {
+        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+        "link": "https://bfl.ai/blog/flux-3-mimic",
+        "description": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-mimic\">https://bfl.ai/blog/flux-3-mimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033127\">https://news.ycombinator.com/item?id=49033127</a></p>\n<p>Points: 199</p>\n<p># Comments: 24</p>",
+        "pubDate": "Fri, 24 Jul 2026 09:31:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033127"
+      },
+      {
+        "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+        "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+        "description": "<p>Article URL: <a href=\"https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891\">https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033099\">https://news.ycombinator.com/item?id=49033099</a></p>\n<p>Points: 107</p>\n<p># Comments: 72</p>",
+        "pubDate": "Fri, 24 Jul 2026 09:26:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033099"
+      },
+      {
+        "title": "Hetzner is working on LLM Inference",
+        "link": "https://sliplane.io/blog/hetzner-inference",
+        "description": "<p>Article URL: <a href=\"https://sliplane.io/blog/hetzner-inference\">https://sliplane.io/blog/hetzner-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033087\">https://news.ycombinator.com/item?id=49033087</a></p>\n<p>Points: 93</p>\n<p># Comments: 42</p>",
+        "pubDate": "Fri, 24 Jul 2026 09:24:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033087"
+      },
+      {
+        "title": "Nothing works and everyone is euphoric",
+        "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+        "description": "<p>Article URL: <a href=\"https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/\">https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033004\">https://news.ycombinator.com/item?id=49033004</a></p>\n<p>Points: 187</p>\n<p># Comments: 145</p>",
+        "pubDate": "Fri, 24 Jul 2026 09:08:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033004"
+      },
+      {
+        "title": "The day Steve Jobs dissed me in a keynote (2010)",
+        "link": "https://sive.rs/itunes",
+        "description": "<p>Article URL: <a href=\"https://sive.rs/itunes\">https://sive.rs/itunes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033001\">https://news.ycombinator.com/item?id=49033001</a></p>\n<p>Points: 151</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 24 Jul 2026 09:07:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49033001"
+      },
+      {
+        "title": "The Book Prize Index",
+        "link": "https://book-prize-index.vercel.app",
+        "description": "<p>Article URL: <a href=\"https://book-prize-index.vercel.app\">https://book-prize-index.vercel.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49032756\">https://news.ycombinator.com/item?id=49032756</a></p>\n<p>Points: 38</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 24 Jul 2026 08:29:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49032756"
+      },
+      {
+        "title": "It's getting harder to focus every day",
+        "link": "https://glyphack.com/attention/",
+        "description": "<p>Article URL: <a href=\"https://glyphack.com/attention/\">https://glyphack.com/attention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49032660\">https://news.ycombinator.com/item?id=49032660</a></p>\n<p>Points: 309</p>\n<p># Comments: 156</p>",
+        "pubDate": "Fri, 24 Jul 2026 08:18:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49032660"
+      },
+      {
+        "title": "AMD's Instinct MI455X: Aiming for the Sun",
+        "link": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the\">https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49032072\">https://news.ycombinator.com/item?id=49032072</a></p>\n<p>Points: 45</p>\n<p># Comments: 23</p>",
+        "pubDate": "Fri, 24 Jul 2026 06:59:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49032072"
+      },
+      {
+        "title": "Flux 3",
+        "link": "https://bfl.ai/blog/flux-3",
+        "description": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3\">https://bfl.ai/blog/flux-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49031796\">https://news.ycombinator.com/item?id=49031796</a></p>\n<p>Points: 428</p>\n<p># Comments: 110</p>",
+        "pubDate": "Fri, 24 Jul 2026 06:17:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49031796"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-24T08:38:38.236Z",
+  "lastUpdated": "2026-07-24T14:03:41.831Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
