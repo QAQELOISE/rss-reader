@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-25T19:20:38.351Z"
+      "lastFetched": "2026-07-26T03:43:57.707Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-25T19:20:38.852Z"
+      "lastFetched": "2026-07-26T03:44:11.032Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Tile's security is so bad it's a feature for stalkers",
-        "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-        "description": "<p>Article URL: <a href=\"https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/\">https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050152\">https://news.ycombinator.com/item?id=49050152</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sat, 25 Jul 2026 18:18:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49050152"
+        "title": "JetZero",
+        "link": "https://www.jetzero.aero",
+        "description": "<p>Article URL: <a href=\"https://www.jetzero.aero\">https://www.jetzero.aero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054224\">https://news.ycombinator.com/item?id=49054224</a></p>\n<p>Points: 46</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sun, 26 Jul 2026 02:55:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49054224"
       },
       {
-        "title": "Rauno's Field Notes #2",
-        "link": "https://rauno.me/notes/2",
-        "description": "<p>Article URL: <a href=\"https://rauno.me/notes/2\">https://rauno.me/notes/2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49049066\">https://news.ycombinator.com/item?id=49049066</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 25 Jul 2026 16:39:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49049066"
+        "title": "An ESP32 based plane radar for my desk",
+        "link": "https://blog.ktz.me/esp32-plane-radar/",
+        "description": "<p>Article URL: <a href=\"https://blog.ktz.me/esp32-plane-radar/\">https://blog.ktz.me/esp32-plane-radar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054107\">https://news.ycombinator.com/item?id=49054107</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 26 Jul 2026 02:35:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49054107"
       },
       {
-        "title": "Bringing PyTorch Monarch to AMD GPUs",
-        "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-        "description": "<p>Article URL: <a href=\"https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/\">https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048689\">https://news.ycombinator.com/item?id=49048689</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
-        "pubDate": "Sat, 25 Jul 2026 15:55:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49048689"
+        "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+        "link": "https://golfcoursebrowser.com/",
+        "description": "<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https://golfcoursebrowser.com/\" rel=\"nofollow\">https://golfcoursebrowser.com/</a><p>It's a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It's free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I'm filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating/slope, and public/private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054010\">https://news.ycombinator.com/item?id=49054010</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sun, 26 Jul 2026 02:22:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49054010"
       },
       {
-        "title": "The Dark Night of Mathematics",
-        "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "description": "<p>Article URL: <a href=\"https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics\">https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048681\">https://news.ycombinator.com/item?id=49048681</a></p>\n<p>Points: 74</p>\n<p># Comments: 50</p>",
-        "pubDate": "Sat, 25 Jul 2026 15:54:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49048681"
+        "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+        "link": "https://synaptale.com/graph?ch=100",
+        "description": "<p>The graph is free to explore and requires no registration.<p>SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).\nThe graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.<p>The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter. By chapter 100, it still remembers a promise made in chapter 8 and turns the story into a set of source-verifiable facts.<p>The most interesting things can be found in the graph itself and in the Analytics tab. A few things I found:<p>1. The character with the highest kill count is the Tin Woodman—the same character who cries over a beetle he accidentally crushed. Dorothy comes second, with three killing events.\n2. Dorothy never deceives anyone during the first 100 chapters of the series.\n3. The Scarecrow’s debt to the stork has remained active for 92 chapters, starting in chapter 8.\n4. The Cowardly Lion ranks third by number of threats.\n5. The first 100 chapters contain 60 secrets and 254 dialogue events.<p>Technical details<p>1. Five different multi-agent pipelines combining LLMs and NLP: a prescan, ontology construction, chapter-by-chapter graph extraction, retrospective validation over spans of dozens of chapters, and a linguistic prescan for speech profiles and linguistic edges.<p>2. A living story needs a living graph. It has to account for time, because entities and the relationships between them evolve. A simple is_active field is not enough.<p>I ended up with three types of edges:<p>event: an instantaneous action;\nidentity: a fact;\nstate: a persistent action whose termination requires justification and a supporting quote from the text.<p>The vast majority of edges are events and end in the same chapter in which they began. This allows the system to scale well, since only a minority of state and identity edges remain continuously active.<p>3. Ontology. You cannot simply ask an LLM to extract entities and relationships into a graph. With every chapter, even the smartest model will keep inventing unimportant fields, creating new aliases for existing fields, and representing the same fields inconsistently.<p>Before extracting the graph, the system therefore performs an ontology scan across the entire story. It captures story-specific entity and edge types, along with their fields and descriptions.<p>4. Epistemics. Events are only one part of a story. It is also important to understand how information is distributed, which is difficult to represent using event edges alone.<p>I addressed this by introducing a new node type: epistemic nodes, which capture different entities’ perspectives on the same fact. Subtle hints can still be missed, the system is not yet perfect in this area.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053986\">https://news.ycombinator.com/item?id=49053986</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 26 Jul 2026 02:18:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49053986"
       },
       {
-        "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-        "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-        "description": "<p>Article URL: <a href=\"https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits\">https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048645\">https://news.ycombinator.com/item?id=49048645</a></p>\n<p>Points: 45</p>\n<p># Comments: 32</p>",
-        "pubDate": "Sat, 25 Jul 2026 15:51:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49048645"
+        "title": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
+        "link": "https://www.zwplayer.com/",
+        "description": "<p>Article URL: <a href=\"https://www.zwplayer.com/\">https://www.zwplayer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053805\">https://news.ycombinator.com/item?id=49053805</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 26 Jul 2026 01:49:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49053805"
       },
       {
-        "title": "Engineering management after the cost of code collapsed",
-        "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-        "description": "<p>Article URL: <a href=\"https://karimjedda.com/engineering-management-after-cost-of-code-collapse/\">https://karimjedda.com/engineering-management-after-cost-of-code-collapse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048212\">https://news.ycombinator.com/item?id=49048212</a></p>\n<p>Points: 60</p>\n<p># Comments: 93</p>",
-        "pubDate": "Sat, 25 Jul 2026 15:10:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49048212"
+        "title": "Git rebase -I is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "description": "<p>Article URL: <a href=\"https://cachebag.sh/journal/interactive-rebasing/\">https://cachebag.sh/journal/interactive-rebasing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053385\">https://news.ycombinator.com/item?id=49053385</a></p>\n<p>Points: 30</p>\n<p># Comments: 24</p>",
+        "pubDate": "Sun, 26 Jul 2026 00:37:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49053385"
       },
       {
-        "title": "Open-weight AI is having its Kubernetes moment",
-        "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "description": "<p>Article URL: <a href=\"https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/\">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048034\">https://news.ycombinator.com/item?id=49048034</a></p>\n<p>Points: 158</p>\n<p># Comments: 106</p>",
-        "pubDate": "Sat, 25 Jul 2026 14:49:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49048034"
+        "title": "Systems and Delays",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "description": "<p>Article URL: <a href=\"https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\">https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053382\">https://news.ycombinator.com/item?id=49053382</a></p>\n<p>Points: 31</p>\n<p># Comments: 7</p>",
+        "pubDate": "Sun, 26 Jul 2026 00:37:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49053382"
       },
       {
-        "title": "Task-centered iproute2 user guide",
-        "link": "https://baturin.org/docs/iproute2/",
-        "description": "<p>Article URL: <a href=\"https://baturin.org/docs/iproute2/\">https://baturin.org/docs/iproute2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047884\">https://news.ycombinator.com/item?id=49047884</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sat, 25 Jul 2026 14:32:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49047884"
+        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+        "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/owensong/Inflect-Micro-v2\">https://huggingface.co/owensong/Inflect-Micro-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053375\">https://news.ycombinator.com/item?id=49053375</a></p>\n<p>Points: 35</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 26 Jul 2026 00:36:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49053375"
       },
       {
-        "title": "Scanwheel is a drum style mechanical television you can build yourself",
-        "link": "https://github.com/AncientJames/Scanwheel/",
-        "description": "<p>Article URL: <a href=\"https://github.com/AncientJames/Scanwheel/\">https://github.com/AncientJames/Scanwheel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047707\">https://news.ycombinator.com/item?id=49047707</a></p>\n<p>Points: 35</p>\n<p># Comments: 8</p>",
-        "pubDate": "Sat, 25 Jul 2026 14:10:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49047707"
+        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "description": "<p>Article URL: <a href=\"https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052912\">https://news.ycombinator.com/item?id=49052912</a></p>\n<p>Points: 99</p>\n<p># Comments: 64</p>",
+        "pubDate": "Sat, 25 Jul 2026 23:32:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49052912"
       },
       {
-        "title": "The Silurian Hypothesis (2020)",
-        "link": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
-        "description": "<p>Article URL: <a href=\"https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/\">https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047563\">https://news.ycombinator.com/item?id=49047563</a></p>\n<p>Points: 37</p>\n<p># Comments: 71</p>",
-        "pubDate": "Sat, 25 Jul 2026 13:48:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49047563"
+        "title": "Clinical failure rates over the decades: yikes",
+        "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052628\">https://news.ycombinator.com/item?id=49052628</a></p>\n<p>Points: 63</p>\n<p># Comments: 34</p>",
+        "pubDate": "Sat, 25 Jul 2026 22:57:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49052628"
       },
       {
-        "title": "My web version of Mars MIPS, now have builtin C compiler",
-        "link": "https://webmars.nfiles.top/",
-        "description": "<p>Article URL: <a href=\"https://webmars.nfiles.top/\">https://webmars.nfiles.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047516\">https://news.ycombinator.com/item?id=49047516</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sat, 25 Jul 2026 13:42:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49047516"
+        "title": "Cloudflare's new AI traffic options for customers",
+        "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/content-independence-day-ai-options/\">https://blog.cloudflare.com/content-independence-day-ai-options/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052564\">https://news.ycombinator.com/item?id=49052564</a></p>\n<p>Points: 55</p>\n<p># Comments: 34</p>",
+        "pubDate": "Sat, 25 Jul 2026 22:50:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49052564"
       },
       {
-        "title": "Bitchat is now on Radicle",
-        "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-        "description": "<p>Article URL: <a href=\"https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6\">https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047365\">https://news.ycombinator.com/item?id=49047365</a></p>\n<p>Points: 130</p>\n<p># Comments: 81</p>",
-        "pubDate": "Sat, 25 Jul 2026 13:18:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49047365"
+        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+        "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/sodium-ion-battery-peak-energy\">https://spectrum.ieee.org/sodium-ion-battery-peak-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051947\">https://news.ycombinator.com/item?id=49051947</a></p>\n<p>Points: 146</p>\n<p># Comments: 57</p>",
+        "pubDate": "Sat, 25 Jul 2026 21:48:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49051947"
       },
       {
-        "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-        "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\">https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49046858\">https://news.ycombinator.com/item?id=49046858</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 25 Jul 2026 12:00:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49046858"
+        "title": "Multicast TV Distribution on My Home Network",
+        "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
+        "description": "<p>Article URL: <a href=\"https://www.apalrd.net/posts/2026/isp_mcast/\">https://www.apalrd.net/posts/2026/isp_mcast/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051463\">https://news.ycombinator.com/item?id=49051463</a></p>\n<p>Points: 45</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 25 Jul 2026 20:55:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49051463"
       },
       {
-        "title": "The Fedora 45 Sausage Factory",
-        "link": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-        "description": "<p>Article URL: <a href=\"https://supakeen.com/weblog/the-fedora-45-sausage-factory/\">https://supakeen.com/weblog/the-fedora-45-sausage-factory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49046525\">https://news.ycombinator.com/item?id=49046525</a></p>\n<p>Points: 103</p>\n<p># Comments: 29</p>",
-        "pubDate": "Sat, 25 Jul 2026 11:04:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49046525"
+        "title": "Turn And Face The Strange",
+        "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+        "description": "<p>Article URL: <a href=\"https://fly.io/blog/kurt-scott-money-sprites/\">https://fly.io/blog/kurt-scott-money-sprites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051369\">https://news.ycombinator.com/item?id=49051369</a></p>\n<p>Points: 155</p>\n<p># Comments: 115</p>",
+        "pubDate": "Sat, 25 Jul 2026 20:43:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49051369"
       },
       {
-        "title": "MouthPad: A Tongue-Controlled Touchpad",
-        "link": "https://www.augmental.tech/",
-        "description": "<p>Article URL: <a href=\"https://www.augmental.tech/\">https://www.augmental.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045446\">https://news.ycombinator.com/item?id=49045446</a></p>\n<p>Points: 129</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sat, 25 Jul 2026 07:51:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49045446"
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "description": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 194</p>\n<p># Comments: 131</p>",
+        "pubDate": "Sat, 25 Jul 2026 20:42:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49051361"
       },
       {
-        "title": "Android May Soon Restrict On-Device ADB",
-        "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "description": "<p>Article URL: <a href=\"https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\">https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045159\">https://news.ycombinator.com/item?id=49045159</a></p>\n<p>Points: 739</p>\n<p># Comments: 339</p>",
-        "pubDate": "Sat, 25 Jul 2026 06:57:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49045159"
+        "title": "Did They Ghost You?",
+        "link": "https://didtheyghostyou.com/",
+        "description": "<p>Article URL: <a href=\"https://didtheyghostyou.com/\">https://didtheyghostyou.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051120\">https://news.ycombinator.com/item?id=49051120</a></p>\n<p>Points: 323</p>\n<p># Comments: 144</p>",
+        "pubDate": "Sat, 25 Jul 2026 20:18:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49051120"
       },
       {
-        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-        "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-        "description": "<p>Article URL: <a href=\"https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities\">https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49044492\">https://news.ycombinator.com/item?id=49044492</a></p>\n<p>Points: 118</p>\n<p># Comments: 37</p>",
-        "pubDate": "Sat, 25 Jul 2026 04:20:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49044492"
+        "title": "LLM Usage in Debian: Three Proposals",
+        "link": "https://www.debian.org/vote/2026/vote_002",
+        "description": "<p>Article URL: <a href=\"https://www.debian.org/vote/2026/vote_002\">https://www.debian.org/vote/2026/vote_002</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050859\">https://news.ycombinator.com/item?id=49050859</a></p>\n<p>Points: 98</p>\n<p># Comments: 91</p>",
+        "pubDate": "Sat, 25 Jul 2026 19:44:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49050859"
       },
       {
-        "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-        "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-        "description": "<p>Article URL: <a href=\"https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize\">https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49043724\">https://news.ycombinator.com/item?id=49043724</a></p>\n<p>Points: 538</p>\n<p># Comments: 88</p>",
-        "pubDate": "Sat, 25 Jul 2026 01:44:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49043724"
+        "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+        "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+        "description": "<p>Article URL: <a href=\"https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/\">https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050735\">https://news.ycombinator.com/item?id=49050735</a></p>\n<p>Points: 104</p>\n<p># Comments: 69</p>",
+        "pubDate": "Sat, 25 Jul 2026 19:30:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49050735"
       },
       {
-        "title": "Show HN: I made some transistor animations",
-        "link": "https://brandonli.net/semisim/animations",
-        "description": "<p>Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.<p>The last thread about my software was posted here about a year ago: <a href=\"https://news.ycombinator.com/item?id=43942279\">https://news.ycombinator.com/item?id=43942279</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49039868\">https://news.ycombinator.com/item?id=49039868</a></p>\n<p>Points: 25</p>\n<p># Comments: 2</p>",
-        "pubDate": "Fri, 24 Jul 2026 18:37:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49039868"
+        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "link": "https://github.com/slvDev/esp32-ai",
+        "description": "<p>Article URL: <a href=\"https://github.com/slvDev/esp32-ai\">https://github.com/slvDev/esp32-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050512\">https://news.ycombinator.com/item?id=49050512</a></p>\n<p>Points: 98</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 25 Jul 2026 18:59:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49050512"
       },
       {
-        "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
-        "link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html\">https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49014034\">https://news.ycombinator.com/item?id=49014034</a></p>\n<p>Points: 88</p>\n<p># Comments: 18</p>",
-        "pubDate": "Wed, 22 Jul 2026 21:58:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49014034"
+        "title": "Memory Safety Absolutists",
+        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+        "description": "<p>Article URL: <a href=\"https://itsallaboutthebit.com/memory-safety-absolutists/\">https://itsallaboutthebit.com/memory-safety-absolutists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050058\">https://news.ycombinator.com/item?id=49050058</a></p>\n<p>Points: 64</p>\n<p># Comments: 85</p>",
+        "pubDate": "Sat, 25 Jul 2026 18:08:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49050058"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-25T19:20:38.852Z",
+  "lastUpdated": "2026-07-26T03:44:11.032Z",
   "stats": {
     "feeds": 2,
     "articles": 20
