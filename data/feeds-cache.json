@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-26T08:36:58.485Z"
+      "lastFetched": "2026-07-26T13:45:56.810Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-26T08:37:18.361Z"
+      "lastFetched": "2026-07-26T13:46:05.270Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+        "link": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+        "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c\">https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49057574\">https://news.ycombinator.com/item?id=49057574</a></p>\n<p>Points: 50</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sun, 26 Jul 2026 12:43:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49057574"
+      },
+      {
+        "title": "Go Analysis Framework: modular static analysis by go team",
+        "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+        "description": "<p>Article URL: <a href=\"https://pkg.go.dev/golang.org/x/tools/go/analysis\">https://pkg.go.dev/golang.org/x/tools/go/analysis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49057398\">https://news.ycombinator.com/item?id=49057398</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 26 Jul 2026 12:21:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49057398"
+      },
+      {
+        "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+        "link": "https://english.mapn.ro/",
+        "description": "<p>Article URL: <a href=\"https://english.mapn.ro/\">https://english.mapn.ro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49057248\">https://news.ycombinator.com/item?id=49057248</a></p>\n<p>Points: 108</p>\n<p># Comments: 67</p>",
+        "pubDate": "Sun, 26 Jul 2026 12:00:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49057248"
+      },
+      {
+        "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+        "link": "https://comuniq.xyz/post?t=1439",
+        "description": "<p>Article URL: <a href=\"https://comuniq.xyz/post?t=1439\">https://comuniq.xyz/post?t=1439</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056424\">https://news.ycombinator.com/item?id=49056424</a></p>\n<p>Points: 46</p>\n<p># Comments: 36</p>",
+        "pubDate": "Sun, 26 Jul 2026 09:58:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49056424"
+      },
+      {
+        "title": "Systemd Linger",
+        "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+        "description": "<p>Article URL: <a href=\"https://etbe.coker.com.au/2026/07/24/systemd-linger/\">https://etbe.coker.com.au/2026/07/24/systemd-linger/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056351\">https://news.ycombinator.com/item?id=49056351</a></p>\n<p>Points: 32</p>\n<p># Comments: 28</p>",
+        "pubDate": "Sun, 26 Jul 2026 09:43:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49056351"
+      },
+      {
+        "title": "Elevated Errors for Opus 5",
+        "link": "https://status.claude.com/incidents/zftg3gqkmv18",
+        "description": "<p>Article URL: <a href=\"https://status.claude.com/incidents/zftg3gqkmv18\">https://status.claude.com/incidents/zftg3gqkmv18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056194\">https://news.ycombinator.com/item?id=49056194</a></p>\n<p>Points: 55</p>\n<p># Comments: 49</p>",
+        "pubDate": "Sun, 26 Jul 2026 09:18:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49056194"
+      },
+      {
+        "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+        "link": "https://astral.sh/blog/ruff-v0.16.0",
+        "description": "<p>Article URL: <a href=\"https://astral.sh/blog/ruff-v0.16.0\">https://astral.sh/blog/ruff-v0.16.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056112\">https://news.ycombinator.com/item?id=49056112</a></p>\n<p>Points: 177</p>\n<p># Comments: 98</p>",
+        "pubDate": "Sun, 26 Jul 2026 09:01:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49056112"
+      },
+      {
         "title": "GrapheneOS protections against data extraction from locked devices",
         "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-        "description": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\">https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49055169\">https://news.ycombinator.com/item?id=49055169</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\">https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49055169\">https://news.ycombinator.com/item?id=49055169</a></p>\n<p>Points: 185</p>\n<p># Comments: 103</p>",
         "pubDate": "Sun, 26 Jul 2026 05:57:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49055169"
       },
       {
-        "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-        "link": "https://github.com/mulfyx/w4me-station",
-        "description": "<p>Article URL: <a href=\"https://github.com/mulfyx/w4me-station\">https://github.com/mulfyx/w4me-station</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054697\">https://news.ycombinator.com/item?id=49054697</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 26 Jul 2026 04:19:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49054697"
-      },
-      {
         "title": "JetZero",
         "link": "https://www.jetzero.aero",
-        "description": "<p>Article URL: <a href=\"https://www.jetzero.aero\">https://www.jetzero.aero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054224\">https://news.ycombinator.com/item?id=49054224</a></p>\n<p>Points: 186</p>\n<p># Comments: 144</p>",
+        "description": "<p>Article URL: <a href=\"https://www.jetzero.aero\">https://www.jetzero.aero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054224\">https://news.ycombinator.com/item?id=49054224</a></p>\n<p>Points: 221</p>\n<p># Comments: 206</p>",
         "pubDate": "Sun, 26 Jul 2026 02:55:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49054224"
       },
       {
         "title": "An ESP32 based plane radar for my desk",
         "link": "https://blog.ktz.me/esp32-plane-radar/",
-        "description": "<p>Article URL: <a href=\"https://blog.ktz.me/esp32-plane-radar/\">https://blog.ktz.me/esp32-plane-radar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054107\">https://news.ycombinator.com/item?id=49054107</a></p>\n<p>Points: 119</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.ktz.me/esp32-plane-radar/\">https://blog.ktz.me/esp32-plane-radar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054107\">https://news.ycombinator.com/item?id=49054107</a></p>\n<p>Points: 194</p>\n<p># Comments: 40</p>",
         "pubDate": "Sun, 26 Jul 2026 02:35:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=49054107"
       },
       {
         "title": "Show HN: I mapped every US golf course",
         "link": "https://golfcoursebrowser.com/",
-        "description": "<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https://golfcoursebrowser.com/\" rel=\"nofollow\">https://golfcoursebrowser.com/</a><p>It's a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It's free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I'm filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating/slope, and public/private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054010\">https://news.ycombinator.com/item?id=49054010</a></p>\n<p>Points: 113</p>\n<p># Comments: 57</p>",
+        "description": "<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https://golfcoursebrowser.com/\" rel=\"nofollow\">https://golfcoursebrowser.com/</a><p>It's a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It's free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I'm filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating/slope, and public/private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054010\">https://news.ycombinator.com/item?id=49054010</a></p>\n<p>Points: 163</p>\n<p># Comments: 102</p>",
         "pubDate": "Sun, 26 Jul 2026 02:22:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49054010"
       },
       {
         "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
         "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-        "description": "<p>Article URL: <a href=\"https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/\">https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053708\">https://news.ycombinator.com/item?id=49053708</a></p>\n<p>Points: 58</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/\">https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053708\">https://news.ycombinator.com/item?id=49053708</a></p>\n<p>Points: 100</p>\n<p># Comments: 35</p>",
         "pubDate": "Sun, 26 Jul 2026 01:35:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49053708"
       },
       {
         "title": "Git rebase -I is not that scary",
         "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "description": "<p>Article URL: <a href=\"https://cachebag.sh/journal/interactive-rebasing/\">https://cachebag.sh/journal/interactive-rebasing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053385\">https://news.ycombinator.com/item?id=49053385</a></p>\n<p>Points: 57</p>\n<p># Comments: 53</p>",
+        "description": "<p>Article URL: <a href=\"https://cachebag.sh/journal/interactive-rebasing/\">https://cachebag.sh/journal/interactive-rebasing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053385\">https://news.ycombinator.com/item?id=49053385</a></p>\n<p>Points: 95</p>\n<p># Comments: 111</p>",
         "pubDate": "Sun, 26 Jul 2026 00:37:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49053385"
       },
       {
-        "title": "Systems and Delays",
-        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "description": "<p>Article URL: <a href=\"https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\">https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053382\">https://news.ycombinator.com/item?id=49053382</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
-        "pubDate": "Sun, 26 Jul 2026 00:37:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49053382"
-      },
-      {
         "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
         "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "description": "<p>Article URL: <a href=\"https://huggingface.co/owensong/Inflect-Micro-v2\">https://huggingface.co/owensong/Inflect-Micro-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053375\">https://news.ycombinator.com/item?id=49053375</a></p>\n<p>Points: 111</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/owensong/Inflect-Micro-v2\">https://huggingface.co/owensong/Inflect-Micro-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053375\">https://news.ycombinator.com/item?id=49053375</a></p>\n<p>Points: 168</p>\n<p># Comments: 12</p>",
         "pubDate": "Sun, 26 Jul 2026 00:36:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49053375"
       },
       {
         "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
         "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "description": "<p>Article URL: <a href=\"https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052912\">https://news.ycombinator.com/item?id=49052912</a></p>\n<p>Points: 131</p>\n<p># Comments: 93</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052912\">https://news.ycombinator.com/item?id=49052912</a></p>\n<p>Points: 193</p>\n<p># Comments: 149</p>",
         "pubDate": "Sat, 25 Jul 2026 23:32:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49052912"
       },
       {
         "title": "Clinical failure rates over the decades: yikes",
         "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052628\">https://news.ycombinator.com/item?id=49052628</a></p>\n<p>Points: 95</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052628\">https://news.ycombinator.com/item?id=49052628</a></p>\n<p>Points: 114</p>\n<p># Comments: 96</p>",
         "pubDate": "Sat, 25 Jul 2026 22:57:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49052628"
       },
       {
         "title": "What is happening to jobs? Separating AI hype from reality",
         "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-        "description": "<p>Article URL: <a href=\"https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\">https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052570\">https://news.ycombinator.com/item?id=49052570</a></p>\n<p>Points: 78</p>\n<p># Comments: 83</p>",
+        "description": "<p>Article URL: <a href=\"https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\">https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052570\">https://news.ycombinator.com/item?id=49052570</a></p>\n<p>Points: 140</p>\n<p># Comments: 192</p>",
         "pubDate": "Sat, 25 Jul 2026 22:51:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49052570"
       },
       {
         "title": "Cloudflare's new AI traffic options for customers",
         "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/content-independence-day-ai-options/\">https://blog.cloudflare.com/content-independence-day-ai-options/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052564\">https://news.ycombinator.com/item?id=49052564</a></p>\n<p>Points: 108</p>\n<p># Comments: 75</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/content-independence-day-ai-options/\">https://blog.cloudflare.com/content-independence-day-ai-options/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052564\">https://news.ycombinator.com/item?id=49052564</a></p>\n<p>Points: 146</p>\n<p># Comments: 125</p>",
         "pubDate": "Sat, 25 Jul 2026 22:50:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49052564"
       },
       {
-        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-        "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/sodium-ion-battery-peak-energy\">https://spectrum.ieee.org/sodium-ion-battery-peak-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051947\">https://news.ycombinator.com/item?id=49051947</a></p>\n<p>Points: 171</p>\n<p># Comments: 72</p>",
-        "pubDate": "Sat, 25 Jul 2026 21:48:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49051947"
-      },
-      {
-        "title": "Turn And Face The Strange",
-        "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-        "description": "<p>Article URL: <a href=\"https://fly.io/blog/kurt-scott-money-sprites/\">https://fly.io/blog/kurt-scott-money-sprites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051369\">https://news.ycombinator.com/item?id=49051369</a></p>\n<p>Points: 192</p>\n<p># Comments: 127</p>",
-        "pubDate": "Sat, 25 Jul 2026 20:43:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49051369"
-      },
-      {
         "title": "The new rules of context engineering for Claude 5 generation models",
         "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "description": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 306</p>\n<p># Comments: 187</p>",
+        "description": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 382</p>\n<p># Comments: 277</p>",
         "pubDate": "Sat, 25 Jul 2026 20:42:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49051361"
       },
       {
         "title": "LLM Usage in Debian: Three Proposals",
         "link": "https://www.debian.org/vote/2026/vote_002",
-        "description": "<p>Article URL: <a href=\"https://www.debian.org/vote/2026/vote_002\">https://www.debian.org/vote/2026/vote_002</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050859\">https://news.ycombinator.com/item?id=49050859</a></p>\n<p>Points: 142</p>\n<p># Comments: 121</p>",
+        "description": "<p>Article URL: <a href=\"https://www.debian.org/vote/2026/vote_002\">https://www.debian.org/vote/2026/vote_002</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050859\">https://news.ycombinator.com/item?id=49050859</a></p>\n<p>Points: 185</p>\n<p># Comments: 161</p>",
         "pubDate": "Sat, 25 Jul 2026 19:44:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49050859"
-      },
-      {
-        "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-        "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-        "description": "<p>Article URL: <a href=\"https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/\">https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050735\">https://news.ycombinator.com/item?id=49050735</a></p>\n<p>Points: 118</p>\n<p># Comments: 85</p>",
-        "pubDate": "Sat, 25 Jul 2026 19:30:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49050735"
-      },
-      {
-        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "link": "https://github.com/slvDev/esp32-ai",
-        "description": "<p>Article URL: <a href=\"https://github.com/slvDev/esp32-ai\">https://github.com/slvDev/esp32-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050512\">https://news.ycombinator.com/item?id=49050512</a></p>\n<p>Points: 168</p>\n<p># Comments: 37</p>",
-        "pubDate": "Sat, 25 Jul 2026 18:59:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49050512"
-      },
-      {
-        "title": "Memory safety absolutists",
-        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-        "description": "<p>Article URL: <a href=\"https://itsallaboutthebit.com/memory-safety-absolutists/\">https://itsallaboutthebit.com/memory-safety-absolutists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050058\">https://news.ycombinator.com/item?id=49050058</a></p>\n<p>Points: 91</p>\n<p># Comments: 131</p>",
-        "pubDate": "Sat, 25 Jul 2026 18:08:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49050058"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-26T08:37:18.362Z",
+  "lastUpdated": "2026-07-26T13:46:05.271Z",
   "stats": {
     "feeds": 2,
     "articles": 20
