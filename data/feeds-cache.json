@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-29T14:26:21.562Z"
+      "lastFetched": "2026-07-29T19:35:43.249Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-29T14:26:41.293Z"
+      "lastFetched": "2026-07-29T19:35:49.925Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Choose DuckDB rather than SQLite",
-        "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
-        "description": "<p>Article URL: <a href=\"https://tracewayapp.com/blog/sqlite-vs-duckdb\">https://tracewayapp.com/blog/sqlite-vs-duckdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097730\">https://news.ycombinator.com/item?id=49097730</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 29 Jul 2026 14:05:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49097730"
+        "title": "Kimi K3-256k",
+        "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "description": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models\">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101852\">https://news.ycombinator.com/item?id=49101852</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 29 Jul 2026 19:25:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101852"
       },
       {
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "link": "https://arxiv.org/abs/2607.25398",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.25398\">https://arxiv.org/abs/2607.25398</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096969\">https://news.ycombinator.com/item?id=49096969</a></p>\n<p>Points: 67</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 29 Jul 2026 13:01:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096969"
+        "title": "How much can you delegate to agents?",
+        "link": "https://newsletter.posthog.com/p/agent-autonomy",
+        "description": "<p>Article URL: <a href=\"https://newsletter.posthog.com/p/agent-autonomy\">https://newsletter.posthog.com/p/agent-autonomy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101655\">https://news.ycombinator.com/item?id=49101655</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 29 Jul 2026 19:07:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101655"
       },
       {
-        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-        "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
-        "description": "<p>Article URL: <a href=\"https://github.com/SerhiiKorniienko/bullshit-detector\">https://github.com/SerhiiKorniienko/bullshit-detector</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096917\">https://news.ycombinator.com/item?id=49096917</a></p>\n<p>Points: 41</p>\n<p># Comments: 21</p>",
-        "pubDate": "Wed, 29 Jul 2026 12:58:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096917"
+        "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+        "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+        "description": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/commodification-and-circularity/\">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101529\">https://news.ycombinator.com/item?id=49101529</a></p>\n<p>Points: 7</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:57:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101529"
       },
       {
-        "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-        "link": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-        "description": "<p>Article URL: <a href=\"https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/\">https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096811\">https://news.ycombinator.com/item?id=49096811</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 29 Jul 2026 12:48:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096811"
+        "title": "Austerity Breeds Financial Protectionism",
+        "link": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
+        "description": "<p>Article URL: <a href=\"https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/\">https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101460\">https://news.ycombinator.com/item?id=49101460</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:50:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101460"
       },
       {
-        "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-        "link": "https://echologue.com/",
-        "description": "<p>I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:<p>* Voice first<p>* Private first<p>* AI chat<p>* Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally<p>* Export to LLM<p>the AI angle is especially interesting for me. It allows me to ask questions like:<p>* \"remind me highlights and crazy nights in the last 3 months\"<p>* \"How was I feeling during my trip in Spain and how big of a problem was my breakup\"<p>* \"How would you judge my overall interactions with Marc after I told him about my problems\"<p>the overall process is fire and forget. I just talk for let's say a minute every day or when there was something of interest.<p>Everything is stored on device. The AI inference is done with Zero Data Retention Endpoints. No email or anything else is kept, you are completely anonymous, I have no idea what or how people use this.<p>Otherwise journaling doesn't work. I can't say my secret thoughts when I know someone has a master key or can suffer a security breach.<p>I hope you enjoy the product as much as I do.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096767\">https://news.ycombinator.com/item?id=49096767</a></p>\n<p>Points: 16</p>\n<p># Comments: 9</p>",
-        "pubDate": "Wed, 29 Jul 2026 12:43:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096767"
+        "title": "The motion-sickness cure hidden in iPhone settings",
+        "link": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings\">https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101371\">https://news.ycombinator.com/item?id=49101371</a></p>\n<p>Points: 9</p>\n<p># Comments: 11</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:43:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101371"
       },
       {
-        "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
-        "link": "https://jcgt.org/published/0015/02/01/",
-        "description": "<p>Article URL: <a href=\"https://jcgt.org/published/0015/02/01/\">https://jcgt.org/published/0015/02/01/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096742\">https://news.ycombinator.com/item?id=49096742</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 29 Jul 2026 12:40:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096742"
+        "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+        "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+        "description": "<p>Article URL: <a href=\"https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html\">https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101351\">https://news.ycombinator.com/item?id=49101351</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:42:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101351"
       },
       {
-        "title": "Darktable",
-        "link": "https://www.darktable.org/",
-        "description": "<p>Article URL: <a href=\"https://www.darktable.org/\">https://www.darktable.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096654\">https://news.ycombinator.com/item?id=49096654</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 29 Jul 2026 12:33:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096654"
+        "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
+        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "description": "<p>Article URL: <a href=\"https://gleam.run/news/a-field-day-for-gleams-language-server/\">https://gleam.run/news/a-field-day-for-gleams-language-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101334\">https://news.ycombinator.com/item?id=49101334</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:40:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101334"
       },
       {
-        "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-        "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/\">https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096427\">https://news.ycombinator.com/item?id=49096427</a></p>\n<p>Points: 30</p>\n<p># Comments: 6</p>",
-        "pubDate": "Wed, 29 Jul 2026 12:11:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096427"
+        "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+        "link": "https://prilik.com/blog/post/automating-ac-nyc/",
+        "description": "<p>Article URL: <a href=\"https://prilik.com/blog/post/automating-ac-nyc/\">https://prilik.com/blog/post/automating-ac-nyc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101198\">https://news.ycombinator.com/item?id=49101198</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:28:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101198"
       },
       {
-        "title": "French musician Kavinsky found dead",
-        "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-        "description": "<p>Article URL: <a href=\"https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home\">https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096290\">https://news.ycombinator.com/item?id=49096290</a></p>\n<p>Points: 166</p>\n<p># Comments: 38</p>",
-        "pubDate": "Wed, 29 Jul 2026 11:54:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096290"
+        "title": "Why has the display control panel pointer truncation bug gone unfixed for long?",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541",
+        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541\">https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101197\">https://news.ycombinator.com/item?id=49101197</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 29 Jul 2026 18:28:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49101197"
       },
       {
-        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-        "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "description": "<p>Article URL: <a href=\"https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/\">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096188\">https://news.ycombinator.com/item?id=49096188</a></p>\n<p>Points: 147</p>\n<p># Comments: 122</p>",
-        "pubDate": "Wed, 29 Jul 2026 11:44:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49096188"
+        "title": "PgDog (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100056\">https://news.ycombinator.com/item?id=49100056</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 29 Jul 2026 17:01:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49100056"
       },
       {
-        "title": "KOReader",
-        "link": "https://koreader.rocks/",
-        "description": "<p>Article URL: <a href=\"https://koreader.rocks/\">https://koreader.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095865\">https://news.ycombinator.com/item?id=49095865</a></p>\n<p>Points: 289</p>\n<p># Comments: 103</p>",
-        "pubDate": "Wed, 29 Jul 2026 11:05:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49095865"
+        "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+        "link": "https://cheapfoodmap.com/",
+        "description": "<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100043\">https://news.ycombinator.com/item?id=49100043</a></p>\n<p>Points: 41</p>\n<p># Comments: 38</p>",
+        "pubDate": "Wed, 29 Jul 2026 16:59:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49100043"
       },
       {
-        "title": "SpecForge – A Platform for Authoring Formal Specifications",
-        "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-        "description": "<p>Article URL: <a href=\"https://docs.imiron.io/v/0.5.10/en/tour.html\">https://docs.imiron.io/v/0.5.10/en/tour.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095628\">https://news.ycombinator.com/item?id=49095628</a></p>\n<p>Points: 46</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 29 Jul 2026 10:35:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49095628"
+        "title": "Some thoughts about Anthropic's new cryptanalysis results",
+        "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099804\">https://news.ycombinator.com/item?id=49099804</a></p>\n<p>Points: 51</p>\n<p># Comments: 24</p>",
+        "pubDate": "Wed, 29 Jul 2026 16:42:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49099804"
       },
       {
-        "title": "Amiga Graphics Archive",
-        "link": "https://amiga.lychesis.net/index.html",
-        "description": "<p>Article URL: <a href=\"https://amiga.lychesis.net/index.html\">https://amiga.lychesis.net/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095511\">https://news.ycombinator.com/item?id=49095511</a></p>\n<p>Points: 77</p>\n<p># Comments: 13</p>",
-        "pubDate": "Wed, 29 Jul 2026 10:19:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49095511"
+        "title": "Keychron announces first open-source firmware for gaming mice",
+        "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "description": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\">https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099715\">https://news.ycombinator.com/item?id=49099715</a></p>\n<p>Points: 125</p>\n<p># Comments: 59</p>",
+        "pubDate": "Wed, 29 Jul 2026 16:36:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49099715"
       },
       {
-        "title": "The only road in London where you have to drive on the right",
-        "link": "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294",
-        "description": "<p>Article URL: <a href=\"https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294\">https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095361\">https://news.ycombinator.com/item?id=49095361</a></p>\n<p>Points: 19</p>\n<p># Comments: 25</p>",
-        "pubDate": "Wed, 29 Jul 2026 09:59:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49095361"
+        "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+        "link": "https://kedge.dev/",
+        "description": "<p>I'm building Kedge, a globally distributed platform for stateful serverless apps. Here's how you make a simple static site: `echo '# Hello world!' | ssh kedge.dev`<p>I helped build Fly.io for 4 years and shared enthusiasm for the founders' vision of a 'global Heroku'.  While there, I wrote \"The Serverless Server\" (<a href=\"https://fly.io/blog/the-serverless-server/\" rel=\"nofollow\">https://fly.io/blog/the-serverless-server/</a>) as a study of Lambda and a sketch of a modern serverless product built around lightweight VMs. That essay was the initial inspiration for Kedge.<p>Kedge has a fast VM orchestrator that can create code sandboxes or scale service instances in 3ms, using a combination of forkable VM snapshots and a tree of warm pools (Linux kernel -> base runtime -> app). VMs are memory-dense thanks to shared copy-on-write memory pages. You can run lightweight CGI-style functions, public OCI images, or source code for BuildKit to compile and deploy.<p>Kedge's global control plane sits on an eventually-consistent SQLite database. Taking inspiration from Corrosion and Litestream, I built a local-first, multi-writer CRDT-based replication system backed by object storage, and just recently made it open source (<a href=\"https://github.com/wjordan/syzy\" rel=\"nofollow\">https://github.com/wjordan/syzy</a>).<p>You can also use a SQLite client to query `/shared.db` from any instance for a build-in replicated database in your app. This lets Kedge autoscale services close to your users while each instance queries its local replica for eventually-consistent data, with no need to micro-manage instance or volume placement. (There's also a /shared/ filesystem adapter for convenience.)<p>Kedge can even use this same database for stateful, server-rendered HTML apps. Data attributes bind forms, buttons, and values to records in the app database, Kedge compiles the schema and operations at deploy-time, and then queries the local data to serve requests. As a demo, I made a Hacker News clone with story submission, votes, comments and auth in about 60 lines of Markdown, plus CSS (<a href=\"https://kedge.dev/docs/html-apps#kedger-news\" rel=\"nofollow\">https://kedge.dev/docs/html-apps#kedger-news</a>).<p>I've just started collecting public feedback, so please let me know what you think! I'm particularly interested in feedback on the stateful HTML app model, which is the newest (and most ambitious) piece. The preview is currently running in 11 regions for you to kick the tires. There's no billing yet, so the pricing page is an estimate. Thanks for taking a look!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099434\">https://news.ycombinator.com/item?id=49099434</a></p>\n<p>Points: 39</p>\n<p># Comments: 11</p>",
+        "pubDate": "Wed, 29 Jul 2026 16:15:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49099434"
       },
       {
-        "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-        "link": "https://vimgolf.ai",
-        "description": "<p>Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be much appreciated!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095143\">https://news.ycombinator.com/item?id=49095143</a></p>\n<p>Points: 27</p>\n<p># Comments: 18</p>",
-        "pubDate": "Wed, 29 Jul 2026 09:26:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49095143"
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "link": "https://usetokenless.com/",
+        "description": "<p>Hi HN, Rohit here from Tokenless (<a href=\"https://usetokenless.com/\" rel=\"nofollow\">https://usetokenless.com/</a>), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.<p>The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.<p>Frontier models are amazing for dev work, but are so expensive. Open-source models are cheap and rapidly improving, closing the gap with frontier models, but aren’t quite there yet.<p>Tokenless gets you the best of both worlds–routing harder turns to smarter models only when needed, which keeps costs low.<p>Before Tokenless, I was doing a PhD at Princeton. While using coding/other agents, I constantly agonized over model choice, to make sure my AI spend was going as far as possible on my academic Cursor account.<p>At the same time, I was doing LLM research, and a small technique I developed while in recovery from NeurIPS submission season seemed to hit SOTA pretty fast. I was surprised that such simple ideas could do routing well.<p>We’ve been able to develop a version of the router that matches the performance of Claude Fable 5 at half the cost. The blog post on our website explores the technical details on how we did this (<a href=\"https://usetokenless.com/blog/building-tokenless/\" rel=\"nofollow\">https://usetokenless.com/blog/building-tokenless/</a>).<p>Highlights:\n- Our approach queries multiple models at once and uses their progress to make decisions (this technique is novel AFAIK, let us know if you know anyone else doing this).\n- Switching models doesn’t destroy the cache if the routing algorithm is aware of when the cache is hot/cold.<p>To come:\n- Adding Kimi K3, all other GPT efforts and more to the router<p>Go ahead and sign up on usetokenless.com and try using Tokenless with your agent, you’ll get $20 of free credit. Here’s a demo on how to use it: <a href=\"https://youtu.be/sjZWriclcls\" rel=\"nofollow\">https://youtu.be/sjZWriclcls</a><p>Tokenless provides frontier-level intelligence for cheaper, so we’d love some feedback on how it feels to use, any corner cases that the router routes incorrectly, and whether you find the routing problem interesting!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099143\">https://news.ycombinator.com/item?id=49099143</a></p>\n<p>Points: 38</p>\n<p># Comments: 37</p>",
+        "pubDate": "Wed, 29 Jul 2026 15:55:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49099143"
       },
       {
-        "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-        "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-        "description": "<p>Article URL: <a href=\"https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers\">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49094346\">https://news.ycombinator.com/item?id=49094346</a></p>\n<p>Points: 147</p>\n<p># Comments: 53</p>",
-        "pubDate": "Wed, 29 Jul 2026 07:18:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49094346"
+        "title": "Superlogical",
+        "link": "https://www.superlogical.com/",
+        "description": "<p><a href=\"https://mitchellh.com/writing/superlogical\" rel=\"nofollow\">https://mitchellh.com/writing/superlogical</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098965\">https://news.ycombinator.com/item?id=49098965</a></p>\n<p>Points: 309</p>\n<p># Comments: 224</p>",
+        "pubDate": "Wed, 29 Jul 2026 15:41:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49098965"
       },
       {
-        "title": "More Tailscale tricks for your jailbroken Kindle",
-        "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093569\">https://news.ycombinator.com/item?id=49093569</a></p>\n<p>Points: 301</p>\n<p># Comments: 97</p>",
-        "pubDate": "Wed, 29 Jul 2026 04:58:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49093569"
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "link": "https://github.com/drumih/turbo-fieldfare",
+        "description": "<p>Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.<p>The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.<p>I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.<p>It currently generates 5–6 tok/s on an 8 GB M2 MacBook Air and 31–35 tok/s on an M5 MacBook Pro.<p>I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.<p>Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.<p>I would love any kind of feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098510\">https://news.ycombinator.com/item?id=49098510</a></p>\n<p>Points: 453</p>\n<p># Comments: 156</p>",
+        "pubDate": "Wed, 29 Jul 2026 15:05:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49098510"
       },
       {
-        "title": "Cracking Windows Open: Porting RADV to Win32",
-        "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-        "description": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093435\">https://news.ycombinator.com/item?id=49093435</a></p>\n<p>Points: 76</p>\n<p># Comments: 21</p>",
-        "pubDate": "Wed, 29 Jul 2026 04:30:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49093435"
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+        "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">https://huggingface.co/blog/agent-intrusion-technical-timeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098466\">https://news.ycombinator.com/item?id=49098466</a></p>\n<p>Points: 132</p>\n<p># Comments: 51</p>",
+        "pubDate": "Wed, 29 Jul 2026 15:01:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49098466"
       },
       {
-        "title": "User Interfaces of the Demo Scene",
-        "link": "https://www.datagubbe.se/scenegui/",
-        "description": "<p>Article URL: <a href=\"https://www.datagubbe.se/scenegui/\">https://www.datagubbe.se/scenegui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093434\">https://news.ycombinator.com/item?id=49093434</a></p>\n<p>Points: 301</p>\n<p># Comments: 51</p>",
-        "pubDate": "Wed, 29 Jul 2026 04:30:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49093434"
+        "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+        "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+        "description": "<p>Article URL: <a href=\"https://juliahub.com/blog/frontier-models-physical-ai-evaluation\">https://juliahub.com/blog/frontier-models-physical-ai-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098388\">https://news.ycombinator.com/item?id=49098388</a></p>\n<p>Points: 58</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 29 Jul 2026 14:56:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49098388"
       },
       {
-        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-        "link": "https://transformer-transformer.github.io/",
-        "description": "<p>Article URL: <a href=\"https://transformer-transformer.github.io/\">https://transformer-transformer.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093232\">https://news.ycombinator.com/item?id=49093232</a></p>\n<p>Points: 69</p>\n<p># Comments: 8</p>",
-        "pubDate": "Wed, 29 Jul 2026 03:52:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49093232"
+        "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+        "link": "https://github.com/VladUZH/qwen-scribe",
+        "description": "<p>Article URL: <a href=\"https://github.com/VladUZH/qwen-scribe\">https://github.com/VladUZH/qwen-scribe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098260\">https://news.ycombinator.com/item?id=49098260</a></p>\n<p>Points: 42</p>\n<p># Comments: 13</p>",
+        "pubDate": "Wed, 29 Jul 2026 14:47:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49098260"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-29T14:26:41.293Z",
+  "lastUpdated": "2026-07-29T19:35:49.926Z",
   "stats": {
     "feeds": 2,
     "articles": 20
