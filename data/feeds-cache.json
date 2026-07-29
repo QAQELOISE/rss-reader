@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-29T03:26:28.359Z"
+      "lastFetched": "2026-07-29T08:51:43.620Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-29T03:26:36.330Z"
+      "lastFetched": "2026-07-29T08:51:56.011Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Does every question mark deserve a Betteridge?",
-        "link": "https://dynomight.net/betteridge/",
-        "description": "<p>Article URL: <a href=\"https://dynomight.net/betteridge/\">https://dynomight.net/betteridge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092781\">https://news.ycombinator.com/item?id=49092781</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 29 Jul 2026 02:29:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49092781"
+        "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+        "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+        "description": "<p>Article URL: <a href=\"https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers\">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49094346\">https://news.ycombinator.com/item?id=49094346</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 29 Jul 2026 07:18:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49094346"
+      },
+      {
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093569\">https://news.ycombinator.com/item?id=49093569</a></p>\n<p>Points: 153</p>\n<p># Comments: 48</p>",
+        "pubDate": "Wed, 29 Jul 2026 04:58:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49093569"
+      },
+      {
+        "title": "Cracking Windows Open: Porting RADV to Win32",
+        "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+        "description": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093435\">https://news.ycombinator.com/item?id=49093435</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 29 Jul 2026 04:30:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49093435"
+      },
+      {
+        "title": "User Interfaces of the Demo Scene",
+        "link": "https://www.datagubbe.se/scenegui/",
+        "description": "<p>Article URL: <a href=\"https://www.datagubbe.se/scenegui/\">https://www.datagubbe.se/scenegui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093434\">https://news.ycombinator.com/item?id=49093434</a></p>\n<p>Points: 142</p>\n<p># Comments: 22</p>",
+        "pubDate": "Wed, 29 Jul 2026 04:30:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49093434"
+      },
+      {
+        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+        "link": "https://transformer-transformer.github.io/",
+        "description": "<p>Article URL: <a href=\"https://transformer-transformer.github.io/\">https://transformer-transformer.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093232\">https://news.ycombinator.com/item?id=49093232</a></p>\n<p>Points: 48</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 29 Jul 2026 03:52:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49093232"
       },
       {
         "title": "Hooray for the Sockets Interface",
         "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092754\">https://news.ycombinator.com/item?id=49092754</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092754\">https://news.ycombinator.com/item?id=49092754</a></p>\n<p>Points: 31</p>\n<p># Comments: 16</p>",
         "pubDate": "Wed, 29 Jul 2026 02:25:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49092754"
       },
       {
-        "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-        "link": "https://github.com/jagg-ix/zil-lean",
-        "description": "<p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092730\">https://news.ycombinator.com/item?id=49092730</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 29 Jul 2026 02:22:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49092730"
-      },
-      {
-        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-        "link": "https://www.bbc.com/news/articles/cly8zng43npo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cly8zng43npo\">https://www.bbc.com/news/articles/cly8zng43npo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092549\">https://news.ycombinator.com/item?id=49092549</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 29 Jul 2026 01:56:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49092549"
-      },
-      {
         "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
         "link": "https://learnvector.ai/",
-        "description": "<p>Article URL: <a href=\"https://learnvector.ai/\">https://learnvector.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092499\">https://news.ycombinator.com/item?id=49092499</a></p>\n<p>Points: 41</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://learnvector.ai/\">https://learnvector.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092499\">https://news.ycombinator.com/item?id=49092499</a></p>\n<p>Points: 173</p>\n<p># Comments: 99</p>",
         "pubDate": "Wed, 29 Jul 2026 01:49:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=49092499"
       },
       {
         "title": "Multiple Mouse Cursors in Wayland",
         "link": "https://blinry.org/multi-seat-wayland/",
-        "description": "<p>Article URL: <a href=\"https://blinry.org/multi-seat-wayland/\">https://blinry.org/multi-seat-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092112\">https://news.ycombinator.com/item?id=49092112</a></p>\n<p>Points: 28</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://blinry.org/multi-seat-wayland/\">https://blinry.org/multi-seat-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092112\">https://news.ycombinator.com/item?id=49092112</a></p>\n<p>Points: 116</p>\n<p># Comments: 78</p>",
         "pubDate": "Wed, 29 Jul 2026 00:59:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49092112"
       },
       {
-        "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-        "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-        "description": "<p>Article URL: <a href=\"https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf\">https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091994\">https://news.ycombinator.com/item?id=49091994</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 29 Jul 2026 00:44:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49091994"
-      },
-      {
-        "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-        "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-        "description": "<p>Article URL: <a href=\"https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\">https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091895\">https://news.ycombinator.com/item?id=49091895</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 29 Jul 2026 00:32:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49091895"
-      },
-      {
-        "title": "The Difference Between a Button and a Link",
-        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-        "description": "<p>Article URL: <a href=\"https://unplannedobsolescence.com/blog/buttons-vs-links/\">https://unplannedobsolescence.com/blog/buttons-vs-links/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091738\">https://news.ycombinator.com/item?id=49091738</a></p>\n<p>Points: 46</p>\n<p># Comments: 18</p>",
-        "pubDate": "Wed, 29 Jul 2026 00:12:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49091738"
-      },
-      {
         "title": "Hubble: Open-source notetaking app for you and your agents",
         "link": "https://www.hubble.md/",
-        "description": "<p>Article URL: <a href=\"https://www.hubble.md/\">https://www.hubble.md/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091730\">https://news.ycombinator.com/item?id=49091730</a></p>\n<p>Points: 55</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://www.hubble.md/\">https://www.hubble.md/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091730\">https://news.ycombinator.com/item?id=49091730</a></p>\n<p>Points: 104</p>\n<p># Comments: 35</p>",
         "pubDate": "Wed, 29 Jul 2026 00:11:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49091730"
       },
       {
-        "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-        "link": "https://studio.academa.ai/",
-        "description": "<p>Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.<p>We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.<p>To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU through the browser.<p>The editor is Monaco (the editor that powers VS Code) with a live preview: write your Manim code on one side, watch the animation update on the other.<p>There's also a built-in AI agent if you'd rather vibe-code your animations.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091703\">https://news.ycombinator.com/item?id=49091703</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
-        "pubDate": "Wed, 29 Jul 2026 00:07:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49091703"
-      },
-      {
         "title": "ReFrame – The EPaper Camera",
         "link": "https://reframe.camera/",
-        "description": "<p>Article URL: <a href=\"https://reframe.camera/\">https://reframe.camera/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091379\">https://news.ycombinator.com/item?id=49091379</a></p>\n<p>Points: 49</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://reframe.camera/\">https://reframe.camera/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091379\">https://news.ycombinator.com/item?id=49091379</a></p>\n<p>Points: 114</p>\n<p># Comments: 20</p>",
         "pubDate": "Tue, 28 Jul 2026 23:27:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49091379"
       },
       {
         "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
         "link": "https://github.com/twalichiewicz/HNewhere",
-        "description": "<p>HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090607\">https://news.ycombinator.com/item?id=49090607</a></p>\n<p>Points: 169</p>\n<p># Comments: 53</p>",
+        "description": "<p>HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090607\">https://news.ycombinator.com/item?id=49090607</a></p>\n<p>Points: 298</p>\n<p># Comments: 76</p>",
         "pubDate": "Tue, 28 Jul 2026 22:09:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49090607"
       },
       {
         "title": "Half-Life ported to Mac OS 9",
         "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-        "description": "<p>Article URL: <a href=\"https://mac-classic.com/news/half-life-ported-to-mac-os-9/\">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089814\">https://news.ycombinator.com/item?id=49089814</a></p>\n<p>Points: 174</p>\n<p># Comments: 86</p>",
+        "description": "<p>Article URL: <a href=\"https://mac-classic.com/news/half-life-ported-to-mac-os-9/\">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089814\">https://news.ycombinator.com/item?id=49089814</a></p>\n<p>Points: 231</p>\n<p># Comments: 109</p>",
         "pubDate": "Tue, 28 Jul 2026 20:58:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49089814"
       },
       {
         "title": "Codex Security",
         "link": "https://github.com/openai/codex-security",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex-security\">https://github.com/openai/codex-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089755\">https://news.ycombinator.com/item?id=49089755</a></p>\n<p>Points: 381</p>\n<p># Comments: 115</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex-security\">https://github.com/openai/codex-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089755\">https://news.ycombinator.com/item?id=49089755</a></p>\n<p>Points: 489</p>\n<p># Comments: 161</p>",
         "pubDate": "Tue, 28 Jul 2026 20:52:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49089755"
       },
       {
-        "title": "Pacing the frontier",
-        "link": "https://www.pacingthefrontier.com/",
-        "description": "<p>Article URL: <a href=\"https://www.pacingthefrontier.com/\">https://www.pacingthefrontier.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089240\">https://news.ycombinator.com/item?id=49089240</a></p>\n<p>Points: 97</p>\n<p># Comments: 92</p>",
-        "pubDate": "Tue, 28 Jul 2026 20:09:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49089240"
-      },
-      {
         "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
         "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-        "description": "<p><a href=\"https://www.apple.com/shop/apple-upgrade\" rel=\"nofollow\">https://www.apple.com/shop/apple-upgrade</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087306\">https://news.ycombinator.com/item?id=49087306</a></p>\n<p>Points: 148</p>\n<p># Comments: 285</p>",
+        "description": "<p><a href=\"https://www.apple.com/shop/apple-upgrade\" rel=\"nofollow\">https://www.apple.com/shop/apple-upgrade</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087306\">https://news.ycombinator.com/item?id=49087306</a></p>\n<p>Points: 173</p>\n<p># Comments: 322</p>",
         "pubDate": "Tue, 28 Jul 2026 17:37:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49087306"
       },
       {
         "title": "Discovering Cryptographic Weaknesses with Claude",
         "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087091\">https://news.ycombinator.com/item?id=49087091</a></p>\n<p>Points: 190</p>\n<p># Comments: 132</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087091\">https://news.ycombinator.com/item?id=49087091</a></p>\n<p>Points: 215</p>\n<p># Comments: 154</p>",
         "pubDate": "Tue, 28 Jul 2026 17:22:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49087091"
       },
       {
         "title": "Steel Bank Common Lisp version 2.6.7",
         "link": "https://sbcl.org/all-news.html?2.6.7",
-        "description": "<p>Article URL: <a href=\"https://sbcl.org/all-news.html?2.6.7\">https://sbcl.org/all-news.html?2.6.7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086971\">https://news.ycombinator.com/item?id=49086971</a></p>\n<p>Points: 206</p>\n<p># Comments: 85</p>",
+        "description": "<p>Article URL: <a href=\"https://sbcl.org/all-news.html?2.6.7\">https://sbcl.org/all-news.html?2.6.7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086971\">https://news.ycombinator.com/item?id=49086971</a></p>\n<p>Points: 229</p>\n<p># Comments: 98</p>",
         "pubDate": "Tue, 28 Jul 2026 17:11:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49086971"
       },
       {
         "title": "Substack writers, you need a website",
         "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-        "description": "<p>Article URL: <a href=\"https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\">https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086788\">https://news.ycombinator.com/item?id=49086788</a></p>\n<p>Points: 438</p>\n<p># Comments: 215</p>",
+        "description": "<p>Article URL: <a href=\"https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\">https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086788\">https://news.ycombinator.com/item?id=49086788</a></p>\n<p>Points: 520</p>\n<p># Comments: 259</p>",
         "pubDate": "Tue, 28 Jul 2026 16:58:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49086788"
+      },
+      {
+        "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+        "link": "https://www.slow-journalism.com/",
+        "description": "<p>Article URL: <a href=\"https://www.slow-journalism.com/\">https://www.slow-journalism.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085731\">https://news.ycombinator.com/item?id=49085731</a></p>\n<p>Points: 292</p>\n<p># Comments: 164</p>",
+        "pubDate": "Tue, 28 Jul 2026 15:50:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49085731"
+      },
+      {
+        "title": "Kimi K3 Architecture Overview and Notes",
+        "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+        "description": "<p>Article URL: <a href=\"https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html\">https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085698\">https://news.ycombinator.com/item?id=49085698</a></p>\n<p>Points: 408</p>\n<p># Comments: 72</p>",
+        "pubDate": "Tue, 28 Jul 2026 15:48:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49085698"
+      },
+      {
+        "title": "Zig's Incremental Compilation Internals",
+        "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "description": "<p>Article URL: <a href=\"https://mlugg.co.uk/posts/incremental-compilation-internals/\">https://mlugg.co.uk/posts/incremental-compilation-internals/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085666\">https://news.ycombinator.com/item?id=49085666</a></p>\n<p>Points: 236</p>\n<p># Comments: 162</p>",
+        "pubDate": "Tue, 28 Jul 2026 15:46:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49085666"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-29T03:26:36.330Z",
+  "lastUpdated": "2026-07-29T08:51:56.011Z",
   "stats": {
     "feeds": 2,
     "articles": 20
