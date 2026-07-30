@@ -5,78 +5,85 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-30T03:14:05.262Z"
+      "lastFetched": "2026-07-30T08:42:30.185Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-30T03:14:19.485Z"
+      "lastFetched": "2026-07-30T08:42:30.334Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "I Have Thoughts on the iPhone Air",
+        "link": "https://christianselig.com/2026/07/iphone-air-review/",
+        "description": "<p>Article URL: <a href=\"https://christianselig.com/2026/07/iphone-air-review/\">https://christianselig.com/2026/07/iphone-air-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49107145\">https://news.ycombinator.com/item?id=49107145</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+        "pubDate": "Thu, 30 Jul 2026 07:54:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49107145"
+      },
+      {
+        "title": "Why the future is local app",
+        "link": "https://getapps.cafe/blog/why-the-future-is-local-app",
+        "description": "<p>Article URL: <a href=\"https://getapps.cafe/blog/why-the-future-is-local-app\">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105924\">https://news.ycombinator.com/item?id=49105924</a></p>\n<p>Points: 14</p>\n<p># Comments: 9</p>",
+        "pubDate": "Thu, 30 Jul 2026 03:44:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49105924"
+      },
+      {
         "title": "NSF pilots 4-year PhDs with industry research placements",
         "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-        "description": "<p>Article URL: <a href=\"https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105642\">https://news.ycombinator.com/item?id=49105642</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105642\">https://news.ycombinator.com/item?id=49105642</a></p>\n<p>Points: 69</p>\n<p># Comments: 73</p>",
         "pubDate": "Thu, 30 Jul 2026 02:55:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49105642"
       },
       {
-        "title": "A pharmacy chain in Vermont implemented AI for efficiency",
-        "link": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
-        "description": "<p>Article URL: <a href=\"https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/\">https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105190\">https://news.ycombinator.com/item?id=49105190</a></p>\n<p>Points: 29</p>\n<p># Comments: 39</p>",
-        "pubDate": "Thu, 30 Jul 2026 01:35:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49105190"
+        "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+        "link": "https://noelo.org/blog/kuna-release/",
+        "description": "<p>Article URL: <a href=\"https://noelo.org/blog/kuna-release/\">https://noelo.org/blog/kuna-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105563\">https://news.ycombinator.com/item?id=49105563</a></p>\n<p>Points: 28</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 30 Jul 2026 02:41:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49105563"
       },
       {
-        "title": "Logic for Programmers by Hillel Wayne",
+        "title": "Logic for Programmers",
         "link": "https://logicforprogrammers.com/",
-        "description": "<p>Article URL: <a href=\"https://logicforprogrammers.com/\">https://logicforprogrammers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104937\">https://news.ycombinator.com/item?id=49104937</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://logicforprogrammers.com/\">https://logicforprogrammers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104937\">https://news.ycombinator.com/item?id=49104937</a></p>\n<p>Points: 103</p>\n<p># Comments: 11</p>",
         "pubDate": "Thu, 30 Jul 2026 00:51:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49104937"
       },
       {
-        "title": "Show HN: A local merge queue for parallel Claude Code agents",
-        "link": "https://github.com/funador/claude-code-merge-queue",
-        "description": "<p>I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.<p>So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104747\">https://news.ycombinator.com/item?id=49104747</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
-        "pubDate": "Thu, 30 Jul 2026 00:20:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49104747"
-      },
-      {
         "title": "The Productivity Mirage",
         "link": "https://frantic.im/mirage/",
-        "description": "<p>Article URL: <a href=\"https://frantic.im/mirage/\">https://frantic.im/mirage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104335\">https://news.ycombinator.com/item?id=49104335</a></p>\n<p>Points: 67</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://frantic.im/mirage/\">https://frantic.im/mirage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104335\">https://news.ycombinator.com/item?id=49104335</a></p>\n<p>Points: 210</p>\n<p># Comments: 69</p>",
         "pubDate": "Wed, 29 Jul 2026 23:18:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49104335"
       },
       {
         "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
         "link": "https://archive.org/details/mancomputerbyjoh0000john",
-        "description": "<p>Article URL: <a href=\"https://archive.org/details/mancomputerbyjoh0000john\">https://archive.org/details/mancomputerbyjoh0000john</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104140\">https://news.ycombinator.com/item?id=49104140</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://archive.org/details/mancomputerbyjoh0000john\">https://archive.org/details/mancomputerbyjoh0000john</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104140\">https://news.ycombinator.com/item?id=49104140</a></p>\n<p>Points: 46</p>\n<p># Comments: 12</p>",
         "pubDate": "Wed, 29 Jul 2026 22:53:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49104140"
       },
       {
         "title": "LLM Honeypot",
         "link": "https://llm2human.pages.dev/",
-        "description": "<p>Article URL: <a href=\"https://llm2human.pages.dev/\">https://llm2human.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104117\">https://news.ycombinator.com/item?id=49104117</a></p>\n<p>Points: 89</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://llm2human.pages.dev/\">https://llm2human.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104117\">https://news.ycombinator.com/item?id=49104117</a></p>\n<p>Points: 220</p>\n<p># Comments: 57</p>",
         "pubDate": "Wed, 29 Jul 2026 22:51:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49104117"
       },
       {
         "title": "AI's top startups are barely publishing their research",
         "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\">https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103285\">https://news.ycombinator.com/item?id=49103285</a></p>\n<p>Points: 262</p>\n<p># Comments: 141</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\">https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103285\">https://news.ycombinator.com/item?id=49103285</a></p>\n<p>Points: 425</p>\n<p># Comments: 220</p>",
         "pubDate": "Wed, 29 Jul 2026 21:25:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49103285"
       },
       {
         "title": "The Cold Email",
         "link": "https://zachholman.com/posts/cold-email",
-        "description": "<p>Article URL: <a href=\"https://zachholman.com/posts/cold-email\">https://zachholman.com/posts/cold-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103089\">https://news.ycombinator.com/item?id=49103089</a></p>\n<p>Points: 107</p>\n<p># Comments: 44</p>",
+        "description": "<p>Article URL: <a href=\"https://zachholman.com/posts/cold-email\">https://zachholman.com/posts/cold-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103089\">https://news.ycombinator.com/item?id=49103089</a></p>\n<p>Points: 190</p>\n<p># Comments: 75</p>",
         "pubDate": "Wed, 29 Jul 2026 21:06:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49103089"
       },
@@ -90,35 +97,28 @@
       {
         "title": "The coolest use for the Vision Pro",
         "link": "https://christianselig.com/2026/07/vision-pro-house/",
-        "description": "<p>Article URL: <a href=\"https://christianselig.com/2026/07/vision-pro-house/\">https://christianselig.com/2026/07/vision-pro-house/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102774\">https://news.ycombinator.com/item?id=49102774</a></p>\n<p>Points: 435</p>\n<p># Comments: 195</p>",
+        "description": "<p>Article URL: <a href=\"https://christianselig.com/2026/07/vision-pro-house/\">https://christianselig.com/2026/07/vision-pro-house/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102774\">https://news.ycombinator.com/item?id=49102774</a></p>\n<p>Points: 629</p>\n<p># Comments: 247</p>",
         "pubDate": "Wed, 29 Jul 2026 20:39:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49102774"
       },
       {
         "title": "A Trampoline",
         "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-        "description": "<p>Article URL: <a href=\"https://dogdogfish.com/blog/2026/07/29/a-trampoline/\">https://dogdogfish.com/blog/2026/07/29/a-trampoline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102425\">https://news.ycombinator.com/item?id=49102425</a></p>\n<p>Points: 75</p>\n<p># Comments: 43</p>",
+        "description": "<p>Article URL: <a href=\"https://dogdogfish.com/blog/2026/07/29/a-trampoline/\">https://dogdogfish.com/blog/2026/07/29/a-trampoline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102425\">https://news.ycombinator.com/item?id=49102425</a></p>\n<p>Points: 105</p>\n<p># Comments: 59</p>",
         "pubDate": "Wed, 29 Jul 2026 20:14:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49102425"
       },
       {
         "title": "Kimi K3-256k",
         "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "description": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models\">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101852\">https://news.ycombinator.com/item?id=49101852</a></p>\n<p>Points: 357</p>\n<p># Comments: 108</p>",
+        "description": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models\">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101852\">https://news.ycombinator.com/item?id=49101852</a></p>\n<p>Points: 419</p>\n<p># Comments: 124</p>",
         "pubDate": "Wed, 29 Jul 2026 19:25:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49101852"
       },
       {
-        "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-        "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-        "description": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/commodification-and-circularity/\">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101529\">https://news.ycombinator.com/item?id=49101529</a></p>\n<p>Points: 63</p>\n<p># Comments: 32</p>",
-        "pubDate": "Wed, 29 Jul 2026 18:57:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49101529"
-      },
-      {
         "title": "Turning a dumb AC unit smart (without losing my security deposit)",
         "link": "https://prilik.com/blog/post/automating-ac-nyc/",
-        "description": "<p>Article URL: <a href=\"https://prilik.com/blog/post/automating-ac-nyc/\">https://prilik.com/blog/post/automating-ac-nyc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101198\">https://news.ycombinator.com/item?id=49101198</a></p>\n<p>Points: 117</p>\n<p># Comments: 94</p>",
+        "description": "<p>Article URL: <a href=\"https://prilik.com/blog/post/automating-ac-nyc/\">https://prilik.com/blog/post/automating-ac-nyc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101198\">https://news.ycombinator.com/item?id=49101198</a></p>\n<p>Points: 160</p>\n<p># Comments: 127</p>",
         "pubDate": "Wed, 29 Jul 2026 18:28:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49101198"
       },
@@ -132,35 +132,35 @@
       {
         "title": "Show HN: CheapFoodMap – A map of good meals under $10",
         "link": "https://cheapfoodmap.com/",
-        "description": "<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100043\">https://news.ycombinator.com/item?id=49100043</a></p>\n<p>Points: 139</p>\n<p># Comments: 167</p>",
+        "description": "<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100043\">https://news.ycombinator.com/item?id=49100043</a></p>\n<p>Points: 196</p>\n<p># Comments: 189</p>",
         "pubDate": "Wed, 29 Jul 2026 16:59:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49100043"
       },
       {
         "title": "Some thoughts about Anthropic's new cryptanalysis results",
         "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099804\">https://news.ycombinator.com/item?id=49099804</a></p>\n<p>Points: 114</p>\n<p># Comments: 60</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099804\">https://news.ycombinator.com/item?id=49099804</a></p>\n<p>Points: 147</p>\n<p># Comments: 80</p>",
         "pubDate": "Wed, 29 Jul 2026 16:42:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49099804"
       },
       {
         "title": "Keychron announces first open-source firmware for gaming mice",
         "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-        "description": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\">https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099715\">https://news.ycombinator.com/item?id=49099715</a></p>\n<p>Points: 302</p>\n<p># Comments: 116</p>",
+        "description": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\">https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099715\">https://news.ycombinator.com/item?id=49099715</a></p>\n<p>Points: 365</p>\n<p># Comments: 147</p>",
         "pubDate": "Wed, 29 Jul 2026 16:36:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49099715"
       },
       {
         "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
         "link": "https://usetokenless.com/",
-        "description": "<p>Hi HN, Rohit here from Tokenless (<a href=\"https://usetokenless.com/\" rel=\"nofollow\">https://usetokenless.com/</a>), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.<p>The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.<p>Frontier models are amazing for dev work, but are so expensive. Open-source models are cheap and rapidly improving, closing the gap with frontier models, but aren’t quite there yet.<p>Tokenless gets you the best of both worlds–routing harder turns to smarter models only when needed, which keeps costs low.<p>Before Tokenless, I was doing a PhD at Princeton. While using coding/other agents, I constantly agonized over model choice, to make sure my AI spend was going as far as possible on my academic Cursor account.<p>At the same time, I was doing LLM research, and a small technique I developed while in recovery from NeurIPS submission season seemed to hit SOTA pretty fast. I was surprised that such simple ideas could do routing well.<p>We’ve been able to develop a version of the router that matches the performance of Claude Fable 5 at half the cost. The blog post on our website explores the technical details on how we did this (<a href=\"https://usetokenless.com/blog/building-tokenless/\" rel=\"nofollow\">https://usetokenless.com/blog/building-tokenless/</a>).<p>Highlights:\n- Our approach queries multiple models at once and uses their progress to make decisions (this technique is novel AFAIK, let us know if you know anyone else doing this).\n- Switching models doesn’t destroy the cache if the routing algorithm is aware of when the cache is hot/cold.<p>To come:\n- Adding Kimi K3, all other GPT efforts and more to the router<p>Go ahead and sign up on usetokenless.com and try using Tokenless with your agent, you’ll get $20 of free credit. Here’s a demo on how to use it: <a href=\"https://youtu.be/sjZWriclcls\" rel=\"nofollow\">https://youtu.be/sjZWriclcls</a><p>Tokenless provides frontier-level intelligence for cheaper, so we’d love some feedback on how it feels to use, any corner cases that the router routes incorrectly, and whether you find the routing problem interesting!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099143\">https://news.ycombinator.com/item?id=49099143</a></p>\n<p>Points: 53</p>\n<p># Comments: 48</p>",
+        "description": "<p>Hi HN, Rohit here from Tokenless (<a href=\"https://usetokenless.com/\" rel=\"nofollow\">https://usetokenless.com/</a>), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.<p>The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.<p>Frontier models are amazing for dev work, but are so expensive. Open-source models are cheap and rapidly improving, closing the gap with frontier models, but aren’t quite there yet.<p>Tokenless gets you the best of both worlds–routing harder turns to smarter models only when needed, which keeps costs low.<p>Before Tokenless, I was doing a PhD at Princeton. While using coding/other agents, I constantly agonized over model choice, to make sure my AI spend was going as far as possible on my academic Cursor account.<p>At the same time, I was doing LLM research, and a small technique I developed while in recovery from NeurIPS submission season seemed to hit SOTA pretty fast. I was surprised that such simple ideas could do routing well.<p>We’ve been able to develop a version of the router that matches the performance of Claude Fable 5 at half the cost. The blog post on our website explores the technical details on how we did this (<a href=\"https://usetokenless.com/blog/building-tokenless/\" rel=\"nofollow\">https://usetokenless.com/blog/building-tokenless/</a>).<p>Highlights:\n- Our approach queries multiple models at once and uses their progress to make decisions (this technique is novel AFAIK, let us know if you know anyone else doing this).\n- Switching models doesn’t destroy the cache if the routing algorithm is aware of when the cache is hot/cold.<p>To come:\n- Adding Kimi K3, all other GPT efforts and more to the router<p>Go ahead and sign up on usetokenless.com and try using Tokenless with your agent, you’ll get $20 of free credit. Here’s a demo on how to use it: <a href=\"https://youtu.be/sjZWriclcls\" rel=\"nofollow\">https://youtu.be/sjZWriclcls</a><p>Tokenless provides frontier-level intelligence for cheaper, so we’d love some feedback on how it feels to use, any corner cases that the router routes incorrectly, and whether you find the routing problem interesting!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099143\">https://news.ycombinator.com/item?id=49099143</a></p>\n<p>Points: 61</p>\n<p># Comments: 54</p>",
         "pubDate": "Wed, 29 Jul 2026 15:55:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49099143"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-30T03:14:19.485Z",
+  "lastUpdated": "2026-07-30T08:42:30.334Z",
   "stats": {
     "feeds": 2,
     "articles": 20
