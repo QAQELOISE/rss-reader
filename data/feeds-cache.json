@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-31T14:26:49.125Z"
+      "lastFetched": "2026-07-31T19:45:43.746Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-31T14:27:06.456Z"
+      "lastFetched": "2026-07-31T19:45:54.857Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Better to Beg Forgiveness",
-        "link": "https://pluralistic.net/2026/07/31/just-do-it/",
-        "description": "<p>Article URL: <a href=\"https://pluralistic.net/2026/07/31/just-do-it/\">https://pluralistic.net/2026/07/31/just-do-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49123300\">https://news.ycombinator.com/item?id=49123300</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 31 Jul 2026 14:05:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49123300"
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "link": "https://tailscale.com/blog/hugging-face-intrusion",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/hugging-face-intrusion\">https://tailscale.com/blog/hugging-face-intrusion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127306\">https://news.ycombinator.com/item?id=49127306</a></p>\n<p>Points: 44</p>\n<p># Comments: 20</p>",
+        "pubDate": "Fri, 31 Jul 2026 19:03:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49127306"
       },
       {
-        "title": "Situational Awareness Down 67% in July in AI Stock Rout",
-        "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f\">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122994\">https://news.ycombinator.com/item?id=49122994</a></p>\n<p>Points: 44</p>\n<p># Comments: 40</p>",
-        "pubDate": "Fri, 31 Jul 2026 13:37:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49122994"
+        "title": "AI companies destroy rare and non recoverable physical books",
+        "link": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+        "description": "<p>Article URL: <a href=\"https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/\">https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127284\">https://news.ycombinator.com/item?id=49127284</a></p>\n<p>Points: 36</p>\n<p># Comments: 30</p>",
+        "pubDate": "Fri, 31 Jul 2026 19:01:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49127284"
       },
       {
-        "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba\">https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122838\">https://news.ycombinator.com/item?id=49122838</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 31 Jul 2026 13:24:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49122838"
+        "title": "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
+        "link": "https://www.gao.gov/products/gao-26-108082",
+        "description": "<p>Article URL: <a href=\"https://www.gao.gov/products/gao-26-108082\">https://www.gao.gov/products/gao-26-108082</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127205\">https://news.ycombinator.com/item?id=49127205</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:54:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49127205"
       },
       {
-        "title": "Ruby Central's Destructive Legacy",
-        "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-        "description": "<p>Article URL: <a href=\"https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/\">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122105\">https://news.ycombinator.com/item?id=49122105</a></p>\n<p>Points: 40</p>\n<p># Comments: 19</p>",
-        "pubDate": "Fri, 31 Jul 2026 12:10:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49122105"
+        "title": "Golang proposal: container/: generic collection types",
+        "link": "https://github.com/golang/go/issues/80590",
+        "description": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/80590\">https://github.com/golang/go/issues/80590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127031\">https://news.ycombinator.com/item?id=49127031</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:39:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49127031"
       },
       {
-        "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-        "link": "https://tasklet.ai/careers/customer-success-engineer",
-        "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122034\">https://news.ycombinator.com/item?id=49122034</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 31 Jul 2026 12:00:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49122034"
+        "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+        "link": "https://arxiv.org/abs/2607.28545",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28545\">https://arxiv.org/abs/2607.28545</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126943\">https://news.ycombinator.com/item?id=49126943</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:32:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126943"
       },
       {
-        "title": "The End of an Era",
-        "link": "https://hughhowey.com/the-end-of-an-era/",
-        "description": "<p>Article URL: <a href=\"https://hughhowey.com/the-end-of-an-era/\">https://hughhowey.com/the-end-of-an-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49121980\">https://news.ycombinator.com/item?id=49121980</a></p>\n<p>Points: 195</p>\n<p># Comments: 211</p>",
-        "pubDate": "Fri, 31 Jul 2026 11:51:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49121980"
+        "title": "Using the railway network as a flatbed scanner [video]",
+        "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+        "description": "<p>Article URL: <a href=\"https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner\">https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126919\">https://news.ycombinator.com/item?id=49126919</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:30:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126919"
       },
       {
-        "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-        "link": "https://arxiv.org/abs/2607.27197",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.27197\">https://arxiv.org/abs/2607.27197</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49121868\">https://news.ycombinator.com/item?id=49121868</a></p>\n<p>Points: 4</p>\n<p># Comments: 7</p>",
-        "pubDate": "Fri, 31 Jul 2026 11:37:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49121868"
+        "title": "Termixer (TUI DJ Mixer)",
+        "link": "https://github.com/l00sed/termixer",
+        "description": "<p>Article URL: <a href=\"https://github.com/l00sed/termixer\">https://github.com/l00sed/termixer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126883\">https://news.ycombinator.com/item?id=49126883</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:28:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126883"
       },
       {
-        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-        "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-flash-ga\">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120299\">https://news.ycombinator.com/item?id=49120299</a></p>\n<p>Points: 229</p>\n<p># Comments: 96</p>",
-        "pubDate": "Fri, 31 Jul 2026 07:59:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49120299"
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "description": "<p>Article URL: <a href=\"https://servo.org/blog/2026/07/31/june-in-servo/\">https://servo.org/blog/2026/07/31/june-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126765\">https://news.ycombinator.com/item?id=49126765</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:17:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126765"
       },
       {
-        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/security/chrome-stronger-with-every-update/\">https://blog.google/security/chrome-stronger-with-every-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120097\">https://news.ycombinator.com/item?id=49120097</a></p>\n<p>Points: 250</p>\n<p># Comments: 230</p>",
-        "pubDate": "Fri, 31 Jul 2026 07:29:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49120097"
+        "title": "Everyone is building LLM routers, we deprecated ours",
+        "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+        "description": "<p>Article URL: <a href=\"https://manifest.build/blog/why-we-deprecated-our-llm-router/\">https://manifest.build/blog/why-we-deprecated-our-llm-router/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126630\">https://news.ycombinator.com/item?id=49126630</a></p>\n<p>Points: 22</p>\n<p># Comments: 11</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:06:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126630"
       },
       {
-        "title": "DeepSeek-V4-Flash Update",
-        "link": "https://api-docs.deepseek.com/updates/",
-        "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119559\">https://news.ycombinator.com/item?id=49119559</a></p>\n<p>Points: 446</p>\n<p># Comments: 227</p>",
-        "pubDate": "Fri, 31 Jul 2026 06:08:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49119559"
+        "title": "qm",
+        "link": "https://github.com/yc-software/qm",
+        "description": "<p>Article URL: <a href=\"https://github.com/yc-software/qm\">https://github.com/yc-software/qm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126604\">https://news.ycombinator.com/item?id=49126604</a></p>\n<p>Points: 130</p>\n<p># Comments: 37</p>",
+        "pubDate": "Fri, 31 Jul 2026 18:04:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126604"
       },
       {
-        "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-        "link": "https://github.com/mokshablr/gander",
-        "description": "<p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.<p>Gander holds no permissions, not even INTERNET so the OS itself guarantees the file cannot leave the phone.<p>PDFs use Pdfium, media uses Media3, and Office formats are rendered by bundled JS libraries in a WebView and so no request goes to any server.<p>It is a viewer only. Complex PowerPoint decks come out approximately right, spreadsheet charts are not drawn, and old binary .doc and .ppt are unsupported. I'll work on it as issues come up :P<p>It is 14 MB, MIT licensed and uploaded on Github releases.<p>Do try it! I would love some feedback especially on files that render badly or need new support.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119425\">https://news.ycombinator.com/item?id=49119425</a></p>\n<p>Points: 129</p>\n<p># Comments: 58</p>",
-        "pubDate": "Fri, 31 Jul 2026 05:45:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49119425"
+        "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+        "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+        "description": "<p>Article URL: <a href=\"https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup\">https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126201\">https://news.ycombinator.com/item?id=49126201</a></p>\n<p>Points: 34</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 31 Jul 2026 17:33:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49126201"
       },
       {
-        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-        "link": "https://github.com/openjdk/jdk/pull/31120",
-        "description": "<p>Article URL: <a href=\"https://github.com/openjdk/jdk/pull/31120\">https://github.com/openjdk/jdk/pull/31120</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119063\">https://news.ycombinator.com/item?id=49119063</a></p>\n<p>Points: 177</p>\n<p># Comments: 96</p>",
-        "pubDate": "Fri, 31 Jul 2026 04:38:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49119063"
+        "title": "Severance",
+        "link": "https://lcamtuf.substack.com/p/severance",
+        "description": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/severance\">https://lcamtuf.substack.com/p/severance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125971\">https://news.ycombinator.com/item?id=49125971</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 31 Jul 2026 17:15:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49125971"
       },
       {
-        "title": "The session you cannot take with you",
-        "link": "https://earendil.com/posts/session-portability/",
-        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/session-portability/\">https://earendil.com/posts/session-portability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118781\">https://news.ycombinator.com/item?id=49118781</a></p>\n<p>Points: 564</p>\n<p># Comments: 153</p>",
-        "pubDate": "Fri, 31 Jul 2026 03:47:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49118781"
+        "title": "Miso (YC S16) is hiring for U.S. expansion",
+        "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125785\">https://news.ycombinator.com/item?id=49125785</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 31 Jul 2026 17:01:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49125785"
       },
       {
-        "title": "The Religion of Speed",
-        "link": "https://graybeard.ing/the-religion-of-speed/",
-        "description": "<p>Article URL: <a href=\"https://graybeard.ing/the-religion-of-speed/\">https://graybeard.ing/the-religion-of-speed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117284\">https://news.ycombinator.com/item?id=49117284</a></p>\n<p>Points: 219</p>\n<p># Comments: 112</p>",
-        "pubDate": "Thu, 30 Jul 2026 23:43:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49117284"
+        "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+        "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/\">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125034\">https://news.ycombinator.com/item?id=49125034</a></p>\n<p>Points: 76</p>\n<p># Comments: 47</p>",
+        "pubDate": "Fri, 31 Jul 2026 16:15:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49125034"
       },
       {
-        "title": "Premier league bans gambling sponsors",
-        "link": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
-        "description": "<p>Article URL: <a href=\"https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html\">https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117266\">https://news.ycombinator.com/item?id=49117266</a></p>\n<p>Points: 118</p>\n<p># Comments: 35</p>",
-        "pubDate": "Thu, 30 Jul 2026 23:40:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49117266"
+        "title": "Big Food vs. the People",
+        "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+        "description": "<p>Article URL: <a href=\"https://www.lighthousereports.com/investigation/big-food-vs-the-people/\">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124858\">https://news.ycombinator.com/item?id=49124858</a></p>\n<p>Points: 121</p>\n<p># Comments: 76</p>",
+        "pubDate": "Fri, 31 Jul 2026 16:04:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49124858"
       },
       {
-        "title": "I flagged two research papers for fake authors and both were accepted as orals",
-        "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
-        "description": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 248</p>\n<p># Comments: 117</p>",
-        "pubDate": "Thu, 30 Jul 2026 22:33:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49116721"
+        "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+        "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+        "description": "<p>Article URL: <a href=\"https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/\">https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124658\">https://news.ycombinator.com/item?id=49124658</a></p>\n<p>Points: 59</p>\n<p># Comments: 17</p>",
+        "pubDate": "Fri, 31 Jul 2026 15:53:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49124658"
       },
       {
-        "title": "UEFA and its national associations will not participate in FIFA competitions",
-        "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-        "description": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 1144</p>\n<p># Comments: 610</p>",
-        "pubDate": "Thu, 30 Jul 2026 18:40:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113929"
+        "title": "The Art of Decision-Making (2019)",
+        "link": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
+        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making\">https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124525\">https://news.ycombinator.com/item?id=49124525</a></p>\n<p>Points: 28</p>\n<p># Comments: 2</p>",
+        "pubDate": "Fri, 31 Jul 2026 15:42:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49124525"
       },
       {
-        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-        "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "description": "<p>We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn't, the teacher answered politically sensitive questions 7 SDs differently than expected, but the distilled model's behavior remained the same as its American base. You can try a couple queries yourself with no auth here: <a href=\"http://playground.ctgt.ai/\">http://playground.ctgt.ai/</a><p>I will now dive in to the motivation, methodology and detailed results for those interested. The hard part of measuring this phenomena is isolating whether a model is reluctant to talk about sensitive things generally vs. a particular country's sensitive things. So we made 152 matched pairs where one prompt asked about a Chinese concept, and the other asked about a non-Chinese version of that concept. For example, the Great Leap Forward vs. the Holodomor. These were scored 0-100 by four LLM judges (Grok 4.20, Gemini 3.5 Flash, GPT-5 mini, Claude Sonnet 4.6), validated against 96 human scores at r=0.948. OpenRouter blocked some of these so we hosted the weights ourselves.<p>The teacher's gap on the core political set of pairs was +45.45 points, ~7 standard deviations from chance, and every distilled student was within 1 point of its base. Subliminal learning literature says this is expected when the initializations are not shared between teacher and student, which is true here. The distillation data also did not contain any China-sensitive content. The contribution here was to release the evaluation framework (LineageEval: <a href=\"https://github.com/CTGT-Inc/lineage-eval/\" rel=\"nofollow\">https://github.com/CTGT-Inc/lineage-eval/</a>) to elevate the discussion around this topic in DC and beyond. We are an interpretability lab working on high risk and regulated applications of AI, so we hear a lot of vagaries aimed at the supposed dangers of distilling Chinese models on American bases. We believe these conversations should be based on open, auditable frameworks and not feelings. We plan to test what happens with a Chinese teacher into a Chinese-lineage base like Qwen next.<p>The distillation method was an evolution of HINT-SD where we inject a hint at the specific point the model makes a mistake in its reasoning. Then we train on the corrected continuation with reverse KL over the next 100 toks of the rollout. As mentioned above 120B itself was efficacious as a teacher, and we ended up shipping this version. The self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). Ours finishes 98.7% of problems in budget; the larger models truncate (90.76% and 71.01%) which score as incorrect. At 100k tokens big models gain (Kimi 89.92%). So for a finance task at a constrained (perhaps more realistic) budget a 120B on one H100 at ~$0.00026/query outpaced models running 62-160x more per query.<p>We put out the 20B finance model as open weights (64.71% to 74.79% at 8k on FinanceReasoning, 23% lower cost/query, runs on one 80GB GPU), the 120B in a playground with teacher and students side by side (a few queries, no auth), and LineageEval with all prompts, controls, rubric, and code.<p>We are curious to hear experiences from those working with distilled Chinese models in prod, or if you have thoughts on improvements to LineageEval.<p><a href=\"https://huggingface.co/ctgt-inc/gpt-oss-20b-finance\" rel=\"nofollow\">https://huggingface.co/ctgt-inc/gpt-oss-20b-finance</a><p><a href=\"https://playground.ctgt.ai/\">https://playground.ctgt.ai/</a><p><a href=\"https://github.com/CTGT-Inc/lineage-eval/\" rel=\"nofollow\">https://github.com/CTGT-Inc/lineage-eval/</a><p><a href=\"https://www.ctgt.ai/research/distillation-censorship-transfer\">https://www.ctgt.ai/research/distillation-censorship-transfe...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113599\">https://news.ycombinator.com/item?id=49113599</a></p>\n<p>Points: 147</p>\n<p># Comments: 70</p>",
-        "pubDate": "Thu, 30 Jul 2026 18:13:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113599"
+        "title": "A GTK4 SSH-askpass in Zig",
+        "link": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+        "description": "<p>Article URL: <a href=\"https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/\">https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124496\">https://news.ycombinator.com/item?id=49124496</a></p>\n<p>Points: 47</p>\n<p># Comments: 16</p>",
+        "pubDate": "Fri, 31 Jul 2026 15:40:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49124496"
       },
       {
-        "title": "CodePen 2.0",
-        "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-        "description": "<p>Article URL: <a href=\"https://chriscoyier.net/2026/07/30/codepen-2-0/\">https://chriscoyier.net/2026/07/30/codepen-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113338\">https://news.ycombinator.com/item?id=49113338</a></p>\n<p>Points: 180</p>\n<p># Comments: 50</p>",
-        "pubDate": "Thu, 30 Jul 2026 17:52:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113338"
+        "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+        "link": "https://swe-rebench.com",
+        "description": "<p>Article URL: <a href=\"https://swe-rebench.com\">https://swe-rebench.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124336\">https://news.ycombinator.com/item?id=49124336</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
+        "pubDate": "Fri, 31 Jul 2026 15:28:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49124336"
       },
       {
-        "title": "Read this before you buy that TV streaming stick",
-        "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 758</p>\n<p># Comments: 464</p>",
-        "pubDate": "Thu, 30 Jul 2026 17:04:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49112744"
+        "title": "Elevators",
+        "link": "https://john.fun/elevators",
+        "description": "<p>Article URL: <a href=\"https://john.fun/elevators\">https://john.fun/elevators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124218\">https://news.ycombinator.com/item?id=49124218</a></p>\n<p>Points: 573</p>\n<p># Comments: 157</p>",
+        "pubDate": "Fri, 31 Jul 2026 15:17:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49124218"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-31T14:27:06.456Z",
+  "lastUpdated": "2026-07-31T19:45:54.858Z",
   "stats": {
     "feeds": 2,
     "articles": 20
