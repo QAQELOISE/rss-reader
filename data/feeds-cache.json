@@ -5,78 +5,113 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-07-30T19:44:24.135Z"
+      "lastFetched": "2026-07-31T03:41:44.432Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-07-30T19:44:36.669Z"
+      "lastFetched": "2026-07-31T03:42:04.014Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "A California aquifer may have crossed the point of no return",
+        "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return\">https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118663\">https://news.ycombinator.com/item?id=49118663</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 31 Jul 2026 03:27:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49118663"
+      },
+      {
+        "title": "The Religion of Speed",
+        "link": "https://graybeard.ing/the-religion-of-speed/",
+        "description": "<p>Article URL: <a href=\"https://graybeard.ing/the-religion-of-speed/\">https://graybeard.ing/the-religion-of-speed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117284\">https://news.ycombinator.com/item?id=49117284</a></p>\n<p>Points: 29</p>\n<p># Comments: 8</p>",
+        "pubDate": "Thu, 30 Jul 2026 23:43:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49117284"
+      },
+      {
+        "title": "The AI Aesthetic",
+        "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-aesthetic/\">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117099\">https://news.ycombinator.com/item?id=49117099</a></p>\n<p>Points: 165</p>\n<p># Comments: 87</p>",
+        "pubDate": "Thu, 30 Jul 2026 23:22:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49117099"
+      },
+      {
+        "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+        "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116922\">https://news.ycombinator.com/item?id=49116922</a></p>\n<p>Points: 120</p>\n<p># Comments: 92</p>",
+        "pubDate": "Thu, 30 Jul 2026 23:00:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49116922"
+      },
+      {
+        "title": "I flagged two research papers for fake authors and both were accepted as orals",
+        "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+        "description": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 118</p>\n<p># Comments: 48</p>",
+        "pubDate": "Thu, 30 Jul 2026 22:33:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49116721"
+      },
+      {
+        "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+        "link": "https://rune.build/blog/rune-1-1-release",
+        "description": "<p>Article URL: <a href=\"https://rune.build/blog/rune-1-1-release\">https://rune.build/blog/rune-1-1-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116272\">https://news.ycombinator.com/item?id=49116272</a></p>\n<p>Points: 54</p>\n<p># Comments: 18</p>",
+        "pubDate": "Thu, 30 Jul 2026 21:47:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49116272"
+      },
+      {
+        "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+        "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116074\">https://news.ycombinator.com/item?id=49116074</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 30 Jul 2026 21:31:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49116074"
+      },
+      {
+        "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+        "link": "https://github.com/AminBlg/SimpleEnglish",
+        "description": "<p>Article URL: <a href=\"https://github.com/AminBlg/SimpleEnglish\">https://github.com/AminBlg/SimpleEnglish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49114639\">https://news.ycombinator.com/item?id=49114639</a></p>\n<p>Points: 235</p>\n<p># Comments: 85</p>",
+        "pubDate": "Thu, 30 Jul 2026 19:34:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49114639"
+      },
+      {
         "title": "UEFA and its national associations will not participate in FIFA competitions",
         "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-        "description": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 183</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 839</p>\n<p># Comments: 468</p>",
         "pubDate": "Thu, 30 Jul 2026 18:40:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49113929"
       },
       {
-        "title": "Postgres Queues Actually Scale",
-        "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-        "description": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/making-postgres-queues-scale\">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113913\">https://news.ycombinator.com/item?id=49113913</a></p>\n<p>Points: 29</p>\n<p># Comments: 1</p>",
-        "pubDate": "Thu, 30 Jul 2026 18:39:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113913"
-      },
-      {
-        "title": "So you want to use plants to reduce CO₂",
-        "link": "https://dynomight.net/plants/",
-        "description": "<p>Article URL: <a href=\"https://dynomight.net/plants/\">https://dynomight.net/plants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113801\">https://news.ycombinator.com/item?id=49113801</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 30 Jul 2026 18:31:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113801"
-      },
-      {
-        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-        "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-        "description": "<p>Article URL: <a href=\"https://github.com/yashmahajan10/llm-differential-privacy-gateway\">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113543\">https://news.ycombinator.com/item?id=49113543</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 30 Jul 2026 18:08:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113543"
-      },
-      {
-        "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
-        "link": "https://tally.jiegou.ai/",
-        "description": "<p>Article URL: <a href=\"https://tally.jiegou.ai/\">https://tally.jiegou.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113381\">https://news.ycombinator.com/item?id=49113381</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 30 Jul 2026 17:55:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49113381"
+        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+        "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "description": "<p>We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn't, the teacher answered politically sensitive questions 7 SDs differently than expected, but the distilled model's behavior remained the same as its American base. You can try a couple queries yourself with no auth here: <a href=\"http://playground.ctgt.ai/\">http://playground.ctgt.ai/</a><p>I will now dive in to the motivation, methodology and detailed results for those interested. The hard part of measuring this phenomena is isolating whether a model is reluctant to talk about sensitive things generally vs. a particular country's sensitive things. So we made 152 matched pairs where one prompt asked about a Chinese concept, and the other asked about a non-Chinese version of that concept. For example, the Great Leap Forward vs. the Holodomor. These were scored 0-100 by four LLM judges (Grok 4.20, Gemini 3.5 Flash, GPT-5 mini, Claude Sonnet 4.6), validated against 96 human scores at r=0.948. OpenRouter blocked some of these so we hosted the weights ourselves.<p>The teacher's gap on the core political set of pairs was +45.45 points, ~7 standard deviations from chance, and every distilled student was within 1 point of its base. Subliminal learning literature says this is expected when the initializations are not shared between teacher and student, which is true here. The distillation data also did not contain any China-sensitive content. The contribution here was to release the evaluation framework (LineageEval: <a href=\"https://github.com/CTGT-Inc/lineage-eval/\" rel=\"nofollow\">https://github.com/CTGT-Inc/lineage-eval/</a>) to elevate the discussion around this topic in DC and beyond. We are an interpretability lab working on high risk and regulated applications of AI, so we hear a lot of vagaries aimed at the supposed dangers of distilling Chinese models on American bases. We believe these conversations should be based on open, auditable frameworks and not feelings. We plan to test what happens with a Chinese teacher into a Chinese-lineage base like Qwen next.<p>The distillation method was an evolution of HINT-SD where we inject a hint at the specific point the model makes a mistake in its reasoning. Then we train on the corrected continuation with reverse KL over the next 100 toks of the rollout. As mentioned above 120B itself was efficacious as a teacher, and we ended up shipping this version. The self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). Ours finishes 98.7% of problems in budget; the larger models truncate (90.76% and 71.01%) which score as incorrect. At 100k tokens big models gain (Kimi 89.92%). So for a finance task at a constrained (perhaps more realistic) budget a 120B on one H100 at ~$0.00026/query outpaced models running 62-160x more per query.<p>We put out the 20B finance model as open weights (64.71% to 74.79% at 8k on FinanceReasoning, 23% lower cost/query, runs on one 80GB GPU), the 120B in a playground with teacher and students side by side (a few queries, no auth), and LineageEval with all prompts, controls, rubric, and code.<p>We are curious to hear experiences from those working with distilled Chinese models in prod, or if you have thoughts on improvements to LineageEval.<p><a href=\"https://huggingface.co/ctgt-inc/gpt-oss-20b-finance\" rel=\"nofollow\">https://huggingface.co/ctgt-inc/gpt-oss-20b-finance</a><p><a href=\"https://playground.ctgt.ai/\">https://playground.ctgt.ai/</a><p><a href=\"https://github.com/CTGT-Inc/lineage-eval/\" rel=\"nofollow\">https://github.com/CTGT-Inc/lineage-eval/</a><p><a href=\"https://www.ctgt.ai/research/distillation-censorship-transfer\">https://www.ctgt.ai/research/distillation-censorship-transfe...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113599\">https://news.ycombinator.com/item?id=49113599</a></p>\n<p>Points: 93</p>\n<p># Comments: 63</p>",
+        "pubDate": "Thu, 30 Jul 2026 18:13:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49113599"
       },
       {
         "title": "CodePen 2.0",
         "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-        "description": "<p>Article URL: <a href=\"https://chriscoyier.net/2026/07/30/codepen-2-0/\">https://chriscoyier.net/2026/07/30/codepen-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113338\">https://news.ycombinator.com/item?id=49113338</a></p>\n<p>Points: 31</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://chriscoyier.net/2026/07/30/codepen-2-0/\">https://chriscoyier.net/2026/07/30/codepen-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113338\">https://news.ycombinator.com/item?id=49113338</a></p>\n<p>Points: 141</p>\n<p># Comments: 43</p>",
         "pubDate": "Thu, 30 Jul 2026 17:52:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49113338"
       },
       {
         "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
         "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-        "description": "<p>Article URL: <a href=\"https://www.bottlenecklabs.com/blog/autonomously-run-businesses\">https://www.bottlenecklabs.com/blog/autonomously-run-businesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113059\">https://news.ycombinator.com/item?id=49113059</a></p>\n<p>Points: 141</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bottlenecklabs.com/blog/autonomously-run-businesses\">https://www.bottlenecklabs.com/blog/autonomously-run-businesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113059\">https://news.ycombinator.com/item?id=49113059</a></p>\n<p>Points: 319</p>\n<p># Comments: 193</p>",
         "pubDate": "Thu, 30 Jul 2026 17:31:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49113059"
       },
       {
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112867\">https://news.ycombinator.com/item?id=49112867</a></p>\n<p>Points: 313</p>\n<p># Comments: 195</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112867\">https://news.ycombinator.com/item?id=49112867</a></p>\n<p>Points: 520</p>\n<p># Comments: 340</p>",
         "pubDate": "Thu, 30 Jul 2026 17:15:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49112867"
       },
       {
-        "title": "Read This Before You Buy That TV Streaming Stick",
+        "title": "Read this before you buy that TV streaming stick",
         "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 179</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 611</p>\n<p># Comments: 357</p>",
         "pubDate": "Thu, 30 Jul 2026 17:04:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49112744"
       },
@@ -88,79 +123,44 @@
         "guid": "https://news.ycombinator.com/item?id=49112683"
       },
       {
-        "title": "How Olinia Turns Mexico's EV Ambition into Reality",
-        "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle\">https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112368\">https://news.ycombinator.com/item?id=49112368</a></p>\n<p>Points: 25</p>\n<p># Comments: 26</p>",
-        "pubDate": "Thu, 30 Jul 2026 16:36:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49112368"
-      },
-      {
         "title": "Stacked PRs are now live on GitHub",
         "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\">https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112232\">https://news.ycombinator.com/item?id=49112232</a></p>\n<p>Points: 147</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\">https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112232\">https://news.ycombinator.com/item?id=49112232</a></p>\n<p>Points: 512</p>\n<p># Comments: 170</p>",
         "pubDate": "Thu, 30 Jul 2026 16:26:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49112232"
       },
       {
         "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
         "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/\">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111305\">https://news.ycombinator.com/item?id=49111305</a></p>\n<p>Points: 111</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/\">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111305\">https://news.ycombinator.com/item?id=49111305</a></p>\n<p>Points: 189</p>\n<p># Comments: 107</p>",
         "pubDate": "Thu, 30 Jul 2026 15:22:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49111305"
       },
       {
         "title": "Gemini Robotics 2 brings whole body intelligence to robots",
         "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111237\">https://news.ycombinator.com/item?id=49111237</a></p>\n<p>Points: 319</p>\n<p># Comments: 301</p>",
+        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111237\">https://news.ycombinator.com/item?id=49111237</a></p>\n<p>Points: 497</p>\n<p># Comments: 399</p>",
         "pubDate": "Thu, 30 Jul 2026 15:15:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49111237"
       },
       {
         "title": "The Economic Benefit of Refactoring",
         "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-        "description": "<p>Article URL: <a href=\"https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html\">https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111176\">https://news.ycombinator.com/item?id=49111176</a></p>\n<p>Points: 132</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html\">https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111176\">https://news.ycombinator.com/item?id=49111176</a></p>\n<p>Points: 205</p>\n<p># Comments: 86</p>",
         "pubDate": "Thu, 30 Jul 2026 15:10:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49111176"
       },
       {
-        "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
-        "link": "https://github.com/hamzarehmandeveloper/claude-account",
-        "description": "<p>I use separate Claude Code accounts for work and personal projects. Having to log out and go through the login flow every time I switched accounts became annoying, so I built a small CLI to solve it.<p>The commands are intentionally simple:<p>claude account add myworkaccount\nclaude account add mypersonalaccount\nclaude account use myworkaccount\nclaude account current<p>After switching, Claude Code works normally:<p>claude\nclaude \"fix this bug in main.py\"\nRepository: <a href=\"https://github.com/hamzarehmandeveloper/claude-account\" rel=\"nofollow\">https://github.com/hamzarehmandeveloper/claude-account</a><p>Give it a try</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111019\">https://news.ycombinator.com/item?id=49111019</a></p>\n<p>Points: 31</p>\n<p># Comments: 21</p>",
-        "pubDate": "Thu, 30 Jul 2026 14:58:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49111019"
-      },
-      {
-        "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
-        "link": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
-        "description": "<p>Article URL: <a href=\"https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/\">https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111006\">https://news.ycombinator.com/item?id=49111006</a></p>\n<p>Points: 33</p>\n<p># Comments: 3</p>",
-        "pubDate": "Thu, 30 Jul 2026 14:58:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49111006"
-      },
-      {
-        "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-        "link": "https://github.com/n67094/sdl_gp",
-        "description": "<p>Article URL: <a href=\"https://github.com/n67094/sdl_gp\">https://github.com/n67094/sdl_gp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110655\">https://news.ycombinator.com/item?id=49110655</a></p>\n<p>Points: 45</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 30 Jul 2026 14:36:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49110655"
-      },
-      {
-        "title": "Hacker Public Radio",
-        "link": "https://hackerpublicradio.org/",
-        "description": "<p>Article URL: <a href=\"https://hackerpublicradio.org/\">https://hackerpublicradio.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110547\">https://news.ycombinator.com/item?id=49110547</a></p>\n<p>Points: 98</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 30 Jul 2026 14:29:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49110547"
-      },
-      {
-        "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-        "link": "https://prized.dev",
-        "description": "<p>Hi HN, we're Marinos and Hudson, founders of Prized (<a href=\"https://prized.dev\">https://prized.dev</a>)! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to their company’s data and deployed behind the company’s sign-in, without them ever juggling API keys or connectors.<p>Here's a demo: <a href=\"https://www.youtube.com/watch?v=730MuYOfZTY\" rel=\"nofollow\">https://www.youtube.com/watch?v=730MuYOfZTY</a><p>The way Prized provides security is by limiting what the agent can reach at the network layer and by keeping credentials out of the sandbox entirely. The sandbox never holds any keys or connector secrets, it only uses scoped session tokens that are stored as opaque placeholders. The real values are swapped into the request headers on our egress proxy. When production data is connected, the sandbox's network policy is set to deny by default so the only path out is via the proxy. Any call the agent makes to an external connector is reviewed by an LLM judge to prevent dangerous operations.<p>Prized is meant for the internal workflows that start as notebooks or spreadsheets but never become real tools because engineering has more important things to work on. One customer’s data scientist pasted in his personal fraud-detection notebook with hardcoded thresholds and all. After a few prompts, it became a published risk console connected to the company’s data with those thresholds turned into UI controls. Earlier today, we got off a call with them and most of their company is using it.<p>To do this, you need to give people the freedom to build without having unaudited access to company systems. We allow admins to scope data to specific users or teams and data access is recorded in an audit log. Each tool is built with its own Postgres schema and role, with queries running via an authenticated SQL gateway as that role.<p>We think Prized sits between products like Lovable and Retool. Lovable makes it easy to generate and host software, but it isn’t designed around distribution with permissions. Retool generally assumes that a technical builder is creating an app for an end user.<p>Prized treats internal tools as shared objects. Anyone in the workspace can see what others have built, fork, and connect different data. For example, one customer’s marketing lead built a promotional analytics tool. A data scientist at the same company then forked it and added confidence intervals with the existing tool as a starting base. This way workspaces become libraries of tools that people can reuse.<p>We’re live and self-serve. Our free tier includes 2 tool builds/month and our Teams tier is $100/month. The Enterprise tier is custom and supports personalized features like on-prem deployment.<p>We're still working out the right boundary between control and freedom. If you've built internal tools before we'd appreciate your feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49109721\">https://news.ycombinator.com/item?id=49109721</a></p>\n<p>Points: 56</p>\n<p># Comments: 32</p>",
-        "pubDate": "Thu, 30 Jul 2026 13:29:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49109721"
+        "title": "The lost civic life of movie rental stores",
+        "link": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+        "description": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/\">https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110308\">https://news.ycombinator.com/item?id=49110308</a></p>\n<p>Points: 136</p>\n<p># Comments: 193</p>",
+        "pubDate": "Thu, 30 Jul 2026 14:11:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49110308"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-07-30T19:44:36.669Z",
+  "lastUpdated": "2026-07-31T03:42:04.014Z",
   "stats": {
     "feeds": 2,
     "articles": 20
