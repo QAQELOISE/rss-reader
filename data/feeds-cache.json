@@ -5,29 +5,113 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-01T13:45:09.479Z"
+      "lastFetched": "2026-08-01T19:21:08.215Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-01T13:45:25.259Z"
+      "lastFetched": "2026-08-01T19:21:16.055Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Google kills Earth AI generator after one day",
-        "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/newsfromgoogle/status/2083249962150760610\">https://twitter.com/newsfromgoogle/status/2083249962150760610</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134079\">https://news.ycombinator.com/item?id=49134079</a></p>\n<p>Points: 26</p>\n<p># Comments: 14</p>",
-        "pubDate": "Sat, 01 Aug 2026 13:02:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49134079"
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "description": "<p>Article URL: <a href=\"https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/\">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137060\">https://news.ycombinator.com/item?id=49137060</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 01 Aug 2026 18:32:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49137060"
+      },
+      {
+        "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+        "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026\">https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137024\">https://news.ycombinator.com/item?id=49137024</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sat, 01 Aug 2026 18:28:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49137024"
+      },
+      {
+        "title": "Tell HN: I hate your fuzzy search",
+        "link": "https://news.ycombinator.com/item?id=49136990",
+        "description": "<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136990\">https://news.ycombinator.com/item?id=49136990</a></p>\n<p>Points: 36</p>\n<p># Comments: 17</p>",
+        "pubDate": "Sat, 01 Aug 2026 18:25:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49136990"
+      },
+      {
+        "title": "NetBSD 11.0 Released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "description": "<p>Article URL: <a href=\"https://blog.netbsd.org/tnf/entry/netbsd_11_0_released\">https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136736\">https://news.ycombinator.com/item?id=49136736</a></p>\n<p>Points: 64</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 01 Aug 2026 17:56:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49136736"
+      },
+      {
+        "title": "A directory of people who love RSS",
+        "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+        "description": "<p>Article URL: <a href=\"https://andrewshell.org/2026/07/i-%e2%99%a5-rss/\">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136063\">https://news.ycombinator.com/item?id=49136063</a></p>\n<p>Points: 114</p>\n<p># Comments: 63</p>",
+        "pubDate": "Sat, 01 Aug 2026 16:52:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49136063"
+      },
+      {
+        "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+        "link": "https://kaisel.dev/",
+        "description": "<p>Article URL: <a href=\"https://kaisel.dev/\">https://kaisel.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135985\">https://news.ycombinator.com/item?id=49135985</a></p>\n<p>Points: 28</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 01 Aug 2026 16:45:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49135985"
+      },
+      {
+        "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+        "link": "https://franken.domains/",
+        "description": "<p>Article URL: <a href=\"https://franken.domains/\">https://franken.domains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135975\">https://news.ycombinator.com/item?id=49135975</a></p>\n<p>Points: 13</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 01 Aug 2026 16:44:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49135975"
+      },
+      {
+        "title": "Pgtestdb's template cloning approach to testing is fast",
+        "link": "https://brandur.org/fragments/pgtestdb",
+        "description": "<p>Article URL: <a href=\"https://brandur.org/fragments/pgtestdb\">https://brandur.org/fragments/pgtestdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135546\">https://news.ycombinator.com/item?id=49135546</a></p>\n<p>Points: 37</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 01 Aug 2026 16:01:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49135546"
+      },
+      {
+        "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+        "link": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+        "description": "<p>Article URL: <a href=\"https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe\">https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135426\">https://news.ycombinator.com/item?id=49135426</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 01 Aug 2026 15:46:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49135426"
+      },
+      {
+        "title": "Cursor removed cost information from the usage page and CSV export",
+        "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "description": "<p>Article URL: <a href=\"https://forum.cursor.com/t/usage-page-to-token-amount-what/167153\">https://forum.cursor.com/t/usage-page-to-token-amount-what/167153</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135257\">https://news.ycombinator.com/item?id=49135257</a></p>\n<p>Points: 207</p>\n<p># Comments: 94</p>",
+        "pubDate": "Sat, 01 Aug 2026 15:25:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49135257"
+      },
+      {
+        "title": "Explorative modeling: Train on the best of K guesses",
+        "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+        "description": "<p>Article URL: <a href=\"https://alexiglad.github.io/blog/2026/explorative_modeling/\">https://alexiglad.github.io/blog/2026/explorative_modeling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135245\">https://news.ycombinator.com/item?id=49135245</a></p>\n<p>Points: 45</p>\n<p># Comments: 18</p>",
+        "pubDate": "Sat, 01 Aug 2026 15:23:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49135245"
+      },
+      {
+        "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+        "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+        "description": "<p>Article URL: <a href=\"https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/\">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134694\">https://news.ycombinator.com/item?id=49134694</a></p>\n<p>Points: 191</p>\n<p># Comments: 107</p>",
+        "pubDate": "Sat, 01 Aug 2026 14:19:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49134694"
+      },
+      {
+        "title": "The Art of 64-bit Assembly",
+        "link": "https://nostarch.com/art-64-bit-assembly-v2",
+        "description": "<p>Article URL: <a href=\"https://nostarch.com/art-64-bit-assembly-v2\">https://nostarch.com/art-64-bit-assembly-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134599\">https://news.ycombinator.com/item?id=49134599</a></p>\n<p>Points: 114</p>\n<p># Comments: 63</p>",
+        "pubDate": "Sat, 01 Aug 2026 14:09:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49134599"
       },
       {
         "title": "RipGrep musl binaries occasionally segfault during very-large searches",
         "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
-        "description": "<p>Article URL: <a href=\"https://github.com/BurntSushi/ripgrep/issues/3494\">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133889\">https://news.ycombinator.com/item?id=49133889</a></p>\n<p>Points: 52</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/BurntSushi/ripgrep/issues/3494\">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133889\">https://news.ycombinator.com/item?id=49133889</a></p>\n<p>Points: 203</p>\n<p># Comments: 141</p>",
         "pubDate": "Sat, 01 Aug 2026 12:34:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49133889"
       },
@@ -39,128 +123,44 @@
         "guid": "https://news.ycombinator.com/item?id=49133655"
       },
       {
-        "title": "Morten Linderud resigning from Arch Linux development team",
-        "link": "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/",
-        "description": "<p>Article URL: <a href=\"https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/\">https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133647\">https://news.ycombinator.com/item?id=49133647</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 01 Aug 2026 11:59:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49133647"
-      },
-      {
         "title": "RamenHaus",
         "link": "https://ramen.haus/",
-        "description": "<p>Article URL: <a href=\"https://ramen.haus/\">https://ramen.haus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132460\">https://news.ycombinator.com/item?id=49132460</a></p>\n<p>Points: 126</p>\n<p># Comments: 73</p>",
+        "description": "<p>Article URL: <a href=\"https://ramen.haus/\">https://ramen.haus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132460\">https://news.ycombinator.com/item?id=49132460</a></p>\n<p>Points: 177</p>\n<p># Comments: 89</p>",
         "pubDate": "Sat, 01 Aug 2026 08:48:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49132460"
       },
       {
-        "title": "How to Do Great Work (2023)",
-        "link": "https://paulgraham.com/greatwork.html",
-        "description": "<p>Article URL: <a href=\"https://paulgraham.com/greatwork.html\">https://paulgraham.com/greatwork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132289\">https://news.ycombinator.com/item?id=49132289</a></p>\n<p>Points: 52</p>\n<p># Comments: 37</p>",
-        "pubDate": "Sat, 01 Aug 2026 08:19:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49132289"
-      },
-      {
-        "title": "AI doesn't generate working products, that's still your job",
-        "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-        "description": "<p>Article URL: <a href=\"https://weeraman.com/the-prototype-isnt-the-product/\">https://weeraman.com/the-prototype-isnt-the-product/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132130\">https://news.ycombinator.com/item?id=49132130</a></p>\n<p>Points: 210</p>\n<p># Comments: 197</p>",
-        "pubDate": "Sat, 01 Aug 2026 07:52:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49132130"
-      },
-      {
         "title": "Solid Queue 1.6.0 now supports fiber workers",
         "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-        "description": "<p>Article URL: <a href=\"https://github.com/rails/solid_queue/releases/tag/v1.6.0\">https://github.com/rails/solid_queue/releases/tag/v1.6.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132083\">https://news.ycombinator.com/item?id=49132083</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/rails/solid_queue/releases/tag/v1.6.0\">https://github.com/rails/solid_queue/releases/tag/v1.6.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132083\">https://news.ycombinator.com/item?id=49132083</a></p>\n<p>Points: 78</p>\n<p># Comments: 33</p>",
         "pubDate": "Sat, 01 Aug 2026 07:42:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49132083"
       },
       {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "link": "https://openai.com/index/ten-advances-in-mathematics/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132058\">https://news.ycombinator.com/item?id=49132058</a></p>\n<p>Points: 194</p>\n<p># Comments: 144</p>",
-        "pubDate": "Sat, 01 Aug 2026 07:37:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49132058"
-      },
-      {
         "title": "The development pipeline is a production system",
         "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-        "description": "<p>Article URL: <a href=\"https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130726\">https://news.ycombinator.com/item?id=49130726</a></p>\n<p>Points: 114</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130726\">https://news.ycombinator.com/item?id=49130726</a></p>\n<p>Points: 145</p>\n<p># Comments: 71</p>",
         "pubDate": "Sat, 01 Aug 2026 03:16:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49130726"
       },
       {
         "title": "Flint: A Visualization Language for the AI Era",
         "link": "https://microsoft.github.io/flint-chart/",
-        "description": "<p>Article URL: <a href=\"https://microsoft.github.io/flint-chart/\">https://microsoft.github.io/flint-chart/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130604\">https://news.ycombinator.com/item?id=49130604</a></p>\n<p>Points: 161</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://microsoft.github.io/flint-chart/\">https://microsoft.github.io/flint-chart/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130604\">https://news.ycombinator.com/item?id=49130604</a></p>\n<p>Points: 230</p>\n<p># Comments: 65</p>",
         "pubDate": "Sat, 01 Aug 2026 02:45:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49130604"
       },
       {
         "title": "How to Exist",
         "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-        "description": "<p>Article URL: <a href=\"https://www.raptitude.com/2026/07/how-to-exist/\">https://www.raptitude.com/2026/07/how-to-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49129990\">https://news.ycombinator.com/item?id=49129990</a></p>\n<p>Points: 267</p>\n<p># Comments: 150</p>",
+        "description": "<p>Article URL: <a href=\"https://www.raptitude.com/2026/07/how-to-exist/\">https://www.raptitude.com/2026/07/how-to-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49129990\">https://news.ycombinator.com/item?id=49129990</a></p>\n<p>Points: 342</p>\n<p># Comments: 203</p>",
         "pubDate": "Sat, 01 Aug 2026 00:25:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49129990"
-      },
-      {
-        "title": "Loops (YC W22) Is Hiring a Product Educator",
-        "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 31 Jul 2026 21:00:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49128462"
-      },
-      {
-        "title": "Golang proposal: container/: generic collection types",
-        "link": "https://github.com/golang/go/issues/80590",
-        "description": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/80590\">https://github.com/golang/go/issues/80590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127031\">https://news.ycombinator.com/item?id=49127031</a></p>\n<p>Points: 167</p>\n<p># Comments: 141</p>",
-        "pubDate": "Fri, 31 Jul 2026 18:39:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49127031"
-      },
-      {
-        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-        "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-        "description": "<p>Article URL: <a href=\"https://servo.org/blog/2026/07/31/june-in-servo/\">https://servo.org/blog/2026/07/31/june-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126765\">https://news.ycombinator.com/item?id=49126765</a></p>\n<p>Points: 170</p>\n<p># Comments: 51</p>",
-        "pubDate": "Fri, 31 Jul 2026 18:17:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49126765"
-      },
-      {
-        "title": "qm – Multiplayer agent harness for work",
-        "link": "https://github.com/yc-software/qm",
-        "description": "<p>Article URL: <a href=\"https://github.com/yc-software/qm\">https://github.com/yc-software/qm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126604\">https://news.ycombinator.com/item?id=49126604</a></p>\n<p>Points: 598</p>\n<p># Comments: 128</p>",
-        "pubDate": "Fri, 31 Jul 2026 18:04:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49126604"
-      },
-      {
-        "title": "Miso (YC S16) is hiring for U.S. expansion",
-        "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125785\">https://news.ycombinator.com/item?id=49125785</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 31 Jul 2026 17:01:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49125785"
-      },
-      {
-        "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-        "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/\">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125034\">https://news.ycombinator.com/item?id=49125034</a></p>\n<p>Points: 203</p>\n<p># Comments: 103</p>",
-        "pubDate": "Fri, 31 Jul 2026 16:15:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49125034"
-      },
-      {
-        "title": "Big Food vs. the People",
-        "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-        "description": "<p>Article URL: <a href=\"https://www.lighthousereports.com/investigation/big-food-vs-the-people/\">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124858\">https://news.ycombinator.com/item?id=49124858</a></p>\n<p>Points: 243</p>\n<p># Comments: 151</p>",
-        "pubDate": "Fri, 31 Jul 2026 16:04:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49124858"
-      },
-      {
-        "title": "Elevators",
-        "link": "https://john.fun/elevators",
-        "description": "<p>Article URL: <a href=\"https://john.fun/elevators\">https://john.fun/elevators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124218\">https://news.ycombinator.com/item?id=49124218</a></p>\n<p>Points: 1410</p>\n<p># Comments: 341</p>",
-        "pubDate": "Fri, 31 Jul 2026 15:17:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49124218"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-01T13:45:25.259Z",
+  "lastUpdated": "2026-08-01T19:21:16.055Z",
   "stats": {
     "feeds": 2,
     "articles": 20
