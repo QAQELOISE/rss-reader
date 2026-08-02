@@ -5,106 +5,113 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-02T03:40:22.135Z"
+      "lastFetched": "2026-08-02T08:33:59.930Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-02T03:40:31.838Z"
+      "lastFetched": "2026-08-02T08:34:07.600Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Nerd culture is murdering intellectuals",
+        "link": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+        "description": "<p>Article URL: <a href=\"https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals\">https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142128\">https://news.ycombinator.com/item?id=49142128</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 02 Aug 2026 07:57:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49142128"
+      },
+      {
+        "title": "Show HN: Tone Generator",
+        "link": "https://soundtonegenerator.com/",
+        "description": "<p>Article URL: <a href=\"https://soundtonegenerator.com/\">https://soundtonegenerator.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142002\">https://news.ycombinator.com/item?id=49142002</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 02 Aug 2026 07:31:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49142002"
+      },
+      {
+        "title": "I don't recommend Tailwind CSS",
+        "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+        "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/\">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141891\">https://news.ycombinator.com/item?id=49141891</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 02 Aug 2026 07:09:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49141891"
+      },
+      {
+        "title": "CRM: An open-source, agentic-first CRM",
+        "link": "https://github.com/trycompai/crm",
+        "description": "<p>Article URL: <a href=\"https://github.com/trycompai/crm\">https://github.com/trycompai/crm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141847\">https://news.ycombinator.com/item?id=49141847</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 02 Aug 2026 06:59:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49141847"
+      },
+      {
+        "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+        "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "description": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/kimi-k3-mi355x\">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141073\">https://news.ycombinator.com/item?id=49141073</a></p>\n<p>Points: 113</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 02 Aug 2026 04:21:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49141073"
+      },
+      {
         "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
         "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 48</p>\n<p># Comments: 2</p>",
         "pubDate": "Sun, 02 Aug 2026 03:12:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49140702"
       },
       {
-        "title": "Plug-in solar is coming. Plug-in batteries should follow",
-        "link": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
-        "description": "<p>Article URL: <a href=\"https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow\">https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140633\">https://news.ycombinator.com/item?id=49140633</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 02 Aug 2026 02:57:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49140633"
+        "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+        "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#\">https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140599\">https://news.ycombinator.com/item?id=49140599</a></p>\n<p>Points: 44</p>\n<p># Comments: 18</p>",
+        "pubDate": "Sun, 02 Aug 2026 02:51:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49140599"
       },
       {
         "title": "Four Time Scales for Technology Development and Deployment",
         "link": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-        "description": "<p>Article URL: <a href=\"https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/\">https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140487\">https://news.ycombinator.com/item?id=49140487</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/\">https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140487\">https://news.ycombinator.com/item?id=49140487</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
         "pubDate": "Sun, 02 Aug 2026 02:26:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49140487"
       },
       {
         "title": "When random.bytes() runs but doesn't work",
         "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-        "description": "<p>Article URL: <a href=\"https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\">https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140405\">https://news.ycombinator.com/item?id=49140405</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\">https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140405\">https://news.ycombinator.com/item?id=49140405</a></p>\n<p>Points: 32</p>\n<p># Comments: 12</p>",
         "pubDate": "Sun, 02 Aug 2026 02:08:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49140405"
       },
       {
         "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
         "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-        "description": "<p>Article URL: <a href=\"https://github.com/tom-ilan/cycloidal_gearbox\">https://github.com/tom-ilan/cycloidal_gearbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140396\">https://news.ycombinator.com/item?id=49140396</a></p>\n<p>Points: 32</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/tom-ilan/cycloidal_gearbox\">https://github.com/tom-ilan/cycloidal_gearbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140396\">https://news.ycombinator.com/item?id=49140396</a></p>\n<p>Points: 134</p>\n<p># Comments: 25</p>",
         "pubDate": "Sun, 02 Aug 2026 02:07:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49140396"
       },
       {
-        "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "link": "https://costperprompt.com/",
-        "description": "<p>Article URL: <a href=\"https://costperprompt.com/\">https://costperprompt.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140340\">https://news.ycombinator.com/item?id=49140340</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 02 Aug 2026 01:56:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49140340"
-      },
-      {
         "title": "Go 1.27 Interactive Tour",
         "link": "https://victoriametrics.com/blog/go-1-27/index.html",
-        "description": "<p>Article URL: <a href=\"https://victoriametrics.com/blog/go-1-27/index.html\">https://victoriametrics.com/blog/go-1-27/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140218\">https://news.ycombinator.com/item?id=49140218</a></p>\n<p>Points: 61</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://victoriametrics.com/blog/go-1-27/index.html\">https://victoriametrics.com/blog/go-1-27/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140218\">https://news.ycombinator.com/item?id=49140218</a></p>\n<p>Points: 185</p>\n<p># Comments: 60</p>",
         "pubDate": "Sun, 02 Aug 2026 01:35:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49140218"
       },
       {
         "title": "ASRock BC-250: Building the Budget Steam Machine",
         "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-        "description": "<p>Article URL: <a href=\"https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\">https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140213\">https://news.ycombinator.com/item?id=49140213</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\">https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140213\">https://news.ycombinator.com/item?id=49140213</a></p>\n<p>Points: 54</p>\n<p># Comments: 15</p>",
         "pubDate": "Sun, 02 Aug 2026 01:35:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49140213"
       },
       {
-        "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-        "link": "https://zenodo.org/records/21753002",
-        "description": "<p>Article URL: <a href=\"https://zenodo.org/records/21753002\">https://zenodo.org/records/21753002</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140080\">https://news.ycombinator.com/item?id=49140080</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 02 Aug 2026 01:01:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49140080"
-      },
-      {
-        "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-        "link": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-        "description": "<p>Article URL: <a href=\"https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/\">https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139826\">https://news.ycombinator.com/item?id=49139826</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
-        "pubDate": "Sun, 02 Aug 2026 00:06:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49139826"
-      },
-      {
-        "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
-        "link": "https://wwnorton.com/books/9781324051299",
-        "description": "<p>Article URL: <a href=\"https://wwnorton.com/books/9781324051299\">https://wwnorton.com/books/9781324051299</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139796\">https://news.ycombinator.com/item?id=49139796</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 02 Aug 2026 00:01:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49139796"
-      },
-      {
         "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
         "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
-        "description": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc10015.html\">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139711\">https://news.ycombinator.com/item?id=49139711</a></p>\n<p>Points: 36</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc10015.html\">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139711\">https://news.ycombinator.com/item?id=49139711</a></p>\n<p>Points: 55</p>\n<p># Comments: 12</p>",
         "pubDate": "Sat, 01 Aug 2026 23:44:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49139711"
       },
       {
         "title": "Unraveling the mysteries of habit formation",
         "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-        "description": "<p>Article URL: <a href=\"https://www.kyoto-u.ac.jp/en/research-news/2026-07-28\">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139383\">https://news.ycombinator.com/item?id=49139383</a></p>\n<p>Points: 45</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://www.kyoto-u.ac.jp/en/research-news/2026-07-28\">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139383\">https://news.ycombinator.com/item?id=49139383</a></p>\n<p>Points: 73</p>\n<p># Comments: 26</p>",
         "pubDate": "Sat, 01 Aug 2026 22:55:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49139383"
       },
@@ -116,51 +123,44 @@
         "guid": "https://news.ycombinator.com/item?id=49139352"
       },
       {
-        "title": "Anime User Interfaces",
-        "link": "https://animeuserinterface.tumblr.com",
-        "description": "<p>Article URL: <a href=\"https://animeuserinterface.tumblr.com\">https://animeuserinterface.tumblr.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139304\">https://news.ycombinator.com/item?id=49139304</a></p>\n<p>Points: 126</p>\n<p># Comments: 39</p>",
-        "pubDate": "Sat, 01 Aug 2026 22:47:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49139304"
-      },
-      {
         "title": "AI financial advice is surprisingly good, especially if you ask right questions",
         "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "description": "<p>Article URL: <a href=\"https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\">https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139102\">https://news.ycombinator.com/item?id=49139102</a></p>\n<p>Points: 199</p>\n<p># Comments: 173</p>",
+        "description": "<p>Article URL: <a href=\"https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\">https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139102\">https://news.ycombinator.com/item?id=49139102</a></p>\n<p>Points: 292</p>\n<p># Comments: 258</p>",
         "pubDate": "Sat, 01 Aug 2026 22:25:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49139102"
       },
       {
         "title": "Atom is better than RSS, in ways that matter",
         "link": "https://chrismorgan.info/atom%3Erss",
-        "description": "<p>Article URL: <a href=\"https://chrismorgan.info/atom%3Erss\">https://chrismorgan.info/atom%3Erss</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138897\">https://news.ycombinator.com/item?id=49138897</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://chrismorgan.info/atom%3Erss\">https://chrismorgan.info/atom%3Erss</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138897\">https://news.ycombinator.com/item?id=49138897</a></p>\n<p>Points: 63</p>\n<p># Comments: 26</p>",
         "pubDate": "Sat, 01 Aug 2026 22:00:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49138897"
       },
       {
         "title": "Seedance 2.5",
         "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-        "description": "<p>Article URL: <a href=\"https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138302\">https://news.ycombinator.com/item?id=49138302</a></p>\n<p>Points: 214</p>\n<p># Comments: 98</p>",
+        "description": "<p>Article URL: <a href=\"https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138302\">https://news.ycombinator.com/item?id=49138302</a></p>\n<p>Points: 315</p>\n<p># Comments: 162</p>",
         "pubDate": "Sat, 01 Aug 2026 20:45:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49138302"
       },
       {
         "title": "Diátaxis",
         "link": "https://diataxis.fr/",
-        "description": "<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138188\">https://news.ycombinator.com/item?id=49138188</a></p>\n<p>Points: 235</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138188\">https://news.ycombinator.com/item?id=49138188</a></p>\n<p>Points: 316</p>\n<p># Comments: 40</p>",
         "pubDate": "Sat, 01 Aug 2026 20:33:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49138188"
       },
       {
         "title": "But can your calculator run Linux?",
         "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "description": "<p>Article URL: <a href=\"https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html\">https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137713\">https://news.ycombinator.com/item?id=49137713</a></p>\n<p>Points: 74</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html\">https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137713\">https://news.ycombinator.com/item?id=49137713</a></p>\n<p>Points: 93</p>\n<p># Comments: 9</p>",
         "pubDate": "Sat, 01 Aug 2026 19:44:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49137713"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-02T03:40:31.838Z",
+  "lastUpdated": "2026-08-02T08:34:07.600Z",
   "stats": {
     "feeds": 2,
     "articles": 20
