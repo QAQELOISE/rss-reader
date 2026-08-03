@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-03T15:08:39.997Z"
+      "lastFetched": "2026-08-03T19:47:58.626Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-03T15:08:47.780Z"
+      "lastFetched": "2026-08-03T19:48:06.409Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "ZX Spectrum System Tour: Sound",
+        "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+        "description": "<p>Article URL: <a href=\"https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/\">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49159676\">https://news.ycombinator.com/item?id=49159676</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 03 Aug 2026 18:32:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49159676"
+      },
+      {
+        "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+        "link": "https://blog.cloudflare.com/billable-usage-api/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/billable-usage-api/\">https://blog.cloudflare.com/billable-usage-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158714\">https://news.ycombinator.com/item?id=49158714</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 03 Aug 2026 17:18:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49158714"
+      },
+      {
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/smaller-faster-safer-models/\">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158581\">https://news.ycombinator.com/item?id=49158581</a></p>\n<p>Points: 33</p>\n<p># Comments: 4</p>",
+        "pubDate": "Mon, 03 Aug 2026 17:08:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49158581"
+      },
+      {
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+        "description": "<p>Article URL: <a href=\"https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158474\">https://news.ycombinator.com/item?id=49158474</a></p>\n<p>Points: 70</p>\n<p># Comments: 20</p>",
+        "pubDate": "Mon, 03 Aug 2026 17:02:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49158474"
+      },
+      {
+        "title": "Use Task Runners for Common Coding Tasks",
+        "link": "https://hamvocke.com/blog/task-runners/",
+        "description": "<p>Article URL: <a href=\"https://hamvocke.com/blog/task-runners/\">https://hamvocke.com/blog/task-runners/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158287\">https://news.ycombinator.com/item?id=49158287</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 03 Aug 2026 16:51:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49158287"
+      },
+      {
+        "title": "SearXNG in Rust",
+        "link": "https://github.com/MikeLuu99/searxng-rust",
+        "description": "<p>Article URL: <a href=\"https://github.com/MikeLuu99/searxng-rust\">https://github.com/MikeLuu99/searxng-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158141\">https://news.ycombinator.com/item?id=49158141</a></p>\n<p>Points: 29</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 03 Aug 2026 16:41:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49158141"
+      },
+      {
+        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "link": "https://hoplite.sh",
+        "description": "<p>Hi HN, we’re Bence and Ryan, founders of Hoplite (<a href=\"https://hoplite.sh\">https://hoplite.sh</a>). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, and get your projects ready to run in the cloud.<p>Here’s a demo: <a href=\"https://youtu.be/bnyktZ_9pjE\" rel=\"nofollow\">https://youtu.be/bnyktZ_9pjE</a><p>We got here after pivoting away from the idea we applied to YC with; AI for retail investing. It ultimately wasn’t a product that we ourselves would use, nor served a customer base that we felt connected to. In reflecting on what we really wanted to do, we realised that we loved talking to founders and developers, and were really opinionated about the specific area of cloud agents. We tried out all the existing solutions, and didn’t find one that A) took good advantage of being in the cloud, and B) was performant and felt good to use.<p>We’re building a product that we feel reflects what mainstream development will look like in 6-12 months. As models improve, developers will end up reviewing less and less code, and will instead focus on reviewing the product output. That means evaluating new user flows, visually verifying that new features look good, that the API works as expected, that the CLI works on Windows, etc. And doing it while running hundreds of agents concurrently.<p>On the agent side, we’ve created a custom harness. We spent a lot of time deciding on whether we should use an off the shelf solution like Codex/Claude Code, but ultimately wanted the independence and freedom that came with building it in house. It also means that we can test out completely new features without relying on Anthropic and OpenAI to catch up.<p>Everything is hosted on AWS, with the exception of: Temporal for durable workflows, Modal for sandboxes, and Planetscale for our database. Our infra decisions were driven by a strong belief that agents are becoming a tier 0 piece of infrastructure, and they need the reliability and security to match that.<p>You can try it now for free with the code ‘HACKERNEWS’ - we’ve included $100 in free credits, plus you can connect your Codex subscription and use OpenAI models via it. You can see some more details around our pricing at <a href=\"https://hoplite.sh/pricing\">https://hoplite.sh/pricing</a>.<p>At the moment we’re focusing on optimising two key experiences: onboarding and previews, and would love to hear your feedback on them. And if you find that the agent's performance in certain tasks doesn’t match your expectations, please let us know!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157997\">https://news.ycombinator.com/item?id=49157997</a></p>\n<p>Points: 25</p>\n<p># Comments: 31</p>",
+        "pubDate": "Mon, 03 Aug 2026 16:32:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49157997"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "link": "https://openai.com/index/ten-advances-in-mathematics/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157930\">https://news.ycombinator.com/item?id=49157930</a></p>\n<p>Points: 195</p>\n<p># Comments: 472</p>",
+        "pubDate": "Mon, 03 Aug 2026 16:27:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49157930"
+      },
+      {
+        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "link": "https://armature.tech/",
+        "description": "<p>Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including what the user asked their agent to do and what the agent thought.<p>You wrap your MCP in 3 lines of code (our SDK is available in Typescript, Python and Go) and start seeing in your dashboard:\n- All sessions reconstructed: it’s like reading the real conversation the user had inside Claude or ChatGPT!\n- A ranking of your MCP most popular use cases, built from sessions clustering\n- The most frequent issues your users’ agents encounter so you can fix them.<p>Here is a quick demo: <a href=\"https://youtu.be/ZFlvquhyNMQ\" rel=\"nofollow\">https://youtu.be/ZFlvquhyNMQ</a><p>The story behind this is that we initially launched Armature as a standalone testing tool (<a href=\"https://www.ycombinator.com/launches/QQc-armature-making-your-app-finally-usable-by-ai-agents\">https://www.ycombinator.com/launches/QQc-armature-making-you...</a>) that could naturally be used through an MCP itself. We quickly realized we had no idea how our users were using Armature MCP and if they were satisfied with it or frustrated. It’s something we had also experienced in our previous companies: Louis built MCPs exposed to millions of users and Theo was a Forward Deployed Engineer at Palantir before joining a Datadog spin-off as Founding Engineer. Both testing and product analytics had always been real pains when exposing a product to agents but we always thought there wasn’t much we could do about analytics because the conversation lived in our users’ AI client.<p>Then it struck us: what if we asked the agents why they were making this or that tool call? And what’s the user's intent or potential frustration? So we started experimenting with MCP instrumentation and the use-cases actually surprised us! Many of our first customers had implemented workarounds for their CI to trigger new tests or for their coding agents to fetch the results efficiently. Even though we talked to our first users regularly, they had never shared this feedback with us. We then built automations to automatically cluster use-cases, identify issues frequently encountered and let our own coding agents fix them. When our CTO friends heard about this, they wanted to try it for themselves so we gave them access to a cloned version of our internal product and they started sharing feedback like they never did on our “real” product!<p>That’s when we decided to start working seriously on MCP Analytics as a product. At first we were afraid of degrading MCP performance so we iterated until we reached the exact same success rate as without our instrumentation (89.17 % vs 89.15 % pass rate out of 870 runs). Then privacy was an obvious constraint so we applied the same methods we had learned from working with banking data or building sensitive data scanning in logs. Today, redaction runs client-side before reaching our servers. There are still a lot of things we haven’t fully figured out: not all fields are equally filled by all models, session fingerprinting for serverless / stateless MCPs isn’t perfect, and use-case clustering remains to be optimized.<p>But we are finally launching our analytics product to everyone, self-serve at <a href=\"https://armature.tech\">https://armature.tech</a> with a set-up that takes less than 5 minutes and a generous free tier.<p>And now we are working on fully closing the loop, bringing evals back in our product so we can: identify top workflows and issues -> recommend fixes and improvements -> test fixes at scale on the same workflows run by users, across all harnesses and models -> open PRs to ship fixes directly.\nThe evals can be generated automatically from the session analytics so you can catch every regression and can test every improvement’s real impact across all models and harnesses before shipping it.<p>Here’s an example to make it more concrete: 10 days ago, a marketing automation platform which has had early access to what we built for weeks identified thanks to MCP Analytics that users were frustrated not being able to change their target audience after campaign creation. So they shipped the feature and tested it successfully locally with Claude Code on Fable 5. Then a few days later when preparing their new MCP public release, they ran a suite of evals on Armature and realized that small models could hallucinate audience_ids which would lead their MCP to send the campaign to ALL their contacts by default (which could obviously lead to disasters in prod). This is the kind of story that makes what we are building feel so helpful!<p>Now, the most useful feedback for us would be to know what’s still missing in our product so you can feel you are now in full control of the “Agent Experience”.\nAnd if you run an MCP in production we’d also love to know: what do you do today to know if agents succeed and if the users behind them are happy?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157807\">https://news.ycombinator.com/item?id=49157807</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 03 Aug 2026 16:17:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49157807"
+      },
+      {
+        "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+        "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
+        "description": "<p>Article URL: <a href=\"https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en\">https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157645\">https://news.ycombinator.com/item?id=49157645</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 03 Aug 2026 16:07:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49157645"
+      },
+      {
         "title": "Devtools must be open source",
         "link": "https://blog.exe.dev/devtools-must-be-open-source",
-        "description": "<p>Article URL: <a href=\"https://blog.exe.dev/devtools-must-be-open-source\">https://blog.exe.dev/devtools-must-be-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156111\">https://news.ycombinator.com/item?id=49156111</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.exe.dev/devtools-must-be-open-source\">https://blog.exe.dev/devtools-must-be-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156111\">https://news.ycombinator.com/item?id=49156111</a></p>\n<p>Points: 351</p>\n<p># Comments: 130</p>",
         "pubDate": "Mon, 03 Aug 2026 14:15:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49156111"
       },
       {
-        "title": "The Future, Made in China",
-        "link": "https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china",
-        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china\">https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155940\">https://news.ycombinator.com/item?id=49155940</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 03 Aug 2026 14:02:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49155940"
+        "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+        "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/andy-pavlo-joins-clickhouse\">https://clickhouse.com/blog/andy-pavlo-joins-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156011\">https://news.ycombinator.com/item?id=49156011</a></p>\n<p>Points: 190</p>\n<p># Comments: 44</p>",
+        "pubDate": "Mon, 03 Aug 2026 14:09:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49156011"
       },
       {
         "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
         "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-        "description": "<p>Article URL: <a href=\"https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155629\">https://news.ycombinator.com/item?id=49155629</a></p>\n<p>Points: 78</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155629\">https://news.ycombinator.com/item?id=49155629</a></p>\n<p>Points: 197</p>\n<p># Comments: 56</p>",
         "pubDate": "Mon, 03 Aug 2026 13:34:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=49155629"
       },
       {
         "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
         "link": "https://dmarcguard.io/blog/spf-record-syntax/",
-        "description": "<p>Article URL: <a href=\"https://dmarcguard.io/blog/spf-record-syntax/\">https://dmarcguard.io/blog/spf-record-syntax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155626\">https://news.ycombinator.com/item?id=49155626</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://dmarcguard.io/blog/spf-record-syntax/\">https://dmarcguard.io/blog/spf-record-syntax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155626\">https://news.ycombinator.com/item?id=49155626</a></p>\n<p>Points: 35</p>\n<p># Comments: 8</p>",
         "pubDate": "Mon, 03 Aug 2026 13:34:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49155626"
       },
       {
-        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+        "link": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+        "description": "<p>Article URL: <a href=\"https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/\">https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155359\">https://news.ycombinator.com/item?id=49155359</a></p>\n<p>Points: 236</p>\n<p># Comments: 136</p>",
+        "pubDate": "Mon, 03 Aug 2026 13:13:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49155359"
+      },
+      {
+        "title": "The Potomac River Midair Collision",
+        "link": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
+        "description": "<p>Article URL: <a href=\"https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f\">https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154441\">https://news.ycombinator.com/item?id=49154441</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 03 Aug 2026 11:41:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49154441"
+      },
+      {
+        "title": "SQLite Critical CVEs or LLM Slop?",
         "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "description": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 412</p>\n<p># Comments: 131</p>",
+        "description": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 670</p>\n<p># Comments: 307</p>",
         "pubDate": "Mon, 03 Aug 2026 11:28:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49154332"
       },
       {
-        "title": "9front \"This Was Supposed to Be Fun\" Released",
-        "link": "https://9front.org/releases/2026/08/02/0/",
-        "description": "<p>Article URL: <a href=\"https://9front.org/releases/2026/08/02/0/\">https://9front.org/releases/2026/08/02/0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154249\">https://news.ycombinator.com/item?id=49154249</a></p>\n<p>Points: 68</p>\n<p># Comments: 22</p>",
-        "pubDate": "Mon, 03 Aug 2026 11:17:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49154249"
-      },
-      {
         "title": "AirLLM 70B inference with single 4GB GPU",
         "link": "https://github.com/lyogavin/airllm",
-        "description": "<p>Article URL: <a href=\"https://github.com/lyogavin/airllm\">https://github.com/lyogavin/airllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154228\">https://news.ycombinator.com/item?id=49154228</a></p>\n<p>Points: 67</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/lyogavin/airllm\">https://github.com/lyogavin/airllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154228\">https://news.ycombinator.com/item?id=49154228</a></p>\n<p>Points: 152</p>\n<p># Comments: 53</p>",
         "pubDate": "Mon, 03 Aug 2026 11:15:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49154228"
       },
       {
         "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
         "link": "https://github.com/garagehq/nightcrawler/",
-        "description": "<p>Article URL: <a href=\"https://github.com/garagehq/nightcrawler/\">https://github.com/garagehq/nightcrawler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154127\">https://news.ycombinator.com/item?id=49154127</a></p>\n<p>Points: 55</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/garagehq/nightcrawler/\">https://github.com/garagehq/nightcrawler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154127\">https://news.ycombinator.com/item?id=49154127</a></p>\n<p>Points: 90</p>\n<p># Comments: 29</p>",
         "pubDate": "Mon, 03 Aug 2026 11:06:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49154127"
       },
       {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "description": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 222</p>\n<p># Comments: 171</p>",
+        "description": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 313</p>\n<p># Comments: 267</p>",
         "pubDate": "Mon, 03 Aug 2026 09:32:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49153374"
-      },
-      {
-        "title": "What DMARC Protects You From, and What It Does Not",
-        "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
-        "description": "<p>Article URL: <a href=\"https://senderledger.com/articles/what-dmarc-actually-protects-you-from\">https://senderledger.com/articles/what-dmarc-actually-protects-you-from</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153361\">https://news.ycombinator.com/item?id=49153361</a></p>\n<p>Points: 68</p>\n<p># Comments: 20</p>",
-        "pubDate": "Mon, 03 Aug 2026 09:29:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49153361"
-      },
-      {
-        "title": "The true power of regular expressions (2012)",
-        "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
-        "description": "<p>Article URL: <a href=\"https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html\">https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152973\">https://news.ycombinator.com/item?id=49152973</a></p>\n<p>Points: 53</p>\n<p># Comments: 43</p>",
-        "pubDate": "Mon, 03 Aug 2026 08:47:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49152973"
-      },
-      {
-        "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-        "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-        "description": "<p>Article URL: <a href=\"https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration\">https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152871\">https://news.ycombinator.com/item?id=49152871</a></p>\n<p>Points: 47</p>\n<p># Comments: 16</p>",
-        "pubDate": "Mon, 03 Aug 2026 08:34:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49152871"
-      },
-      {
-        "title": "Bonsai: Janestreet's UI Library",
-        "link": "https://github.com/janestreet/bonsai",
-        "description": "<p>Article URL: <a href=\"https://github.com/janestreet/bonsai\">https://github.com/janestreet/bonsai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152842\">https://news.ycombinator.com/item?id=49152842</a></p>\n<p>Points: 164</p>\n<p># Comments: 58</p>",
-        "pubDate": "Mon, 03 Aug 2026 08:29:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49152842"
-      },
-      {
-        "title": "Octane – React's programming model, compiled",
-        "link": "https://octanejs.dev",
-        "description": "<p>Article URL: <a href=\"https://octanejs.dev\">https://octanejs.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152640\">https://news.ycombinator.com/item?id=49152640</a></p>\n<p>Points: 81</p>\n<p># Comments: 27</p>",
-        "pubDate": "Mon, 03 Aug 2026 08:04:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49152640"
-      },
-      {
-        "title": "Rust project goals: Immobile types and guaranteed destructors",
-        "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-        "description": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md\">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152023\">https://news.ycombinator.com/item?id=49152023</a></p>\n<p>Points: 156</p>\n<p># Comments: 58</p>",
-        "pubDate": "Mon, 03 Aug 2026 06:42:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49152023"
-      },
-      {
-        "title": "Don't be a meat proxy",
-        "link": "https://gruhn.me/blog/2026-08-03/",
-        "description": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 1194</p>\n<p># Comments: 504</p>",
-        "pubDate": "Mon, 03 Aug 2026 06:28:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49151933"
-      },
-      {
-        "title": "Situational Awareness and the Impending Stock Market Volatility",
-        "link": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
-        "description": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/\">https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151871\">https://news.ycombinator.com/item?id=49151871</a></p>\n<p>Points: 53</p>\n<p># Comments: 37</p>",
-        "pubDate": "Mon, 03 Aug 2026 06:17:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49151871"
-      },
-      {
-        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-        "link": "https://qwen.ai/blog?id=qwen3.8",
-        "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 843</p>\n<p># Comments: 430</p>",
-        "pubDate": "Mon, 03 Aug 2026 02:16:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49150470"
-      },
-      {
-        "title": "Show HN: Isopolis – Isometric pixel map of SF",
-        "link": "https://sf.isopolis.city/",
-        "description": "<p>Article URL: <a href=\"https://sf.isopolis.city/\">https://sf.isopolis.city/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149966\">https://news.ycombinator.com/item?id=49149966</a></p>\n<p>Points: 288</p>\n<p># Comments: 64</p>",
-        "pubDate": "Mon, 03 Aug 2026 00:46:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49149966"
-      },
-      {
-        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-        "link": "https://github.com/johnsonjh/cpm386",
-        "description": "<p>Article URL: <a href=\"https://github.com/johnsonjh/cpm386\">https://github.com/johnsonjh/cpm386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149898\">https://news.ycombinator.com/item?id=49149898</a></p>\n<p>Points: 88</p>\n<p># Comments: 42</p>",
-        "pubDate": "Mon, 03 Aug 2026 00:38:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49149898"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-03T15:08:47.780Z",
+  "lastUpdated": "2026-08-03T19:48:06.409Z",
   "stats": {
     "feeds": 2,
     "articles": 20
