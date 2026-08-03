@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-02T19:22:09.268Z"
+      "lastFetched": "2026-08-03T03:42:26.197Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-02T19:22:16.979Z"
+      "lastFetched": "2026-08-03T03:42:34.163Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Microsoft raises Xbox prices by up to 43%",
-        "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-        "description": "<p>Article URL: <a href=\"https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros\">https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147209\">https://news.ycombinator.com/item?id=49147209</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 02 Aug 2026 18:52:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49147209"
+        "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+        "link": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
+        "description": "<p>Article URL: <a href=\"https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic\">https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150738\">https://news.ycombinator.com/item?id=49150738</a></p>\n<p>Points: 59</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 03 Aug 2026 03:00:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49150738"
       },
       {
-        "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-        "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-        "description": "<p>Article URL: <a href=\"https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146605\">https://news.ycombinator.com/item?id=49146605</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 02 Aug 2026 17:45:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49146605"
+        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+        "link": "https://qwen.ai/blog?id=qwen3.8",
+        "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 85</p>\n<p># Comments: 23</p>",
+        "pubDate": "Mon, 03 Aug 2026 02:16:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49150470"
+      },
+      {
+        "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+        "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
+        "description": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc9851.html\">https://www.rfc-editor.org/rfc/rfc9851.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150181\">https://news.ycombinator.com/item?id=49150181</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 03 Aug 2026 01:23:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49150181"
+      },
+      {
+        "title": "Show HN: Isopolis – Isometric pixel map of SF",
+        "link": "https://sf.isopolis.city/",
+        "description": "<p>Article URL: <a href=\"https://sf.isopolis.city/\">https://sf.isopolis.city/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149966\">https://news.ycombinator.com/item?id=49149966</a></p>\n<p>Points: 76</p>\n<p># Comments: 17</p>",
+        "pubDate": "Mon, 03 Aug 2026 00:46:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49149966"
+      },
+      {
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "link": "https://github.com/johnsonjh/cpm386",
+        "description": "<p>Article URL: <a href=\"https://github.com/johnsonjh/cpm386\">https://github.com/johnsonjh/cpm386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149898\">https://news.ycombinator.com/item?id=49149898</a></p>\n<p>Points: 40</p>\n<p># Comments: 9</p>",
+        "pubDate": "Mon, 03 Aug 2026 00:38:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49149898"
+      },
+      {
+        "title": "Show HN: ssh ssh.place",
+        "link": "https://ssh.place",
+        "description": "<p>Article URL: <a href=\"https://ssh.place\">https://ssh.place</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149805\">https://news.ycombinator.com/item?id=49149805</a></p>\n<p>Points: 44</p>\n<p># Comments: 22</p>",
+        "pubDate": "Mon, 03 Aug 2026 00:23:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49149805"
+      },
+      {
+        "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+        "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+        "description": "<p>Article URL: <a href=\"https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149746\">https://news.ycombinator.com/item?id=49149746</a></p>\n<p>Points: 57</p>\n<p># Comments: 33</p>",
+        "pubDate": "Mon, 03 Aug 2026 00:12:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49149746"
+      },
+      {
+        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "link": "https://github.com/pg83/shitty",
+        "description": "<p>Article URL: <a href=\"https://github.com/pg83/shitty\">https://github.com/pg83/shitty</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149326\">https://news.ycombinator.com/item?id=49149326</a></p>\n<p>Points: 98</p>\n<p># Comments: 94</p>",
+        "pubDate": "Sun, 02 Aug 2026 23:05:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49149326"
+      },
+      {
+        "title": "The Computational Theory of Mind (2015)",
+        "link": "https://plato.stanford.edu/entries/computational-mind/",
+        "description": "<p>Article URL: <a href=\"https://plato.stanford.edu/entries/computational-mind/\">https://plato.stanford.edu/entries/computational-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149125\">https://news.ycombinator.com/item?id=49149125</a></p>\n<p>Points: 40</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sun, 02 Aug 2026 22:35:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49149125"
+      },
+      {
+        "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+        "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+        "description": "<p>Article URL: <a href=\"https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\">https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148987\">https://news.ycombinator.com/item?id=49148987</a></p>\n<p>Points: 108</p>\n<p># Comments: 46</p>",
+        "pubDate": "Sun, 02 Aug 2026 22:16:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49148987"
+      },
+      {
+        "title": "Show HN: Mu – Tools for Agents",
+        "link": "https://github.com/micro/mu",
+        "description": "<p>Article URL: <a href=\"https://github.com/micro/mu\">https://github.com/micro/mu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148899\">https://news.ycombinator.com/item?id=49148899</a></p>\n<p>Points: 39</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 02 Aug 2026 22:06:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49148899"
+      },
+      {
+        "title": "Show HN: Make your Framework 12 sound like a creaky door",
+        "link": "https://github.com/ArcaEge/creakwork12",
+        "description": "<p>I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (<a href=\"https://github.com/samhenrigold/LidAngleSensor\" rel=\"nofollow\">https://github.com/samhenrigold/LidAngleSensor</a>) but for the Framework 12 on Linux, so you can make your hinge sound rusty</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148048\">https://news.ycombinator.com/item?id=49148048</a></p>\n<p>Points: 62</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sun, 02 Aug 2026 20:33:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49148048"
+      },
+      {
+        "title": "TinyNES Review – A Super Niche NES Console",
+        "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+        "description": "<p>Article URL: <a href=\"https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/\">https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147760\">https://news.ycombinator.com/item?id=49147760</a></p>\n<p>Points: 41</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 02 Aug 2026 20:01:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49147760"
+      },
+      {
+        "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+        "link": "https://frogs.vaguespac.es/",
+        "description": "<p>Article URL: <a href=\"https://frogs.vaguespac.es/\">https://frogs.vaguespac.es/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147622\">https://news.ycombinator.com/item?id=49147622</a></p>\n<p>Points: 118</p>\n<p># Comments: 52</p>",
+        "pubDate": "Sun, 02 Aug 2026 19:42:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49147622"
+      },
+      {
+        "title": "SwiftUI After 7 Years",
+        "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+        "description": "<p>Article URL: <a href=\"https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/\">https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147263\">https://news.ycombinator.com/item?id=49147263</a></p>\n<p>Points: 127</p>\n<p># Comments: 106</p>",
+        "pubDate": "Sun, 02 Aug 2026 18:59:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49147263"
+      },
+      {
+        "title": "The Myth of Snow Leopard",
+        "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+        "description": "<p>Article URL: <a href=\"https://www.rubenerd.au/the-myth-of-snow-leopard/\">https://www.rubenerd.au/the-myth-of-snow-leopard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146960\">https://news.ycombinator.com/item?id=49146960</a></p>\n<p>Points: 51</p>\n<p># Comments: 47</p>",
+        "pubDate": "Sun, 02 Aug 2026 18:21:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49146960"
       },
       {
         "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
         "link": "https://github.com/graham33/nixos-dgx-spark",
-        "description": "<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href=\"https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE\" rel=\"nofollow\">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146267\">https://news.ycombinator.com/item?id=49146267</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+        "description": "<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href=\"https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE\" rel=\"nofollow\">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146267\">https://news.ycombinator.com/item?id=49146267</a></p>\n<p>Points: 102</p>\n<p># Comments: 31</p>",
         "pubDate": "Sun, 02 Aug 2026 17:05:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49146267"
       },
       {
-        "title": "Pushes to arch AUR are suspendended right now.",
-        "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-        "description": "<p>Article URL: <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146238\">https://news.ycombinator.com/item?id=49146238</a></p>\n<p>Points: 44</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sun, 02 Aug 2026 17:03:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49146238"
-      },
-      {
         "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
         "link": "https://github.com/wie-project/kakehashi",
-        "description": "<p>Article URL: <a href=\"https://github.com/wie-project/kakehashi\">https://github.com/wie-project/kakehashi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145937\">https://news.ycombinator.com/item?id=49145937</a></p>\n<p>Points: 74</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/wie-project/kakehashi\">https://github.com/wie-project/kakehashi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145937\">https://news.ycombinator.com/item?id=49145937</a></p>\n<p>Points: 189</p>\n<p># Comments: 40</p>",
         "pubDate": "Sun, 02 Aug 2026 16:26:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49145937"
       },
       {
-        "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-        "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-        "description": "<p>Article URL: <a href=\"https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/\">https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145883\">https://news.ycombinator.com/item?id=49145883</a></p>\n<p>Points: 39</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 02 Aug 2026 16:19:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49145883"
-      },
-      {
         "title": "How the words we teach English language learners changed",
         "link": "https://pudding.cool/2026/07/essential-words/",
-        "description": "<p>Article URL: <a href=\"https://pudding.cool/2026/07/essential-words/\">https://pudding.cool/2026/07/essential-words/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145590\">https://news.ycombinator.com/item?id=49145590</a></p>\n<p>Points: 131</p>\n<p># Comments: 75</p>",
+        "description": "<p>Article URL: <a href=\"https://pudding.cool/2026/07/essential-words/\">https://pudding.cool/2026/07/essential-words/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145590\">https://news.ycombinator.com/item?id=49145590</a></p>\n<p>Points: 194</p>\n<p># Comments: 138</p>",
         "pubDate": "Sun, 02 Aug 2026 15:41:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49145590"
       },
       {
-        "title": "A Rant About “Technology” (2005)",
-        "link": "https://www.ursulakleguin.com/a-rant-about-technology",
-        "description": "<p>Article URL: <a href=\"https://www.ursulakleguin.com/a-rant-about-technology\">https://www.ursulakleguin.com/a-rant-about-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145201\">https://news.ycombinator.com/item?id=49145201</a></p>\n<p>Points: 119</p>\n<p># Comments: 66</p>",
-        "pubDate": "Sun, 02 Aug 2026 14:51:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49145201"
-      },
-      {
         "title": "Twenty Years of RISC OS Open",
         "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-        "description": "<p>Article URL: <a href=\"https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143967\">https://news.ycombinator.com/item?id=49143967</a></p>\n<p>Points: 115</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143967\">https://news.ycombinator.com/item?id=49143967</a></p>\n<p>Points: 154</p>\n<p># Comments: 30</p>",
         "pubDate": "Sun, 02 Aug 2026 12:36:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49143967"
-      },
-      {
-        "title": "F*: A general-purpose proof-oriented programming language",
-        "link": "https://fstar-lang.org/",
-        "description": "<p>Article URL: <a href=\"https://fstar-lang.org/\">https://fstar-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143925\">https://news.ycombinator.com/item?id=49143925</a></p>\n<p>Points: 106</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sun, 02 Aug 2026 12:31:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49143925"
-      },
-      {
-        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-        "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143683\">https://news.ycombinator.com/item?id=49143683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 02 Aug 2026 12:01:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49143683"
-      },
-      {
-        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-        "link": "https://meshdiff.com/",
-        "description": "<p>Article URL: <a href=\"https://meshdiff.com/\">https://meshdiff.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143479\">https://news.ycombinator.com/item?id=49143479</a></p>\n<p>Points: 147</p>\n<p># Comments: 13</p>",
-        "pubDate": "Sun, 02 Aug 2026 11:34:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49143479"
-      },
-      {
-        "title": "Show HN: Fuse – statically typed functional programming language",
-        "link": "https://fuselang.org",
-        "description": "<p>Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.<p>Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations.<p>I’ve been developing the language for 5 years, with code written in Scala. I’ve started coding the language from the base of System F that was implemented as part of the book: Types and Programming Languages (tapl). And then extending with concepts such as Bidirectional Type Checking with Higher-Rank Polymorphism.<p>I’ve mainly drawn inspiration from Rust, Haskell, Scala and Python (in terms of syntax). It all started because I wanted a language that has Rust-like concepts such as: ADT, Traits, Impl block syntax, etc. but have the pure functional semantics.<p>I'd would love feedback on the language design and its general usage.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143412\">https://news.ycombinator.com/item?id=49143412</a></p>\n<p>Points: 80</p>\n<p># Comments: 15</p>",
-        "pubDate": "Sun, 02 Aug 2026 11:23:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49143412"
-      },
-      {
-        "title": "Rust All Hands 2026 Retrospective",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
-        "description": "<p>Article URL: <a href=\"https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/\">https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143096\">https://news.ycombinator.com/item?id=49143096</a></p>\n<p>Points: 68</p>\n<p># Comments: 30</p>",
-        "pubDate": "Sun, 02 Aug 2026 10:33:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49143096"
-      },
-      {
-        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "link": "https://publicdomainreview.org/essay/ars-notoria/",
-        "description": "<p>Article URL: <a href=\"https://publicdomainreview.org/essay/ars-notoria/\">https://publicdomainreview.org/essay/ars-notoria/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143001\">https://news.ycombinator.com/item?id=49143001</a></p>\n<p>Points: 99</p>\n<p># Comments: 25</p>",
-        "pubDate": "Sun, 02 Aug 2026 10:18:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49143001"
-      },
-      {
-        "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-        "link": "https://github.com/syncular/syncular",
-        "description": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 67</p>\n<p># Comments: 24</p>",
-        "pubDate": "Sun, 02 Aug 2026 09:48:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49142794"
-      },
-      {
-        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-        "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-        "description": "<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I'd love feedback on the architecture, policy model, and whether this is something you'd consider for managing Linux workstations.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142569\">https://news.ycombinator.com/item?id=49142569</a></p>\n<p>Points: 143</p>\n<p># Comments: 19</p>",
-        "pubDate": "Sun, 02 Aug 2026 09:06:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49142569"
-      },
-      {
-        "title": "ESP32-C3 SuperMini antenna modification",
-        "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
-        "description": "<p>Article URL: <a href=\"https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/\">https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141828\">https://news.ycombinator.com/item?id=49141828</a></p>\n<p>Points: 65</p>\n<p># Comments: 11</p>",
-        "pubDate": "Sun, 02 Aug 2026 06:56:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49141828"
-      },
-      {
-        "title": "Karpathy’s Pelican",
-        "link": "https://twitter.com/karpathy/status/2083749667410727319",
-        "description": "<p><a href=\"https://xcancel.com/karpathy/status/2083749667410727319\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2083749667410727319</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140998\">https://news.ycombinator.com/item?id=49140998</a></p>\n<p>Points: 168</p>\n<p># Comments: 141</p>",
-        "pubDate": "Sun, 02 Aug 2026 04:05:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49140998"
-      },
-      {
-        "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 97</p>\n<p># Comments: 14</p>",
-        "pubDate": "Sun, 02 Aug 2026 03:12:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49140702"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-02T19:22:16.979Z",
+  "lastUpdated": "2026-08-03T03:42:34.163Z",
   "stats": {
     "feeds": 2,
     "articles": 20
