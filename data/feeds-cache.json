@@ -5,24 +5,115 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-04T08:50:40.851Z"
+      "lastFetched": "2026-08-04T14:34:09.616Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-04T08:51:00.745Z"
+      "lastFetched": "2026-08-04T14:34:29.449Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "NHS apologises and admits Palantir have access to identifiable patient data",
-        "link": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
-        "description": "<p>Article URL: <a href=\"https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/\">https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165775\">https://news.ycombinator.com/item?id=49165775</a></p>\n<p>Points: 40</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 04 Aug 2026 08:27:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49165775"
+        "title": "Xbox goes down. You can't play games you own on disc",
+        "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+        "description": "<p>Article URL: <a href=\"https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167448\">https://news.ycombinator.com/item?id=49167448</a></p>\n<p>Points: 230</p>\n<p># Comments: 235</p>",
+        "pubDate": "Tue, 04 Aug 2026 12:01:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49167448"
+      },
+      {
+        "title": "Roame (YC S23) Is Hiring Lead Engineer",
+        "link": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167444\">https://news.ycombinator.com/item?id=49167444</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 04 Aug 2026 12:00:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49167444"
+      },
+      {
+        "title": "Buckminster Fuller: everything I know",
+        "link": "https://www.bfi.org/about-fuller/everything-i-know/",
+        "description": "<p>Article URL: <a href=\"https://www.bfi.org/about-fuller/everything-i-know/\">https://www.bfi.org/about-fuller/everything-i-know/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167147\">https://news.ycombinator.com/item?id=49167147</a></p>\n<p>Points: 53</p>\n<p># Comments: 17</p>",
+        "pubDate": "Tue, 04 Aug 2026 11:33:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49167147"
+      },
+      {
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+        "description": "<p>Article URL: <a href=\"https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/\">https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167113\">https://news.ycombinator.com/item?id=49167113</a></p>\n<p>Points: 462</p>\n<p># Comments: 269</p>",
+        "pubDate": "Tue, 04 Aug 2026 11:30:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49167113"
+      },
+      {
+        "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+        "link": "https://github.com/MakazhanAlpamys/Soup",
+        "description": "<p>Article URL: <a href=\"https://github.com/MakazhanAlpamys/Soup\">https://github.com/MakazhanAlpamys/Soup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166984\">https://news.ycombinator.com/item?id=49166984</a></p>\n<p>Points: 49</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 04 Aug 2026 11:17:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166984"
+      },
+      {
+        "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+        "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+        "description": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack\">https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166874\">https://news.ycombinator.com/item?id=49166874</a></p>\n<p>Points: 63</p>\n<p># Comments: 12</p>",
+        "pubDate": "Tue, 04 Aug 2026 11:01:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166874"
+      },
+      {
+        "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
+        "link": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
+        "description": "<p>Article URL: <a href=\"https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/\">https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166672\">https://news.ycombinator.com/item?id=49166672</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 04 Aug 2026 10:35:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166672"
+      },
+      {
+        "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+        "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+        "description": "<p>Article URL: <a href=\"https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj\">https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166491\">https://news.ycombinator.com/item?id=49166491</a></p>\n<p>Points: 214</p>\n<p># Comments: 54</p>",
+        "pubDate": "Tue, 04 Aug 2026 10:13:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166491"
+      },
+      {
+        "title": "Why Large Language Models Fail at Tabular Prediction",
+        "link": "https://arxiv.org/abs/2608.02412",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.02412\">https://arxiv.org/abs/2608.02412</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166442\">https://news.ycombinator.com/item?id=49166442</a></p>\n<p>Points: 36</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 04 Aug 2026 10:07:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166442"
+      },
+      {
+        "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+        "link": "https://learning-rust.github.io",
+        "description": "<p>Article URL: <a href=\"https://learning-rust.github.io\">https://learning-rust.github.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166411\">https://news.ycombinator.com/item?id=49166411</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 04 Aug 2026 10:03:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166411"
+      },
+      {
+        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+        "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "description": "<p>Article URL: <a href=\"https://github.com/ryanzhou/deepseek-v4-flash-mi300x\">https://github.com/ryanzhou/deepseek-v4-flash-mi300x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166386\">https://news.ycombinator.com/item?id=49166386</a></p>\n<p>Points: 185</p>\n<p># Comments: 47</p>",
+        "pubDate": "Tue, 04 Aug 2026 10:00:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166386"
+      },
+      {
+        "title": "\"Clean\" Code, Horrible Performance",
+        "link": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+        "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/clean-code-horrible-performance\">https://www.computerenhance.com/p/clean-code-horrible-performance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166331\">https://news.ycombinator.com/item?id=49166331</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+        "pubDate": "Tue, 04 Aug 2026 09:52:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166331"
+      },
+      {
+        "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+        "link": "https://github.com/david-g-3654/homebench",
+        "description": "<p>Article URL: <a href=\"https://github.com/david-g-3654/homebench\">https://github.com/david-g-3654/homebench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166308\">https://news.ycombinator.com/item?id=49166308</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 04 Aug 2026 09:48:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166308"
+      },
+      {
+        "title": "FFmpeg 9.0",
+        "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "description": "<p>Article URL: <a href=\"https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES\">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166202\">https://news.ycombinator.com/item?id=49166202</a></p>\n<p>Points: 328</p>\n<p># Comments: 62</p>",
+        "pubDate": "Tue, 04 Aug 2026 09:30:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49166202"
       },
       {
         "title": "CollectWise (YC F24) Is Hiring",
@@ -34,133 +125,42 @@
       {
         "title": "Harness Engineering for Self-Improvement",
         "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-        "description": "<p>Article URL: <a href=\"https://lilianweng.github.io/posts/2026-07-04-harness/\">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164896\">https://news.ycombinator.com/item?id=49164896</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://lilianweng.github.io/posts/2026-07-04-harness/\">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164896\">https://news.ycombinator.com/item?id=49164896</a></p>\n<p>Points: 156</p>\n<p># Comments: 30</p>",
         "pubDate": "Tue, 04 Aug 2026 06:17:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49164896"
       },
       {
-        "title": "Apple is getting this wrong",
-        "link": "https://openai.com/index/apple-is-getting-this-wrong/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/apple-is-getting-this-wrong/\">https://openai.com/index/apple-is-getting-this-wrong/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164649\">https://news.ycombinator.com/item?id=49164649</a></p>\n<p>Points: 161</p>\n<p># Comments: 157</p>",
-        "pubDate": "Tue, 04 Aug 2026 05:32:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49164649"
-      },
-      {
-        "title": "Why did we wait so long for the bicycle? (2019)",
-        "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-        "description": "<p>Article URL: <a href=\"https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162787\">https://news.ycombinator.com/item?id=49162787</a></p>\n<p>Points: 39</p>\n<p># Comments: 34</p>",
-        "pubDate": "Mon, 03 Aug 2026 23:44:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49162787"
-      },
-      {
         "title": "There Will Come Soft Rains (1950) [pdf]",
         "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-        "description": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 147</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 251</p>\n<p># Comments: 89</p>",
         "pubDate": "Mon, 03 Aug 2026 23:24:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49162653"
       },
       {
-        "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-        "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-        "description": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162086\">https://news.ycombinator.com/item?id=49162086</a></p>\n<p>Points: 102</p>\n<p># Comments: 53</p>",
-        "pubDate": "Mon, 03 Aug 2026 22:04:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49162086"
-      },
-      {
         "title": "LLMs reward expertise",
         "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-        "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-reward-expertise/\">https://www.seangoedecke.com/llms-reward-expertise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161518\">https://news.ycombinator.com/item?id=49161518</a></p>\n<p>Points: 880</p>\n<p># Comments: 362</p>",
+        "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-reward-expertise/\">https://www.seangoedecke.com/llms-reward-expertise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161518\">https://news.ycombinator.com/item?id=49161518</a></p>\n<p>Points: 1146</p>\n<p># Comments: 481</p>",
         "pubDate": "Mon, 03 Aug 2026 21:13:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49161518"
       },
       {
         "title": "Smaller, faster, safer: running Kimi and GLM at scale",
         "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/smaller-faster-safer-models/\">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158581\">https://news.ycombinator.com/item?id=49158581</a></p>\n<p>Points: 210</p>\n<p># Comments: 50</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/smaller-faster-safer-models/\">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158581\">https://news.ycombinator.com/item?id=49158581</a></p>\n<p>Points: 246</p>\n<p># Comments: 61</p>",
         "pubDate": "Mon, 03 Aug 2026 17:08:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49158581"
       },
       {
-        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-        "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-        "description": "<p>Article URL: <a href=\"https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158474\">https://news.ycombinator.com/item?id=49158474</a></p>\n<p>Points: 158</p>\n<p># Comments: 40</p>",
-        "pubDate": "Mon, 03 Aug 2026 17:02:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49158474"
-      },
-      {
         "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
         "link": "https://github.com/leonickson1/Swiftlet",
-        "description": "<p>Article URL: <a href=\"https://github.com/leonickson1/Swiftlet\">https://github.com/leonickson1/Swiftlet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158333\">https://news.ycombinator.com/item?id=49158333</a></p>\n<p>Points: 158</p>\n<p># Comments: 64</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/leonickson1/Swiftlet\">https://github.com/leonickson1/Swiftlet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158333\">https://news.ycombinator.com/item?id=49158333</a></p>\n<p>Points: 248</p>\n<p># Comments: 114</p>",
         "pubDate": "Mon, 03 Aug 2026 16:54:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49158333"
-      },
-      {
-        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-        "link": "https://hoplite.sh",
-        "description": "<p>Hi HN, we’re Bence and Ryan, founders of Hoplite (<a href=\"https://hoplite.sh\">https://hoplite.sh</a>). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, and get your projects ready to run in the cloud.<p>Here’s a demo: <a href=\"https://youtu.be/bnyktZ_9pjE\" rel=\"nofollow\">https://youtu.be/bnyktZ_9pjE</a><p>We got here after pivoting away from the idea we applied to YC with; AI for retail investing. It ultimately wasn’t a product that we ourselves would use, nor served a customer base that we felt connected to. In reflecting on what we really wanted to do, we realised that we loved talking to founders and developers, and were really opinionated about the specific area of cloud agents. We tried out all the existing solutions, and didn’t find one that A) took good advantage of being in the cloud, and B) was performant and felt good to use.<p>We’re building a product that we feel reflects what mainstream development will look like in 6-12 months. As models improve, developers will end up reviewing less and less code, and will instead focus on reviewing the product output. That means evaluating new user flows, visually verifying that new features look good, that the API works as expected, that the CLI works on Windows, etc. And doing it while running hundreds of agents concurrently.<p>On the agent side, we’ve created a custom harness. We spent a lot of time deciding on whether we should use an off the shelf solution like Codex/Claude Code, but ultimately wanted the independence and freedom that came with building it in house. It also means that we can test out completely new features without relying on Anthropic and OpenAI to catch up.<p>Everything is hosted on AWS, with the exception of: Temporal for durable workflows, Modal for sandboxes, and Planetscale for our database. Our infra decisions were driven by a strong belief that agents are becoming a tier 0 piece of infrastructure, and they need the reliability and security to match that.<p>You can try it now for free with the code ‘HACKERNEWS’ - we’ve included $100 in free credits, plus you can connect your Codex subscription and use OpenAI models via it. You can see some more details around our pricing at <a href=\"https://hoplite.sh/pricing\">https://hoplite.sh/pricing</a>.<p>At the moment we’re focusing on optimising two key experiences: onboarding and previews, and would love to hear your feedback on them. And if you find that the agent's performance in certain tasks doesn’t match your expectations, please let us know!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157997\">https://news.ycombinator.com/item?id=49157997</a></p>\n<p>Points: 70</p>\n<p># Comments: 55</p>",
-        "pubDate": "Mon, 03 Aug 2026 16:32:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49157997"
-      },
-      {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "link": "https://openai.com/index/ten-advances-in-mathematics/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157930\">https://news.ycombinator.com/item?id=49157930</a></p>\n<p>Points: 531</p>\n<p># Comments: 810</p>",
-        "pubDate": "Mon, 03 Aug 2026 16:27:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49157930"
-      },
-      {
-        "title": "Twenty Years of Pandoc",
-        "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-        "description": "<p>Article URL: <a href=\"https://pandoc.org/twenty-years-of-pandoc.html\">https://pandoc.org/twenty-years-of-pandoc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156750\">https://news.ycombinator.com/item?id=49156750</a></p>\n<p>Points: 237</p>\n<p># Comments: 29</p>",
-        "pubDate": "Mon, 03 Aug 2026 15:04:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49156750"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (August 2026)",
-        "link": "https://news.ycombinator.com/item?id=49156683",
-        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=49156682\">https://news.ycombinator.com/item?id=49156682</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156683\">https://news.ycombinator.com/item?id=49156683</a></p>\n<p>Points: 170</p>\n<p># Comments: 149</p>",
-        "pubDate": "Mon, 03 Aug 2026 15:00:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49156683"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (August 2026)",
-        "link": "https://news.ycombinator.com/item?id=49156682",
-        "description": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-wants-to-be-hired\" rel=\"nofollow\">https://nthesis.ai/public/hn-wants-to-be-hired</a>, <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156682\">https://news.ycombinator.com/item?id=49156682</a></p>\n<p>Points: 109</p>\n<p># Comments: 260</p>",
-        "pubDate": "Mon, 03 Aug 2026 15:00:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49156682"
-      },
-      {
-        "title": "Devtools must be open source",
-        "link": "https://blog.exe.dev/devtools-must-be-open-source",
-        "description": "<p>Article URL: <a href=\"https://blog.exe.dev/devtools-must-be-open-source\">https://blog.exe.dev/devtools-must-be-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156111\">https://news.ycombinator.com/item?id=49156111</a></p>\n<p>Points: 594</p>\n<p># Comments: 199</p>",
-        "pubDate": "Mon, 03 Aug 2026 14:15:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49156111"
-      },
-      {
-        "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-        "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-        "description": "<p>Article URL: <a href=\"https://clickhouse.com/blog/andy-pavlo-joins-clickhouse\">https://clickhouse.com/blog/andy-pavlo-joins-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156011\">https://news.ycombinator.com/item?id=49156011</a></p>\n<p>Points: 307</p>\n<p># Comments: 64</p>",
-        "pubDate": "Mon, 03 Aug 2026 14:09:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49156011"
-      },
-      {
-        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-        "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-        "description": "<p>Article URL: <a href=\"https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155629\">https://news.ycombinator.com/item?id=49155629</a></p>\n<p>Points: 293</p>\n<p># Comments: 85</p>",
-        "pubDate": "Mon, 03 Aug 2026 13:34:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49155629"
-      },
-      {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "description": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 472</p>\n<p># Comments: 382</p>",
-        "pubDate": "Mon, 03 Aug 2026 09:32:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49153374"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-04T08:51:00.745Z",
+  "lastUpdated": "2026-08-04T14:34:29.449Z",
   "stats": {
     "feeds": 2,
     "articles": 20
