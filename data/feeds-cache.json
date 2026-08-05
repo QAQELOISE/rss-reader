@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-05T08:48:07.121Z"
+      "lastFetched": "2026-08-05T14:26:55.103Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-05T08:48:16.067Z"
+      "lastFetched": "2026-08-05T14:27:14.570Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Rust-lang/rust is adopting an LLM policy",
-        "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-        "description": "<p>Article URL: <a href=\"https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/\">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49179039\">https://news.ycombinator.com/item?id=49179039</a></p>\n<p>Points: 53</p>\n<p># Comments: 32</p>",
-        "pubDate": "Wed, 05 Aug 2026 05:52:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49179039"
+        "title": "Aristotle quotes on virtue, knowledge, and happiness",
+        "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+        "description": "<p>Article URL: <a href=\"https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/\">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183115\">https://news.ycombinator.com/item?id=49183115</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 05 Aug 2026 14:06:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49183115"
+      },
+      {
+        "title": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+        "link": "https://www.vocab.top/",
+        "description": "<p>Article URL: <a href=\"https://www.vocab.top/\">https://www.vocab.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183110\">https://news.ycombinator.com/item?id=49183110</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 05 Aug 2026 14:06:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49183110"
+      },
+      {
+        "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+        "link": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+        "description": "<p>Article URL: <a href=\"https://rubinobservatory.org/news/rubin-new-window-cosmos-field\">https://rubinobservatory.org/news/rubin-new-window-cosmos-field</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183079\">https://news.ycombinator.com/item?id=49183079</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 05 Aug 2026 14:04:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49183079"
+      },
+      {
+        "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
+        "link": "https://tson.io/",
+        "description": "<p>Article URL: <a href=\"https://tson.io/\">https://tson.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183069\">https://news.ycombinator.com/item?id=49183069</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 05 Aug 2026 14:03:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49183069"
+      },
+      {
+        "title": "The Entropy of a Markov Chain",
+        "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+        "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain\">https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183017\">https://news.ycombinator.com/item?id=49183017</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 05 Aug 2026 14:00:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49183017"
+      },
+      {
+        "title": "Cloudflare OS: an open platform for agents, apps, and work",
+        "link": "https://blog.cloudflare.com/cloudflare-os/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cloudflare-os/\">https://blog.cloudflare.com/cloudflare-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182996\">https://news.ycombinator.com/item?id=49182996</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>",
+        "pubDate": "Wed, 05 Aug 2026 13:58:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182996"
+      },
+      {
+        "title": "Silicon Valley sees AI as the solution – for everyone else",
+        "link": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
+        "description": "<p>Article URL: <a href=\"https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem\">https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182985\">https://news.ycombinator.com/item?id=49182985</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 05 Aug 2026 13:58:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182985"
+      },
+      {
+        "title": "Not hiring junior engineers won't solve the problem you think you have",
+        "link": "https://franciscotrindade.me/blog/the-kids-are-alright/",
+        "description": "<p>Article URL: <a href=\"https://franciscotrindade.me/blog/the-kids-are-alright/\">https://franciscotrindade.me/blog/the-kids-are-alright/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182957\">https://news.ycombinator.com/item?id=49182957</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 05 Aug 2026 13:55:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182957"
+      },
+      {
+        "title": "Building an Advanced Agentic Harness",
+        "link": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+        "description": "<p>Article URL: <a href=\"https://data4sci.com/blog/building-an-advanced-agentic-harness\">https://data4sci.com/blog/building-an-advanced-agentic-harness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182946\">https://news.ycombinator.com/item?id=49182946</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 05 Aug 2026 13:54:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182946"
+      },
+      {
+        "title": "Faster Than Ninja",
+        "link": "https://build2.org/blog/faster-than-ninja.xhtml",
+        "description": "<p>Article URL: <a href=\"https://build2.org/blog/faster-than-ninja.xhtml\">https://build2.org/blog/faster-than-ninja.xhtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182685\">https://news.ycombinator.com/item?id=49182685</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 05 Aug 2026 13:33:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182685"
+      },
+      {
+        "title": "Universities would prefer no AI",
+        "link": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+        "description": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to\">https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182679\">https://news.ycombinator.com/item?id=49182679</a></p>\n<p>Points: 16</p>\n<p># Comments: 22</p>",
+        "pubDate": "Wed, 05 Aug 2026 13:32:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182679"
+      },
+      {
+        "title": "Drone carrying explosive device causes disruption at major German airport",
+        "link": "https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl",
+        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl\">https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182229\">https://news.ycombinator.com/item?id=49182229</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 05 Aug 2026 12:58:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182229"
+      },
+      {
+        "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+        "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+        "description": "<p>Article URL: <a href=\"https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/\">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182041\">https://news.ycombinator.com/item?id=49182041</a></p>\n<p>Points: 95</p>\n<p># Comments: 32</p>",
+        "pubDate": "Wed, 05 Aug 2026 12:41:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49182041"
+      },
+      {
+        "title": "Why the Legendary Erdős Problems Are Falling to AI",
+        "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/\">https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181519\">https://news.ycombinator.com/item?id=49181519</a></p>\n<p>Points: 62</p>\n<p># Comments: 37</p>",
+        "pubDate": "Wed, 05 Aug 2026 11:49:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49181519"
+      },
+      {
+        "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+        "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/\">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181099\">https://news.ycombinator.com/item?id=49181099</a></p>\n<p>Points: 229</p>\n<p># Comments: 109</p>",
+        "pubDate": "Wed, 05 Aug 2026 11:03:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49181099"
+      },
+      {
+        "title": "Position: LLMs Can't Jump",
+        "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+        "description": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181083\">https://news.ycombinator.com/item?id=49181083</a></p>\n<p>Points: 133</p>\n<p># Comments: 81</p>",
+        "pubDate": "Wed, 05 Aug 2026 11:01:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49181083"
+      },
+      {
+        "title": "Helsinki Hacker News Meetup",
+        "link": "https://calpaterson.com/helsinki-hn.html",
+        "description": "<p>Article URL: <a href=\"https://calpaterson.com/helsinki-hn.html\">https://calpaterson.com/helsinki-hn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180407\">https://news.ycombinator.com/item?id=49180407</a></p>\n<p>Points: 162</p>\n<p># Comments: 113</p>",
+        "pubDate": "Wed, 05 Aug 2026 09:15:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49180407"
       },
       {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "link": "https://arxiv.org/abs/2607.29377",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 28</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 78</p>\n<p># Comments: 12</p>",
         "pubDate": "Wed, 05 Aug 2026 04:36:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49178608"
       },
       {
-        "title": "An SLM trained on $8 ESP32-S3",
-        "link": "https://github.com/Carloscodix/qapla",
-        "description": "<p>Article URL: <a href=\"https://github.com/Carloscodix/qapla\">https://github.com/Carloscodix/qapla</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178464\">https://news.ycombinator.com/item?id=49178464</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>",
-        "pubDate": "Wed, 05 Aug 2026 04:07:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49178464"
-      },
-      {
-        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-        "link": "https://arxiv.org/abs/2603.04221",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.04221\">https://arxiv.org/abs/2603.04221</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176983\">https://news.ycombinator.com/item?id=49176983</a></p>\n<p>Points: 82</p>\n<p># Comments: 65</p>",
-        "pubDate": "Wed, 05 Aug 2026 00:10:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176983"
-      },
-      {
-        "title": "Bugtraq is back",
-        "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-        "description": "<p>Article URL: <a href=\"https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176947\">https://news.ycombinator.com/item?id=49176947</a></p>\n<p>Points: 39</p>\n<p># Comments: 9</p>",
-        "pubDate": "Wed, 05 Aug 2026 00:05:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176947"
-      },
-      {
-        "title": "Flowise is shutting down",
-        "link": "https://flowiseai.com/sunset",
-        "description": "<p>Article URL: <a href=\"https://flowiseai.com/sunset\">https://flowiseai.com/sunset</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176920\">https://news.ycombinator.com/item?id=49176920</a></p>\n<p>Points: 46</p>\n<p># Comments: 29</p>",
-        "pubDate": "Wed, 05 Aug 2026 00:02:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176920"
-      },
-      {
-        "title": "Eight Myths on Software Engineering and GenAI",
-        "link": "https://queue.acm.org/detail.cfm?id=3807963",
-        "description": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3807963\">https://queue.acm.org/detail.cfm?id=3807963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176830\">https://news.ycombinator.com/item?id=49176830</a></p>\n<p>Points: 197</p>\n<p># Comments: 160</p>",
-        "pubDate": "Tue, 04 Aug 2026 23:50:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176830"
-      },
-      {
         "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
         "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-        "description": "<p>Article URL: <a href=\"https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176697\">https://news.ycombinator.com/item?id=49176697</a></p>\n<p>Points: 97</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176697\">https://news.ycombinator.com/item?id=49176697</a></p>\n<p>Points: 151</p>\n<p># Comments: 22</p>",
         "pubDate": "Tue, 04 Aug 2026 23:31:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49176697"
       },
       {
-        "title": "libexpat now funded by the City of Munich for up to 6 months",
-        "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-        "description": "<p>Article URL: <a href=\"https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/\">https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176606\">https://news.ycombinator.com/item?id=49176606</a></p>\n<p>Points: 260</p>\n<p># Comments: 44</p>",
-        "pubDate": "Tue, 04 Aug 2026 23:18:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176606"
-      },
-      {
-        "title": "Show HN: SIMD Viterbi Decoder in Rust",
-        "link": "https://github.com/brian-armstrong/fec",
-        "description": "<p>I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decode at runtime depending on which instruction sets are available. For small rates and orders, the entire decode lives in registers. Larger codes work through memory but take advantage of some acceleration structures.<p>I also spent some time building a tool to find optimal (max d_free) conv codes for a given rate and order. Of course, there are better mechanisms available today, but I'm happy to talk through anything I learned in the process.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176212\">https://news.ycombinator.com/item?id=49176212</a></p>\n<p>Points: 43</p>\n<p># Comments: 3</p>",
-        "pubDate": "Tue, 04 Aug 2026 22:37:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176212"
-      },
-      {
-        "title": "We finally learned to center a div, then browsers added sidebars",
-        "link": "https://seg6.space/posts/center-div/",
-        "description": "<p>Article URL: <a href=\"https://seg6.space/posts/center-div/\">https://seg6.space/posts/center-div/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176055\">https://news.ycombinator.com/item?id=49176055</a></p>\n<p>Points: 122</p>\n<p># Comments: 102</p>",
-        "pubDate": "Tue, 04 Aug 2026 22:24:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49176055"
-      },
-      {
         "title": "Pi's Minimalism Is Its Advantage",
         "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-autoresearch-and-databricks/\">https://earendil.com/posts/pi-autoresearch-and-databricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176038\">https://news.ycombinator.com/item?id=49176038</a></p>\n<p>Points: 326</p>\n<p># Comments: 125</p>",
+        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-autoresearch-and-databricks/\">https://earendil.com/posts/pi-autoresearch-and-databricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176038\">https://news.ycombinator.com/item?id=49176038</a></p>\n<p>Points: 465</p>\n<p># Comments: 236</p>",
         "pubDate": "Tue, 04 Aug 2026 22:22:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49176038"
-      },
-      {
-        "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-        "link": "https://techascent.com/blog/just-ducking-around.html",
-        "description": "<p>Article URL: <a href=\"https://techascent.com/blog/just-ducking-around.html\">https://techascent.com/blog/just-ducking-around.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175924\">https://news.ycombinator.com/item?id=49175924</a></p>\n<p>Points: 95</p>\n<p># Comments: 15</p>",
-        "pubDate": "Tue, 04 Aug 2026 22:09:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49175924"
-      },
-      {
-        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-        "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-        "description": "<p><a href=\"https://www.interpol.int/Media/Documents/Publications/Cybercrime/African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https://www.interpol.int/Media/Documents/Publications/Cyberc...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175826\">https://news.ycombinator.com/item?id=49175826</a></p>\n<p>Points: 221</p>\n<p># Comments: 169</p>",
-        "pubDate": "Tue, 04 Aug 2026 22:01:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49175826"
-      },
-      {
-        "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-        "link": "https://twitter.com/gwern/status/2084739205071343837",
-        "description": "<p><a href=\"https://twitter.com/willdepue/status/2084750925013434768\" rel=\"nofollow\">https://twitter.com/willdepue/status/2084750925013434768</a>, <a href=\"https://xcancel.com/willdepue/status/2084750925013434768\" rel=\"nofollow\">https://xcancel.com/willdepue/status/2084750925013434768</a><p><a href=\"https://gwern.net/guardian-angel\" rel=\"nofollow\">https://gwern.net/guardian-angel</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49174900\">https://news.ycombinator.com/item?id=49174900</a></p>\n<p>Points: 273</p>\n<p># Comments: 176</p>",
-        "pubDate": "Tue, 04 Aug 2026 20:48:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49174900"
-      },
-      {
-        "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-        "link": "https://deepgrove.ai/maple-preview",
-        "description": "<p>Article URL: <a href=\"https://deepgrove.ai/maple-preview\">https://deepgrove.ai/maple-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173984\">https://news.ycombinator.com/item?id=49173984</a></p>\n<p>Points: 106</p>\n<p># Comments: 31</p>",
-        "pubDate": "Tue, 04 Aug 2026 19:44:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49173984"
-      },
-      {
-        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-        "description": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/\">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173165\">https://news.ycombinator.com/item?id=49173165</a></p>\n<p>Points: 1308</p>\n<p># Comments: 74</p>",
-        "pubDate": "Tue, 04 Aug 2026 18:51:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49173165"
-      },
-      {
-        "title": "Waymo in Dallas",
-        "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-        "description": "<p>Article URL: <a href=\"https://waymo.com/blog/shorts/dallas-open-to-all/\">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172836\">https://news.ycombinator.com/item?id=49172836</a></p>\n<p>Points: 288</p>\n<p># Comments: 500</p>",
-        "pubDate": "Tue, 04 Aug 2026 18:29:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49172836"
-      },
-      {
-        "title": "The Golden Age of British Ice Cream",
-        "link": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-        "description": "<p>Article URL: <a href=\"https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream\">https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172784\">https://news.ycombinator.com/item?id=49172784</a></p>\n<p>Points: 54</p>\n<p># Comments: 40</p>",
-        "pubDate": "Tue, 04 Aug 2026 18:25:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49172784"
-      },
-      {
-        "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
-        "link": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 04 Aug 2026 17:00:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49171650"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-05T08:48:16.067Z",
+  "lastUpdated": "2026-08-05T14:27:14.570Z",
   "stats": {
     "feeds": 2,
     "articles": 20
