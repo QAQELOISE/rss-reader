@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-07T13:20:57.403Z"
+      "lastFetched": "2026-08-07T19:07:09.980Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-07T13:21:17.491Z"
+      "lastFetched": "2026-08-07T19:07:29.860Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "DOGE overstated savings, government watchdog says",
-        "link": "https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797",
-        "description": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797\">https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209368\">https://news.ycombinator.com/item?id=49209368</a></p>\n<p>Points: 22</p>\n<p># Comments: 5</p>",
-        "pubDate": "Fri, 07 Aug 2026 12:27:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49209368"
+        "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+        "link": "https://ancientlibrary.net/",
+        "description": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=49214770</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 07 Aug 2026 18:51:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49214770"
       },
       {
-        "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
-        "link": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
-        "description": "<p>Article URL: <a href=\"https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668\">https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208341\">https://news.ycombinator.com/item?id=49208341</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 07 Aug 2026 10:33:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49208341"
+        "title": "Assembly Hall of Shame",
+        "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/asm-hall-of-shame\">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214098\">https://news.ycombinator.com/item?id=49214098</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 07 Aug 2026 18:01:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49214098"
       },
       {
-        "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-        "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1e1vg0gjl5o\">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208314\">https://news.ycombinator.com/item?id=49208314</a></p>\n<p>Points: 391</p>\n<p># Comments: 359</p>",
-        "pubDate": "Fri, 07 Aug 2026 10:28:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49208314"
+        "title": "DeepSeek V4 Flash 0731",
+        "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "description": "<p>Article URL: <a href=\"https://arcprize.org/results/deepseek-v4-flash-0731\">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214008\">https://news.ycombinator.com/item?id=49214008</a></p>\n<p>Points: 100</p>\n<p># Comments: 60</p>",
+        "pubDate": "Fri, 07 Aug 2026 17:56:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49214008"
       },
       {
-        "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-        "link": "https://github.com/schroedinger-Hat/certo",
-        "description": "<p>Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.<p>It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentials portable, machine-verifiable, and vendor-independent.<p>It is designed to be:<p>- Self-hosted: run it inside your own infrastructure, air-gapped network, or sovereign cloud\n- Standards-compliant: credentials it issues work with any OB3/VC-compatible system\n- API-first: everything the UI can do, the API can do\n- Exportable: your data is always yours, in open formats\n- Extensible: a small, stable core with a plugin interface for everything else<p>A demo is available at <a href=\"https://certo.schroedinger-hat.org/\" rel=\"nofollow\">https://certo.schroedinger-hat.org/</a> which we're using for Schrödinger Hat[3] conferences, workshops, partner communities.<p>I'll be around if you have any questions. Feel free to give a feedback on the project.<p>[1] <a href=\"https://www.imsglobal.org/spec/ob/v3p0\" rel=\"nofollow\">https://www.imsglobal.org/spec/ob/v3p0</a>\n[2] <a href=\"https://www.w3.org/TR/vc-data-model/\" rel=\"nofollow\">https://www.w3.org/TR/vc-data-model/</a>\n[3] <a href=\"https://schroedinger-hat.org/\" rel=\"nofollow\">https://schroedinger-hat.org/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207793\">https://news.ycombinator.com/item?id=49207793</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 07 Aug 2026 09:10:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49207793"
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "description": "<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213754\">https://news.ycombinator.com/item?id=49213754</a></p>\n<p>Points: 175</p>\n<p># Comments: 106</p>",
+        "pubDate": "Fri, 07 Aug 2026 17:36:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49213754"
       },
       {
-        "title": "Framework discloses data breach via Metabase 0-day",
-        "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-        "description": "<p>Article URL: <a href=\"https://community.frame.work/t/framework-data-breach-discussion/83939\">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206130\">https://news.ycombinator.com/item?id=49206130</a></p>\n<p>Points: 113</p>\n<p># Comments: 39</p>",
-        "pubDate": "Fri, 07 Aug 2026 05:17:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49206130"
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?id=49213029</a></p>\n<p>Points: 88</p>\n<p># Comments: 91</p>",
+        "pubDate": "Fri, 07 Aug 2026 16:39:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49213029"
       },
       {
-        "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-        "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-        "description": "<p>Article URL: <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204546\">https://news.ycombinator.com/item?id=49204546</a></p>\n<p>Points: 66</p>\n<p># Comments: 104</p>",
-        "pubDate": "Fri, 07 Aug 2026 00:37:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49204546"
+        "title": "This Mine Predicts Major Wars. It's Opening Again",
+        "link": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/\">https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49212698\">https://news.ycombinator.com/item?id=49212698</a></p>\n<p>Points: 50</p>\n<p># Comments: 15</p>",
+        "pubDate": "Fri, 07 Aug 2026 16:14:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49212698"
+      },
+      {
+        "title": "An all-sky map of half a million supermassive black holes",
+        "link": "https://www.sdss.org/black-hole-mapper-release-20/",
+        "description": "<p>Article URL: <a href=\"https://www.sdss.org/black-hole-mapper-release-20/\">https://www.sdss.org/black-hole-mapper-release-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211921\">https://news.ycombinator.com/item?id=49211921</a></p>\n<p>Points: 85</p>\n<p># Comments: 28</p>",
+        "pubDate": "Fri, 07 Aug 2026 15:24:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49211921"
+      },
+      {
+        "title": "Möbius-Strip Crosswords",
+        "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+        "description": "<p>Article URL: <a href=\"https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/\">https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211660\">https://news.ycombinator.com/item?id=49211660</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 07 Aug 2026 15:10:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49211660"
+      },
+      {
+        "title": "A year of fighting scrapers on my 1.5 million-page website",
+        "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+        "description": "<p>Article URL: <a href=\"https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211386\">https://news.ycombinator.com/item?id=49211386</a></p>\n<p>Points: 288</p>\n<p># Comments: 276</p>",
+        "pubDate": "Fri, 07 Aug 2026 14:51:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49211386"
+      },
+      {
+        "title": "USA Today Co., partners with Palantir to analyze audience data",
+        "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/\">https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49210589\">https://news.ycombinator.com/item?id=49210589</a></p>\n<p>Points: 165</p>\n<p># Comments: 67</p>",
+        "pubDate": "Fri, 07 Aug 2026 14:02:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49210589"
+      },
+      {
+        "title": "Show HN: Wyzer Programming Language",
+        "link": "https://github.com/Wyzer-Lang/wyzer",
+        "description": "<p>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209385\">https://news.ycombinator.com/item?id=49209385</a></p>\n<p>Points: 144</p>\n<p># Comments: 79</p>",
+        "pubDate": "Fri, 07 Aug 2026 12:28:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49209385"
+      },
+      {
+        "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+        "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+        "description": "<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 166</p>\n<p># Comments: 77</p>",
+        "pubDate": "Fri, 07 Aug 2026 11:00:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49208535"
+      },
+      {
+        "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+        "link": "https://textlog.cc/about",
+        "description": "<p>Article URL: <a href=\"https://textlog.cc/about\">https://textlog.cc/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208458\">https://news.ycombinator.com/item?id=49208458</a></p>\n<p>Points: 96</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 07 Aug 2026 10:52:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49208458"
+      },
+      {
+        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+        "link": "https://blog.cloudflare.com/kitesurf/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kitesurf/\">https://blog.cloudflare.com/kitesurf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208393\">https://news.ycombinator.com/item?id=49208393</a></p>\n<p>Points: 104</p>\n<p># Comments: 27</p>",
+        "pubDate": "Fri, 07 Aug 2026 10:42:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49208393"
       },
       {
         "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
         "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-        "description": "<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 403</p>\n<p># Comments: 248</p>",
+        "description": "<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 642</p>\n<p># Comments: 356</p>",
         "pubDate": "Fri, 07 Aug 2026 00:06:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49204352"
       },
       {
         "title": "Welcoming the Nepalese Government to Have I Been Pwned",
         "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-        "description": "<p>Article URL: <a href=\"https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203105\">https://news.ycombinator.com/item?id=49203105</a></p>\n<p>Points: 175</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203105\">https://news.ycombinator.com/item?id=49203105</a></p>\n<p>Points: 203</p>\n<p># Comments: 33</p>",
         "pubDate": "Thu, 06 Aug 2026 21:52:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49203105"
       },
       {
-        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-        "link": "https://www.aleksagordic.com/blog/vllm",
-        "description": "<p>Article URL: <a href=\"https://www.aleksagordic.com/blog/vllm\">https://www.aleksagordic.com/blog/vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202852\">https://news.ycombinator.com/item?id=49202852</a></p>\n<p>Points: 127</p>\n<p># Comments: 8</p>",
-        "pubDate": "Thu, 06 Aug 2026 21:30:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49202852"
-      },
-      {
         "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
         "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260803080917.htm\">https://www.sciencedaily.com/releases/2026/08/260803080917.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202716\">https://news.ycombinator.com/item?id=49202716</a></p>\n<p>Points: 158</p>\n<p># Comments: 45</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260803080917.htm\">https://www.sciencedaily.com/releases/2026/08/260803080917.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202716\">https://news.ycombinator.com/item?id=49202716</a></p>\n<p>Points: 196</p>\n<p># Comments: 59</p>",
         "pubDate": "Thu, 06 Aug 2026 21:18:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=49202716"
       },
       {
-        "title": "What is a product?",
-        "link": "https://roge.onwrite.app/what-is-a-product",
-        "description": "<p>Article URL: <a href=\"https://roge.onwrite.app/what-is-a-product\">https://roge.onwrite.app/what-is-a-product</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202690\">https://news.ycombinator.com/item?id=49202690</a></p>\n<p>Points: 80</p>\n<p># Comments: 51</p>",
-        "pubDate": "Thu, 06 Aug 2026 21:16:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49202690"
-      },
-      {
         "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "description": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 739</p>\n<p># Comments: 561</p>",
+        "description": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 847</p>\n<p># Comments: 637</p>",
         "pubDate": "Thu, 06 Aug 2026 20:23:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49201970"
       },
       {
-        "title": "Herdr is joining Y Combinator. The runtime stays open",
-        "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-        "description": "<p>Article URL: <a href=\"https://herdr.dev/blog/herdr-is-joining-y-combinator/\">https://herdr.dev/blog/herdr-is-joining-y-combinator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201003\">https://news.ycombinator.com/item?id=49201003</a></p>\n<p>Points: 237</p>\n<p># Comments: 165</p>",
-        "pubDate": "Thu, 06 Aug 2026 19:14:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49201003"
-      },
-      {
-        "title": "My phone detects going on a run as “someone snatching my phone and running off”",
-        "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-        "description": "<p>Article URL: <a href=\"https://mastodon.gamedev.place/@rygorous/117047697255584965\">https://mastodon.gamedev.place/@rygorous/117047697255584965</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49200439\">https://news.ycombinator.com/item?id=49200439</a></p>\n<p>Points: 161</p>\n<p># Comments: 282</p>",
-        "pubDate": "Thu, 06 Aug 2026 18:26:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49200439"
-      },
-      {
         "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
         "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199357\">https://news.ycombinator.com/item?id=49199357</a></p>\n<p>Points: 260</p>\n<p># Comments: 211</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199357\">https://news.ycombinator.com/item?id=49199357</a></p>\n<p>Points: 300</p>\n<p># Comments: 247</p>",
         "pubDate": "Thu, 06 Aug 2026 17:02:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49199357"
       },
       {
         "title": "Taste Is All That's Left",
         "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-        "description": "<p>Article URL: <a href=\"https://notashelf.dev/posts/taste-is-all-thats-left\">https://notashelf.dev/posts/taste-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199346\">https://news.ycombinator.com/item?id=49199346</a></p>\n<p>Points: 507</p>\n<p># Comments: 376</p>",
+        "description": "<p>Article URL: <a href=\"https://notashelf.dev/posts/taste-is-all-thats-left\">https://notashelf.dev/posts/taste-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199346\">https://news.ycombinator.com/item?id=49199346</a></p>\n<p>Points: 624</p>\n<p># Comments: 497</p>",
         "pubDate": "Thu, 06 Aug 2026 17:01:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49199346"
-      },
-      {
-        "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-        "link": "https://provenmetal.com",
-        "description": "<p>Hey HN, we’re Will & Johnny from ProvenMetal (<a href=\"https://provenmetal.com\">https://provenmetal.com</a>). You send us design files or specs and we give you assembled boards domestically in days.<p>The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.<p>Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run manufacturers (CMs) that have been operating in largely the same, labor intensive way since the early 2000’s.<p>When you place an order through a CM it typically takes several days to receive a quote and complete design for manufacture review, and then you have to source all of the components (the hardest part) and bare boards yourself, then wait anywhere from a few days to several weeks for the assembly and testing of those boards.<p>We started off assembling circuit boards out of a garage with prosumer grade equipment (NeoDen YY1, Glenbrook X-ray, solder paste stencils, and manual rework stations). We believed that by owning the manufacturing process, we could turn all the front of house automations inwards. But here’s the thing… manufacturing circuit boards with prosumer grade equipment out of a garage takes a huge amount of time. Suddenly we were spending 90% of our time assembling circuit boards instead of growing the business. We were completely capacity constrained, with fancy software automations that are not the binding constraint at low volumes.<p>Then we got our heads out of the weeds, took a step back, and realized that we were trying to solve the wrong bottlenecks.<p>These manufacturers are good at manufacturing and terrible at the front of house (quoting, DFM review, and part procurement). When you look at the full process, you realize that assembly is not the bottleneck. So we stopped trying to solve the problem that we can’t solve at this stage.<p>We measured the bottlenecks and nailed down the ones that we are best positioned to solve right now.<p>When a customer wants a domestically manufactured circuit board, it is not a straight forward process. We are making that process easy through front of house automation. A customer gives us their design files, and we automatically procure components, and co-ordinate bare board fabs and assembly houses to get quotes, design review, and manufacturing completed in a very tight loop.<p>How we solve part procurement (you can’t assemble boards with no parts!): When a user places an order with us, our system automatically sources their bill of materials across US and overseas distributors. However, when we work with customers during the design process, our plug-ins interact with KiCAD and Altium, sending the BOM to our ordering platform, which allows us to automatically procure components before layout is finalized.<p>KiCAD plugin: (<a href=\"https://github.com/proven-metal/provenmetal-kicad\" rel=\"nofollow\">https://github.com/proven-metal/provenmetal-kicad</a>)<p>Altium plugin: (<a href=\"https://github.com/proven-metal/provenmetal-altium\" rel=\"nofollow\">https://github.com/proven-metal/provenmetal-altium</a>)<p>This enables us to order long lead time parts in advance, suggest alternatives if parts are out of stock, and solve the biggest bottleneck in the process. We store parts in our hq in SF, and then kit the boards and route them through our network. We also do long term storage of parts for long lead time items.<p>How we solve endless emails: Every manufacturer wants the same information in a different shape. There’s usually a few days of back and forth emailing to achieve clarity. We’re building a profile per manufacturer and sending the order to fit their requirements. This may sound trivial but it removes a multi-day round trip on most orders, which on a quick-turn build is a meaningful share of the time.<p>How to solve design review: Each manufacturer has individual capability sheets, and so we have a heuristic harness that Fable 5 uses to check the board for DFM issues. We’re building a streamlined process for end-to-end pcb manufacturing, but is that enough to solve the supply chain? Not a chance. Capacity is the problem, and no amount of smart software will solve it. We’re extracting real slack from the system today, that slack is finite, and at some volume the only remaining move is adding physical capacity. We think that’s where this goes.<p>We charge a simple margin on the order value depending on order complexity with fully transparent quote breakdowns. We took our first paying order in less than a week and we’ve done roughly $70k across 11 orders in 6 weeks.<p>We are very interested in your opinion. We’re working in a problem space that has problems everywhere, we’re constantly pulled in wild directions regarding which problems we solve and how we go about solving them. What do you know that we can learn from?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198464\">https://news.ycombinator.com/item?id=49198464</a></p>\n<p>Points: 211</p>\n<p># Comments: 149</p>",
-        "pubDate": "Thu, 06 Aug 2026 15:59:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49198464"
-      },
-      {
-        "title": "GitHub Actions and Pages are experiencing degraded availability",
-        "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-        "description": "<p><a href=\"https://www.githubstatus.com/uptime/br0l2tvcx85d\" rel=\"nofollow\">https://www.githubstatus.com/uptime/br0l2tvcx85d</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198302\">https://news.ycombinator.com/item?id=49198302</a></p>\n<p>Points: 432</p>\n<p># Comments: 354</p>",
-        "pubDate": "Thu, 06 Aug 2026 15:49:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49198302"
-      },
-      {
-        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-        "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-        "description": "<p>Article URL: <a href=\"https://scalex.dev/blog/ai-agent-permissions-stats/\">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195468\">https://news.ycombinator.com/item?id=49195468</a></p>\n<p>Points: 319</p>\n<p># Comments: 224</p>",
-        "pubDate": "Thu, 06 Aug 2026 11:58:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49195468"
-      },
-      {
-        "title": "Mario Meets Pareto",
-        "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-        "description": "<p>Article URL: <a href=\"https://www.mayerowitz.io/blog/mario-meets-pareto\">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195231\">https://news.ycombinator.com/item?id=49195231</a></p>\n<p>Points: 1077</p>\n<p># Comments: 161</p>",
-        "pubDate": "Thu, 06 Aug 2026 11:24:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49195231"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-07T13:21:17.492Z",
+  "lastUpdated": "2026-08-07T19:07:29.860Z",
   "stats": {
     "feeds": 2,
     "articles": 20
