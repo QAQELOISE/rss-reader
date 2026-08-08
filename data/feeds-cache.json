@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-07T19:07:09.980Z"
+      "lastFetched": "2026-08-08T02:07:56.127Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-07T19:07:29.860Z"
+      "lastFetched": "2026-08-08T02:07:56.306Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "The Nixpkgs core team has disbanded",
+        "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "description": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sat, 08 Aug 2026 01:12:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49217993"
+      },
+      {
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "link": "https://genesisopenmodels.anl.gov/",
+        "description": "<p>Article URL: <a href=\"https://genesisopenmodels.anl.gov/\">https://genesisopenmodels.anl.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216946\">https://news.ycombinator.com/item?id=49216946</a></p>\n<p>Points: 91</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 07 Aug 2026 22:24:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49216946"
+      },
+      {
+        "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+        "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+        "description": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216362\">https://news.ycombinator.com/item?id=49216362</a></p>\n<p>Points: 125</p>\n<p># Comments: 84</p>",
+        "pubDate": "Fri, 07 Aug 2026 21:19:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49216362"
+      },
+      {
+        "title": "Psychological Warfare in Reverse Engineering (2015)",
+        "link": "https://github.com/xoreaxeaxeax/repsych",
+        "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/repsych\">https://github.com/xoreaxeaxeax/repsych</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214775\">https://news.ycombinator.com/item?id=49214775</a></p>\n<p>Points: 52</p>\n<p># Comments: 2</p>",
+        "pubDate": "Fri, 07 Aug 2026 18:51:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49214775"
+      },
+      {
         "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "link": "https://ancientlibrary.net/",
-        "description": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=49214770</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=49214770</a></p>\n<p>Points: 149</p>\n<p># Comments: 49</p>",
         "pubDate": "Fri, 07 Aug 2026 18:51:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=49214770"
       },
       {
+        "title": "Managing AI Coding Costs at Scale",
+        "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "description": "<p>Article URL: <a href=\"https://www.databricks.com/blog/managing-ai-coding-costs-scale\">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214468\">https://news.ycombinator.com/item?id=49214468</a></p>\n<p>Points: 168</p>\n<p># Comments: 173</p>",
+        "pubDate": "Fri, 07 Aug 2026 18:25:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49214468"
+      },
+      {
         "title": "Assembly Hall of Shame",
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/asm-hall-of-shame\">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214098\">https://news.ycombinator.com/item?id=49214098</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/asm-hall-of-shame\">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214098\">https://news.ycombinator.com/item?id=49214098</a></p>\n<p>Points: 252</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 07 Aug 2026 18:01:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49214098"
       },
       {
         "title": "DeepSeek V4 Flash 0731",
         "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "description": "<p>Article URL: <a href=\"https://arcprize.org/results/deepseek-v4-flash-0731\">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214008\">https://news.ycombinator.com/item?id=49214008</a></p>\n<p>Points: 100</p>\n<p># Comments: 60</p>",
+        "description": "<p>Article URL: <a href=\"https://arcprize.org/results/deepseek-v4-flash-0731\">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214008\">https://news.ycombinator.com/item?id=49214008</a></p>\n<p>Points: 468</p>\n<p># Comments: 280</p>",
         "pubDate": "Fri, 07 Aug 2026 17:56:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49214008"
       },
       {
         "title": "Oracle bans AI-generated code from OpenJDK",
         "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "description": "<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213754\">https://news.ycombinator.com/item?id=49213754</a></p>\n<p>Points: 175</p>\n<p># Comments: 106</p>",
+        "description": "<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213754\">https://news.ycombinator.com/item?id=49213754</a></p>\n<p>Points: 391</p>\n<p># Comments: 257</p>",
         "pubDate": "Fri, 07 Aug 2026 17:36:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49213754"
       },
       {
         "title": "Responding to the next frontier of critical cyber capabilities",
         "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?id=49213029</a></p>\n<p>Points: 88</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?id=49213029</a></p>\n<p>Points: 155</p>\n<p># Comments: 167</p>",
         "pubDate": "Fri, 07 Aug 2026 16:39:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49213029"
       },
       {
-        "title": "This Mine Predicts Major Wars. It's Opening Again",
-        "link": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
-        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/\">https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49212698\">https://news.ycombinator.com/item?id=49212698</a></p>\n<p>Points: 50</p>\n<p># Comments: 15</p>",
-        "pubDate": "Fri, 07 Aug 2026 16:14:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49212698"
-      },
-      {
         "title": "An all-sky map of half a million supermassive black holes",
         "link": "https://www.sdss.org/black-hole-mapper-release-20/",
-        "description": "<p>Article URL: <a href=\"https://www.sdss.org/black-hole-mapper-release-20/\">https://www.sdss.org/black-hole-mapper-release-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211921\">https://news.ycombinator.com/item?id=49211921</a></p>\n<p>Points: 85</p>\n<p># Comments: 28</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sdss.org/black-hole-mapper-release-20/\">https://www.sdss.org/black-hole-mapper-release-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211921\">https://news.ycombinator.com/item?id=49211921</a></p>\n<p>Points: 141</p>\n<p># Comments: 35</p>",
         "pubDate": "Fri, 07 Aug 2026 15:24:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49211921"
       },
       {
         "title": "Möbius-Strip Crosswords",
         "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-        "description": "<p>Article URL: <a href=\"https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/\">https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211660\">https://news.ycombinator.com/item?id=49211660</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/\">https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211660\">https://news.ycombinator.com/item?id=49211660</a></p>\n<p>Points: 53</p>\n<p># Comments: 7</p>",
         "pubDate": "Fri, 07 Aug 2026 15:10:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49211660"
       },
       {
         "title": "A year of fighting scrapers on my 1.5 million-page website",
         "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-        "description": "<p>Article URL: <a href=\"https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211386\">https://news.ycombinator.com/item?id=49211386</a></p>\n<p>Points: 288</p>\n<p># Comments: 276</p>",
+        "description": "<p>Article URL: <a href=\"https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211386\">https://news.ycombinator.com/item?id=49211386</a></p>\n<p>Points: 376</p>\n<p># Comments: 358</p>",
         "pubDate": "Fri, 07 Aug 2026 14:51:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49211386"
       },
       {
-        "title": "USA Today Co., partners with Palantir to analyze audience data",
-        "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/\">https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49210589\">https://news.ycombinator.com/item?id=49210589</a></p>\n<p>Points: 165</p>\n<p># Comments: 67</p>",
-        "pubDate": "Fri, 07 Aug 2026 14:02:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49210589"
+        "title": "Radical Study Suggests Life on Earth Arose Twice",
+        "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+        "description": "<p>Article URL: <a href=\"https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice\">https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209572\">https://news.ycombinator.com/item?id=49209572</a></p>\n<p>Points: 96</p>\n<p># Comments: 85</p>",
+        "pubDate": "Fri, 07 Aug 2026 12:45:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49209572"
+      },
+      {
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+        "description": "<p>Article URL: <a href=\"https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\">https://www.noemamag.com/why-is-everyone-in-tech-so-sad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209539\">https://news.ycombinator.com/item?id=49209539</a></p>\n<p>Points: 429</p>\n<p># Comments: 535</p>",
+        "pubDate": "Fri, 07 Aug 2026 12:42:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49209539"
       },
       {
         "title": "Show HN: Wyzer Programming Language",
         "link": "https://github.com/Wyzer-Lang/wyzer",
-        "description": "<p>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209385\">https://news.ycombinator.com/item?id=49209385</a></p>\n<p>Points: 144</p>\n<p># Comments: 79</p>",
+        "description": "<p>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209385\">https://news.ycombinator.com/item?id=49209385</a></p>\n<p>Points: 173</p>\n<p># Comments: 100</p>",
         "pubDate": "Fri, 07 Aug 2026 12:28:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49209385"
       },
       {
         "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
         "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-        "description": "<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 166</p>\n<p># Comments: 77</p>",
+        "description": "<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 249</p>\n<p># Comments: 118</p>",
         "pubDate": "Fri, 07 Aug 2026 11:00:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49208535"
       },
       {
         "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
         "link": "https://textlog.cc/about",
-        "description": "<p>Article URL: <a href=\"https://textlog.cc/about\">https://textlog.cc/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208458\">https://news.ycombinator.com/item?id=49208458</a></p>\n<p>Points: 96</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://textlog.cc/about\">https://textlog.cc/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208458\">https://news.ycombinator.com/item?id=49208458</a></p>\n<p>Points: 139</p>\n<p># Comments: 60</p>",
         "pubDate": "Fri, 07 Aug 2026 10:52:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49208458"
       },
       {
         "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
         "link": "https://blog.cloudflare.com/kitesurf/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kitesurf/\">https://blog.cloudflare.com/kitesurf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208393\">https://news.ycombinator.com/item?id=49208393</a></p>\n<p>Points: 104</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kitesurf/\">https://blog.cloudflare.com/kitesurf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208393\">https://news.ycombinator.com/item?id=49208393</a></p>\n<p>Points: 166</p>\n<p># Comments: 43</p>",
         "pubDate": "Fri, 07 Aug 2026 10:42:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49208393"
       },
       {
-        "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-        "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-        "description": "<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 642</p>\n<p># Comments: 356</p>",
-        "pubDate": "Fri, 07 Aug 2026 00:06:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49204352"
-      },
-      {
-        "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-        "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-        "description": "<p>Article URL: <a href=\"https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203105\">https://news.ycombinator.com/item?id=49203105</a></p>\n<p>Points: 203</p>\n<p># Comments: 33</p>",
-        "pubDate": "Thu, 06 Aug 2026 21:52:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49203105"
-      },
-      {
-        "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-        "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260803080917.htm\">https://www.sciencedaily.com/releases/2026/08/260803080917.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202716\">https://news.ycombinator.com/item?id=49202716</a></p>\n<p>Points: 196</p>\n<p># Comments: 59</p>",
-        "pubDate": "Thu, 06 Aug 2026 21:18:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49202716"
-      },
-      {
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "description": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 847</p>\n<p># Comments: 637</p>",
-        "pubDate": "Thu, 06 Aug 2026 20:23:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49201970"
-      },
-      {
-        "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-        "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199357\">https://news.ycombinator.com/item?id=49199357</a></p>\n<p>Points: 300</p>\n<p># Comments: 247</p>",
-        "pubDate": "Thu, 06 Aug 2026 17:02:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49199357"
-      },
-      {
-        "title": "Taste Is All That's Left",
-        "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-        "description": "<p>Article URL: <a href=\"https://notashelf.dev/posts/taste-is-all-thats-left\">https://notashelf.dev/posts/taste-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199346\">https://news.ycombinator.com/item?id=49199346</a></p>\n<p>Points: 624</p>\n<p># Comments: 497</p>",
-        "pubDate": "Thu, 06 Aug 2026 17:01:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49199346"
+        "title": "2027 memory capacity is reportedly sold out",
+        "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+        "description": "<p>Article URL: <a href=\"https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207236\">https://news.ycombinator.com/item?id=49207236</a></p>\n<p>Points: 241</p>\n<p># Comments: 226</p>",
+        "pubDate": "Fri, 07 Aug 2026 07:58:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49207236"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-07T19:07:29.860Z",
+  "lastUpdated": "2026-08-08T02:07:56.306Z",
   "stats": {
     "feeds": 2,
     "articles": 20
