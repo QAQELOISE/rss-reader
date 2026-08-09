@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-09T02:20:32.612Z"
+      "lastFetched": "2026-08-09T07:07:37.501Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-09T02:20:40.780Z"
+      "lastFetched": "2026-08-09T07:07:56.883Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "The AI Apocalypse Is Here",
-        "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-        "description": "<p>Article URL: <a href=\"https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227521\">https://news.ycombinator.com/item?id=49227521</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 09 Aug 2026 01:28:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49227521"
+        "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+        "link": "https://github.com/jmarshall23/msword",
+        "description": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 09 Aug 2026 05:23:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49228663"
+      },
+      {
+        "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+        "link": "http://longbets.org/601/",
+        "description": "<p>Article URL: <a href=\"http://longbets.org/601/\">http://longbets.org/601/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228458\">https://news.ycombinator.com/item?id=49228458</a></p>\n<p>Points: 101</p>\n<p># Comments: 17</p>",
+        "pubDate": "Sun, 09 Aug 2026 04:30:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49228458"
+      },
+      {
+        "title": "Illinois just told every operating system to start reporting your kid's age",
+        "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
+        "description": "<p>Article URL: <a href=\"https://itsfoss.com/news/illinois-age-verification-bill/\">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228350\">https://news.ycombinator.com/item?id=49228350</a></p>\n<p>Points: 54</p>\n<p># Comments: 26</p>",
+        "pubDate": "Sun, 09 Aug 2026 04:03:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49228350"
+      },
+      {
+        "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+        "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+        "description": "<p>Article URL: <a href=\"https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week\">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228166\">https://news.ycombinator.com/item?id=49228166</a></p>\n<p>Points: 119</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sun, 09 Aug 2026 03:26:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49228166"
+      },
+      {
+        "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+        "link": "https://marketnow.site/",
+        "description": "<p>Article URL: <a href=\"https://marketnow.site/\">https://marketnow.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228086\">https://news.ycombinator.com/item?id=49228086</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 09 Aug 2026 03:13:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49228086"
+      },
+      {
+        "title": "\"Coding is solved\" misses the point",
+        "link": "https://blog.mastykarz.nl/coding-is-solved-misses-the-point/",
+        "description": "<p>Article URL: <a href=\"https://blog.mastykarz.nl/coding-is-solved-misses-the-point/\">https://blog.mastykarz.nl/coding-is-solved-misses-the-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227655\">https://news.ycombinator.com/item?id=49227655</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 09 Aug 2026 01:50:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49227655"
+      },
+      {
+        "title": "Incentives are for losers",
+        "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
+        "description": "<p>Article URL: <a href=\"https://www.experimental-history.com/p/incentives-are-for-losers\">https://www.experimental-history.com/p/incentives-are-for-losers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227652\">https://news.ycombinator.com/item?id=49227652</a></p>\n<p>Points: 66</p>\n<p># Comments: 31</p>",
+        "pubDate": "Sun, 09 Aug 2026 01:49:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49227652"
+      },
+      {
+        "title": "TheoremDB – A public workspace for machine mathematics",
+        "link": "https://theoremdb.org/",
+        "description": "<p>Article URL: <a href=\"https://theoremdb.org/\">https://theoremdb.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227505\">https://news.ycombinator.com/item?id=49227505</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 09 Aug 2026 01:23:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49227505"
+      },
+      {
+        "title": "Melatonin impairs morning cognition in healthy young adults",
+        "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+        "description": "<p>Article URL: <a href=\"https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621\">https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227365\">https://news.ycombinator.com/item?id=49227365</a></p>\n<p>Points: 71</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 09 Aug 2026 00:59:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49227365"
       },
       {
         "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
         "link": "https://os8088.com/",
-        "description": "<p>Article URL: <a href=\"https://os8088.com/\">https://os8088.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226923\">https://news.ycombinator.com/item?id=49226923</a></p>\n<p>Points: 43</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://os8088.com/\">https://os8088.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226923\">https://news.ycombinator.com/item?id=49226923</a></p>\n<p>Points: 125</p>\n<p># Comments: 51</p>",
         "pubDate": "Sat, 08 Aug 2026 23:37:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49226923"
       },
       {
         "title": "Dithered QR Codes",
         "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-        "description": "<p>Article URL: <a href=\"https://www.andrewt.net/dithered-qr-codes/wtf/\">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226742\">https://news.ycombinator.com/item?id=49226742</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://www.andrewt.net/dithered-qr-codes/wtf/\">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226742\">https://news.ycombinator.com/item?id=49226742</a></p>\n<p>Points: 135</p>\n<p># Comments: 15</p>",
         "pubDate": "Sat, 08 Aug 2026 23:05:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49226742"
       },
       {
         "title": "My server is a phone now",
         "link": "https://seg6.space/posts/phone-server/",
-        "description": "<p>Article URL: <a href=\"https://seg6.space/posts/phone-server/\">https://seg6.space/posts/phone-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226636\">https://news.ycombinator.com/item?id=49226636</a></p>\n<p>Points: 108</p>\n<p># Comments: 47</p>",
+        "description": "<p>Article URL: <a href=\"https://seg6.space/posts/phone-server/\">https://seg6.space/posts/phone-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226636\">https://news.ycombinator.com/item?id=49226636</a></p>\n<p>Points: 250</p>\n<p># Comments: 90</p>",
         "pubDate": "Sat, 08 Aug 2026 22:49:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49226636"
       },
       {
-        "title": "Should you stop cracking your knuckles?",
-        "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\">https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226563\">https://news.ycombinator.com/item?id=49226563</a></p>\n<p>Points: 13</p>\n<p># Comments: 9</p>",
-        "pubDate": "Sat, 08 Aug 2026 22:36:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49226563"
-      },
-      {
         "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
         "link": "https://shopify.engineering/scaling-inventory-reservations",
-        "description": "<p>Article URL: <a href=\"https://shopify.engineering/scaling-inventory-reservations\">https://shopify.engineering/scaling-inventory-reservations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226536\">https://news.ycombinator.com/item?id=49226536</a></p>\n<p>Points: 57</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://shopify.engineering/scaling-inventory-reservations\">https://shopify.engineering/scaling-inventory-reservations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226536\">https://news.ycombinator.com/item?id=49226536</a></p>\n<p>Points: 151</p>\n<p># Comments: 81</p>",
         "pubDate": "Sat, 08 Aug 2026 22:32:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49226536"
       },
       {
-        "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-        "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-        "description": "<p>Article URL: <a href=\"https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/\">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225918\">https://news.ycombinator.com/item?id=49225918</a></p>\n<p>Points: 94</p>\n<p># Comments: 53</p>",
-        "pubDate": "Sat, 08 Aug 2026 21:07:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49225918"
-      },
-      {
-        "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960)",
-        "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-        "description": "<p>Article URL: <a href=\"https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf\">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225676\">https://news.ycombinator.com/item?id=49225676</a></p>\n<p>Points: 29</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sat, 08 Aug 2026 20:37:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49225676"
-      },
-      {
         "title": "Open-source interactive map for the Aug 12 total solar eclipse",
         "link": "https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute",
-        "description": "<p>Article URL: <a href=\"https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute\">https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225139\">https://news.ycombinator.com/item?id=49225139</a></p>\n<p>Points: 93</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute\">https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225139\">https://news.ycombinator.com/item?id=49225139</a></p>\n<p>Points: 127</p>\n<p># Comments: 27</p>",
         "pubDate": "Sat, 08 Aug 2026 19:38:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49225139"
       },
       {
-        "title": "Danish high schoolers will have to verbally defend written assignments",
-        "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-        "description": "<p>Article URL: <a href=\"https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224294\">https://news.ycombinator.com/item?id=49224294</a></p>\n<p>Points: 518</p>\n<p># Comments: 246</p>",
-        "pubDate": "Sat, 08 Aug 2026 18:09:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49224294"
-      },
-      {
-        "title": "TinySol, a tiny solitaire game for DOS",
-        "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
-        "description": "<p>Article URL: <a href=\"https://classicbits.net/coding-and-software/my-software/monosol/\">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224020\">https://news.ycombinator.com/item?id=49224020</a></p>\n<p>Points: 49</p>\n<p># Comments: 12</p>",
-        "pubDate": "Sat, 08 Aug 2026 17:42:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49224020"
-      },
-      {
         "title": "Fastmail offers EU data region",
         "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-        "description": "<p>Article URL: <a href=\"https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223082\">https://news.ycombinator.com/item?id=49223082</a></p>\n<p>Points: 327</p>\n<p># Comments: 149</p>",
+        "description": "<p>Article URL: <a href=\"https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223082\">https://news.ycombinator.com/item?id=49223082</a></p>\n<p>Points: 373</p>\n<p># Comments: 189</p>",
         "pubDate": "Sat, 08 Aug 2026 16:04:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49223082"
       },
       {
-        "title": "Can Intel finally beat ARM on performance per Watt?",
-        "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-        "description": "<p>Article URL: <a href=\"https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/\">https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223079\">https://news.ycombinator.com/item?id=49223079</a></p>\n<p>Points: 168</p>\n<p># Comments: 103</p>",
-        "pubDate": "Sat, 08 Aug 2026 16:04:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49223079"
-      },
-      {
         "title": "Message your other Claude Code sessions",
         "link": "https://code.claude.com/docs/en/cross-session-messaging",
-        "description": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/cross-session-messaging\">https://code.claude.com/docs/en/cross-session-messaging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49222824\">https://news.ycombinator.com/item?id=49222824</a></p>\n<p>Points: 68</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/cross-session-messaging\">https://code.claude.com/docs/en/cross-session-messaging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49222824\">https://news.ycombinator.com/item?id=49222824</a></p>\n<p>Points: 105</p>\n<p># Comments: 44</p>",
         "pubDate": "Sat, 08 Aug 2026 15:34:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49222824"
       },
       {
         "title": "“Code was never the hard part” is an insult to all programmers",
         "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "description": "<p>Article URL: <a href=\"https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\">https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49222189\">https://news.ycombinator.com/item?id=49222189</a></p>\n<p>Points: 589</p>\n<p># Comments: 367</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\">https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49222189\">https://news.ycombinator.com/item?id=49222189</a></p>\n<p>Points: 691</p>\n<p># Comments: 414</p>",
         "pubDate": "Sat, 08 Aug 2026 14:32:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49222189"
       },
       {
         "title": "Triton: DirectX 11 Driver for QEMU",
         "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "description": "<p>Article URL: <a href=\"https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/\">https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221711\">https://news.ycombinator.com/item?id=49221711</a></p>\n<p>Points: 140</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/\">https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221711\">https://news.ycombinator.com/item?id=49221711</a></p>\n<p>Points: 163</p>\n<p># Comments: 31</p>",
         "pubDate": "Sat, 08 Aug 2026 13:33:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49221711"
       },
       {
         "title": "_for-sale DNS records",
         "link": "https://specification.website/spec/foundations/for-sale-dns/",
-        "description": "<p>Article URL: <a href=\"https://specification.website/spec/foundations/for-sale-dns/\">https://specification.website/spec/foundations/for-sale-dns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221668\">https://news.ycombinator.com/item?id=49221668</a></p>\n<p>Points: 355</p>\n<p># Comments: 132</p>",
+        "description": "<p>Article URL: <a href=\"https://specification.website/spec/foundations/for-sale-dns/\">https://specification.website/spec/foundations/for-sale-dns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221668\">https://news.ycombinator.com/item?id=49221668</a></p>\n<p>Points: 381</p>\n<p># Comments: 141</p>",
         "pubDate": "Sat, 08 Aug 2026 13:26:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49221668"
       },
       {
-        "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-        "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-        "description": "<p>Article URL: <a href=\"https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/\">https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221220\">https://news.ycombinator.com/item?id=49221220</a></p>\n<p>Points: 103</p>\n<p># Comments: 81</p>",
-        "pubDate": "Sat, 08 Aug 2026 12:31:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49221220"
-      },
-      {
-        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-        "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/\">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220609\">https://news.ycombinator.com/item?id=49220609</a></p>\n<p>Points: 347</p>\n<p># Comments: 354</p>",
-        "pubDate": "Sat, 08 Aug 2026 10:57:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49220609"
-      },
-      {
-        "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-        "description": "<p><a href=\"https://archive.ph/W2tpE\" rel=\"nofollow\">https://archive.ph/W2tpE</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220339\">https://news.ycombinator.com/item?id=49220339</a></p>\n<p>Points: 253</p>\n<p># Comments: 397</p>",
-        "pubDate": "Sat, 08 Aug 2026 10:04:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49220339"
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "description": "<p><a href=\"https://xcancel.com/un1c0rnioz/status/2084686552299634805\" rel=\"nofollow\">https://xcancel.com/un1c0rnioz/status/2084686552299634805</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49215786\">https://news.ycombinator.com/item?id=49215786</a></p>\n<p>Points: 267</p>\n<p># Comments: 192</p>",
+        "pubDate": "Fri, 07 Aug 2026 20:25:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49215786"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-09T02:20:40.780Z",
+  "lastUpdated": "2026-08-09T07:07:56.883Z",
   "stats": {
     "feeds": 2,
     "articles": 20
