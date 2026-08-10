@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-10T07:56:22.039Z"
+      "lastFetched": "2026-08-10T13:26:45.334Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-10T07:56:31.699Z"
+      "lastFetched": "2026-08-10T13:26:58.778Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "50k Boat Names",
+        "link": "https://www.beautifulpublicdata.com/boat-names/",
+        "description": "<p>Article URL: <a href=\"https://www.beautifulpublicdata.com/boat-names/\">https://www.beautifulpublicdata.com/boat-names/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49243029\">https://news.ycombinator.com/item?id=49243029</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 10 Aug 2026 12:58:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49243029"
+      },
+      {
+        "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+        "link": "https://bobdahacker.com/blog/tldv-hack",
+        "description": "<p>Article URL: <a href=\"https://bobdahacker.com/blog/tldv-hack\">https://bobdahacker.com/blog/tldv-hack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242739\">https://news.ycombinator.com/item?id=49242739</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
+        "pubDate": "Mon, 10 Aug 2026 12:26:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49242739"
+      },
+      {
+        "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+        "link": "https://twitter.com/thdxr/status/2086599224674681242",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/thdxr/status/2086599224674681242\">https://twitter.com/thdxr/status/2086599224674681242</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242728\">https://news.ycombinator.com/item?id=49242728</a></p>\n<p>Points: 20</p>\n<p># Comments: 14</p>",
+        "pubDate": "Mon, 10 Aug 2026 12:24:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49242728"
+      },
+      {
+        "title": "Squeak/Smalltalk 6.1 Release Notes",
+        "link": "https://squeak.org/release_notes/6.1/",
+        "description": "<p>Article URL: <a href=\"https://squeak.org/release_notes/6.1/\">https://squeak.org/release_notes/6.1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242653\">https://news.ycombinator.com/item?id=49242653</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 10 Aug 2026 12:15:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49242653"
+      },
+      {
+        "title": "Tail-call optimization in C is relatively recent",
+        "link": "https://lwn.net/Articles/1034703/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1034703/\">https://lwn.net/Articles/1034703/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242297\">https://news.ycombinator.com/item?id=49242297</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
+        "pubDate": "Mon, 10 Aug 2026 11:34:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49242297"
+      },
+      {
+        "title": "Because It's Not Fun Enough: why languages fail",
+        "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+        "description": "<p>Article URL: <a href=\"https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough\">https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242245\">https://news.ycombinator.com/item?id=49242245</a></p>\n<p>Points: 60</p>\n<p># Comments: 47</p>",
+        "pubDate": "Mon, 10 Aug 2026 11:27:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49242245"
+      },
+      {
+        "title": "Meta's new open-weight model targets local agentic AI",
+        "link": "https://twitter.com/finkd/status/2086754845218726027",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/finkd/status/2086754845218726027\">https://twitter.com/finkd/status/2086754845218726027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242038\">https://news.ycombinator.com/item?id=49242038</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 10 Aug 2026 10:55:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49242038"
+      },
+      {
+        "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+        "link": "https://ethw.org/Milestones:Parametron,_1954",
+        "description": "<p>Article URL: <a href=\"https://ethw.org/Milestones:Parametron,_1954\">https://ethw.org/Milestones:Parametron,_1954</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241846\">https://news.ycombinator.com/item?id=49241846</a></p>\n<p>Points: 32</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 10 Aug 2026 10:29:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49241846"
+      },
+      {
+        "title": "Meta Muse Glimmer – open weights 30B local coding model",
+        "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 324</p>\n<p># Comments: 136</p>",
+        "pubDate": "Mon, 10 Aug 2026 10:10:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49241679"
+      },
+      {
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "link": "https://www.docker.com/products/docker-sandboxes/",
-        "description": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 101</p>\n<p># Comments: 57</p>",
+        "description": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 340</p>\n<p># Comments: 201</p>",
         "pubDate": "Mon, 10 Aug 2026 06:02:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49239751"
       },
       {
-        "title": "The Philippines' big offshoring industry is growing despite AI",
-        "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-        "description": "<p>Article URL: <a href=\"https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai\">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239226\">https://news.ycombinator.com/item?id=49239226</a></p>\n<p>Points: 26</p>\n<p># Comments: 27</p>",
-        "pubDate": "Mon, 10 Aug 2026 04:35:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49239226"
-      },
-      {
-        "title": "Auto mode is now the default in Claude Code",
-        "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "description": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 168</p>\n<p># Comments: 152</p>",
-        "pubDate": "Mon, 10 Aug 2026 03:50:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49239021"
-      },
-      {
         "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
         "link": "https://www.whodunnitai.com/",
-        "description": "<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238851\">https://news.ycombinator.com/item?id=49238851</a></p>\n<p>Points: 59</p>\n<p># Comments: 18</p>",
+        "description": "<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238851\">https://news.ycombinator.com/item?id=49238851</a></p>\n<p>Points: 127</p>\n<p># Comments: 53</p>",
         "pubDate": "Mon, 10 Aug 2026 03:18:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49238851"
       },
       {
         "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
         "link": "https://github.com/shinyquagsire23/Klepton",
-        "description": "<p>Article URL: <a href=\"https://github.com/shinyquagsire23/Klepton\">https://github.com/shinyquagsire23/Klepton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238818\">https://news.ycombinator.com/item?id=49238818</a></p>\n<p>Points: 51</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/shinyquagsire23/Klepton\">https://github.com/shinyquagsire23/Klepton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238818\">https://news.ycombinator.com/item?id=49238818</a></p>\n<p>Points: 120</p>\n<p># Comments: 19</p>",
         "pubDate": "Mon, 10 Aug 2026 03:12:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49238818"
       },
       {
-        "title": "Turn satellite imagery into a paper globe you fold yourself",
-        "link": "https://foldingglobes.com/",
-        "description": "<p>Article URL: <a href=\"https://foldingglobes.com/\">https://foldingglobes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238735\">https://news.ycombinator.com/item?id=49238735</a></p>\n<p>Points: 45</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 10 Aug 2026 02:57:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49238735"
-      },
-      {
         "title": "What Happened to HackerOne?",
         "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-        "description": "<p>Article URL: <a href=\"https://blog.teknogeek.io/posts/what-happened-to-hackerone/\">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238561\">https://news.ycombinator.com/item?id=49238561</a></p>\n<p>Points: 181</p>\n<p># Comments: 72</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.teknogeek.io/posts/what-happened-to-hackerone/\">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238561\">https://news.ycombinator.com/item?id=49238561</a></p>\n<p>Points: 291</p>\n<p># Comments: 148</p>",
         "pubDate": "Mon, 10 Aug 2026 02:23:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49238561"
       },
       {
         "title": "How We Pushed CDC into Postgres",
         "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-        "description": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238050\">https://news.ycombinator.com/item?id=49238050</a></p>\n<p>Points: 83</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238050\">https://news.ycombinator.com/item?id=49238050</a></p>\n<p>Points: 111</p>\n<p># Comments: 21</p>",
         "pubDate": "Mon, 10 Aug 2026 01:01:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49238050"
       },
       {
-        "title": "The Ambition Project",
-        "link": "https://www.betonit.ai/p/the-ambition-project",
-        "description": "<p>Article URL: <a href=\"https://www.betonit.ai/p/the-ambition-project\">https://www.betonit.ai/p/the-ambition-project</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49237407\">https://news.ycombinator.com/item?id=49237407</a></p>\n<p>Points: 35</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sun, 09 Aug 2026 23:36:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49237407"
-      },
-      {
         "title": "Tuxedo No. 2 – Cocktail recipes",
         "link": "https://tuxedono2.com",
-        "description": "<p>Article URL: <a href=\"https://tuxedono2.com\">https://tuxedono2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235697\">https://news.ycombinator.com/item?id=49235697</a></p>\n<p>Points: 83</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://tuxedono2.com\">https://tuxedono2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235697\">https://news.ycombinator.com/item?id=49235697</a></p>\n<p>Points: 114</p>\n<p># Comments: 35</p>",
         "pubDate": "Sun, 09 Aug 2026 20:48:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49235697"
       },
       {
         "title": "New Zealand lost its music media, and what we're building to replace it",
         "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-        "description": "<p>Article URL: <a href=\"https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235641\">https://news.ycombinator.com/item?id=49235641</a></p>\n<p>Points: 109</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235641\">https://news.ycombinator.com/item?id=49235641</a></p>\n<p>Points: 123</p>\n<p># Comments: 85</p>",
         "pubDate": "Sun, 09 Aug 2026 20:42:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49235641"
       },
       {
-        "title": "The tragedy of the commons, AI edition",
-        "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-        "description": "<p>Article URL: <a href=\"https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235011\">https://news.ycombinator.com/item?id=49235011</a></p>\n<p>Points: 113</p>\n<p># Comments: 67</p>",
-        "pubDate": "Sun, 09 Aug 2026 19:43:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49235011"
-      },
-      {
         "title": "How I use LLMs to learn complex topics",
         "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-        "description": "<p>Article URL: <a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234675\">https://news.ycombinator.com/item?id=49234675</a></p>\n<p>Points: 602</p>\n<p># Comments: 352</p>",
+        "description": "<p>Article URL: <a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234675\">https://news.ycombinator.com/item?id=49234675</a></p>\n<p>Points: 713</p>\n<p># Comments: 455</p>",
         "pubDate": "Sun, 09 Aug 2026 19:16:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49234675"
       },
       {
         "title": "I made tinnitus my friend, then it disappeared [video]",
         "link": "https://mynoise.net/vlog.php?ep=20260803",
-        "description": "<p>Article URL: <a href=\"https://mynoise.net/vlog.php?ep=20260803\">https://mynoise.net/vlog.php?ep=20260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234271\">https://news.ycombinator.com/item?id=49234271</a></p>\n<p>Points: 119</p>\n<p># Comments: 88</p>",
+        "description": "<p>Article URL: <a href=\"https://mynoise.net/vlog.php?ep=20260803\">https://mynoise.net/vlog.php?ep=20260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234271\">https://news.ycombinator.com/item?id=49234271</a></p>\n<p>Points: 181</p>\n<p># Comments: 144</p>",
         "pubDate": "Sun, 09 Aug 2026 18:41:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49234271"
       },
       {
-        "title": "OpenChamber: An Agentic Development Environment",
-        "link": "https://openchamber.dev/",
-        "description": "<p>Article URL: <a href=\"https://openchamber.dev/\">https://openchamber.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233448\">https://news.ycombinator.com/item?id=49233448</a></p>\n<p>Points: 134</p>\n<p># Comments: 73</p>",
-        "pubDate": "Sun, 09 Aug 2026 17:27:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49233448"
-      },
-      {
         "title": "Ask HN: What are you working on? (August 2026)",
         "link": "https://news.ycombinator.com/item?id=49233423",
-        "description": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 234</p>\n<p># Comments: 808</p>",
+        "description": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 275</p>\n<p># Comments: 945</p>",
         "pubDate": "Sun, 09 Aug 2026 17:23:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49233423"
       },
       {
         "title": "Taxi drivers rarely die of Alzheimer's",
         "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-        "description": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 273</p>\n<p># Comments: 187</p>",
+        "description": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 327</p>\n<p># Comments: 233</p>",
         "pubDate": "Sun, 09 Aug 2026 15:21:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49232253"
-      },
-      {
-        "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-        "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-        "description": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html\">https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232138\">https://news.ycombinator.com/item?id=49232138</a></p>\n<p>Points: 495</p>\n<p># Comments: 411</p>",
-        "pubDate": "Sun, 09 Aug 2026 15:11:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49232138"
-      },
-      {
-        "title": "Cool URIs Don't Change (1998)",
-        "link": "https://www.w3.org/Provider/Style/URI",
-        "description": "<p>Article URL: <a href=\"https://www.w3.org/Provider/Style/URI\">https://www.w3.org/Provider/Style/URI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231809\">https://news.ycombinator.com/item?id=49231809</a></p>\n<p>Points: 228</p>\n<p># Comments: 56</p>",
-        "pubDate": "Sun, 09 Aug 2026 14:32:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49231809"
-      },
-      {
-        "title": "Everything you do is being recorded",
-        "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-        "description": "<p><a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\" rel=\"nofollow\">https://www.theatlantic.com/technology/2026/05/ai-wearable-s...</a><p><a href=\"https://archive.is/JxaZ7\" rel=\"nofollow\">https://archive.is/JxaZ7</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 280</p>\n<p># Comments: 227</p>",
-        "pubDate": "Sun, 09 Aug 2026 11:30:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49230477"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-10T07:56:31.699Z",
+  "lastUpdated": "2026-08-10T13:26:58.778Z",
   "stats": {
     "feeds": 2,
     "articles": 20
