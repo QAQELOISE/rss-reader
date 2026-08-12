@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-12T07:43:47.311Z"
+      "lastFetched": "2026-08-12T13:27:30.900Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-12T07:44:06.949Z"
+      "lastFetched": "2026-08-12T13:27:50.769Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+        "link": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+        "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/\">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49271126\">https://news.ycombinator.com/item?id=49271126</a></p>\n<p>Points: 72</p>\n<p># Comments: 43</p>",
+        "pubDate": "Wed, 12 Aug 2026 12:07:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49271126"
+      },
+      {
+        "title": "2026 Eclipse Webcams",
+        "link": "https://jonty.github.io/2026_eclipse_webcams/",
+        "description": "<p>Article URL: <a href=\"https://jonty.github.io/2026_eclipse_webcams/\">https://jonty.github.io/2026_eclipse_webcams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270953\">https://news.ycombinator.com/item?id=49270953</a></p>\n<p>Points: 134</p>\n<p># Comments: 36</p>",
+        "pubDate": "Wed, 12 Aug 2026 11:53:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49270953"
+      },
+      {
+        "title": "Delphi 13 Community Edition Is Now Available",
+        "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+        "description": "<p>Article URL: <a href=\"https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/\">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270621\">https://news.ycombinator.com/item?id=49270621</a></p>\n<p>Points: 46</p>\n<p># Comments: 31</p>",
+        "pubDate": "Wed, 12 Aug 2026 11:13:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49270621"
+      },
+      {
+        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+        "link": "https://woxi.ad-si.com",
+        "description": "<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes\n- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:\n<a href=\"https://woxi.ad-si.com/docs/comparison/mathematica/\" rel=\"nofollow\">https://woxi.ad-si.com/docs/comparison/mathematica/</a>.<p>Conformance is ensured with ~26'000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I'd be particularly interested in feedback on compatibility and missing functionality.\nContributions and bug reports are also very welcome: <a href=\"https://github.com/ad-si/Woxi\" rel=\"nofollow\">https://github.com/ad-si/Woxi</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270040\">https://news.ycombinator.com/item?id=49270040</a></p>\n<p>Points: 115</p>\n<p># Comments: 11</p>",
+        "pubDate": "Wed, 12 Aug 2026 10:06:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49270040"
+      },
+      {
+        "title": "What sort of maths are LLMs good at?",
+        "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+        "description": "<p>Article URL: <a href=\"https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/\">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270022\">https://news.ycombinator.com/item?id=49270022</a></p>\n<p>Points: 128</p>\n<p># Comments: 57</p>",
+        "pubDate": "Wed, 12 Aug 2026 10:04:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49270022"
+      },
+      {
+        "title": "Facebook is paying controversial creators to produce rage-bait content",
+        "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+        "description": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696\">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269818\">https://news.ycombinator.com/item?id=49269818</a></p>\n<p>Points: 283</p>\n<p># Comments: 156</p>",
+        "pubDate": "Wed, 12 Aug 2026 09:35:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49269818"
+      },
+      {
+        "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+        "link": "https://discoveredmaterials.com/research/",
+        "description": "<p>Hey HN, we're Advaith and Akash from Discovered Materials ( <a href=\"https://discoveredmaterials.com/\">https://discoveredmaterials.com/</a> ).  We build AI agents that discover new materials for the semiconductor industry.<p>GPUs today have a heat problem. Nvidia & AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3 kW of heat. This trend is expected to continue, and getting rid of this heat is one of the major reasons datacenters consume so much power and water today - they need it to keep chips cool during operation.<p>The amount of heat produced by a chip and its ability to dissipate it are both influenced by the materials used to make it. For example, we could reduce the energy per bit required to move data between logic and memory by 10-50x by 3D packaging chips (placing HBM memory stacks directly on top of logic chips, instead of placing them beside logic on a 2D circuit board). However, we're unable to do this today because the dielectric material used in HBM (such as SiO2) is a very poor thermal conductor, trapping heat between logic and memory and causing drastic temperature rise during operation. Similarly, there's many other materials in the GPU that are being re-evaluated today - 2 more examples are thermal interface materials and substrates. However, getting a new material into a fab takes years and hundreds of millions of dollars of research - the infamous \"lab-to-fab valley of death\".<p>At Discovered Materials, we're optimistic that AI agents can reduce the timeline and cost required to introduce new materials into semiconductor chips. We're seeing glimpses of this already - we tested 7 models from Anthropic, OpenAI and Kimi, and found that they're all able to computationally discover new materials that are dynamically stable and possess promising properties. This was surprising to us - it would generally take a PhD student a couple of weeks of work to discover the kind of materials that these models find over an 8 hour run!<p>However, computational discovery is the easy part. A material discovery is only valid if the material can be made and tested in a lab (As an example, graphene’s properties were predicted in 1947 but it was made for the first time in 2004). Today’s models are not good at coming up with synthesis recipes to make materials in a lab. Even if they do get better at it, we're uncertain about how much that will help - making a new material is a highly empirical process involving trial and error over many experiments. Human experts themselves cannot \"one-shot\" the task, but we expect that a highly capable model will reduce the number of experimental iterations required to make a new material. We’ve seen some evidence of this over the 3 months of our Y Combinator batch - we simulated, synthesized and tested thermal interface materials (TIMs) that match the performance of TIMs the world's largest chemical companies have guarded as trade secrets for over 20 years.<p>We’re releasing hundreds of hundreds of new materials discovered by frontier AI models, as well as our benchmark which measures model ability on material discovery here (also linked in the thread url): <a href=\"https://discoveredmaterials.com/research\">https://discoveredmaterials.com/research</a>. It covers what we discuss above, as well as a variety of strange behavior that we observe from the models, such as Claude's propensity to reward hack or GPT-5.6 occasionally losing its mind after ~50M tokens.<p>Our business model: We aim to license and sell IP on the materials we discover, as well as the IP on how to make these materials. We're also exploring an alternate business model where we sell the harness+tools we use to discover materials to semiconductor and chemical companies, allowing them to discover materials on their own. We're leaning towards the latter to start, but we expect that we'll do both in the long run.<p>Our backstory: Akash has a PhD in Material Science from Stanford University, and has spent the last 11 years studying new materials for semiconductor chips. His work on new nanoscale interconnects was Stanford Engineering’s most popular story of 2025. Advaith studied AI at Carnegie Mellon and was a research engineer building video models and agents at Persona AI (acquired) and Luma Labs.<p>We are very interested in your opinion! The semiconductor industry is quite secretive, and your thoughts on the roadmap of the industry or the materials we should go after would be very helpful. We would also love to hear from people who have run experiments in labs - what can we learn from your experience doing empirical science?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269090\">https://news.ycombinator.com/item?id=49269090</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 12 Aug 2026 07:51:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49269090"
+      },
+      {
+        "title": "LinkedIn CringeBot 3000",
+        "link": "https://www.cringebot3000.com/",
+        "description": "<p>Article URL: <a href=\"https://www.cringebot3000.com/\">https://www.cringebot3000.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268564\">https://news.ycombinator.com/item?id=49268564</a></p>\n<p>Points: 368</p>\n<p># Comments: 142</p>",
+        "pubDate": "Wed, 12 Aug 2026 06:30:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49268564"
+      },
+      {
         "title": "llama.cpp",
         "link": "https://llama.app",
-        "description": "<p>Article URL: <a href=\"https://llama.app\">https://llama.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267928\">https://news.ycombinator.com/item?id=49267928</a></p>\n<p>Points: 137</p>\n<p># Comments: 64</p>",
+        "description": "<p>Article URL: <a href=\"https://llama.app\">https://llama.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267928\">https://news.ycombinator.com/item?id=49267928</a></p>\n<p>Points: 294</p>\n<p># Comments: 126</p>",
         "pubDate": "Wed, 12 Aug 2026 04:51:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49267928"
       },
       {
-        "title": "Dropbox is an obvious PE Target?",
-        "link": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-        "description": "<p>Article URL: <a href=\"https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/\">https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267818\">https://news.ycombinator.com/item?id=49267818</a></p>\n<p>Points: 41</p>\n<p># Comments: 56</p>",
-        "pubDate": "Wed, 12 Aug 2026 04:30:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49267818"
-      },
-      {
-        "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
-        "link": "https://github.com/sgkdev/bad_garbage",
-        "description": "<p>Article URL: <a href=\"https://github.com/sgkdev/bad_garbage\">https://github.com/sgkdev/bad_garbage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267550\">https://news.ycombinator.com/item?id=49267550</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 12 Aug 2026 03:31:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49267550"
-      },
-      {
-        "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
-        "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-        "description": "<p>Article URL: <a href=\"https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/\">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267527\">https://news.ycombinator.com/item?id=49267527</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 12 Aug 2026 03:27:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49267527"
-      },
-      {
         "title": "The Human Is the Loop",
         "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-        "description": "<p>Article URL: <a href=\"https://brentfitzgerald.com/posts/the-human-is-the-loop/\">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267108\">https://news.ycombinator.com/item?id=49267108</a></p>\n<p>Points: 79</p>\n<p># Comments: 28</p>",
+        "description": "<p>Article URL: <a href=\"https://brentfitzgerald.com/posts/the-human-is-the-loop/\">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267108\">https://news.ycombinator.com/item?id=49267108</a></p>\n<p>Points: 144</p>\n<p># Comments: 69</p>",
         "pubDate": "Wed, 12 Aug 2026 02:15:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49267108"
       },
       {
         "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
         "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-        "description": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266921\">https://news.ycombinator.com/item?id=49266921</a></p>\n<p>Points: 71</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266921\">https://news.ycombinator.com/item?id=49266921</a></p>\n<p>Points: 94</p>\n<p># Comments: 26</p>",
         "pubDate": "Wed, 12 Aug 2026 01:45:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49266921"
       },
       {
+        "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+        "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+        "description": "<p>Article URL: <a href=\"https://www.cftc.gov/PressRoom/PressReleases/9281-26\">https://www.cftc.gov/PressRoom/PressReleases/9281-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266277\">https://news.ycombinator.com/item?id=49266277</a></p>\n<p>Points: 165</p>\n<p># Comments: 133</p>",
+        "pubDate": "Wed, 12 Aug 2026 00:17:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49266277"
+      },
+      {
+        "title": "US hires over 2k video gamers as air traffic controllers",
+        "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+        "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/\">https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49265879\">https://news.ycombinator.com/item?id=49265879</a></p>\n<p>Points: 153</p>\n<p># Comments: 116</p>",
+        "pubDate": "Tue, 11 Aug 2026 23:26:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49265879"
+      },
+      {
         "title": "WorldClaw Agentic 3D open-world generation at scale",
         "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-        "description": "<p>Article URL: <a href=\"https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49265051\">https://news.ycombinator.com/item?id=49265051</a></p>\n<p>Points: 201</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49265051\">https://news.ycombinator.com/item?id=49265051</a></p>\n<p>Points: 253</p>\n<p># Comments: 75</p>",
         "pubDate": "Tue, 11 Aug 2026 21:56:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49265051"
       },
       {
         "title": "Compression is prediction",
         "link": "https://ngrok.com/blog/compression-is-prediction",
-        "description": "<p>Article URL: <a href=\"https://ngrok.com/blog/compression-is-prediction\">https://ngrok.com/blog/compression-is-prediction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263497\">https://news.ycombinator.com/item?id=49263497</a></p>\n<p>Points: 472</p>\n<p># Comments: 202</p>",
+        "description": "<p>Article URL: <a href=\"https://ngrok.com/blog/compression-is-prediction\">https://ngrok.com/blog/compression-is-prediction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263497\">https://news.ycombinator.com/item?id=49263497</a></p>\n<p>Points: 592</p>\n<p># Comments: 243</p>",
         "pubDate": "Tue, 11 Aug 2026 19:49:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49263497"
       },
       {
+        "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+        "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/\">https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263461\">https://news.ycombinator.com/item?id=49263461</a></p>\n<p>Points: 61</p>\n<p># Comments: 119</p>",
+        "pubDate": "Tue, 11 Aug 2026 19:45:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49263461"
+      },
+      {
         "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
         "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-        "description": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263340\">https://news.ycombinator.com/item?id=49263340</a></p>\n<p>Points: 219</p>\n<p># Comments: 111</p>",
+        "description": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263340\">https://news.ycombinator.com/item?id=49263340</a></p>\n<p>Points: 242</p>\n<p># Comments: 123</p>",
         "pubDate": "Tue, 11 Aug 2026 19:35:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49263340"
       },
       {
         "title": "Making holograms with a pen plotter",
         "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "description": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262811\">https://news.ycombinator.com/item?id=49262811</a></p>\n<p>Points: 152</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262811\">https://news.ycombinator.com/item?id=49262811</a></p>\n<p>Points: 172</p>\n<p># Comments: 18</p>",
         "pubDate": "Tue, 11 Aug 2026 18:51:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49262811"
       },
       {
         "title": "How we used to get jobs: A newspaper classifieds story",
         "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-        "description": "<p>Article URL: <a href=\"https://ironicsans.ghost.io/how-we-used-to-get-jobs/\">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262211\">https://news.ycombinator.com/item?id=49262211</a></p>\n<p>Points: 136</p>\n<p># Comments: 105</p>",
+        "description": "<p>Article URL: <a href=\"https://ironicsans.ghost.io/how-we-used-to-get-jobs/\">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262211\">https://news.ycombinator.com/item?id=49262211</a></p>\n<p>Points: 156</p>\n<p># Comments: 122</p>",
         "pubDate": "Tue, 11 Aug 2026 18:09:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49262211"
       },
       {
         "title": "Grok Bot",
         "link": "https://x.ai/bot",
-        "description": "<p>Article URL: <a href=\"https://x.ai/bot\">https://x.ai/bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261514\">https://news.ycombinator.com/item?id=49261514</a></p>\n<p>Points: 260</p>\n<p># Comments: 210</p>",
+        "description": "<p>Article URL: <a href=\"https://x.ai/bot\">https://x.ai/bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261514\">https://news.ycombinator.com/item?id=49261514</a></p>\n<p>Points: 318</p>\n<p># Comments: 293</p>",
         "pubDate": "Tue, 11 Aug 2026 17:23:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49261514"
-      },
-      {
-        "title": "CSS properties you should know for better text designs",
-        "link": "https://master.dev/blog/typographic-css-tricks/",
-        "description": "<p>Article URL: <a href=\"https://master.dev/blog/typographic-css-tricks/\">https://master.dev/blog/typographic-css-tricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261417\">https://news.ycombinator.com/item?id=49261417</a></p>\n<p>Points: 108</p>\n<p># Comments: 18</p>",
-        "pubDate": "Tue, 11 Aug 2026 17:16:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49261417"
-      },
-      {
-        "title": "Go is an ideal language for AI-assisted software engineering",
-        "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "description": "<p>Article URL: <a href=\"https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261133\">https://news.ycombinator.com/item?id=49261133</a></p>\n<p>Points: 343</p>\n<p># Comments: 404</p>",
-        "pubDate": "Tue, 11 Aug 2026 16:57:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49261133"
-      },
-      {
-        "title": "Mojo 1.0",
-        "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "description": "<p>Article URL: <a href=\"https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here\">https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261128\">https://news.ycombinator.com/item?id=49261128</a></p>\n<p>Points: 370</p>\n<p># Comments: 173</p>",
-        "pubDate": "Tue, 11 Aug 2026 16:56:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49261128"
-      },
-      {
-        "title": "Manus will return to operating as an independent company",
-        "link": "https://manus.im/blog/a-note-to-our-users",
-        "description": "<p>Article URL: <a href=\"https://manus.im/blog/a-note-to-our-users\">https://manus.im/blog/a-note-to-our-users</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49258764\">https://news.ycombinator.com/item?id=49258764</a></p>\n<p>Points: 153</p>\n<p># Comments: 76</p>",
-        "pubDate": "Tue, 11 Aug 2026 14:14:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49258764"
-      },
-      {
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "link": "https://stolen-thoughts.com/",
-        "description": "<p>Article URL: <a href=\"https://stolen-thoughts.com/\">https://stolen-thoughts.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257876\">https://news.ycombinator.com/item?id=49257876</a></p>\n<p>Points: 598</p>\n<p># Comments: 270</p>",
-        "pubDate": "Tue, 11 Aug 2026 13:22:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49257876"
-      },
-      {
-        "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
-        "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/\">https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257853\">https://news.ycombinator.com/item?id=49257853</a></p>\n<p>Points: 36</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 11 Aug 2026 13:20:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49257853"
-      },
-      {
-        "title": "England set to be one of the first countries to eliminate hepatitis C",
-        "link": "https://www.bbc.com/news/articles/c75gk620r22o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c75gk620r22o\">https://www.bbc.com/news/articles/c75gk620r22o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257377\">https://news.ycombinator.com/item?id=49257377</a></p>\n<p>Points: 525</p>\n<p># Comments: 375</p>",
-        "pubDate": "Tue, 11 Aug 2026 12:41:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49257377"
-      },
-      {
-        "title": "OpenAI’s head of ethics leaves less than a year after joining",
-        "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-        "description": "<p><a href=\"https://archive.ph/W48UV\" rel=\"nofollow\">https://archive.ph/W48UV</a><p><a href=\"https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave\" rel=\"nofollow\">https://aimagazine.com/news/why-did-openai-head-of-ethics-ch...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257160\">https://news.ycombinator.com/item?id=49257160</a></p>\n<p>Points: 395</p>\n<p># Comments: 398</p>",
-        "pubDate": "Tue, 11 Aug 2026 12:23:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49257160"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-12T07:44:06.949Z",
+  "lastUpdated": "2026-08-12T13:27:50.769Z",
   "stats": {
     "feeds": 2,
     "articles": 20
