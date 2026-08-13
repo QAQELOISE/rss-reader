@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-13T13:35:21.711Z"
+      "lastFetched": "2026-08-13T19:13:10.466Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-13T13:35:41.790Z"
+      "lastFetched": "2026-08-13T19:13:24.225Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=49289844</a></p>\n<p>Points: 90</p>\n<p># Comments: 15</p>",
+        "pubDate": "Thu, 13 Aug 2026 18:10:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289844"
+      },
+      {
+        "title": "Where did the old web go? We followed 657,607 links to find out",
+        "link": "https://0.mk/blog/link-rot",
+        "description": "<p>Article URL: <a href=\"https://0.mk/blog/link-rot\">https://0.mk/blog/link-rot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289532\">https://news.ycombinator.com/item?id=49289532</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:49:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289532"
+      },
+      {
+        "title": "Choose Boring Technology (2015)",
+        "link": "https://mcfunley.com/choose-boring-technology",
+        "description": "<p>Article URL: <a href=\"https://mcfunley.com/choose-boring-technology\">https://mcfunley.com/choose-boring-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289512\">https://news.ycombinator.com/item?id=49289512</a></p>\n<p>Points: 75</p>\n<p># Comments: 39</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:48:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289512"
+      },
+      {
+        "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+        "link": "https://donkeybas.com/",
+        "description": "<p>Article URL: <a href=\"https://donkeybas.com/\">https://donkeybas.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289465\">https://news.ycombinator.com/item?id=49289465</a></p>\n<p>Points: 48</p>\n<p># Comments: 17</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:45:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289465"
+      },
+      {
+        "title": "Gemini 3.7 Flash",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "description": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>Points: 274</p>\n<p># Comments: 183</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:23:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289112"
+      },
+      {
+        "title": "JDK 27 G1/Parallel/Serial GC Changes",
+        "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+        "description": "<p>Article URL: <a href=\"https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html\">https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289101\">https://news.ycombinator.com/item?id=49289101</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:22:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289101"
+      },
+      {
+        "title": "Tocharian Online",
+        "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
+        "description": "<p>Article URL: <a href=\"https://lrc.la.utexas.edu/eieol/tokol/0\">https://lrc.la.utexas.edu/eieol/tokol/0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289026\">https://news.ycombinator.com/item?id=49289026</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:15:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49289026"
+      },
+      {
+        "title": "Mistral OCR 4.1",
+        "link": "https://docs.mistral.ai/models/ocr-4-1",
+        "description": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 109</p>\n<p># Comments: 28</p>",
+        "pubDate": "Thu, 13 Aug 2026 17:05:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49288889"
+      },
+      {
+        "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+        "link": "https://goaccess.io/",
+        "description": "<p>Article URL: <a href=\"https://goaccess.io/\">https://goaccess.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288296\">https://news.ycombinator.com/item?id=49288296</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 13 Aug 2026 16:22:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49288296"
+      },
+      {
+        "title": "AI At Home Part 1: A Box Of Scraps",
+        "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+        "description": "<p>Article URL: <a href=\"https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\">https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288293\">https://news.ycombinator.com/item?id=49288293</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+        "pubDate": "Thu, 13 Aug 2026 16:22:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49288293"
+      },
+      {
+        "title": "I requested a copy of my data from McDonald’s loyalty program",
+        "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/\">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286662\">https://news.ycombinator.com/item?id=49286662</a></p>\n<p>Points: 165</p>\n<p># Comments: 198</p>",
+        "pubDate": "Thu, 13 Aug 2026 14:37:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49286662"
+      },
+      {
+        "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+        "link": "https://oxide.computer/blog/kubernetes-on-oxide",
+        "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/kubernetes-on-oxide\">https://oxide.computer/blog/kubernetes-on-oxide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286485\">https://news.ycombinator.com/item?id=49286485</a></p>\n<p>Points: 101</p>\n<p># Comments: 44</p>",
+        "pubDate": "Thu, 13 Aug 2026 14:26:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49286485"
+      },
+      {
+        "title": "Graduate student proves a quantum uncertainty principle for fractals",
+        "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/\">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286424\">https://news.ycombinator.com/item?id=49286424</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
+        "pubDate": "Thu, 13 Aug 2026 14:22:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49286424"
+      },
+      {
+        "title": "Spaghettifying DRAM",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/skitter-creek-bath-salts\">https://github.com/xoreaxeaxeax/skitter-creek-bath-salts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286341\">https://news.ycombinator.com/item?id=49286341</a></p>\n<p>Points: 323</p>\n<p># Comments: 98</p>",
+        "pubDate": "Thu, 13 Aug 2026 14:17:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49286341"
+      },
+      {
+        "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+        "link": "https://github.com/fellowgeek/mcp-memory",
+        "description": "<p>Article URL: <a href=\"https://github.com/fellowgeek/mcp-memory\">https://github.com/fellowgeek/mcp-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286073\">https://news.ycombinator.com/item?id=49286073</a></p>\n<p>Points: 47</p>\n<p># Comments: 29</p>",
+        "pubDate": "Thu, 13 Aug 2026 13:57:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49286073"
+      },
+      {
+        "title": "Gloomberb",
+        "link": "https://gloom.sh/",
+        "description": "<p>Article URL: <a href=\"https://gloom.sh/\">https://gloom.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285982\">https://news.ycombinator.com/item?id=49285982</a></p>\n<p>Points: 303</p>\n<p># Comments: 156</p>",
+        "pubDate": "Thu, 13 Aug 2026 13:52:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49285982"
+      },
+      {
+        "title": "Ordinary abundance",
+        "link": "https://ordinaryabundance.com/",
+        "description": "<p>Article URL: <a href=\"https://ordinaryabundance.com/\">https://ordinaryabundance.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285770\">https://news.ycombinator.com/item?id=49285770</a></p>\n<p>Points: 113</p>\n<p># Comments: 37</p>",
+        "pubDate": "Thu, 13 Aug 2026 13:39:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49285770"
+      },
+      {
+        "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+        "link": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+        "description": "<p>Article URL: <a href=\"https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html\">https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285718\">https://news.ycombinator.com/item?id=49285718</a></p>\n<p>Points: 95</p>\n<p># Comments: 54</p>",
+        "pubDate": "Thu, 13 Aug 2026 13:36:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49285718"
+      },
+      {
         "title": "Choosing an AI model: one prompt, 11 models, different results",
         "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-        "description": "<p>Article URL: <a href=\"https://www.netlify.com/blog/one-prompt-11-models-very-different-results/\">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285327\">https://news.ycombinator.com/item?id=49285327</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://www.netlify.com/blog/one-prompt-11-models-very-different-results/\">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285327\">https://news.ycombinator.com/item?id=49285327</a></p>\n<p>Points: 131</p>\n<p># Comments: 57</p>",
         "pubDate": "Thu, 13 Aug 2026 13:05:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49285327"
       },
       {
-        "title": "My Rules for Using Spreadsheets",
-        "link": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
-        "description": "<p>Article URL: <a href=\"https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/\">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285268\">https://news.ycombinator.com/item?id=49285268</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
-        "pubDate": "Thu, 13 Aug 2026 13:00:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49285268"
-      },
-      {
-        "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-        "link": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-        "description": "<p>Article URL: <a href=\"https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/\">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49284774\">https://news.ycombinator.com/item?id=49284774</a></p>\n<p>Points: 142</p>\n<p># Comments: 103</p>",
-        "pubDate": "Thu, 13 Aug 2026 12:09:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49284774"
-      },
-      {
-        "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-        "link": "https://atg.science/careers",
-        "description": "<p>Article URL: <a href=\"https://atg.science/careers\">https://atg.science/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49284697\">https://news.ycombinator.com/item?id=49284697</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 13 Aug 2026 12:01:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49284697"
-      },
-      {
-        "title": "Rapid warming may tip AMOC at 2°C, slower warming may avert collapse",
-        "link": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html",
-        "description": "<p>Article URL: <a href=\"https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html\">https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49283840\">https://news.ycombinator.com/item?id=49283840</a></p>\n<p>Points: 32</p>\n<p># Comments: 5</p>",
-        "pubDate": "Thu, 13 Aug 2026 10:17:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49283840"
-      },
-      {
-        "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-        "link": "https://openai.com/codex/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 278</p>\n<p># Comments: 180</p>",
-        "pubDate": "Thu, 13 Aug 2026 04:53:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49281916"
-      },
-      {
-        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-        "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
-        "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 104</p>\n<p># Comments: 41</p>",
-        "pubDate": "Wed, 12 Aug 2026 23:50:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49280103"
-      },
-      {
-        "title": "Flutter 3.47",
-        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "description": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 154</p>\n<p># Comments: 163</p>",
-        "pubDate": "Wed, 12 Aug 2026 23:46:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49280061"
-      },
-      {
-        "title": "Principia Mathematica is modern and insightful",
-        "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-        "description": "<p>Article URL: <a href=\"https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279928\">https://news.ycombinator.com/item?id=49279928</a></p>\n<p>Points: 216</p>\n<p># Comments: 91</p>",
-        "pubDate": "Wed, 12 Aug 2026 23:26:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49279928"
-      },
-      {
-        "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-        "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-        "description": "<p>Article URL: <a href=\"https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279013\">https://news.ycombinator.com/item?id=49279013</a></p>\n<p>Points: 155</p>\n<p># Comments: 207</p>",
-        "pubDate": "Wed, 12 Aug 2026 21:45:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49279013"
-      },
-      {
-        "title": "Delta",
-        "link": "https://zed.dev/blog/introducing-delta",
-        "description": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 606</p>\n<p># Comments: 221</p>",
-        "pubDate": "Wed, 12 Aug 2026 18:19:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49276574"
-      },
-      {
-        "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-        "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer\">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275465\">https://news.ycombinator.com/item?id=49275465</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 12 Aug 2026 17:00:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49275465"
-      },
-      {
-        "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-        "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-        "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275335\">https://news.ycombinator.com/item?id=49275335</a></p>\n<p>Points: 225</p>\n<p># Comments: 159</p>",
-        "pubDate": "Wed, 12 Aug 2026 16:51:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49275335"
-      },
-      {
-        "title": "DeepSeek V4 Pro 0813",
-        "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "description": "<p><a href=\"https://api-docs.deepseek.com/\" rel=\"nofollow\">https://api-docs.deepseek.com/</a><p><a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/deepseek-v4-pro</a><p><a href=\"https://twitter.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://twitter.com/ChrisGPT/status/2087572834650407024</a>, <a href=\"https://xcancel.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://xcancel.com/ChrisGPT/status/2087572834650407024</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274600\">https://news.ycombinator.com/item?id=49274600</a></p>\n<p>Points: 980</p>\n<p># Comments: 422</p>",
-        "pubDate": "Wed, 12 Aug 2026 16:04:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49274600"
-      },
-      {
-        "title": "Grok 4.6",
-        "link": "https://x.ai/news/grok-4-6",
-        "description": "<p><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274027\">https://news.ycombinator.com/item?id=49274027</a></p>\n<p>Points: 595</p>\n<p># Comments: 549</p>",
-        "pubDate": "Wed, 12 Aug 2026 15:32:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49274027"
-      },
-      {
-        "title": "Qwen3.8-2.4T",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "description": "<p><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273478\">https://news.ycombinator.com/item?id=49273478</a></p>\n<p>Points: 677</p>\n<p># Comments: 157</p>",
-        "pubDate": "Wed, 12 Aug 2026 15:01:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49273478"
-      },
-      {
-        "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-        "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-        "description": "<p>Article URL: <a href=\"https://job-boards.greenhouse.io/givecampus/jobs/4112793009\">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273395\">https://news.ycombinator.com/item?id=49273395</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 12 Aug 2026 14:55:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49273395"
-      },
-      {
-        "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-        "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272832\">https://news.ycombinator.com/item?id=49272832</a></p>\n<p>Points: 1116</p>\n<p># Comments: 208</p>",
-        "pubDate": "Wed, 12 Aug 2026 14:22:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49272832"
-      },
-      {
-        "title": "Tim King, AmigaDOS developer, has died",
-        "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-        "description": "<p>Article URL: <a href=\"https://amiga-news.de/en/news/AN-2026-08-00070-EN.html\">https://amiga-news.de/en/news/AN-2026-08-00070-EN.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272655\">https://news.ycombinator.com/item?id=49272655</a></p>\n<p>Points: 287</p>\n<p># Comments: 35</p>",
-        "pubDate": "Wed, 12 Aug 2026 14:09:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49272655"
-      },
-      {
-        "title": "Why tiny JPEGs look different in Chrome",
-        "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-        "description": "<p>Article URL: <a href=\"https://guillaumetech.github.io/posts/jpg-scaling-chrome/\">https://guillaumetech.github.io/posts/jpg-scaling-chrome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272549\">https://news.ycombinator.com/item?id=49272549</a></p>\n<p>Points: 323</p>\n<p># Comments: 67</p>",
-        "pubDate": "Wed, 12 Aug 2026 14:00:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49272549"
+        "title": "DeepSeek Harness developer preview",
+        "link": "https://deepseek.com/harness/en/",
+        "description": "<p><a href=\"https://github.com/deepseek-ai/deepseek-harness\" rel=\"nofollow\">https://github.com/deepseek-ai/deepseek-harness</a><p><a href=\"https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart\" rel=\"nofollow\">https://deepseek-harness.github.io/deepseek-harness/en/guide...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285244\">https://news.ycombinator.com/item?id=49285244</a></p>\n<p>Points: 453</p>\n<p># Comments: 204</p>",
+        "pubDate": "Thu, 13 Aug 2026 12:58:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49285244"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-13T13:35:41.790Z",
+  "lastUpdated": "2026-08-13T19:13:24.225Z",
   "stats": {
     "feeds": 2,
     "articles": 20
