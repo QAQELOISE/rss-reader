@@ -5,85 +5,85 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-13T02:35:13.385Z"
+      "lastFetched": "2026-08-13T07:45:34.968Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-13T02:35:26.931Z"
+      "lastFetched": "2026-08-13T07:45:54.519Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+        "link": "https://openai.com/codex/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 27</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 13 Aug 2026 04:53:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49281916"
+      },
+      {
+        "title": "Celld: Self-hosted, distributed Durable Objects",
+        "link": "https://celld.dev/",
+        "description": "<p>Article URL: <a href=\"https://celld.dev/\">https://celld.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281839\">https://news.ycombinator.com/item?id=49281839</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 13 Aug 2026 04:37:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49281839"
+      },
+      {
         "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
         "link": "https://www.ballet.dev/",
-        "description": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 29</p>\n<p># Comments: 8</p>",
         "pubDate": "Thu, 13 Aug 2026 00:01:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=49280184"
       },
       {
         "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
         "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
-        "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 33</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 75</p>\n<p># Comments: 20</p>",
         "pubDate": "Wed, 12 Aug 2026 23:50:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49280103"
       },
       {
-        "title": "What's New in Flutter 3.47",
+        "title": "Flutter 3.47",
         "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "description": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 47</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 76</p>\n<p># Comments: 68</p>",
         "pubDate": "Wed, 12 Aug 2026 23:46:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49280061"
       },
       {
         "title": "Build Wide, Ship Narrow",
         "link": "https://adapt.com/blog/build-wide-ship-narrow",
-        "description": "<p>Article URL: <a href=\"https://adapt.com/blog/build-wide-ship-narrow\">https://adapt.com/blog/build-wide-ship-narrow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280047\">https://news.ycombinator.com/item?id=49280047</a></p>\n<p>Points: 33</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://adapt.com/blog/build-wide-ship-narrow\">https://adapt.com/blog/build-wide-ship-narrow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280047\">https://news.ycombinator.com/item?id=49280047</a></p>\n<p>Points: 78</p>\n<p># Comments: 20</p>",
         "pubDate": "Wed, 12 Aug 2026 23:43:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49280047"
       },
       {
         "title": "Principia Mathematica is modern and insightful",
         "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-        "description": "<p>Article URL: <a href=\"https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279928\">https://news.ycombinator.com/item?id=49279928</a></p>\n<p>Points: 51</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279928\">https://news.ycombinator.com/item?id=49279928</a></p>\n<p>Points: 131</p>\n<p># Comments: 63</p>",
         "pubDate": "Wed, 12 Aug 2026 23:26:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49279928"
       },
       {
-        "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
-        "link": "https://bipluk.com/",
-        "description": "<p>Article URL: <a href=\"https://bipluk.com/\">https://bipluk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279628\">https://news.ycombinator.com/item?id=49279628</a></p>\n<p>Points: 9</p>\n<p># Comments: 7</p>",
-        "pubDate": "Wed, 12 Aug 2026 22:47:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49279628"
-      },
-      {
-        "title": "Process as a Proxy for Motivation",
-        "link": "https://bengodfrey.dev/blog/process/",
-        "description": "<p>Article URL: <a href=\"https://bengodfrey.dev/blog/process/\">https://bengodfrey.dev/blog/process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279197\">https://news.ycombinator.com/item?id=49279197</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
-        "pubDate": "Wed, 12 Aug 2026 22:01:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49279197"
-      },
-      {
         "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
         "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-        "description": "<p>Article URL: <a href=\"https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279013\">https://news.ycombinator.com/item?id=49279013</a></p>\n<p>Points: 54</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279013\">https://news.ycombinator.com/item?id=49279013</a></p>\n<p>Points: 108</p>\n<p># Comments: 124</p>",
         "pubDate": "Wed, 12 Aug 2026 21:45:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49279013"
       },
       {
         "title": "Breaking the WAL",
         "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
-        "description": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 64</p>\n<p># Comments: 36</p>",
+        "description": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 94</p>\n<p># Comments: 42</p>",
         "pubDate": "Wed, 12 Aug 2026 20:00:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49277799"
       },
       {
         "title": "Delta",
         "link": "https://zed.dev/blog/introducing-delta",
-        "description": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 412</p>\n<p># Comments: 138</p>",
+        "description": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 513</p>\n<p># Comments: 179</p>",
         "pubDate": "Wed, 12 Aug 2026 18:19:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49276574"
       },
@@ -97,42 +97,42 @@
       {
         "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
         "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-        "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275335\">https://news.ycombinator.com/item?id=49275335</a></p>\n<p>Points: 151</p>\n<p># Comments: 111</p>",
+        "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275335\">https://news.ycombinator.com/item?id=49275335</a></p>\n<p>Points: 185</p>\n<p># Comments: 125</p>",
         "pubDate": "Wed, 12 Aug 2026 16:51:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49275335"
       },
       {
         "title": "Lovable raises $400M Series C",
         "link": "https://lovable.dev/blog/series-c",
-        "description": "<p>Article URL: <a href=\"https://lovable.dev/blog/series-c\">https://lovable.dev/blog/series-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274858\">https://news.ycombinator.com/item?id=49274858</a></p>\n<p>Points: 98</p>\n<p># Comments: 95</p>",
+        "description": "<p>Article URL: <a href=\"https://lovable.dev/blog/series-c\">https://lovable.dev/blog/series-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274858\">https://news.ycombinator.com/item?id=49274858</a></p>\n<p>Points: 133</p>\n<p># Comments: 126</p>",
         "pubDate": "Wed, 12 Aug 2026 16:20:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49274858"
       },
       {
         "title": "Pixel Watch 5",
         "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/\">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274757\">https://news.ycombinator.com/item?id=49274757</a></p>\n<p>Points: 105</p>\n<p># Comments: 204</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/\">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274757\">https://news.ycombinator.com/item?id=49274757</a></p>\n<p>Points: 137</p>\n<p># Comments: 255</p>",
         "pubDate": "Wed, 12 Aug 2026 16:14:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49274757"
       },
       {
         "title": "DeepSeek V4 Pro 0813",
         "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "description": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\">https://openrouter.ai/deepseek/deepseek-v4-pro-0813</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274600\">https://news.ycombinator.com/item?id=49274600</a></p>\n<p>Points: 765</p>\n<p># Comments: 290</p>",
+        "description": "<p><a href=\"https://api-docs.deepseek.com/\" rel=\"nofollow\">https://api-docs.deepseek.com/</a><p><a href=\"https://artificialanalysis.ai/models/deepseek-v4-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/deepseek-v4-pro</a><p><a href=\"https://twitter.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://twitter.com/ChrisGPT/status/2087572834650407024</a>, <a href=\"https://xcancel.com/ChrisGPT/status/2087572834650407024\" rel=\"nofollow\">https://xcancel.com/ChrisGPT/status/2087572834650407024</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274600\">https://news.ycombinator.com/item?id=49274600</a></p>\n<p>Points: 882</p>\n<p># Comments: 354</p>",
         "pubDate": "Wed, 12 Aug 2026 16:04:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49274600"
       },
       {
         "title": "Grok 4.6",
         "link": "https://x.ai/news/grok-4-6",
-        "description": "<p><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274027\">https://news.ycombinator.com/item?id=49274027</a></p>\n<p>Points: 417</p>\n<p># Comments: 407</p>",
+        "description": "<p><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274027\">https://news.ycombinator.com/item?id=49274027</a></p>\n<p>Points: 513</p>\n<p># Comments: 464</p>",
         "pubDate": "Wed, 12 Aug 2026 15:32:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49274027"
       },
       {
         "title": "Qwen3.8-2.4T",
         "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "description": "<p><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273478\">https://news.ycombinator.com/item?id=49273478</a></p>\n<p>Points: 509</p>\n<p># Comments: 111</p>",
+        "description": "<p><a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273478\">https://news.ycombinator.com/item?id=49273478</a></p>\n<p>Points: 589</p>\n<p># Comments: 135</p>",
         "pubDate": "Wed, 12 Aug 2026 15:01:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49273478"
       },
@@ -144,23 +144,23 @@
         "guid": "https://news.ycombinator.com/item?id=49273395"
       },
       {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
         "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272832\">https://news.ycombinator.com/item?id=49272832</a></p>\n<p>Points: 815</p>\n<p># Comments: 149</p>",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272832\">https://news.ycombinator.com/item?id=49272832</a></p>\n<p>Points: 986</p>\n<p># Comments: 187</p>",
         "pubDate": "Wed, 12 Aug 2026 14:22:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49272832"
       },
       {
         "title": "Tim King, AmigaDOS developer, has died",
         "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-        "description": "<p>Article URL: <a href=\"https://amiga-news.de/en/news/AN-2026-08-00070-EN.html\">https://amiga-news.de/en/news/AN-2026-08-00070-EN.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272655\">https://news.ycombinator.com/item?id=49272655</a></p>\n<p>Points: 240</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://amiga-news.de/en/news/AN-2026-08-00070-EN.html\">https://amiga-news.de/en/news/AN-2026-08-00070-EN.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272655\">https://news.ycombinator.com/item?id=49272655</a></p>\n<p>Points: 264</p>\n<p># Comments: 32</p>",
         "pubDate": "Wed, 12 Aug 2026 14:09:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49272655"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-13T02:35:26.931Z",
+  "lastUpdated": "2026-08-13T07:45:54.519Z",
   "stats": {
     "feeds": 2,
     "articles": 20
