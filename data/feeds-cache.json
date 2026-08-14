@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-14T02:33:14.470Z"
+      "lastFetched": "2026-08-14T07:42:59.197Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-14T02:33:27.007Z"
+      "lastFetched": "2026-08-14T07:43:18.759Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+        "link": "https://z.ai/blog/glm-5.3",
+        "description": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.3\">https://z.ai/blog/glm-5.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49294997\">https://news.ycombinator.com/item?id=49294997</a></p>\n<p>Points: 283</p>\n<p># Comments: 93</p>",
+        "pubDate": "Fri, 14 Aug 2026 05:19:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49294997"
+      },
+      {
         "title": "Bluesky Protocol Services",
         "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-        "description": "<p>Article URL: <a href=\"https://atproto.com/blog/introducing-bluesky-protocol-services\">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293324\">https://news.ycombinator.com/item?id=49293324</a></p>\n<p>Points: 73</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://atproto.com/blog/introducing-bluesky-protocol-services\">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293324\">https://news.ycombinator.com/item?id=49293324</a></p>\n<p>Points: 149</p>\n<p># Comments: 26</p>",
         "pubDate": "Fri, 14 Aug 2026 00:14:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49293324"
       },
       {
-        "title": "SparrowMap – Cameras that watch government vehicles",
-        "link": "https://sparrowmap.com/",
-        "description": "<p>Article URL: <a href=\"https://sparrowmap.com/\">https://sparrowmap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293294\">https://news.ycombinator.com/item?id=49293294</a></p>\n<p>Points: 49</p>\n<p># Comments: 11</p>",
-        "pubDate": "Fri, 14 Aug 2026 00:10:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49293294"
-      },
-      {
         "title": "Blog about things you don't understand yet",
         "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-        "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293087\">https://news.ycombinator.com/item?id=49293087</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293087\">https://news.ycombinator.com/item?id=49293087</a></p>\n<p>Points: 81</p>\n<p># Comments: 29</p>",
         "pubDate": "Thu, 13 Aug 2026 23:39:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49293087"
       },
       {
-        "title": "How AI text watermarking works",
-        "link": "https://declaude.org/watermarking/",
-        "description": "<p>Article URL: <a href=\"https://declaude.org/watermarking/\">https://declaude.org/watermarking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49292932\">https://news.ycombinator.com/item?id=49292932</a></p>\n<p>Points: 82</p>\n<p># Comments: 50</p>",
-        "pubDate": "Thu, 13 Aug 2026 23:16:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49292932"
-      },
-      {
         "title": "NP-overrated",
         "link": "https://gruhn.me/blog/2026-08-13/",
-        "description": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-13/\">https://gruhn.me/blog/2026-08-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49291268\">https://news.ycombinator.com/item?id=49291268</a></p>\n<p>Points: 157</p>\n<p># Comments: 100</p>",
+        "description": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-13/\">https://gruhn.me/blog/2026-08-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49291268\">https://news.ycombinator.com/item?id=49291268</a></p>\n<p>Points: 197</p>\n<p># Comments: 129</p>",
         "pubDate": "Thu, 13 Aug 2026 20:14:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49291268"
       },
       {
         "title": "How Gödel's Proof Works (2020)",
         "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-godels-proof-works-20200714/\">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290969\">https://news.ycombinator.com/item?id=49290969</a></p>\n<p>Points: 73</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-godels-proof-works-20200714/\">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290969\">https://news.ycombinator.com/item?id=49290969</a></p>\n<p>Points: 98</p>\n<p># Comments: 42</p>",
         "pubDate": "Thu, 13 Aug 2026 19:44:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49290969"
       },
       {
         "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
         "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-        "description": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 69</p>\n<p># Comments: 44</p>",
+        "description": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 97</p>\n<p># Comments: 55</p>",
         "pubDate": "Thu, 13 Aug 2026 19:25:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49290768"
       },
       {
         "title": "Understanding is the new bottleneck",
         "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "description": "<p>Article URL: <a href=\"https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck\">https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290299\">https://news.ycombinator.com/item?id=49290299</a></p>\n<p>Points: 214</p>\n<p># Comments: 118</p>",
+        "description": "<p>Article URL: <a href=\"https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck\">https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290299\">https://news.ycombinator.com/item?id=49290299</a></p>\n<p>Points: 297</p>\n<p># Comments: 160</p>",
         "pubDate": "Thu, 13 Aug 2026 18:47:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=49290299"
       },
       {
         "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
         "link": "https://github.com/systemd/systemd/issues/40262",
-        "description": "<p>Article URL: <a href=\"https://github.com/systemd/systemd/issues/40262\">https://github.com/systemd/systemd/issues/40262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290215\">https://news.ycombinator.com/item?id=49290215</a></p>\n<p>Points: 154</p>\n<p># Comments: 98</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/systemd/systemd/issues/40262\">https://github.com/systemd/systemd/issues/40262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290215\">https://news.ycombinator.com/item?id=49290215</a></p>\n<p>Points: 197</p>\n<p># Comments: 124</p>",
         "pubDate": "Thu, 13 Aug 2026 18:41:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49290215"
       },
       {
         "title": "Hello, me. It's been a while",
         "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-        "description": "<p>Article URL: <a href=\"https://themech.net/2026/08/hello-me-its-been-a-while/\">https://themech.net/2026/08/hello-me-its-been-a-while/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290166\">https://news.ycombinator.com/item?id=49290166</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://themech.net/2026/08/hello-me-its-been-a-while/\">https://themech.net/2026/08/hello-me-its-been-a-while/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290166\">https://news.ycombinator.com/item?id=49290166</a></p>\n<p>Points: 166</p>\n<p># Comments: 68</p>",
         "pubDate": "Thu, 13 Aug 2026 18:37:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49290166"
       },
       {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=49289844</a></p>\n<p>Points: 439</p>\n<p># Comments: 186</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=49289844</a></p>\n<p>Points: 550</p>\n<p># Comments: 230</p>",
         "pubDate": "Thu, 13 Aug 2026 18:10:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49289844"
       },
       {
         "title": "How Compaction Works in Pi",
         "link": "https://earendil.com/posts/compaction-in-pi/",
-        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/compaction-in-pi/\">https://earendil.com/posts/compaction-in-pi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289654\">https://news.ycombinator.com/item?id=49289654</a></p>\n<p>Points: 111</p>\n<p># Comments: 42</p>",
+        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/compaction-in-pi/\">https://earendil.com/posts/compaction-in-pi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289654\">https://news.ycombinator.com/item?id=49289654</a></p>\n<p>Points: 147</p>\n<p># Comments: 59</p>",
         "pubDate": "Thu, 13 Aug 2026 17:57:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49289654"
       },
       {
         "title": "Where did the old web go? We followed 657,607 links to find out",
         "link": "https://0.mk/blog/link-rot",
-        "description": "<p>Article URL: <a href=\"https://0.mk/blog/link-rot\">https://0.mk/blog/link-rot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289532\">https://news.ycombinator.com/item?id=49289532</a></p>\n<p>Points: 134</p>\n<p># Comments: 119</p>",
+        "description": "<p>Article URL: <a href=\"https://0.mk/blog/link-rot\">https://0.mk/blog/link-rot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289532\">https://news.ycombinator.com/item?id=49289532</a></p>\n<p>Points: 169</p>\n<p># Comments: 153</p>",
         "pubDate": "Thu, 13 Aug 2026 17:49:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49289532"
       },
       {
         "title": "Choose Boring Technology (2015)",
         "link": "https://mcfunley.com/choose-boring-technology",
-        "description": "<p>Article URL: <a href=\"https://mcfunley.com/choose-boring-technology\">https://mcfunley.com/choose-boring-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289512\">https://news.ycombinator.com/item?id=49289512</a></p>\n<p>Points: 260</p>\n<p># Comments: 139</p>",
+        "description": "<p>Article URL: <a href=\"https://mcfunley.com/choose-boring-technology\">https://mcfunley.com/choose-boring-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289512\">https://news.ycombinator.com/item?id=49289512</a></p>\n<p>Points: 325</p>\n<p># Comments: 160</p>",
         "pubDate": "Thu, 13 Aug 2026 17:48:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49289512"
       },
       {
         "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
         "link": "https://donkeybas.com/",
-        "description": "<p>Article URL: <a href=\"https://donkeybas.com/\">https://donkeybas.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289465\">https://news.ycombinator.com/item?id=49289465</a></p>\n<p>Points: 195</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://donkeybas.com/\">https://donkeybas.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289465\">https://news.ycombinator.com/item?id=49289465</a></p>\n<p>Points: 224</p>\n<p># Comments: 104</p>",
         "pubDate": "Thu, 13 Aug 2026 17:45:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49289465"
       },
       {
-        "title": "I want extern \"fil-C\"",
-        "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-        "description": "<p>Article URL: <a href=\"https://domenkozar.com/2026/08/13/i-want-extern-fil-c/\">https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289260\">https://news.ycombinator.com/item?id=49289260</a></p>\n<p>Points: 33</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 13 Aug 2026 17:32:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49289260"
-      },
-      {
         "title": "Gemini 3.7 Flash",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "description": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>Points: 631</p>\n<p># Comments: 358</p>",
+        "description": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>Points: 782</p>\n<p># Comments: 408</p>",
         "pubDate": "Thu, 13 Aug 2026 17:23:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49289112"
       },
       {
         "title": "Mistral OCR 4.1",
         "link": "https://docs.mistral.ai/models/ocr-4-1",
-        "description": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 256</p>\n<p># Comments: 102</p>",
+        "description": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 317</p>\n<p># Comments: 124</p>",
         "pubDate": "Thu, 13 Aug 2026 17:05:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49288889"
       },
       {
-        "title": "AI At Home Part 1: A Box Of Scraps",
-        "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-        "description": "<p>Article URL: <a href=\"https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\">https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288293\">https://news.ycombinator.com/item?id=49288293</a></p>\n<p>Points: 92</p>\n<p># Comments: 47</p>",
-        "pubDate": "Thu, 13 Aug 2026 16:22:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49288293"
-      },
-      {
         "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
         "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-        "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/kubernetes-on-oxide\">https://oxide.computer/blog/kubernetes-on-oxide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286485\">https://news.ycombinator.com/item?id=49286485</a></p>\n<p>Points: 160</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/kubernetes-on-oxide\">https://oxide.computer/blog/kubernetes-on-oxide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286485\">https://news.ycombinator.com/item?id=49286485</a></p>\n<p>Points: 183</p>\n<p># Comments: 78</p>",
         "pubDate": "Thu, 13 Aug 2026 14:26:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49286485"
+      },
+      {
+        "title": "Spaghettifying DRAM",
+        "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/skitter-creek-bath-salts\">https://github.com/xoreaxeaxeax/skitter-creek-bath-salts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286341\">https://news.ycombinator.com/item?id=49286341</a></p>\n<p>Points: 589</p>\n<p># Comments: 153</p>",
+        "pubDate": "Thu, 13 Aug 2026 14:17:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49286341"
+      },
+      {
+        "title": "Ordinary Abundance",
+        "link": "https://ordinaryabundance.com/",
+        "description": "<p>Article URL: <a href=\"https://ordinaryabundance.com/\">https://ordinaryabundance.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285770\">https://news.ycombinator.com/item?id=49285770</a></p>\n<p>Points: 285</p>\n<p># Comments: 143</p>",
+        "pubDate": "Thu, 13 Aug 2026 13:39:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49285770"
+      },
+      {
+        "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+        "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+        "description": "<p>Article URL: <a href=\"https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/\">https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285418\">https://news.ycombinator.com/item?id=49285418</a></p>\n<p>Points: 298</p>\n<p># Comments: 166</p>",
+        "pubDate": "Thu, 13 Aug 2026 13:14:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49285418"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-14T02:33:27.007Z",
+  "lastUpdated": "2026-08-14T07:43:18.759Z",
   "stats": {
     "feeds": 2,
     "articles": 20
