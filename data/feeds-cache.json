@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-14T19:04:15.805Z"
+      "lastFetched": "2026-08-15T01:43:07.229Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-14T19:04:28.340Z"
+      "lastFetched": "2026-08-15T01:43:22.394Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Show HN: Embed a real Linux terminal on your website",
-        "link": "https://sandbox.bio/training/embed",
-        "description": "<p>Article URL: <a href=\"https://sandbox.bio/training/embed\">https://sandbox.bio/training/embed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303027\">https://news.ycombinator.com/item?id=49303027</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 14 Aug 2026 18:51:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49303027"
+        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+        "description": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306577\">https://news.ycombinator.com/item?id=49306577</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 15 Aug 2026 01:14:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49306577"
       },
       {
-        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "link": "https://arxiv.org/abs/2608.12700",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.12700\">https://arxiv.org/abs/2608.12700</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301417\">https://news.ycombinator.com/item?id=49301417</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 14 Aug 2026 16:57:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49301417"
+        "title": "The Ploopy A+ Trackball Is Here",
+        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "description": "<p>Article URL: <a href=\"https://blog.ploopy.co/the-aplus-is-finally-here-499\">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306443\">https://news.ycombinator.com/item?id=49306443</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 15 Aug 2026 00:55:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49306443"
       },
       {
-        "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-        "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/ce97mm3vvemo\">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301260\">https://news.ycombinator.com/item?id=49301260</a></p>\n<p>Points: 224</p>\n<p># Comments: 135</p>",
-        "pubDate": "Fri, 14 Aug 2026 16:45:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49301260"
+        "title": "Simplifying and Refactoring Introductory Calculus",
+        "link": "https://arxiv.org/abs/1811.03459",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1811.03459\">https://arxiv.org/abs/1811.03459</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306196\">https://news.ycombinator.com/item?id=49306196</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 15 Aug 2026 00:15:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49306196"
       },
       {
-        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-        "link": "https://luacad.ad-si.com",
-        "description": "<p>LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).<p>It ships with a CLI and a desktop app, including a preview area and a text editor.<p>I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite cobbled-together and is a very poorly designed programming language.<p>LuaCAD takes all the good parts of OpenSCAD and combines them with one of the best scripting languages. It has now completely replaced OpenSCAD for me, and I think it provides a better experience than OpenSCAD for all use cases. I'd love to hear any reasons why LuaCAD shouldn't fully replace OpenSCAD!<p>It’s fully open source and you can find the repo here: <a href=\"https://github.com/ad-si/LuaCAD\" rel=\"nofollow\">https://github.com/ad-si/LuaCAD</a><p>Tech stack:<p>- It's implemented in Rust and uses mlua (<a href=\"https://github.com/mlua-rs/mlua\" rel=\"nofollow\">https://github.com/mlua-rs/mlua</a>) to execute the Lua code.<p>- Uses OpenCSG (<a href=\"https://opencsg.org\" rel=\"nofollow\">https://opencsg.org</a>) for fast and correct rendering of the 3D models (like OpenSCAD)<p>- Uses Manifold (<a href=\"https://github.com/elalish/manifold\" rel=\"nofollow\">https://github.com/elalish/manifold</a>) to create the manifold triangle meshes<p>- Native support for all BOSL2 functions (i.e. implemented in Rust for better performance)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301215\">https://news.ycombinator.com/item?id=49301215</a></p>\n<p>Points: 34</p>\n<p># Comments: 6</p>",
-        "pubDate": "Fri, 14 Aug 2026 16:43:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49301215"
+        "title": "Corgi kills short-lived website that ranked its female employees",
+        "link": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
+        "description": "<p>Article URL: <a href=\"https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees\">https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306080\">https://news.ycombinator.com/item?id=49306080</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 15 Aug 2026 00:00:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49306080"
+      },
+      {
+        "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+        "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697\">https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305927\">https://news.ycombinator.com/item?id=49305927</a></p>\n<p>Points: 83</p>\n<p># Comments: 42</p>",
+        "pubDate": "Fri, 14 Aug 2026 23:40:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49305927"
+      },
+      {
+        "title": "The case for overhauling American science",
+        "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\">https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305708\">https://news.ycombinator.com/item?id=49305708</a></p>\n<p>Points: 36</p>\n<p># Comments: 24</p>",
+        "pubDate": "Fri, 14 Aug 2026 23:11:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49305708"
+      },
+      {
+        "title": "Stop sending me huge PRs; a rant",
+        "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+        "description": "<p>Article URL: <a href=\"https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305558\">https://news.ycombinator.com/item?id=49305558</a></p>\n<p>Points: 68</p>\n<p># Comments: 44</p>",
+        "pubDate": "Fri, 14 Aug 2026 22:48:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49305558"
+      },
+      {
+        "title": "RISC-V: They should have known better",
+        "link": "https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV",
+        "description": "<p>Article URL: <a href=\"https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV\">https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305492\">https://news.ycombinator.com/item?id=49305492</a></p>\n<p>Points: 117</p>\n<p># Comments: 81</p>",
+        "pubDate": "Fri, 14 Aug 2026 22:38:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49305492"
+      },
+      {
+        "title": "eigendrum",
+        "link": "https://eigendrum.com/#p=circle",
+        "description": "<p>Article URL: <a href=\"https://eigendrum.com/#p=circle\">https://eigendrum.com/#p=circle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305250\">https://news.ycombinator.com/item?id=49305250</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 14 Aug 2026 22:15:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49305250"
+      },
+      {
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49304447\">https://news.ycombinator.com/item?id=49304447</a></p>\n<p>Points: 198</p>\n<p># Comments: 119</p>",
+        "pubDate": "Fri, 14 Aug 2026 20:52:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49304447"
+      },
+      {
+        "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+        "link": "https://arxiv.org/abs/2608.11158",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.11158\">https://arxiv.org/abs/2608.11158</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303652\">https://news.ycombinator.com/item?id=49303652</a></p>\n<p>Points: 35</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 14 Aug 2026 19:41:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49303652"
+      },
+      {
+        "title": "Firefox is now the last major browser that still supports uBlock Origin",
+        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "description": "<p>Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\">https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303202\">https://news.ycombinator.com/item?id=49303202</a></p>\n<p>Points: 401</p>\n<p># Comments: 160</p>",
+        "pubDate": "Fri, 14 Aug 2026 19:03:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49303202"
+      },
+      {
+        "title": "Show HN: Mole – Deep research agent for your terminal",
+        "link": "https://github.com/lajosdeme/mole",
+        "description": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Never spend more than you budgeted (measured overshoot is 0%).\n2. Every claim carries a source\n3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)<p>Works with most LLMs, including coding agents, subscriptions, local models, etc.<p>It's free and open source, would appreciate all feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303046\">https://news.ycombinator.com/item?id=49303046</a></p>\n<p>Points: 46</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 14 Aug 2026 18:52:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49303046"
+      },
+      {
+        "title": "The American sports plutocracy",
+        "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+        "description": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/the-american-sports-plutocracy-is\">https://www.derekthompson.org/p/the-american-sports-plutocracy-is</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49302943\">https://news.ycombinator.com/item?id=49302943</a></p>\n<p>Points: 53</p>\n<p># Comments: 39</p>",
+        "pubDate": "Fri, 14 Aug 2026 18:43:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49302943"
       },
       {
         "title": "Maximizing the value of your Claude Code sessions",
         "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "description": "<p>Article URL: <a href=\"https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300800\">https://news.ycombinator.com/item?id=49300800</a></p>\n<p>Points: 60</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300800\">https://news.ycombinator.com/item?id=49300800</a></p>\n<p>Points: 130</p>\n<p># Comments: 90</p>",
         "pubDate": "Fri, 14 Aug 2026 16:15:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49300800"
       },
       {
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-        "description": "<p>Article URL: <a href=\"https://rustdesk.com/blog/unattended-remote-access-wayland/\">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300759\">https://news.ycombinator.com/item?id=49300759</a></p>\n<p>Points: 99</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://rustdesk.com/blog/unattended-remote-access-wayland/\">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300759\">https://news.ycombinator.com/item?id=49300759</a></p>\n<p>Points: 217</p>\n<p># Comments: 94</p>",
         "pubDate": "Fri, 14 Aug 2026 16:12:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49300759"
       },
       {
-        "title": "France's top court blocks social media ban for under-15s",
-        "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\">https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300671\">https://news.ycombinator.com/item?id=49300671</a></p>\n<p>Points: 132</p>\n<p># Comments: 73</p>",
-        "pubDate": "Fri, 14 Aug 2026 16:06:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49300671"
-      },
-      {
-        "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-        "link": "https://rayforcedb.com/",
-        "description": "<p>Article URL: <a href=\"https://rayforcedb.com/\">https://rayforcedb.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300615\">https://news.ycombinator.com/item?id=49300615</a></p>\n<p>Points: 25</p>\n<p># Comments: 14</p>",
-        "pubDate": "Fri, 14 Aug 2026 16:02:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49300615"
-      },
-      {
         "title": "AI by Hand",
         "link": "https://www.byhand.ai/",
-        "description": "<p>Article URL: <a href=\"https://www.byhand.ai/\">https://www.byhand.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300568\">https://news.ycombinator.com/item?id=49300568</a></p>\n<p>Points: 71</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://www.byhand.ai/\">https://www.byhand.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300568\">https://news.ycombinator.com/item?id=49300568</a></p>\n<p>Points: 202</p>\n<p># Comments: 17</p>",
         "pubDate": "Fri, 14 Aug 2026 15:58:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49300568"
       },
       {
         "title": "Google is making private AI practical with homomorphic encryption",
         "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300314\">https://news.ycombinator.com/item?id=49300314</a></p>\n<p>Points: 92</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300314\">https://news.ycombinator.com/item?id=49300314</a></p>\n<p>Points: 277</p>\n<p># Comments: 167</p>",
         "pubDate": "Fri, 14 Aug 2026 15:43:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49300314"
       },
       {
         "title": "Introducing Toast 1",
         "link": "https://www.mixedbread.com/blog/toast-1",
-        "description": "<p>Article URL: <a href=\"https://www.mixedbread.com/blog/toast-1\">https://www.mixedbread.com/blog/toast-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299746\">https://news.ycombinator.com/item?id=49299746</a></p>\n<p>Points: 122</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://www.mixedbread.com/blog/toast-1\">https://www.mixedbread.com/blog/toast-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299746\">https://news.ycombinator.com/item?id=49299746</a></p>\n<p>Points: 177</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 14 Aug 2026 15:07:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49299746"
       },
       {
         "title": "Seven books I keep close because I love them",
         "link": "https://blog.plover.com/2026/08/02/",
-        "description": "<p>Article URL: <a href=\"https://blog.plover.com/2026/08/02/\">https://blog.plover.com/2026/08/02/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299675\">https://news.ycombinator.com/item?id=49299675</a></p>\n<p>Points: 184</p>\n<p># Comments: 76</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.plover.com/2026/08/02/\">https://blog.plover.com/2026/08/02/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299675\">https://news.ycombinator.com/item?id=49299675</a></p>\n<p>Points: 296</p>\n<p># Comments: 131</p>",
         "pubDate": "Fri, 14 Aug 2026 15:03:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49299675"
-      },
-      {
-        "title": "Self-hosted web push Cloudflare Worker, works on iOS",
-        "link": "https://kukuroo.cc/",
-        "description": "<p>Article URL: <a href=\"https://kukuroo.cc/\">https://kukuroo.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299667\">https://news.ycombinator.com/item?id=49299667</a></p>\n<p>Points: 41</p>\n<p># Comments: 15</p>",
-        "pubDate": "Fri, 14 Aug 2026 15:03:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49299667"
-      },
-      {
-        "title": "Qwen 3.8 27B",
-        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "description": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B-FP8\">https://huggingface.co/Qwen/Qwen3.8-27B-FP8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299605\">https://news.ycombinator.com/item?id=49299605</a></p>\n<p>Points: 453</p>\n<p># Comments: 319</p>",
-        "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49299605"
-      },
-      {
-        "title": "Earth.nullschool.net",
-        "link": "https://earth.nullschool.net/",
-        "description": "<p>Article URL: <a href=\"https://earth.nullschool.net/\">https://earth.nullschool.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299364\">https://news.ycombinator.com/item?id=49299364</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
-        "pubDate": "Fri, 14 Aug 2026 14:42:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49299364"
-      },
-      {
-        "title": "Every Fucking Website (2020)",
-        "link": "https://lxe.github.io/everywebsite/",
-        "description": "<p>Article URL: <a href=\"https://lxe.github.io/everywebsite/\">https://lxe.github.io/everywebsite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299222\">https://news.ycombinator.com/item?id=49299222</a></p>\n<p>Points: 586</p>\n<p># Comments: 346</p>",
-        "pubDate": "Fri, 14 Aug 2026 14:31:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49299222"
-      },
-      {
-        "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-        "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-        "description": "<p>Article URL: <a href=\"https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0\">https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299102\">https://news.ycombinator.com/item?id=49299102</a></p>\n<p>Points: 35</p>\n<p># Comments: 5</p>",
-        "pubDate": "Fri, 14 Aug 2026 14:22:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49299102"
-      },
-      {
-        "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-        "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-        "description": "<p>Article URL: <a href=\"https://heyjonny.dev/posts/rss-to-eink-newspaper/\">https://heyjonny.dev/posts/rss-to-eink-newspaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299081\">https://news.ycombinator.com/item?id=49299081</a></p>\n<p>Points: 76</p>\n<p># Comments: 32</p>",
-        "pubDate": "Fri, 14 Aug 2026 14:21:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49299081"
-      },
-      {
-        "title": "In Australia, a home battery boom has helped cut wholesale power prices",
-        "link": "https://e360.yale.edu/digest/australia-home-batteries",
-        "description": "<p>Article URL: <a href=\"https://e360.yale.edu/digest/australia-home-batteries\">https://e360.yale.edu/digest/australia-home-batteries</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49298910\">https://news.ycombinator.com/item?id=49298910</a></p>\n<p>Points: 247</p>\n<p># Comments: 189</p>",
-        "pubDate": "Fri, 14 Aug 2026 14:07:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49298910"
-      },
-      {
-        "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-        "link": "https://hashagent.pages.dev/",
-        "description": "<p>Article URL: <a href=\"https://hashagent.pages.dev/\">https://hashagent.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49298088\">https://news.ycombinator.com/item?id=49298088</a></p>\n<p>Points: 38</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 14 Aug 2026 12:57:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49298088"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-14T19:04:28.340Z",
+  "lastUpdated": "2026-08-15T01:43:22.394Z",
   "stats": {
     "feeds": 2,
     "articles": 20
