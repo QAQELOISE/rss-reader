@@ -5,18 +5,109 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-15T18:39:42.231Z"
+      "lastFetched": "2026-08-16T01:50:34.842Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-15T18:40:01.908Z"
+      "lastFetched": "2026-08-16T01:50:54.591Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
+      {
+        "title": "Tea5767-Radio-Tuner",
+        "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+        "description": "<p>Article URL: <a href=\"https://github.com/turtushig22-blip/tea5767-radio-tuner\">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315456\">https://news.ycombinator.com/item?id=49315456</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 15 Aug 2026 23:54:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49315456"
+      },
+      {
+        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+        "link": "https://sugartrack-beta.vercel.app/",
+        "description": "<p>Article URL: <a href=\"https://sugartrack-beta.vercel.app/\">https://sugartrack-beta.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314884\">https://news.ycombinator.com/item?id=49314884</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 15 Aug 2026 22:28:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314884"
+      },
+      {
+        "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+        "link": "https://xescu.re/keeta-consensus.pdf",
+        "description": "<p>Article URL: <a href=\"https://xescu.re/keeta-consensus.pdf\">https://xescu.re/keeta-consensus.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314642\">https://news.ycombinator.com/item?id=49314642</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 15 Aug 2026 21:49:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314642"
+      },
+      {
+        "title": "Were Touch Bar's problems software rather than hardware?",
+        "link": "https://unsung.aresluna.org/deeper-dive-were-touch-bars-problems-software-rather-than-hardware/",
+        "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/deeper-dive-were-touch-bars-problems-software-rather-than-hardware/\">https://unsung.aresluna.org/deeper-dive-were-touch-bars-problems-software-rather-than-hardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314630\">https://news.ycombinator.com/item?id=49314630</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 15 Aug 2026 21:47:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314630"
+      },
+      {
+        "title": "Bede Liu, a digital signal processing pioneer, has died",
+        "link": "https://spectrum.ieee.org/digital-signal-processing",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/digital-signal-processing\">https://spectrum.ieee.org/digital-signal-processing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314615\">https://news.ycombinator.com/item?id=49314615</a></p>\n<p>Points: 55</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 15 Aug 2026 21:45:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314615"
+      },
+      {
+        "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+        "link": "https://en.wikipedia.org/wiki/Wow!_signal",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wow!_signal\">https://en.wikipedia.org/wiki/Wow!_signal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314596\">https://news.ycombinator.com/item?id=49314596</a></p>\n<p>Points: 63</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sat, 15 Aug 2026 21:42:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314596"
+      },
+      {
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "description": "<p>Article URL: <a href=\"https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/\">https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314579\">https://news.ycombinator.com/item?id=49314579</a></p>\n<p>Points: 33</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 15 Aug 2026 21:39:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314579"
+      },
+      {
+        "title": "Abdominal fat predicts heart disease risk better than BMI",
+        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "description": "<p>Article URL: <a href=\"https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi\">https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314403\">https://news.ycombinator.com/item?id=49314403</a></p>\n<p>Points: 148</p>\n<p># Comments: 111</p>",
+        "pubDate": "Sat, 15 Aug 2026 21:14:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314403"
+      },
+      {
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
+        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+        "description": "<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/good-ideas\">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314235\">https://news.ycombinator.com/item?id=49314235</a></p>\n<p>Points: 77</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49314235"
+      },
+      {
+        "title": "Humazon",
+        "link": "https://hughhowey.com/humazon/",
+        "description": "<p>Article URL: <a href=\"https://hughhowey.com/humazon/\">https://hughhowey.com/humazon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313941\">https://news.ycombinator.com/item?id=49313941</a></p>\n<p>Points: 25</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sat, 15 Aug 2026 20:18:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49313941"
+      },
+      {
+        "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+        "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+        "description": "<p>Article URL: <a href=\"https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/\">https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313428\">https://news.ycombinator.com/item?id=49313428</a></p>\n<p>Points: 75</p>\n<p># Comments: 31</p>",
+        "pubDate": "Sat, 15 Aug 2026 19:20:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49313428"
+      },
+      {
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "description": "<p><a href=\"https://www.nature.com/articles/s41573-026-01496-2\" rel=\"nofollow\">https://www.nature.com/articles/s41573-026-01496-2</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313367\">https://news.ycombinator.com/item?id=49313367</a></p>\n<p>Points: 86</p>\n<p># Comments: 43</p>",
+        "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49313367"
+      },
+      {
+        "title": "Tess's Android Wayland Compositor",
+        "link": "https://github.com/wmww/tawc",
+        "description": "<p>Article URL: <a href=\"https://github.com/wmww/tawc\">https://github.com/wmww/tawc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313068\">https://news.ycombinator.com/item?id=49313068</a></p>\n<p>Points: 45</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 15 Aug 2026 18:34:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49313068"
+      },
       {
         "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
         "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
@@ -25,142 +116,51 @@
         "guid": "https://news.ycombinator.com/item?id=49313047"
       },
       {
-        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title": "AI has access to a vastly larger working memory than the human brain",
         "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "description": "<p>Article URL: <a href=\"https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312845\">https://news.ycombinator.com/item?id=49312845</a></p>\n<p>Points: 47</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312845\">https://news.ycombinator.com/item?id=49312845</a></p>\n<p>Points: 410</p>\n<p># Comments: 371</p>",
         "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49312845"
       },
       {
-        "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
-        "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
-        "description": "<p>Article URL: <a href=\"https://www.treasurydirect.gov/savings-bonds/idme-one-month/\">https://www.treasurydirect.gov/savings-bonds/idme-one-month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312465\">https://news.ycombinator.com/item?id=49312465</a></p>\n<p>Points: 18</p>\n<p># Comments: 16</p>",
-        "pubDate": "Sat, 15 Aug 2026 17:30:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49312465"
+        "title": "I Remain a Skeptic",
+        "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+        "description": "<p>Article URL: <a href=\"https://blog.jsbarretto.com/post/i-remain-a-skeptic\">https://blog.jsbarretto.com/post/i-remain-a-skeptic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312053\">https://news.ycombinator.com/item?id=49312053</a></p>\n<p>Points: 66</p>\n<p># Comments: 41</p>",
+        "pubDate": "Sat, 15 Aug 2026 16:42:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49312053"
       },
       {
-        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-        "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c4gxy0wqqd9o\">https://www.bbc.com/news/articles/c4gxy0wqqd9o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312413\">https://news.ycombinator.com/item?id=49312413</a></p>\n<p>Points: 40</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sat, 15 Aug 2026 17:21:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49312413"
-      },
-      {
-        "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-        "link": "https://www.core77.com/posts/144869",
-        "description": "<p>Article URL: <a href=\"https://www.core77.com/posts/144869\">https://www.core77.com/posts/144869</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312165\">https://news.ycombinator.com/item?id=49312165</a></p>\n<p>Points: 40</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sat, 15 Aug 2026 16:53:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49312165"
-      },
-      {
-        "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-        "link": "https://www.nature.com/articles/d41586-026-02448-x",
-        "description": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-02448-x\">https://www.nature.com/articles/d41586-026-02448-x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312008\">https://news.ycombinator.com/item?id=49312008</a></p>\n<p>Points: 77</p>\n<p># Comments: 27</p>",
-        "pubDate": "Sat, 15 Aug 2026 16:38:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49312008"
-      },
-      {
-        "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+        "title": "Semaglutide linked to lower predicted dementia risk",
         "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-        "description": "<p>Article URL: <a href=\"https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432\">https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311651\">https://news.ycombinator.com/item?id=49311651</a></p>\n<p>Points: 144</p>\n<p># Comments: 82</p>",
+        "description": "<p>Article URL: <a href=\"https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432\">https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311651\">https://news.ycombinator.com/item?id=49311651</a></p>\n<p>Points: 347</p>\n<p># Comments: 240</p>",
         "pubDate": "Sat, 15 Aug 2026 15:58:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49311651"
       },
       {
-        "title": "A Spectre Is Haunting Unicode",
+        "title": "A spectre is haunting Unicode",
         "link": "https://www.dampfkraft.com/ghost-characters.html",
-        "description": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 57</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 169</p>\n<p># Comments: 57</p>",
         "pubDate": "Sat, 15 Aug 2026 14:34:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49310926"
       },
       {
-        "title": "Printytron – Type it. 3D Print it",
+        "title": "Printytron – Describe a part, get a printable STL",
         "link": "https://printytron.com",
-        "description": "<p>Article URL: <a href=\"https://printytron.com\">https://printytron.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310829\">https://news.ycombinator.com/item?id=49310829</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://printytron.com\">https://printytron.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310829\">https://news.ycombinator.com/item?id=49310829</a></p>\n<p>Points: 70</p>\n<p># Comments: 31</p>",
         "pubDate": "Sat, 15 Aug 2026 14:22:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49310829"
       },
       {
-        "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
         "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/\">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310682\">https://news.ycombinator.com/item?id=49310682</a></p>\n<p>Points: 123</p>\n<p># Comments: 46</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/\">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310682\">https://news.ycombinator.com/item?id=49310682</a></p>\n<p>Points: 211</p>\n<p># Comments: 77</p>",
         "pubDate": "Sat, 15 Aug 2026 14:04:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49310682"
-      },
-      {
-        "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-        "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-        "description": "<p>Article URL: <a href=\"http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html\">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310495\">https://news.ycombinator.com/item?id=49310495</a></p>\n<p>Points: 42</p>\n<p># Comments: 19</p>",
-        "pubDate": "Sat, 15 Aug 2026 13:43:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49310495"
-      },
-      {
-        "title": "Could a computer scientist build a brain?",
-        "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-        "description": "<p>Article URL: <a href=\"https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/\">https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310362\">https://news.ycombinator.com/item?id=49310362</a></p>\n<p>Points: 41</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sat, 15 Aug 2026 13:26:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49310362"
-      },
-      {
-        "title": "Xorshift Generators",
-        "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-        "description": "<p>Article URL: <a href=\"https://www.alanzucconi.com/2026/08/15/xorshift-generators/\">https://www.alanzucconi.com/2026/08/15/xorshift-generators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310128\">https://news.ycombinator.com/item?id=49310128</a></p>\n<p>Points: 25</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sat, 15 Aug 2026 12:47:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49310128"
-      },
-      {
-        "title": "T3X/0 a Minimal Procedural Language",
-        "link": "https://t3x.org/t3x/0/index.html",
-        "description": "<p>Article URL: <a href=\"https://t3x.org/t3x/0/index.html\">https://t3x.org/t3x/0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309923\">https://news.ycombinator.com/item?id=49309923</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 15 Aug 2026 12:06:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49309923"
-      },
-      {
-        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "link": "https://sankalp.bearblog.dev/autoresearch/",
-        "description": "<p>Article URL: <a href=\"https://sankalp.bearblog.dev/autoresearch/\">https://sankalp.bearblog.dev/autoresearch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309549\">https://news.ycombinator.com/item?id=49309549</a></p>\n<p>Points: 290</p>\n<p># Comments: 75</p>",
-        "pubDate": "Sat, 15 Aug 2026 11:00:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49309549"
-      },
-      {
-        "title": "Working with AI Feels More Like Leadership Than Coding",
-        "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "description": "<p>Article URL: <a href=\"https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/\">https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309451\">https://news.ycombinator.com/item?id=49309451</a></p>\n<p>Points: 174</p>\n<p># Comments: 123</p>",
-        "pubDate": "Sat, 15 Aug 2026 10:39:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49309451"
-      },
-      {
-        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "link": "https://uecker.codeberg.page/2026-07-14.html",
-        "description": "<p>Article URL: <a href=\"https://uecker.codeberg.page/2026-07-14.html\">https://uecker.codeberg.page/2026-07-14.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308685\">https://news.ycombinator.com/item?id=49308685</a></p>\n<p>Points: 71</p>\n<p># Comments: 38</p>",
-        "pubDate": "Sat, 15 Aug 2026 07:59:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49308685"
-      },
-      {
-        "title": "The other Sean Byrne doesn't exist",
-        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "description": "<p>Article URL: <a href=\"https://conic.al/writing/the-other-sean-byrne-doesnt-exist/\">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307592\">https://news.ycombinator.com/item?id=49307592</a></p>\n<p>Points: 330</p>\n<p># Comments: 160</p>",
-        "pubDate": "Sat, 15 Aug 2026 04:18:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49307592"
-      },
-      {
-        "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
-        "link": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
-        "description": "<p>Article URL: <a href=\"https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/\">https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306333\">https://news.ycombinator.com/item?id=49306333</a></p>\n<p>Points: 31</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sat, 15 Aug 2026 00:36:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49306333"
-      },
-      {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49304447\">https://news.ycombinator.com/item?id=49304447</a></p>\n<p>Points: 429</p>\n<p># Comments: 227</p>",
-        "pubDate": "Fri, 14 Aug 2026 20:52:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49304447"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-15T18:40:01.908Z",
+  "lastUpdated": "2026-08-16T01:50:54.591Z",
   "stats": {
     "feeds": 2,
     "articles": 20
