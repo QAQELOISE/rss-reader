@@ -5,57 +5,134 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-16T18:39:13.608Z"
+      "lastFetched": "2026-08-17T01:47:59.437Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-16T18:39:29.212Z"
+      "lastFetched": "2026-08-17T01:48:13.553Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Rhombus 1.1 is now available",
+        "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+        "description": "<p>Article URL: <a href=\"https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325384\">https://news.ycombinator.com/item?id=49325384</a></p>\n<p>Points: 8</p>\n<p># Comments: 4</p>",
+        "pubDate": "Mon, 17 Aug 2026 00:48:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49325384"
+      },
+      {
+        "title": "The Life and Death of Direct File [pdf]",
+        "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+        "description": "<p>Article URL: <a href=\"https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325185\">https://news.ycombinator.com/item?id=49325185</a></p>\n<p>Points: 43</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 17 Aug 2026 00:17:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49325185"
+      },
+      {
+        "title": "The federal keyword lists that canceled billions in research funding",
+        "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+        "description": "<p>Article URL: <a href=\"https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325159\">https://news.ycombinator.com/item?id=49325159</a></p>\n<p>Points: 33</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 17 Aug 2026 00:14:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49325159"
+      },
+      {
+        "title": "Webmaster a Manifesto for Everyone",
+        "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
+        "description": "<p>Article URL: <a href=\"https://brennan.day/webmaster-a-manifesto-for-everyone/\">https://brennan.day/webmaster-a-manifesto-for-everyone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325092\">https://news.ycombinator.com/item?id=49325092</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 17 Aug 2026 00:04:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49325092"
+      },
+      {
+        "title": "Reticulum – Decentralized Mesh Network",
+        "link": "https://reticulum.network/",
+        "description": "<p>Article URL: <a href=\"https://reticulum.network/\">https://reticulum.network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325061\">https://news.ycombinator.com/item?id=49325061</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 16 Aug 2026 23:59:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49325061"
+      },
+      {
+        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/16/qwen-38-27b/\">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324985\">https://news.ycombinator.com/item?id=49324985</a></p>\n<p>Points: 33</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sun, 16 Aug 2026 23:45:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49324985"
+      },
+      {
+        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323686\">https://news.ycombinator.com/item?id=49323686</a></p>\n<p>Points: 99</p>\n<p># Comments: 28</p>",
+        "pubDate": "Sun, 16 Aug 2026 21:07:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49323686"
+      },
+      {
+        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<p>Points: 195</p>\n<p># Comments: 142</p>",
+        "pubDate": "Sun, 16 Aug 2026 20:31:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49323381"
+      },
+      {
+        "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+        "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+        "description": "<p>Article URL: <a href=\"https://github.com/aleks-ent/pump-dump-crypto-screener\">https://github.com/aleks-ent/pump-dump-crypto-screener</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323256\">https://news.ycombinator.com/item?id=49323256</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 16 Aug 2026 20:16:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49323256"
+      },
+      {
+        "title": "Red queen hypothesis – a new way forward for self-improving AI",
+        "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+        "description": "<p>Article URL: <a href=\"https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai\">https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323136\">https://news.ycombinator.com/item?id=49323136</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 16 Aug 2026 20:01:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49323136"
+      },
+      {
+        "title": "Models Are Getting Dumber on Purpose",
+        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+        "description": "<p>Article URL: <a href=\"https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322695\">https://news.ycombinator.com/item?id=49322695</a></p>\n<p>Points: 267</p>\n<p># Comments: 149</p>",
+        "pubDate": "Sun, 16 Aug 2026 19:04:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49322695"
+      },
+      {
+        "title": "Protobuf has LSP support. You're welcome",
+        "link": "https://buf.build/blog/protobuf-lsp",
+        "description": "<p>Article URL: <a href=\"https://buf.build/blog/protobuf-lsp\">https://buf.build/blog/protobuf-lsp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322573\">https://news.ycombinator.com/item?id=49322573</a></p>\n<p>Points: 108</p>\n<p># Comments: 78</p>",
+        "pubDate": "Sun, 16 Aug 2026 18:48:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49322573"
+      },
+      {
+        "title": "MathCode, Mathematical Coding Agent",
+        "link": "https://math-ai-org.github.io/mathcode/",
+        "description": "<p>Article URL: <a href=\"https://math-ai-org.github.io/mathcode/\">https://math-ai-org.github.io/mathcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322330\">https://news.ycombinator.com/item?id=49322330</a></p>\n<p>Points: 61</p>\n<p># Comments: 18</p>",
+        "pubDate": "Sun, 16 Aug 2026 18:17:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49322330"
+      },
+      {
+        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+        "link": "https://news.ycombinator.com/item?id=49322107",
+        "description": "<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322107\">https://news.ycombinator.com/item?id=49322107</a></p>\n<p>Points: 281</p>\n<p># Comments: 68</p>",
+        "pubDate": "Sun, 16 Aug 2026 17:49:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49322107"
+      },
+      {
         "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
         "link": "https://rvembedded.com/blog_post/12/",
-        "description": "<p>Article URL: <a href=\"https://rvembedded.com/blog_post/12/\">https://rvembedded.com/blog_post/12/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321717\">https://news.ycombinator.com/item?id=49321717</a></p>\n<p>Points: 51</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://rvembedded.com/blog_post/12/\">https://rvembedded.com/blog_post/12/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321717\">https://news.ycombinator.com/item?id=49321717</a></p>\n<p>Points: 373</p>\n<p># Comments: 197</p>",
         "pubDate": "Sun, 16 Aug 2026 17:01:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49321717"
       },
       {
-        "title": "NIH is ending a key grant for budding clinical researchers",
-        "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers\">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321353\">https://news.ycombinator.com/item?id=49321353</a></p>\n<p>Points: 52</p>\n<p># Comments: 12</p>",
-        "pubDate": "Sun, 16 Aug 2026 16:14:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49321353"
-      },
-      {
-        "title": "The weekend is 100 years old",
-        "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it\">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320984\">https://news.ycombinator.com/item?id=49320984</a></p>\n<p>Points: 95</p>\n<p># Comments: 58</p>",
-        "pubDate": "Sun, 16 Aug 2026 15:30:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49320984"
-      },
-      {
         "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
         "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-        "description": "<p>Article URL: <a href=\"https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core\">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320856\">https://news.ycombinator.com/item?id=49320856</a></p>\n<p>Points: 87</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core\">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320856\">https://news.ycombinator.com/item?id=49320856</a></p>\n<p>Points: 158</p>\n<p># Comments: 121</p>",
         "pubDate": "Sun, 16 Aug 2026 15:16:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49320856"
       },
       {
-        "title": "GPS and the Lost Art of Getting Lost",
-        "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost\">https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320673\">https://news.ycombinator.com/item?id=49320673</a></p>\n<p>Points: 40</p>\n<p># Comments: 27</p>",
-        "pubDate": "Sun, 16 Aug 2026 14:53:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49320673"
-      },
-      {
         "title": "The AI Credit Resale Economy",
         "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "description": "<p>Article URL: <a href=\"https://vectoral.com/blog/who-are-the-token-brokers\">https://vectoral.com/blog/who-are-the-token-brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320611\">https://news.ycombinator.com/item?id=49320611</a></p>\n<p>Points: 142</p>\n<p># Comments: 57</p>",
+        "description": "<p>Article URL: <a href=\"https://vectoral.com/blog/who-are-the-token-brokers\">https://vectoral.com/blog/who-are-the-token-brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320611\">https://news.ycombinator.com/item?id=49320611</a></p>\n<p>Points: 225</p>\n<p># Comments: 88</p>",
         "pubDate": "Sun, 16 Aug 2026 14:44:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49320611"
       },
@@ -67,100 +144,23 @@
         "guid": "https://news.ycombinator.com/item?id=49319892"
       },
       {
-        "title": "Show HN: A public AI whose memory is shared across all users",
-        "link": "https://wildstatic.com/",
-        "description": "<p>Article URL: <a href=\"https://wildstatic.com/\">https://wildstatic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319814\">https://news.ycombinator.com/item?id=49319814</a></p>\n<p>Points: 47</p>\n<p># Comments: 32</p>",
-        "pubDate": "Sun, 16 Aug 2026 13:21:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49319814"
-      },
-      {
         "title": "Firefox for iOS now has a native adblocker",
         "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-        "description": "<p>Article URL: <a href=\"https://support.mozilla.org/en-US/kb/block-ads-firefox-ios\">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319633\">https://news.ycombinator.com/item?id=49319633</a></p>\n<p>Points: 338</p>\n<p># Comments: 133</p>",
+        "description": "<p>Article URL: <a href=\"https://support.mozilla.org/en-US/kb/block-ads-firefox-ios\">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319633\">https://news.ycombinator.com/item?id=49319633</a></p>\n<p>Points: 537</p>\n<p># Comments: 218</p>",
         "pubDate": "Sun, 16 Aug 2026 12:58:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49319633"
       },
       {
         "title": "Claude: System Prompts",
         "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "description": "<p>Article URL: <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts\">https://platform.claude.com/docs/en/release-notes/system-prompts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319556\">https://news.ycombinator.com/item?id=49319556</a></p>\n<p>Points: 353</p>\n<p># Comments: 150</p>",
+        "description": "<p>Article URL: <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts\">https://platform.claude.com/docs/en/release-notes/system-prompts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319556\">https://news.ycombinator.com/item?id=49319556</a></p>\n<p>Points: 541</p>\n<p># Comments: 227</p>",
         "pubDate": "Sun, 16 Aug 2026 12:48:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49319556"
-      },
-      {
-        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-        "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-        "description": "<p>Article URL: <a href=\"https://scholar.google.com/scholar?q=%22kidney+disappointment%22\">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319389\">https://news.ycombinator.com/item?id=49319389</a></p>\n<p>Points: 259</p>\n<p># Comments: 98</p>",
-        "pubDate": "Sun, 16 Aug 2026 12:22:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49319389"
-      },
-      {
-        "title": "A True Telnet BBS on a Casio Calculator",
-        "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-        "description": "<p>Article URL: <a href=\"https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/\">https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319349\">https://news.ycombinator.com/item?id=49319349</a></p>\n<p>Points: 56</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sun, 16 Aug 2026 12:16:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49319349"
-      },
-      {
-        "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
-        "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319215\">https://news.ycombinator.com/item?id=49319215</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 16 Aug 2026 12:00:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49319215"
-      },
-      {
-        "title": "AI Coding Without the Vibes",
-        "link": "https://peterbloem.nl/blog/craft-coding",
-        "description": "<p>Article URL: <a href=\"https://peterbloem.nl/blog/craft-coding\">https://peterbloem.nl/blog/craft-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318735\">https://news.ycombinator.com/item?id=49318735</a></p>\n<p>Points: 53</p>\n<p># Comments: 28</p>",
-        "pubDate": "Sun, 16 Aug 2026 10:31:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49318735"
-      },
-      {
-        "title": "Guiding Ships with Moire Patterns (2018)",
-        "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-        "description": "<p>Article URL: <a href=\"https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/\">https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315995\">https://news.ycombinator.com/item?id=49315995</a></p>\n<p>Points: 102</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sun, 16 Aug 2026 01:26:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49315995"
-      },
-      {
-        "title": "Software Engineering fundamentals matter more",
-        "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "description": "<p>Article URL: <a href=\"https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/\">https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314902\">https://news.ycombinator.com/item?id=49314902</a></p>\n<p>Points: 275</p>\n<p># Comments: 181</p>",
-        "pubDate": "Sat, 15 Aug 2026 22:31:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49314902"
-      },
-      {
-        "title": "Cultivating a state of mind where new ideas are born (2023)",
-        "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
-        "description": "<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/good-ideas\">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314235\">https://news.ycombinator.com/item?id=49314235</a></p>\n<p>Points: 243</p>\n<p># Comments: 58</p>",
-        "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49314235"
-      },
-      {
-        "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-        "link": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-y8bGBE71yw\">https://www.youtube.com/watch?v=-y8bGBE71yw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313920\">https://news.ycombinator.com/item?id=49313920</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sat, 15 Aug 2026 20:15:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49313920"
-      },
-      {
-        "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-        "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-        "description": "<p>Article URL: <a href=\"https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/\">https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313428\">https://news.ycombinator.com/item?id=49313428</a></p>\n<p>Points: 384</p>\n<p># Comments: 267</p>",
-        "pubDate": "Sat, 15 Aug 2026 19:20:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49313428"
-      },
-      {
-        "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-        "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313047\">https://news.ycombinator.com/item?id=49313047</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 15 Aug 2026 18:33:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49313047"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-16T18:39:29.213Z",
+  "lastUpdated": "2026-08-17T01:48:13.553Z",
   "stats": {
     "feeds": 2,
     "articles": 20
