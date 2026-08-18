@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-18T06:56:40.734Z"
+      "lastFetched": "2026-08-18T18:49:52.814Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-18T13:00:37.869Z"
+      "lastFetched": "2026-08-18T18:50:12.445Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "How does IKEA come up with names for its products?",
+        "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "description": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+        "pubDate": "Tue, 18 Aug 2026 18:11:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49349984"
+      },
+      {
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "link": "https://github.com/RyanCodrai/turbovec",
+        "description": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 18 Aug 2026 18:07:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49349898"
+      },
+      {
+        "title": "Show HN: macOS data protection keychain for Electron apps",
+        "link": "https://github.com/biw/keychain-store",
+        "description": "<p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protection Keychain is nice because it limits access via code-signing access groups and lets you set access rules like Touch ID and/or password.<p>1: <a href=\"https://hansel.so/\" rel=\"nofollow\">https://hansel.so/</a><p>2. <a href=\"https://www.electronjs.org/docs/latest/api/safe-storage\" rel=\"nofollow\">https://www.electronjs.org/docs/latest/api/safe-storage</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349159\">https://news.ycombinator.com/item?id=49349159</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 18 Aug 2026 17:25:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49349159"
+      },
+      {
+        "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+        "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+        "description": "<p>Article URL: <a href=\"https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban\">https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349147\">https://news.ycombinator.com/item?id=49349147</a></p>\n<p>Points: 111</p>\n<p># Comments: 90</p>",
+        "pubDate": "Tue, 18 Aug 2026 17:24:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49349147"
+      },
+      {
+        "title": "Claude Code weekly limits reduce by a third tomorrow",
+        "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "description": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348751\">https://news.ycombinator.com/item?id=49348751</a></p>\n<p>Points: 204</p>\n<p># Comments: 140</p>",
+        "pubDate": "Tue, 18 Aug 2026 17:02:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49348751"
+      },
+      {
+        "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows\">https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348356\">https://news.ycombinator.com/item?id=49348356</a></p>\n<p>Points: 36</p>\n<p># Comments: 13</p>",
+        "pubDate": "Tue, 18 Aug 2026 16:40:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49348356"
+      },
+      {
+        "title": "Superpowers, Not Superintelligence",
+        "link": "https://bond.now/news/superpowers-not-superintelligence",
+        "description": "<p>Article URL: <a href=\"https://bond.now/news/superpowers-not-superintelligence\">https://bond.now/news/superpowers-not-superintelligence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348152\">https://news.ycombinator.com/item?id=49348152</a></p>\n<p>Points: 22</p>\n<p># Comments: 24</p>",
+        "pubDate": "Tue, 18 Aug 2026 16:27:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49348152"
+      },
+      {
+        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+        "link": "https://machine0.io",
+        "description": "<p>Hi HN! I’m Barnaby, founder of machine0 (<a href=\"https://machine0.io\">https://machine0.io</a>). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP.<p>Demo: <a href=\"https://www.youtube.com/watch?v=gyllkZ0M04E\" rel=\"nofollow\">https://www.youtube.com/watch?v=gyllkZ0M04E</a><p>Agent workloads are moving from ephemeral to always-on. A coding agent working on a complex feature runs 6-8 hours. Agent orchestrated training & RL runs take days. OpenClaw & Hermes run 24/7. As you run more in parallel:<p>- Resources: a few agents on a large codebase saturate RAM and CPU. Model training and RL needs GPUs you don't have.<p>- Security: `--yolo` on your personal machine is one prompt injection away from exfiltrated credentials.<p>- Availability: close your laptop and the agent dies mid-task.<p>- Isolation: there's no clean line between you and the minimum your agent actually needs.<p>machine0 gives every agent its own computer. It's a CLI simple enough that both humans and agents use it without reading docs:\n`machine0 new mybox` creates an SSH-ready VM with a static IP and HTTPS endpoint. Always on (with 99.99% VM level uptime) until you switch it off.<p>- Billed by the minute. 1 vCPU / 1 GB at $0.013/hr up to 60 vCPU / 240 GB, plus GPUs from RTX 4000 Ada to 8×H200.<p>- Suspend, snapshot and resume. Making it easy to pause your work, and come back to it later. Or to make a golden master image to stamp out clones for a fleet.<p>- Block storage. Persistent volumes (from 10 GB to 16 TB) that you can manage with intuitive grammar: `--yolo` and attach to your VMs.<p>- Profiles. Bundles of credentials, MCP connections, prompts, and env vars, injected at VM creation. So each agent gets exactly the capabilities you choose, and nothing else.<p>- Agents self-serve. Hand the CLI or MCP server to Claude, Codex, or OpenCode and it manages its own fleet: spin up a box for a build, snapshot it, tear it down.<p>- Reproducible Builds. Using NixOS flakes or Ansible playbooks with Ubuntu.<p>How do people use it today?<p>- Agent fleets. People run a pilot agent that scopes work and delegates it to sub-agents, each on its own VM: shape a project with the pilot, and the workers implement it and open PRs. One customer runs hundreds of machines at once, spun up and torn down from the CLI.<p>- Model optimization & RL environments. ML teams use machine0 for agent-orchestrated RL environments and model optimization work. One customer runs RL environments on 60 vCPU machines that stay up for days at a time; another keeps a suspended H100 around and points an agent at it overnight to grind on inference-speed optimizations.<p>- Product infrastructure. One customer builds their product on top of machine0 rather than using it themselves: every user session gets a fresh XL machine from a versioned image of their own agent runtime. They've shipped hundreds of versions of that image and launched thousands of machines, most alive for two minutes.<p>What’s under the hood?<p>Every machine is a full KVM virtual machine, not a container or sandbox. You get the real GPU exposed to the guest with its actual driver, kernel-level access (load any module or driver you want), and no syscall-interception layer between you and the hardware. The stack itself is deliberately dull: TypeScript, Postgres, Redis. We weigh heavily towards security, reliability and performance making machine0 ideal for sustained compute intensive workloads. \nAbout me<p>I've been building cloud infrastructure for about 15 years. I dropped out of a PhD at Imperial College London on cloud resource allocation, later spent six years as co-founder and CTO of Upflow (YC W20), owning DevOps, infra and security personally the whole way to 7-figures in ARR because it was too high-stakes to delegate. machine0 started as a tool for me, I’m my own first user :)\nAsks<p>Would love you to try it out and give us your feedback (see below). Or if you’re a company looking for compute for software factories, model training or RL environments, feel free to reach out at barnaby@machine0.io<p><pre><code>  # install machine0 \n  $ curl -LsSf https://machine0.io/install.sh | sh\n\n  # create a machine and ssh in\n  $ machine0 new myvm\n  $ machine0 ssh myvm</code></pre></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348136\">https://news.ycombinator.com/item?id=49348136</a></p>\n<p>Points: 25</p>\n<p># Comments: 19</p>",
+        "pubDate": "Tue, 18 Aug 2026 16:26:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49348136"
+      },
+      {
+        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+        "link": "https://github.com/therepanic/openleetcode",
+        "description": "<p>You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.<p>It currently supports around 1.4k problems and multiple languages, including Python, C++, Rust, Java, Go, TypeScript, Swift, and others.<p>The project is still an MVP. System design, SQL, and concurrency problems are not supported yet, but support for more problem types is planned.<p>Made in Haskell!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49347178\">https://news.ycombinator.com/item?id=49347178</a></p>\n<p>Points: 21</p>\n<p># Comments: 9</p>",
+        "pubDate": "Tue, 18 Aug 2026 15:30:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49347178"
+      },
+      {
+        "title": "Code-native generation of highly programmable 3D assets (2026)",
+        "link": "https://arxiv.org/abs/2607.22738",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.22738\">https://arxiv.org/abs/2607.22738</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346538\">https://news.ycombinator.com/item?id=49346538</a></p>\n<p>Points: 36</p>\n<p># Comments: 34</p>",
+        "pubDate": "Tue, 18 Aug 2026 14:54:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49346538"
+      },
+      {
+        "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+        "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+        "description": "<p>Article URL: <a href=\"https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873\">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345843\">https://news.ycombinator.com/item?id=49345843</a></p>\n<p>Points: 170</p>\n<p># Comments: 37</p>",
+        "pubDate": "Tue, 18 Aug 2026 14:06:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49345843"
+      },
+      {
+        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+        "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
+        "description": "<p>Article URL: <a href=\"https://opensource.posit.co/resources/cheatsheets/polars/\">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345476\">https://news.ycombinator.com/item?id=49345476</a></p>\n<p>Points: 109</p>\n<p># Comments: 16</p>",
+        "pubDate": "Tue, 18 Aug 2026 13:38:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49345476"
+      },
+      {
+        "title": "The Amazon tax",
+        "link": "https://seths.blog/2026/08/the-amazon-tax/",
+        "description": "<p>Article URL: <a href=\"https://seths.blog/2026/08/the-amazon-tax/\">https://seths.blog/2026/08/the-amazon-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345263\">https://news.ycombinator.com/item?id=49345263</a></p>\n<p>Points: 546</p>\n<p># Comments: 379</p>",
+        "pubDate": "Tue, 18 Aug 2026 13:22:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49345263"
+      },
+      {
+        "title": "Fixing a bricked Framework laptop",
+        "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "description": "<p>Article URL: <a href=\"https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/\">https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345220\">https://news.ycombinator.com/item?id=49345220</a></p>\n<p>Points: 244</p>\n<p># Comments: 154</p>",
+        "pubDate": "Tue, 18 Aug 2026 13:18:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49345220"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "link": "https://philo.gay/linecam/",
+        "description": "<p>Article URL: <a href=\"https://philo.gay/linecam/\">https://philo.gay/linecam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344825\">https://news.ycombinator.com/item?id=49344825</a></p>\n<p>Points: 298</p>\n<p># Comments: 52</p>",
+        "pubDate": "Tue, 18 Aug 2026 12:43:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49344825"
+      },
+      {
+        "title": "Fairphone is now officially available in the United States",
+        "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "description": "<p>Article URL: <a href=\"https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more\">https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344811\">https://news.ycombinator.com/item?id=49344811</a></p>\n<p>Points: 285</p>\n<p># Comments: 139</p>",
+        "pubDate": "Tue, 18 Aug 2026 12:42:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49344811"
+      },
+      {
+        "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+        "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+        "description": "<p>Article URL: <a href=\"https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/\">https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344654\">https://news.ycombinator.com/item?id=49344654</a></p>\n<p>Points: 216</p>\n<p># Comments: 129</p>",
+        "pubDate": "Tue, 18 Aug 2026 12:23:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49344654"
+      },
+      {
+        "title": "Google has acquired the data of failed US airline Spirit",
+        "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343559\">https://news.ycombinator.com/item?id=49343559</a></p>\n<p>Points: 500</p>\n<p># Comments: 350</p>",
+        "pubDate": "Tue, 18 Aug 2026 10:13:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49343559"
+      },
+      {
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "description": "<p>Article URL: <a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">https://pixelcluster.dev/VRAM-Overcommit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342719\">https://news.ycombinator.com/item?id=49342719</a></p>\n<p>Points: 438</p>\n<p># Comments: 194</p>",
+        "pubDate": "Tue, 18 Aug 2026 07:51:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49342719"
+      },
+      {
+        "title": "Rethinking Database Programming",
+        "link": "https://acadia.engineering/blog/rethinking-database-programming",
+        "description": "<p>Article URL: <a href=\"https://acadia.engineering/blog/rethinking-database-programming\">https://acadia.engineering/blog/rethinking-database-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342530\">https://news.ycombinator.com/item?id=49342530</a></p>\n<p>Points: 200</p>\n<p># Comments: 103</p>",
+        "pubDate": "Tue, 18 Aug 2026 07:28:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49342530"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-18T13:00:37.870Z",
+  "lastUpdated": "2026-08-18T18:50:12.445Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
