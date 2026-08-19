@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-19T13:01:18.274Z"
+      "lastFetched": "2026-08-19T18:46:03.811Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-19T13:01:38.049Z"
+      "lastFetched": "2026-08-19T18:46:23.935Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Introducing MicroLighter",
+        "link": "https://daverupert.com/2026/08/microlighter/",
+        "description": "<p>Article URL: <a href=\"https://daverupert.com/2026/08/microlighter/\">https://daverupert.com/2026/08/microlighter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365326\">https://news.ycombinator.com/item?id=49365326</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 19 Aug 2026 18:28:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49365326"
+      },
+      {
+        "title": "Cop Explains Why He Used License Plate Reader to Stalk Woman",
+        "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+        "description": "<p>Article URL: <a href=\"https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/\">https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364789\">https://news.ycombinator.com/item?id=49364789</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 19 Aug 2026 17:50:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49364789"
+      },
+      {
+        "title": "Openrouter is joining Stripe",
+        "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "description": "<p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 130</p>\n<p># Comments: 86</p>",
+        "pubDate": "Wed, 19 Aug 2026 17:32:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49364559"
+      },
+      {
+        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+        "link": "https://demo.frugaltokens.com/",
+        "description": "<p>I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend. I’d noticed people had widely different spend profiles and wanted to better understand what might contribute to that.<p>As I’ve worked on this, the tool has grown to show more usage patterns across all of your sessions. It shows overall usage, estimated working time and overlapping sessions, and where your spend is coming from across models and cache misses. I also have a few session level metrics with percentile breakdowns, along with a list of your sessions and high level info.<p>Clicking into a session opens an explorer where you can see individual model calls and tool inputs and outputs. You can also jump directly to where a cache miss happened. There’s also a rough cost comparison that shows what the recorded session would have cost with another model’s pricing, or for Anthropic, with 5m vs 1h caching.<p>In the future, I’d love to collect more information to see which patterns might make people’s workflows more expensive, e.g. long sessions, high context usage, many turns, etc.<p>The tool requires deno, but is just one command to run once that is installed. The demo provided has some of the data scrubbed, but helps to show what it looks like before running it.<p>Would appreciate any thoughts or ideas<p><a href=\"https://github.com/dpclark4/frugal-tokens\" rel=\"nofollow\">https://github.com/dpclark4/frugal-tokens</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364223\">https://news.ycombinator.com/item?id=49364223</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+        "pubDate": "Wed, 19 Aug 2026 17:07:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49364223"
+      },
+      {
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "link": "https://github.com/onecli/onecli",
+        "description": "<p>Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.<p>Here’s what you can do with it:<p>1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat.<p>2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket.<p>3. manage team policy in one place, enforced across every agent in the workspace<p>4. enjoy global connections at the team level, like shared LLM keys or service accounts<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=dlW-44ntpbE\" rel=\"nofollow\">https://www.youtube.com/watch?v=dlW-44ntpbE</a><p>We started working on this by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. When OpenClaw took off back in January, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. They keep them in their memory and also write them down to local files and their sessions as plain text. And we knew that agents can easily be fooled into giving up those API keys/secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker's benefit.<p>We created OneCLI that started as a vault for AI Agents built in Rust.<p>We found out that most of our demand for OneCLI came from autonomous agents like Hermes, OpenClaw and NanoClaw for individuals and teams.<p>Users looked for useful agents that do things for the person who runs them with two missing parts: 1) managing secrets and permissions. 2) and for teams - multiplayer management.<p>We decided to pivot and provide the agent itself as a harness for teams, to give each employee an agent. We saw that teams had to deal with setting up their own harness again and again, and basically as we already had the vault as a gateway. We got the idea to provide the missing piece of the agent management out of the box and open source it (Apache-2.0, with a small enterprise exception).<p>We're open source first - the entire platform, not just a small portion of it like other agents, so companies can actually see the code, evaluate it, and trust it instead of taking our word for it. They run it isolated, in their own environment, fully under their control, at production quality, not a locked black box hosted somewhere else. That means the safety isn't just a promise, it's something they can verify themselves. Combined with real autonomy and least-privilege access, that's what makes it something a company can fully own and trust, not just adopt.<p>We also approach this from a company perspective rather than an individual one. Our solution manages agents on behalf of each employee, wrapped in deterministic guardrails that company admins configure through centralized policies.<p>For the agent engine itself we’re using jcode which is the core of the agent-loop. We found out that it improves the experience and makes the agent smarter and faster.<p>Here’s how it works:<p>It runs on infra you control. Fully open-source, self-host or cloud in minutes.<p>The agent never holds a real secret. It gets a placeholder. The real credential is injected at the gateway, per request, after the call is authorized. It never enters the agent's context, memory, or logs.<p>Enforcement outside the model. Prompts are suggestions. Policies defined by the org admin run at the network layer, outside the agent and the LLM. Block endpoints, rate limit per agent, require approval, scope per employee. The gateway decides. The agent can't bypass it.<p>Isolated VM per agent. Own memory, own keys, own permissions. Blast radius is one agent.<p>Speed of the Harness: Rust engine under the agent loop.<p>Full identity trail. Every agent is bound to an employee. Every call logged with who it acted for and which policy allowed it.<p>Some things people are doing with the platform include:<p>- Managing their company life cycle entirely from the sales calls, to the product side automatically open tickets to the engineering teams, that would kick the development agents to deliver and ship to production.<p>- Operational side, like automatically hygiene the CRM after calls, sourcing leads, book meetings and manage follow ups emails.<p>- Some of our customers also doing their entire grocery shopping using those agents and send them to take care of their chores like ordering things online.<p>About the team: Both founders come from cybersecurity backgrounds. Jonathan spent years at Axis Security building zero trust network access. The core idea is that you never trust the client. You decide exactly what a person can reach, and you enforce it outside of them, at the network layer, so it doesn't matter what the client tries to do. That's how every serious company gives access to humans today. Guy was the 1st employee in Argon security doing AppSec.<p>We would love to hear your thoughts on the move, happy to get issues open to improve and get your agent to be powerful and secure - designed for teams, not just individuals.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363710\">https://news.ycombinator.com/item?id=49363710</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+        "pubDate": "Wed, 19 Aug 2026 16:29:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49363710"
+      },
+      {
+        "title": "Extensible Software in the Age of LLMs",
+        "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+        "description": "<p>Article URL: <a href=\"https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\">https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363668\">https://news.ycombinator.com/item?id=49363668</a></p>\n<p>Points: 39</p>\n<p># Comments: 19</p>",
+        "pubDate": "Wed, 19 Aug 2026 16:26:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49363668"
+      },
+      {
+        "title": "How Kubernetes Probes Work",
+        "link": "https://ngrok.com/blog/probes",
+        "description": "<p>Article URL: <a href=\"https://ngrok.com/blog/probes\">https://ngrok.com/blog/probes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363665\">https://news.ycombinator.com/item?id=49363665</a></p>\n<p>Points: 43</p>\n<p># Comments: 3</p>",
+        "pubDate": "Wed, 19 Aug 2026 16:25:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49363665"
+      },
+      {
+        "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+        "link": "https://arxiv.org/abs/2503.08679",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2503.08679\">https://arxiv.org/abs/2503.08679</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363587\">https://news.ycombinator.com/item?id=49363587</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
+        "pubDate": "Wed, 19 Aug 2026 16:18:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49363587"
+      },
+      {
+        "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
+        "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2013/11/civic-hygiene/\">https://shkspr.mobi/blog/2013/11/civic-hygiene/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363433\">https://news.ycombinator.com/item?id=49363433</a></p>\n<p>Points: 354</p>\n<p># Comments: 245</p>",
+        "pubDate": "Wed, 19 Aug 2026 16:07:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49363433"
+      },
+      {
+        "title": "Remote workers report the highest well-being in study of 7,700 employees",
+        "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+        "description": "<p>Article URL: <a href=\"https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees\">https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362934\">https://news.ycombinator.com/item?id=49362934</a></p>\n<p>Points: 254</p>\n<p># Comments: 117</p>",
+        "pubDate": "Wed, 19 Aug 2026 15:32:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49362934"
+      },
+      {
+        "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+        "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "description": "<p>Article URL: <a href=\"https://www.casio.com/uk/watches/casio/product.F-B100W-1A/\">https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362887\">https://news.ycombinator.com/item?id=49362887</a></p>\n<p>Points: 152</p>\n<p># Comments: 123</p>",
+        "pubDate": "Wed, 19 Aug 2026 15:28:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49362887"
+      },
+      {
+        "title": "Mathematics in the Age of AI",
+        "link": "https://arxiv.org/abs/2608.16753",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.16753\">https://arxiv.org/abs/2608.16753</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362728\">https://news.ycombinator.com/item?id=49362728</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
+        "pubDate": "Wed, 19 Aug 2026 15:14:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49362728"
+      },
+      {
+        "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+        "link": "https://ornith.ai/ornith_1_5.html",
+        "description": "<p>Article URL: <a href=\"https://ornith.ai/ornith_1_5.html\">https://ornith.ai/ornith_1_5.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362401\">https://news.ycombinator.com/item?id=49362401</a></p>\n<p>Points: 98</p>\n<p># Comments: 22</p>",
+        "pubDate": "Wed, 19 Aug 2026 14:48:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49362401"
+      },
+      {
+        "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+        "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/NoubarAfeyan/status/2090050162441752787\">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361395\">https://news.ycombinator.com/item?id=49361395</a></p>\n<p>Points: 375</p>\n<p># Comments: 162</p>",
+        "pubDate": "Wed, 19 Aug 2026 13:33:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49361395"
+      },
+      {
+        "title": "PostgreSQL for Everything",
+        "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+        "description": "<p>Article URL: <a href=\"https://www.raphaelbauer.com:443/posts/postgresql-everything/\">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361279\">https://news.ycombinator.com/item?id=49361279</a></p>\n<p>Points: 197</p>\n<p># Comments: 136</p>",
+        "pubDate": "Wed, 19 Aug 2026 13:21:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49361279"
+      },
+      {
         "title": "Geolocating a random island using geometry and CUDA programming",
         "link": "https://yassa9.github.io/osint/gralhix-004/",
-        "description": "<p>Article URL: <a href=\"https://yassa9.github.io/osint/gralhix-004/\">https://yassa9.github.io/osint/gralhix-004/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360545\">https://news.ycombinator.com/item?id=49360545</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://yassa9.github.io/osint/gralhix-004/\">https://yassa9.github.io/osint/gralhix-004/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360545\">https://news.ycombinator.com/item?id=49360545</a></p>\n<p>Points: 302</p>\n<p># Comments: 55</p>",
         "pubDate": "Wed, 19 Aug 2026 12:19:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49360545"
       },
       {
-        "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+        "title": "Devices with GrapheneOS support should be available in 2027",
         "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117078064184215730\">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360242\">https://news.ycombinator.com/item?id=49360242</a></p>\n<p>Points: 102</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117078064184215730\">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360242\">https://news.ycombinator.com/item?id=49360242</a></p>\n<p>Points: 501</p>\n<p># Comments: 315</p>",
         "pubDate": "Wed, 19 Aug 2026 11:46:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49360242"
       },
       {
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "description": "<p>Article URL: <a href=\"https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/\">https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360015\">https://news.ycombinator.com/item?id=49360015</a></p>\n<p>Points: 470</p>\n<p># Comments: 61</p>",
+        "pubDate": "Wed, 19 Aug 2026 11:21:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49360015"
+      },
+      {
         "title": "Air Theremin – a browser theremin you play by waving at your webcam",
         "link": "https://theremin.bizibah.com/",
-        "description": "<p>Article URL: <a href=\"https://theremin.bizibah.com/\">https://theremin.bizibah.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49359425\">https://news.ycombinator.com/item?id=49359425</a></p>\n<p>Points: 74</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://theremin.bizibah.com/\">https://theremin.bizibah.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49359425\">https://news.ycombinator.com/item?id=49359425</a></p>\n<p>Points: 189</p>\n<p># Comments: 70</p>",
         "pubDate": "Wed, 19 Aug 2026 10:15:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49359425"
       },
       {
-        "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-        "link": "https://www.modular.com/blog/modcon-announcements",
-        "description": "<p>Article URL: <a href=\"https://www.modular.com/blog/modcon-announcements\">https://www.modular.com/blog/modcon-announcements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358327\">https://news.ycombinator.com/item?id=49358327</a></p>\n<p>Points: 114</p>\n<p># Comments: 43</p>",
-        "pubDate": "Wed, 19 Aug 2026 07:47:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49358327"
-      },
-      {
-        "title": "λλ: A Programming Language for Silicon Photonics",
-        "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-        "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3789240.3829151\">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49357501\">https://news.ycombinator.com/item?id=49357501</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 19 Aug 2026 06:09:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49357501"
-      },
-      {
-        "title": "Palomar: A registry of Lean verified mathematics",
-        "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355968\">https://news.ycombinator.com/item?id=49355968</a></p>\n<p>Points: 128</p>\n<p># Comments: 25</p>",
-        "pubDate": "Wed, 19 Aug 2026 02:41:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355968"
-      },
-      {
-        "title": "Meta's blockbuster trial draws parallels to big tobacco",
-        "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-        "description": "<p><a href=\"https://archive.ph/a3165\" rel=\"nofollow\">https://archive.ph/a3165</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355825\">https://news.ycombinator.com/item?id=49355825</a></p>\n<p>Points: 272</p>\n<p># Comments: 223</p>",
-        "pubDate": "Wed, 19 Aug 2026 02:24:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355825"
-      },
-      {
-        "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-        "link": "https://github.com/katiahayati/lucasartsifier/",
-        "description": "<p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355607\">https://news.ycombinator.com/item?id=49355607</a></p>\n<p>Points: 96</p>\n<p># Comments: 40</p>",
-        "pubDate": "Wed, 19 Aug 2026 01:58:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355607"
-      },
-      {
         "title": "OpenLogi",
         "link": "https://openlogi.org/en",
-        "description": "<p>Article URL: <a href=\"https://openlogi.org/en\">https://openlogi.org/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355606\">https://news.ycombinator.com/item?id=49355606</a></p>\n<p>Points: 991</p>\n<p># Comments: 273</p>",
+        "description": "<p>Article URL: <a href=\"https://openlogi.org/en\">https://openlogi.org/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355606\">https://news.ycombinator.com/item?id=49355606</a></p>\n<p>Points: 1408</p>\n<p># Comments: 380</p>",
         "pubDate": "Wed, 19 Aug 2026 01:58:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355606"
-      },
-      {
-        "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
-        "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
-        "description": "<p>Video and explanation on the ship discovery:<p><i>Why This Wood Costs US$360/kg</i>: <a href=\"https://www.youtube.com/watch?v=u5b5bKlvdhQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=u5b5bKlvdhQ</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355451\">https://news.ycombinator.com/item?id=49355451</a></p>\n<p>Points: 46</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 19 Aug 2026 01:36:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355451"
-      },
-      {
-        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-        "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l1r1zne1ro\">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355105\">https://news.ycombinator.com/item?id=49355105</a></p>\n<p>Points: 322</p>\n<p># Comments: 257</p>",
-        "pubDate": "Wed, 19 Aug 2026 00:48:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355105"
-      },
-      {
-        "title": "Cerebras CS-4",
-        "link": "https://www.cerebras.ai/cs4",
-        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/cs4\">https://www.cerebras.ai/cs4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354949\">https://news.ycombinator.com/item?id=49354949</a></p>\n<p>Points: 348</p>\n<p># Comments: 214</p>",
-        "pubDate": "Wed, 19 Aug 2026 00:28:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49354949"
-      },
-      {
-        "title": "Solo – a .so loader for static Linux binaries",
-        "link": "https://github.com/pg83/solo",
-        "description": "<p>Article URL: <a href=\"https://github.com/pg83/solo\">https://github.com/pg83/solo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354613\">https://news.ycombinator.com/item?id=49354613</a></p>\n<p>Points: 157</p>\n<p># Comments: 182</p>",
-        "pubDate": "Tue, 18 Aug 2026 23:51:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49354613"
-      },
-      {
-        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-        "link": "https://github.com/DenisSergeevitch/desktop-fly",
-        "description": "<p>Article URL: <a href=\"https://github.com/DenisSergeevitch/desktop-fly\">https://github.com/DenisSergeevitch/desktop-fly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353221\">https://news.ycombinator.com/item?id=49353221</a></p>\n<p>Points: 316</p>\n<p># Comments: 130</p>",
-        "pubDate": "Tue, 18 Aug 2026 21:50:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49353221"
-      },
-      {
-        "title": "How does IKEA come up with names for its products?",
-        "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-        "description": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 384</p>\n<p># Comments: 268</p>",
-        "pubDate": "Tue, 18 Aug 2026 18:11:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49349984"
-      },
-      {
-        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-        "link": "https://github.com/RyanCodrai/turbovec",
-        "description": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 266</p>\n<p># Comments: 32</p>",
-        "pubDate": "Tue, 18 Aug 2026 18:07:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49349898"
-      },
-      {
-        "title": "And then the men with guns tell you to do it anyway",
-        "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/\">https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348912\">https://news.ycombinator.com/item?id=49348912</a></p>\n<p>Points: 350</p>\n<p># Comments: 258</p>",
-        "pubDate": "Tue, 18 Aug 2026 17:11:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49348912"
-      },
-      {
-        "title": "Apple announces changes for apps in the European Union",
-        "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/\">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348055\">https://news.ycombinator.com/item?id=49348055</a></p>\n<p>Points: 231</p>\n<p># Comments: 318</p>",
-        "pubDate": "Tue, 18 Aug 2026 16:21:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49348055"
-      },
-      {
-        "title": "The Amazon tax",
-        "link": "https://seths.blog/2026/08/the-amazon-tax/",
-        "description": "<p>Article URL: <a href=\"https://seths.blog/2026/08/the-amazon-tax/\">https://seths.blog/2026/08/the-amazon-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345263\">https://news.ycombinator.com/item?id=49345263</a></p>\n<p>Points: 1233</p>\n<p># Comments: 639</p>",
-        "pubDate": "Tue, 18 Aug 2026 13:22:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49345263"
-      },
-      {
-        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-        "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-        "description": "<p><a href=\"https://xcancel.com/kuberwastaken/status/2089377982536388964\" rel=\"nofollow\">https://xcancel.com/kuberwastaken/status/2089377982536388964</a><p><a href=\"https://cdn.kuber.studio/chat/hp-laser-1008a-driver\" rel=\"nofollow\">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344643\">https://news.ycombinator.com/item?id=49344643</a></p>\n<p>Points: 235</p>\n<p># Comments: 178</p>",
-        "pubDate": "Tue, 18 Aug 2026 12:22:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49344643"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-19T13:01:38.049Z",
+  "lastUpdated": "2026-08-19T18:46:23.935Z",
   "stats": {
     "feeds": 2,
     "articles": 20
