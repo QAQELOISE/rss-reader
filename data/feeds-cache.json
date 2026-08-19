@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-19T06:56:44.604Z"
+      "lastFetched": "2026-08-19T13:01:18.274Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-19T06:57:04.277Z"
+      "lastFetched": "2026-08-19T13:01:38.049Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "link": "https://yassa9.github.io/osint/gralhix-004/",
+        "description": "<p>Article URL: <a href=\"https://yassa9.github.io/osint/gralhix-004/\">https://yassa9.github.io/osint/gralhix-004/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360545\">https://news.ycombinator.com/item?id=49360545</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+        "pubDate": "Wed, 19 Aug 2026 12:19:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49360545"
+      },
+      {
+        "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+        "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117078064184215730\">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360242\">https://news.ycombinator.com/item?id=49360242</a></p>\n<p>Points: 102</p>\n<p># Comments: 22</p>",
+        "pubDate": "Wed, 19 Aug 2026 11:46:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49360242"
+      },
+      {
+        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+        "link": "https://theremin.bizibah.com/",
+        "description": "<p>Article URL: <a href=\"https://theremin.bizibah.com/\">https://theremin.bizibah.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49359425\">https://news.ycombinator.com/item?id=49359425</a></p>\n<p>Points: 74</p>\n<p># Comments: 38</p>",
+        "pubDate": "Wed, 19 Aug 2026 10:15:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49359425"
+      },
+      {
+        "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+        "link": "https://www.modular.com/blog/modcon-announcements",
+        "description": "<p>Article URL: <a href=\"https://www.modular.com/blog/modcon-announcements\">https://www.modular.com/blog/modcon-announcements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358327\">https://news.ycombinator.com/item?id=49358327</a></p>\n<p>Points: 114</p>\n<p># Comments: 43</p>",
+        "pubDate": "Wed, 19 Aug 2026 07:47:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49358327"
+      },
+      {
+        "title": "λλ: A Programming Language for Silicon Photonics",
+        "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+        "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3789240.3829151\">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49357501\">https://news.ycombinator.com/item?id=49357501</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 19 Aug 2026 06:09:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49357501"
+      },
+      {
         "title": "Palomar: A registry of Lean verified mathematics",
         "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355968\">https://news.ycombinator.com/item?id=49355968</a></p>\n<p>Points: 63</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355968\">https://news.ycombinator.com/item?id=49355968</a></p>\n<p>Points: 128</p>\n<p># Comments: 25</p>",
         "pubDate": "Wed, 19 Aug 2026 02:41:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355968"
       },
       {
         "title": "Meta's blockbuster trial draws parallels to big tobacco",
         "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-        "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco\">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355825\">https://news.ycombinator.com/item?id=49355825</a></p>\n<p>Points: 188</p>\n<p># Comments: 132</p>",
+        "description": "<p><a href=\"https://archive.ph/a3165\" rel=\"nofollow\">https://archive.ph/a3165</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355825\">https://news.ycombinator.com/item?id=49355825</a></p>\n<p>Points: 272</p>\n<p># Comments: 223</p>",
         "pubDate": "Wed, 19 Aug 2026 02:24:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355825"
       },
       {
         "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
         "link": "https://github.com/katiahayati/lucasartsifier/",
-        "description": "<p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355607\">https://news.ycombinator.com/item?id=49355607</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
+        "description": "<p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355607\">https://news.ycombinator.com/item?id=49355607</a></p>\n<p>Points: 96</p>\n<p># Comments: 40</p>",
         "pubDate": "Wed, 19 Aug 2026 01:58:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355607"
       },
       {
         "title": "OpenLogi",
         "link": "https://openlogi.org/en",
-        "description": "<p>Article URL: <a href=\"https://openlogi.org/en\">https://openlogi.org/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355606\">https://news.ycombinator.com/item?id=49355606</a></p>\n<p>Points: 294</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://openlogi.org/en\">https://openlogi.org/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355606\">https://news.ycombinator.com/item?id=49355606</a></p>\n<p>Points: 991</p>\n<p># Comments: 273</p>",
         "pubDate": "Wed, 19 Aug 2026 01:58:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355606"
       },
       {
         "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
         "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
-        "description": "<p>Video and explanation on the ship discovery:<p><i>Why This Wood Costs US$360/kg</i>: <a href=\"https://www.youtube.com/watch?v=u5b5bKlvdhQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=u5b5bKlvdhQ</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355451\">https://news.ycombinator.com/item?id=49355451</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+        "description": "<p>Video and explanation on the ship discovery:<p><i>Why This Wood Costs US$360/kg</i>: <a href=\"https://www.youtube.com/watch?v=u5b5bKlvdhQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=u5b5bKlvdhQ</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355451\">https://news.ycombinator.com/item?id=49355451</a></p>\n<p>Points: 46</p>\n<p># Comments: 3</p>",
         "pubDate": "Wed, 19 Aug 2026 01:36:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355451"
       },
       {
-        "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
-        "link": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
-        "description": "<p>Article URL: <a href=\"https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/\">https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355360\">https://news.ycombinator.com/item?id=49355360</a></p>\n<p>Points: 21</p>\n<p># Comments: 14</p>",
-        "pubDate": "Wed, 19 Aug 2026 01:22:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355360"
-      },
-      {
-        "title": "Tiny satellite will use the dark side of the Moon as a shield",
-        "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-        "description": "<p>Article URL: <a href=\"https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe\">https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355232\">https://news.ycombinator.com/item?id=49355232</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
-        "pubDate": "Wed, 19 Aug 2026 01:06:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355232"
-      },
-      {
-        "title": "Sticky wage norms and the real wage cost of unexpected inflation",
-        "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-        "description": "<p>Article URL: <a href=\"https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf\">https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355142\">https://news.ycombinator.com/item?id=49355142</a></p>\n<p>Points: 346</p>\n<p># Comments: 196</p>",
-        "pubDate": "Wed, 19 Aug 2026 00:53:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49355142"
-      },
-      {
         "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
         "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l1r1zne1ro\">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355105\">https://news.ycombinator.com/item?id=49355105</a></p>\n<p>Points: 145</p>\n<p># Comments: 85</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l1r1zne1ro\">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355105\">https://news.ycombinator.com/item?id=49355105</a></p>\n<p>Points: 322</p>\n<p># Comments: 257</p>",
         "pubDate": "Wed, 19 Aug 2026 00:48:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49355105"
       },
       {
         "title": "Cerebras CS-4",
         "link": "https://www.cerebras.ai/cs4",
-        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/cs4\">https://www.cerebras.ai/cs4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354949\">https://news.ycombinator.com/item?id=49354949</a></p>\n<p>Points: 202</p>\n<p># Comments: 142</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/cs4\">https://www.cerebras.ai/cs4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354949\">https://news.ycombinator.com/item?id=49354949</a></p>\n<p>Points: 348</p>\n<p># Comments: 214</p>",
         "pubDate": "Wed, 19 Aug 2026 00:28:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49354949"
       },
       {
-        "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-        "link": "https://modelmap.cc",
-        "description": "<p>Article URL: <a href=\"https://modelmap.cc\">https://modelmap.cc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354664\">https://news.ycombinator.com/item?id=49354664</a></p>\n<p>Points: 69</p>\n<p># Comments: 7</p>",
-        "pubDate": "Tue, 18 Aug 2026 23:57:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49354664"
-      },
-      {
         "title": "Solo – a .so loader for static Linux binaries",
         "link": "https://github.com/pg83/solo",
-        "description": "<p>Article URL: <a href=\"https://github.com/pg83/solo\">https://github.com/pg83/solo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354613\">https://news.ycombinator.com/item?id=49354613</a></p>\n<p>Points: 107</p>\n<p># Comments: 85</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/pg83/solo\">https://github.com/pg83/solo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354613\">https://news.ycombinator.com/item?id=49354613</a></p>\n<p>Points: 157</p>\n<p># Comments: 182</p>",
         "pubDate": "Tue, 18 Aug 2026 23:51:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49354613"
       },
       {
-        "title": "AI usage patterns in software teams",
-        "link": "https://linear.app/data",
-        "description": "<p>Article URL: <a href=\"https://linear.app/data\">https://linear.app/data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353432\">https://news.ycombinator.com/item?id=49353432</a></p>\n<p>Points: 109</p>\n<p># Comments: 56</p>",
-        "pubDate": "Tue, 18 Aug 2026 22:08:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49353432"
-      },
-      {
         "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
         "link": "https://github.com/DenisSergeevitch/desktop-fly",
-        "description": "<p>Article URL: <a href=\"https://github.com/DenisSergeevitch/desktop-fly\">https://github.com/DenisSergeevitch/desktop-fly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353221\">https://news.ycombinator.com/item?id=49353221</a></p>\n<p>Points: 236</p>\n<p># Comments: 78</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/DenisSergeevitch/desktop-fly\">https://github.com/DenisSergeevitch/desktop-fly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353221\">https://news.ycombinator.com/item?id=49353221</a></p>\n<p>Points: 316</p>\n<p># Comments: 130</p>",
         "pubDate": "Tue, 18 Aug 2026 21:50:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49353221"
       },
       {
-        "title": "Beware Management Consultants",
-        "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-        "description": "<p>Article URL: <a href=\"https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351324\">https://news.ycombinator.com/item?id=49351324</a></p>\n<p>Points: 513</p>\n<p># Comments: 128</p>",
-        "pubDate": "Tue, 18 Aug 2026 19:29:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49351324"
-      },
-      {
         "title": "How does IKEA come up with names for its products?",
         "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-        "description": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 303</p>\n<p># Comments: 179</p>",
+        "description": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 384</p>\n<p># Comments: 268</p>",
         "pubDate": "Tue, 18 Aug 2026 18:11:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49349984"
       },
       {
         "title": "Turbovec – Google's TurboQuant for vector search in Rust",
         "link": "https://github.com/RyanCodrai/turbovec",
-        "description": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 230</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 266</p>\n<p># Comments: 32</p>",
         "pubDate": "Tue, 18 Aug 2026 18:07:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49349898"
       },
       {
         "title": "And then the men with guns tell you to do it anyway",
         "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/\">https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348912\">https://news.ycombinator.com/item?id=49348912</a></p>\n<p>Points: 268</p>\n<p># Comments: 167</p>",
+        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/\">https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348912\">https://news.ycombinator.com/item?id=49348912</a></p>\n<p>Points: 350</p>\n<p># Comments: 258</p>",
         "pubDate": "Tue, 18 Aug 2026 17:11:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49348912"
       },
       {
         "title": "Apple announces changes for apps in the European Union",
         "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/\">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348055\">https://news.ycombinator.com/item?id=49348055</a></p>\n<p>Points: 150</p>\n<p># Comments: 205</p>",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/\">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348055\">https://news.ycombinator.com/item?id=49348055</a></p>\n<p>Points: 231</p>\n<p># Comments: 318</p>",
         "pubDate": "Tue, 18 Aug 2026 16:21:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49348055"
       },
       {
         "title": "The Amazon tax",
         "link": "https://seths.blog/2026/08/the-amazon-tax/",
-        "description": "<p>Article URL: <a href=\"https://seths.blog/2026/08/the-amazon-tax/\">https://seths.blog/2026/08/the-amazon-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345263\">https://news.ycombinator.com/item?id=49345263</a></p>\n<p>Points: 1106</p>\n<p># Comments: 610</p>",
+        "description": "<p>Article URL: <a href=\"https://seths.blog/2026/08/the-amazon-tax/\">https://seths.blog/2026/08/the-amazon-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345263\">https://news.ycombinator.com/item?id=49345263</a></p>\n<p>Points: 1233</p>\n<p># Comments: 639</p>",
         "pubDate": "Tue, 18 Aug 2026 13:22:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49345263"
+      },
+      {
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "description": "<p><a href=\"https://xcancel.com/kuberwastaken/status/2089377982536388964\" rel=\"nofollow\">https://xcancel.com/kuberwastaken/status/2089377982536388964</a><p><a href=\"https://cdn.kuber.studio/chat/hp-laser-1008a-driver\" rel=\"nofollow\">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344643\">https://news.ycombinator.com/item?id=49344643</a></p>\n<p>Points: 235</p>\n<p># Comments: 178</p>",
+        "pubDate": "Tue, 18 Aug 2026 12:22:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49344643"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-19T06:57:04.278Z",
+  "lastUpdated": "2026-08-19T13:01:38.049Z",
   "stats": {
     "feeds": 2,
     "articles": 20
