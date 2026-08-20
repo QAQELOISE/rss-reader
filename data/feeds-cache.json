@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-20T13:03:35.072Z"
+      "lastFetched": "2026-08-20T18:51:22.363Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-20T13:03:43.463Z"
+      "lastFetched": "2026-08-20T18:51:22.468Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-        "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-        "description": "<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373456\">https://news.ycombinator.com/item?id=49373456</a></p>\n<p>Points: 33</p>\n<p># Comments: 7</p>",
-        "pubDate": "Thu, 20 Aug 2026 12:04:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49373456"
+        "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+        "link": "https://bitflash.network/",
+        "description": "<p>Article URL: <a href=\"https://bitflash.network/\">https://bitflash.network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378036\">https://news.ycombinator.com/item?id=49378036</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 20 Aug 2026 18:02:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49378036"
       },
       {
-        "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-        "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 20 Aug 2026 12:00:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49373423"
+        "title": "Optimizing things in the USSR (2016)",
+        "link": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+        "description": "<p>Article URL: <a href=\"https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/\">https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377923\">https://news.ycombinator.com/item?id=49377923</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:55:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377923"
       },
       {
-        "title": "Australia passes law to levy tech giants that fail to pay for local news",
-        "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/\">https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373123\">https://news.ycombinator.com/item?id=49373123</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
-        "pubDate": "Thu, 20 Aug 2026 11:23:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49373123"
+        "title": "I should have loved biology",
+        "link": "https://jsomers.net/i-should-have-loved-biology/",
+        "description": "<p>Article URL: <a href=\"https://jsomers.net/i-should-have-loved-biology/\">https://jsomers.net/i-should-have-loved-biology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377853\">https://news.ycombinator.com/item?id=49377853</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:50:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377853"
       },
       {
-        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-        "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-        "description": "<p>Article URL: <a href=\"https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/\">https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372994\">https://news.ycombinator.com/item?id=49372994</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 20 Aug 2026 11:03:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49372994"
+        "title": "Project Cybersyn",
+        "link": "https://bactra.org/notebooks/cybersyn.html",
+        "description": "<p>Article URL: <a href=\"https://bactra.org/notebooks/cybersyn.html\">https://bactra.org/notebooks/cybersyn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377739\">https://news.ycombinator.com/item?id=49377739</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:40:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377739"
       },
       {
-        "title": "Risk Engineering",
-        "link": "https://risk-engineering.org/",
-        "description": "<p>Article URL: <a href=\"https://risk-engineering.org/\">https://risk-engineering.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372661\">https://news.ycombinator.com/item?id=49372661</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-        "pubDate": "Thu, 20 Aug 2026 10:18:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49372661"
+        "title": "Show HN: We chased a weather balloon across Montana and never found it",
+        "link": "https://radi8.dev/blog/uplink/",
+        "description": "<p>Since April, I have been working with Sam Flynn (<a href=\"https://drook.dev\" rel=\"nofollow\">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.<p>UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year!<p>This is a writeup on our engineering process, mistakes made, and learning experiences. It covers:<p>- Custom electronics designed in KiCad<p>- Firmware design<p>- Results from the data we received on the ground<p>- Image transmission<p>- Launch day logistics, and where things went wrong<p>All hardware, software, firmware, and CAD is available on GitHub: <a href=\"https://github.com/radeeyate/UpLink\" rel=\"nofollow\">https://github.com/radeeyate/UpLink</a>, licensed + certified as open source hardware: <a href=\"https://certification.oshwa.org/us002826.html\" rel=\"nofollow\">https://certification.oshwa.org/us002826.html</a><p>If you just want to see the images received, I put up a gallery here: <a href=\"https://uplink.gallery.radi8.dev/\" rel=\"nofollow\">https://uplink.gallery.radi8.dev/</a><p>If you have any questions, comments, or concerns, let me know. I'm happy to answer anything!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377660\">https://news.ycombinator.com/item?id=49377660</a></p>\n<p>Points: 24</p>\n<p># Comments: 8</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:33:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377660"
       },
       {
-        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "description": "<p>Article URL: <a href=\"https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html\">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372583\">https://news.ycombinator.com/item?id=49372583</a></p>\n<p>Points: 193</p>\n<p># Comments: 58</p>",
-        "pubDate": "Thu, 20 Aug 2026 10:08:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49372583"
+        "title": "URL shortener links stored in your ATProto PDS",
+        "link": "https://atpr.to/",
+        "description": "<p>Article URL: <a href=\"https://atpr.to/\">https://atpr.to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377535\">https://news.ycombinator.com/item?id=49377535</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:23:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377535"
       },
       {
-        "title": "Don't Paste the AI, please",
-        "link": "https://dontpastetheai.com/",
-        "description": "<p>Article URL: <a href=\"https://dontpastetheai.com/\">https://dontpastetheai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371857\">https://news.ycombinator.com/item?id=49371857</a></p>\n<p>Points: 610</p>\n<p># Comments: 291</p>",
-        "pubDate": "Thu, 20 Aug 2026 08:20:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49371857"
+        "title": "Sixtyfour (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern\">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377248\">https://news.ycombinator.com/item?id=49377248</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:01:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377248"
       },
       {
-        "title": "Windows brings out the Rorschach test in everyone (2003)",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371006\">https://news.ycombinator.com/item?id=49371006</a></p>\n<p>Points: 252</p>\n<p># Comments: 94</p>",
-        "pubDate": "Thu, 20 Aug 2026 06:16:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49371006"
+        "title": "How to compromise your system with a job interview",
+        "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+        "description": "<p>Article URL: <a href=\"https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\">https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376332\">https://news.ycombinator.com/item?id=49376332</a></p>\n<p>Points: 60</p>\n<p># Comments: 26</p>",
+        "pubDate": "Thu, 20 Aug 2026 15:50:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49376332"
       },
       {
-        "title": "Turns are Better than Radians (2022)",
-        "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 249</p>\n<p># Comments: 131</p>",
-        "pubDate": "Thu, 20 Aug 2026 01:29:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49369408"
+        "title": "Linux 7.2",
+        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+        "description": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 74</p>\n<p># Comments: 19</p>",
+        "pubDate": "Thu, 20 Aug 2026 15:46:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49376265"
       },
       {
-        "title": "Feature Request: Support AGENTS.md",
-        "link": "https://github.com/anthropics/claude-code/issues/6235",
-        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 309</p>\n<p># Comments: 189</p>",
-        "pubDate": "Wed, 19 Aug 2026 21:19:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49367350"
+        "title": "Generic Methods in Go 1.27",
+        "link": "https://dominik.info/blog/go-generic-methods",
+        "description": "<p>Article URL: <a href=\"https://dominik.info/blog/go-generic-methods\">https://dominik.info/blog/go-generic-methods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376211\">https://news.ycombinator.com/item?id=49376211</a></p>\n<p>Points: 42</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 20 Aug 2026 15:41:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49376211"
       },
       {
-        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-        "link": "https://os8088.com/spotlight/",
-        "description": "<p>Article URL: <a href=\"https://os8088.com/spotlight/\">https://os8088.com/spotlight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367256\">https://news.ycombinator.com/item?id=49367256</a></p>\n<p>Points: 106</p>\n<p># Comments: 46</p>",
-        "pubDate": "Wed, 19 Aug 2026 21:11:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49367256"
+        "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+        "link": "https://github.com/runvendo/vendo",
+        "description": "<p>Hi HN, we’re Yousef & Nour, founders of Vendo (<a href=\"https://vendo.run\">https://vendo.run</a>). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface.<p>Demo: <a href=\"https://www.youtube.com/watch?v=VdpHehY64ls\" rel=\"nofollow\">https://www.youtube.com/watch?v=VdpHehY64ls</a><p>We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a workflow that only makes sense for their team. These requests either sit on the roadmap, become one-off engineering work, or force the customer into spreadsheets and external tools. We wanted the user to be able to create the missing feature themselves, without leaving the product.<p>Here is how it works:<p>- npx vendo init reads the product's API surface, theme, routes, and more. These are used so that the apps Vendo creates (1) look on-brand and native and (2) have the ability to read data and perform actions directly through the company's API<p>- When a user asks for a feature, we have a custom Vendo harness that writes a React component with a bunch of Vendo add-ons and guardrails (ex. ability to make calls to the host API + our component library). Every save is compiled, type-checked, run against real API responses, and rendered before the user sees it. We just released a benchmark and write-up here with more info for anyone interested: <a href=\"https://vendo.run/blog/generating-product-ui-measured\">https://vendo.run/blog/generating-product-ui-measured</a><p>- We use QuickJS to make sure that anything the agent creates is sandboxed and can't mess with the company's site. Vendo compiles the component and runs it with Preact inside a QuickJS VM with no access to the DOM, network, or clock. The VM returns a UI tree, which the host renders using the product’s registered components. When the user clicks something, QuickJS emits a tool call; the host executes it through Vendo’s guard and passes the result back into the same VM, preserving the screen’s local state.<p>There's a lot of generative UI right now: streaming developer-written components into a chat (Vercel AI SDK, CopilotKit, Thesys), or rendering your app inside someone else's assistant (OpenAI Apps SDK, MCP Apps). We differ on two things. Vendo lives in your product and acts through your API as the signed-in user, so what it makes is durable: real apps users keep, pin, and run on triggers while they're away, and not components that are merely confined to a chat. Plus, it's not capped at putting together a bunch of prebuilt components: the agent can build arbitrary apps, from a quick dashboard out of your own components to real custom code running in a sandbox, and either way data only ever comes from tool calls to your API.<p>Here are some things customers are using Vendo for today:<p>- Letting their users create custom dashboards and reports. These are mainly UI-based and focused on letting the user see the exact graphs and metrics they care about<p>- Letting their customers create recurring automations. A big thing as well that has been used for these automations is the fact that we connect to external connections, so users have been automating many of their inter-tool workflows (ex. an automation that sends a slack alert based off of something in the product)<p>- B2B customers letting their customers customize the product with specific business logic. Often this is simple things like an extra field on a form, or an extra permission, but it is hard for a business to keep up with them otherwise.<p>- Creating and sharing custom dashboards/apps across an organization. Since the apps Vendo creates are durable, they can be shared, reused, and forked (which can’t be done with many of the other in-chat generative UI solutions)<p>We've spent a lot of time thinking about how AI and agents will change the way people consume software. We think the answer is personal(ized) software: you see the UI you need to see, you tell an agent exactly what you need, and the product molds to how you work.<p>The key insights that have enabled the product to work are:<p>- A rule in code always beats a rule in a prompt.<p>- Invent as little syntax as possible. Generation got faster and more reliable when the output looked like what models already know (JSX-shaped markup) instead of a clever custom format.<p>- Deterministic beats model wherever you can get away with it. Theme extraction is pure static analysis, and a remix starts as a copy of your component, no model call.<p>Vendo is completely open-source (Apache-2.0) and can be self-hosted, so feel free to check out all the source code here: <a href=\"https://github.com/runvendo/vendo\" rel=\"nofollow\">https://github.com/runvendo/vendo</a>.<p>Would love you to try it out and give us your feedback: <a href=\"https://docs.vendo.run/\">https://docs.vendo.run/</a>. Or if you’re a company looking to embed Vendo in your product feel free to book a call here: <a href=\"https://cal.com/team/vendo/intro-call\" rel=\"nofollow\">https://cal.com/team/vendo/intro-call</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376038\">https://news.ycombinator.com/item?id=49376038</a></p>\n<p>Points: 24</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 20 Aug 2026 15:29:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49376038"
       },
       {
-        "title": "Pixel 11 Pro Fold feels like the end of an era",
-        "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-        "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review\">https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366264\">https://news.ycombinator.com/item?id=49366264</a></p>\n<p>Points: 80</p>\n<p># Comments: 211</p>",
-        "pubDate": "Wed, 19 Aug 2026 19:43:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49366264"
+        "title": "Clean up Claude 5's token vomit with a separate LLM",
+        "link": "https://github.com/zachahn/vomit",
+        "description": "<p>Article URL: <a href=\"https://github.com/zachahn/vomit\">https://github.com/zachahn/vomit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375996\">https://news.ycombinator.com/item?id=49375996</a></p>\n<p>Points: 108</p>\n<p># Comments: 106</p>",
+        "pubDate": "Thu, 20 Aug 2026 15:26:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49375996"
       },
       {
-        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-        "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-        "description": "<p>Article URL: <a href=\"https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/\">https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365841\">https://news.ycombinator.com/item?id=49365841</a></p>\n<p>Points: 234</p>\n<p># Comments: 56</p>",
-        "pubDate": "Wed, 19 Aug 2026 19:06:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49365841"
+        "title": "Show HN: Open-source Stripe Connect alternative",
+        "link": "https://zoneless.com",
+        "description": "<p>Hey, I'm Ben. I built Zoneless because I was paying so much to use Stripe Connect on my own marketplace. The fees were really, really bad, and it was also limiting in terms of the seller countries I could onboard. To give you an idea, I was paying around $9,000 per month in fees just to run payouts. Using Zoneless, that cost goes down to around $6.<p>I've been using it personally for the past few months, and onboarded 5,000+ sellers and done 3,000+ payouts. 74% of new sellers on my marketplace choose Zoneless over Stripe, which is really interesting. I appreciate crypto and stablecoins are a bit of a touchy subject, but for this use case of sending global payouts cheaply, it's perfect.<p>The project is open source with an Apache 2.0 licence, which means there's the benefit of no lock-in and no risk of your account getting flagged or shut down. It also has an almost identical API and dashboard to Stripe.<p>Would love to hear any feedback you may have in the comments.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375244\">https://news.ycombinator.com/item?id=49375244</a></p>\n<p>Points: 38</p>\n<p># Comments: 18</p>",
+        "pubDate": "Thu, 20 Aug 2026 14:38:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49375244"
       },
       {
-        "title": "Unsloth Dynamic 3.0 GGUFs",
-        "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-        "description": "<p>Article URL: <a href=\"https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365443\">https://news.ycombinator.com/item?id=49365443</a></p>\n<p>Points: 296</p>\n<p># Comments: 103</p>",
-        "pubDate": "Wed, 19 Aug 2026 18:36:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49365443"
+        "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+        "link": "https://pub.doub.ly/",
+        "description": "<p>Hi HN, I built this. Quick background on why it exists:<p>When music is streamed on digital streaming platforms (think Spotify, Apple Music, Pandora), there are two separate royalty streams: one for the recording, paid through your distributor (DistroKid, TuneCore, CDBaby), and one for the underlying work (generally known as publishing). The work side's mechanical royalties are collected by The MLC, a nonprofit that was created by the 2018 Music Modernization Act (MMA). If you haven't registered your songs with The MLC, there are issues with your metadata, or about half a dozen other reasons, that money will never reach you, it just collects in a big pile we call the \"black box\".<p>That pile is big. The MLC's own dashboard currently shows over $656M is held (themlc.com/blanket-royalties), and the biggest problem is the MMA dictates that The MLC cannot hold that money indefinitely. At some point, by law, The MLC must distribute this big pile of cash, and since they don't know who it's supposed to go to, they pay it out through a process called \"market share\" (themlc.com/marketshare). Market share means they pay it out, pro-rata, to the artists, songwriters and publishers that are in the system, which in practice means the largest publishers collect most of the leftovers.<p>This is slated to begin in January 2027 and will pay portions of the pool out monthly (themlc.com/unclaimed-accrued-royalties), as of this morning, the next 12 months of market share sums up to $76.61M, starting with $6.41M in January.<p>Full disclosure: I run Doubly, which is an independent publishing administrator, so I have a commercial interest in this space. That being said, we're a team of two people and we don't have the bandwidth to directly assist the hundreds of thousands of artists and songwriters who are going to start losing this money in January 2027.<p>That's why I built this self-service tool, no signup, no email, no paywall, the reports are completely actionable without needing anything from us.<p>The tool: paste a Spotify artist link (or search for a Spotify artist by name). It pulls every release on that profile, checks each recording against The MLC's public bulk data, and tells you per-song whether it's fully claimed, partially claimed, registered but unmatched, or missing entirely. It then provides a link to the exact MLC tool that fixes each case. It also estimates the dollars stuck, as a rough range.<p>Even if you're not an artist yourself, you probably know someone who is a musician, please share it with them.<p>Thanks for your time and I'm happy to answer any questions about the industry as a whole, The MLC, the tech, anything really.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375237\">https://news.ycombinator.com/item?id=49375237</a></p>\n<p>Points: 47</p>\n<p># Comments: 24</p>",
+        "pubDate": "Thu, 20 Aug 2026 14:38:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49375237"
       },
       {
-        "title": "Go 1.27",
-        "link": "https://go.dev/blog/go1.27",
-        "description": "<p>Article URL: <a href=\"https://go.dev/blog/go1.27\">https://go.dev/blog/go1.27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365405\">https://news.ycombinator.com/item?id=49365405</a></p>\n<p>Points: 693</p>\n<p># Comments: 211</p>",
-        "pubDate": "Wed, 19 Aug 2026 18:33:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49365405"
+        "title": "An elliptic curve of rank ≥ 30",
+        "link": "https://elliptic-rank.icarm.cloud/curve/273",
+        "description": "<p>Article URL: <a href=\"https://elliptic-rank.icarm.cloud/curve/273\">https://elliptic-rank.icarm.cloud/curve/273</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374873\">https://news.ycombinator.com/item?id=49374873</a></p>\n<p>Points: 66</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 20 Aug 2026 14:14:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49374873"
       },
       {
-        "title": "Google has stopped pushing Git tags for some Android source code",
-        "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117057099753905023\">https://grapheneos.social/@GrapheneOS/117057099753905023</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364745\">https://news.ycombinator.com/item?id=49364745</a></p>\n<p>Points: 681</p>\n<p># Comments: 265</p>",
-        "pubDate": "Wed, 19 Aug 2026 17:47:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49364745"
+        "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+        "link": "https://github.com/paulsp94/omacosy",
+        "description": "<p>I have been using omarchy on my tower since nearly a year now, shortly after it was released first. I really love the experience I am having with it but I still use my macbook for daly work, so I wanted to recreate a similar experience on it. Thats why I created omacosy, a setup for tiling windows, custom menu bar, some themes from omarchy, focus follows mouse, focus rings around windwos, some mac flavors with trackpad events and a custom mission control overview for your workspaces.<p>I used AeroSpace over yabai for the tiling window manager because I didnt wanted to compromise on SIP which is a mac security feature.\nIt is supposed to be keyboard first like omarchy to move windows organize workspaces etc\nThe setup runs around 157mb of ram and consists of AeroSpace, Karabiner (for the super key), and five small self build swift binaries.<p>I am running it daily on my M1 max macbook, currently on macOS26. I havent tested it much on other macbooks or macOS versions.\nThe install script creates a manifest file to backup what was installed before and what it installed itself, the uninstall script takes that into account to clean up the macbook to exactly the state it was in before. \nIt needs quite some permissions for it sfunctionality which I layed our in the project readme. I wanted to be really transparent about which permissions it uses and for what reason.<p>I would love to get some feedback or see people trying it out and hearing your opinion. Mostly about what still doesnt feel smooth in the experience or if you find any performance issues.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374830\">https://news.ycombinator.com/item?id=49374830</a></p>\n<p>Points: 13</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 20 Aug 2026 14:12:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49374830"
       },
       {
-        "title": "OpenRouter is joining Stripe",
-        "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-        "description": "<p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 893</p>\n<p># Comments: 458</p>",
-        "pubDate": "Wed, 19 Aug 2026 17:32:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49364559"
+        "title": "Hacking with Claude on a $27 Smart Watch",
+        "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+        "description": "<p>Article URL: <a href=\"https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html\">https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374772\">https://news.ycombinator.com/item?id=49374772</a></p>\n<p>Points: 59</p>\n<p># Comments: 33</p>",
+        "pubDate": "Thu, 20 Aug 2026 14:08:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49374772"
       },
       {
-        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "link": "https://github.com/onecli/onecli",
-        "description": "<p>Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.<p>Here’s what you can do with it:<p>1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat.<p>2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket.<p>3. manage team policy in one place, enforced across every agent in the workspace<p>4. enjoy global connections at the team level, like shared LLM keys or service accounts<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=dlW-44ntpbE\" rel=\"nofollow\">https://www.youtube.com/watch?v=dlW-44ntpbE</a><p>We started working on this by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. When OpenClaw took off back in January, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. They keep them in their memory and also write them down to local files and their sessions as plain text. And we knew that agents can easily be fooled into giving up those API keys/secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker's benefit.<p>We created OneCLI that started as a vault for AI Agents built in Rust.<p>We found out that most of our demand for OneCLI came from autonomous agents like Hermes, OpenClaw and NanoClaw for individuals and teams.<p>Users looked for useful agents that do things for the person who runs them with two missing parts: 1) managing secrets and permissions. 2) and for teams - multiplayer management.<p>We decided to pivot and provide the agent itself as a harness for teams, to give each employee an agent. We saw that teams had to deal with setting up their own harness again and again, and basically as we already had the vault as a gateway. We got the idea to provide the missing piece of the agent management out of the box and open source it (Apache-2.0, with a small enterprise exception).<p>We're open source first - the entire platform, not just a small portion of it like other agents, so companies can actually see the code, evaluate it, and trust it instead of taking our word for it. They run it isolated, in their own environment, fully under their control, at production quality, not a locked black box hosted somewhere else. That means the safety isn't just a promise, it's something they can verify themselves. Combined with real autonomy and least-privilege access, that's what makes it something a company can fully own and trust, not just adopt.<p>We also approach this from a company perspective rather than an individual one. Our solution manages agents on behalf of each employee, wrapped in deterministic guardrails that company admins configure through centralized policies.<p>For the agent engine itself we’re using jcode which is the core of the agent-loop. We found out that it improves the experience and makes the agent smarter and faster.<p>Here’s how it works:<p>It runs on infra you control. Fully open-source, self-host or cloud in minutes.<p>The agent never holds a real secret. It gets a placeholder. The real credential is injected at the gateway, per request, after the call is authorized. It never enters the agent's context, memory, or logs.<p>Enforcement outside the model. Prompts are suggestions. Policies defined by the org admin run at the network layer, outside the agent and the LLM. Block endpoints, rate limit per agent, require approval, scope per employee. The gateway decides. The agent can't bypass it.<p>Isolated VM per agent. Own memory, own keys, own permissions. Blast radius is one agent.<p>Speed of the Harness: Rust engine under the agent loop.<p>Full identity trail. Every agent is bound to an employee. Every call logged with who it acted for and which policy allowed it.<p>Some things people are doing with the platform include:<p>- Managing their company life cycle entirely from the sales calls, to the product side automatically open tickets to the engineering teams, that would kick the development agents to deliver and ship to production.<p>- Operational side, like automatically hygiene the CRM after calls, sourcing leads, book meetings and manage follow ups emails.<p>- Some of our customers also doing their entire grocery shopping using those agents and send them to take care of their chores like ordering things online.<p>About the team: Both founders come from cybersecurity backgrounds. Jonathan spent years at Axis Security building zero trust network access. The core idea is that you never trust the client. You decide exactly what a person can reach, and you enforce it outside of them, at the network layer, so it doesn't matter what the client tries to do. That's how every serious company gives access to humans today. Guy was the 1st employee in Argon security doing AppSec.<p>We would love to hear your thoughts on the move, happy to get issues open to improve and get your agent to be powerful and secure - designed for teams, not just individuals.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363710\">https://news.ycombinator.com/item?id=49363710</a></p>\n<p>Points: 81</p>\n<p># Comments: 24</p>",
-        "pubDate": "Wed, 19 Aug 2026 16:29:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49363710"
+        "title": "Every Model Cheats",
+        "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+        "description": "<p>Article URL: <a href=\"https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/\">https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374635\">https://news.ycombinator.com/item?id=49374635</a></p>\n<p>Points: 53</p>\n<p># Comments: 31</p>",
+        "pubDate": "Thu, 20 Aug 2026 13:56:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49374635"
       },
       {
-        "title": "Casio F-B100W-1A",
-        "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-        "description": "<p>Article URL: <a href=\"https://www.casio.com/uk/watches/casio/product.F-B100W-1A/\">https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362887\">https://news.ycombinator.com/item?id=49362887</a></p>\n<p>Points: 417</p>\n<p># Comments: 345</p>",
-        "pubDate": "Wed, 19 Aug 2026 15:28:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49362887"
+        "title": "DiffusionGemma Technical Report",
+        "link": "https://arxiv.org/abs/2608.00146",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.00146\">https://arxiv.org/abs/2608.00146</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374287\">https://news.ycombinator.com/item?id=49374287</a></p>\n<p>Points: 108</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 20 Aug 2026 13:24:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49374287"
       },
       {
-        "title": "Mathematics in the age of AI",
-        "link": "https://arxiv.org/abs/2608.16753",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.16753\">https://arxiv.org/abs/2608.16753</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362728\">https://news.ycombinator.com/item?id=49362728</a></p>\n<p>Points: 187</p>\n<p># Comments: 221</p>",
-        "pubDate": "Wed, 19 Aug 2026 15:14:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49362728"
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "description": "<p><a href=\"https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/\" rel=\"nofollow\">https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on...</a><p><a href=\"https://github.com/rustsec/advisory-db/issues/3161\" rel=\"nofollow\">https://github.com/rustsec/advisory-db/issues/3161</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374269\">https://news.ycombinator.com/item?id=49374269</a></p>\n<p>Points: 287</p>\n<p># Comments: 234</p>",
+        "pubDate": "Thu, 20 Aug 2026 13:23:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49374269"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-20T13:03:43.463Z",
+  "lastUpdated": "2026-08-20T18:51:22.468Z",
   "stats": {
     "feeds": 2,
     "articles": 20
