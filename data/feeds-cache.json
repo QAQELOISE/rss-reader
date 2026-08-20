@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-20T06:57:42.591Z"
+      "lastFetched": "2026-08-20T13:03:35.072Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-20T06:58:02.237Z"
+      "lastFetched": "2026-08-20T13:03:43.463Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Windows brings out the Rorschach test in everyone",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "description": "<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373456\">https://news.ycombinator.com/item?id=49373456</a></p>\n<p>Points: 33</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 20 Aug 2026 12:04:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49373456"
+      },
+      {
+        "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+        "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 20 Aug 2026 12:00:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49373423"
+      },
+      {
+        "title": "Australia passes law to levy tech giants that fail to pay for local news",
+        "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/\">https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373123\">https://news.ycombinator.com/item?id=49373123</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 20 Aug 2026 11:23:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49373123"
+      },
+      {
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "description": "<p>Article URL: <a href=\"https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/\">https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372994\">https://news.ycombinator.com/item?id=49372994</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 20 Aug 2026 11:03:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49372994"
+      },
+      {
+        "title": "Risk Engineering",
+        "link": "https://risk-engineering.org/",
+        "description": "<p>Article URL: <a href=\"https://risk-engineering.org/\">https://risk-engineering.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372661\">https://news.ycombinator.com/item?id=49372661</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 20 Aug 2026 10:18:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49372661"
+      },
+      {
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "description": "<p>Article URL: <a href=\"https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html\">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372583\">https://news.ycombinator.com/item?id=49372583</a></p>\n<p>Points: 193</p>\n<p># Comments: 58</p>",
+        "pubDate": "Thu, 20 Aug 2026 10:08:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49372583"
+      },
+      {
+        "title": "Don't Paste the AI, please",
+        "link": "https://dontpastetheai.com/",
+        "description": "<p>Article URL: <a href=\"https://dontpastetheai.com/\">https://dontpastetheai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371857\">https://news.ycombinator.com/item?id=49371857</a></p>\n<p>Points: 610</p>\n<p># Comments: 291</p>",
+        "pubDate": "Thu, 20 Aug 2026 08:20:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49371857"
+      },
+      {
+        "title": "Windows brings out the Rorschach test in everyone (2003)",
         "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371006\">https://news.ycombinator.com/item?id=49371006</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371006\">https://news.ycombinator.com/item?id=49371006</a></p>\n<p>Points: 252</p>\n<p># Comments: 94</p>",
         "pubDate": "Thu, 20 Aug 2026 06:16:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49371006"
       },
       {
-        "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-        "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621\">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49370440\">https://news.ycombinator.com/item?id=49370440</a></p>\n<p>Points: 39</p>\n<p># Comments: 11</p>",
-        "pubDate": "Thu, 20 Aug 2026 04:42:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49370440"
-      },
-      {
         "title": "Turns are Better than Radians (2022)",
         "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 144</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 249</p>\n<p># Comments: 131</p>",
         "pubDate": "Thu, 20 Aug 2026 01:29:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49369408"
       },
       {
         "title": "Feature Request: Support AGENTS.md",
         "link": "https://github.com/anthropics/claude-code/issues/6235",
-        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 212</p>\n<p># Comments: 121</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 309</p>\n<p># Comments: 189</p>",
         "pubDate": "Wed, 19 Aug 2026 21:19:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49367350"
       },
       {
         "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
         "link": "https://os8088.com/spotlight/",
-        "description": "<p>Article URL: <a href=\"https://os8088.com/spotlight/\">https://os8088.com/spotlight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367256\">https://news.ycombinator.com/item?id=49367256</a></p>\n<p>Points: 80</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://os8088.com/spotlight/\">https://os8088.com/spotlight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367256\">https://news.ycombinator.com/item?id=49367256</a></p>\n<p>Points: 106</p>\n<p># Comments: 46</p>",
         "pubDate": "Wed, 19 Aug 2026 21:11:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49367256"
       },
       {
         "title": "Pixel 11 Pro Fold feels like the end of an era",
         "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-        "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review\">https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366264\">https://news.ycombinator.com/item?id=49366264</a></p>\n<p>Points: 55</p>\n<p># Comments: 117</p>",
+        "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review\">https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366264\">https://news.ycombinator.com/item?id=49366264</a></p>\n<p>Points: 80</p>\n<p># Comments: 211</p>",
         "pubDate": "Wed, 19 Aug 2026 19:43:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49366264"
       },
       {
         "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
         "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-        "description": "<p>Article URL: <a href=\"https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/\">https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365841\">https://news.ycombinator.com/item?id=49365841</a></p>\n<p>Points: 190</p>\n<p># Comments: 45</p>",
+        "description": "<p>Article URL: <a href=\"https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/\">https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365841\">https://news.ycombinator.com/item?id=49365841</a></p>\n<p>Points: 234</p>\n<p># Comments: 56</p>",
         "pubDate": "Wed, 19 Aug 2026 19:06:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49365841"
       },
       {
         "title": "Unsloth Dynamic 3.0 GGUFs",
         "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-        "description": "<p>Article URL: <a href=\"https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365443\">https://news.ycombinator.com/item?id=49365443</a></p>\n<p>Points: 233</p>\n<p># Comments: 90</p>",
+        "description": "<p>Article URL: <a href=\"https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365443\">https://news.ycombinator.com/item?id=49365443</a></p>\n<p>Points: 296</p>\n<p># Comments: 103</p>",
         "pubDate": "Wed, 19 Aug 2026 18:36:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49365443"
       },
       {
         "title": "Go 1.27",
         "link": "https://go.dev/blog/go1.27",
-        "description": "<p>Article URL: <a href=\"https://go.dev/blog/go1.27\">https://go.dev/blog/go1.27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365405\">https://news.ycombinator.com/item?id=49365405</a></p>\n<p>Points: 582</p>\n<p># Comments: 150</p>",
+        "description": "<p>Article URL: <a href=\"https://go.dev/blog/go1.27\">https://go.dev/blog/go1.27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365405\">https://news.ycombinator.com/item?id=49365405</a></p>\n<p>Points: 693</p>\n<p># Comments: 211</p>",
         "pubDate": "Wed, 19 Aug 2026 18:33:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49365405"
       },
       {
         "title": "Google has stopped pushing Git tags for some Android source code",
         "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117057099753905023\">https://grapheneos.social/@GrapheneOS/117057099753905023</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364745\">https://news.ycombinator.com/item?id=49364745</a></p>\n<p>Points: 445</p>\n<p># Comments: 185</p>",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117057099753905023\">https://grapheneos.social/@GrapheneOS/117057099753905023</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364745\">https://news.ycombinator.com/item?id=49364745</a></p>\n<p>Points: 681</p>\n<p># Comments: 265</p>",
         "pubDate": "Wed, 19 Aug 2026 17:47:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49364745"
       },
       {
         "title": "OpenRouter is joining Stripe",
         "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-        "description": "<p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 794</p>\n<p># Comments: 401</p>",
+        "description": "<p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 893</p>\n<p># Comments: 458</p>",
         "pubDate": "Wed, 19 Aug 2026 17:32:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49364559"
       },
       {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "link": "https://github.com/onecli/onecli",
-        "description": "<p>Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.<p>Here’s what you can do with it:<p>1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat.<p>2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket.<p>3. manage team policy in one place, enforced across every agent in the workspace<p>4. enjoy global connections at the team level, like shared LLM keys or service accounts<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=dlW-44ntpbE\" rel=\"nofollow\">https://www.youtube.com/watch?v=dlW-44ntpbE</a><p>We started working on this by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. When OpenClaw took off back in January, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. They keep them in their memory and also write them down to local files and their sessions as plain text. And we knew that agents can easily be fooled into giving up those API keys/secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker's benefit.<p>We created OneCLI that started as a vault for AI Agents built in Rust.<p>We found out that most of our demand for OneCLI came from autonomous agents like Hermes, OpenClaw and NanoClaw for individuals and teams.<p>Users looked for useful agents that do things for the person who runs them with two missing parts: 1) managing secrets and permissions. 2) and for teams - multiplayer management.<p>We decided to pivot and provide the agent itself as a harness for teams, to give each employee an agent. We saw that teams had to deal with setting up their own harness again and again, and basically as we already had the vault as a gateway. We got the idea to provide the missing piece of the agent management out of the box and open source it (Apache-2.0, with a small enterprise exception).<p>We're open source first - the entire platform, not just a small portion of it like other agents, so companies can actually see the code, evaluate it, and trust it instead of taking our word for it. They run it isolated, in their own environment, fully under their control, at production quality, not a locked black box hosted somewhere else. That means the safety isn't just a promise, it's something they can verify themselves. Combined with real autonomy and least-privilege access, that's what makes it something a company can fully own and trust, not just adopt.<p>We also approach this from a company perspective rather than an individual one. Our solution manages agents on behalf of each employee, wrapped in deterministic guardrails that company admins configure through centralized policies.<p>For the agent engine itself we’re using jcode which is the core of the agent-loop. We found out that it improves the experience and makes the agent smarter and faster.<p>Here’s how it works:<p>It runs on infra you control. Fully open-source, self-host or cloud in minutes.<p>The agent never holds a real secret. It gets a placeholder. The real credential is injected at the gateway, per request, after the call is authorized. It never enters the agent's context, memory, or logs.<p>Enforcement outside the model. Prompts are suggestions. Policies defined by the org admin run at the network layer, outside the agent and the LLM. Block endpoints, rate limit per agent, require approval, scope per employee. The gateway decides. The agent can't bypass it.<p>Isolated VM per agent. Own memory, own keys, own permissions. Blast radius is one agent.<p>Speed of the Harness: Rust engine under the agent loop.<p>Full identity trail. Every agent is bound to an employee. Every call logged with who it acted for and which policy allowed it.<p>Some things people are doing with the platform include:<p>- Managing their company life cycle entirely from the sales calls, to the product side automatically open tickets to the engineering teams, that would kick the development agents to deliver and ship to production.<p>- Operational side, like automatically hygiene the CRM after calls, sourcing leads, book meetings and manage follow ups emails.<p>- Some of our customers also doing their entire grocery shopping using those agents and send them to take care of their chores like ordering things online.<p>About the team: Both founders come from cybersecurity backgrounds. Jonathan spent years at Axis Security building zero trust network access. The core idea is that you never trust the client. You decide exactly what a person can reach, and you enforce it outside of them, at the network layer, so it doesn't matter what the client tries to do. That's how every serious company gives access to humans today. Guy was the 1st employee in Argon security doing AppSec.<p>We would love to hear your thoughts on the move, happy to get issues open to improve and get your agent to be powerful and secure - designed for teams, not just individuals.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363710\">https://news.ycombinator.com/item?id=49363710</a></p>\n<p>Points: 74</p>\n<p># Comments: 22</p>",
+        "description": "<p>Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.<p>Here’s what you can do with it:<p>1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat.<p>2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket.<p>3. manage team policy in one place, enforced across every agent in the workspace<p>4. enjoy global connections at the team level, like shared LLM keys or service accounts<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=dlW-44ntpbE\" rel=\"nofollow\">https://www.youtube.com/watch?v=dlW-44ntpbE</a><p>We started working on this by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. When OpenClaw took off back in January, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. They keep them in their memory and also write them down to local files and their sessions as plain text. And we knew that agents can easily be fooled into giving up those API keys/secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker's benefit.<p>We created OneCLI that started as a vault for AI Agents built in Rust.<p>We found out that most of our demand for OneCLI came from autonomous agents like Hermes, OpenClaw and NanoClaw for individuals and teams.<p>Users looked for useful agents that do things for the person who runs them with two missing parts: 1) managing secrets and permissions. 2) and for teams - multiplayer management.<p>We decided to pivot and provide the agent itself as a harness for teams, to give each employee an agent. We saw that teams had to deal with setting up their own harness again and again, and basically as we already had the vault as a gateway. We got the idea to provide the missing piece of the agent management out of the box and open source it (Apache-2.0, with a small enterprise exception).<p>We're open source first - the entire platform, not just a small portion of it like other agents, so companies can actually see the code, evaluate it, and trust it instead of taking our word for it. They run it isolated, in their own environment, fully under their control, at production quality, not a locked black box hosted somewhere else. That means the safety isn't just a promise, it's something they can verify themselves. Combined with real autonomy and least-privilege access, that's what makes it something a company can fully own and trust, not just adopt.<p>We also approach this from a company perspective rather than an individual one. Our solution manages agents on behalf of each employee, wrapped in deterministic guardrails that company admins configure through centralized policies.<p>For the agent engine itself we’re using jcode which is the core of the agent-loop. We found out that it improves the experience and makes the agent smarter and faster.<p>Here’s how it works:<p>It runs on infra you control. Fully open-source, self-host or cloud in minutes.<p>The agent never holds a real secret. It gets a placeholder. The real credential is injected at the gateway, per request, after the call is authorized. It never enters the agent's context, memory, or logs.<p>Enforcement outside the model. Prompts are suggestions. Policies defined by the org admin run at the network layer, outside the agent and the LLM. Block endpoints, rate limit per agent, require approval, scope per employee. The gateway decides. The agent can't bypass it.<p>Isolated VM per agent. Own memory, own keys, own permissions. Blast radius is one agent.<p>Speed of the Harness: Rust engine under the agent loop.<p>Full identity trail. Every agent is bound to an employee. Every call logged with who it acted for and which policy allowed it.<p>Some things people are doing with the platform include:<p>- Managing their company life cycle entirely from the sales calls, to the product side automatically open tickets to the engineering teams, that would kick the development agents to deliver and ship to production.<p>- Operational side, like automatically hygiene the CRM after calls, sourcing leads, book meetings and manage follow ups emails.<p>- Some of our customers also doing their entire grocery shopping using those agents and send them to take care of their chores like ordering things online.<p>About the team: Both founders come from cybersecurity backgrounds. Jonathan spent years at Axis Security building zero trust network access. The core idea is that you never trust the client. You decide exactly what a person can reach, and you enforce it outside of them, at the network layer, so it doesn't matter what the client tries to do. That's how every serious company gives access to humans today. Guy was the 1st employee in Argon security doing AppSec.<p>We would love to hear your thoughts on the move, happy to get issues open to improve and get your agent to be powerful and secure - designed for teams, not just individuals.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363710\">https://news.ycombinator.com/item?id=49363710</a></p>\n<p>Points: 81</p>\n<p># Comments: 24</p>",
         "pubDate": "Wed, 19 Aug 2026 16:29:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49363710"
       },
       {
-        "title": "Extensible Software in the age of LLMs",
-        "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-        "description": "<p>Article URL: <a href=\"https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\">https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363668\">https://news.ycombinator.com/item?id=49363668</a></p>\n<p>Points: 142</p>\n<p># Comments: 55</p>",
-        "pubDate": "Wed, 19 Aug 2026 16:26:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49363668"
-      },
-      {
         "title": "Casio F-B100W-1A",
         "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-        "description": "<p>Article URL: <a href=\"https://www.casio.com/uk/watches/casio/product.F-B100W-1A/\">https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362887\">https://news.ycombinator.com/item?id=49362887</a></p>\n<p>Points: 337</p>\n<p># Comments: 283</p>",
+        "description": "<p>Article URL: <a href=\"https://www.casio.com/uk/watches/casio/product.F-B100W-1A/\">https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362887\">https://news.ycombinator.com/item?id=49362887</a></p>\n<p>Points: 417</p>\n<p># Comments: 345</p>",
         "pubDate": "Wed, 19 Aug 2026 15:28:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49362887"
       },
       {
         "title": "Mathematics in the age of AI",
         "link": "https://arxiv.org/abs/2608.16753",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.16753\">https://arxiv.org/abs/2608.16753</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362728\">https://news.ycombinator.com/item?id=49362728</a></p>\n<p>Points: 153</p>\n<p># Comments: 184</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.16753\">https://arxiv.org/abs/2608.16753</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362728\">https://news.ycombinator.com/item?id=49362728</a></p>\n<p>Points: 187</p>\n<p># Comments: 221</p>",
         "pubDate": "Wed, 19 Aug 2026 15:14:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49362728"
-      },
-      {
-        "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-        "link": "https://ornith.ai/ornith_1_5.html",
-        "description": "<p>Article URL: <a href=\"https://ornith.ai/ornith_1_5.html\">https://ornith.ai/ornith_1_5.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362401\">https://news.ycombinator.com/item?id=49362401</a></p>\n<p>Points: 188</p>\n<p># Comments: 61</p>",
-        "pubDate": "Wed, 19 Aug 2026 14:48:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49362401"
-      },
-      {
-        "title": "Manabu Kosaka's Handmade Paper Sculptures",
-        "link": "https://coca11272000.wixsite.com/manabukosaka",
-        "description": "<p>Article URL: <a href=\"https://coca11272000.wixsite.com/manabukosaka\">https://coca11272000.wixsite.com/manabukosaka</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362001\">https://news.ycombinator.com/item?id=49362001</a></p>\n<p>Points: 108</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 19 Aug 2026 14:20:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49362001"
-      },
-      {
-        "title": "PostgreSQL for Everything",
-        "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-        "description": "<p>Article URL: <a href=\"https://www.raphaelbauer.com:443/posts/postgresql-everything/\">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361279\">https://news.ycombinator.com/item?id=49361279</a></p>\n<p>Points: 348</p>\n<p># Comments: 213</p>",
-        "pubDate": "Wed, 19 Aug 2026 13:21:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49361279"
-      },
-      {
-        "title": "Geolocating a random island using geometry and CUDA programming",
-        "link": "https://yassa9.github.io/osint/gralhix-004/",
-        "description": "<p>Article URL: <a href=\"https://yassa9.github.io/osint/gralhix-004/\">https://yassa9.github.io/osint/gralhix-004/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360545\">https://news.ycombinator.com/item?id=49360545</a></p>\n<p>Points: 457</p>\n<p># Comments: 78</p>",
-        "pubDate": "Wed, 19 Aug 2026 12:19:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49360545"
-      },
-      {
-        "title": "A joke domain purchase turned in geopolitical warfare",
-        "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-        "description": "<p>Article URL: <a href=\"https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/\">https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360015\">https://news.ycombinator.com/item?id=49360015</a></p>\n<p>Points: 847</p>\n<p># Comments: 129</p>",
-        "pubDate": "Wed, 19 Aug 2026 11:21:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49360015"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-20T06:58:02.238Z",
+  "lastUpdated": "2026-08-20T13:03:43.463Z",
   "stats": {
     "feeds": 2,
     "articles": 20
