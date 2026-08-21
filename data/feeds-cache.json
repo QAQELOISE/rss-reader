@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-21T13:02:40.197Z"
+      "lastFetched": "2026-08-21T18:48:22.907Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-21T13:02:59.818Z"
+      "lastFetched": "2026-08-21T18:48:23.259Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Felony charges for citizen deleting phone data at US Border",
-        "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html\">https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386895\">https://news.ycombinator.com/item?id=49386895</a></p>\n<p>Points: 27</p>\n<p># Comments: 33</p>",
-        "pubDate": "Fri, 21 Aug 2026 12:10:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49386895"
+        "title": "Rebuilding our Electron meeting-recording engine in Swift",
+        "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+        "description": "<p>Article URL: <a href=\"https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift\">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391389\">https://news.ycombinator.com/item?id=49391389</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:33:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49391389"
       },
       {
-        "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-        "link": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-        "description": "<p>Article URL: <a href=\"https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering\">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386659\">https://news.ycombinator.com/item?id=49386659</a></p>\n<p>Points: 41</p>\n<p># Comments: 12</p>",
-        "pubDate": "Fri, 21 Aug 2026 11:43:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49386659"
+        "title": "When the shortage is the strategy",
+        "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
+        "description": "<p>Article URL: <a href=\"https://nooneshappy.com/article/when-the-shortage-is-the-strategy/\">https://nooneshappy.com/article/when-the-shortage-is-the-strategy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391358\">https://news.ycombinator.com/item?id=49391358</a></p>\n<p>Points: 26</p>\n<p># Comments: 18</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:31:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49391358"
       },
       {
-        "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-        "link": "https://github.com/yaroslav/kino",
-        "description": "<p>Article URL: <a href=\"https://github.com/yaroslav/kino\">https://github.com/yaroslav/kino</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386383\">https://news.ycombinator.com/item?id=49386383</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 21 Aug 2026 11:06:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49386383"
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "link": "https://interconnected.org/home/2026/08/21/galactic",
+        "description": "<p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href=\"https://news.ycombinator.com/item?id=39389858\">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391348\">https://news.ycombinator.com/item?id=49391348</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:30:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49391348"
       },
       {
-        "title": "DeepSeek-v4-flash-vision-exp",
-        "link": "https://api-docs.deepseek.com/guides/vision/",
-        "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/vision/\">https://api-docs.deepseek.com/guides/vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386163\">https://news.ycombinator.com/item?id=49386163</a></p>\n<p>Points: 187</p>\n<p># Comments: 46</p>",
-        "pubDate": "Fri, 21 Aug 2026 10:33:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49386163"
+        "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+        "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+        "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6\">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390910\">https://news.ycombinator.com/item?id=49390910</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:00:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390910"
       },
       {
-        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-        "link": "https://annas-archive.pk/blog/physical-destruction.html",
-        "description": "<p>Article URL: <a href=\"https://annas-archive.pk/blog/physical-destruction.html\">https://annas-archive.pk/blog/physical-destruction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385994\">https://news.ycombinator.com/item?id=49385994</a></p>\n<p>Points: 152</p>\n<p># Comments: 93</p>",
-        "pubDate": "Fri, 21 Aug 2026 10:05:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49385994"
+        "title": "Another better lower bound for n=17 square packing",
+        "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+        "description": "<p>Article URL: <a href=\"http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html\">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390775\">https://news.ycombinator.com/item?id=49390775</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 21 Aug 2026 16:50:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390775"
       },
       {
-        "title": "Small, native web tricks worth remembering",
-        "link": "https://htmlcat.net/",
-        "description": "<p>Article URL: <a href=\"https://htmlcat.net/\">https://htmlcat.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385860\">https://news.ycombinator.com/item?id=49385860</a></p>\n<p>Points: 100</p>\n<p># Comments: 23</p>",
-        "pubDate": "Fri, 21 Aug 2026 09:45:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49385860"
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "link": "https://github.com/proliferate-ai/proliferate",
+        "description": "<p>Hi HN- I'm Pablo, the founder of Proliferate (YC S25)!<p>Proliferate (<a href=\"https://github.com/proliferate-ai/proliferate\" rel=\"nofollow\">https://github.com/proliferate-ai/proliferate</a>) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place.<p>Here's a quick 2m demo of how we use Proliferate to build Proliferate: <a href=\"https://www.youtube.com/watch?v=tGNX0oaWmBY\" rel=\"nofollow\">https://www.youtube.com/watch?v=tGNX0oaWmBY</a><p>I started building Proliferate after my team onboarded to OpenAI Codex. Within days, we were using it for everything: using computer use instead of navigating websites ourselves, having Codex coordinate other agents, and setting up automations for recurring work. We really never needed to leave the desktop app to get work done.<p>If my team’s experience is anything close to representative, a Codex-like app (a horizontal agent with a beautiful UI) is the main interface every company is going to use to get work done. That is perfectly in line with OpenAI’s mission to make Codex the everything app (see: <a href=\"https://news.ycombinator.com/item?id=47796469\">https://news.ycombinator.com/item?id=47796469</a>).<p>But as we started automating work closer to the core of the business, I wanted to work with agents from all the labs, including open-weight models, without becoming increasingly dependent on OpenAI.<p>And that’s what Proliferate is for! It's the open-source, self-hostable Codex that preserves your optionality across agents and model providers while building toward Codex’s breadth.<p>Today Proliferate supports:<p>* Working with Claude Code, Codex, OpenCode, Cursor, and Grok with their native inference and configuration options, including Bedrock, Azure, and self hosted inference.<p>* Inter-agent communication and management: a parent agent can spawn and communicate with another supported agent as a subagent (I personally like to have Fable delegate to Codex, with OpenCode models reviewing PRs).<p>* Building workflows- one of the features I'm most excited about. These are re-usable chains of agent sessions and human approval gates, with the harness and model chosen per step and documents passed between them. I use this to automate code review, QA, and my PR construction process.<p>All of Proliferate is 100% open source under AGPL-3.0. There are still definitely some rough spots, but we’re building fast and I’d really love any feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390739\">https://news.ycombinator.com/item?id=49390739</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 21 Aug 2026 16:47:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390739"
       },
       {
-        "title": "Better Batteries",
-        "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-        "description": "<p>Article URL: <a href=\"https://matklad.github.io/2026/08/20/better-batteries.html\">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385068\">https://news.ycombinator.com/item?id=49385068</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
-        "pubDate": "Fri, 21 Aug 2026 07:48:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49385068"
+        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+        "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+        "description": "<p>Article URL: <a href=\"https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/\">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390463\">https://news.ycombinator.com/item?id=49390463</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
+        "pubDate": "Fri, 21 Aug 2026 16:27:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390463"
       },
       {
-        "title": "The Lost Treasure of Sid Meier's Pirates",
-        "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-        "description": "<p>Article URL: <a href=\"https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/\">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384896\">https://news.ycombinator.com/item?id=49384896</a></p>\n<p>Points: 150</p>\n<p># Comments: 79</p>",
-        "pubDate": "Fri, 21 Aug 2026 07:23:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49384896"
+        "title": "Kobo can run apps now",
+        "link": "https://bandarlabs.github.io/Cobalt/",
+        "description": "<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 111</p>\n<p># Comments: 42</p>",
+        "pubDate": "Fri, 21 Aug 2026 16:25:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390427"
       },
       {
-        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-        "link": "https://encore.dev/blog/firecracker-apple-silicon",
-        "description": "<p>Article URL: <a href=\"https://encore.dev/blog/firecracker-apple-silicon\">https://encore.dev/blog/firecracker-apple-silicon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384716\">https://news.ycombinator.com/item?id=49384716</a></p>\n<p>Points: 113</p>\n<p># Comments: 53</p>",
-        "pubDate": "Fri, 21 Aug 2026 06:59:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49384716"
+        "title": "What happens when a GPU reads memory",
+        "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+        "description": "<p>Article URL: <a href=\"https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory\">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390308\">https://news.ycombinator.com/item?id=49390308</a></p>\n<p>Points: 37</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 21 Aug 2026 16:16:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390308"
       },
       {
-        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-        "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-        "description": "<p>Article URL: <a href=\"https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/\">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384224\">https://news.ycombinator.com/item?id=49384224</a></p>\n<p>Points: 64</p>\n<p># Comments: 42</p>",
-        "pubDate": "Fri, 21 Aug 2026 05:39:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49384224"
+        "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
+        "link": "https://github.com/aravpanwar/decayfmt",
+        "description": "<p>Article URL: <a href=\"https://github.com/aravpanwar/decayfmt\">https://github.com/aravpanwar/decayfmt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390206\">https://news.ycombinator.com/item?id=49390206</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 21 Aug 2026 16:09:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390206"
       },
       {
-        "title": "Japan tried to build an operating system for the world, the US intervened",
-        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-        "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384180\">https://news.ycombinator.com/item?id=49384180</a></p>\n<p>Points: 263</p>\n<p># Comments: 148</p>",
-        "pubDate": "Fri, 21 Aug 2026 05:31:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49384180"
+        "title": "LLMs are proof that Unix won",
+        "link": "https://bastian.rieck.me/blog/2026/unix/",
+        "description": "<p>Article URL: <a href=\"https://bastian.rieck.me/blog/2026/unix/\">https://bastian.rieck.me/blog/2026/unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390066\">https://news.ycombinator.com/item?id=49390066</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 21 Aug 2026 15:59:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49390066"
       },
       {
-        "title": "Seed: Minimal, self-modifying agent harness",
-        "link": "https://github.com/vivekhaldar/seed",
-        "description": "<p>Article URL: <a href=\"https://github.com/vivekhaldar/seed\">https://github.com/vivekhaldar/seed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384113\">https://news.ycombinator.com/item?id=49384113</a></p>\n<p>Points: 41</p>\n<p># Comments: 14</p>",
-        "pubDate": "Fri, 21 Aug 2026 05:20:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49384113"
+        "title": "How we made a text-to-speech model respond in sub-50 ms",
+        "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+        "description": "<p>Article URL: <a href=\"https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389952\">https://news.ycombinator.com/item?id=49389952</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 21 Aug 2026 15:51:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49389952"
       },
       {
-        "title": "Micron announces $10B research hub in Boise",
-        "link": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-        "description": "<p>Article URL: <a href=\"https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx\">https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383582\">https://news.ycombinator.com/item?id=49383582</a></p>\n<p>Points: 60</p>\n<p># Comments: 18</p>",
-        "pubDate": "Fri, 21 Aug 2026 03:51:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49383582"
+        "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+        "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+        "description": "<p>Article URL: <a href=\"https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md\">https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389493\">https://news.ycombinator.com/item?id=49389493</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 21 Aug 2026 15:21:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49389493"
       },
       {
-        "title": "Ox Alpha",
-        "link": "https://openrouter.ai/stealth/ox-alpha",
-        "description": "<p><a href=\"https://twitter.com/OpenRouter/status/2090544970923184269\" rel=\"nofollow\">https://twitter.com/OpenRouter/status/2090544970923184269</a>, <a href=\"https://xcancel.com/OpenRouter/status/2090544970923184269\" rel=\"nofollow\">https://xcancel.com/OpenRouter/status/2090544970923184269</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381896\">https://news.ycombinator.com/item?id=49381896</a></p>\n<p>Points: 186</p>\n<p># Comments: 147</p>",
-        "pubDate": "Thu, 20 Aug 2026 23:56:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49381896"
+        "title": "I ran Photoshop on a £0.60 computer chip",
+        "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+        "description": "<p>Article URL: <a href=\"https://pointinthecloud.com/2026-08-19-144600.html\">https://pointinthecloud.com/2026-08-19-144600.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389441\">https://news.ycombinator.com/item?id=49389441</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 21 Aug 2026 15:17:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49389441"
       },
       {
-        "title": "The August 17 outage",
-        "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378957\">https://news.ycombinator.com/item?id=49378957</a></p>\n<p>Points: 578</p>\n<p># Comments: 641</p>",
-        "pubDate": "Thu, 20 Aug 2026 19:22:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49378957"
+        "title": "Felony Bench",
+        "link": "https://www.felonybench.com/",
+        "description": "<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 157</p>\n<p># Comments: 67</p>",
+        "pubDate": "Fri, 21 Aug 2026 15:17:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49389430"
       },
       {
-        "title": "Why aren't smart people happier? (2022)",
-        "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-        "description": "<p>Article URL: <a href=\"https://www.experimental-history.com/p/why-arent-smart-people-happier\">https://www.experimental-history.com/p/why-arent-smart-people-happier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378446\">https://news.ycombinator.com/item?id=49378446</a></p>\n<p>Points: 217</p>\n<p># Comments: 308</p>",
-        "pubDate": "Thu, 20 Aug 2026 18:38:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49378446"
+        "title": "How I came to write that paper with Leslie Lamport",
+        "link": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+        "description": "<p><a href=\"https://www.microsoft.com/en-us/research/publication/specification-language-typed/\" rel=\"nofollow\">https://www.microsoft.com/en-us/research/publication/specifi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388963\">https://news.ycombinator.com/item?id=49388963</a></p>\n<p>Points: 32</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 21 Aug 2026 14:46:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49388963"
       },
       {
-        "title": "I should have loved biology (2020)",
-        "link": "https://jsomers.net/i-should-have-loved-biology/",
-        "description": "<p>Article URL: <a href=\"https://jsomers.net/i-should-have-loved-biology/\">https://jsomers.net/i-should-have-loved-biology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377853\">https://news.ycombinator.com/item?id=49377853</a></p>\n<p>Points: 304</p>\n<p># Comments: 115</p>",
-        "pubDate": "Thu, 20 Aug 2026 17:50:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49377853"
+        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+        "description": "<p>Article URL: <a href=\"https://github.com/adnanakil/nobuzz/blob/main/README.md\">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388752\">https://news.ycombinator.com/item?id=49388752</a></p>\n<p>Points: 78</p>\n<p># Comments: 75</p>",
+        "pubDate": "Fri, 21 Aug 2026 14:31:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49388752"
       },
       {
-        "title": "Sixtyfour (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern\">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377248\">https://news.ycombinator.com/item?id=49377248</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 20 Aug 2026 17:01:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49377248"
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "link": "https://kagi.com/changelog#11296",
+        "description": "<p>Article URL: <a href=\"https://kagi.com/changelog#11296\">https://kagi.com/changelog#11296</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388154\">https://news.ycombinator.com/item?id=49388154</a></p>\n<p>Points: 741</p>\n<p># Comments: 271</p>",
+        "pubDate": "Fri, 21 Aug 2026 13:56:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49388154"
       },
       {
-        "title": "Linux 7.2",
-        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-        "description": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 271</p>\n<p># Comments: 114</p>",
-        "pubDate": "Thu, 20 Aug 2026 15:46:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49376265"
+        "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+        "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+        "description": "<p>Article URL: <a href=\"https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/\">https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388095\">https://news.ycombinator.com/item?id=49388095</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 21 Aug 2026 13:52:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49388095"
       },
       {
-        "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-        "link": "https://github.com/runvendo/vendo",
-        "description": "<p>Hi HN, we’re Yousef & Nour, founders of Vendo (<a href=\"https://vendo.run\">https://vendo.run</a>). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface.<p>Demo: <a href=\"https://www.youtube.com/watch?v=VdpHehY64ls\" rel=\"nofollow\">https://www.youtube.com/watch?v=VdpHehY64ls</a><p>We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a workflow that only makes sense for their team. These requests either sit on the roadmap, become one-off engineering work, or force the customer into spreadsheets and external tools. We wanted the user to be able to create the missing feature themselves, without leaving the product.<p>Here is how it works:<p>- npx vendo init reads the product's API surface, theme, routes, and more. These are used so that the apps Vendo creates (1) look on-brand and native and (2) have the ability to read data and perform actions directly through the company's API<p>- When a user asks for a feature, we have a custom Vendo harness that writes a React component with a bunch of Vendo add-ons and guardrails (ex. ability to make calls to the host API + our component library). Every save is compiled, type-checked, run against real API responses, and rendered before the user sees it. We just released a benchmark and write-up here with more info for anyone interested: <a href=\"https://vendo.run/blog/generating-product-ui-measured\">https://vendo.run/blog/generating-product-ui-measured</a><p>- We use QuickJS to make sure that anything the agent creates is sandboxed and can't mess with the company's site. Vendo compiles the component and runs it with Preact inside a QuickJS VM with no access to the DOM, network, or clock. The VM returns a UI tree, which the host renders using the product’s registered components. When the user clicks something, QuickJS emits a tool call; the host executes it through Vendo’s guard and passes the result back into the same VM, preserving the screen’s local state.<p>There's a lot of generative UI right now: streaming developer-written components into a chat (Vercel AI SDK, CopilotKit, Thesys), or rendering your app inside someone else's assistant (OpenAI Apps SDK, MCP Apps). We differ on two things. Vendo lives in your product and acts through your API as the signed-in user, so what it makes is durable: real apps users keep, pin, and run on triggers while they're away, and not components that are merely confined to a chat. Plus, it's not capped at putting together a bunch of prebuilt components: the agent can build arbitrary apps, from a quick dashboard out of your own components to real custom code running in a sandbox, and either way data only ever comes from tool calls to your API.<p>Here are some things customers are using Vendo for today:<p>- Letting their users create custom dashboards and reports. These are mainly UI-based and focused on letting the user see the exact graphs and metrics they care about<p>- Letting their customers create recurring automations. A big thing as well that has been used for these automations is the fact that we connect to external connections, so users have been automating many of their inter-tool workflows (ex. an automation that sends a slack alert based off of something in the product)<p>- B2B customers letting their customers customize the product with specific business logic. Often this is simple things like an extra field on a form, or an extra permission, but it is hard for a business to keep up with them otherwise.<p>- Creating and sharing custom dashboards/apps across an organization. Since the apps Vendo creates are durable, they can be shared, reused, and forked (which can’t be done with many of the other in-chat generative UI solutions)<p>We've spent a lot of time thinking about how AI and agents will change the way people consume software. We think the answer is personal(ized) software: you see the UI you need to see, you tell an agent exactly what you need, and the product molds to how you work.<p>The key insights that have enabled the product to work are:<p>- A rule in code always beats a rule in a prompt.<p>- Invent as little syntax as possible. Generation got faster and more reliable when the output looked like what models already know (JSX-shaped markup) instead of a clever custom format.<p>- Deterministic beats model wherever you can get away with it. Theme extraction is pure static analysis, and a remix starts as a copy of your component, no model call.<p>Vendo is completely open-source (Apache-2.0) and can be self-hosted, so feel free to check out all the source code here: <a href=\"https://github.com/runvendo/vendo\" rel=\"nofollow\">https://github.com/runvendo/vendo</a>.<p>Would love you to try it out and give us your feedback: <a href=\"https://docs.vendo.run/\">https://docs.vendo.run/</a>. Or if you’re a company looking to embed Vendo in your product feel free to book a call here: <a href=\"https://cal.com/team/vendo/intro-call\" rel=\"nofollow\">https://cal.com/team/vendo/intro-call</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376038\">https://news.ycombinator.com/item?id=49376038</a></p>\n<p>Points: 47</p>\n<p># Comments: 20</p>",
-        "pubDate": "Thu, 20 Aug 2026 15:29:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49376038"
+        "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+        "link": "https://arxiv.org/abs/2608.18214",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.18214\">https://arxiv.org/abs/2608.18214</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387856\">https://news.ycombinator.com/item?id=49387856</a></p>\n<p>Points: 79</p>\n<p># Comments: 26</p>",
+        "pubDate": "Fri, 21 Aug 2026 13:35:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49387856"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-21T13:02:59.818Z",
+  "lastUpdated": "2026-08-21T18:48:23.259Z",
   "stats": {
     "feeds": 2,
     "articles": 20
