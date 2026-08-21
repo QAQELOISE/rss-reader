@@ -5,108 +5,115 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-21T01:49:26.963Z"
+      "lastFetched": "2026-08-21T06:59:19.151Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-21T01:49:47.130Z"
+      "lastFetched": "2026-08-21T06:59:33.697Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "It is a sign of the times that Amazon gets to call this fair use",
-        "link": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-        "description": "<p>Article URL: <a href=\"http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html\">http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382200\">https://news.ycombinator.com/item?id=49382200</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-        "pubDate": "Fri, 21 Aug 2026 00:34:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49382200"
+        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+        "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+        "description": "<p>Article URL: <a href=\"https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/\">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384224\">https://news.ycombinator.com/item?id=49384224</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 21 Aug 2026 05:39:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49384224"
+      },
+      {
+        "title": "Japan tried to build an operating system for the world, the US intervened",
+        "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+        "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384180\">https://news.ycombinator.com/item?id=49384180</a></p>\n<p>Points: 35</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 21 Aug 2026 05:31:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49384180"
+      },
+      {
+        "title": "Codex on AWS bedrock bug causing 10x charges",
+        "link": "https://github.com/openai/codex/issues/37674",
+        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/37674\">https://github.com/openai/codex/issues/37674</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383326\">https://news.ycombinator.com/item?id=49383326</a></p>\n<p>Points: 95</p>\n<p># Comments: 30</p>",
+        "pubDate": "Fri, 21 Aug 2026 03:17:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49383326"
+      },
+      {
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "link": "https://annas-archive.gl/blog/physical-destruction.html",
+        "description": "<p>Article URL: <a href=\"https://annas-archive.gl/blog/physical-destruction.html\">https://annas-archive.gl/blog/physical-destruction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383026\">https://news.ycombinator.com/item?id=49383026</a></p>\n<p>Points: 265</p>\n<p># Comments: 186</p>",
+        "pubDate": "Fri, 21 Aug 2026 02:37:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49383026"
       },
       {
         "title": "There's no such thing as a small software team anymore",
         "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-        "description": "<p>Article URL: <a href=\"https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382152\">https://news.ycombinator.com/item?id=49382152</a></p>\n<p>Points: 19</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382152\">https://news.ycombinator.com/item?id=49382152</a></p>\n<p>Points: 73</p>\n<p># Comments: 117</p>",
         "pubDate": "Fri, 21 Aug 2026 00:28:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49382152"
       },
       {
-        "title": "Copyright does not protect AI-generated content in EU",
-        "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@maxpool/117128107757895678\">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382041\">https://news.ycombinator.com/item?id=49382041</a></p>\n<p>Points: 83</p>\n<p># Comments: 71</p>",
-        "pubDate": "Fri, 21 Aug 2026 00:15:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49382041"
-      },
-      {
-        "title": "Stealth Model",
+        "title": "Ox Alpha",
         "link": "https://openrouter.ai/stealth/ox-alpha",
-        "description": "<p>Article URL: <a href=\"https://openrouter.ai/stealth/ox-alpha\">https://openrouter.ai/stealth/ox-alpha</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381896\">https://news.ycombinator.com/item?id=49381896</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
+        "description": "<p><a href=\"https://twitter.com/OpenRouter/status/2090544970923184269\" rel=\"nofollow\">https://twitter.com/OpenRouter/status/2090544970923184269</a>, <a href=\"https://xcancel.com/OpenRouter/status/2090544970923184269\" rel=\"nofollow\">https://xcancel.com/OpenRouter/status/2090544970923184269</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381896\">https://news.ycombinator.com/item?id=49381896</a></p>\n<p>Points: 99</p>\n<p># Comments: 79</p>",
         "pubDate": "Thu, 20 Aug 2026 23:56:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49381896"
       },
       {
-        "title": "Detecting scraper bots through scroll behaviour",
-        "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-        "description": "<p>Article URL: <a href=\"https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381311\">https://news.ycombinator.com/item?id=49381311</a></p>\n<p>Points: 26</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 20 Aug 2026 22:47:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49381311"
-      },
-      {
         "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
         "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-        "description": "<p>Article URL: <a href=\"https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379550\">https://news.ycombinator.com/item?id=49379550</a></p>\n<p>Points: 974</p>\n<p># Comments: 225</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379550\">https://news.ycombinator.com/item?id=49379550</a></p>\n<p>Points: 1371</p>\n<p># Comments: 298</p>",
         "pubDate": "Thu, 20 Aug 2026 20:07:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49379550"
       },
       {
-        "title": "The August 17 outage, and the work ahead",
+        "title": "The August 17 outage",
         "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378957\">https://news.ycombinator.com/item?id=49378957</a></p>\n<p>Points: 316</p>\n<p># Comments: 361</p>",
+        "description": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378957\">https://news.ycombinator.com/item?id=49378957</a></p>\n<p>Points: 453</p>\n<p># Comments: 514</p>",
         "pubDate": "Thu, 20 Aug 2026 19:22:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49378957"
       },
       {
-        "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-        "link": "https://tidalcycles.org/",
-        "description": "<p>Article URL: <a href=\"https://tidalcycles.org/\">https://tidalcycles.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378950\">https://news.ycombinator.com/item?id=49378950</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 20 Aug 2026 19:21:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49378950"
-      },
-      {
         "title": "SpacetimeDB: A Short Technical Review",
         "link": "https://strn.cat/posts/spacetime/",
-        "description": "<p>Article URL: <a href=\"https://strn.cat/posts/spacetime/\">https://strn.cat/posts/spacetime/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378933\">https://news.ycombinator.com/item?id=49378933</a></p>\n<p>Points: 59</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://strn.cat/posts/spacetime/\">https://strn.cat/posts/spacetime/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378933\">https://news.ycombinator.com/item?id=49378933</a></p>\n<p>Points: 81</p>\n<p># Comments: 17</p>",
         "pubDate": "Thu, 20 Aug 2026 19:19:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49378933"
       },
       {
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "link": "https://www.danielvaughn.dev/posts/huzzah/",
-        "description": "<p>Hello everyone. I've been working on this experimental editor called Huzzah.<p>I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you\n  2. on save, the editor synchronizes your work to real source code\n  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n</code></pre>\nIt may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href=\"https://github.com/danielvaughn/hz\" rel=\"nofollow\">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href=\"https://x.com/danielvaughn/status/2090456808431165715\" rel=\"nofollow\">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378768\">https://news.ycombinator.com/item?id=49378768</a></p>\n<p>Points: 221</p>\n<p># Comments: 124</p>",
+        "description": "<p>Hello everyone. I've been working on this experimental editor called Huzzah.<p>I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you\n  2. on save, the editor synchronizes your work to real source code\n  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n</code></pre>\nIt may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href=\"https://github.com/danielvaughn/hz\" rel=\"nofollow\">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href=\"https://x.com/danielvaughn/status/2090456808431165715\" rel=\"nofollow\">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378768\">https://news.ycombinator.com/item?id=49378768</a></p>\n<p>Points: 282</p>\n<p># Comments: 148</p>",
         "pubDate": "Thu, 20 Aug 2026 19:05:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49378768"
       },
       {
         "title": "Why aren't smart people happier? (2022)",
         "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-        "description": "<p>Article URL: <a href=\"https://www.experimental-history.com/p/why-arent-smart-people-happier\">https://www.experimental-history.com/p/why-arent-smart-people-happier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378446\">https://news.ycombinator.com/item?id=49378446</a></p>\n<p>Points: 85</p>\n<p># Comments: 140</p>",
+        "description": "<p>Article URL: <a href=\"https://www.experimental-history.com/p/why-arent-smart-people-happier\">https://www.experimental-history.com/p/why-arent-smart-people-happier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378446\">https://news.ycombinator.com/item?id=49378446</a></p>\n<p>Points: 146</p>\n<p># Comments: 198</p>",
         "pubDate": "Thu, 20 Aug 2026 18:38:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49378446"
       },
       {
         "title": "Consumer Rights Wiki",
         "link": "https://consumerrights.wiki/w/Main_Page",
-        "description": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Main_Page\">https://consumerrights.wiki/w/Main_Page</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378243\">https://news.ycombinator.com/item?id=49378243</a></p>\n<p>Points: 218</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Main_Page\">https://consumerrights.wiki/w/Main_Page</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378243\">https://news.ycombinator.com/item?id=49378243</a></p>\n<p>Points: 265</p>\n<p># Comments: 49</p>",
         "pubDate": "Thu, 20 Aug 2026 18:19:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49378243"
       },
       {
         "title": "I should have loved biology (2020)",
         "link": "https://jsomers.net/i-should-have-loved-biology/",
-        "description": "<p>Article URL: <a href=\"https://jsomers.net/i-should-have-loved-biology/\">https://jsomers.net/i-should-have-loved-biology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377853\">https://news.ycombinator.com/item?id=49377853</a></p>\n<p>Points: 199</p>\n<p># Comments: 74</p>",
+        "description": "<p>Article URL: <a href=\"https://jsomers.net/i-should-have-loved-biology/\">https://jsomers.net/i-should-have-loved-biology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377853\">https://news.ycombinator.com/item?id=49377853</a></p>\n<p>Points: 250</p>\n<p># Comments: 97</p>",
         "pubDate": "Thu, 20 Aug 2026 17:50:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49377853"
+      },
+      {
+        "title": "Project Cybersyn (2022)",
+        "link": "https://bactra.org/notebooks/cybersyn.html",
+        "description": "<p>Article URL: <a href=\"https://bactra.org/notebooks/cybersyn.html\">https://bactra.org/notebooks/cybersyn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377739\">https://news.ycombinator.com/item?id=49377739</a></p>\n<p>Points: 58</p>\n<p># Comments: 45</p>",
+        "pubDate": "Thu, 20 Aug 2026 17:40:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49377739"
       },
       {
         "title": "Sixtyfour (YC P25) Is Hiring",
@@ -118,49 +125,42 @@
       {
         "title": "How to compromise your system with a job interview",
         "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-        "description": "<p>Article URL: <a href=\"https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\">https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376332\">https://news.ycombinator.com/item?id=49376332</a></p>\n<p>Points: 118</p>\n<p># Comments: 102</p>",
+        "description": "<p>Article URL: <a href=\"https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\">https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376332\">https://news.ycombinator.com/item?id=49376332</a></p>\n<p>Points: 151</p>\n<p># Comments: 131</p>",
         "pubDate": "Thu, 20 Aug 2026 15:50:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49376332"
       },
       {
         "title": "Linux 7.2",
         "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-        "description": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 192</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 233</p>\n<p># Comments: 78</p>",
         "pubDate": "Thu, 20 Aug 2026 15:46:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49376265"
       },
       {
         "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "link": "https://github.com/zachahn/vomit",
-        "description": "<p>Article URL: <a href=\"https://github.com/zachahn/vomit\">https://github.com/zachahn/vomit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375996\">https://news.ycombinator.com/item?id=49375996</a></p>\n<p>Points: 193</p>\n<p># Comments: 202</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/zachahn/vomit\">https://github.com/zachahn/vomit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375996\">https://news.ycombinator.com/item?id=49375996</a></p>\n<p>Points: 234</p>\n<p># Comments: 234</p>",
         "pubDate": "Thu, 20 Aug 2026 15:26:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49375996"
       },
       {
         "title": "Anti-AI fonts are useless and harmful",
         "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-        "description": "<p>Article URL: <a href=\"https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/\">https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375719\">https://news.ycombinator.com/item?id=49375719</a></p>\n<p>Points: 115</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/\">https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375719\">https://news.ycombinator.com/item?id=49375719</a></p>\n<p>Points: 146</p>\n<p># Comments: 103</p>",
         "pubDate": "Thu, 20 Aug 2026 15:06:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49375719"
       },
       {
-        "title": "Hacking with Claude on a $27 smart watch",
-        "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-        "description": "<p>Article URL: <a href=\"https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html\">https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374772\">https://news.ycombinator.com/item?id=49374772</a></p>\n<p>Points: 85</p>\n<p># Comments: 46</p>",
-        "pubDate": "Thu, 20 Aug 2026 14:08:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49374772"
-      },
-      {
         "title": "Every Model Cheats",
         "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-        "description": "<p><a href=\"https://arxiv.org/abs/2607.21763\" rel=\"nofollow\">https://arxiv.org/abs/2607.21763</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374635\">https://news.ycombinator.com/item?id=49374635</a></p>\n<p>Points: 81</p>\n<p># Comments: 63</p>",
+        "description": "<p><a href=\"https://arxiv.org/abs/2607.21763\" rel=\"nofollow\">https://arxiv.org/abs/2607.21763</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374635\">https://news.ycombinator.com/item?id=49374635</a></p>\n<p>Points: 95</p>\n<p># Comments: 76</p>",
         "pubDate": "Thu, 20 Aug 2026 13:56:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49374635"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-21T01:49:47.130Z",
+  "lastUpdated": "2026-08-21T06:59:33.697Z",
   "stats": {
     "feeds": 2,
     "articles": 20
