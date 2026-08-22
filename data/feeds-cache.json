@@ -5,57 +5,64 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-22T06:52:34.173Z"
+      "lastFetched": "2026-08-22T12:53:17.840Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-22T06:52:42.731Z"
+      "lastFetched": "2026-08-22T12:53:23.422Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "GPT 5.6 Sol 20% price reduction",
-        "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-        "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/models/gpt-5.6-sol\">https://developers.openai.com/api/docs/models/gpt-5.6-sol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49396590\">https://news.ycombinator.com/item?id=49396590</a></p>\n<p>Points: 38</p>\n<p># Comments: 20</p>",
-        "pubDate": "Sat, 22 Aug 2026 04:33:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49396590"
+        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398904\">https://news.ycombinator.com/item?id=49398904</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 22 Aug 2026 12:07:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49398904"
+      },
+      {
+        "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+        "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+        "description": "<p>Article URL: <a href=\"https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398304\">https://news.ycombinator.com/item?id=49398304</a></p>\n<p>Points: 366</p>\n<p># Comments: 235</p>",
+        "pubDate": "Sat, 22 Aug 2026 10:26:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49398304"
+      },
+      {
+        "title": "Z80–The 1970s Microprocessor Still Alive",
+        "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "description": "<p>Article URL: <a href=\"https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi\">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398158\">https://news.ycombinator.com/item?id=49398158</a></p>\n<p>Points: 37</p>\n<p># Comments: 17</p>",
+        "pubDate": "Sat, 22 Aug 2026 09:49:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49398158"
+      },
+      {
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "link": "https://munderdiffl.in/",
+        "description": "<p>Article URL: <a href=\"https://munderdiffl.in/\">https://munderdiffl.in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398152\">https://news.ycombinator.com/item?id=49398152</a></p>\n<p>Points: 57</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 22 Aug 2026 09:49:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49398152"
       },
       {
         "title": "There's no reason for software to be slow anymore",
         "link": "https://danluu.com/perf-opt/",
-        "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 300</p>\n<p># Comments: 211</p>",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 490</p>\n<p># Comments: 337</p>",
         "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49395628"
       },
       {
-        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-        "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117136278553665985\">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395605\">https://news.ycombinator.com/item?id=49395605</a></p>\n<p>Points: 89</p>\n<p># Comments: 29</p>",
-        "pubDate": "Sat, 22 Aug 2026 01:02:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49395605"
-      },
-      {
         "title": "HN: The Good Parts (2016)",
         "link": "https://danluu.com/hn-comments/",
-        "description": "<p>Article URL: <a href=\"https://danluu.com/hn-comments/\">https://danluu.com/hn-comments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395171\">https://news.ycombinator.com/item?id=49395171</a></p>\n<p>Points: 38</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/hn-comments/\">https://danluu.com/hn-comments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395171\">https://news.ycombinator.com/item?id=49395171</a></p>\n<p>Points: 62</p>\n<p># Comments: 11</p>",
         "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49395171"
       },
       {
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "link": "https://ozbrain.com",
-        "description": "<p>I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.<p>A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.<p>What I built OzBrain to do:\n+ Create a central place for agent reasoned knowledge to live\n+ Be agnostic about what apps/agents connect to it\n+ Capture everything and track it so I can audit it\n+ Enable teams, collaborators or partners to share brains\n+ Handle conflicts so many agents in the same article doesn’t blow up\n+ Refactor knowledge into more token friendly chunks and map the index well\n+ Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link\n+ Keep user data safe and secure\n++ Be easy enough to use that you don’t have to have any technical knowledge<p>Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that.<p>Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really fine tuning your system… but if you just want your web deploy/hosting to just work and be easy to deal with you use Vercel.<p>// WHY I MADE IT<p>I’ve been enjoying getting back to my technical roots, as I lost my coding skills more than a decade ago, but with AI I can focus on the system and the product in partnership with agent coding workflows.<p>I recently built a Voice AI for older people. To build it I created an agentic engineering workflow (feel free to rip that up as I’m always looking to improve systems: <a href=\"https://ozbrain.com/resources/eng-flow\" rel=\"nofollow\">https://ozbrain.com/resources/eng-flow</a>) My approach with coding agents is trust but verify, and I’m trying to replace the parts where a human would review with an adversarial or specialized agent who would give a better answer/review.<p>I have workflows that will go high level task to shipped PR running in Claude cloud sessions. I use Claude Code locally and Cursor when I want a tighter loop on doing visual work like UI or layout. And Codex to either load balance usage for TokenThriffting or when I want a different llm to think thru something.<p>It was a pain in the ass passing .md files around and keep track of which version was the most recent, so I built a hosted .md storage right in Supabase and any of my agents already have Supabase access. This let me build a solid, scalable, secure voice AI from my phone at the gym. All my agents have access to our knowledge, can write to it, update and refer to it as we build and improve the product and the systems we use.<p>Out of 75 founder friends I asked about how they manage shared knowledge, 26 built their own custom knowledge systems… Obsidian vaults with 7k files synced through a VPS, markdown repos behind their own MCP servers, cron jobs stitching Supabase to a skills file… each a different Frankenstein they have to maintain. 32 said they felt the pain of moving static files around but didn’t have any solution for it.<p>So I rebuilt my brain better and used it to build it.<p>// HOW YOU CAN HELP<p>Would love to have you try it out. The maintenance loop is still in alpha so not running it on customer data yet.<p>If you built your own brain I’d love to hear how you did it. What criteria was most important for you in its design & function.<p>If you are tired of shuffling .md files around I’d love to have you try out OzBrain and to give feedback, just ask your agent to put it in the shared bugs & features brain!<p>Cheers!\nBubs.co</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394827\">https://news.ycombinator.com/item?id=49394827</a></p>\n<p>Points: 64</p>\n<p># Comments: 32</p>",
-        "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49394827"
-      },
-      {
         "title": "Three important steps in my maturation process",
         "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-        "description": "<p>Article URL: <a href=\"https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394496\">https://news.ycombinator.com/item?id=49394496</a></p>\n<p>Points: 113</p>\n<p># Comments: 40</p>",
+        "description": "<p>Article URL: <a href=\"https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394496\">https://news.ycombinator.com/item?id=49394496</a></p>\n<p>Points: 166</p>\n<p># Comments: 78</p>",
         "pubDate": "Fri, 21 Aug 2026 22:29:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49394496"
       },
@@ -69,37 +76,51 @@
       {
         "title": "Rust Glancer: Rust LSP using 100x less RAM",
         "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "description": "<p><a href=\"https://matklad.github.io/2026/08/21/rust-glancer.html\" rel=\"nofollow\">https://matklad.github.io/2026/08/21/rust-glancer.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393052\">https://news.ycombinator.com/item?id=49393052</a></p>\n<p>Points: 114</p>\n<p># Comments: 31</p>",
+        "description": "<p><a href=\"https://matklad.github.io/2026/08/21/rust-glancer.html\" rel=\"nofollow\">https://matklad.github.io/2026/08/21/rust-glancer.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393052\">https://news.ycombinator.com/item?id=49393052</a></p>\n<p>Points: 301</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 21 Aug 2026 19:51:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49393052"
       },
       {
-        "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
-        "link": "https://tumbleforth.hardcoded.net/",
-        "description": "<p>Article URL: <a href=\"https://tumbleforth.hardcoded.net/\">https://tumbleforth.hardcoded.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392465\">https://news.ycombinator.com/item?id=49392465</a></p>\n<p>Points: 70</p>\n<p># Comments: 11</p>",
-        "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49392465"
-      },
-      {
         "title": "Scientists release biggest 2D map of the universe",
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-        "description": "<p>Direct link to Legacy Survey Sky Viewer: <a href=\"https://viewer.legacysurvey.org\" rel=\"nofollow\">https://viewer.legacysurvey.org</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392200\">https://news.ycombinator.com/item?id=49392200</a></p>\n<p>Points: 179</p>\n<p># Comments: 54</p>",
+        "description": "<p>Direct link to Legacy Survey Sky Viewer: <a href=\"https://viewer.legacysurvey.org\" rel=\"nofollow\">https://viewer.legacysurvey.org</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392200\">https://news.ycombinator.com/item?id=49392200</a></p>\n<p>Points: 219</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49392200"
       },
       {
+        "title": "How Thailand Resisted Colonization",
+        "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+        "description": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/how-thailand-resisted-colonization/\">https://worksinprogress.co/issue/how-thailand-resisted-colonization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392099\">https://news.ycombinator.com/item?id=49392099</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+        "pubDate": "Fri, 21 Aug 2026 18:28:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49392099"
+      },
+      {
         "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
         "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-        "description": "<p>Article URL: <a href=\"https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/\">https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391661\">https://news.ycombinator.com/item?id=49391661</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/\">https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391661\">https://news.ycombinator.com/item?id=49391661</a></p>\n<p>Points: 48</p>\n<p># Comments: 0</p>",
         "pubDate": "Fri, 21 Aug 2026 17:54:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49391661"
       },
       {
-        "title": "OTel isn't going well (and I made a spreadsheet about it)",
+        "title": "OTel isn’t going well",
         "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "description": "<p>Article URL: <a href=\"https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/\">https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391553\">https://news.ycombinator.com/item?id=49391553</a></p>\n<p>Points: 82</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/\">https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391553\">https://news.ycombinator.com/item?id=49391553</a></p>\n<p>Points: 148</p>\n<p># Comments: 59</p>",
         "pubDate": "Fri, 21 Aug 2026 17:45:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49391553"
+      },
+      {
+        "title": "Rebuilding our Electron meeting-recording engine in Swift",
+        "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+        "description": "<p>Article URL: <a href=\"https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift\">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391389\">https://news.ycombinator.com/item?id=49391389</a></p>\n<p>Points: 36</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:33:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49391389"
+      },
+      {
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "link": "https://interconnected.org/home/2026/08/21/galactic",
+        "description": "<p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href=\"https://news.ycombinator.com/item?id=39389858\">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391348\">https://news.ycombinator.com/item?id=49391348</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:30:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49391348"
       },
       {
         "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
@@ -111,56 +132,35 @@
       {
         "title": "Kobo can run apps now",
         "link": "https://bandarlabs.github.io/Cobalt/",
-        "description": "<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 490</p>\n<p># Comments: 171</p>",
+        "description": "<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 584</p>\n<p># Comments: 191</p>",
         "pubDate": "Fri, 21 Aug 2026 16:25:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49390427"
       },
       {
         "title": "How we made a text-to-speech model respond in sub-50 ms",
         "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-        "description": "<p>Article URL: <a href=\"https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389952\">https://news.ycombinator.com/item?id=49389952</a></p>\n<p>Points: 131</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389952\">https://news.ycombinator.com/item?id=49389952</a></p>\n<p>Points: 157</p>\n<p># Comments: 38</p>",
         "pubDate": "Fri, 21 Aug 2026 15:51:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49389952"
       },
       {
         "title": "Felony Bench",
         "link": "https://www.felonybench.com/",
-        "description": "<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 616</p>\n<p># Comments: 256</p>",
+        "description": "<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 752</p>\n<p># Comments: 281</p>",
         "pubDate": "Fri, 21 Aug 2026 15:17:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49389430"
       },
       {
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "description": "<p>Article URL: <a href=\"https://github.com/adnanakil/nobuzz/blob/main/README.md\">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388752\">https://news.ycombinator.com/item?id=49388752</a></p>\n<p>Points: 242</p>\n<p># Comments: 172</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/adnanakil/nobuzz/blob/main/README.md\">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388752\">https://news.ycombinator.com/item?id=49388752</a></p>\n<p>Points: 303</p>\n<p># Comments: 194</p>",
         "pubDate": "Fri, 21 Aug 2026 14:31:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49388752"
-      },
-      {
-        "title": "Zig's Io.Threaded Is Neat",
-        "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-        "description": "<p>Article URL: <a href=\"https://matklad.github.io/2026/08/06/neat-io-threaded.html\">https://matklad.github.io/2026/08/06/neat-io-threaded.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388694\">https://news.ycombinator.com/item?id=49388694</a></p>\n<p>Points: 40</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 21 Aug 2026 14:28:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49388694"
-      },
-      {
-        "title": "Kagi added a setting for removing paywalled links from search results",
-        "link": "https://kagi.com/changelog#11296",
-        "description": "<p>Article URL: <a href=\"https://kagi.com/changelog#11296\">https://kagi.com/changelog#11296</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388154\">https://news.ycombinator.com/item?id=49388154</a></p>\n<p>Points: 1080</p>\n<p># Comments: 356</p>",
-        "pubDate": "Fri, 21 Aug 2026 13:56:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49388154"
-      },
-      {
-        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-        "link": "https://lina.sh/blog/hijacking-e164-arpa",
-        "description": "<p>Article URL: <a href=\"https://lina.sh/blog/hijacking-e164-arpa\">https://lina.sh/blog/hijacking-e164-arpa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387570\">https://news.ycombinator.com/item?id=49387570</a></p>\n<p>Points: 496</p>\n<p># Comments: 55</p>",
-        "pubDate": "Fri, 21 Aug 2026 13:11:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49387570"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-22T06:52:42.731Z",
+  "lastUpdated": "2026-08-22T12:53:23.422Z",
   "stats": {
     "feeds": 2,
     "articles": 20
