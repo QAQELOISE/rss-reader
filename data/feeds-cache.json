@@ -5,38 +5,87 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-21T18:48:22.907Z"
+      "lastFetched": "2026-08-22T01:42:20.547Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-21T18:48:23.259Z"
+      "lastFetched": "2026-08-22T01:42:20.711Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Rebuilding our Electron meeting-recording engine in Swift",
-        "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-        "description": "<p>Article URL: <a href=\"https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift\">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391389\">https://news.ycombinator.com/item?id=49391389</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 21 Aug 2026 17:33:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49391389"
+        "title": "There's no reason for software to be slow anymore",
+        "link": "https://danluu.com/perf-opt/",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49395628"
       },
       {
-        "title": "When the shortage is the strategy",
-        "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-        "description": "<p>Article URL: <a href=\"https://nooneshappy.com/article/when-the-shortage-is-the-strategy/\">https://nooneshappy.com/article/when-the-shortage-is-the-strategy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391358\">https://news.ycombinator.com/item?id=49391358</a></p>\n<p>Points: 26</p>\n<p># Comments: 18</p>",
-        "pubDate": "Fri, 21 Aug 2026 17:31:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49391358"
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117136278553665985\">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395605\">https://news.ycombinator.com/item?id=49395605</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 22 Aug 2026 01:02:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49395605"
       },
       {
-        "title": "Galactic Compass 2: now with new augmented reality mode",
-        "link": "https://interconnected.org/home/2026/08/21/galactic",
-        "description": "<p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href=\"https://news.ycombinator.com/item?id=39389858\">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391348\">https://news.ycombinator.com/item?id=49391348</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 21 Aug 2026 17:30:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49391348"
+        "title": "HN: The Good Parts (2016)",
+        "link": "https://danluu.com/hn-comments/",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/hn-comments/\">https://danluu.com/hn-comments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395171\">https://news.ycombinator.com/item?id=49395171</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49395171"
+      },
+      {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "link": "https://ozbrain.com",
+        "description": "<p>I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.<p>A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.<p>What I built OzBrain to do:\n+ Create a central place for agent reasoned knowledge to live\n+ Be agnostic about what apps/agents connect to it\n+ Capture everything and track it so I can audit it\n+ Enable teams, collaborators or partners to share brains\n+ Handle conflicts so many agents in the same article doesn’t blow up\n+ Refactor knowledge into more token friendly chunks and map the index well\n+ Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link\n+ Keep user data safe and secure\n++ Be easy enough to use that you don’t have to have any technical knowledge<p>Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that.<p>Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really fine tuning your system… but if you just want your web deploy/hosting to just work and be easy to deal with you use Vercel.<p>// WHY I MADE IT<p>I’ve been enjoying getting back to my technical roots, as I lost my coding skills more than a decade ago, but with AI I can focus on the system and the product in partnership with agent coding workflows.<p>I recently built a Voice AI for older people. To build it I created an agentic engineering workflow (feel free to rip that up as I’m always looking to improve systems: <a href=\"https://ozbrain.com/resources/eng-flow\" rel=\"nofollow\">https://ozbrain.com/resources/eng-flow</a>) My approach with coding agents is trust but verify, and I’m trying to replace the parts where a human would review with an adversarial or specialized agent who would give a better answer/review.<p>I have workflows that will go high level task to shipped PR running in Claude cloud sessions. I use Claude Code locally and Cursor when I want a tighter loop on doing visual work like UI or layout. And Codex to either load balance usage for TokenThriffting or when I want a different llm to think thru something.<p>It was a pain in the ass passing .md files around and keep track of which version was the most recent, so I built a hosted .md storage right in Supabase and any of my agents already have Supabase access. This let me build a solid, scalable, secure voice AI from my phone at the gym. All my agents have access to our knowledge, can write to it, update and refer to it as we build and improve the product and the systems we use.<p>Out of 75 founder friends I asked about how they manage shared knowledge, 26 built their own custom knowledge systems… Obsidian vaults with 7k files synced through a VPS, markdown repos behind their own MCP servers, cron jobs stitching Supabase to a skills file… each a different Frankenstein they have to maintain. 32 said they felt the pain of moving static files around but didn’t have any solution for it.<p>So I rebuilt my brain better and used it to build it.<p>// HOW YOU CAN HELP<p>Would love to have you try it out. The maintenance loop is still in alpha so not running it on customer data yet.<p>If you built your own brain I’d love to hear how you did it. What criteria was most important for you in its design & function.<p>If you are tired of shuffling .md files around I’d love to have you try out OzBrain and to give feedback, just ask your agent to put it in the shared bugs & features brain!<p>Cheers!\nBubs.co</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394827\">https://news.ycombinator.com/item?id=49394827</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+        "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49394827"
+      },
+      {
+        "title": "Three important steps in my maturation process",
+        "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+        "description": "<p>Article URL: <a href=\"https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394496\">https://news.ycombinator.com/item?id=49394496</a></p>\n<p>Points: 46</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 21 Aug 2026 22:29:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49394496"
+      },
+      {
+        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393733\">https://news.ycombinator.com/item?id=49393733</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 21 Aug 2026 21:00:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49393733"
+      },
+      {
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "link": "https://rust-glancer.github.io/blog/hello-world/",
+        "description": "<p><a href=\"https://matklad.github.io/2026/08/21/rust-glancer.html\" rel=\"nofollow\">https://matklad.github.io/2026/08/21/rust-glancer.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393052\">https://news.ycombinator.com/item?id=49393052</a></p>\n<p>Points: 21</p>\n<p># Comments: 12</p>",
+        "pubDate": "Fri, 21 Aug 2026 19:51:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49393052"
+      },
+      {
+        "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
+        "link": "https://tumbleforth.hardcoded.net/",
+        "description": "<p>Article URL: <a href=\"https://tumbleforth.hardcoded.net/\">https://tumbleforth.hardcoded.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392465\">https://news.ycombinator.com/item?id=49392465</a></p>\n<p>Points: 56</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49392465"
+      },
+      {
+        "title": "Scientists release biggest 2D map of the universe",
+        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "description": "<p>Direct link to Legacy Survey Sky Viewer: <a href=\"https://viewer.legacysurvey.org\" rel=\"nofollow\">https://viewer.legacysurvey.org</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392200\">https://news.ycombinator.com/item?id=49392200</a></p>\n<p>Points: 149</p>\n<p># Comments: 46</p>",
+        "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49392200"
+      },
+      {
+        "title": "OTel isn't going well (and I made a spreadsheet about it)",
+        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "description": "<p>Article URL: <a href=\"https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/\">https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391553\">https://news.ycombinator.com/item?id=49391553</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 21 Aug 2026 17:45:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49391553"
       },
       {
         "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
@@ -46,121 +95,72 @@
         "guid": "https://news.ycombinator.com/item?id=49390910"
       },
       {
-        "title": "Another better lower bound for n=17 square packing",
-        "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-        "description": "<p>Article URL: <a href=\"http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html\">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390775\">https://news.ycombinator.com/item?id=49390775</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-        "pubDate": "Fri, 21 Aug 2026 16:50:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49390775"
-      },
-      {
-        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-        "link": "https://github.com/proliferate-ai/proliferate",
-        "description": "<p>Hi HN- I'm Pablo, the founder of Proliferate (YC S25)!<p>Proliferate (<a href=\"https://github.com/proliferate-ai/proliferate\" rel=\"nofollow\">https://github.com/proliferate-ai/proliferate</a>) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place.<p>Here's a quick 2m demo of how we use Proliferate to build Proliferate: <a href=\"https://www.youtube.com/watch?v=tGNX0oaWmBY\" rel=\"nofollow\">https://www.youtube.com/watch?v=tGNX0oaWmBY</a><p>I started building Proliferate after my team onboarded to OpenAI Codex. Within days, we were using it for everything: using computer use instead of navigating websites ourselves, having Codex coordinate other agents, and setting up automations for recurring work. We really never needed to leave the desktop app to get work done.<p>If my team’s experience is anything close to representative, a Codex-like app (a horizontal agent with a beautiful UI) is the main interface every company is going to use to get work done. That is perfectly in line with OpenAI’s mission to make Codex the everything app (see: <a href=\"https://news.ycombinator.com/item?id=47796469\">https://news.ycombinator.com/item?id=47796469</a>).<p>But as we started automating work closer to the core of the business, I wanted to work with agents from all the labs, including open-weight models, without becoming increasingly dependent on OpenAI.<p>And that’s what Proliferate is for! It's the open-source, self-hostable Codex that preserves your optionality across agents and model providers while building toward Codex’s breadth.<p>Today Proliferate supports:<p>* Working with Claude Code, Codex, OpenCode, Cursor, and Grok with their native inference and configuration options, including Bedrock, Azure, and self hosted inference.<p>* Inter-agent communication and management: a parent agent can spawn and communicate with another supported agent as a subagent (I personally like to have Fable delegate to Codex, with OpenCode models reviewing PRs).<p>* Building workflows- one of the features I'm most excited about. These are re-usable chains of agent sessions and human approval gates, with the harness and model chosen per step and documents passed between them. I use this to automate code review, QA, and my PR construction process.<p>All of Proliferate is 100% open source under AGPL-3.0. There are still definitely some rough spots, but we’re building fast and I’d really love any feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390739\">https://news.ycombinator.com/item?id=49390739</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
-        "pubDate": "Fri, 21 Aug 2026 16:47:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49390739"
-      },
-      {
-        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-        "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "description": "<p>Article URL: <a href=\"https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/\">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390463\">https://news.ycombinator.com/item?id=49390463</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
-        "pubDate": "Fri, 21 Aug 2026 16:27:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49390463"
-      },
-      {
         "title": "Kobo can run apps now",
         "link": "https://bandarlabs.github.io/Cobalt/",
-        "description": "<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 111</p>\n<p># Comments: 42</p>",
+        "description": "<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 433</p>\n<p># Comments: 147</p>",
         "pubDate": "Fri, 21 Aug 2026 16:25:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49390427"
       },
       {
         "title": "What happens when a GPU reads memory",
         "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "description": "<p>Article URL: <a href=\"https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory\">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390308\">https://news.ycombinator.com/item?id=49390308</a></p>\n<p>Points: 37</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory\">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390308\">https://news.ycombinator.com/item?id=49390308</a></p>\n<p>Points: 100</p>\n<p># Comments: 18</p>",
         "pubDate": "Fri, 21 Aug 2026 16:16:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49390308"
       },
       {
-        "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
-        "link": "https://github.com/aravpanwar/decayfmt",
-        "description": "<p>Article URL: <a href=\"https://github.com/aravpanwar/decayfmt\">https://github.com/aravpanwar/decayfmt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390206\">https://news.ycombinator.com/item?id=49390206</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 21 Aug 2026 16:09:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49390206"
-      },
-      {
-        "title": "LLMs are proof that Unix won",
-        "link": "https://bastian.rieck.me/blog/2026/unix/",
-        "description": "<p>Article URL: <a href=\"https://bastian.rieck.me/blog/2026/unix/\">https://bastian.rieck.me/blog/2026/unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390066\">https://news.ycombinator.com/item?id=49390066</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 21 Aug 2026 15:59:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49390066"
-      },
-      {
         "title": "How we made a text-to-speech model respond in sub-50 ms",
         "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-        "description": "<p>Article URL: <a href=\"https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389952\">https://news.ycombinator.com/item?id=49389952</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389952\">https://news.ycombinator.com/item?id=49389952</a></p>\n<p>Points: 105</p>\n<p># Comments: 28</p>",
         "pubDate": "Fri, 21 Aug 2026 15:51:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49389952"
       },
       {
-        "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-        "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-        "description": "<p>Article URL: <a href=\"https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md\">https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389493\">https://news.ycombinator.com/item?id=49389493</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 21 Aug 2026 15:21:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49389493"
-      },
-      {
         "title": "I ran Photoshop on a £0.60 computer chip",
         "link": "https://pointinthecloud.com/2026-08-19-144600.html",
-        "description": "<p>Article URL: <a href=\"https://pointinthecloud.com/2026-08-19-144600.html\">https://pointinthecloud.com/2026-08-19-144600.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389441\">https://news.ycombinator.com/item?id=49389441</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://pointinthecloud.com/2026-08-19-144600.html\">https://pointinthecloud.com/2026-08-19-144600.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389441\">https://news.ycombinator.com/item?id=49389441</a></p>\n<p>Points: 120</p>\n<p># Comments: 29</p>",
         "pubDate": "Fri, 21 Aug 2026 15:17:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49389441"
       },
       {
         "title": "Felony Bench",
         "link": "https://www.felonybench.com/",
-        "description": "<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 157</p>\n<p># Comments: 67</p>",
+        "description": "<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 523</p>\n<p># Comments: 225</p>",
         "pubDate": "Fri, 21 Aug 2026 15:17:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49389430"
       },
       {
-        "title": "How I came to write that paper with Leslie Lamport",
-        "link": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-        "description": "<p><a href=\"https://www.microsoft.com/en-us/research/publication/specification-language-typed/\" rel=\"nofollow\">https://www.microsoft.com/en-us/research/publication/specifi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388963\">https://news.ycombinator.com/item?id=49388963</a></p>\n<p>Points: 32</p>\n<p># Comments: 9</p>",
-        "pubDate": "Fri, 21 Aug 2026 14:46:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49388963"
-      },
-      {
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "description": "<p>Article URL: <a href=\"https://github.com/adnanakil/nobuzz/blob/main/README.md\">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388752\">https://news.ycombinator.com/item?id=49388752</a></p>\n<p>Points: 78</p>\n<p># Comments: 75</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/adnanakil/nobuzz/blob/main/README.md\">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388752\">https://news.ycombinator.com/item?id=49388752</a></p>\n<p>Points: 202</p>\n<p># Comments: 141</p>",
         "pubDate": "Fri, 21 Aug 2026 14:31:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49388752"
       },
       {
         "title": "Kagi added a setting for removing paywalled links from search results",
         "link": "https://kagi.com/changelog#11296",
-        "description": "<p>Article URL: <a href=\"https://kagi.com/changelog#11296\">https://kagi.com/changelog#11296</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388154\">https://news.ycombinator.com/item?id=49388154</a></p>\n<p>Points: 741</p>\n<p># Comments: 271</p>",
+        "description": "<p>Article URL: <a href=\"https://kagi.com/changelog#11296\">https://kagi.com/changelog#11296</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388154\">https://news.ycombinator.com/item?id=49388154</a></p>\n<p>Points: 1011</p>\n<p># Comments: 340</p>",
         "pubDate": "Fri, 21 Aug 2026 13:56:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49388154"
       },
       {
         "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
         "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-        "description": "<p>Article URL: <a href=\"https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/\">https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388095\">https://news.ycombinator.com/item?id=49388095</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/\">https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388095\">https://news.ycombinator.com/item?id=49388095</a></p>\n<p>Points: 55</p>\n<p># Comments: 3</p>",
         "pubDate": "Fri, 21 Aug 2026 13:52:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49388095"
       },
       {
-        "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-        "link": "https://arxiv.org/abs/2608.18214",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.18214\">https://arxiv.org/abs/2608.18214</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387856\">https://news.ycombinator.com/item?id=49387856</a></p>\n<p>Points: 79</p>\n<p># Comments: 26</p>",
-        "pubDate": "Fri, 21 Aug 2026 13:35:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49387856"
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "link": "https://lina.sh/blog/hijacking-e164-arpa",
+        "description": "<p>Article URL: <a href=\"https://lina.sh/blog/hijacking-e164-arpa\">https://lina.sh/blog/hijacking-e164-arpa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387570\">https://news.ycombinator.com/item?id=49387570</a></p>\n<p>Points: 446</p>\n<p># Comments: 50</p>",
+        "pubDate": "Fri, 21 Aug 2026 13:11:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49387570"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-21T18:48:23.259Z",
+  "lastUpdated": "2026-08-22T01:42:20.711Z",
   "stats": {
     "feeds": 2,
     "articles": 20
