@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-23T01:51:58.904Z"
+      "lastFetched": "2026-08-23T06:53:42.380Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-23T01:52:18.317Z"
+      "lastFetched": "2026-08-23T06:53:51.515Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Software Engineering in the Agentic Era",
-        "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/\">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405117\">https://news.ycombinator.com/item?id=49405117</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 23 Aug 2026 00:20:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49405117"
+        "title": "The End of an Athlon",
+        "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+        "description": "<p>Article URL: <a href=\"http://www.os2museum.com/wp/the-end-of-an-athlon/\">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406333\">https://news.ycombinator.com/item?id=49406333</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49406333"
       },
       {
-        "title": "US Military newspaper editor voices censorship fears after being fired",
-        "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm2g23ng8p4o\">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405110\">https://news.ycombinator.com/item?id=49405110</a></p>\n<p>Points: 31</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 23 Aug 2026 00:19:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49405110"
+        "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+        "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html\">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406069\">https://news.ycombinator.com/item?id=49406069</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49406069"
+      },
+      {
+        "title": "The Golden Rule for Becoming a Better Writer",
+        "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+        "description": "<p>Article URL: <a href=\"https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405870\">https://news.ycombinator.com/item?id=49405870</a></p>\n<p>Points: 48</p>\n<p># Comments: 23</p>",
+        "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49405870"
+      },
+      {
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "link": "https://martypc.net/",
+        "description": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 73</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49405816"
+      },
+      {
+        "title": "I Dream of Quieter Computing",
+        "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+        "description": "<p>Article URL: <a href=\"https://henry.codes/writing/i-dream-of-quieter-computing/\">https://henry.codes/writing/i-dream-of-quieter-computing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405682\">https://news.ycombinator.com/item?id=49405682</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49405682"
+      },
+      {
+        "title": "The Art and Beauty of Blade Runner (2015)",
+        "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+        "description": "<p>Article URL: <a href=\"https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405331\">https://news.ycombinator.com/item?id=49405331</a></p>\n<p>Points: 52</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49405331"
       },
       {
         "title": "NanoGPT Speedrun Frontier",
         "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 44</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 84</p>\n<p># Comments: 24</p>",
         "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49404380"
       },
       {
         "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "description": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 96</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 112</p>\n<p># Comments: 28</p>",
         "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402781"
       },
       {
-        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-        "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-        "description": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/8/7.html\">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402741\">https://news.ycombinator.com/item?id=49402741</a></p>\n<p>Points: 159</p>\n<p># Comments: 68</p>",
-        "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49402741"
-      },
-      {
         "title": "Why your local LLM feels dumber than it is",
         "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "description": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402232\">https://news.ycombinator.com/item?id=49402232</a></p>\n<p>Points: 181</p>\n<p># Comments: 62</p>",
+        "description": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402232\">https://news.ycombinator.com/item?id=49402232</a></p>\n<p>Points: 279</p>\n<p># Comments: 91</p>",
         "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402232"
       },
       {
         "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
         "link": "https://marcua.net/minitools/figmimic/",
-        "description": "<p>Article URL: <a href=\"https://marcua.net/minitools/figmimic/\">https://marcua.net/minitools/figmimic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402213\">https://news.ycombinator.com/item?id=49402213</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://marcua.net/minitools/figmimic/\">https://marcua.net/minitools/figmimic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402213\">https://news.ycombinator.com/item?id=49402213</a></p>\n<p>Points: 85</p>\n<p># Comments: 12</p>",
         "pubDate": "Sat, 22 Aug 2026 18:11:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402213"
       },
       {
-        "title": "Thinking in Python by Bruce Eckel",
+        "title": "Thinking in Python",
         "link": "https://thinkinginpython.com/",
-        "description": "<p>Article URL: <a href=\"https://thinkinginpython.com/\">https://thinkinginpython.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402202\">https://news.ycombinator.com/item?id=49402202</a></p>\n<p>Points: 50</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://thinkinginpython.com/\">https://thinkinginpython.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402202\">https://news.ycombinator.com/item?id=49402202</a></p>\n<p>Points: 126</p>\n<p># Comments: 24</p>",
         "pubDate": "Sat, 22 Aug 2026 18:10:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402202"
       },
       {
         "title": "Scrap (2006)",
         "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "description": "<p><a href=\"https://xcancel.com/moxie/status/2091218652133732491\" rel=\"nofollow\">https://xcancel.com/moxie/status/2091218652133732491</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402189\">https://news.ycombinator.com/item?id=49402189</a></p>\n<p>Points: 314</p>\n<p># Comments: 176</p>",
+        "description": "<p><a href=\"https://xcancel.com/moxie/status/2091218652133732491\" rel=\"nofollow\">https://xcancel.com/moxie/status/2091218652133732491</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402189\">https://news.ycombinator.com/item?id=49402189</a></p>\n<p>Points: 364</p>\n<p># Comments: 193</p>",
         "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402189"
       },
       {
         "title": "I set a trap for a book-marketing scammer (2025)",
         "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-        "description": "<p>Article URL: <a href=\"https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing\">https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402181\">https://news.ycombinator.com/item?id=49402181</a></p>\n<p>Points: 6</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing\">https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402181\">https://news.ycombinator.com/item?id=49402181</a></p>\n<p>Points: 29</p>\n<p># Comments: 17</p>",
         "pubDate": "Sat, 22 Aug 2026 18:08:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402181"
       },
       {
         "title": "Reading Maps – Journeys from fiction drawn on the real world",
         "link": "https://readingmaps.com/",
-        "description": "<p>Article URL: <a href=\"https://readingmaps.com/\">https://readingmaps.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402107\">https://news.ycombinator.com/item?id=49402107</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://readingmaps.com/\">https://readingmaps.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402107\">https://news.ycombinator.com/item?id=49402107</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
         "pubDate": "Sat, 22 Aug 2026 17:59:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402107"
       },
       {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "link": "https://quantumi.sh/public/labs.html",
-        "description": "<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 306</p>\n<p># Comments: 101</p>",
+        "description": "<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 365</p>\n<p># Comments: 113</p>",
         "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49400408"
       },
       {
         "title": "A Friendly Introduction to Racket",
         "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "description": "<p>Article URL: <a href=\"https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399898\">https://news.ycombinator.com/item?id=49399898</a></p>\n<p>Points: 192</p>\n<p># Comments: 98</p>",
+        "description": "<p>Article URL: <a href=\"https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399898\">https://news.ycombinator.com/item?id=49399898</a></p>\n<p>Points: 219</p>\n<p># Comments: 115</p>",
         "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=49399898"
       },
       {
-        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-        "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-        "description": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/\">https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399524\">https://news.ycombinator.com/item?id=49399524</a></p>\n<p>Points: 196</p>\n<p># Comments: 83</p>",
-        "pubDate": "Sat, 22 Aug 2026 13:24:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49399524"
+        "title": "New MCP Roadmap",
+        "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "description": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399591\">https://news.ycombinator.com/item?id=49399591</a></p>\n<p>Points: 193</p>\n<p># Comments: 129</p>",
+        "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49399591"
       },
       {
         "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
         "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-        "description": "<p>Article URL: <a href=\"https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi\">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398158\">https://news.ycombinator.com/item?id=49398158</a></p>\n<p>Points: 116</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi\">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398158\">https://news.ycombinator.com/item?id=49398158</a></p>\n<p>Points: 133</p>\n<p># Comments: 63</p>",
         "pubDate": "Sat, 22 Aug 2026 09:49:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49398158"
       },
       {
         "title": "Munder Difflin – Agent harness to run an office of your clones",
         "link": "https://munderdiffl.in/",
-        "description": "<p>Article URL: <a href=\"https://munderdiffl.in/\">https://munderdiffl.in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398152\">https://news.ycombinator.com/item?id=49398152</a></p>\n<p>Points: 250</p>\n<p># Comments: 114</p>",
+        "description": "<p>Article URL: <a href=\"https://munderdiffl.in/\">https://munderdiffl.in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398152\">https://news.ycombinator.com/item?id=49398152</a></p>\n<p>Points: 274</p>\n<p># Comments: 118</p>",
         "pubDate": "Sat, 22 Aug 2026 09:49:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=49398152"
       },
       {
         "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
         "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-        "description": "<p><a href=\"https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\" rel=\"nofollow\">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49397074\">https://news.ycombinator.com/item?id=49397074</a></p>\n<p>Points: 489</p>\n<p># Comments: 1229</p>",
+        "description": "<p><a href=\"https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\" rel=\"nofollow\">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49397074\">https://news.ycombinator.com/item?id=49397074</a></p>\n<p>Points: 597</p>\n<p># Comments: 1378</p>",
         "pubDate": "Sat, 22 Aug 2026 06:16:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49397074"
-      },
-      {
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "link": "https://ozbrain.com",
-        "description": "<p>I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.<p>A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.<p>What I built OzBrain to do:\n+ Create a central place for agent reasoned knowledge to live\n+ Be agnostic about what apps/agents connect to it\n+ Capture everything and track it so I can audit it\n+ Enable teams, collaborators or partners to share brains\n+ Handle conflicts so many agents in the same article doesn’t blow up\n+ Refactor knowledge into more token friendly chunks and map the index well\n+ Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link\n+ Keep user data safe and secure\n++ Be easy enough to use that you don’t have to have any technical knowledge<p>Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that.<p>Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really fine tuning your system… but if you just want your web deploy/hosting to just work and be easy to deal with you use Vercel.<p>// WHY I MADE IT<p>I’ve been enjoying getting back to my technical roots, as I lost my coding skills more than a decade ago, but with AI I can focus on the system and the product in partnership with agent coding workflows.<p>I recently built a Voice AI for older people. To build it I created an agentic engineering workflow (feel free to rip that up as I’m always looking to improve systems: <a href=\"https://ozbrain.com/resources/eng-flow\" rel=\"nofollow\">https://ozbrain.com/resources/eng-flow</a>) My approach with coding agents is trust but verify, and I’m trying to replace the parts where a human would review with an adversarial or specialized agent who would give a better answer/review.<p>I have workflows that will go high level task to shipped PR running in Claude cloud sessions. I use Claude Code locally and Cursor when I want a tighter loop on doing visual work like UI or layout. And Codex to either load balance usage for TokenThriffting or when I want a different llm to think thru something.<p>It was a pain in the ass passing .md files around and keep track of which version was the most recent, so I built a hosted .md storage right in Supabase and any of my agents already have Supabase access. This let me build a solid, scalable, secure voice AI from my phone at the gym. All my agents have access to our knowledge, can write to it, update and refer to it as we build and improve the product and the systems we use.<p>Out of 75 founder friends I asked about how they manage shared knowledge, 26 built their own custom knowledge systems… Obsidian vaults with 7k files synced through a VPS, markdown repos behind their own MCP servers, cron jobs stitching Supabase to a skills file… each a different Frankenstein they have to maintain. 32 said they felt the pain of moving static files around but didn’t have any solution for it.<p>So I rebuilt my brain better and used it to build it.<p>// HOW YOU CAN HELP<p>Would love to have you try it out. The maintenance loop is still in alpha so not running it on customer data yet.<p>If you built your own brain I’d love to hear how you did it. What criteria was most important for you in its design & function.<p>If you are tired of shuffling .md files around I’d love to have you try out OzBrain and to give feedback, just ask your agent to put it in the shared bugs & features brain!<p>Cheers!\nBubs.co</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394827\">https://news.ycombinator.com/item?id=49394827</a></p>\n<p>Points: 79</p>\n<p># Comments: 46</p>",
-        "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49394827"
-      },
-      {
-        "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-        "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393733\">https://news.ycombinator.com/item?id=49393733</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 21 Aug 2026 21:00:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49393733"
-      },
-      {
-        "title": "Rust Glancer: Rust LSP using 100x less RAM",
-        "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "description": "<p><a href=\"https://matklad.github.io/2026/08/21/rust-glancer.html\" rel=\"nofollow\">https://matklad.github.io/2026/08/21/rust-glancer.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393052\">https://news.ycombinator.com/item?id=49393052</a></p>\n<p>Points: 395</p>\n<p># Comments: 97</p>",
-        "pubDate": "Fri, 21 Aug 2026 19:51:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49393052"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-23T01:52:18.318Z",
+  "lastUpdated": "2026-08-23T06:53:51.515Z",
   "stats": {
     "feeds": 2,
     "articles": 20
