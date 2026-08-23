@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-23T12:54:44.243Z"
+      "lastFetched": "2026-08-23T18:39:47.704Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-23T12:55:04.378Z"
+      "lastFetched": "2026-08-23T18:40:07.240Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+        "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "description": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sun, 23 Aug 2026 14:38:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49409200"
+      },
+      {
+        "title": "Authoritarianism of Code",
+        "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+        "description": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 23 Aug 2026 14:36:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49409184"
+      },
+      {
+        "title": "What Is a Harness?",
+        "link": "https://earendil.com/posts/what-is-a-harness/",
+        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sun, 23 Aug 2026 14:24:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49409092"
+      },
+      {
+        "title": "Death to px, long live ch",
+        "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/\">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408889\">https://news.ycombinator.com/item?id=49408889</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 23 Aug 2026 13:56:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49408889"
+      },
+      {
+        "title": "My favorite nonfiction books about cults, scams, and schemes",
+        "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+        "description": "<p>Article URL: <a href=\"https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes\">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408858\">https://news.ycombinator.com/item?id=49408858</a></p>\n<p>Points: 48</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49408858"
+      },
+      {
+        "title": "Malware infects Android-based automotive head unit firmware",
+        "link": "https://securelist.com/android-head-unit-malware/121106/",
+        "description": "<p>Article URL: <a href=\"https://securelist.com/android-head-unit-malware/121106/\">https://securelist.com/android-head-unit-malware/121106/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408550\">https://news.ycombinator.com/item?id=49408550</a></p>\n<p>Points: 87</p>\n<p># Comments: 40</p>",
+        "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49408550"
+      },
+      {
         "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
         "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg92y1wzn8o\">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407576\">https://news.ycombinator.com/item?id=49407576</a></p>\n<p>Points: 26</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg92y1wzn8o\">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407576\">https://news.ycombinator.com/item?id=49407576</a></p>\n<p>Points: 90</p>\n<p># Comments: 59</p>",
         "pubDate": "Sun, 23 Aug 2026 10:14:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49407576"
       },
       {
+        "title": "Iranian hackers shut down UK power plant for 4 days",
+        "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+        "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/\">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407509\">https://news.ycombinator.com/item?id=49407509</a></p>\n<p>Points: 56</p>\n<p># Comments: 34</p>",
+        "pubDate": "Sun, 23 Aug 2026 10:03:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49407509"
+      },
+      {
         "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
         "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-        "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/\">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407507\">https://news.ycombinator.com/item?id=49407507</a></p>\n<p>Points: 61</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/\">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407507\">https://news.ycombinator.com/item?id=49407507</a></p>\n<p>Points: 159</p>\n<p># Comments: 80</p>",
         "pubDate": "Sun, 23 Aug 2026 10:02:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49407507"
       },
       {
-        "title": "The Sloppification of Peptides",
-        "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-        "description": "<p>Article URL: <a href=\"https://henryaj.substack.com/p/the-sloppification-of-peptides\">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407341\">https://news.ycombinator.com/item?id=49407341</a></p>\n<p>Points: 54</p>\n<p># Comments: 20</p>",
-        "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49407341"
-      },
-      {
         "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
         "link": "https://skylens.yantraai.app/",
-        "description": "<p>Article URL: <a href=\"https://skylens.yantraai.app/\">https://skylens.yantraai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407309\">https://news.ycombinator.com/item?id=49407309</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://skylens.yantraai.app/\">https://skylens.yantraai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407309\">https://news.ycombinator.com/item?id=49407309</a></p>\n<p>Points: 36</p>\n<p># Comments: 17</p>",
         "pubDate": "Sun, 23 Aug 2026 09:27:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49407309"
       },
       {
-        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-        "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-        "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/\">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406539\">https://news.ycombinator.com/item?id=49406539</a></p>\n<p>Points: 135</p>\n<p># Comments: 101</p>",
-        "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49406539"
+        "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+        "link": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+        "description": "<p>Article URL: <a href=\"https://doi.org/10.1016/S0140-6736(26)00767-1\">https://doi.org/10.1016/S0140-6736(26)00767-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406398\">https://news.ycombinator.com/item?id=49406398</a></p>\n<p>Points: 24</p>\n<p># Comments: 6</p>",
+        "pubDate": "Sun, 23 Aug 2026 06:07:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49406398"
       },
       {
         "title": "JIT Compiling Code in 5μs",
         "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-        "description": "<p>Article URL: <a href=\"https://malisper.me/jit-compiling-code-in-5-us/\">https://malisper.me/jit-compiling-code-in-5-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406387\">https://news.ycombinator.com/item?id=49406387</a></p>\n<p>Points: 91</p>\n<p># Comments: 50</p>",
+        "description": "<p>Article URL: <a href=\"https://malisper.me/jit-compiling-code-in-5-us/\">https://malisper.me/jit-compiling-code-in-5-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406387\">https://news.ycombinator.com/item?id=49406387</a></p>\n<p>Points: 123</p>\n<p># Comments: 78</p>",
         "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49406387"
       },
       {
         "title": "The End of an Athlon",
         "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-        "description": "<p>Article URL: <a href=\"http://www.os2museum.com/wp/the-end-of-an-athlon/\">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406333\">https://news.ycombinator.com/item?id=49406333</a></p>\n<p>Points: 124</p>\n<p># Comments: 40</p>",
+        "description": "<p>Article URL: <a href=\"http://www.os2museum.com/wp/the-end-of-an-athlon/\">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406333\">https://news.ycombinator.com/item?id=49406333</a></p>\n<p>Points: 143</p>\n<p># Comments: 57</p>",
         "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49406333"
       },
       {
         "title": "Fast and Hard Code",
         "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406285\">https://news.ycombinator.com/item?id=49406285</a></p>\n<p>Points: 58</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406285\">https://news.ycombinator.com/item?id=49406285</a></p>\n<p>Points: 81</p>\n<p># Comments: 44</p>",
         "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49406285"
       },
       {
         "title": "To become a better writer, read as much as you can",
         "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-        "description": "<p>Article URL: <a href=\"https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405870\">https://news.ycombinator.com/item?id=49405870</a></p>\n<p>Points: 234</p>\n<p># Comments: 154</p>",
+        "description": "<p>Article URL: <a href=\"https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405870\">https://news.ycombinator.com/item?id=49405870</a></p>\n<p>Points: 316</p>\n<p># Comments: 208</p>",
         "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49405870"
       },
       {
         "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
         "link": "https://martypc.net/",
-        "description": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 137</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 154</p>\n<p># Comments: 55</p>",
         "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49405816"
       },
       {
         "title": "The Art and Beauty of Blade Runner (2015)",
         "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-        "description": "<p>Article URL: <a href=\"https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405331\">https://news.ycombinator.com/item?id=49405331</a></p>\n<p>Points: 109</p>\n<p># Comments: 46</p>",
+        "description": "<p>Article URL: <a href=\"https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405331\">https://news.ycombinator.com/item?id=49405331</a></p>\n<p>Points: 136</p>\n<p># Comments: 68</p>",
         "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49405331"
       },
       {
         "title": "NanoGPT Speedrun Frontier",
         "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 115</p>\n<p># Comments: 28</p>",
+        "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 127</p>\n<p># Comments: 31</p>",
         "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49404380"
       },
       {
         "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "description": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 131</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 139</p>\n<p># Comments: 32</p>",
         "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49402781"
       },
       {
-        "title": "Why your local LLM feels dumber than it is",
-        "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "description": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402232\">https://news.ycombinator.com/item?id=49402232</a></p>\n<p>Points: 388</p>\n<p># Comments: 151</p>",
-        "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49402232"
-      },
-      {
-        "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-        "link": "https://marcua.net/minitools/figmimic/",
-        "description": "<p>Article URL: <a href=\"https://marcua.net/minitools/figmimic/\">https://marcua.net/minitools/figmimic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402213\">https://news.ycombinator.com/item?id=49402213</a></p>\n<p>Points: 106</p>\n<p># Comments: 14</p>",
-        "pubDate": "Sat, 22 Aug 2026 18:11:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49402213"
-      },
-      {
-        "title": "Thinking in Python",
-        "link": "https://thinkinginpython.com/",
-        "description": "<p>Article URL: <a href=\"https://thinkinginpython.com/\">https://thinkinginpython.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402202\">https://news.ycombinator.com/item?id=49402202</a></p>\n<p>Points: 208</p>\n<p># Comments: 39</p>",
-        "pubDate": "Sat, 22 Aug 2026 18:10:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49402202"
-      },
-      {
-        "title": "Scrap (2006)",
-        "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "description": "<p><a href=\"https://xcancel.com/moxie/status/2091218652133732491\" rel=\"nofollow\">https://xcancel.com/moxie/status/2091218652133732491</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402189\">https://news.ycombinator.com/item?id=49402189</a></p>\n<p>Points: 382</p>\n<p># Comments: 201</p>",
-        "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49402189"
-      },
-      {
-        "title": "I set a trap for a book-marketing scammer (2025)",
-        "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-        "description": "<p>Article URL: <a href=\"https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing\">https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402181\">https://news.ycombinator.com/item?id=49402181</a></p>\n<p>Points: 57</p>\n<p># Comments: 39</p>",
-        "pubDate": "Sat, 22 Aug 2026 18:08:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49402181"
-      },
-      {
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "link": "https://quantumi.sh/public/labs.html",
-        "description": "<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 420</p>\n<p># Comments: 129</p>",
-        "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49400408"
-      },
-      {
-        "title": "A Friendly Introduction to Racket",
-        "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "description": "<p>Article URL: <a href=\"https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399898\">https://news.ycombinator.com/item?id=49399898</a></p>\n<p>Points: 242</p>\n<p># Comments: 131</p>",
-        "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49399898"
+        "title": "Things I want in a modern relational query language",
+        "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+        "description": "<p>Article URL: <a href=\"https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/\">https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402491\">https://news.ycombinator.com/item?id=49402491</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>",
+        "pubDate": "Sat, 22 Aug 2026 18:38:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49402491"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-23T12:55:04.379Z",
+  "lastUpdated": "2026-08-23T18:40:07.240Z",
   "stats": {
     "feeds": 2,
     "articles": 20
