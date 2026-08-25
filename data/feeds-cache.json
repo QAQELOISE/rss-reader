@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-25T01:44:05.793Z"
+      "lastFetched": "2026-08-25T07:00:19.406Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-25T01:44:25.279Z"
+      "lastFetched": "2026-08-25T07:00:33.899Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "What languages are agent skills written in?",
-        "link": "https://plicara.ai/research/agent-skill-languages/",
-        "description": "<p>Article URL: <a href=\"https://plicara.ai/research/agent-skill-languages/\">https://plicara.ai/research/agent-skill-languages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427825\">https://news.ycombinator.com/item?id=49427825</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 25 Aug 2026 00:52:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49427825"
+        "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+        "link": "https://github.com/dragthelake/ambient-context",
+        "description": "<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49429095\">https://news.ycombinator.com/item?id=49429095</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
+        "pubDate": "Tue, 25 Aug 2026 04:33:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49429095"
+      },
+      {
+        "title": "Headlong: A Microharness for Persistent Agents",
+        "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "description": "<p>Article URL: <a href=\"https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428882\">https://news.ycombinator.com/item?id=49428882</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 25 Aug 2026 03:54:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49428882"
+      },
+      {
+        "title": "SiFive's First Server Platform",
+        "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/sifives-first-server-platform\">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428638\">https://news.ycombinator.com/item?id=49428638</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 25 Aug 2026 03:06:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49428638"
+      },
+      {
+        "title": "Thomson Reuters Launches Its Own Frontier Model",
+        "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+        "description": "<p>Article URL: <a href=\"https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428318\">https://news.ycombinator.com/item?id=49428318</a></p>\n<p>Points: 83</p>\n<p># Comments: 27</p>",
+        "pubDate": "Tue, 25 Aug 2026 02:11:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49428318"
+      },
+      {
+        "title": "How Universities Should Prepare Founders",
+        "link": "https://paulgraham.com/prepare.html",
+        "description": "<p>Article URL: <a href=\"https://paulgraham.com/prepare.html\">https://paulgraham.com/prepare.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428121\">https://news.ycombinator.com/item?id=49428121</a></p>\n<p>Points: 87</p>\n<p># Comments: 85</p>",
+        "pubDate": "Tue, 25 Aug 2026 01:40:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49428121"
+      },
+      {
+        "title": "Was modern art a CIA psy-op? (2020)",
+        "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+        "description": "<p>Article URL: <a href=\"https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428080\">https://news.ycombinator.com/item?id=49428080</a></p>\n<p>Points: 58</p>\n<p># Comments: 63</p>",
+        "pubDate": "Tue, 25 Aug 2026 01:35:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49428080"
       },
       {
         "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
         "link": "https://github.com/murerkinn/bookshelf",
-        "description": "<p>Article URL: <a href=\"https://github.com/murerkinn/bookshelf\">https://github.com/murerkinn/bookshelf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427001\">https://news.ycombinator.com/item?id=49427001</a></p>\n<p>Points: 33</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/murerkinn/bookshelf\">https://github.com/murerkinn/bookshelf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427001\">https://news.ycombinator.com/item?id=49427001</a></p>\n<p>Points: 76</p>\n<p># Comments: 32</p>",
         "pubDate": "Mon, 24 Aug 2026 23:00:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49427001"
       },
       {
         "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 216</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 385</p>\n<p># Comments: 102</p>",
         "pubDate": "Mon, 24 Aug 2026 22:13:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49426564"
       },
       {
         "title": "Moon (2024)",
         "link": "https://ciechanow.ski/moon/",
-        "description": "<p>Article URL: <a href=\"https://ciechanow.ski/moon/\">https://ciechanow.ski/moon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426466\">https://news.ycombinator.com/item?id=49426466</a></p>\n<p>Points: 96</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://ciechanow.ski/moon/\">https://ciechanow.ski/moon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426466\">https://news.ycombinator.com/item?id=49426466</a></p>\n<p>Points: 150</p>\n<p># Comments: 28</p>",
         "pubDate": "Mon, 24 Aug 2026 22:06:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49426466"
       },
       {
-        "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-        "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425819\">https://news.ycombinator.com/item?id=49425819</a></p>\n<p>Points: 126</p>\n<p># Comments: 101</p>",
-        "pubDate": "Mon, 24 Aug 2026 21:03:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49425819"
-      },
-      {
         "title": "Vintage Artificial Intelligence: Before It Got Awkward",
         "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425800\">https://news.ycombinator.com/item?id=49425800</a></p>\n<p>Points: 54</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425800\">https://news.ycombinator.com/item?id=49425800</a></p>\n<p>Points: 79</p>\n<p># Comments: 18</p>",
         "pubDate": "Mon, 24 Aug 2026 21:01:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49425800"
       },
       {
         "title": "Oceans hit highest temperature on record",
         "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c62m4gpnp78o\">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424606\">https://news.ycombinator.com/item?id=49424606</a></p>\n<p>Points: 395</p>\n<p># Comments: 295</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c62m4gpnp78o\">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424606\">https://news.ycombinator.com/item?id=49424606</a></p>\n<p>Points: 485</p>\n<p># Comments: 393</p>",
         "pubDate": "Mon, 24 Aug 2026 19:19:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49424606"
       },
       {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "description": "<p>Article URL: <a href=\"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424387\">https://news.ycombinator.com/item?id=49424387</a></p>\n<p>Points: 93</p>\n<p># Comments: 50</p>",
+        "description": "<p>Article URL: <a href=\"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424387\">https://news.ycombinator.com/item?id=49424387</a></p>\n<p>Points: 125</p>\n<p># Comments: 60</p>",
         "pubDate": "Mon, 24 Aug 2026 19:03:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49424387"
       },
       {
-        "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-        "link": "https://textlog.cc/post/2059",
-        "description": "<p>Article URL: <a href=\"https://textlog.cc/post/2059\">https://textlog.cc/post/2059</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424167\">https://news.ycombinator.com/item?id=49424167</a></p>\n<p>Points: 51</p>\n<p># Comments: 23</p>",
-        "pubDate": "Mon, 24 Aug 2026 18:45:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49424167"
-      },
-      {
-        "title": "Anger, Anxiety and Agency",
-        "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/\">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424082\">https://news.ycombinator.com/item?id=49424082</a></p>\n<p>Points: 98</p>\n<p># Comments: 107</p>",
-        "pubDate": "Mon, 24 Aug 2026 18:37:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49424082"
-      },
-      {
-        "title": "What Is a Syslog Server?",
-        "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-        "description": "<p>Article URL: <a href=\"https://blog.greencloudvps.com/what-is-a-syslog-server.php\">https://blog.greencloudvps.com/what-is-a-syslog-server.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423799\">https://news.ycombinator.com/item?id=49423799</a></p>\n<p>Points: 53</p>\n<p># Comments: 39</p>",
-        "pubDate": "Mon, 24 Aug 2026 18:15:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49423799"
-      },
-      {
         "title": "Octopus intelligence may be related to never-before-seen mutation",
         "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/\">https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423539\">https://news.ycombinator.com/item?id=49423539</a></p>\n<p>Points: 79</p>\n<p># Comments: 48</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/\">https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423539\">https://news.ycombinator.com/item?id=49423539</a></p>\n<p>Points: 134</p>\n<p># Comments: 94</p>",
         "pubDate": "Mon, 24 Aug 2026 17:57:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49423539"
       },
       {
-        "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-        "description": "<p>Article URL: <a href=\"https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4\">https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423495\">https://news.ycombinator.com/item?id=49423495</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 24 Aug 2026 17:53:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49423495"
-      },
-      {
-        "title": "Agent Lightning v1.0",
-        "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-        "description": "<p>Article URL: <a href=\"https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1\">https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423077\">https://news.ycombinator.com/item?id=49423077</a></p>\n<p>Points: 45</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 24 Aug 2026 17:23:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49423077"
-      },
-      {
         "title": "Where did all the public bathrooms go?",
         "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-        "description": "<p>Article URL: <a href=\"https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\">https://daily.jstor.org/where-did-all-the-public-bathrooms-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422800\">https://news.ycombinator.com/item?id=49422800</a></p>\n<p>Points: 154</p>\n<p># Comments: 311</p>",
+        "description": "<p>Article URL: <a href=\"https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\">https://daily.jstor.org/where-did-all-the-public-bathrooms-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422800\">https://news.ycombinator.com/item?id=49422800</a></p>\n<p>Points: 209</p>\n<p># Comments: 478</p>",
         "pubDate": "Mon, 24 Aug 2026 17:07:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49422800"
       },
       {
         "title": "The entire city of San Francisco as a video game",
         "link": "https://sf.thijs.gg/",
-        "description": "<p><a href=\"https://twitter.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://twitter.com/cdngdev/status/2091909073038082139</a>, <a href=\"https://xcancel.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://xcancel.com/cdngdev/status/2091909073038082139</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422784\">https://news.ycombinator.com/item?id=49422784</a></p>\n<p>Points: 343</p>\n<p># Comments: 119</p>",
+        "description": "<p><a href=\"https://twitter.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://twitter.com/cdngdev/status/2091909073038082139</a>, <a href=\"https://xcancel.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://xcancel.com/cdngdev/status/2091909073038082139</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422784\">https://news.ycombinator.com/item?id=49422784</a></p>\n<p>Points: 422</p>\n<p># Comments: 135</p>",
         "pubDate": "Mon, 24 Aug 2026 17:05:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49422784"
       },
       {
-        "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-        "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc\">https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422548\">https://news.ycombinator.com/item?id=49422548</a></p>\n<p>Points: 76</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 24 Aug 2026 16:52:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49422548"
+        "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+        "link": "https://github.com/ovenpasta/adi2",
+        "description": "<p>Article URL: <a href=\"https://github.com/ovenpasta/adi2\">https://github.com/ovenpasta/adi2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422243\">https://news.ycombinator.com/item?id=49422243</a></p>\n<p>Points: 43</p>\n<p># Comments: 15</p>",
+        "pubDate": "Mon, 24 Aug 2026 16:30:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49422243"
       },
       {
-        "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-        "link": "https://glassbox.codecanary.org",
-        "description": "<p>Article URL: <a href=\"https://glassbox.codecanary.org\">https://glassbox.codecanary.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421948\">https://news.ycombinator.com/item?id=49421948</a></p>\n<p>Points: 94</p>\n<p># Comments: 47</p>",
-        "pubDate": "Mon, 24 Aug 2026 16:15:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49421948"
+        "title": "Ox-Alpha Is GLM?",
+        "link": "https://dejan.ai/blog/ox-alpha/",
+        "description": "<p>Article URL: <a href=\"https://dejan.ai/blog/ox-alpha/\">https://dejan.ai/blog/ox-alpha/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422226\">https://news.ycombinator.com/item?id=49422226</a></p>\n<p>Points: 67</p>\n<p># Comments: 41</p>",
+        "pubDate": "Mon, 24 Aug 2026 16:30:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49422226"
       },
       {
-        "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-        "link": "https://picomq.com/",
-        "description": "<p>PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade.<p>S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library. Coordination is a command log in Postgres.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421806\">https://news.ycombinator.com/item?id=49421806</a></p>\n<p>Points: 93</p>\n<p># Comments: 18</p>",
-        "pubDate": "Mon, 24 Aug 2026 16:08:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49421806"
+        "title": "Jabber/XMPP: 25 Years of Digital Independence",
+        "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
+        "description": "<p>Article URL: <a href=\"https://gultsch.de/posts/25-years-of-digital-independence/\">https://gultsch.de/posts/25-years-of-digital-independence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421536\">https://news.ycombinator.com/item?id=49421536</a></p>\n<p>Points: 210</p>\n<p># Comments: 102</p>",
+        "pubDate": "Mon, 24 Aug 2026 15:51:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49421536"
       },
       {
-        "title": "Coding expertise is going to collapse from AI reliance",
-        "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "description": "<p>Article URL: <a href=\"https://larsfaye.com/articles/ai-coding-will-prevent-expertise\">https://larsfaye.com/articles/ai-coding-will-prevent-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421554\">https://news.ycombinator.com/item?id=49421554</a></p>\n<p>Points: 459</p>\n<p># Comments: 458</p>",
-        "pubDate": "Mon, 24 Aug 2026 15:52:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49421554"
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+        "description": "<p>Article URL: <a href=\"https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\">https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421158\">https://news.ycombinator.com/item?id=49421158</a></p>\n<p>Points: 658</p>\n<p># Comments: 264</p>",
+        "pubDate": "Mon, 24 Aug 2026 15:28:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49421158"
+      },
+      {
+        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+        "link": "https://twitter.com/lemire/status/2091894299289874926",
+        "description": "<p><a href=\"https://xcancel.com/lemire/status/2091894299289874926\" rel=\"nofollow\">https://xcancel.com/lemire/status/2091894299289874926</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49420873\">https://news.ycombinator.com/item?id=49420873</a></p>\n<p>Points: 815</p>\n<p># Comments: 573</p>",
+        "pubDate": "Mon, 24 Aug 2026 15:08:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49420873"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-25T01:44:25.279Z",
+  "lastUpdated": "2026-08-25T07:00:33.899Z",
   "stats": {
     "feeds": 2,
     "articles": 20
