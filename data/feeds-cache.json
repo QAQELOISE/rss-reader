@@ -5,85 +5,99 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-26T01:49:22.662Z"
+      "lastFetched": "2026-08-26T07:01:05.698Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-26T01:49:42.374Z"
+      "lastFetched": "2026-08-26T07:01:25.905Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+        "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+        "description": "<p>Article URL: <a href=\"https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding\">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444514\">https://news.ycombinator.com/item?id=49444514</a></p>\n<p>Points: 33</p>\n<p># Comments: 36</p>",
+        "pubDate": "Wed, 26 Aug 2026 05:49:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49444514"
+      },
+      {
+        "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+        "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm\">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444232\">https://news.ycombinator.com/item?id=49444232</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 26 Aug 2026 05:09:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49444232"
+      },
+      {
+        "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+        "link": "https://arxiv.org/abs/2607.21503",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.21503\">https://arxiv.org/abs/2607.21503</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443523\">https://news.ycombinator.com/item?id=49443523</a></p>\n<p>Points: 24</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 26 Aug 2026 02:35:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49443523"
+      },
+      {
         "title": "Queryable Executables",
         "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-        "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 113</p>\n<p># Comments: 18</p>",
         "pubDate": "Wed, 26 Aug 2026 00:20:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49442589"
       },
       {
         "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
         "link": "https://github.com/runetes/maiao",
-        "description": "<p>Article URL: <a href=\"https://github.com/runetes/maiao\">https://github.com/runetes/maiao</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441666\">https://news.ycombinator.com/item?id=49441666</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/runetes/maiao\">https://github.com/runetes/maiao</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441666\">https://news.ycombinator.com/item?id=49441666</a></p>\n<p>Points: 63</p>\n<p># Comments: 33</p>",
         "pubDate": "Tue, 25 Aug 2026 22:40:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49441666"
       },
       {
         "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
         "link": "https://github.com/swimmingbrain/texbrain",
-        "description": "<p>I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk.<p>TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load.<p>Try it out: <a href=\"https://tex.swimmingbrain.dev/\" rel=\"nofollow\">https://tex.swimmingbrain.dev/</a> (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem)<p>Or for self-hosting/contributing: <a href=\"https://github.com/swimmingbrain/texbrain\" rel=\"nofollow\">https://github.com/swimmingbrain/texbrain</a> (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file).<p>The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content.<p>So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge.<p>This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that.<p>Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441375\">https://news.ycombinator.com/item?id=49441375</a></p>\n<p>Points: 46</p>\n<p># Comments: 9</p>",
+        "description": "<p>I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk.<p>TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load.<p>Try it out: <a href=\"https://tex.swimmingbrain.dev/\" rel=\"nofollow\">https://tex.swimmingbrain.dev/</a> (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem)<p>Or for self-hosting/contributing: <a href=\"https://github.com/swimmingbrain/texbrain\" rel=\"nofollow\">https://github.com/swimmingbrain/texbrain</a> (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file).<p>The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content.<p>So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge.<p>This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that.<p>Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441375\">https://news.ycombinator.com/item?id=49441375</a></p>\n<p>Points: 76</p>\n<p># Comments: 16</p>",
         "pubDate": "Tue, 25 Aug 2026 22:08:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49441375"
       },
       {
-        "title": "Python's pre-declared constants are kinda weird",
-        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "description": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260801-pythonconstants.html\">https://sebsite.pw/w/20260801-pythonconstants.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441033\">https://news.ycombinator.com/item?id=49441033</a></p>\n<p>Points: 140</p>\n<p># Comments: 111</p>",
-        "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49441033"
-      },
-      {
-        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+        "title": "When str.lower() is a security vulnerability in Python",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "description": "<p>Article URL: <a href=\"https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440410\">https://news.ycombinator.com/item?id=49440410</a></p>\n<p>Points: 58</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440410\">https://news.ycombinator.com/item?id=49440410</a></p>\n<p>Points: 98</p>\n<p># Comments: 43</p>",
         "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49440410"
       },
       {
         "title": "C2PA Cameras Do Not Survive Contact with Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "description": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439499\">https://news.ycombinator.com/item?id=49439499</a></p>\n<p>Points: 76</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439499\">https://news.ycombinator.com/item?id=49439499</a></p>\n<p>Points: 127</p>\n<p># Comments: 75</p>",
         "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49439499"
       },
       {
         "title": "A brief history of federal lift ticket regulation",
         "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-        "description": "<p>Article URL: <a href=\"https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket\">https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439296\">https://news.ycombinator.com/item?id=49439296</a></p>\n<p>Points: 28</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket\">https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439296\">https://news.ycombinator.com/item?id=49439296</a></p>\n<p>Points: 58</p>\n<p># Comments: 10</p>",
         "pubDate": "Tue, 25 Aug 2026 19:25:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=49439296"
       },
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439017\">https://news.ycombinator.com/item?id=49439017</a></p>\n<p>Points: 255</p>\n<p># Comments: 145</p>",
+        "description": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439017\">https://news.ycombinator.com/item?id=49439017</a></p>\n<p>Points: 353</p>\n<p># Comments: 174</p>",
         "pubDate": "Tue, 25 Aug 2026 19:07:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49439017"
       },
       {
         "title": "Dolly Parton has died",
         "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-        "description": "<p><a href=\"https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death\" rel=\"nofollow\">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href=\"https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html\" rel=\"nofollow\">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href=\"https://archive.ph/w4vsE\" rel=\"nofollow\">https://archive.ph/w4vsE</a><p><a href=\"https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/\" rel=\"nofollow\">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438052\">https://news.ycombinator.com/item?id=49438052</a></p>\n<p>Points: 1207</p>\n<p># Comments: 189</p>",
+        "description": "<p><a href=\"https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death\" rel=\"nofollow\">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href=\"https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html\" rel=\"nofollow\">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href=\"https://archive.ph/w4vsE\" rel=\"nofollow\">https://archive.ph/w4vsE</a><p><a href=\"https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/\" rel=\"nofollow\">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438052\">https://news.ycombinator.com/item?id=49438052</a></p>\n<p>Points: 1400</p>\n<p># Comments: 211</p>",
         "pubDate": "Tue, 25 Aug 2026 18:02:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49438052"
       },
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "<p>Article URL: <a href=\"https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437946\">https://news.ycombinator.com/item?id=49437946</a></p>\n<p>Points: 277</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437946\">https://news.ycombinator.com/item?id=49437946</a></p>\n<p>Points: 344</p>\n<p># Comments: 89</p>",
         "pubDate": "Tue, 25 Aug 2026 17:55:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49437946"
       },
@@ -97,70 +111,56 @@
       {
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "description": "<p>Article URL: <a href=\"https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437483\">https://news.ycombinator.com/item?id=49437483</a></p>\n<p>Points: 122</p>\n<p># Comments: 57</p>",
+        "description": "<p>Article URL: <a href=\"https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437483\">https://news.ycombinator.com/item?id=49437483</a></p>\n<p>Points: 149</p>\n<p># Comments: 68</p>",
         "pubDate": "Tue, 25 Aug 2026 17:23:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49437483"
       },
       {
         "title": "Nitter and XCancel receive cease and desist notices",
         "link": "https://github.com/zedeus/nitter/issues/1442",
-        "description": "<p><a href=\"https://github.com/zedeus/nitter/issues/1442\" rel=\"nofollow\">https://github.com/zedeus/nitter/issues/1442</a><p><a href=\"https://xcancel.com/\" rel=\"nofollow\">https://xcancel.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437283\">https://news.ycombinator.com/item?id=49437283</a></p>\n<p>Points: 628</p>\n<p># Comments: 533</p>",
+        "description": "<p><a href=\"https://github.com/zedeus/nitter/issues/1442\" rel=\"nofollow\">https://github.com/zedeus/nitter/issues/1442</a><p><a href=\"https://xcancel.com/\" rel=\"nofollow\">https://xcancel.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437283\">https://news.ycombinator.com/item?id=49437283</a></p>\n<p>Points: 810</p>\n<p># Comments: 678</p>",
         "pubDate": "Tue, 25 Aug 2026 17:08:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49437283"
       },
       {
         "title": "Black hole singularity is a surface not a point",
         "link": "https://arxiv.org/abs/2608.21590",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.21590\">https://arxiv.org/abs/2608.21590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437210\">https://news.ycombinator.com/item?id=49437210</a></p>\n<p>Points: 184</p>\n<p># Comments: 125</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.21590\">https://arxiv.org/abs/2608.21590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437210\">https://news.ycombinator.com/item?id=49437210</a></p>\n<p>Points: 223</p>\n<p># Comments: 166</p>",
         "pubDate": "Tue, 25 Aug 2026 17:02:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49437210"
       },
       {
         "title": "My Friend Aaron",
         "link": "https://rorz.io/writing/my-friend-aaron",
-        "description": "<p>Article URL: <a href=\"https://rorz.io/writing/my-friend-aaron\">https://rorz.io/writing/my-friend-aaron</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437069\">https://news.ycombinator.com/item?id=49437069</a></p>\n<p>Points: 437</p>\n<p># Comments: 121</p>",
+        "description": "<p>Article URL: <a href=\"https://rorz.io/writing/my-friend-aaron\">https://rorz.io/writing/my-friend-aaron</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437069\">https://news.ycombinator.com/item?id=49437069</a></p>\n<p>Points: 521</p>\n<p># Comments: 142</p>",
         "pubDate": "Tue, 25 Aug 2026 16:53:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49437069"
       },
       {
         "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
         "link": "https://github.com/jeffhajewski/latticedb",
-        "description": "<p>We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437049\">https://news.ycombinator.com/item?id=49437049</a></p>\n<p>Points: 107</p>\n<p># Comments: 31</p>",
+        "description": "<p>We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437049\">https://news.ycombinator.com/item?id=49437049</a></p>\n<p>Points: 137</p>\n<p># Comments: 36</p>",
         "pubDate": "Tue, 25 Aug 2026 16:52:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49437049"
       },
       {
-        "title": "Starbase, LA",
-        "link": "https://www.spacex.com/sites/starbase-la",
-        "description": "<p>Article URL: <a href=\"https://www.spacex.com/sites/starbase-la\">https://www.spacex.com/sites/starbase-la</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436822\">https://news.ycombinator.com/item?id=49436822</a></p>\n<p>Points: 218</p>\n<p># Comments: 393</p>",
-        "pubDate": "Tue, 25 Aug 2026 16:37:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49436822"
-      },
-      {
         "title": "Tooltips need a delay, and then they need to skip it",
         "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-        "description": "<p>Article URL: <a href=\"https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/\">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436786\">https://news.ycombinator.com/item?id=49436786</a></p>\n<p>Points: 111</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/\">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436786\">https://news.ycombinator.com/item?id=49436786</a></p>\n<p>Points: 155</p>\n<p># Comments: 39</p>",
         "pubDate": "Tue, 25 Aug 2026 16:35:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49436786"
       },
       {
-        "title": "Fuzzing the Gleam Compiler",
-        "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-        "description": "<p>Article URL: <a href=\"https://www.kurz.net/posts/fuzzing-gleam-compiler\">https://www.kurz.net/posts/fuzzing-gleam-compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436706\">https://news.ycombinator.com/item?id=49436706</a></p>\n<p>Points: 56</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 25 Aug 2026 16:30:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49436706"
-      },
-      {
         "title": "Show HN: I made a Raspberry with Qwen my local car AI",
         "link": "https://github.com/ThinkOffApp/CarWatch",
-        "description": "<p>Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room!<p>So now it can answer car questions such as \"when should I add oil and what kind of oil?\" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them.<p>For example, if car breaks and can't move  the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435675\">https://news.ycombinator.com/item?id=49435675</a></p>\n<p>Points: 99</p>\n<p># Comments: 21</p>",
+        "description": "<p>Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room!<p>So now it can answer car questions such as \"when should I add oil and what kind of oil?\" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them.<p>For example, if car breaks and can't move  the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435675\">https://news.ycombinator.com/item?id=49435675</a></p>\n<p>Points: 127</p>\n<p># Comments: 35</p>",
         "pubDate": "Tue, 25 Aug 2026 15:20:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49435675"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-26T01:49:42.374Z",
+  "lastUpdated": "2026-08-26T07:01:25.905Z",
   "stats": {
     "feeds": 2,
     "articles": 20
