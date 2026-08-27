@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-26T19:56:02.434Z"
+      "lastFetched": "2026-08-27T09:20:44.454Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-26T19:56:22.391Z"
+      "lastFetched": "2026-08-27T09:21:03.903Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Super Curry Combat II Turbo – Legend Edition",
-        "link": "https://curry-combat-2.com",
-        "description": "<p>Article URL: <a href=\"https://curry-combat-2.com\">https://curry-combat-2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454496\">https://news.ycombinator.com/item?id=49454496</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 26 Aug 2026 19:26:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49454496"
+        "title": "Kusama Yayoi has died",
+        "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+        "description": "<p><a href=\"https://archive.ph/axjMF\" rel=\"nofollow\">https://archive.ph/axjMF</a><p><a href=\"https://yayoi-kusama.jp/en/news4518/\" rel=\"nofollow\">https://yayoi-kusama.jp/en/news4518/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458709\">https://news.ycombinator.com/item?id=49458709</a></p>\n<p>Points: 170</p>\n<p># Comments: 13</p>",
+        "pubDate": "Thu, 27 Aug 2026 02:21:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49458709"
       },
       {
-        "title": "Dallas startup enriches Uranium",
+        "title": "Getting video models to learn better, faster",
+        "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+        "description": "<p>Article URL: <a href=\"https://www.linum.ai/field-notes/data-filtering-gen-video\">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458502\">https://news.ycombinator.com/item?id=49458502</a></p>\n<p>Points: 26</p>\n<p># Comments: 9</p>",
+        "pubDate": "Thu, 27 Aug 2026 01:53:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49458502"
+      },
+      {
+        "title": "Laion Big Video Dataset",
+        "link": "https://projects.laion.ai/bvd/",
+        "description": "<p>Article URL: <a href=\"https://projects.laion.ai/bvd/\">https://projects.laion.ai/bvd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458478\">https://news.ycombinator.com/item?id=49458478</a></p>\n<p>Points: 60</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 27 Aug 2026 01:50:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49458478"
+      },
+      {
+        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+        "link": "https://github.com/SenteLabsAI/OpenExecutive",
+        "description": "<p>Article URL: <a href=\"https://github.com/SenteLabsAI/OpenExecutive\">https://github.com/SenteLabsAI/OpenExecutive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458418\">https://news.ycombinator.com/item?id=49458418</a></p>\n<p>Points: 575</p>\n<p># Comments: 361</p>",
+        "pubDate": "Thu, 27 Aug 2026 01:46:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49458418"
+      },
+      {
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+        "description": "<p><a href=\"https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?utm_campaign=article_email&utm_content=article-17723\" rel=\"nofollow\">https://www.theinformation.com/articles/nvidia-agrees-buy-op...</a> (paywalled)<p><a href=\"https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/\" rel=\"nofollow\">https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458161\">https://news.ycombinator.com/item?id=49458161</a></p>\n<p>Points: 1073</p>\n<p># Comments: 453</p>",
+        "pubDate": "Thu, 27 Aug 2026 01:12:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49458161"
+      },
+      {
+        "title": "Mechanical Turk shutting down September 30",
+        "link": "https://www.mturk.com/",
+        "description": "<p>Article URL: <a href=\"https://www.mturk.com/\">https://www.mturk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49457545\">https://news.ycombinator.com/item?id=49457545</a></p>\n<p>Points: 345</p>\n<p># Comments: 94</p>",
+        "pubDate": "Wed, 26 Aug 2026 23:55:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49457545"
+      },
+      {
+        "title": "Zohran and the Short Link",
+        "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+        "description": "<p>Article URL: <a href=\"https://iamwillwang.com/notes/zohran-and-the-short-link/\">https://iamwillwang.com/notes/zohran-and-the-short-link/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49457512\">https://news.ycombinator.com/item?id=49457512</a></p>\n<p>Points: 194</p>\n<p># Comments: 70</p>",
+        "pubDate": "Wed, 26 Aug 2026 23:50:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49457512"
+      },
+      {
+        "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+        "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+        "description": "<p>Article URL: <a href=\"https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html\">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49456929\">https://news.ycombinator.com/item?id=49456929</a></p>\n<p>Points: 168</p>\n<p># Comments: 85</p>",
+        "pubDate": "Wed, 26 Aug 2026 22:44:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49456929"
+      },
+      {
+        "title": "Asahi Linux Progress Report: Linux 7.2",
+        "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
+        "description": "<p>Article URL: <a href=\"https://asahilinux.org/2026/08/progress-report-7-2/\">https://asahilinux.org/2026/08/progress-report-7-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49456851\">https://news.ycombinator.com/item?id=49456851</a></p>\n<p>Points: 274</p>\n<p># Comments: 95</p>",
+        "pubDate": "Wed, 26 Aug 2026 22:35:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49456851"
+      },
+      {
+        "title": "Stripe acquires Clerky",
+        "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+        "description": "<p><a href=\"https://twitter.com/darbyw/status/2092718828405096955\" rel=\"nofollow\">https://twitter.com/darbyw/status/2092718828405096955</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455956\">https://news.ycombinator.com/item?id=49455956</a></p>\n<p>Points: 171</p>\n<p># Comments: 27</p>",
+        "pubDate": "Wed, 26 Aug 2026 21:09:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49455956"
+      },
+      {
+        "title": "Mold: A Massively Parallel Linker",
+        "link": "https://arxiv.org/abs/2608.23228",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.23228\">https://arxiv.org/abs/2608.23228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455530\">https://news.ycombinator.com/item?id=49455530</a></p>\n<p>Points: 129</p>\n<p># Comments: 19</p>",
+        "pubDate": "Wed, 26 Aug 2026 20:37:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49455530"
+      },
+      {
+        "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+        "link": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+        "description": "<p>Article URL: <a href=\"https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone\">https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455471\">https://news.ycombinator.com/item?id=49455471</a></p>\n<p>Points: 126</p>\n<p># Comments: 90</p>",
+        "pubDate": "Wed, 26 Aug 2026 20:32:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49455471"
+      },
+      {
+        "title": "Serve Markdown to AI Agents with Accept Headers",
+        "link": "https://acceptmarkdown.com/",
+        "description": "<p>Article URL: <a href=\"https://acceptmarkdown.com/\">https://acceptmarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454764\">https://news.ycombinator.com/item?id=49454764</a></p>\n<p>Points: 134</p>\n<p># Comments: 76</p>",
+        "pubDate": "Wed, 26 Aug 2026 19:45:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49454764"
+      },
+      {
+        "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
         "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-        "description": "<p>Article URL: <a href=\"https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu\">https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454419\">https://news.ycombinator.com/item?id=49454419</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu\">https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454419\">https://news.ycombinator.com/item?id=49454419</a></p>\n<p>Points: 161</p>\n<p># Comments: 79</p>",
         "pubDate": "Wed, 26 Aug 2026 19:23:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49454419"
       },
       {
         "title": "The Hugging Face incident and the road ahead",
         "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/hugging-face-incident-and-the-road-ahead/\">https://openai.com/index/hugging-face-incident-and-the-road-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454314\">https://news.ycombinator.com/item?id=49454314</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/hugging-face-incident-and-the-road-ahead/\">https://openai.com/index/hugging-face-incident-and-the-road-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454314\">https://news.ycombinator.com/item?id=49454314</a></p>\n<p>Points: 259</p>\n<p># Comments: 330</p>",
         "pubDate": "Wed, 26 Aug 2026 19:15:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49454314"
       },
       {
-        "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-        "link": "https://thetariffcost.com/",
-        "description": "<p>Article URL: <a href=\"https://thetariffcost.com/\">https://thetariffcost.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49453161\">https://news.ycombinator.com/item?id=49453161</a></p>\n<p>Points: 70</p>\n<p># Comments: 41</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:54:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49453161"
-      },
-      {
-        "title": "Tailcat",
+        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
         "link": "https://github.com/tailscale/tailcat",
-        "description": "<p>Article URL: <a href=\"https://github.com/tailscale/tailcat\">https://github.com/tailscale/tailcat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452990\">https://news.ycombinator.com/item?id=49452990</a></p>\n<p>Points: 223</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/tailscale/tailcat\">https://github.com/tailscale/tailcat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452990\">https://news.ycombinator.com/item?id=49452990</a></p>\n<p>Points: 572</p>\n<p># Comments: 100</p>",
         "pubDate": "Wed, 26 Aug 2026 17:42:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49452990"
       },
       {
         "title": "An ongoing 3D-printer AGPL violation",
         "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1089390/46116614cc74b814/\">https://lwn.net/SubscriberLink/1089390/46116614cc74b814/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452980\">https://news.ycombinator.com/item?id=49452980</a></p>\n<p>Points: 152</p>\n<p># Comments: 48</p>",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1089390/46116614cc74b814/\">https://lwn.net/SubscriberLink/1089390/46116614cc74b814/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452980\">https://news.ycombinator.com/item?id=49452980</a></p>\n<p>Points: 403</p>\n<p># Comments: 177</p>",
         "pubDate": "Wed, 26 Aug 2026 17:41:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49452980"
       },
       {
-        "title": "CDs vs. NIMBY",
-        "link": "https://www.betonit.ai/p/cds-vs-nimby",
-        "description": "<p>Article URL: <a href=\"https://www.betonit.ai/p/cds-vs-nimby\">https://www.betonit.ai/p/cds-vs-nimby</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452822\">https://news.ycombinator.com/item?id=49452822</a></p>\n<p>Points: 24</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:31:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452822"
-      },
-      {
-        "title": "YouTube Format IDs",
-        "link": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
-        "description": "<p>Article URL: <a href=\"https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa\">https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452789\">https://news.ycombinator.com/item?id=49452789</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:28:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452789"
-      },
-      {
-        "title": "U.S. State Department Pauses Immigrant Visa Applications",
+        "title": "U.S. State Department pauses immigrant visa applications",
         "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23\">https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452709\">https://news.ycombinator.com/item?id=49452709</a></p>\n<p>Points: 112</p>\n<p># Comments: 73</p>",
+        "description": "<p>Article URL: <a href=\"https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23\">https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452709\">https://news.ycombinator.com/item?id=49452709</a></p>\n<p>Points: 500</p>\n<p># Comments: 730</p>",
         "pubDate": "Wed, 26 Aug 2026 17:22:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49452709"
       },
       {
         "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
         "link": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-        "description": "<p>Article URL: <a href=\"https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/\">https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452671\">https://news.ycombinator.com/item?id=49452671</a></p>\n<p>Points: 71</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/\">https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452671\">https://news.ycombinator.com/item?id=49452671</a></p>\n<p>Points: 276</p>\n<p># Comments: 61</p>",
         "pubDate": "Wed, 26 Aug 2026 17:20:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49452671"
       },
       {
-        "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
-        "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-        "description": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer\">https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49451675\">https://news.ycombinator.com/item?id=49451675</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
-        "pubDate": "Wed, 26 Aug 2026 16:19:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49451675"
-      },
-      {
-        "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-        "link": "https://www.risklytics.ai/",
-        "description": "<p>Hi HN, we're Sam and Alex, founders of Risklytics (<a href=\"https://risklytics.ai\">https://risklytics.ai</a>). We're both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones, autonomous systems and satellites. You describe your machine, we find the insurance companies willing to cover it, and we read everything before you sign.<p>Buying insurance for any frontier tech goes like this:<p>- your first customer or pilot requires coverage before your machine can work on their site<p>- a broker hands you an application written for ordinary businesses, and often will deny you on baseless \"risks\" (one of our clients got denied for using CAD software in their workflow)<p>- you get filed under something close or outright denied, the person at the insurance company often can't tell what they're looking at, and the safe answer is no<p>- if a quote does come back, the AI risk is often quietly removed by an add-on clause that prevents you from truly being covered<p>Those clauses surprised us. Insurance companies mostly don't write their own policies from scratch. They license standard forms from an industry body called ISO and attach add-on clauses to adjust them, and in January ISO published clauses that void coverage for losses arising out of AI in any part of a process. Each insurer decides whether to adopt them, account by account, and there's no public record of who has and to what capacity.<p>There's an open question in the wording too. It defines generative AI as systems trained on data that produce text, images, audio, video or code. Whether a robot's control model, which produces motor commands, falls under that is unsettled. We've asked underwriters, the people at insurance companies who make these calls, and gotten different answers across the board.<p>We didn't initially plan to be brokers. We came into YC to work in insurance and spent the first half of the batch on a wildfire risk model we wanted to sell to insurance companies. They liked it and wanted to build their own, which is the polite way to say no. While that was dying, a batchmate who launches satellites mentioned he couldn't get insured, and once we started asking around we kept hearing the same story from hardware companies. So we got licensed in a week and now can place coverage.<p>What we've built so far:<p>- a six-step application that asks about what you're building and drafts the structured version insurance companies like, omitting anything you didn't say<p>- a map of which insurers add the AI clauses, which will remove them, and which cover frontier companies on purpose<p>- when an insurer says no, you see their reason and what would change it, full transparency all the time<p>- a hands off process for companies trying to get fully covered<p>Here's a demo of the whole process: <a href=\"https://youtu.be/gVqCamTNH5E\" rel=\"nofollow\">https://youtu.be/gVqCamTNH5E</a><p>On money: the insurance company pays us a commission when you get covered, usually 10-20% of what you are charged, and we charge you nothing on top (that's right, no brokerage fees).<p>Also, if you're a software company with ordinary needs, we'll still handle the whole process for you and get you the best policy we can find.<p>In the past week alone we have helped three companies get covered that were denied elsewhere. The companies include a robotics wholesaler and rental store, who had trouble getting covered earlier because some of their property uses AI (even though they never use it themselves), a bridge collision system that was getting denied because they use CAD software, and a tele-operating robotics service that needed coverage within a week for their first pilot.<p>If you're looking for insurance in any capacity feel free to reach out to me at alex@risklytics.ai or fill out an application at <a href=\"https://risklytics.ai\">https://risklytics.ai</a>. And if you work on the carrier side and think you'd wanna partner with us let us know.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49451495\">https://news.ycombinator.com/item?id=49451495</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
-        "pubDate": "Wed, 26 Aug 2026 16:06:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49451495"
-      },
-      {
-        "title": "Tim Curry has died",
-        "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\">https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49451448\">https://news.ycombinator.com/item?id=49451448</a></p>\n<p>Points: 395</p>\n<p># Comments: 142</p>",
-        "pubDate": "Wed, 26 Aug 2026 16:03:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49451448"
-      },
-      {
-        "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-        "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-        "description": "<p>Article URL: <a href=\"https://www.ssp.sh/brain/using-obsidian-with-ai/\">https://www.ssp.sh/brain/using-obsidian-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450898\">https://news.ycombinator.com/item?id=49450898</a></p>\n<p>Points: 103</p>\n<p># Comments: 63</p>",
-        "pubDate": "Wed, 26 Aug 2026 15:30:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49450898"
-      },
-      {
-        "title": "Disruption with Some GitHub Services",
-        "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-        "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/hcbtzksccj2f\">https://www.githubstatus.com/incidents/hcbtzksccj2f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450722\">https://news.ycombinator.com/item?id=49450722</a></p>\n<p>Points: 201</p>\n<p># Comments: 117</p>",
-        "pubDate": "Wed, 26 Aug 2026 15:19:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49450722"
-      },
-      {
-        "title": "Nebula Sans",
-        "link": "https://www.nebulasans.com",
-        "description": "<p>Article URL: <a href=\"https://www.nebulasans.com\">https://www.nebulasans.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450448\">https://news.ycombinator.com/item?id=49450448</a></p>\n<p>Points: 250</p>\n<p># Comments: 96</p>",
-        "pubDate": "Wed, 26 Aug 2026 15:03:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49450448"
-      },
-      {
-        "title": "VMs won't contain cyber-capable agents",
-        "link": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-        "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/\">https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450188\">https://news.ycombinator.com/item?id=49450188</a></p>\n<p>Points: 108</p>\n<p># Comments: 79</p>",
-        "pubDate": "Wed, 26 Aug 2026 14:49:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49450188"
-      },
-      {
-        "title": "PageRank explained",
-        "link": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-        "description": "<p>Article URL: <a href=\"https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/\">https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449888\">https://news.ycombinator.com/item?id=49449888</a></p>\n<p>Points: 88</p>\n<p># Comments: 66</p>",
-        "pubDate": "Wed, 26 Aug 2026 14:29:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49449888"
-      },
-      {
-        "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-        "link": "https://farmaction.us/taylorfarmsreport/",
-        "description": "<p>Article URL: <a href=\"https://farmaction.us/taylorfarmsreport/\">https://farmaction.us/taylorfarmsreport/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449749\">https://news.ycombinator.com/item?id=49449749</a></p>\n<p>Points: 172</p>\n<p># Comments: 116</p>",
-        "pubDate": "Wed, 26 Aug 2026 14:21:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49449749"
-      },
-      {
-        "title": "Twitter Viewer – View Twitter Without Account",
-        "link": "https://twitterwebviewer.com/",
-        "description": "<p>Article URL: <a href=\"https://twitterwebviewer.com/\">https://twitterwebviewer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449576\">https://news.ycombinator.com/item?id=49449576</a></p>\n<p>Points: 193</p>\n<p># Comments: 93</p>",
-        "pubDate": "Wed, 26 Aug 2026 14:11:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49449576"
+        "title": "The Harness Is the Thing",
+        "link": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+        "description": "<p>Article URL: <a href=\"https://scott-fryxell.github.io/blog/the-harness-is-the-thing/\">https://scott-fryxell.github.io/blog/the-harness-is-the-thing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452346\">https://news.ycombinator.com/item?id=49452346</a></p>\n<p>Points: 113</p>\n<p># Comments: 39</p>",
+        "pubDate": "Wed, 26 Aug 2026 16:59:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49452346"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-26T19:56:22.391Z",
+  "lastUpdated": "2026-08-27T09:21:03.903Z",
   "stats": {
     "feeds": 2,
     "articles": 20
