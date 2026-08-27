@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-27T09:20:44.454Z"
+      "lastFetched": "2026-08-27T22:11:11.855Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-27T09:21:03.903Z"
+      "lastFetched": "2026-08-27T22:11:17.993Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Kusama Yayoi has died",
-        "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-        "description": "<p><a href=\"https://archive.ph/axjMF\" rel=\"nofollow\">https://archive.ph/axjMF</a><p><a href=\"https://yayoi-kusama.jp/en/news4518/\" rel=\"nofollow\">https://yayoi-kusama.jp/en/news4518/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458709\">https://news.ycombinator.com/item?id=49458709</a></p>\n<p>Points: 170</p>\n<p># Comments: 13</p>",
-        "pubDate": "Thu, 27 Aug 2026 02:21:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49458709"
+        "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+        "link": "https://github.com/experientiallabs/experiential",
+        "description": "<p>Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place.<p>It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).<p>The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider, and 1000+ models refreshed daily via a codex agent that opens a PR.<p>Compared to other similar projects we’re open source, take no markup, allow you to mix local models with a marketplace, and use your traffic to (opt in) train you a model. Simple routing doesn’t warrant a 10% token markup.<p>The way we do this is given standardized OTel traces, we mine representative real tasks, use text world models to simulate rollouts for various models, apply an LLM judge, and fit a nearest neighbor classifier on top of an embedding of a prompt to decide the optimal model for each request. Usually this can map out a better pareto curve on cost/quality than just calling single models but it’s not perfect.<p>Using these simulations we can also do things like suggesting cache hit optimizations, new model suggestions, and training models.<p>It’s open source, so you can deploy it on your own infrastructure, use our hosted version with 0 markup, or read how we design for maximum availability on our website.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49471407\">https://news.ycombinator.com/item?id=49471407</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 27 Aug 2026 21:18:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49471407"
       },
       {
-        "title": "Getting video models to learn better, faster",
-        "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
-        "description": "<p>Article URL: <a href=\"https://www.linum.ai/field-notes/data-filtering-gen-video\">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458502\">https://news.ycombinator.com/item?id=49458502</a></p>\n<p>Points: 26</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 27 Aug 2026 01:53:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49458502"
+        "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+        "link": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+        "description": "<p>Article URL: <a href=\"https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/\">https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49470949\">https://news.ycombinator.com/item?id=49470949</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 27 Aug 2026 20:41:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49470949"
       },
       {
-        "title": "Laion Big Video Dataset",
-        "link": "https://projects.laion.ai/bvd/",
-        "description": "<p>Article URL: <a href=\"https://projects.laion.ai/bvd/\">https://projects.laion.ai/bvd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458478\">https://news.ycombinator.com/item?id=49458478</a></p>\n<p>Points: 60</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 27 Aug 2026 01:50:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49458478"
+        "title": "Previewing the Model Hardware Standard",
+        "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/model-hardware-standard-research-preview\">https://www.anthropic.com/news/model-hardware-standard-research-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49468834\">https://news.ycombinator.com/item?id=49468834</a></p>\n<p>Points: 51</p>\n<p># Comments: 25</p>",
+        "pubDate": "Thu, 27 Aug 2026 18:04:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49468834"
       },
       {
-        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-        "link": "https://github.com/SenteLabsAI/OpenExecutive",
-        "description": "<p>Article URL: <a href=\"https://github.com/SenteLabsAI/OpenExecutive\">https://github.com/SenteLabsAI/OpenExecutive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458418\">https://news.ycombinator.com/item?id=49458418</a></p>\n<p>Points: 575</p>\n<p># Comments: 361</p>",
-        "pubDate": "Thu, 27 Aug 2026 01:46:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49458418"
+        "title": "Gemini-3.5-Transcribe",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49468818\">https://news.ycombinator.com/item?id=49468818</a></p>\n<p>Points: 66</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 27 Aug 2026 18:03:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49468818"
       },
       {
-        "title": "Nvidia agrees to acquire Hugging Face for $13B",
-        "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-        "description": "<p><a href=\"https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?utm_campaign=article_email&utm_content=article-17723\" rel=\"nofollow\">https://www.theinformation.com/articles/nvidia-agrees-buy-op...</a> (paywalled)<p><a href=\"https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/\" rel=\"nofollow\">https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458161\">https://news.ycombinator.com/item?id=49458161</a></p>\n<p>Points: 1073</p>\n<p># Comments: 453</p>",
-        "pubDate": "Thu, 27 Aug 2026 01:12:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49458161"
+        "title": "Show HN: Voronoi Go",
+        "link": "https://voronoigo.com/",
+        "description": "<p>I posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49468816\">https://news.ycombinator.com/item?id=49468816</a></p>\n<p>Points: 50</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 27 Aug 2026 18:03:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49468816"
       },
       {
-        "title": "Mechanical Turk shutting down September 30",
-        "link": "https://www.mturk.com/",
-        "description": "<p>Article URL: <a href=\"https://www.mturk.com/\">https://www.mturk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49457545\">https://news.ycombinator.com/item?id=49457545</a></p>\n<p>Points: 345</p>\n<p># Comments: 94</p>",
-        "pubDate": "Wed, 26 Aug 2026 23:55:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49457545"
+        "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+        "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+        "description": "<p>Article URL: <a href=\"https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290\">https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49468642\">https://news.ycombinator.com/item?id=49468642</a></p>\n<p>Points: 124</p>\n<p># Comments: 95</p>",
+        "pubDate": "Thu, 27 Aug 2026 17:53:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49468642"
       },
       {
-        "title": "Zohran and the Short Link",
-        "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-        "description": "<p>Article URL: <a href=\"https://iamwillwang.com/notes/zohran-and-the-short-link/\">https://iamwillwang.com/notes/zohran-and-the-short-link/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49457512\">https://news.ycombinator.com/item?id=49457512</a></p>\n<p>Points: 194</p>\n<p># Comments: 70</p>",
-        "pubDate": "Wed, 26 Aug 2026 23:50:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49457512"
+        "title": "M5Stack Launches PaperMono",
+        "link": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+        "description": "<p>Article URL: <a href=\"https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects\">https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49468593\">https://news.ycombinator.com/item?id=49468593</a></p>\n<p>Points: 73</p>\n<p># Comments: 25</p>",
+        "pubDate": "Thu, 27 Aug 2026 17:50:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49468593"
       },
       {
-        "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-        "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-        "description": "<p>Article URL: <a href=\"https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html\">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49456929\">https://news.ycombinator.com/item?id=49456929</a></p>\n<p>Points: 168</p>\n<p># Comments: 85</p>",
-        "pubDate": "Wed, 26 Aug 2026 22:44:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49456929"
+        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+        "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/dns-cache-memory-optimization-1111/\">https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49468083\">https://news.ycombinator.com/item?id=49468083</a></p>\n<p>Points: 361</p>\n<p># Comments: 104</p>",
+        "pubDate": "Thu, 27 Aug 2026 17:17:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49468083"
       },
       {
-        "title": "Asahi Linux Progress Report: Linux 7.2",
-        "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
-        "description": "<p>Article URL: <a href=\"https://asahilinux.org/2026/08/progress-report-7-2/\">https://asahilinux.org/2026/08/progress-report-7-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49456851\">https://news.ycombinator.com/item?id=49456851</a></p>\n<p>Points: 274</p>\n<p># Comments: 95</p>",
-        "pubDate": "Wed, 26 Aug 2026 22:35:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49456851"
+        "title": "Gemini Omni 1.1 Flash",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49467922\">https://news.ycombinator.com/item?id=49467922</a></p>\n<p>Points: 160</p>\n<p># Comments: 111</p>",
+        "pubDate": "Thu, 27 Aug 2026 17:06:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49467922"
       },
       {
-        "title": "Stripe acquires Clerky",
-        "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-        "description": "<p><a href=\"https://twitter.com/darbyw/status/2092718828405096955\" rel=\"nofollow\">https://twitter.com/darbyw/status/2092718828405096955</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455956\">https://news.ycombinator.com/item?id=49455956</a></p>\n<p>Points: 171</p>\n<p># Comments: 27</p>",
-        "pubDate": "Wed, 26 Aug 2026 21:09:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49455956"
+        "title": "Bild AI (YC W25) is hiring product and AI engineers",
+        "link": "https://www.bild.ai/jobs",
+        "description": "<p>Article URL: <a href=\"https://www.bild.ai/jobs\">https://www.bild.ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49467837\">https://news.ycombinator.com/item?id=49467837</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 27 Aug 2026 17:00:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49467837"
       },
       {
-        "title": "Mold: A Massively Parallel Linker",
-        "link": "https://arxiv.org/abs/2608.23228",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.23228\">https://arxiv.org/abs/2608.23228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455530\">https://news.ycombinator.com/item?id=49455530</a></p>\n<p>Points: 129</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 26 Aug 2026 20:37:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49455530"
+        "title": "Small Models Have Arrived",
+        "link": "https://calv.info/small-models-have-arrived",
+        "description": "<p>Article URL: <a href=\"https://calv.info/small-models-have-arrived\">https://calv.info/small-models-have-arrived</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466917\">https://news.ycombinator.com/item?id=49466917</a></p>\n<p>Points: 352</p>\n<p># Comments: 155</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:56:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466917"
       },
       {
-        "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-        "link": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-        "description": "<p>Article URL: <a href=\"https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone\">https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455471\">https://news.ycombinator.com/item?id=49455471</a></p>\n<p>Points: 126</p>\n<p># Comments: 90</p>",
-        "pubDate": "Wed, 26 Aug 2026 20:32:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49455471"
+        "title": "Suica, Japan's First IC Transit Card",
+        "link": "https://www.tokyodev.com/articles/the-story-of-suica",
+        "description": "<p>Article URL: <a href=\"https://www.tokyodev.com/articles/the-story-of-suica\">https://www.tokyodev.com/articles/the-story-of-suica</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466894\">https://news.ycombinator.com/item?id=49466894</a></p>\n<p>Points: 146</p>\n<p># Comments: 114</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:55:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466894"
       },
       {
-        "title": "Serve Markdown to AI Agents with Accept Headers",
-        "link": "https://acceptmarkdown.com/",
-        "description": "<p>Article URL: <a href=\"https://acceptmarkdown.com/\">https://acceptmarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454764\">https://news.ycombinator.com/item?id=49454764</a></p>\n<p>Points: 134</p>\n<p># Comments: 76</p>",
-        "pubDate": "Wed, 26 Aug 2026 19:45:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49454764"
+        "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+        "link": "https://news.ycombinator.com/item?id=49466715",
+        "description": "<p>Hi HN, we're the founders of Salem Robotics (<a href=\"https://salemroboticsinc.com\">https://salemroboticsinc.com</a>). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities.<p>Here's a video of it running on real robot hardware with a few words from us:\n<a href=\"https://www.youtube.com/watch?v=U_228h3NE7c\" rel=\"nofollow\">https://www.youtube.com/watch?v=U_228h3NE7c</a><p>We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and deploying autonomous robots at Los Alamos National Laboratory. Over the last five years, we kept running into the same gap: robot hardware had become very capable, but making a robot carry out a complete industrial procedure still required a surprising amount of robotics work and manual intervention.<p>The part that interested us most was manipulation. A nuclear contamination survey, for example, can require taking a \"smear\": wiping a defined area of a surface so it can be checked for removable radioactive contamination. In an oil, gas, or chemical facility, an LDAR (leak detection and repair) inspection can require moving a detector around a particular valve, flange, or connection. Other inspections require positioning an instrument at a precise location and orientation relative to a pipe or piece of equipment.<p>These are easy tasks to compress into verbs like \"wipe\", \"measure\", or \"inspect\", but considerably harder to make a robot do reliably. A probe might need to remain normal to a surface throughout a path, stay within a narrow offset from a pipe, or trace a region while maintaining a particular end-effector orientation. The planner has to find a feasible motion while respecting the task geometry, manipulator kinematics, joint limits, collisions, and the environment around it.<p>We work down to joint-level control for those interactions. One problem we've spent a lot of time on is generating constrained manipulation plans quickly enough that they can be based on the geometry the robot actually observes instead of requiring someone to carefully author a trajectory for every individual surface, valve, or flange.<p>The physical world makes this annoying. A few centimeters of error may not matter much when navigating down a hallway, but it matters if a sensor is supposed to remain normal to a curved surface. And successfully executing a trajectory doesn't necessarily mean the inspection worked. The detector could be misaligned, contact could be wrong, the geometry could differ from the model, or the measurement itself could be invalid. We care about closing that loop around the inspection result, not just whether the arm reached the commanded pose.<p>Our approach is a combination of AI and classical robotics. A lot of robotics research and industry attention right now is going toward increasingly end-to-end learned systems, particularly around humanoids. Working in safety-critical environments has made us appreciate how relevant classical approaches still are when you want explicit constraints, predictable behavior, and theoretical guarantees about what a robot can and cannot do.<p>We use AI where semantic understanding and flexibility are useful, such as interpreting less structured information or understanding what in an unfamiliar scene is relevant to a procedure. Once the system knows what physical interaction it needs to perform, we prefer explicit geometry, planning, optimization, and control where possible. We're interested in the marriage between the two rather than trying to make every part of the robotics stack learned.<p>The other idea behind Salem is that we don't think every useful robot application should require building a new robot. Companies like Boston Dynamics are getting very good at building increasingly capable hardware platforms. We think there is room for a domain-specific application layer on top of that hardware. The same underlying robot might perform nuclear radiological surveys in one facility and LDAR inspections in another, but the procedures, sensors, manipulation constraints, success conditions, and outputs are different.<p>That's also why we're hardware agnostic. We don't expect one robot to be the best platform forever, and facilities already own different hardware. We'd rather describe an inspection in terms of what needs to happen and then map that onto the capabilities of the right robot for the job.<p>One thing that surprised us after spending more time with facilities is how manual many inspection workflows still are. In sophisticated nuclear and industrial sites, people still physically walk survey routes, take measurements one at a time, visually inspect equipment, record results manually, and sometimes make judgments based on things like how a component sounds. Some of the basic workflows would be recognizable to someone doing the job decades ago, even though the sensors, computation, and robots available today are radically different.<p>We're starting with radiological inspection in nuclear because it's the industry we know best, and we're also working on manipulation-heavy inspection problems in oil, gas, and hazardous chemical facilities. The technicians and inspectors still define the procedure, interpret results, and make the consequential judgments. We're trying to automate more of the repetitive physical execution that currently requires someone to enter the environment or manually operate a robot.<p>We sell directly to industrial facilities, usually starting with a paid technical validation and then moving to an ongoing deployment. Pricing varies substantially with the workflow: validations range from tens of thousands to over $100k, and larger deployments can range from the low hundreds of thousands to roughly $500k per robot.<p>One thing we're especially curious to hear HN's thoughts on is where the abstraction boundary in robotics should sit. What should come from the robot manufacturer, what belongs in an application layer, and what will inevitably remain specific to the facility? We'd also be interested in hearing about other industries where you've seen physical inspection tasks that look trivial to a person but are surprisingly difficult to automate.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466715\">https://news.ycombinator.com/item?id=49466715</a></p>\n<p>Points: 32</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:46:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466715"
       },
       {
-        "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-        "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-        "description": "<p>Article URL: <a href=\"https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu\">https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454419\">https://news.ycombinator.com/item?id=49454419</a></p>\n<p>Points: 161</p>\n<p># Comments: 79</p>",
-        "pubDate": "Wed, 26 Aug 2026 19:23:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49454419"
+        "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+        "link": "https://github.com/opslane/opslane",
+        "description": "<p>Hey HN,<p>I’m Abhishek. I'm building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if it can verify the fix.<p>Demo: <a href=\"https://youtu.be/ccuOTYQMeYg\" rel=\"nofollow\">https://youtu.be/ccuOTYQMeYg</a>\nDocs: <a href=\"https://docs.opslane.com\">https://docs.opslane.com</a><p>At my last job at Robinhood, we used to do a quarterly bug bash. We would go through our Sentry backlog and try to fix as many of them as possible. We only fixed bugs we knew were reported by customers. We had hundreds of bugs, and Sentry’s default priority levels made no sense. After the bug bash, we would declare bankruptcy - select all remaining bugs and mark them as resolved.<p>This problem has only gotten worse since coding agents have become more prevalent.<p>So I started thinking: what would Sentry look like if it were built in 2026?<p>To me, error trackers have two failure modes:<p>1. False positives: They show you thousands of errors, and you can’t tell the impact on the user<p>2. False negatives: Many user-facing issues don’t throw exceptions, so they go unnoticed.<p>Opslane combines error tracking and session recording. And there is an agent that acts on both. To get started, you install the Opslane SDK. It captures everything the user did: errors, console logs, network requests, and session recordings.<p>Opslane reduces false positives by ranking issues based on how many users are facing a particular issue. It also learns about your product by reading your code and watching your session recordings.<p>False negatives are harder. Opslane reviews session recordings to spot frustration. They look for rage clicks, dead clicks, and abandoned forms.<p>This recently caught a bug in an early customer’s onboarding flow: a dropdown that closed itself when clicked. No exception, no bug report. The recordings showed users clicking it, selecting nothing, and dropping out of onboarding. Opslane flagged it and the team fixed it.<p>Three guiding principles when building Opslane:<p>1. Open Source: Self-host with one Docker Compose file.<p>2.Agent-first: I never want to open an error dashboard again. Opslane ships an MCP server, so you can ask \"what broke for users this week\" from Claude Code. You get back issues that need your attention and you drive the resolution.<p>3. It knows about your product: Opslane is continuously learning about your product. Every investigation begins with what it knows about your product.<p>It’s early. Frontend apps work end to end today.I am currently focused on improving reliability and accuracy.<p>Here is a link to our repo: <a href=\"https://github.com/opslane/opslane\" rel=\"nofollow\">https://github.com/opslane/opslane</a><p>Would love to get feedback from folks on our approach to this problem!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466704\">https://news.ycombinator.com/item?id=49466704</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:45:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466704"
       },
       {
-        "title": "The Hugging Face incident and the road ahead",
-        "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/hugging-face-incident-and-the-road-ahead/\">https://openai.com/index/hugging-face-incident-and-the-road-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454314\">https://news.ycombinator.com/item?id=49454314</a></p>\n<p>Points: 259</p>\n<p># Comments: 330</p>",
-        "pubDate": "Wed, 26 Aug 2026 19:15:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49454314"
+        "title": "Engineered yeast for converting plastic and biomass compounds into food",
+        "link": "https://acs.digitellinc.com/live/37/session/586399",
+        "description": "<p>Article URL: <a href=\"https://acs.digitellinc.com/live/37/session/586399\">https://acs.digitellinc.com/live/37/session/586399</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466622\">https://news.ycombinator.com/item?id=49466622</a></p>\n<p>Points: 58</p>\n<p># Comments: 39</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:40:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466622"
       },
       {
-        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-        "link": "https://github.com/tailscale/tailcat",
-        "description": "<p>Article URL: <a href=\"https://github.com/tailscale/tailcat\">https://github.com/tailscale/tailcat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452990\">https://news.ycombinator.com/item?id=49452990</a></p>\n<p>Points: 572</p>\n<p># Comments: 100</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:42:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452990"
+        "title": "The mechanics of the Nepali flash flood",
+        "link": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood\">https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466188\">https://news.ycombinator.com/item?id=49466188</a></p>\n<p>Points: 55</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:13:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466188"
       },
       {
-        "title": "An ongoing 3D-printer AGPL violation",
-        "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1089390/46116614cc74b814/\">https://lwn.net/SubscriberLink/1089390/46116614cc74b814/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452980\">https://news.ycombinator.com/item?id=49452980</a></p>\n<p>Points: 403</p>\n<p># Comments: 177</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:41:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452980"
+        "title": "Decompiling a Nintendo 64 game in 84 days",
+        "link": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+        "description": "<p>Article URL: <a href=\"https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/\">https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49466006\">https://news.ycombinator.com/item?id=49466006</a></p>\n<p>Points: 151</p>\n<p># Comments: 69</p>",
+        "pubDate": "Thu, 27 Aug 2026 15:01:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49466006"
       },
       {
-        "title": "U.S. State Department pauses immigrant visa applications",
-        "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23\">https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452709\">https://news.ycombinator.com/item?id=49452709</a></p>\n<p>Points: 500</p>\n<p># Comments: 730</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:22:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452709"
+        "title": "Launching Route 53 Files",
+        "link": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+        "description": "<p>Article URL: <a href=\"https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html\">https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49465732\">https://news.ycombinator.com/item?id=49465732</a></p>\n<p>Points: 87</p>\n<p># Comments: 30</p>",
+        "pubDate": "Thu, 27 Aug 2026 14:45:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49465732"
       },
       {
-        "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-        "link": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-        "description": "<p>Article URL: <a href=\"https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/\">https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452671\">https://news.ycombinator.com/item?id=49452671</a></p>\n<p>Points: 276</p>\n<p># Comments: 61</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:20:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452671"
+        "title": "507 Mechanical Movements",
+        "link": "https://507movements.com/",
+        "description": "<p>Book (1868): <a href=\"https://archive.org/details/fivehundredseven00browiala\" rel=\"nofollow\">https://archive.org/details/fivehundredseven00browiala</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49465169\">https://news.ycombinator.com/item?id=49465169</a></p>\n<p>Points: 415</p>\n<p># Comments: 62</p>",
+        "pubDate": "Thu, 27 Aug 2026 14:08:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49465169"
       },
       {
-        "title": "The Harness Is the Thing",
-        "link": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-        "description": "<p>Article URL: <a href=\"https://scott-fryxell.github.io/blog/the-harness-is-the-thing/\">https://scott-fryxell.github.io/blog/the-harness-is-the-thing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49452346\">https://news.ycombinator.com/item?id=49452346</a></p>\n<p>Points: 113</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 26 Aug 2026 16:59:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49452346"
+        "title": "Trade (and Tariffs)",
+        "link": "https://xkcd.com/3290/",
+        "description": "<p>Article URL: <a href=\"https://xkcd.com/3290/\">https://xkcd.com/3290/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49464896\">https://news.ycombinator.com/item?id=49464896</a></p>\n<p>Points: 438</p>\n<p># Comments: 194</p>",
+        "pubDate": "Thu, 27 Aug 2026 13:49:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49464896"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-27T09:21:03.903Z",
+  "lastUpdated": "2026-08-27T22:11:17.993Z",
   "stats": {
     "feeds": 2,
     "articles": 20
