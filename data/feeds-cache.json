@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-28T22:11:38.541Z"
+      "lastFetched": "2026-08-29T06:54:41.471Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-28T22:11:48.379Z"
+      "lastFetched": "2026-08-29T06:55:01.001Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Stopping the smart TV from being used against you",
-        "link": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-        "description": "<p>Article URL: <a href=\"https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/\">https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49483816\">https://news.ycombinator.com/item?id=49483816</a></p>\n<p>Points: 73</p>\n<p># Comments: 40</p>",
-        "pubDate": "Fri, 28 Aug 2026 20:27:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49483816"
+        "title": "TurboKV: Insanely fast Rust key-value store",
+        "link": "https://github.com/kingroryg/turbokv",
+        "description": "<p>Article URL: <a href=\"https://github.com/kingroryg/turbokv\">https://github.com/kingroryg/turbokv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486334\">https://news.ycombinator.com/item?id=49486334</a></p>\n<p>Points: 65</p>\n<p># Comments: 24</p>",
+        "pubDate": "Sat, 29 Aug 2026 02:23:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49486334"
       },
       {
-        "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-        "link": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
-        "description": "<p>Article URL: <a href=\"https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/\">https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49483182\">https://news.ycombinator.com/item?id=49483182</a></p>\n<p>Points: 159</p>\n<p># Comments: 112</p>",
-        "pubDate": "Fri, 28 Aug 2026 19:30:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49483182"
+        "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+        "link": "https://www.kumander.org/",
+        "description": "<p>Article URL: <a href=\"https://www.kumander.org/\">https://www.kumander.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486176\">https://news.ycombinator.com/item?id=49486176</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sat, 29 Aug 2026 01:48:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49486176"
       },
       {
-        "title": "Show HN: Sesame - a local-first, open-source password manager",
-        "link": "https://usesesame.app/",
-        "description": "<p>I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the vault itself.\nIt's still early software and the independent security review isn't finished yet, so I am mainly interested in feedback, testing, and people looking through the code.<p>(Linux support is yet to be released on v0.1.2, but currently is in the works.)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49483038\">https://news.ycombinator.com/item?id=49483038</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
-        "pubDate": "Fri, 28 Aug 2026 19:14:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49483038"
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinator.com/item?id=49486172</a></p>\n<p>Points: 381</p>\n<p># Comments: 162</p>",
+        "pubDate": "Sat, 29 Aug 2026 01:47:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49486172"
       },
       {
-        "title": "Bye, Bye GitHub",
-        "link": "https://log.ozgur.works/bye-bye-github.html",
-        "description": "<p>Article URL: <a href=\"https://log.ozgur.works/bye-bye-github.html\">https://log.ozgur.works/bye-bye-github.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49483020\">https://news.ycombinator.com/item?id=49483020</a></p>\n<p>Points: 44</p>\n<p># Comments: 21</p>",
-        "pubDate": "Fri, 28 Aug 2026 19:12:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49483020"
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "link": "https://github.com/stemdeckapp/stemdeck",
+        "description": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 67</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sat, 29 Aug 2026 01:24:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49486081"
       },
       {
-        "title": "The Analytical AI Handbook",
-        "link": "https://handbook.sutro.sh",
-        "description": "<p>Article URL: <a href=\"https://handbook.sutro.sh\">https://handbook.sutro.sh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49482925\">https://news.ycombinator.com/item?id=49482925</a></p>\n<p>Points: 39</p>\n<p># Comments: 2</p>",
-        "pubDate": "Fri, 28 Aug 2026 19:01:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49482925"
+        "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+        "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+        "description": "<p>Article URL: <a href=\"https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/\">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485532\">https://news.ycombinator.com/item?id=49485532</a></p>\n<p>Points: 84</p>\n<p># Comments: 30</p>",
+        "pubDate": "Fri, 28 Aug 2026 23:46:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49485532"
+      },
+      {
+        "title": "9th Circuit sides with states in Kalshi gambling fight",
+        "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+        "description": "<p>Article URL: <a href=\"https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/\">https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485452\">https://news.ycombinator.com/item?id=49485452</a></p>\n<p>Points: 115</p>\n<p># Comments: 91</p>",
+        "pubDate": "Fri, 28 Aug 2026 23:32:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49485452"
+      },
+      {
+        "title": "I accidentally turned LLM memory into program analysis",
+        "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "description": "<p>Article URL: <a href=\"https://pwning.systems/posts/llm-memory-program-analysis/\">https://pwning.systems/posts/llm-memory-program-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485416\">https://news.ycombinator.com/item?id=49485416</a></p>\n<p>Points: 100</p>\n<p># Comments: 19</p>",
+        "pubDate": "Fri, 28 Aug 2026 23:27:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49485416"
+      },
+      {
+        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "link": "https://github.com/Lakr233/vphone-cli",
+        "description": "<p>Article URL: <a href=\"https://github.com/Lakr233/vphone-cli\">https://github.com/Lakr233/vphone-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485267\">https://news.ycombinator.com/item?id=49485267</a></p>\n<p>Points: 213</p>\n<p># Comments: 67</p>",
+        "pubDate": "Fri, 28 Aug 2026 23:02:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49485267"
+      },
+      {
+        "title": "Identifying fake cosmetics using AI",
+        "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+        "description": "<p>Article URL: <a href=\"https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html\">https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49484925\">https://news.ycombinator.com/item?id=49484925</a></p>\n<p>Points: 48</p>\n<p># Comments: 19</p>",
+        "pubDate": "Fri, 28 Aug 2026 22:18:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49484925"
       },
       {
         "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
         "link": "https://arxiv.org/abs/2608.23691",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.23691\">https://arxiv.org/abs/2608.23691</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481455\">https://news.ycombinator.com/item?id=49481455</a></p>\n<p>Points: 60</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.23691\">https://arxiv.org/abs/2608.23691</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481455\">https://news.ycombinator.com/item?id=49481455</a></p>\n<p>Points: 95</p>\n<p># Comments: 23</p>",
         "pubDate": "Fri, 28 Aug 2026 17:01:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49481455"
       },
       {
-        "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-        "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering\">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481423\">https://news.ycombinator.com/item?id=49481423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 28 Aug 2026 17:00:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49481423"
-      },
-      {
         "title": "Just the rumour of a bug is enough to find an exploit these days",
         "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-        "description": "<p>Article URL: <a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">https://anil.recoil.org/notes/rumour-is-the-exploit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49480466\">https://news.ycombinator.com/item?id=49480466</a></p>\n<p>Points: 198</p>\n<p># Comments: 68</p>",
+        "description": "<p>Article URL: <a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">https://anil.recoil.org/notes/rumour-is-the-exploit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49480466\">https://news.ycombinator.com/item?id=49480466</a></p>\n<p>Points: 293</p>\n<p># Comments: 102</p>",
         "pubDate": "Fri, 28 Aug 2026 15:58:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49480466"
       },
       {
-        "title": "EasyEffects can massively improve laptop speaker sound quality",
+        "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+        "link": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
+        "description": "<p>Article URL: <a href=\"https://terminalbytes.com/run-qwen-3-8-27b-locally/\">https://terminalbytes.com/run-qwen-3-8-27b-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479951\">https://news.ycombinator.com/item?id=49479951</a></p>\n<p>Points: 98</p>\n<p># Comments: 80</p>",
+        "pubDate": "Fri, 28 Aug 2026 15:24:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49479951"
+      },
+      {
+        "title": "EasyEffects can improve laptop speaker sound quality",
         "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-        "description": "<p>Article URL: <a href=\"https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/\">https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479924\">https://news.ycombinator.com/item?id=49479924</a></p>\n<p>Points: 81</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/\">https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479924\">https://news.ycombinator.com/item?id=49479924</a></p>\n<p>Points: 129</p>\n<p># Comments: 51</p>",
         "pubDate": "Fri, 28 Aug 2026 15:23:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49479924"
       },
       {
-        "title": "Barrier lake continues to pose flood risk, China warns",
-        "link": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-        "description": "<p>Article URL: <a href=\"https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns\">https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479898\">https://news.ycombinator.com/item?id=49479898</a></p>\n<p>Points: 79</p>\n<p># Comments: 21</p>",
-        "pubDate": "Fri, 28 Aug 2026 15:21:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49479898"
-      },
-      {
         "title": "GLM-5.3 is now open-weight",
         "link": "https://huggingface.co/zai-org/GLM-5.3",
-        "description": "<p><a href=\"https://twitter.com/Zai_org/status/2093354097122455713\" rel=\"nofollow\">https://twitter.com/Zai_org/status/2093354097122455713</a><p><a href=\"https://z.ai/blog/glm-5.3\" rel=\"nofollow\">https://z.ai/blog/glm-5.3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479878\">https://news.ycombinator.com/item?id=49479878</a></p>\n<p>Points: 499</p>\n<p># Comments: 180</p>",
+        "description": "<p><a href=\"https://twitter.com/Zai_org/status/2093354097122455713\" rel=\"nofollow\">https://twitter.com/Zai_org/status/2093354097122455713</a><p><a href=\"https://z.ai/blog/glm-5.3\" rel=\"nofollow\">https://z.ai/blog/glm-5.3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479878\">https://news.ycombinator.com/item?id=49479878</a></p>\n<p>Points: 658</p>\n<p># Comments: 222</p>",
         "pubDate": "Fri, 28 Aug 2026 15:20:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49479878"
       },
       {
         "title": "GUIs should be fully keyboard-driven",
         "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "description": "<p>Article URL: <a href=\"https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\">https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479837\">https://news.ycombinator.com/item?id=49479837</a></p>\n<p>Points: 459</p>\n<p># Comments: 241</p>",
+        "description": "<p>Article URL: <a href=\"https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\">https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479837\">https://news.ycombinator.com/item?id=49479837</a></p>\n<p>Points: 730</p>\n<p># Comments: 360</p>",
         "pubDate": "Fri, 28 Aug 2026 15:17:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49479837"
       },
       {
-        "title": "Some conservationists are helping to restore Africa’s wild dog populations",
-        "link": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/\">https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479302\">https://news.ycombinator.com/item?id=49479302</a></p>\n<p>Points: 61</p>\n<p># Comments: 20</p>",
-        "pubDate": "Fri, 28 Aug 2026 14:44:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49479302"
-      },
-      {
         "title": "Verschlimmbesserung: The Word Your Software Updates Need",
         "link": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-        "description": "<p>Article URL: <a href=\"https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/\">https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479072\">https://news.ycombinator.com/item?id=49479072</a></p>\n<p>Points: 92</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/\">https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479072\">https://news.ycombinator.com/item?id=49479072</a></p>\n<p>Points: 122</p>\n<p># Comments: 79</p>",
         "pubDate": "Fri, 28 Aug 2026 14:30:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49479072"
       },
       {
         "title": "State of the Map 2026",
         "link": "https://2026.stateofthemap.org/",
-        "description": "<p>Article URL: <a href=\"https://2026.stateofthemap.org/\">https://2026.stateofthemap.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49478401\">https://news.ycombinator.com/item?id=49478401</a></p>\n<p>Points: 127</p>\n<p># Comments: 48</p>",
+        "description": "<p>Article URL: <a href=\"https://2026.stateofthemap.org/\">https://2026.stateofthemap.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49478401\">https://news.ycombinator.com/item?id=49478401</a></p>\n<p>Points: 150</p>\n<p># Comments: 53</p>",
         "pubDate": "Fri, 28 Aug 2026 13:46:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49478401"
       },
       {
-        "title": "Get your Windows license refund",
-        "link": "https://en.refund4freedom.org/",
-        "description": "<p>Article URL: <a href=\"https://en.refund4freedom.org/\">https://en.refund4freedom.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49478340\">https://news.ycombinator.com/item?id=49478340</a></p>\n<p>Points: 616</p>\n<p># Comments: 252</p>",
-        "pubDate": "Fri, 28 Aug 2026 13:42:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49478340"
-      },
-      {
         "title": "Htmx 4.0",
         "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "description": "<p>Article URL: <a href=\"https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released\">https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49478178\">https://news.ycombinator.com/item?id=49478178</a></p>\n<p>Points: 419</p>\n<p># Comments: 103</p>",
+        "description": "<p>Article URL: <a href=\"https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released\">https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49478178\">https://news.ycombinator.com/item?id=49478178</a></p>\n<p>Points: 614</p>\n<p># Comments: 151</p>",
         "pubDate": "Fri, 28 Aug 2026 13:28:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49478178"
       },
       {
         "title": "U.S. sanctions against the A/I Collective",
         "link": "https://www.inventati.org/",
-        "description": "<p>Earlier:<p><i>US Government designates host of noblogs.org a \"global terrorist\"</i> - <a href=\"https://news.ycombinator.com/item?id=49464391\">https://news.ycombinator.com/item?id=49464391</a> -  (131 comments)<p><i>US sanctions Italian hosting provider Autistici Inventati</i> - <a href=\"https://news.ycombinator.com/item?id=49451343\">https://news.ycombinator.com/item?id=49451343</a> - (219 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477854\">https://news.ycombinator.com/item?id=49477854</a></p>\n<p>Points: 412</p>\n<p># Comments: 368</p>",
+        "description": "<p>Earlier:<p><i>US Government designates host of noblogs.org a \"global terrorist\"</i> - <a href=\"https://news.ycombinator.com/item?id=49464391\">https://news.ycombinator.com/item?id=49464391</a> -  (131 comments)<p><i>US sanctions Italian hosting provider Autistici Inventati</i> - <a href=\"https://news.ycombinator.com/item?id=49451343\">https://news.ycombinator.com/item?id=49451343</a> - (219 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477854\">https://news.ycombinator.com/item?id=49477854</a></p>\n<p>Points: 550</p>\n<p># Comments: 549</p>",
         "pubDate": "Fri, 28 Aug 2026 12:58:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49477854"
       },
       {
         "title": "Inception-style curved map for turn-by-turn directions",
         "link": "https://www.orbify.eu/demo/",
-        "description": "<p>Article URL: <a href=\"https://www.orbify.eu/demo/\">https://www.orbify.eu/demo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477564\">https://news.ycombinator.com/item?id=49477564</a></p>\n<p>Points: 369</p>\n<p># Comments: 126</p>",
+        "description": "<p>Article URL: <a href=\"https://www.orbify.eu/demo/\">https://www.orbify.eu/demo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477564\">https://news.ycombinator.com/item?id=49477564</a></p>\n<p>Points: 471</p>\n<p># Comments: 157</p>",
         "pubDate": "Fri, 28 Aug 2026 12:29:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49477564"
-      },
-      {
-        "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-        "link": "https://www.nature.com/articles/d41586-026-02506-4",
-        "description": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-02506-4\">https://www.nature.com/articles/d41586-026-02506-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477559\">https://news.ycombinator.com/item?id=49477559</a></p>\n<p>Points: 103</p>\n<p># Comments: 134</p>",
-        "pubDate": "Fri, 28 Aug 2026 12:28:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49477559"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-28T22:11:48.380Z",
+  "lastUpdated": "2026-08-29T06:55:01.002Z",
   "stats": {
     "feeds": 2,
     "articles": 20
