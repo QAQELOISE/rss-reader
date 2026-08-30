@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-30T11:46:14.422Z"
+      "lastFetched": "2026-08-30T16:34:07.656Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-30T11:46:21.390Z"
+      "lastFetched": "2026-08-30T16:34:27.196Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-        "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-        "description": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497357\">https://news.ycombinator.com/item?id=49497357</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
-        "pubDate": "Sun, 30 Aug 2026 10:20:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497357"
+        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+        "link": "https://komoroske.com/slime-mold/",
+        "description": "<p>Article URL: <a href=\"https://komoroske.com/slime-mold/\">https://komoroske.com/slime-mold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499891\">https://news.ycombinator.com/item?id=49499891</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 30 Aug 2026 16:03:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49499891"
       },
       {
-        "title": "Spark: Sparklines in your shell",
-        "link": "https://git.zx2c4.com/spark/about/",
-        "description": "<p>Article URL: <a href=\"https://git.zx2c4.com/spark/about/\">https://git.zx2c4.com/spark/about/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497265\">https://news.ycombinator.com/item?id=49497265</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 30 Aug 2026 10:02:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497265"
+        "title": "Haiku R1/beta6 has been released",
+        "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+        "description": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 30 Aug 2026 16:01:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49499867"
       },
       {
-        "title": "Nvidia's AI advantage is moving beyond the GPU",
-        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497235\">https://news.ycombinator.com/item?id=49497235</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
-        "pubDate": "Sun, 30 Aug 2026 09:57:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497235"
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "link": "https://0xcc.io/posts/omarchy-root-creds/",
+        "description": "<p>Article URL: <a href=\"https://0xcc.io/posts/omarchy-root-creds/\">https://0xcc.io/posts/omarchy-root-creds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499854\">https://news.ycombinator.com/item?id=49499854</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 30 Aug 2026 15:59:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49499854"
       },
       {
-        "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
-        "link": "https://github.com/AniketWathore/bolnee-chat",
-        "description": "<p>Article URL: <a href=\"https://github.com/AniketWathore/bolnee-chat\">https://github.com/AniketWathore/bolnee-chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497227\">https://news.ycombinator.com/item?id=49497227</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 30 Aug 2026 09:56:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497227"
+        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+        "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+        "description": "<p>Article URL: <a href=\"https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement\">https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499394\">https://news.ycombinator.com/item?id=49499394</a></p>\n<p>Points: 62</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sun, 30 Aug 2026 15:12:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49499394"
       },
       {
-        "title": "Everyone Should Build Their Own Network Stack",
+        "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+        "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+        "description": "<p>Article URL: <a href=\"https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/\">https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498978\">https://news.ycombinator.com/item?id=49498978</a></p>\n<p>Points: 71</p>\n<p># Comments: 61</p>",
+        "pubDate": "Sun, 30 Aug 2026 14:29:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49498978"
+      },
+      {
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "link": "https://github.com/anthropics/claude-code/issues/66504",
+        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/66504\">https://github.com/anthropics/claude-code/issues/66504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498201\">https://news.ycombinator.com/item?id=49498201</a></p>\n<p>Points: 103</p>\n<p># Comments: 127</p>",
+        "pubDate": "Sun, 30 Aug 2026 12:50:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49498201"
+      },
+      {
+        "title": "No AI Fridays",
+        "link": "https://noaifridays.com/",
+        "description": "<p>Article URL: <a href=\"https://noaifridays.com/\">https://noaifridays.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498095\">https://news.ycombinator.com/item?id=49498095</a></p>\n<p>Points: 224</p>\n<p># Comments: 120</p>",
+        "pubDate": "Sun, 30 Aug 2026 12:31:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49498095"
+      },
+      {
+        "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+        "link": "https://github.com/fugue-labs/monty-go",
+        "description": "<p>Article URL: <a href=\"https://github.com/fugue-labs/monty-go\">https://github.com/fugue-labs/monty-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497928\">https://news.ycombinator.com/item?id=49497928</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 30 Aug 2026 12:02:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49497928"
+      },
+      {
+        "title": "Automating Immersive Reading",
+        "link": "https://smoores.dev/post/automating_immersive_reading/",
+        "description": "<p>Article URL: <a href=\"https://smoores.dev/post/automating_immersive_reading/\">https://smoores.dev/post/automating_immersive_reading/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497854\">https://news.ycombinator.com/item?id=49497854</a></p>\n<p>Points: 46</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sun, 30 Aug 2026 11:46:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49497854"
+      },
+      {
+        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+        "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+        "description": "<p>Article URL: <a href=\"https://www.muppetlabs.com/~breadbox/software/windows.html\">https://www.muppetlabs.com/~breadbox/software/windows.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497819\">https://news.ycombinator.com/item?id=49497819</a></p>\n<p>Points: 32</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 30 Aug 2026 11:41:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49497819"
+      },
+      {
+        "title": "Hacking IKEA Furniture",
+        "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+        "description": "<p>Article URL: <a href=\"https://greenlightning.eu/diy/hacking-ikea-furniture/\">https://greenlightning.eu/diy/hacking-ikea-furniture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497810\">https://news.ycombinator.com/item?id=49497810</a></p>\n<p>Points: 139</p>\n<p># Comments: 75</p>",
+        "pubDate": "Sun, 30 Aug 2026 11:39:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49497810"
+      },
+      {
+        "title": "One Nix flake to rule them all",
+        "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+        "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all\">https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497712\">https://news.ycombinator.com/item?id=49497712</a></p>\n<p>Points: 52</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 30 Aug 2026 11:22:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49497712"
+      },
+      {
+        "title": "Building my own network stack",
         "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-        "description": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/dn42-2-dnet/\">https://blog.lyc8503.net/en/post/dn42-2-dnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497200\">https://news.ycombinator.com/item?id=49497200</a></p>\n<p>Points: 19</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/dn42-2-dnet/\">https://blog.lyc8503.net/en/post/dn42-2-dnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497200\">https://news.ycombinator.com/item?id=49497200</a></p>\n<p>Points: 63</p>\n<p># Comments: 58</p>",
         "pubDate": "Sun, 30 Aug 2026 09:52:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49497200"
       },
       {
-        "title": "Brits would quite like their private messages to stay private",
-        "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994\">https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497063\">https://news.ycombinator.com/item?id=49497063</a></p>\n<p>Points: 105</p>\n<p># Comments: 62</p>",
-        "pubDate": "Sun, 30 Aug 2026 09:26:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497063"
-      },
-      {
         "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
         "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-        "description": "<p>Article URL: <a href=\"https://www.qubes-os.org/news/2026/08/29/qsb-118/\">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496918\">https://news.ycombinator.com/item?id=49496918</a></p>\n<p>Points: 54</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.qubes-os.org/news/2026/08/29/qsb-118/\">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496918\">https://news.ycombinator.com/item?id=49496918</a></p>\n<p>Points: 144</p>\n<p># Comments: 60</p>",
         "pubDate": "Sun, 30 Aug 2026 08:51:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49496918"
       },
       {
         "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
         "link": "https://arxiv.org/abs/1804.07389",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 72</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 161</p>\n<p># Comments: 47</p>",
         "pubDate": "Sun, 30 Aug 2026 08:23:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49496782"
       },
       {
-        "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-        "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs\">https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496543\">https://news.ycombinator.com/item?id=49496543</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sun, 30 Aug 2026 07:35:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49496543"
-      },
-      {
         "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
         "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49495372\">https://news.ycombinator.com/item?id=49495372</a></p>\n<p>Points: 342</p>\n<p># Comments: 153</p>",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49495372\">https://news.ycombinator.com/item?id=49495372</a></p>\n<p>Points: 560</p>\n<p># Comments: 248</p>",
         "pubDate": "Sun, 30 Aug 2026 03:15:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49495372"
       },
       {
         "title": "FreeCORE TrueNAS Core – Continued",
         "link": "https://freecore.org/",
-        "description": "<p>Article URL: <a href=\"https://freecore.org/\">https://freecore.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494856\">https://news.ycombinator.com/item?id=49494856</a></p>\n<p>Points: 112</p>\n<p># Comments: 65</p>",
+        "description": "<p>Article URL: <a href=\"https://freecore.org/\">https://freecore.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494856\">https://news.ycombinator.com/item?id=49494856</a></p>\n<p>Points: 152</p>\n<p># Comments: 82</p>",
         "pubDate": "Sun, 30 Aug 2026 01:31:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=49494856"
       },
       {
-        "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-        "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/\">https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494751\">https://news.ycombinator.com/item?id=49494751</a></p>\n<p>Points: 74</p>\n<p># Comments: 30</p>",
-        "pubDate": "Sun, 30 Aug 2026 01:09:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49494751"
-      },
-      {
-        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-        "link": "https://github.com/mk6i/open-oscar-server",
-        "description": "<p>Article URL: <a href=\"https://github.com/mk6i/open-oscar-server\">https://github.com/mk6i/open-oscar-server</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494571\">https://news.ycombinator.com/item?id=49494571</a></p>\n<p>Points: 44</p>\n<p># Comments: 16</p>",
-        "pubDate": "Sun, 30 Aug 2026 00:33:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49494571"
-      },
-      {
         "title": "Bug Blindness",
         "link": "https://danluu.com/bug-blind/",
-        "description": "<p>Article URL: <a href=\"https://danluu.com/bug-blind/\">https://danluu.com/bug-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494520\">https://news.ycombinator.com/item?id=49494520</a></p>\n<p>Points: 279</p>\n<p># Comments: 170</p>",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/bug-blind/\">https://danluu.com/bug-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494520\">https://news.ycombinator.com/item?id=49494520</a></p>\n<p>Points: 338</p>\n<p># Comments: 211</p>",
         "pubDate": "Sun, 30 Aug 2026 00:21:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49494520"
       },
       {
-        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-        "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-        "description": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494182\">https://news.ycombinator.com/item?id=49494182</a></p>\n<p>Points: 318</p>\n<p># Comments: 182</p>",
-        "pubDate": "Sat, 29 Aug 2026 23:17:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49494182"
-      },
-      {
         "title": "Hy4 preview",
         "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "description": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492632\">https://news.ycombinator.com/item?id=49492632</a></p>\n<p>Points: 319</p>\n<p># Comments: 195</p>",
+        "description": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492632\">https://news.ycombinator.com/item?id=49492632</a></p>\n<p>Points: 360</p>\n<p># Comments: 221</p>",
         "pubDate": "Sat, 29 Aug 2026 19:33:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49492632"
       },
       {
-        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-        "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-        "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3830438.3830958\">https://dl.acm.org/doi/10.1145/3830438.3830958</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492368\">https://news.ycombinator.com/item?id=49492368</a></p>\n<p>Points: 93</p>\n<p># Comments: 36</p>",
-        "pubDate": "Sat, 29 Aug 2026 19:01:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49492368"
-      },
-      {
-        "title": "Nancy Grace Roman Space Telescope",
-        "link": "https://science.nasa.gov/mission/roman-space-telescope/",
-        "description": "<p><a href=\"https://nextspaceflight.com/launches/details/6983/\" rel=\"nofollow\">https://nextspaceflight.com/launches/details/6983/</a><p><a href=\"https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac...</a><p><a href=\"https://en.wikipedia.org/wiki/Nancy_Grace_Roman\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Nancy_Grace_Roman</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490870\">https://news.ycombinator.com/item?id=49490870</a></p>\n<p>Points: 205</p>\n<p># Comments: 80</p>",
-        "pubDate": "Sat, 29 Aug 2026 15:48:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49490870"
-      },
-      {
-        "title": "Benchmarking Pocket-Scale Inference",
-        "link": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/hardware-inference-stack/mobile-phones\">https://artificialanalysis.ai/hardware-inference-stack/mobile-phones</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469786\">https://news.ycombinator.com/item?id=49469786</a></p>\n<p>Points: 52</p>\n<p># Comments: 4</p>",
-        "pubDate": "Thu, 27 Aug 2026 19:12:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49469786"
-      },
-      {
-        "title": "The Einstein-Szilard Refrigerator (2020)",
-        "link": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-        "description": "<p>Article URL: <a href=\"https://invention.si.edu/invention-stories/einstein-szilard-refrigerator\">https://invention.si.edu/invention-stories/einstein-szilard-refrigerator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49453232\">https://news.ycombinator.com/item?id=49453232</a></p>\n<p>Points: 41</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 26 Aug 2026 17:58:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49453232"
+        "title": "Creepy Crawlies",
+        "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "description": "<p>Article URL: <a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">https://people.kernel.org/monsieuricon/creepy-crawlies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491791\">https://news.ycombinator.com/item?id=49491791</a></p>\n<p>Points: 244</p>\n<p># Comments: 88</p>",
+        "pubDate": "Sat, 29 Aug 2026 17:49:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49491791"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-30T11:46:21.390Z",
+  "lastUpdated": "2026-08-30T16:34:27.196Z",
   "stats": {
     "feeds": 2,
     "articles": 20
