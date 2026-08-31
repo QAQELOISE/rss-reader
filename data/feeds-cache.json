@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-31T05:17:27.454Z"
+      "lastFetched": "2026-08-31T13:28:50.205Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-31T05:17:47.349Z"
+      "lastFetched": "2026-08-31T13:29:08.768Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-        "link": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-        "description": "<p>Article URL: <a href=\"https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis\">https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505351\">https://news.ycombinator.com/item?id=49505351</a></p>\n<p>Points: 25</p>\n<p># Comments: 21</p>",
-        "pubDate": "Mon, 31 Aug 2026 03:45:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49505351"
+        "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+        "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508982\">https://news.ycombinator.com/item?id=49508982</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 31 Aug 2026 12:41:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508982"
       },
       {
-        "title": "UC Berkeley indefinitely suspends international student work authorizations",
-        "link": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
-        "description": "<p>Article URL: <a href=\"https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html\">https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505288\">https://news.ycombinator.com/item?id=49505288</a></p>\n<p>Points: 67</p>\n<p># Comments: 53</p>",
-        "pubDate": "Mon, 31 Aug 2026 03:34:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49505288"
+        "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+        "link": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+        "description": "<p>Article URL: <a href=\"https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling\">https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508443\">https://news.ycombinator.com/item?id=49508443</a></p>\n<p>Points: 16</p>\n<p># Comments: 13</p>",
+        "pubDate": "Mon, 31 Aug 2026 11:34:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508443"
+      },
+      {
+        "title": "The Universe as a Minified Bundle",
+        "link": "https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/",
+        "description": "<p>Article URL: <a href=\"https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/\">https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508367\">https://news.ycombinator.com/item?id=49508367</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 31 Aug 2026 11:24:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508367"
+      },
+      {
+        "title": "Agent Memory as a File Format",
+        "link": "https://calpaterson.com/memoryfields.html",
+        "description": "<p>Article URL: <a href=\"https://calpaterson.com/memoryfields.html\">https://calpaterson.com/memoryfields.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508317\">https://news.ycombinator.com/item?id=49508317</a></p>\n<p>Points: 36</p>\n<p># Comments: 29</p>",
+        "pubDate": "Mon, 31 Aug 2026 11:17:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508317"
+      },
+      {
+        "title": "A CVE Dispute",
+        "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+        "description": "<p>Article URL: <a href=\"https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/\">https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508290\">https://news.ycombinator.com/item?id=49508290</a></p>\n<p>Points: 76</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 31 Aug 2026 11:13:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508290"
+      },
+      {
+        "title": "I built a hardware-bound local password vault hidden in a photo",
+        "link": "https://blindlock.app/en/",
+        "description": "<p>Article URL: <a href=\"https://blindlock.app/en/\">https://blindlock.app/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508206\">https://news.ycombinator.com/item?id=49508206</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 31 Aug 2026 10:58:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508206"
+      },
+      {
+        "title": "Malleable software = solid bases and custom code",
+        "link": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+        "description": "<p>Article URL: <a href=\"https://www.mdubakov.me/malleable-software-solid-bases-custom-code/\">https://www.mdubakov.me/malleable-software-solid-bases-custom-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508059\">https://news.ycombinator.com/item?id=49508059</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 31 Aug 2026 10:36:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49508059"
+      },
+      {
+        "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+        "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+        "description": "<p>Article URL: <a href=\"https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/\">https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507822\">https://news.ycombinator.com/item?id=49507822</a></p>\n<p>Points: 211</p>\n<p># Comments: 59</p>",
+        "pubDate": "Mon, 31 Aug 2026 09:59:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49507822"
+      },
+      {
+        "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+        "link": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer\">https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507810\">https://news.ycombinator.com/item?id=49507810</a></p>\n<p>Points: 10</p>\n<p># Comments: 9</p>",
+        "pubDate": "Mon, 31 Aug 2026 09:57:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49507810"
+      },
+      {
+        "title": "State of the Map 2026: OpenStreetMap conference",
+        "link": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
+        "description": "<p>Article URL: <a href=\"https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/\">https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507280\">https://news.ycombinator.com/item?id=49507280</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 31 Aug 2026 08:57:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49507280"
+      },
+      {
+        "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+        "link": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+        "description": "<p>Article URL: <a href=\"https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/\">https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507121\">https://news.ycombinator.com/item?id=49507121</a></p>\n<p>Points: 18</p>\n<p># Comments: 14</p>",
+        "pubDate": "Mon, 31 Aug 2026 08:33:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49507121"
+      },
+      {
+        "title": "ReactOS 0.4.16",
+        "link": "https://reactos.org/project-news/reactos-0416-released/",
+        "description": "<p>Article URL: <a href=\"https://reactos.org/project-news/reactos-0416-released/\">https://reactos.org/project-news/reactos-0416-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506978\">https://news.ycombinator.com/item?id=49506978</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 31 Aug 2026 08:13:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49506978"
+      },
+      {
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "description": "<p>Article URL: <a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506819\">https://news.ycombinator.com/item?id=49506819</a></p>\n<p>Points: 160</p>\n<p># Comments: 51</p>",
+        "pubDate": "Mon, 31 Aug 2026 07:49:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49506819"
+      },
+      {
+        "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+        "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506182\">https://news.ycombinator.com/item?id=49506182</a></p>\n<p>Points: 224</p>\n<p># Comments: 37</p>",
+        "pubDate": "Mon, 31 Aug 2026 06:10:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49506182"
+      },
+      {
+        "title": "uv: Deduplicate all files in the wheel cache",
+        "link": "https://github.com/astral-sh/uv/pull/21327",
+        "description": "<p>Article URL: <a href=\"https://github.com/astral-sh/uv/pull/21327\">https://github.com/astral-sh/uv/pull/21327</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506142\">https://news.ycombinator.com/item?id=49506142</a></p>\n<p>Points: 94</p>\n<p># Comments: 29</p>",
+        "pubDate": "Mon, 31 Aug 2026 06:03:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49506142"
       },
       {
         "title": "P99 0 ms* autocomplete for 240M domain names",
         "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-        "description": "<p>Article URL: <a href=\"https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505219\">https://news.ycombinator.com/item?id=49505219</a></p>\n<p>Points: 29</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505219\">https://news.ycombinator.com/item?id=49505219</a></p>\n<p>Points: 167</p>\n<p># Comments: 70</p>",
         "pubDate": "Mon, 31 Aug 2026 03:20:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49505219"
       },
       {
-        "title": "Internet centralization and the original sin of NAT",
-        "link": "https://dreamstation.systems/personal/ntppost.html",
-        "description": "<p>Article URL: <a href=\"https://dreamstation.systems/personal/ntppost.html\">https://dreamstation.systems/personal/ntppost.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504905\">https://news.ycombinator.com/item?id=49504905</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 31 Aug 2026 02:23:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49504905"
-      },
-      {
         "title": "Understanding ChatGPT Work",
         "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504625\">https://news.ycombinator.com/item?id=49504625</a></p>\n<p>Points: 101</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504625\">https://news.ycombinator.com/item?id=49504625</a></p>\n<p>Points: 239</p>\n<p># Comments: 128</p>",
         "pubDate": "Mon, 31 Aug 2026 01:28:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49504625"
       },
       {
         "title": "How to build a diffusion language model",
         "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-        "description": "<p>Article URL: <a href=\"https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503956\">https://news.ycombinator.com/item?id=49503956</a></p>\n<p>Points: 37</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503956\">https://news.ycombinator.com/item?id=49503956</a></p>\n<p>Points: 130</p>\n<p># Comments: 16</p>",
         "pubDate": "Sun, 30 Aug 2026 23:41:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=49503956"
       },
       {
         "title": "Matrox: Graphics for Professionals",
         "link": "https://www.abortretry.fail/p/matrox",
-        "description": "<p>Article URL: <a href=\"https://www.abortretry.fail/p/matrox\">https://www.abortretry.fail/p/matrox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503934\">https://news.ycombinator.com/item?id=49503934</a></p>\n<p>Points: 57</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://www.abortretry.fail/p/matrox\">https://www.abortretry.fail/p/matrox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503934\">https://news.ycombinator.com/item?id=49503934</a></p>\n<p>Points: 150</p>\n<p># Comments: 48</p>",
         "pubDate": "Sun, 30 Aug 2026 23:39:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49503934"
       },
       {
         "title": "“I just chose words carefully”",
         "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-        "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/i-just-chose-words-carefully/\">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503601\">https://news.ycombinator.com/item?id=49503601</a></p>\n<p>Points: 472</p>\n<p># Comments: 121</p>",
+        "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/i-just-chose-words-carefully/\">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503601\">https://news.ycombinator.com/item?id=49503601</a></p>\n<p>Points: 956</p>\n<p># Comments: 247</p>",
         "pubDate": "Sun, 30 Aug 2026 22:49:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49503601"
-      },
-      {
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "description": "<p>Article URL: <a href=\"https://sander.ai/2026/08/24/continuous-dlms.html\">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502611\">https://news.ycombinator.com/item?id=49502611</a></p>\n<p>Points: 73</p>\n<p># Comments: 29</p>",
-        "pubDate": "Sun, 30 Aug 2026 20:46:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49502611"
-      },
-      {
-        "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-        "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/08/spacelab-core-memory.html\">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502214\">https://news.ycombinator.com/item?id=49502214</a></p>\n<p>Points: 93</p>\n<p># Comments: 16</p>",
-        "pubDate": "Sun, 30 Aug 2026 20:00:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49502214"
-      },
-      {
-        "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-        "link": "https://github.com/KodeMunkie/sm750hdmifb",
-        "description": "<p>Article URL: <a href=\"https://github.com/KodeMunkie/sm750hdmifb\">https://github.com/KodeMunkie/sm750hdmifb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501611\">https://news.ycombinator.com/item?id=49501611</a></p>\n<p>Points: 91</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sun, 30 Aug 2026 18:49:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49501611"
-      },
-      {
-        "title": "Artie (YC S23) Is Hiring Technical AES",
-        "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-        "description": "<p>Article URL: <a href=\"https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49500471\">https://news.ycombinator.com/item?id=49500471</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 30 Aug 2026 17:01:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49500471"
-      },
-      {
-        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-        "link": "https://komoroske.com/slime-mold/",
-        "description": "<p>Article URL: <a href=\"https://komoroske.com/slime-mold/\">https://komoroske.com/slime-mold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499891\">https://news.ycombinator.com/item?id=49499891</a></p>\n<p>Points: 140</p>\n<p># Comments: 45</p>",
-        "pubDate": "Sun, 30 Aug 2026 16:03:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49499891"
-      },
-      {
-        "title": "Haiku R1/beta6 has been released",
-        "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-        "description": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 275</p>\n<p># Comments: 84</p>",
-        "pubDate": "Sun, 30 Aug 2026 16:01:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49499867"
-      },
-      {
-        "title": "Omarchy: Any User Process Can Escalate to Root",
-        "link": "https://0xcc.io/posts/omarchy-root-creds/",
-        "description": "<p>Article URL: <a href=\"https://0xcc.io/posts/omarchy-root-creds/\">https://0xcc.io/posts/omarchy-root-creds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499854\">https://news.ycombinator.com/item?id=49499854</a></p>\n<p>Points: 471</p>\n<p># Comments: 451</p>",
-        "pubDate": "Sun, 30 Aug 2026 15:59:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49499854"
-      },
-      {
-        "title": "Startup Anti-Patterns",
-        "link": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-        "description": "<p>Article URL: <a href=\"https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/\">https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499831\">https://news.ycombinator.com/item?id=49499831</a></p>\n<p>Points: 113</p>\n<p># Comments: 63</p>",
-        "pubDate": "Sun, 30 Aug 2026 15:57:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49499831"
-      },
-      {
-        "title": "Zig: Pointer Stability for ArrayLists",
-        "link": "https://ziglang.org/devlog/2026/#2026-08-27",
-        "description": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-08-27\">https://ziglang.org/devlog/2026/#2026-08-27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499095\">https://news.ycombinator.com/item?id=49499095</a></p>\n<p>Points: 92</p>\n<p># Comments: 65</p>",
-        "pubDate": "Sun, 30 Aug 2026 14:41:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49499095"
-      },
-      {
-        "title": "Hacking IKEA Furniture",
-        "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-        "description": "<p>Article URL: <a href=\"https://greenlightning.eu/diy/hacking-ikea-furniture/\">https://greenlightning.eu/diy/hacking-ikea-furniture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497810\">https://news.ycombinator.com/item?id=49497810</a></p>\n<p>Points: 282</p>\n<p># Comments: 194</p>",
-        "pubDate": "Sun, 30 Aug 2026 11:39:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497810"
-      },
-      {
-        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-        "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-        "description": "<p>Article URL: <a href=\"https://www.qubes-os.org/news/2026/08/29/qsb-118/\">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496918\">https://news.ycombinator.com/item?id=49496918</a></p>\n<p>Points: 216</p>\n<p># Comments: 88</p>",
-        "pubDate": "Sun, 30 Aug 2026 08:51:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49496918"
-      },
-      {
-        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-        "link": "https://arxiv.org/abs/1804.07389",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 198</p>\n<p># Comments: 58</p>",
-        "pubDate": "Sun, 30 Aug 2026 08:23:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49496782"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-31T05:17:47.349Z",
+  "lastUpdated": "2026-08-31T13:29:08.768Z",
   "stats": {
     "feeds": 2,
     "articles": 20
