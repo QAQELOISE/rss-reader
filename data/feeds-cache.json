@@ -5,36 +5,92 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-08-30T20:56:35.223Z"
+      "lastFetched": "2026-08-31T05:17:27.454Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-08-30T20:56:54.706Z"
+      "lastFetched": "2026-08-31T05:17:47.349Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "link": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+        "description": "<p>Article URL: <a href=\"https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis\">https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505351\">https://news.ycombinator.com/item?id=49505351</a></p>\n<p>Points: 25</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 31 Aug 2026 03:45:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49505351"
+      },
+      {
+        "title": "UC Berkeley indefinitely suspends international student work authorizations",
+        "link": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
+        "description": "<p>Article URL: <a href=\"https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html\">https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505288\">https://news.ycombinator.com/item?id=49505288</a></p>\n<p>Points: 67</p>\n<p># Comments: 53</p>",
+        "pubDate": "Mon, 31 Aug 2026 03:34:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49505288"
+      },
+      {
+        "title": "P99 0 ms* autocomplete for 240M domain names",
+        "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+        "description": "<p>Article URL: <a href=\"https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505219\">https://news.ycombinator.com/item?id=49505219</a></p>\n<p>Points: 29</p>\n<p># Comments: 15</p>",
+        "pubDate": "Mon, 31 Aug 2026 03:20:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49505219"
+      },
+      {
+        "title": "Internet centralization and the original sin of NAT",
+        "link": "https://dreamstation.systems/personal/ntppost.html",
+        "description": "<p>Article URL: <a href=\"https://dreamstation.systems/personal/ntppost.html\">https://dreamstation.systems/personal/ntppost.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504905\">https://news.ycombinator.com/item?id=49504905</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 31 Aug 2026 02:23:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49504905"
+      },
+      {
+        "title": "Understanding ChatGPT Work",
+        "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504625\">https://news.ycombinator.com/item?id=49504625</a></p>\n<p>Points: 101</p>\n<p># Comments: 34</p>",
+        "pubDate": "Mon, 31 Aug 2026 01:28:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49504625"
+      },
+      {
+        "title": "How to build a diffusion language model",
+        "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+        "description": "<p>Article URL: <a href=\"https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503956\">https://news.ycombinator.com/item?id=49503956</a></p>\n<p>Points: 37</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sun, 30 Aug 2026 23:41:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49503956"
+      },
+      {
+        "title": "Matrox: Graphics for Professionals",
+        "link": "https://www.abortretry.fail/p/matrox",
+        "description": "<p>Article URL: <a href=\"https://www.abortretry.fail/p/matrox\">https://www.abortretry.fail/p/matrox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503934\">https://news.ycombinator.com/item?id=49503934</a></p>\n<p>Points: 57</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sun, 30 Aug 2026 23:39:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49503934"
+      },
+      {
+        "title": "“I just chose words carefully”",
+        "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/i-just-chose-words-carefully/\">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503601\">https://news.ycombinator.com/item?id=49503601</a></p>\n<p>Points: 472</p>\n<p># Comments: 121</p>",
+        "pubDate": "Sun, 30 Aug 2026 22:49:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49503601"
+      },
+      {
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
+        "description": "<p>Article URL: <a href=\"https://sander.ai/2026/08/24/continuous-dlms.html\">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502611\">https://news.ycombinator.com/item?id=49502611</a></p>\n<p>Points: 73</p>\n<p># Comments: 29</p>",
+        "pubDate": "Sun, 30 Aug 2026 20:46:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49502611"
+      },
+      {
         "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
         "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/08/spacelab-core-memory.html\">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502214\">https://news.ycombinator.com/item?id=49502214</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/08/spacelab-core-memory.html\">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502214\">https://news.ycombinator.com/item?id=49502214</a></p>\n<p>Points: 93</p>\n<p># Comments: 16</p>",
         "pubDate": "Sun, 30 Aug 2026 20:00:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49502214"
       },
       {
-        "title": "The world may have less time than it thinks on climate change",
-        "link": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
-        "description": "<p>Article URL: <a href=\"https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change\">https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501791\">https://news.ycombinator.com/item?id=49501791</a></p>\n<p>Points: 42</p>\n<p># Comments: 22</p>",
-        "pubDate": "Sun, 30 Aug 2026 19:08:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49501791"
-      },
-      {
         "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
         "link": "https://github.com/KodeMunkie/sm750hdmifb",
-        "description": "<p>Article URL: <a href=\"https://github.com/KodeMunkie/sm750hdmifb\">https://github.com/KodeMunkie/sm750hdmifb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501611\">https://news.ycombinator.com/item?id=49501611</a></p>\n<p>Points: 25</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/KodeMunkie/sm750hdmifb\">https://github.com/KodeMunkie/sm750hdmifb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501611\">https://news.ycombinator.com/item?id=49501611</a></p>\n<p>Points: 91</p>\n<p># Comments: 35</p>",
         "pubDate": "Sun, 30 Aug 2026 18:49:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49501611"
       },
@@ -48,119 +104,63 @@
       {
         "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
         "link": "https://komoroske.com/slime-mold/",
-        "description": "<p>Article URL: <a href=\"https://komoroske.com/slime-mold/\">https://komoroske.com/slime-mold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499891\">https://news.ycombinator.com/item?id=49499891</a></p>\n<p>Points: 85</p>\n<p># Comments: 35</p>",
+        "description": "<p>Article URL: <a href=\"https://komoroske.com/slime-mold/\">https://komoroske.com/slime-mold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499891\">https://news.ycombinator.com/item?id=49499891</a></p>\n<p>Points: 140</p>\n<p># Comments: 45</p>",
         "pubDate": "Sun, 30 Aug 2026 16:03:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49499891"
       },
       {
         "title": "Haiku R1/beta6 has been released",
         "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-        "description": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 183</p>\n<p># Comments: 50</p>",
+        "description": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 275</p>\n<p># Comments: 84</p>",
         "pubDate": "Sun, 30 Aug 2026 16:01:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49499867"
       },
       {
         "title": "Omarchy: Any User Process Can Escalate to Root",
         "link": "https://0xcc.io/posts/omarchy-root-creds/",
-        "description": "<p>Article URL: <a href=\"https://0xcc.io/posts/omarchy-root-creds/\">https://0xcc.io/posts/omarchy-root-creds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499854\">https://news.ycombinator.com/item?id=49499854</a></p>\n<p>Points: 290</p>\n<p># Comments: 274</p>",
+        "description": "<p>Article URL: <a href=\"https://0xcc.io/posts/omarchy-root-creds/\">https://0xcc.io/posts/omarchy-root-creds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499854\">https://news.ycombinator.com/item?id=49499854</a></p>\n<p>Points: 471</p>\n<p># Comments: 451</p>",
         "pubDate": "Sun, 30 Aug 2026 15:59:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49499854"
       },
       {
         "title": "Startup Anti-Patterns",
         "link": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-        "description": "<p>Article URL: <a href=\"https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/\">https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499831\">https://news.ycombinator.com/item?id=49499831</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/\">https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499831\">https://news.ycombinator.com/item?id=49499831</a></p>\n<p>Points: 113</p>\n<p># Comments: 63</p>",
         "pubDate": "Sun, 30 Aug 2026 15:57:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49499831"
       },
       {
-        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-        "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-        "description": "<p>Article URL: <a href=\"https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement\">https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499394\">https://news.ycombinator.com/item?id=49499394</a></p>\n<p>Points: 264</p>\n<p># Comments: 100</p>",
-        "pubDate": "Sun, 30 Aug 2026 15:12:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49499394"
-      },
-      {
         "title": "Zig: Pointer Stability for ArrayLists",
         "link": "https://ziglang.org/devlog/2026/#2026-08-27",
-        "description": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-08-27\">https://ziglang.org/devlog/2026/#2026-08-27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499095\">https://news.ycombinator.com/item?id=49499095</a></p>\n<p>Points: 62</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-08-27\">https://ziglang.org/devlog/2026/#2026-08-27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499095\">https://news.ycombinator.com/item?id=49499095</a></p>\n<p>Points: 92</p>\n<p># Comments: 65</p>",
         "pubDate": "Sun, 30 Aug 2026 14:41:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49499095"
       },
       {
-        "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-        "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-        "description": "<p>Article URL: <a href=\"https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/\">https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498978\">https://news.ycombinator.com/item?id=49498978</a></p>\n<p>Points: 186</p>\n<p># Comments: 214</p>",
-        "pubDate": "Sun, 30 Aug 2026 14:29:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49498978"
-      },
-      {
-        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-        "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-        "description": "<p>Article URL: <a href=\"https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/\">https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498787\">https://news.ycombinator.com/item?id=49498787</a></p>\n<p>Points: 148</p>\n<p># Comments: 76</p>",
-        "pubDate": "Sun, 30 Aug 2026 14:06:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49498787"
-      },
-      {
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "link": "https://github.com/anthropics/claude-code/issues/66504",
-        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/66504\">https://github.com/anthropics/claude-code/issues/66504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498201\">https://news.ycombinator.com/item?id=49498201</a></p>\n<p>Points: 158</p>\n<p># Comments: 183</p>",
-        "pubDate": "Sun, 30 Aug 2026 12:50:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49498201"
-      },
-      {
-        "title": "Automating Immersive Reading",
-        "link": "https://smoores.dev/post/automating_immersive_reading/",
-        "description": "<p>Article URL: <a href=\"https://smoores.dev/post/automating_immersive_reading/\">https://smoores.dev/post/automating_immersive_reading/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497854\">https://news.ycombinator.com/item?id=49497854</a></p>\n<p>Points: 75</p>\n<p># Comments: 23</p>",
-        "pubDate": "Sun, 30 Aug 2026 11:46:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497854"
-      },
-      {
-        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-        "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-        "description": "<p>Article URL: <a href=\"https://www.muppetlabs.com/~breadbox/software/windows.html\">https://www.muppetlabs.com/~breadbox/software/windows.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497819\">https://news.ycombinator.com/item?id=49497819</a></p>\n<p>Points: 44</p>\n<p># Comments: 11</p>",
-        "pubDate": "Sun, 30 Aug 2026 11:41:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497819"
-      },
-      {
         "title": "Hacking IKEA Furniture",
         "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-        "description": "<p>Article URL: <a href=\"https://greenlightning.eu/diy/hacking-ikea-furniture/\">https://greenlightning.eu/diy/hacking-ikea-furniture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497810\">https://news.ycombinator.com/item?id=49497810</a></p>\n<p>Points: 222</p>\n<p># Comments: 131</p>",
+        "description": "<p>Article URL: <a href=\"https://greenlightning.eu/diy/hacking-ikea-furniture/\">https://greenlightning.eu/diy/hacking-ikea-furniture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497810\">https://news.ycombinator.com/item?id=49497810</a></p>\n<p>Points: 282</p>\n<p># Comments: 194</p>",
         "pubDate": "Sun, 30 Aug 2026 11:39:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=49497810"
       },
       {
-        "title": "Building my own network stack",
-        "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-        "description": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/dn42-2-dnet/\">https://blog.lyc8503.net/en/post/dn42-2-dnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497200\">https://news.ycombinator.com/item?id=49497200</a></p>\n<p>Points: 90</p>\n<p># Comments: 70</p>",
-        "pubDate": "Sun, 30 Aug 2026 09:52:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49497200"
-      },
-      {
         "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
         "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-        "description": "<p>Article URL: <a href=\"https://www.qubes-os.org/news/2026/08/29/qsb-118/\">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496918\">https://news.ycombinator.com/item?id=49496918</a></p>\n<p>Points: 184</p>\n<p># Comments: 75</p>",
+        "description": "<p>Article URL: <a href=\"https://www.qubes-os.org/news/2026/08/29/qsb-118/\">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496918\">https://news.ycombinator.com/item?id=49496918</a></p>\n<p>Points: 216</p>\n<p># Comments: 88</p>",
         "pubDate": "Sun, 30 Aug 2026 08:51:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49496918"
       },
       {
         "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
         "link": "https://arxiv.org/abs/1804.07389",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 179</p>\n<p># Comments: 51</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 198</p>\n<p># Comments: 58</p>",
         "pubDate": "Sun, 30 Aug 2026 08:23:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49496782"
-      },
-      {
-        "title": "Hy4 preview",
-        "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "description": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492632\">https://news.ycombinator.com/item?id=49492632</a></p>\n<p>Points: 373</p>\n<p># Comments: 235</p>",
-        "pubDate": "Sat, 29 Aug 2026 19:33:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49492632"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-08-30T20:56:54.707Z",
+  "lastUpdated": "2026-08-31T05:17:47.349Z",
   "stats": {
     "feeds": 2,
     "articles": 20
