@@ -5,45 +5,101 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-01T11:32:26.988Z"
+      "lastFetched": "2026-09-01T16:29:41.896Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-01T11:32:41.843Z"
+      "lastFetched": "2026-09-01T16:30:02.220Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Lake Ontario (\"Lake America\")",
-        "link": "https://community.openstreetmap.org/t/lake-ontario-lake-america/146975",
-        "description": "<p>Article URL: <a href=\"https://community.openstreetmap.org/t/lake-ontario-lake-america/146975\">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520270\">https://news.ycombinator.com/item?id=49520270</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 01 Sep 2026 10:56:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49520270"
+        "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+        "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+        "description": "<p>Article URL: <a href=\"https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\">https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523754\">https://news.ycombinator.com/item?id=49523754</a></p>\n<p>Points: 40</p>\n<p># Comments: 8</p>",
+        "pubDate": "Tue, 01 Sep 2026 15:55:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49523754"
+      },
+      {
+        "title": "Keenable SELECT: an agent that searches the web in SQL",
+        "link": "https://keenableai.github.io/select-showcase/",
+        "description": "<p>Article URL: <a href=\"https://keenableai.github.io/select-showcase/\">https://keenableai.github.io/select-showcase/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523473\">https://news.ycombinator.com/item?id=49523473</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 01 Sep 2026 15:41:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49523473"
+      },
+      {
+        "title": "Ambient CSS v3 – Blender meets CSS",
+        "link": "https://ambientcss.vercel.app/",
+        "description": "<p>Article URL: <a href=\"https://ambientcss.vercel.app/\">https://ambientcss.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523387\">https://news.ycombinator.com/item?id=49523387</a></p>\n<p>Points: 32</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 01 Sep 2026 15:35:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49523387"
+      },
+      {
+        "title": "A browser-based viewer for Office Open XML documents",
+        "link": "https://ooxml.silurus.dev/",
+        "description": "<p>Article URL: <a href=\"https://ooxml.silurus.dev/\">https://ooxml.silurus.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523361\">https://news.ycombinator.com/item?id=49523361</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 01 Sep 2026 15:33:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49523361"
+      },
+      {
+        "title": "EFF to Governor Newsom: Veto California's AB 1709",
+        "link": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
+        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709\">https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522954\">https://news.ycombinator.com/item?id=49522954</a></p>\n<p>Points: 67</p>\n<p># Comments: 51</p>",
+        "pubDate": "Tue, 01 Sep 2026 15:04:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49522954"
+      },
+      {
+        "title": "Ask HN: Who is hiring? (September 2026)",
+        "link": "https://news.ycombinator.com/item?id=49522897",
+        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=49522896\">https://news.ycombinator.com/item?id=49522896</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522897\">https://news.ycombinator.com/item?id=49522897</a></p>\n<p>Points: 71</p>\n<p># Comments: 58</p>",
+        "pubDate": "Tue, 01 Sep 2026 15:01:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49522897"
+      },
+      {
+        "title": "State of Open Models: Summer 2026 Observations",
+        "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/blog/state-of-open-models-summer-2026\">https://huggingface.co/blog/state-of-open-models-summer-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522816\">https://news.ycombinator.com/item?id=49522816</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 01 Sep 2026 14:55:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49522816"
+      },
+      {
+        "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+        "link": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+        "description": "<p>Article URL: <a href=\"https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept\">https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522374\">https://news.ycombinator.com/item?id=49522374</a></p>\n<p>Points: 59</p>\n<p># Comments: 33</p>",
+        "pubDate": "Tue, 01 Sep 2026 14:19:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49522374"
+      },
+      {
+        "title": "Introducing Ad Blocker for Firefox on iOS",
+        "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+        "description": "<p>Article URL: <a href=\"https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/\">https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521973\">https://news.ycombinator.com/item?id=49521973</a></p>\n<p>Points: 94</p>\n<p># Comments: 43</p>",
+        "pubDate": "Tue, 01 Sep 2026 13:46:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49521973"
+      },
+      {
+        "title": "Io_uring Without Readahead",
+        "link": "https://frn.sh/io-uring/",
+        "description": "<p>Article URL: <a href=\"https://frn.sh/io-uring/\">https://frn.sh/io-uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521623\">https://news.ycombinator.com/item?id=49521623</a></p>\n<p>Points: 62</p>\n<p># Comments: 11</p>",
+        "pubDate": "Tue, 01 Sep 2026 13:19:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49521623"
       },
       {
         "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
         "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
-        "description": "<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 134</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 576</p>\n<p># Comments: 152</p>",
         "pubDate": "Tue, 01 Sep 2026 10:11:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49520022"
       },
       {
         "title": "44% on ARC-AGI-1 in 67 cents",
         "link": "https://mvakde.github.io/blog/44-on-arc-1/",
-        "description": "<p>Article URL: <a href=\"https://mvakde.github.io/blog/44-on-arc-1/\">https://mvakde.github.io/blog/44-on-arc-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519939\">https://news.ycombinator.com/item?id=49519939</a></p>\n<p>Points: 57</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://mvakde.github.io/blog/44-on-arc-1/\">https://mvakde.github.io/blog/44-on-arc-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519939\">https://news.ycombinator.com/item?id=49519939</a></p>\n<p>Points: 263</p>\n<p># Comments: 74</p>",
         "pubDate": "Tue, 01 Sep 2026 09:52:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49519939"
-      },
-      {
-        "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
-        "link": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
-        "description": "<p>Article URL: <a href=\"https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/\">https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519902\">https://news.ycombinator.com/item?id=49519902</a></p>\n<p>Points: 15</p>\n<p># Comments: 18</p>",
-        "pubDate": "Tue, 01 Sep 2026 09:46:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49519902"
       },
       {
         "title": "CollectWise (YC F24) Is Hiring",
@@ -55,112 +111,56 @@
       {
         "title": "Restroom Archive",
         "link": "https://restroomarchive.com",
-        "description": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 150</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 280</p>\n<p># Comments: 67</p>",
         "pubDate": "Tue, 01 Sep 2026 03:23:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49517624"
       },
       {
         "title": "GPU World",
         "link": "https://www.gpuworld.org/",
-        "description": "<p>Article URL: <a href=\"https://www.gpuworld.org/\">https://www.gpuworld.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517584\">https://news.ycombinator.com/item?id=49517584</a></p>\n<p>Points: 267</p>\n<p># Comments: 143</p>",
+        "description": "<p>Article URL: <a href=\"https://www.gpuworld.org/\">https://www.gpuworld.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517584\">https://news.ycombinator.com/item?id=49517584</a></p>\n<p>Points: 352</p>\n<p># Comments: 213</p>",
         "pubDate": "Tue, 01 Sep 2026 03:16:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49517584"
       },
       {
         "title": "Fastpotify",
         "link": "https://fastpotify.rocks/",
-        "description": "<p>Article URL: <a href=\"https://fastpotify.rocks/\">https://fastpotify.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517448\">https://news.ycombinator.com/item?id=49517448</a></p>\n<p>Points: 463</p>\n<p># Comments: 246</p>",
+        "description": "<p>Article URL: <a href=\"https://fastpotify.rocks/\">https://fastpotify.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517448\">https://news.ycombinator.com/item?id=49517448</a></p>\n<p>Points: 682</p>\n<p># Comments: 440</p>",
         "pubDate": "Tue, 01 Sep 2026 02:52:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=49517448"
       },
       {
         "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
         "link": "https://github.com/fregacmols/RotaryCell",
-        "description": "<p>Article URL: <a href=\"https://github.com/fregacmols/RotaryCell\">https://github.com/fregacmols/RotaryCell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517297\">https://news.ycombinator.com/item?id=49517297</a></p>\n<p>Points: 78</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/fregacmols/RotaryCell\">https://github.com/fregacmols/RotaryCell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517297\">https://news.ycombinator.com/item?id=49517297</a></p>\n<p>Points: 132</p>\n<p># Comments: 38</p>",
         "pubDate": "Tue, 01 Sep 2026 02:29:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49517297"
       },
       {
-        "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-        "link": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-        "description": "<p>Article URL: <a href=\"https://www.dolthub.com/blog/2026-08-31-doltlite-beta/\">https://www.dolthub.com/blog/2026-08-31-doltlite-beta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516848\">https://news.ycombinator.com/item?id=49516848</a></p>\n<p>Points: 51</p>\n<p># Comments: 36</p>",
-        "pubDate": "Tue, 01 Sep 2026 01:25:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49516848"
-      },
-      {
-        "title": "Evidence of Fraud in an Influential Study About Procrastination",
-        "link": "https://datacolada.org/138",
-        "description": "<p>Article URL: <a href=\"https://datacolada.org/138\">https://datacolada.org/138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516199\">https://news.ycombinator.com/item?id=49516199</a></p>\n<p>Points: 258</p>\n<p># Comments: 176</p>",
-        "pubDate": "Mon, 31 Aug 2026 23:45:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49516199"
+        "title": "A Genealogy of Freudenthal's Lincos",
+        "link": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
+        "description": "<p>Article URL: <a href=\"https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/\">https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516184\">https://news.ycombinator.com/item?id=49516184</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 31 Aug 2026 23:43:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49516184"
       },
       {
         "title": "Tmp.0ut Volume 5",
         "link": "https://tmpout.sh/5/",
-        "description": "<p>Article URL: <a href=\"https://tmpout.sh/5/\">https://tmpout.sh/5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516059\">https://news.ycombinator.com/item?id=49516059</a></p>\n<p>Points: 87</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://tmpout.sh/5/\">https://tmpout.sh/5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516059\">https://news.ycombinator.com/item?id=49516059</a></p>\n<p>Points: 157</p>\n<p># Comments: 34</p>",
         "pubDate": "Mon, 31 Aug 2026 23:26:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49516059"
       },
       {
         "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
         "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-        "description": "<p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollow\">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512975\">https://news.ycombinator.com/item?id=49512975</a></p>\n<p>Points: 338</p>\n<p># Comments: 45</p>",
+        "description": "<p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollow\">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512975\">https://news.ycombinator.com/item?id=49512975</a></p>\n<p>Points: 375</p>\n<p># Comments: 57</p>",
         "pubDate": "Mon, 31 Aug 2026 18:21:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49512975"
-      },
-      {
-        "title": "I turned my security cameras into an automatic bird identification system",
-        "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-        "description": "<p>Article URL: <a href=\"https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511856\">https://news.ycombinator.com/item?id=49511856</a></p>\n<p>Points: 521</p>\n<p># Comments: 126</p>",
-        "pubDate": "Mon, 31 Aug 2026 16:47:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49511856"
-      },
-      {
-        "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-        "link": "https://ravynos.com/",
-        "description": "<p>Article URL: <a href=\"https://ravynos.com/\">https://ravynos.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511534\">https://news.ycombinator.com/item?id=49511534</a></p>\n<p>Points: 204</p>\n<p># Comments: 115</p>",
-        "pubDate": "Mon, 31 Aug 2026 16:19:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49511534"
-      },
-      {
-        "title": "Playa Phone",
-        "link": "https://playaphone.com/",
-        "description": "<p>Article URL: <a href=\"https://playaphone.com/\">https://playaphone.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510514\">https://news.ycombinator.com/item?id=49510514</a></p>\n<p>Points: 647</p>\n<p># Comments: 212</p>",
-        "pubDate": "Mon, 31 Aug 2026 14:52:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49510514"
-      },
-      {
-        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-        "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-        "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508982\">https://news.ycombinator.com/item?id=49508982</a></p>\n<p>Points: 422</p>\n<p># Comments: 475</p>",
-        "pubDate": "Mon, 31 Aug 2026 12:41:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49508982"
-      },
-      {
-        "title": "I think the military commissary's freezers were hacked",
-        "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-        "description": "<p>Article URL: <a href=\"https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary\">https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508506\">https://news.ycombinator.com/item?id=49508506</a></p>\n<p>Points: 362</p>\n<p># Comments: 199</p>",
-        "pubDate": "Mon, 31 Aug 2026 11:45:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49508506"
-      },
-      {
-        "title": "Roget's Thesaurus",
-        "link": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
-        "description": "<p>Article URL: <a href=\"https://artflsrv04.uchicago.edu/roget-thesaurus/\">https://artflsrv04.uchicago.edu/roget-thesaurus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505584\">https://news.ycombinator.com/item?id=49505584</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 31 Aug 2026 04:29:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49505584"
-      },
-      {
-        "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-        "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OOMx2BHHWtE\">https://www.youtube.com/watch?v=OOMx2BHHWtE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503521\">https://news.ycombinator.com/item?id=49503521</a></p>\n<p>Points: 448</p>\n<p># Comments: 63</p>",
-        "pubDate": "Sun, 30 Aug 2026 22:37:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49503521"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-01T11:32:41.843Z",
+  "lastUpdated": "2026-09-01T16:30:02.220Z",
   "stats": {
     "feeds": 2,
     "articles": 20
