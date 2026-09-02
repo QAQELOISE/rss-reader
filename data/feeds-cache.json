@@ -5,80 +5,136 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-01T20:56:19.046Z"
+      "lastFetched": "2026-09-02T04:12:43.935Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-01T20:56:27.387Z"
+      "lastFetched": "2026-09-02T04:12:50.520Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-        "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-        "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/\">https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527573\">https://news.ycombinator.com/item?id=49527573</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 01 Sep 2026 20:19:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49527573"
+        "title": "WebFPGA",
+        "link": "https://webfpga.io/",
+        "description": "<p>Article URL: <a href=\"https://webfpga.io/\">https://webfpga.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531525\">https://news.ycombinator.com/item?id=49531525</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 02 Sep 2026 03:54:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49531525"
+      },
+      {
+        "title": "True Rate of Unemployment",
+        "link": "https://www.lisep.org/tru",
+        "description": "<p>Article URL: <a href=\"https://www.lisep.org/tru\">https://www.lisep.org/tru</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49530989\">https://news.ycombinator.com/item?id=49530989</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 02 Sep 2026 02:21:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49530989"
+      },
+      {
+        "title": "Anthropic banned me for \"suspicious signals\"",
+        "link": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+        "description": "<p>Article URL: <a href=\"https://kix.codes/anthropic-banned-me-for-suspicious-signals/\">https://kix.codes/anthropic-banned-me-for-suspicious-signals/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49530298\">https://news.ycombinator.com/item?id=49530298</a></p>\n<p>Points: 25</p>\n<p># Comments: 13</p>",
+        "pubDate": "Wed, 02 Sep 2026 00:38:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49530298"
+      },
+      {
+        "title": "The efficient frontier of LLM inference",
+        "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "description": "<p>Article URL: <a href=\"https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529898\">https://news.ycombinator.com/item?id=49529898</a></p>\n<p>Points: 62</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 01 Sep 2026 23:48:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49529898"
+      },
+      {
+        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529621\">https://news.ycombinator.com/item?id=49529621</a></p>\n<p>Points: 71</p>\n<p># Comments: 16</p>",
+        "pubDate": "Tue, 01 Sep 2026 23:17:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49529621"
+      },
+      {
+        "title": "My local model setup on an M4 Pro Mac Mini",
+        "link": "https://lws.io/blog/my-local-model-setup/",
+        "description": "<p>Article URL: <a href=\"https://lws.io/blog/my-local-model-setup/\">https://lws.io/blog/my-local-model-setup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529132\">https://news.ycombinator.com/item?id=49529132</a></p>\n<p>Points: 100</p>\n<p># Comments: 50</p>",
+        "pubDate": "Tue, 01 Sep 2026 22:30:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49529132"
+      },
+      {
+        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "link": "https://masteranza.github.io/weedout/",
+        "description": "<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href=\"https://github.com/masteranza/weedout-for-youtube\" rel=\"nofollow\">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528895\">https://news.ycombinator.com/item?id=49528895</a></p>\n<p>Points: 82</p>\n<p># Comments: 25</p>",
+        "pubDate": "Tue, 01 Sep 2026 22:06:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49528895"
+      },
+      {
+        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "link": "https://hnmatchmaker.com/",
+        "description": "<p>Hi!<p>Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.<p>If you've submitted a post to this month's 'Who Wants to Be Hired?\", you can find your matching job listings at <a href=\"https://hnmatchmaker.com/user/:user_name\" rel=\"nofollow\">https://hnmatchmaker.com/user/:user_name</a>, for example <a href=\"https://hnmatchmaker.com/user/G4Vi\" rel=\"nofollow\">https://hnmatchmaker.com/user/G4Vi</a><p>---<p>Some observations when looking at the matches pair up right now:<p>Poke around, let me know what you think!<p>Ultimately, I hope this is actually helpful to some folks.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528057\">https://news.ycombinator.com/item?id=49528057</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
+        "pubDate": "Tue, 01 Sep 2026 20:53:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49528057"
+      },
+      {
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "link": "https://openai.com/index/path-to-astra/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/path-to-astra/\">https://openai.com/index/path-to-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527595\">https://news.ycombinator.com/item?id=49527595</a></p>\n<p>Points: 104</p>\n<p># Comments: 48</p>",
+        "pubDate": "Tue, 01 Sep 2026 20:20:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49527595"
       },
       {
         "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
         "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Sep/1/codex-libreoffice/\">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527396\">https://news.ycombinator.com/item?id=49527396</a></p>\n<p>Points: 43</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Sep/1/codex-libreoffice/\">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527396\">https://news.ycombinator.com/item?id=49527396</a></p>\n<p>Points: 290</p>\n<p># Comments: 128</p>",
         "pubDate": "Tue, 01 Sep 2026 20:07:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49527396"
       },
       {
         "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
         "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-        "description": "<p>Article URL: <a href=\"https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527232\">https://news.ycombinator.com/item?id=49527232</a></p>\n<p>Points: 16</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527232\">https://news.ycombinator.com/item?id=49527232</a></p>\n<p>Points: 100</p>\n<p># Comments: 48</p>",
         "pubDate": "Tue, 01 Sep 2026 19:55:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49527232"
       },
       {
         "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
         "link": "https://danluu.com/zitron/",
-        "description": "<p>Article URL: <a href=\"https://danluu.com/zitron/\">https://danluu.com/zitron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526069\">https://news.ycombinator.com/item?id=49526069</a></p>\n<p>Points: 134</p>\n<p># Comments: 143</p>",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/zitron/\">https://danluu.com/zitron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526069\">https://news.ycombinator.com/item?id=49526069</a></p>\n<p>Points: 507</p>\n<p># Comments: 595</p>",
         "pubDate": "Tue, 01 Sep 2026 18:35:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49526069"
       },
       {
-        "title": "There Is No AI",
-        "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-        "description": "<p>Article URL: <a href=\"https://wadler.blogspot.com/2026/08/there-is-no-ai.html\">https://wadler.blogspot.com/2026/08/there-is-no-ai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525791\">https://news.ycombinator.com/item?id=49525791</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 01 Sep 2026 18:18:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49525791"
-      },
-      {
         "title": "Claude Fable 5.1 and Claude Mythos 5.1",
         "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "description": "<p>What's new in Claude Fable 5.1\n – <a href=\"https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1\" rel=\"nofollow\">https://platform.claude.com/docs/en/models/fable-5-1/whats-n...</a><p>System Card: <a href=\"https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525378\">https://news.ycombinator.com/item?id=49525378</a></p>\n<p>Points: 600</p>\n<p># Comments: 567</p>",
+        "description": "<p>What's new in Claude Fable 5.1\n – <a href=\"https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1\" rel=\"nofollow\">https://platform.claude.com/docs/en/models/fable-5-1/whats-n...</a><p>System Card: <a href=\"https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525378\">https://news.ycombinator.com/item?id=49525378</a></p>\n<p>Points: 1005</p>\n<p># Comments: 939</p>",
         "pubDate": "Tue, 01 Sep 2026 17:53:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49525378"
       },
       {
         "title": "The creator of Jujutsu has joined ERSC",
         "link": "https://ersc.io/blog/martin-joins-ersc",
-        "description": "<p>Article URL: <a href=\"https://ersc.io/blog/martin-joins-ersc\">https://ersc.io/blog/martin-joins-ersc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525297\">https://news.ycombinator.com/item?id=49525297</a></p>\n<p>Points: 118</p>\n<p># Comments: 103</p>",
+        "description": "<p>Article URL: <a href=\"https://ersc.io/blog/martin-joins-ersc\">https://ersc.io/blog/martin-joins-ersc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525297\">https://news.ycombinator.com/item?id=49525297</a></p>\n<p>Points: 203</p>\n<p># Comments: 155</p>",
         "pubDate": "Tue, 01 Sep 2026 17:46:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49525297"
       },
       {
         "title": "Atlas: A World Model for Spatial Intelligence",
         "link": "https://www.worldlabs.ai/blog/atlas",
-        "description": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/atlas\">https://www.worldlabs.ai/blog/atlas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525160\">https://news.ycombinator.com/item?id=49525160</a></p>\n<p>Points: 76</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/atlas\">https://www.worldlabs.ai/blog/atlas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525160\">https://news.ycombinator.com/item?id=49525160</a></p>\n<p>Points: 173</p>\n<p># Comments: 42</p>",
         "pubDate": "Tue, 01 Sep 2026 17:36:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49525160"
       },
       {
         "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
         "link": "https://www.norirobotics.com/",
-        "description": "<p>Hey HN, I’m Antonio from Nori Robotics (<a href=\"https://norirobotics.com\">https://norirobotics.com</a>). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.<p>I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots.<p>So I built my own. After seven iterations the latest Nori has:<p>* 19 degrees of freedom<p>* Two 7+1 DOF arms with a 1.5 kg payload per arm<p>* A 55 kg telescoping lift<p>* A differential wheeled base<p>* Four 720p, 30 fps RGB cameras<p>* 2D lidar<p>* A dual microphone array with full-duplex voice communication<p>* A 432 Wh battery<p>* A Raspberry Pi 5 with 4 GB RAM (SLAM and safeties are run on board, heavier ACT and VLAs must be run from a computer via LAN or a server via WAN)<p>Getting this under $2,000 was the main engineering challenge. Nori has more than 100 moving and structural parts, so costs add up quickly across actuators, bearings, wiring, power delivery, and assembly. Some main choices we made to get the cost low was using high-ratio servos instead of QDD motors, and using a wheel base instead of legs.<p>We assemble each robot in San Francisco and have designed it to be easy to manufacture and repair (we offer 3D files to print repairs).<p>Our open SDK includes teleoperation and demonstration tools: <a href=\"https://github.com/Nori-Robotics/nori-sdk-py\" rel=\"nofollow\">https://github.com/Nori-Robotics/nori-sdk-py</a><p>We also built a browser-based simulator so you can try it out: <a href=\"https://lab.norirobotics.com/nori/model\">https://lab.norirobotics.com/nori/model</a><p>We’ve shipped our first robot and are building the next batch. Eventually, we want people without robotics experience to teach Nori tasks and share them with other owners.<p>Currently the hardware is already capable of basic cleaning tasks, opening drawers, restocking shelves and pouring beers. Here is a video of Nori doing things: <a href=\"https://youtube.com/shorts/VRfVXHfQvD8\" rel=\"nofollow\">https://youtube.com/shorts/VRfVXHfQvD8</a><p>We make money by selling the hardware for $1,688, with optional paid software on top. Parts of hardware are open source. More details are in our hardware paper: <a href=\"https://doi.org/10.48550/arXiv.2605.16537\" rel=\"nofollow\">https://doi.org/10.48550/arXiv.2605.16537</a><p>If you work in robotics, what would you build with a robot at this price? What would you change about the hardware?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525153\">https://news.ycombinator.com/item?id=49525153</a></p>\n<p>Points: 75</p>\n<p># Comments: 25</p>",
+        "description": "<p>Hey HN, I’m Antonio from Nori Robotics (<a href=\"https://norirobotics.com\">https://norirobotics.com</a>). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.<p>I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots.<p>So I built my own. After seven iterations the latest Nori has:<p>* 19 degrees of freedom<p>* Two 7+1 DOF arms with a 1.5 kg payload per arm<p>* A 55 kg telescoping lift<p>* A differential wheeled base<p>* Four 720p, 30 fps RGB cameras<p>* 2D lidar<p>* A dual microphone array with full-duplex voice communication<p>* A 432 Wh battery<p>* A Raspberry Pi 5 with 4 GB RAM (SLAM and safeties are run on board, heavier ACT and VLAs must be run from a computer via LAN or a server via WAN)<p>Getting this under $2,000 was the main engineering challenge. Nori has more than 100 moving and structural parts, so costs add up quickly across actuators, bearings, wiring, power delivery, and assembly. Some main choices we made to get the cost low was using high-ratio servos instead of QDD motors, and using a wheel base instead of legs.<p>We assemble each robot in San Francisco and have designed it to be easy to manufacture and repair (we offer 3D files to print repairs).<p>Our open SDK includes teleoperation and demonstration tools: <a href=\"https://github.com/Nori-Robotics/nori-sdk-py\" rel=\"nofollow\">https://github.com/Nori-Robotics/nori-sdk-py</a><p>We also built a browser-based simulator so you can try it out: <a href=\"https://lab.norirobotics.com/nori/model\">https://lab.norirobotics.com/nori/model</a><p>We’ve shipped our first robot and are building the next batch. Eventually, we want people without robotics experience to teach Nori tasks and share them with other owners.<p>Currently the hardware is already capable of basic cleaning tasks, opening drawers, restocking shelves and pouring beers. Here is a video of Nori doing things: <a href=\"https://youtube.com/shorts/VRfVXHfQvD8\" rel=\"nofollow\">https://youtube.com/shorts/VRfVXHfQvD8</a><p>We make money by selling the hardware for $1,688, with optional paid software on top. Parts of hardware are open source. More details are in our hardware paper: <a href=\"https://doi.org/10.48550/arXiv.2605.16537\" rel=\"nofollow\">https://doi.org/10.48550/arXiv.2605.16537</a><p>If you work in robotics, what would you build with a robot at this price? What would you change about the hardware?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525153\">https://news.ycombinator.com/item?id=49525153</a></p>\n<p>Points: 124</p>\n<p># Comments: 42</p>",
         "pubDate": "Tue, 01 Sep 2026 17:35:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49525153"
+      },
+      {
+        "title": "Fine, I'll build my own text editor",
+        "link": "https://dbushell.com/2026/09/01/text-editor/",
+        "description": "<p>Article URL: <a href=\"https://dbushell.com/2026/09/01/text-editor/\">https://dbushell.com/2026/09/01/text-editor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524863\">https://news.ycombinator.com/item?id=49524863</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 01 Sep 2026 17:12:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49524863"
       },
       {
         "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
@@ -90,77 +146,21 @@
       {
         "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
         "link": "https://github.com/carloslfu/slotstream",
-        "description": "<p>I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524447\">https://news.ycombinator.com/item?id=49524447</a></p>\n<p>Points: 93</p>\n<p># Comments: 65</p>",
+        "description": "<p>I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524447\">https://news.ycombinator.com/item?id=49524447</a></p>\n<p>Points: 170</p>\n<p># Comments: 90</p>",
         "pubDate": "Tue, 01 Sep 2026 16:42:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49524447"
       },
       {
         "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
         "link": "https://moviescenemap.com/",
-        "description": "<p>Article URL: <a href=\"https://moviescenemap.com/\">https://moviescenemap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524320\">https://news.ycombinator.com/item?id=49524320</a></p>\n<p>Points: 92</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://moviescenemap.com/\">https://moviescenemap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524320\">https://news.ycombinator.com/item?id=49524320</a></p>\n<p>Points: 174</p>\n<p># Comments: 29</p>",
         "pubDate": "Tue, 01 Sep 2026 16:34:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49524320"
-      },
-      {
-        "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-        "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-        "description": "<p>Article URL: <a href=\"https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\">https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523754\">https://news.ycombinator.com/item?id=49523754</a></p>\n<p>Points: 403</p>\n<p># Comments: 158</p>",
-        "pubDate": "Tue, 01 Sep 2026 15:55:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49523754"
-      },
-      {
-        "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-        "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-        "description": "<p>Article URL: <a href=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\">https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523720\">https://news.ycombinator.com/item?id=49523720</a></p>\n<p>Points: 162</p>\n<p># Comments: 139</p>",
-        "pubDate": "Tue, 01 Sep 2026 15:53:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49523720"
-      },
-      {
-        "title": "Ambient CSS v3 – Blender meets CSS",
-        "link": "https://ambientcss.vercel.app/",
-        "description": "<p>Article URL: <a href=\"https://ambientcss.vercel.app/\">https://ambientcss.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523387\">https://news.ycombinator.com/item?id=49523387</a></p>\n<p>Points: 140</p>\n<p># Comments: 54</p>",
-        "pubDate": "Tue, 01 Sep 2026 15:35:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49523387"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (September 2026)",
-        "link": "https://news.ycombinator.com/item?id=49522897",
-        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=49522896\">https://news.ycombinator.com/item?id=49522896</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522897\">https://news.ycombinator.com/item?id=49522897</a></p>\n<p>Points: 155</p>\n<p># Comments: 162</p>",
-        "pubDate": "Tue, 01 Sep 2026 15:01:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49522897"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (September 2026)",
-        "link": "https://news.ycombinator.com/item?id=49522896",
-        "description": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-wants-to-be-hired\" rel=\"nofollow\">https://nthesis.ai/public/hn-wants-to-be-hired</a>, <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522896\">https://news.ycombinator.com/item?id=49522896</a></p>\n<p>Points: 43</p>\n<p># Comments: 176</p>",
-        "pubDate": "Tue, 01 Sep 2026 15:01:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49522896"
-      },
-      {
-        "title": "Introducing Ad Blocker for Firefox on iOS",
-        "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-        "description": "<p>Article URL: <a href=\"https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/\">https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521973\">https://news.ycombinator.com/item?id=49521973</a></p>\n<p>Points: 208</p>\n<p># Comments: 84</p>",
-        "pubDate": "Tue, 01 Sep 2026 13:46:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49521973"
-      },
-      {
-        "title": "Io_uring Without Readahead",
-        "link": "https://frn.sh/io-uring/",
-        "description": "<p>Article URL: <a href=\"https://frn.sh/io-uring/\">https://frn.sh/io-uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521623\">https://news.ycombinator.com/item?id=49521623</a></p>\n<p>Points: 97</p>\n<p># Comments: 30</p>",
-        "pubDate": "Tue, 01 Sep 2026 13:19:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49521623"
-      },
-      {
-        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-        "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
-        "description": "<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 754</p>\n<p># Comments: 213</p>",
-        "pubDate": "Tue, 01 Sep 2026 10:11:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49520022"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-01T20:56:27.387Z",
+  "lastUpdated": "2026-09-02T04:12:50.520Z",
   "stats": {
     "feeds": 2,
     "articles": 20
