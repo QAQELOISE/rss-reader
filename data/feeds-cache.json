@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-02T20:56:02.003Z"
+      "lastFetched": "2026-09-03T04:08:57.572Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-02T20:56:15.484Z"
+      "lastFetched": "2026-09-03T04:09:17.348Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Wk. 6 of Vibecoding an MMO",
+        "link": "https://eldermyr.com/",
+        "description": "<p>Article URL: <a href=\"https://eldermyr.com/\">https://eldermyr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49545547\">https://news.ycombinator.com/item?id=49545547</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 03 Sep 2026 03:13:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49545547"
+      },
+      {
+        "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+        "link": "https://news.ycombinator.com/item?id=49543530",
+        "description": "<p>Hi HN,<p>I’m Lloyd, one of two founders of RonanRx (<a href=\"https://ronanrx.com/\">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.<p>I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.<p>Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.<p>For me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.<p>This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.<p>GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.<p>Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.<p>The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.<p>We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.<p>We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.<p>We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543530\">https://news.ycombinator.com/item?id=49543530</a></p>\n<p>Points: 34</p>\n<p># Comments: 42</p>",
+        "pubDate": "Wed, 02 Sep 2026 22:36:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49543530"
+      },
+      {
+        "title": "Reasons robotics is hard",
+        "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+        "description": "<p>Article URL: <a href=\"https://secondthoughts.ai/p/14-reasons-robotics-is-hard\">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543191\">https://news.ycombinator.com/item?id=49543191</a></p>\n<p>Points: 61</p>\n<p># Comments: 23</p>",
+        "pubDate": "Wed, 02 Sep 2026 22:02:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49543191"
+      },
+      {
+        "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+        "link": "https://nango.dev/careers",
+        "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542486\">https://news.ycombinator.com/item?id=49542486</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 02 Sep 2026 21:00:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49542486"
+      },
+      {
         "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
         "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-        "description": "<p>Article URL: <a href=\"https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf\">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541754\">https://news.ycombinator.com/item?id=49541754</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf\">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541754\">https://news.ycombinator.com/item?id=49541754</a></p>\n<p>Points: 45</p>\n<p># Comments: 30</p>",
         "pubDate": "Wed, 02 Sep 2026 20:08:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49541754"
       },
       {
         "title": "I wanna live an NPC life",
         "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-        "description": "<p>Article URL: <a href=\"https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/\">https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541519\">https://news.ycombinator.com/item?id=49541519</a></p>\n<p>Points: 43</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/\">https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541519\">https://news.ycombinator.com/item?id=49541519</a></p>\n<p>Points: 211</p>\n<p># Comments: 193</p>",
         "pubDate": "Wed, 02 Sep 2026 19:52:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49541519"
       },
       {
-        "title": "AI Agents and the Refactoring That Never Happens",
-        "link": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-        "description": "<p>Article URL: <a href=\"https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/\">https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541496\">https://news.ycombinator.com/item?id=49541496</a></p>\n<p>Points: 14</p>\n<p># Comments: 15</p>",
-        "pubDate": "Wed, 02 Sep 2026 19:51:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49541496"
-      },
-      {
         "title": "Fable 5.1 World Modeling",
         "link": "https://github.com/PhiloLabs/fable51-worlds",
-        "description": "<p>Article URL: <a href=\"https://github.com/PhiloLabs/fable51-worlds\">https://github.com/PhiloLabs/fable51-worlds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541458\">https://news.ycombinator.com/item?id=49541458</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/PhiloLabs/fable51-worlds\">https://github.com/PhiloLabs/fable51-worlds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541458\">https://news.ycombinator.com/item?id=49541458</a></p>\n<p>Points: 160</p>\n<p># Comments: 54</p>",
         "pubDate": "Wed, 02 Sep 2026 19:49:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49541458"
       },
       {
         "title": "Muse Spark 1.3",
         "link": "https://developer.meta.com/ai/models/muse-spark/",
-        "description": "<p>Article URL: <a href=\"https://developer.meta.com/ai/models/muse-spark/\">https://developer.meta.com/ai/models/muse-spark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541256\">https://news.ycombinator.com/item?id=49541256</a></p>\n<p>Points: 156</p>\n<p># Comments: 82</p>",
+        "description": "<p><a href=\"https://research.meta.ai/blog/introducing-muse-spark-1-3\" rel=\"nofollow\">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541256\">https://news.ycombinator.com/item?id=49541256</a></p>\n<p>Points: 439</p>\n<p># Comments: 296</p>",
         "pubDate": "Wed, 02 Sep 2026 19:35:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49541256"
       },
       {
-        "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-        "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-        "description": "<p>Article URL: <a href=\"https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/\">https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540574\">https://news.ycombinator.com/item?id=49540574</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 02 Sep 2026 18:43:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49540574"
-      },
-      {
-        "title": "Qantas Airbus A380 catastrophic engine failure in 2010 (2023)",
+        "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
         "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-        "description": "<p>Article URL: <a href=\"https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7\">https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540565\">https://news.ycombinator.com/item?id=49540565</a></p>\n<p>Points: 25</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7\">https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540565\">https://news.ycombinator.com/item?id=49540565</a></p>\n<p>Points: 93</p>\n<p># Comments: 56</p>",
         "pubDate": "Wed, 02 Sep 2026 18:42:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49540565"
       },
       {
         "title": "Embedded Rust RTOS vs. C RTOS",
         "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-        "description": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/\">https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540415\">https://news.ycombinator.com/item?id=49540415</a></p>\n<p>Points: 29</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/\">https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540415\">https://news.ycombinator.com/item?id=49540415</a></p>\n<p>Points: 67</p>\n<p># Comments: 34</p>",
         "pubDate": "Wed, 02 Sep 2026 18:32:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49540415"
       },
       {
-        "title": "I Don't Have a Smartphone",
-        "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-        "description": "<p>Article URL: <a href=\"https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html\">https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49539872\">https://news.ycombinator.com/item?id=49539872</a></p>\n<p>Points: 169</p>\n<p># Comments: 166</p>",
-        "pubDate": "Wed, 02 Sep 2026 17:51:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49539872"
-      },
-      {
-        "title": "Paint.net 5.2 alpha now runs on Linux",
-        "link": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
-        "description": "<p>Article URL: <a href=\"https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/\">https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49539389\">https://news.ycombinator.com/item?id=49539389</a></p>\n<p>Points: 142</p>\n<p># Comments: 117</p>",
-        "pubDate": "Wed, 02 Sep 2026 17:18:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49539389"
-      },
-      {
-        "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
-        "link": "https://frontierharness.org",
-        "description": "<p>Article URL: <a href=\"https://frontierharness.org\">https://frontierharness.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538490\">https://news.ycombinator.com/item?id=49538490</a></p>\n<p>Points: 58</p>\n<p># Comments: 31</p>",
-        "pubDate": "Wed, 02 Sep 2026 16:14:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49538490"
-      },
-      {
-        "title": "SteamdDB Joins Nexus Mods",
-        "link": "https://www.nexusmods.com/news/15597",
-        "description": "<p>Article URL: <a href=\"https://www.nexusmods.com/news/15597\">https://www.nexusmods.com/news/15597</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49537738\">https://news.ycombinator.com/item?id=49537738</a></p>\n<p>Points: 84</p>\n<p># Comments: 47</p>",
-        "pubDate": "Wed, 02 Sep 2026 15:25:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49537738"
-      },
-      {
         "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-        "description": "<p><a href=\"https://deepmind.google/models/model-cards/gemini-3-8-flash/\" rel=\"nofollow\">https://deepmind.google/models/model-cards/gemini-3-8-flash/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49537553\">https://news.ycombinator.com/item?id=49537553</a></p>\n<p>Points: 675</p>\n<p># Comments: 397</p>",
+        "description": "<p><a href=\"https://deepmind.google/models/model-cards/gemini-3-8-flash/\" rel=\"nofollow\">https://deepmind.google/models/model-cards/gemini-3-8-flash/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49537553\">https://news.ycombinator.com/item?id=49537553</a></p>\n<p>Points: 872</p>\n<p># Comments: 512</p>",
         "pubDate": "Wed, 02 Sep 2026 15:12:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49537553"
       },
       {
         "title": "Google avoids a breakup of its ad tech business",
         "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-        "description": "<p><a href=\"https://archive.ph/rlAbY\" rel=\"nofollow\">https://archive.ph/rlAbY</a><p><a href=\"https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/\" rel=\"nofollow\">https://www.reuters.com/legal/litigation/google-defeats-us-b...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49537131\">https://news.ycombinator.com/item?id=49537131</a></p>\n<p>Points: 112</p>\n<p># Comments: 50</p>",
+        "description": "<p><a href=\"https://archive.ph/rlAbY\" rel=\"nofollow\">https://archive.ph/rlAbY</a><p><a href=\"https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/\" rel=\"nofollow\">https://www.reuters.com/legal/litigation/google-defeats-us-b...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49537131\">https://news.ycombinator.com/item?id=49537131</a></p>\n<p>Points: 297</p>\n<p># Comments: 216</p>",
         "pubDate": "Wed, 02 Sep 2026 14:46:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49537131"
       },
       {
         "title": "Exit the Cave",
         "link": "https://turtlespace.blog/p/exit-the-cave",
-        "description": "<p>Article URL: <a href=\"https://turtlespace.blog/p/exit-the-cave\">https://turtlespace.blog/p/exit-the-cave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536606\">https://news.ycombinator.com/item?id=49536606</a></p>\n<p>Points: 161</p>\n<p># Comments: 42</p>",
+        "description": "<p>Article URL: <a href=\"https://turtlespace.blog/p/exit-the-cave\">https://turtlespace.blog/p/exit-the-cave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536606\">https://news.ycombinator.com/item?id=49536606</a></p>\n<p>Points: 221</p>\n<p># Comments: 81</p>",
         "pubDate": "Wed, 02 Sep 2026 14:16:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49536606"
       },
       {
         "title": "WebLLM: high-performance in-browser LLM inference engine",
         "link": "https://github.com/mlc-ai/web-llm",
-        "description": "<p>Article URL: <a href=\"https://github.com/mlc-ai/web-llm\">https://github.com/mlc-ai/web-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536411\">https://news.ycombinator.com/item?id=49536411</a></p>\n<p>Points: 66</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/mlc-ai/web-llm\">https://github.com/mlc-ai/web-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536411\">https://news.ycombinator.com/item?id=49536411</a></p>\n<p>Points: 94</p>\n<p># Comments: 17</p>",
         "pubDate": "Wed, 02 Sep 2026 14:02:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49536411"
       },
       {
         "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
         "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "description": "<p>Article URL: <a href=\"https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536375\">https://news.ycombinator.com/item?id=49536375</a></p>\n<p>Points: 247</p>\n<p># Comments: 116</p>",
+        "description": "<p>Article URL: <a href=\"https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536375\">https://news.ycombinator.com/item?id=49536375</a></p>\n<p>Points: 330</p>\n<p># Comments: 159</p>",
         "pubDate": "Wed, 02 Sep 2026 13:59:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49536375"
       },
       {
         "title": "Poisson Disk Sampling",
         "link": "https://stripeacross.com/posts/poisson-disk-sampling/",
-        "description": "<p>Article URL: <a href=\"https://stripeacross.com/posts/poisson-disk-sampling/\">https://stripeacross.com/posts/poisson-disk-sampling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536177\">https://news.ycombinator.com/item?id=49536177</a></p>\n<p>Points: 102</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://stripeacross.com/posts/poisson-disk-sampling/\">https://stripeacross.com/posts/poisson-disk-sampling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536177\">https://news.ycombinator.com/item?id=49536177</a></p>\n<p>Points: 136</p>\n<p># Comments: 19</p>",
         "pubDate": "Wed, 02 Sep 2026 13:47:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49536177"
       },
       {
         "title": "Biggest dark matter detector spots a single weird particle",
         "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle\">https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536079\">https://news.ycombinator.com/item?id=49536079</a></p>\n<p>Points: 209</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle\">https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536079\">https://news.ycombinator.com/item?id=49536079</a></p>\n<p>Points: 260</p>\n<p># Comments: 85</p>",
         "pubDate": "Wed, 02 Sep 2026 13:40:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49536079"
       },
       {
-        "title": "A note on subscription prices from LWN",
-        "link": "https://lwn.net/Articles/1090585/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1090585/\">https://lwn.net/Articles/1090585/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49535752\">https://news.ycombinator.com/item?id=49535752</a></p>\n<p>Points: 649</p>\n<p># Comments: 128</p>",
-        "pubDate": "Wed, 02 Sep 2026 13:17:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49535752"
+        "title": "Aging brains blend memories together instead of just forgetting them",
+        "link": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+        "description": "<p>Article URL: <a href=\"https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/\">https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49535548\">https://news.ycombinator.com/item?id=49535548</a></p>\n<p>Points: 228</p>\n<p># Comments: 106</p>",
+        "pubDate": "Wed, 02 Sep 2026 12:59:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49535548"
+      },
+      {
+        "title": "Can I opt out of my input or output data being used for training?",
+        "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "description": "<p>Article URL: <a href=\"https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training\">https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49535284\">https://news.ycombinator.com/item?id=49535284</a></p>\n<p>Points: 390</p>\n<p># Comments: 168</p>",
+        "pubDate": "Wed, 02 Sep 2026 12:30:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49535284"
+      },
+      {
+        "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+        "link": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+        "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/\">https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524428\">https://news.ycombinator.com/item?id=49524428</a></p>\n<p>Points: 163</p>\n<p># Comments: 108</p>",
+        "pubDate": "Tue, 01 Sep 2026 16:41:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49524428"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-02T20:56:15.484Z",
+  "lastUpdated": "2026-09-03T04:09:17.349Z",
   "stats": {
     "feeds": 2,
     "articles": 20
