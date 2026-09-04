@@ -5,66 +5,108 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-04T16:14:00.160Z"
+      "lastFetched": "2026-09-04T20:41:09.801Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-04T16:14:00.293Z"
+      "lastFetched": "2026-09-04T20:41:29.421Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Corporate America Is Getting Hooked on Open-Source A.I",
-        "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html\">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49566137\">https://news.ycombinator.com/item?id=49566137</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
-        "pubDate": "Fri, 04 Sep 2026 15:33:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49566137"
+        "title": "An open DNS recursive service for free security and high privacy",
+        "link": "https://quad9.net/",
+        "description": "<p>Article URL: <a href=\"https://quad9.net/\">https://quad9.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569663\">https://news.ycombinator.com/item?id=49569663</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 04 Sep 2026 20:13:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49569663"
       },
       {
-        "title": "GMails custom domain \"send as\" discontinues January 2027",
-        "link": "https://support.google.com/mail/answer/22370?hl=en",
-        "description": "<p>Article URL: <a href=\"https://support.google.com/mail/answer/22370?hl=en\">https://support.google.com/mail/answer/22370?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565693\">https://news.ycombinator.com/item?id=49565693</a></p>\n<p>Points: 75</p>\n<p># Comments: 59</p>",
-        "pubDate": "Fri, 04 Sep 2026 15:03:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49565693"
+        "title": "Can AI design circuit boards yet?",
+        "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "description": "<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 27</p>\n<p># Comments: 17</p>",
+        "pubDate": "Fri, 04 Sep 2026 19:48:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49569366"
       },
       {
-        "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-        "link": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-        "description": "<p>Article URL: <a href=\"https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/\">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564714\">https://news.ycombinator.com/item?id=49564714</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
-        "pubDate": "Fri, 04 Sep 2026 13:54:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49564714"
+        "title": "Government Rails Site Hit Hours After CVE Patch",
+        "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+        "description": "<p>Article URL: <a href=\"https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\">https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568828\">https://news.ycombinator.com/item?id=49568828</a></p>\n<p>Points: 30</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 04 Sep 2026 19:06:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49568828"
       },
       {
-        "title": "US Military disables ad trackers on troops' phones",
-        "link": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers\">https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564555\">https://news.ycombinator.com/item?id=49564555</a></p>\n<p>Points: 48</p>\n<p># Comments: 22</p>",
-        "pubDate": "Fri, 04 Sep 2026 13:44:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49564555"
+        "title": "Shutting down our public encrypted DNS",
+        "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+        "description": "<p>Article URL: <a href=\"https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568579\">https://news.ycombinator.com/item?id=49568579</a></p>\n<p>Points: 109</p>\n<p># Comments: 24</p>",
+        "pubDate": "Fri, 04 Sep 2026 18:50:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49568579"
+      },
+      {
+        "title": "Formalizing Fermat's Last Theorem",
+        "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "description": "<p><a href=\"https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/\" rel=\"nofollow\">https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568506\">https://news.ycombinator.com/item?id=49568506</a></p>\n<p>Points: 213</p>\n<p># Comments: 120</p>",
+        "pubDate": "Fri, 04 Sep 2026 18:42:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49568506"
+      },
+      {
+        "title": "The Rust React Compiler is now native in Vite",
+        "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+        "description": "<p>Article URL: <a href=\"https://blog.master.dev/react-now-rusted-all-the-way-out/\">https://blog.master.dev/react-now-rusted-all-the-way-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567873\">https://news.ycombinator.com/item?id=49567873</a></p>\n<p>Points: 51</p>\n<p># Comments: 11</p>",
+        "pubDate": "Fri, 04 Sep 2026 17:49:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49567873"
+      },
+      {
+        "title": "Show HN: Open-Source eInk Bike Computer",
+        "link": "https://opentrailpaper.com",
+        "description": "<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https://github.com/RaemondBW/esp32-ant\" rel=\"nofollow\">https://github.com/RaemondBW/esp32-ant</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567437\">https://news.ycombinator.com/item?id=49567437</a></p>\n<p>Points: 146</p>\n<p># Comments: 53</p>",
+        "pubDate": "Fri, 04 Sep 2026 17:18:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49567437"
+      },
+      {
+        "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+        "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+        "description": "<p>Article URL: <a href=\"https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567053\">https://news.ycombinator.com/item?id=49567053</a></p>\n<p>Points: 185</p>\n<p># Comments: 107</p>",
+        "pubDate": "Fri, 04 Sep 2026 16:46:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49567053"
+      },
+      {
+        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+        "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+        "description": "<p>Article URL: <a href=\"https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/\">https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49566788\">https://news.ycombinator.com/item?id=49566788</a></p>\n<p>Points: 44</p>\n<p># Comments: 23</p>",
+        "pubDate": "Fri, 04 Sep 2026 16:24:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49566788"
+      },
+      {
+        "title": "deSEC – Free Secure DNS",
+        "link": "https://desec.io/",
+        "description": "<p>Article URL: <a href=\"https://desec.io/\">https://desec.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49566193\">https://news.ycombinator.com/item?id=49566193</a></p>\n<p>Points: 72</p>\n<p># Comments: 30</p>",
+        "pubDate": "Fri, 04 Sep 2026 15:38:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49566193"
       },
       {
         "title": "IBM Bob",
         "link": "https://bob.ibm.com/",
-        "description": "<p>Article URL: <a href=\"https://bob.ibm.com/\">https://bob.ibm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563851\">https://news.ycombinator.com/item?id=49563851</a></p>\n<p>Points: 102</p>\n<p># Comments: 100</p>",
+        "description": "<p>Article URL: <a href=\"https://bob.ibm.com/\">https://bob.ibm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563851\">https://news.ycombinator.com/item?id=49563851</a></p>\n<p>Points: 182</p>\n<p># Comments: 211</p>",
         "pubDate": "Fri, 04 Sep 2026 12:50:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49563851"
       },
       {
-        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-        "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/\">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563784\">https://news.ycombinator.com/item?id=49563784</a></p>\n<p>Points: 110</p>\n<p># Comments: 90</p>",
-        "pubDate": "Fri, 04 Sep 2026 12:43:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49563784"
+        "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+        "link": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+        "description": "<p>Article URL: <a href=\"https://github.com/hawshemi/lg-c5-webos25-region-change\">https://github.com/hawshemi/lg-c5-webos25-region-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563839\">https://news.ycombinator.com/item?id=49563839</a></p>\n<p>Points: 52</p>\n<p># Comments: 61</p>",
+        "pubDate": "Fri, 04 Sep 2026 12:49:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49563839"
       },
       {
-        "title": "Ok, but Does It Scale?",
-        "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-        "description": "<p>Article URL: <a href=\"https://spacetimedb.com/blog/how-does-spacetime-scale\">https://spacetimedb.com/blog/how-does-spacetime-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563772\">https://news.ycombinator.com/item?id=49563772</a></p>\n<p>Points: 64</p>\n<p># Comments: 35</p>",
-        "pubDate": "Fri, 04 Sep 2026 12:42:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49563772"
+        "title": "How Fairphone built the Fairphone Gen 6+",
+        "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/\">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563784\">https://news.ycombinator.com/item?id=49563784</a></p>\n<p>Points: 176</p>\n<p># Comments: 144</p>",
+        "pubDate": "Fri, 04 Sep 2026 12:43:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49563784"
       },
       {
         "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
@@ -76,91 +118,49 @@
       {
         "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
         "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-        "description": "<p>Article URL: <a href=\"https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\">https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563386\">https://news.ycombinator.com/item?id=49563386</a></p>\n<p>Points: 236</p>\n<p># Comments: 40</p>",
+        "description": "<p>Article URL: <a href=\"https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\">https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563386\">https://news.ycombinator.com/item?id=49563386</a></p>\n<p>Points: 339</p>\n<p># Comments: 70</p>",
         "pubDate": "Fri, 04 Sep 2026 11:59:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49563386"
       },
       {
         "title": "Discovery of a new OpenAI agent message board",
         "link": "https://collusion.wiki/",
-        "description": "<p>Article URL: <a href=\"https://collusion.wiki/\">https://collusion.wiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563355\">https://news.ycombinator.com/item?id=49563355</a></p>\n<p>Points: 692</p>\n<p># Comments: 482</p>",
+        "description": "<p><a href=\"https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/\" rel=\"nofollow\">https://www.reuters.com/world/europe/openai-agents-hijacked-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563355\">https://news.ycombinator.com/item?id=49563355</a></p>\n<p>Points: 1240</p>\n<p># Comments: 1012</p>",
         "pubDate": "Fri, 04 Sep 2026 11:54:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49563355"
       },
       {
-        "title": "Solving the Jane Street Reverse Engineering Challenge",
+        "title": "Solving the Jane Street reverse engineering challenge",
         "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-        "description": "<p>Article URL: <a href=\"https://jestoph.com/2026/09/04/jane-street-challenge.html\">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562657\">https://news.ycombinator.com/item?id=49562657</a></p>\n<p>Points: 248</p>\n<p># Comments: 61</p>",
+        "description": "<p>Article URL: <a href=\"https://jestoph.com/2026/09/04/jane-street-challenge.html\">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562657\">https://news.ycombinator.com/item?id=49562657</a></p>\n<p>Points: 348</p>\n<p># Comments: 79</p>",
         "pubDate": "Fri, 04 Sep 2026 10:17:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49562657"
       },
       {
-        "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-        "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-        "description": "<p>Article URL: <a href=\"http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561320\">https://news.ycombinator.com/item?id=49561320</a></p>\n<p>Points: 441</p>\n<p># Comments: 185</p>",
-        "pubDate": "Fri, 04 Sep 2026 06:47:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49561320"
+        "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+        "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+        "description": "<p>I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.<p>I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even on a Raspberry Pi Zero) both in the terminal or client-side in a browser tab and responds in milliseconds. It is a cynical but very knowledgeable Linux terminal assistant that translates your natural language into shell commands without relying on a single artificial neuron.<p>I had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes and the end of subsidized tokenmaxing. I was curious to see if I could develop from scratch a terminal assistant capable of handling simple natural language requests. I have a bad memory and got used to ask to copilot \"activate the virtual environment\" or similar trivial operations spending a non negligible sum every month. I started thinking, maybe I can do something to make my workflow more efficient? Do I really need trillions of parameters to accomplish those tasks?<p>How it Works<p>When you type a prompt, it goes through a lightweight NLU pipeline written in ~1000 lines of Python that implement the following steps:<p>1. Strip expletives, interjections, encouraging, discouraging and thanking words (remove noise)<p>2. Sentiment analysis<p>3. Exact Match (very fast)<p>4. Template Match (slower)<p>5. Probabilistic Match (even slower)<p>Step 5 relies on:<p>1. IDF (Inverse Document Frequency) to identify rare words.<p>2. BOW (Bag Of Words) to accommodate word inversions.<p>3. IDF weighted Levenshtein to safely handle typos.<p>Permission gating is hardcoded into the dataset and enforced for all potentially destructive commands, so it's inherently safer than letting an unpredictable LLM run wild on your machine.<p>- TERMy in operation: <a href=\"https://www.youtube.com/watch?v=qeIp0xePLBg\" rel=\"nofollow\">https://www.youtube.com/watch?v=qeIp0xePLBg</a><p>- Variance and typo tolerance: <a href=\"https://www.youtube.com/watch?v=tQvGDk6fkk0\" rel=\"nofollow\">https://www.youtube.com/watch?v=tQvGDk6fkk0</a><p>- Copilot integration: <a href=\"https://www.youtube.com/watch?v=Wzzouhq2a8A\" rel=\"nofollow\">https://www.youtube.com/watch?v=Wzzouhq2a8A</a><p>- Advanced features: <a href=\"https://www.youtube.com/watch?v=qeIp0xePLBg\" rel=\"nofollow\">https://www.youtube.com/watch?v=qeIp0xePLBg</a><p>- Source Code: <a href=\"https://github.com/gioblu/NPC-Forge\" rel=\"nofollow\">https://github.com/gioblu/NPC-Forge</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562219\">https://news.ycombinator.com/item?id=49562219</a></p>\n<p>Points: 51</p>\n<p># Comments: 22</p>",
+        "pubDate": "Fri, 04 Sep 2026 09:03:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49562219"
       },
       {
-        "title": "Project Xanadu: Even More Hindsight (2025)",
-        "link": "https://gwern.net/xanadu",
-        "description": "<p>Article URL: <a href=\"https://gwern.net/xanadu\">https://gwern.net/xanadu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559522\">https://news.ycombinator.com/item?id=49559522</a></p>\n<p>Points: 109</p>\n<p># Comments: 32</p>",
-        "pubDate": "Fri, 04 Sep 2026 01:45:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49559522"
-      },
-      {
-        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-        "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-        "description": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 274</p>\n<p># Comments: 128</p>",
-        "pubDate": "Thu, 03 Sep 2026 21:20:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49557206"
+        "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+        "link": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+        "description": "<p>Article URL: <a href=\"https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express\">https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555131\">https://news.ycombinator.com/item?id=49555131</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 03 Sep 2026 19:10:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49555131"
       },
       {
         "title": "GPT-6 Astra",
         "link": "https://openai.com/index/gpt-6-astra/",
-        "description": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI's GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https://news.ycombinator.com/item?id=49556147\">https://news.ycombinator.com/item?id=49556147</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554643\">https://news.ycombinator.com/item?id=49554643</a></p>\n<p>Points: 2019</p>\n<p># Comments: 1838</p>",
+        "description": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI's GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https://news.ycombinator.com/item?id=49556147\">https://news.ycombinator.com/item?id=49556147</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554643\">https://news.ycombinator.com/item?id=49554643</a></p>\n<p>Points: 2123</p>\n<p># Comments: 1928</p>",
         "pubDate": "Thu, 03 Sep 2026 18:41:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49554643"
-      },
-      {
-        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-        "link": "https://inference-docs.cerebras.ai/models/overview",
-        "description": "<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 641</p>\n<p># Comments: 211</p>",
-        "pubDate": "Thu, 03 Sep 2026 18:32:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49554520"
-      },
-      {
-        "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-        "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-        "description": "<p>Article URL: <a href=\"https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california\">https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49552572\">https://news.ycombinator.com/item?id=49552572</a></p>\n<p>Points: 335</p>\n<p># Comments: 107</p>",
-        "pubDate": "Thu, 03 Sep 2026 16:21:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49552572"
-      },
-      {
-        "title": "K2 Horizon: A connected fleet of six open models",
-        "link": "https://ifm.ai/blog/k2/",
-        "description": "<p>Article URL: <a href=\"https://ifm.ai/blog/k2/\">https://ifm.ai/blog/k2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551760\">https://news.ycombinator.com/item?id=49551760</a></p>\n<p>Points: 321</p>\n<p># Comments: 118</p>",
-        "pubDate": "Thu, 03 Sep 2026 15:36:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49551760"
-      },
-      {
-        "title": ".name Termination",
-        "link": "https://neil.fraser.name/news/2026/09/03/",
-        "description": "<p>Article URL: <a href=\"https://neil.fraser.name/news/2026/09/03/\">https://neil.fraser.name/news/2026/09/03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550772\">https://news.ycombinator.com/item?id=49550772</a></p>\n<p>Points: 2064</p>\n<p># Comments: 505</p>",
-        "pubDate": "Thu, 03 Sep 2026 14:54:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49550772"
-      },
-      {
-        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-        "description": "<p>These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation.<p>\"Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne  which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.\"<p>Please post any questions. I am also releasing the original game for free.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550375\">https://news.ycombinator.com/item?id=49550375</a></p>\n<p>Points: 342</p>\n<p># Comments: 116</p>",
-        "pubDate": "Thu, 03 Sep 2026 14:28:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49550375"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-04T16:14:00.293Z",
+  "lastUpdated": "2026-09-04T20:41:29.421Z",
   "stats": {
     "feeds": 2,
     "articles": 20
