@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-07T04:19:54.437Z"
+      "lastFetched": "2026-09-07T12:16:57.080Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-07T04:20:00.468Z"
+      "lastFetched": "2026-09-07T12:17:16.753Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+        "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+        "description": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532\">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49597189\">https://news.ycombinator.com/item?id=49597189</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 07 Sep 2026 11:46:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49597189"
+      },
+      {
+        "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+        "link": "https://news.ycombinator.com/item?id=49596976",
+        "description": "<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \"save:false\", and the marker then appeared verbatim in the HTML served from the generated \"*.codepen.dev preview\". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596976\">https://news.ycombinator.com/item?id=49596976</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+        "pubDate": "Mon, 07 Sep 2026 11:22:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49596976"
+      },
+      {
+        "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+        "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+        "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/\">https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596629\">https://news.ycombinator.com/item?id=49596629</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 07 Sep 2026 10:41:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49596629"
+      },
+      {
+        "title": "Impedance Matching (2017)",
+        "link": "https://www.edge.org/response-detail/27238",
+        "description": "<p>Article URL: <a href=\"https://www.edge.org/response-detail/27238\">https://www.edge.org/response-detail/27238</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596274\">https://news.ycombinator.com/item?id=49596274</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 07 Sep 2026 09:52:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49596274"
+      },
+      {
+        "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+        "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+        "description": "<p>Article URL: <a href=\"https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/\">https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596119\">https://news.ycombinator.com/item?id=49596119</a></p>\n<p>Points: 90</p>\n<p># Comments: 43</p>",
+        "pubDate": "Mon, 07 Sep 2026 09:33:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49596119"
+      },
+      {
+        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+        "link": "https://mathathonchallenge.com/index.html",
+        "description": "<p>Article URL: <a href=\"https://mathathonchallenge.com/index.html\">https://mathathonchallenge.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596055\">https://news.ycombinator.com/item?id=49596055</a></p>\n<p>Points: 42</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 07 Sep 2026 09:26:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49596055"
+      },
+      {
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "description": "<p>Article URL: <a href=\"https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus\">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596054\">https://news.ycombinator.com/item?id=49596054</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
+        "pubDate": "Mon, 07 Sep 2026 09:26:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49596054"
+      },
+      {
+        "title": "Live map of public transport in Belgium",
+        "link": "https://openbaarvervoerbelgie.be/",
+        "description": "<p>Article URL: <a href=\"https://openbaarvervoerbelgie.be/\">https://openbaarvervoerbelgie.be/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49595865\">https://news.ycombinator.com/item?id=49595865</a></p>\n<p>Points: 74</p>\n<p># Comments: 24</p>",
+        "pubDate": "Mon, 07 Sep 2026 09:02:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49595865"
+      },
+      {
+        "title": "Programming is Art",
+        "link": "https://orchidfiles.com/programming-is-art/",
+        "description": "<p>Article URL: <a href=\"https://orchidfiles.com/programming-is-art/\">https://orchidfiles.com/programming-is-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49595360\">https://news.ycombinator.com/item?id=49595360</a></p>\n<p>Points: 99</p>\n<p># Comments: 105</p>",
+        "pubDate": "Mon, 07 Sep 2026 08:05:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49595360"
+      },
+      {
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+        "description": "<p>Article URL: <a href=\"https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\">https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594878\">https://news.ycombinator.com/item?id=49594878</a></p>\n<p>Points: 325</p>\n<p># Comments: 182</p>",
+        "pubDate": "Mon, 07 Sep 2026 07:03:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49594878"
+      },
+      {
+        "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+        "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+        "description": "<p>Article URL: <a href=\"https://itsfoss.com/news/switzerland-replace-microssoft-pilot/\">https://itsfoss.com/news/switzerland-replace-microssoft-pilot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594251\">https://news.ycombinator.com/item?id=49594251</a></p>\n<p>Points: 212</p>\n<p># Comments: 174</p>",
+        "pubDate": "Mon, 07 Sep 2026 05:33:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49594251"
+      },
+      {
+        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "link": "https://github.com/timgordontg/engrim",
+        "description": "<p>Article URL: <a href=\"https://github.com/timgordontg/engrim\">https://github.com/timgordontg/engrim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594008\">https://news.ycombinator.com/item?id=49594008</a></p>\n<p>Points: 48</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 07 Sep 2026 04:49:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49594008"
+      },
+      {
+        "title": "TiVo to charge money for skipping commercials in your own recordings",
+        "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+        "description": "<p>Article URL: <a href=\"https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/\">https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593971\">https://news.ycombinator.com/item?id=49593971</a></p>\n<p>Points: 107</p>\n<p># Comments: 59</p>",
+        "pubDate": "Mon, 07 Sep 2026 04:41:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49593971"
+      },
+      {
+        "title": "Keep Our Servers Running",
         "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 50</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 588</p>\n<p># Comments: 131</p>",
         "pubDate": "Mon, 07 Sep 2026 03:29:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49593563"
       },
       {
-        "title": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
-        "link": "https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/",
-        "description": "<p>Article URL: <a href=\"https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/\">https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593410\">https://news.ycombinator.com/item?id=49593410</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 07 Sep 2026 03:06:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49593410"
+        "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+        "link": "https://rfd.shared.oxide.computer/rfd/0301",
+        "description": "<p>Article URL: <a href=\"https://rfd.shared.oxide.computer/rfd/0301\">https://rfd.shared.oxide.computer/rfd/0301</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593066\">https://news.ycombinator.com/item?id=49593066</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 07 Sep 2026 02:14:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49593066"
       },
       {
         "title": "Show HN: GET Together – A social network where you don't need POST to Post",
         "link": "https://gettogether.dev",
-        "description": "<p>Article URL: <a href=\"https://gettogether.dev\">https://gettogether.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592840\">https://news.ycombinator.com/item?id=49592840</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://gettogether.dev\">https://gettogether.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592840\">https://news.ycombinator.com/item?id=49592840</a></p>\n<p>Points: 73</p>\n<p># Comments: 32</p>",
         "pubDate": "Mon, 07 Sep 2026 01:41:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49592840"
       },
       {
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "link": "https://github.com/Staatsgeheim/MathKernel",
-        "description": "<p>Article URL: <a href=\"https://github.com/Staatsgeheim/MathKernel\">https://github.com/Staatsgeheim/MathKernel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592366\">https://news.ycombinator.com/item?id=49592366</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
-        "pubDate": "Mon, 07 Sep 2026 00:21:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49592366"
-      },
-      {
         "title": "Making a Python interpreter in 1024 bytes",
         "link": "https://austinhenley.com/blog/python1024.html",
-        "description": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 140</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 251</p>\n<p># Comments: 88</p>",
         "pubDate": "Sun, 06 Sep 2026 23:14:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49591876"
       },
       {
-        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-        "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-        "description": "<p><a href=\"https://xcancel.com/Liquid_BTC/status/2096696272447218108\" rel=\"nofollow\">https://xcancel.com/Liquid_BTC/status/2096696272447218108</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591672\">https://news.ycombinator.com/item?id=49591672</a></p>\n<p>Points: 91</p>\n<p># Comments: 54</p>",
-        "pubDate": "Sun, 06 Sep 2026 22:43:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49591672"
-      },
-      {
-        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-        "link": "https://github.com/marsbos/mador",
-        "description": "<p>Article URL: <a href=\"https://github.com/marsbos/mador\">https://github.com/marsbos/mador</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590738\">https://news.ycombinator.com/item?id=49590738</a></p>\n<p>Points: 79</p>\n<p># Comments: 22</p>",
-        "pubDate": "Sun, 06 Sep 2026 20:45:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49590738"
+        "title": "Is mathematics about to enter the conservatory?",
+        "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+        "description": "<p>Article URL: <a href=\"https://mbmccoy.dev/posts/mathematical-conservatory/\">https://mbmccoy.dev/posts/mathematical-conservatory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591793\">https://news.ycombinator.com/item?id=49591793</a></p>\n<p>Points: 71</p>\n<p># Comments: 83</p>",
+        "pubDate": "Sun, 06 Sep 2026 23:02:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49591793"
       },
       {
         "title": "It took a year to ship WebAssembly in Anubis",
         "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "description": "<p>Article URL: <a href=\"https://anubis.techaro.lol/blog/2026/anubis-wasm/\">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590611\">https://news.ycombinator.com/item?id=49590611</a></p>\n<p>Points: 179</p>\n<p># Comments: 101</p>",
+        "description": "<p>Article URL: <a href=\"https://anubis.techaro.lol/blog/2026/anubis-wasm/\">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590611\">https://news.ycombinator.com/item?id=49590611</a></p>\n<p>Points: 290</p>\n<p># Comments: 138</p>",
         "pubDate": "Sun, 06 Sep 2026 20:32:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49590611"
       },
       {
         "title": "Harnessing the Universal Geometry of Embeddings",
         "link": "https://arxiv.org/abs/2505.12540",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2505.12540\">https://arxiv.org/abs/2505.12540</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590595\">https://news.ycombinator.com/item?id=49590595</a></p>\n<p>Points: 59</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2505.12540\">https://arxiv.org/abs/2505.12540</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590595\">https://news.ycombinator.com/item?id=49590595</a></p>\n<p>Points: 88</p>\n<p># Comments: 31</p>",
         "pubDate": "Sun, 06 Sep 2026 20:31:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49590595"
-      },
-      {
-        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117225539756835649\">https://grapheneos.social/@GrapheneOS/117225539756835649</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590512\">https://news.ycombinator.com/item?id=49590512</a></p>\n<p>Points: 223</p>\n<p># Comments: 166</p>",
-        "pubDate": "Sun, 06 Sep 2026 20:24:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49590512"
-      },
-      {
-        "title": "Ask HN: How do you manage skills files?",
-        "link": "https://news.ycombinator.com/item?id=49589914",
-        "description": "<p>How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?<p>I believe skills will eventually be eating by model capabilities, but until then I'm just looking for a better way to manage things.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589914\">https://news.ycombinator.com/item?id=49589914</a></p>\n<p>Points: 25</p>\n<p># Comments: 16</p>",
-        "pubDate": "Sun, 06 Sep 2026 19:27:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49589914"
-      },
-      {
-        "title": "Nitter and XCancel resume service after legal advice",
-        "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "description": "<p><a href=\"https://github.com/zedeus/nitter\" rel=\"nofollow\">https://github.com/zedeus/nitter</a><p><a href=\"https://xcancel.com/cdclegal\" rel=\"nofollow\">https://xcancel.com/cdclegal</a><p><a href=\"https://nitter.net/\" rel=\"nofollow\">https://nitter.net/</a><p><a href=\"https://xcancel.com/\" rel=\"nofollow\">https://xcancel.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588988\">https://news.ycombinator.com/item?id=49588988</a></p>\n<p>Points: 548</p>\n<p># Comments: 278</p>",
-        "pubDate": "Sun, 06 Sep 2026 17:49:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49588988"
-      },
-      {
-        "title": "YouTube had a bug – I used ChatGPT to investigate",
-        "link": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-        "description": "<p>Article URL: <a href=\"https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate\">https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588483\">https://news.ycombinator.com/item?id=49588483</a></p>\n<p>Points: 9</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sun, 06 Sep 2026 17:01:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49588483"
-      },
-      {
-        "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-        "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588466\">https://news.ycombinator.com/item?id=49588466</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 06 Sep 2026 17:00:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49588466"
-      },
-      {
-        "title": "An Alien Mind",
-        "link": "https://openai.com/index/an-alien-mind/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/an-alien-mind/\">https://openai.com/index/an-alien-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588080\">https://news.ycombinator.com/item?id=49588080</a></p>\n<p>Points: 356</p>\n<p># Comments: 312</p>",
-        "pubDate": "Sun, 06 Sep 2026 16:27:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49588080"
-      },
-      {
-        "title": "Research carried out using NetBSD",
-        "link": "https://www.netbsd.org/gallery/research.html",
-        "description": "<p>Article URL: <a href=\"https://www.netbsd.org/gallery/research.html\">https://www.netbsd.org/gallery/research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587903\">https://news.ycombinator.com/item?id=49587903</a></p>\n<p>Points: 84</p>\n<p># Comments: 21</p>",
-        "pubDate": "Sun, 06 Sep 2026 16:10:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49587903"
-      },
-      {
-        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "description": "<p>Article URL: <a href=\"https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\">https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587636\">https://news.ycombinator.com/item?id=49587636</a></p>\n<p>Points: 120</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sun, 06 Sep 2026 15:44:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49587636"
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI",
-        "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/research-acceleration-view-inside-openai\">https://openai.com/index/research-acceleration-view-inside-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587217\">https://news.ycombinator.com/item?id=49587217</a></p>\n<p>Points: 130</p>\n<p># Comments: 86</p>",
-        "pubDate": "Sun, 06 Sep 2026 15:08:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49587217"
-      },
-      {
-        "title": "A/I shuts down",
-        "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "description": "<p>Article URL: <a href=\"https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586898\">https://news.ycombinator.com/item?id=49586898</a></p>\n<p>Points: 544</p>\n<p># Comments: 432</p>",
-        "pubDate": "Sun, 06 Sep 2026 14:34:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49586898"
-      },
-      {
-        "title": "Asahi Linux on M3",
-        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
-        "description": "<p><a href=\"https://www.phoronix.com/news/Asahi-Linux-Official-M3\" rel=\"nofollow\">https://www.phoronix.com/news/Asahi-Linux-Official-M3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586698\">https://news.ycombinator.com/item?id=49586698</a></p>\n<p>Points: 380</p>\n<p># Comments: 226</p>",
-        "pubDate": "Sun, 06 Sep 2026 14:08:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49586698"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-07T04:20:00.468Z",
+  "lastUpdated": "2026-09-07T12:17:16.753Z",
   "stats": {
     "feeds": 2,
     "articles": 20
