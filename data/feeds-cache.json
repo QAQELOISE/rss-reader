@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-07T12:16:57.080Z"
+      "lastFetched": "2026-09-07T21:26:16.800Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-07T12:17:16.753Z"
+      "lastFetched": "2026-09-07T21:26:36.627Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-        "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532\">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49597189\">https://news.ycombinator.com/item?id=49597189</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 07 Sep 2026 11:46:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49597189"
+        "title": "Macbeth and His Problems",
+        "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+        "description": "<p>Article URL: <a href=\"https://porticoquarterly.com/essay/macbeth-and-his-problems/\">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602716\">https://news.ycombinator.com/item?id=49602716</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 07 Sep 2026 20:34:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49602716"
       },
       {
-        "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-        "link": "https://news.ycombinator.com/item?id=49596976",
-        "description": "<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \"save:false\", and the marker then appeared verbatim in the HTML served from the generated \"*.codepen.dev preview\". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596976\">https://news.ycombinator.com/item?id=49596976</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
-        "pubDate": "Mon, 07 Sep 2026 11:22:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49596976"
+        "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+        "link": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+        "description": "<p>Article URL: <a href=\"https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/\">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602582\">https://news.ycombinator.com/item?id=49602582</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 07 Sep 2026 20:21:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49602582"
       },
       {
-        "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
-        "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-        "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/\">https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596629\">https://news.ycombinator.com/item?id=49596629</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 07 Sep 2026 10:41:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49596629"
+        "title": "Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant",
+        "link": "https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/",
+        "description": "<p>Article URL: <a href=\"https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/\">https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602320\">https://news.ycombinator.com/item?id=49602320</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+        "pubDate": "Mon, 07 Sep 2026 19:57:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49602320"
       },
       {
-        "title": "Impedance Matching (2017)",
-        "link": "https://www.edge.org/response-detail/27238",
-        "description": "<p>Article URL: <a href=\"https://www.edge.org/response-detail/27238\">https://www.edge.org/response-detail/27238</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596274\">https://news.ycombinator.com/item?id=49596274</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
-        "pubDate": "Mon, 07 Sep 2026 09:52:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49596274"
+        "title": "Replaceable but Employed: Automation and the Meaning of Work",
+        "link": "https://www.nber.org/papers/w35559",
+        "description": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35559\">https://www.nber.org/papers/w35559</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49601814\">https://news.ycombinator.com/item?id=49601814</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 07 Sep 2026 19:06:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49601814"
       },
       {
-        "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-        "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-        "description": "<p>Article URL: <a href=\"https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/\">https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596119\">https://news.ycombinator.com/item?id=49596119</a></p>\n<p>Points: 90</p>\n<p># Comments: 43</p>",
-        "pubDate": "Mon, 07 Sep 2026 09:33:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49596119"
+        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+        "link": "https://lax-skyline.parcelscope.net/",
+        "description": "<p>Article URL: <a href=\"https://lax-skyline.parcelscope.net/\">https://lax-skyline.parcelscope.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49601655\">https://news.ycombinator.com/item?id=49601655</a></p>\n<p>Points: 110</p>\n<p># Comments: 44</p>",
+        "pubDate": "Mon, 07 Sep 2026 18:52:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49601655"
+      },
+      {
+        "title": "Show HN: HomeCat – Design your backyard office",
+        "link": "https://myhomecat.com",
+        "description": "<p>Hey HN! Ilya and Nikita here. We’re building HomeCat, a tool that lets you design a backyard office space - <a href=\"https://myhomecat.com\" rel=\"nofollow\">https://myhomecat.com</a><p>We started out by helping people design sheds, and quickly realized that many people actually want to build a backyard office. There wasn't really an easy way to do this, so we thought we'd take on the challenge.<p>Right now, you can design a backyard shed and our tool will make it code compliant. It's maybe 90% of the way there, since you also have zoning/HOA and other edge cases. But it does figure out most of the details for you. Right now, it's pretty simple: enter your address, what you want to build (i.e. 8x8 backyard office), and it'll create a few concepts for you. If you like one, you can customize it with the chat.<p>Here's an example of a design that's compliant in SF: <a href=\"https://myhomecat.com/scene/classic-cottage-137134ef\" rel=\"nofollow\">https://myhomecat.com/scene/classic-cottage-137134ef</a><p>We would love for you to try our tool if you are planning your backyard office. As a bonus to the HN community, we can professionally design one for you for free if you comment what you're looking for.<p>Happy labor day!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49601328\">https://news.ycombinator.com/item?id=49601328</a></p>\n<p>Points: 20</p>\n<p># Comments: 14</p>",
+        "pubDate": "Mon, 07 Sep 2026 18:23:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49601328"
+      },
+      {
+        "title": "Bill Gates tries to install MovieMaker (2003)",
+        "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "description": "<p>Article URL: <a href=\"https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker\">https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49599481\">https://news.ycombinator.com/item?id=49599481</a></p>\n<p>Points: 292</p>\n<p># Comments: 189</p>",
+        "pubDate": "Mon, 07 Sep 2026 15:27:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49599481"
+      },
+      {
+        "title": "bzip3",
+        "link": "https://github.com/iczelia/bzip3",
+        "description": "<p>Article URL: <a href=\"https://github.com/iczelia/bzip3\">https://github.com/iczelia/bzip3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49598291\">https://news.ycombinator.com/item?id=49598291</a></p>\n<p>Points: 339</p>\n<p># Comments: 95</p>",
+        "pubDate": "Mon, 07 Sep 2026 13:35:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49598291"
       },
       {
         "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
         "link": "https://mathathonchallenge.com/index.html",
-        "description": "<p>Article URL: <a href=\"https://mathathonchallenge.com/index.html\">https://mathathonchallenge.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596055\">https://news.ycombinator.com/item?id=49596055</a></p>\n<p>Points: 42</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://mathathonchallenge.com/index.html\">https://mathathonchallenge.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596055\">https://news.ycombinator.com/item?id=49596055</a></p>\n<p>Points: 198</p>\n<p># Comments: 61</p>",
         "pubDate": "Mon, 07 Sep 2026 09:26:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49596055"
       },
       {
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "description": "<p>Article URL: <a href=\"https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus\">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596054\">https://news.ycombinator.com/item?id=49596054</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
-        "pubDate": "Mon, 07 Sep 2026 09:26:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49596054"
-      },
-      {
         "title": "Live map of public transport in Belgium",
         "link": "https://openbaarvervoerbelgie.be/",
-        "description": "<p>Article URL: <a href=\"https://openbaarvervoerbelgie.be/\">https://openbaarvervoerbelgie.be/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49595865\">https://news.ycombinator.com/item?id=49595865</a></p>\n<p>Points: 74</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://openbaarvervoerbelgie.be/\">https://openbaarvervoerbelgie.be/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49595865\">https://news.ycombinator.com/item?id=49595865</a></p>\n<p>Points: 169</p>\n<p># Comments: 72</p>",
         "pubDate": "Mon, 07 Sep 2026 09:02:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49595865"
       },
       {
-        "title": "Programming is Art",
-        "link": "https://orchidfiles.com/programming-is-art/",
-        "description": "<p>Article URL: <a href=\"https://orchidfiles.com/programming-is-art/\">https://orchidfiles.com/programming-is-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49595360\">https://news.ycombinator.com/item?id=49595360</a></p>\n<p>Points: 99</p>\n<p># Comments: 105</p>",
-        "pubDate": "Mon, 07 Sep 2026 08:05:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49595360"
-      },
-      {
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-        "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-        "description": "<p>Article URL: <a href=\"https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\">https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594878\">https://news.ycombinator.com/item?id=49594878</a></p>\n<p>Points: 325</p>\n<p># Comments: 182</p>",
-        "pubDate": "Mon, 07 Sep 2026 07:03:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49594878"
-      },
-      {
-        "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-        "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-        "description": "<p>Article URL: <a href=\"https://itsfoss.com/news/switzerland-replace-microssoft-pilot/\">https://itsfoss.com/news/switzerland-replace-microssoft-pilot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594251\">https://news.ycombinator.com/item?id=49594251</a></p>\n<p>Points: 212</p>\n<p># Comments: 174</p>",
-        "pubDate": "Mon, 07 Sep 2026 05:33:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49594251"
-      },
-      {
-        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "link": "https://github.com/timgordontg/engrim",
-        "description": "<p>Article URL: <a href=\"https://github.com/timgordontg/engrim\">https://github.com/timgordontg/engrim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594008\">https://news.ycombinator.com/item?id=49594008</a></p>\n<p>Points: 48</p>\n<p># Comments: 11</p>",
-        "pubDate": "Mon, 07 Sep 2026 04:49:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49594008"
-      },
-      {
-        "title": "TiVo to charge money for skipping commercials in your own recordings",
-        "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
-        "description": "<p>Article URL: <a href=\"https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/\">https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593971\">https://news.ycombinator.com/item?id=49593971</a></p>\n<p>Points: 107</p>\n<p># Comments: 59</p>",
-        "pubDate": "Mon, 07 Sep 2026 04:41:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49593971"
-      },
-      {
         "title": "Keep Our Servers Running",
         "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 588</p>\n<p># Comments: 131</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 910</p>\n<p># Comments: 223</p>",
         "pubDate": "Mon, 07 Sep 2026 03:29:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49593563"
       },
       {
-        "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-        "link": "https://rfd.shared.oxide.computer/rfd/0301",
-        "description": "<p>Article URL: <a href=\"https://rfd.shared.oxide.computer/rfd/0301\">https://rfd.shared.oxide.computer/rfd/0301</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593066\">https://news.ycombinator.com/item?id=49593066</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 07 Sep 2026 02:14:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49593066"
+        "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+        "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+        "description": "<p><a href=\"https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\" rel=\"nofollow\">https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592375\">https://news.ycombinator.com/item?id=49592375</a></p>\n<p>Points: 309</p>\n<p># Comments: 619</p>",
+        "pubDate": "Mon, 07 Sep 2026 00:22:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49592375"
       },
       {
-        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-        "link": "https://gettogether.dev",
-        "description": "<p>Article URL: <a href=\"https://gettogether.dev\">https://gettogether.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592840\">https://news.ycombinator.com/item?id=49592840</a></p>\n<p>Points: 73</p>\n<p># Comments: 32</p>",
-        "pubDate": "Mon, 07 Sep 2026 01:41:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49592840"
+        "title": "The Dataflow Model Revisited",
+        "link": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+        "description": "<p>PDF: <a href=\"https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf\" rel=\"nofollow\">https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589190\">https://news.ycombinator.com/item?id=49589190</a></p>\n<p>Points: 70</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sun, 06 Sep 2026 18:10:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49589190"
       },
       {
-        "title": "Making a Python interpreter in 1024 bytes",
-        "link": "https://austinhenley.com/blog/python1024.html",
-        "description": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 251</p>\n<p># Comments: 88</p>",
-        "pubDate": "Sun, 06 Sep 2026 23:14:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49591876"
+        "title": "Icy Moons Are Ocean Worlds",
+        "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+        "description": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds\">https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586207\">https://news.ycombinator.com/item?id=49586207</a></p>\n<p>Points: 85</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 06 Sep 2026 13:07:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49586207"
       },
       {
-        "title": "Is mathematics about to enter the conservatory?",
-        "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-        "description": "<p>Article URL: <a href=\"https://mbmccoy.dev/posts/mathematical-conservatory/\">https://mbmccoy.dev/posts/mathematical-conservatory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591793\">https://news.ycombinator.com/item?id=49591793</a></p>\n<p>Points: 71</p>\n<p># Comments: 83</p>",
-        "pubDate": "Sun, 06 Sep 2026 23:02:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49591793"
+        "title": "Schemy Lisp En DOS",
+        "link": "https://sled.neocities.org/",
+        "description": "<p>Article URL: <a href=\"https://sled.neocities.org/\">https://sled.neocities.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586139\">https://news.ycombinator.com/item?id=49586139</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 06 Sep 2026 12:58:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49586139"
       },
       {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "description": "<p>Article URL: <a href=\"https://anubis.techaro.lol/blog/2026/anubis-wasm/\">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590611\">https://news.ycombinator.com/item?id=49590611</a></p>\n<p>Points: 290</p>\n<p># Comments: 138</p>",
-        "pubDate": "Sun, 06 Sep 2026 20:32:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49590611"
+        "title": "Decapitating a MacBook (2025)",
+        "link": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+        "description": "<p>Article URL: <a href=\"https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/\">https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49583381\">https://news.ycombinator.com/item?id=49583381</a></p>\n<p>Points: 32</p>\n<p># Comments: 18</p>",
+        "pubDate": "Sun, 06 Sep 2026 04:40:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49583381"
       },
       {
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "link": "https://arxiv.org/abs/2505.12540",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2505.12540\">https://arxiv.org/abs/2505.12540</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590595\">https://news.ycombinator.com/item?id=49590595</a></p>\n<p>Points: 88</p>\n<p># Comments: 31</p>",
-        "pubDate": "Sun, 06 Sep 2026 20:31:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49590595"
+        "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "link": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/\">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577422\">https://news.ycombinator.com/item?id=49577422</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
+        "pubDate": "Sat, 05 Sep 2026 15:22:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49577422"
+      },
+      {
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+        "link": "https://arxiv.org/abs/2607.24888",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.24888\">https://arxiv.org/abs/2607.24888</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575515\">https://news.ycombinator.com/item?id=49575515</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
+        "pubDate": "Sat, 05 Sep 2026 11:25:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49575515"
+      },
+      {
+        "title": "This Month in Ladybird – August 2026",
+        "link": "https://ladybird.org/newsletter/2026-08-31/",
+        "description": "<p>Article URL: <a href=\"https://ladybird.org/newsletter/2026-08-31/\">https://ladybird.org/newsletter/2026-08-31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571096\">https://news.ycombinator.com/item?id=49571096</a></p>\n<p>Points: 96</p>\n<p># Comments: 10</p>",
+        "pubDate": "Fri, 04 Sep 2026 22:47:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49571096"
+      },
+      {
+        "title": "Scientists observe Einstein's gravity in the quantum world",
+        "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+        "description": "<p><a href=\"https://www.youtube.com/watch?v=CfjnTJos_no\" rel=\"nofollow\">https://www.youtube.com/watch?v=CfjnTJos_no</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569838\">https://news.ycombinator.com/item?id=49569838</a></p>\n<p>Points: 43</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 04 Sep 2026 20:28:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49569838"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-07T12:17:16.753Z",
+  "lastUpdated": "2026-09-07T21:26:36.627Z",
   "stats": {
     "feeds": 2,
     "articles": 20
