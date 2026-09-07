@@ -5,52 +5,108 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-06T20:18:42.959Z"
+      "lastFetched": "2026-09-07T04:19:54.437Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-06T20:18:49.110Z"
+      "lastFetched": "2026-09-07T04:20:00.468Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "The car industry A/B tested selling a car with and without CarPlay",
-        "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "description": "<p>Article URL: <a href=\"https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/\">https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590225\">https://news.ycombinator.com/item?id=49590225</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 06 Sep 2026 19:53:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49590225"
+        "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+        "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 50</p>\n<p># Comments: 16</p>",
+        "pubDate": "Mon, 07 Sep 2026 03:29:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49593563"
       },
       {
-        "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
-        "link": "https://news.ycombinator.com/item?id=49589730",
-        "description": "<p>I can't seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still exist and are Grade II listed. Anyone have any additional anecdotal/local/oral tradition information that isn't found in the little blurbs online on the few websites mentioning them?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589730\">https://news.ycombinator.com/item?id=49589730</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sun, 06 Sep 2026 19:06:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49589730"
+        "title": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
+        "link": "https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/",
+        "description": "<p>Article URL: <a href=\"https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/\">https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593410\">https://news.ycombinator.com/item?id=49593410</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 07 Sep 2026 03:06:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49593410"
       },
       {
-        "title": "Finder is so frustrating and has been since day one",
-        "link": "https://kepter.app/finder",
-        "description": "<p>Article URL: <a href=\"https://kepter.app/finder\">https://kepter.app/finder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589722\">https://news.ycombinator.com/item?id=49589722</a></p>\n<p>Points: 65</p>\n<p># Comments: 56</p>",
-        "pubDate": "Sun, 06 Sep 2026 19:06:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49589722"
+        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+        "link": "https://gettogether.dev",
+        "description": "<p>Article URL: <a href=\"https://gettogether.dev\">https://gettogether.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592840\">https://news.ycombinator.com/item?id=49592840</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 07 Sep 2026 01:41:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49592840"
       },
       {
-        "title": "Following legal advice, the Nitter project will continue",
-        "link": "https://github.com/zedeus/nitter",
-        "description": "<p>Article URL: <a href=\"https://github.com/zedeus/nitter\">https://github.com/zedeus/nitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589003\">https://news.ycombinator.com/item?id=49589003</a></p>\n<p>Points: 227</p>\n<p># Comments: 53</p>",
-        "pubDate": "Sun, 06 Sep 2026 17:51:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49589003"
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "link": "https://github.com/Staatsgeheim/MathKernel",
+        "description": "<p>Article URL: <a href=\"https://github.com/Staatsgeheim/MathKernel\">https://github.com/Staatsgeheim/MathKernel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592366\">https://news.ycombinator.com/item?id=49592366</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+        "pubDate": "Mon, 07 Sep 2026 00:21:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49592366"
       },
       {
-        "title": "Nitter is unarchived and will continue",
+        "title": "Making a Python interpreter in 1024 bytes",
+        "link": "https://austinhenley.com/blog/python1024.html",
+        "description": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 140</p>\n<p># Comments: 55</p>",
+        "pubDate": "Sun, 06 Sep 2026 23:14:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49591876"
+      },
+      {
+        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+        "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+        "description": "<p><a href=\"https://xcancel.com/Liquid_BTC/status/2096696272447218108\" rel=\"nofollow\">https://xcancel.com/Liquid_BTC/status/2096696272447218108</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591672\">https://news.ycombinator.com/item?id=49591672</a></p>\n<p>Points: 91</p>\n<p># Comments: 54</p>",
+        "pubDate": "Sun, 06 Sep 2026 22:43:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49591672"
+      },
+      {
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "link": "https://github.com/marsbos/mador",
+        "description": "<p>Article URL: <a href=\"https://github.com/marsbos/mador\">https://github.com/marsbos/mador</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590738\">https://news.ycombinator.com/item?id=49590738</a></p>\n<p>Points: 79</p>\n<p># Comments: 22</p>",
+        "pubDate": "Sun, 06 Sep 2026 20:45:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49590738"
+      },
+      {
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "description": "<p>Article URL: <a href=\"https://anubis.techaro.lol/blog/2026/anubis-wasm/\">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590611\">https://news.ycombinator.com/item?id=49590611</a></p>\n<p>Points: 179</p>\n<p># Comments: 101</p>",
+        "pubDate": "Sun, 06 Sep 2026 20:32:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49590611"
+      },
+      {
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "link": "https://arxiv.org/abs/2505.12540",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2505.12540\">https://arxiv.org/abs/2505.12540</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590595\">https://news.ycombinator.com/item?id=49590595</a></p>\n<p>Points: 59</p>\n<p># Comments: 19</p>",
+        "pubDate": "Sun, 06 Sep 2026 20:31:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49590595"
+      },
+      {
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117225539756835649\">https://grapheneos.social/@GrapheneOS/117225539756835649</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590512\">https://news.ycombinator.com/item?id=49590512</a></p>\n<p>Points: 223</p>\n<p># Comments: 166</p>",
+        "pubDate": "Sun, 06 Sep 2026 20:24:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49590512"
+      },
+      {
+        "title": "Ask HN: How do you manage skills files?",
+        "link": "https://news.ycombinator.com/item?id=49589914",
+        "description": "<p>How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?<p>I believe skills will eventually be eating by model capabilities, but until then I'm just looking for a better way to manage things.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589914\">https://news.ycombinator.com/item?id=49589914</a></p>\n<p>Points: 25</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sun, 06 Sep 2026 19:27:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49589914"
+      },
+      {
+        "title": "Nitter and XCancel resume service after legal advice",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "description": "<p>Article URL: <a href=\"https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3\">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588988\">https://news.ycombinator.com/item?id=49588988</a></p>\n<p>Points: 195</p>\n<p># Comments: 57</p>",
+        "description": "<p><a href=\"https://github.com/zedeus/nitter\" rel=\"nofollow\">https://github.com/zedeus/nitter</a><p><a href=\"https://xcancel.com/cdclegal\" rel=\"nofollow\">https://xcancel.com/cdclegal</a><p><a href=\"https://nitter.net/\" rel=\"nofollow\">https://nitter.net/</a><p><a href=\"https://xcancel.com/\" rel=\"nofollow\">https://xcancel.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588988\">https://news.ycombinator.com/item?id=49588988</a></p>\n<p>Points: 548</p>\n<p># Comments: 278</p>",
         "pubDate": "Sun, 06 Sep 2026 17:49:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49588988"
+      },
+      {
+        "title": "YouTube had a bug – I used ChatGPT to investigate",
+        "link": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+        "description": "<p>Article URL: <a href=\"https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate\">https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588483\">https://news.ycombinator.com/item?id=49588483</a></p>\n<p>Points: 9</p>\n<p># Comments: 7</p>",
+        "pubDate": "Sun, 06 Sep 2026 17:01:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49588483"
       },
       {
         "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
@@ -62,105 +118,49 @@
       {
         "title": "An Alien Mind",
         "link": "https://openai.com/index/an-alien-mind/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/an-alien-mind/\">https://openai.com/index/an-alien-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588080\">https://news.ycombinator.com/item?id=49588080</a></p>\n<p>Points: 194</p>\n<p># Comments: 124</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/an-alien-mind/\">https://openai.com/index/an-alien-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588080\">https://news.ycombinator.com/item?id=49588080</a></p>\n<p>Points: 356</p>\n<p># Comments: 312</p>",
         "pubDate": "Sun, 06 Sep 2026 16:27:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49588080"
       },
       {
         "title": "Research carried out using NetBSD",
         "link": "https://www.netbsd.org/gallery/research.html",
-        "description": "<p>Article URL: <a href=\"https://www.netbsd.org/gallery/research.html\">https://www.netbsd.org/gallery/research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587903\">https://news.ycombinator.com/item?id=49587903</a></p>\n<p>Points: 49</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://www.netbsd.org/gallery/research.html\">https://www.netbsd.org/gallery/research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587903\">https://news.ycombinator.com/item?id=49587903</a></p>\n<p>Points: 84</p>\n<p># Comments: 21</p>",
         "pubDate": "Sun, 06 Sep 2026 16:10:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49587903"
       },
       {
         "title": "NetBSD 9.5 released and EOL for NetBSD-9",
         "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "description": "<p>Article URL: <a href=\"https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\">https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587636\">https://news.ycombinator.com/item?id=49587636</a></p>\n<p>Points: 81</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\">https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587636\">https://news.ycombinator.com/item?id=49587636</a></p>\n<p>Points: 120</p>\n<p># Comments: 10</p>",
         "pubDate": "Sun, 06 Sep 2026 15:44:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49587636"
       },
       {
         "title": "Research acceleration: The view inside OpenAI",
         "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/research-acceleration-view-inside-openai\">https://openai.com/index/research-acceleration-view-inside-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587217\">https://news.ycombinator.com/item?id=49587217</a></p>\n<p>Points: 70</p>\n<p># Comments: 44</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/research-acceleration-view-inside-openai\">https://openai.com/index/research-acceleration-view-inside-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587217\">https://news.ycombinator.com/item?id=49587217</a></p>\n<p>Points: 130</p>\n<p># Comments: 86</p>",
         "pubDate": "Sun, 06 Sep 2026 15:08:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49587217"
       },
       {
-        "title": "Recreating Minecraft Is Not a Benchmark",
-        "link": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-        "description": "<p>Article URL: <a href=\"https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark\">https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587040\">https://news.ycombinator.com/item?id=49587040</a></p>\n<p>Points: 54</p>\n<p># Comments: 41</p>",
-        "pubDate": "Sun, 06 Sep 2026 14:52:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49587040"
-      },
-      {
-        "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-        "link": "https://github.com/scastiel/kado",
-        "description": "<p>Article URL: <a href=\"https://github.com/scastiel/kado\">https://github.com/scastiel/kado</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586902\">https://news.ycombinator.com/item?id=49586902</a></p>\n<p>Points: 52</p>\n<p># Comments: 28</p>",
-        "pubDate": "Sun, 06 Sep 2026 14:34:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49586902"
-      },
-      {
-        "title": "A/I shuts down – Stay human",
+        "title": "A/I shuts down",
         "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "description": "<p>Article URL: <a href=\"https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586898\">https://news.ycombinator.com/item?id=49586898</a></p>\n<p>Points: 390</p>\n<p># Comments: 261</p>",
+        "description": "<p>Article URL: <a href=\"https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586898\">https://news.ycombinator.com/item?id=49586898</a></p>\n<p>Points: 544</p>\n<p># Comments: 432</p>",
         "pubDate": "Sun, 06 Sep 2026 14:34:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49586898"
       },
       {
-        "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-        "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-        "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Asahi-Linux-Official-M3\">https://www.phoronix.com/news/Asahi-Linux-Official-M3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586698\">https://news.ycombinator.com/item?id=49586698</a></p>\n<p>Points: 216</p>\n<p># Comments: 135</p>",
+        "title": "Asahi Linux on M3",
+        "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+        "description": "<p><a href=\"https://www.phoronix.com/news/Asahi-Linux-Official-M3\" rel=\"nofollow\">https://www.phoronix.com/news/Asahi-Linux-Official-M3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586698\">https://news.ycombinator.com/item?id=49586698</a></p>\n<p>Points: 380</p>\n<p># Comments: 226</p>",
         "pubDate": "Sun, 06 Sep 2026 14:08:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49586698"
-      },
-      {
-        "title": "The many mysteries and lessons of the Bayeux tapestry",
-        "link": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-        "description": "<p>Article URL: <a href=\"https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry\">https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586435\">https://news.ycombinator.com/item?id=49586435</a></p>\n<p>Points: 51</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sun, 06 Sep 2026 13:38:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49586435"
-      },
-      {
-        "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-        "link": "https://shukla.io/quantum-oracle-engineering/",
-        "description": "<p>Article URL: <a href=\"https://shukla.io/quantum-oracle-engineering/\">https://shukla.io/quantum-oracle-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586151\">https://news.ycombinator.com/item?id=49586151</a></p>\n<p>Points: 45</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sun, 06 Sep 2026 13:00:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49586151"
-      },
-      {
-        "title": "The pencil case model of creativity",
-        "link": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-        "description": "<p>Article URL: <a href=\"https://dub.uu.nl/en/column/pencil-case-model-creativity\">https://dub.uu.nl/en/column/pencil-case-model-creativity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585703\">https://news.ycombinator.com/item?id=49585703</a></p>\n<p>Points: 52</p>\n<p># Comments: 17</p>",
-        "pubDate": "Sun, 06 Sep 2026 12:05:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49585703"
-      },
-      {
-        "title": "Your intellectual fly is open (2025)",
-        "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585644\">https://news.ycombinator.com/item?id=49585644</a></p>\n<p>Points: 377</p>\n<p># Comments: 253</p>",
-        "pubDate": "Sun, 06 Sep 2026 11:56:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49585644"
-      },
-      {
-        "title": "Doomscrolling Ourselves to Death",
-        "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-        "description": "<p>Article URL: <a href=\"https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death\">https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585627\">https://news.ycombinator.com/item?id=49585627</a></p>\n<p>Points: 290</p>\n<p># Comments: 201</p>",
-        "pubDate": "Sun, 06 Sep 2026 11:53:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49585627"
-      },
-      {
-        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-        "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-        "description": "<p>Article URL: <a href=\"https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight\">https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584083\">https://news.ycombinator.com/item?id=49584083</a></p>\n<p>Points: 486</p>\n<p># Comments: 155</p>",
-        "pubDate": "Sun, 06 Sep 2026 07:21:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49584083"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-06T20:18:49.110Z",
+  "lastUpdated": "2026-09-07T04:20:00.468Z",
   "stats": {
     "feeds": 2,
     "articles": 20
