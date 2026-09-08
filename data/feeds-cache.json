@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-08T04:20:06.478Z"
+      "lastFetched": "2026-09-08T11:05:59.435Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-08T04:20:26.216Z"
+      "lastFetched": "2026-09-08T11:06:19.153Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "A Screensaver for LG's Spying Smart TVs",
-        "link": "https://weowntheglass.com",
-        "description": "<p>Article URL: <a href=\"https://weowntheglass.com\">https://weowntheglass.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605356\">https://news.ycombinator.com/item?id=49605356</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 08 Sep 2026 03:20:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49605356"
+        "title": "Why getting your hands dirty is good for you",
+        "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks\">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608023\">https://news.ycombinator.com/item?id=49608023</a></p>\n<p>Points: 30</p>\n<p># Comments: 21</p>",
+        "pubDate": "Tue, 08 Sep 2026 09:48:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49608023"
       },
       {
-        "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-        "link": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9EuNUe-CJRM\">https://www.youtube.com/watch?v=9EuNUe-CJRM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605222\">https://news.ycombinator.com/item?id=49605222</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
-        "pubDate": "Tue, 08 Sep 2026 02:53:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49605222"
+        "title": "Antiquated HTML Snippets and Artefacts",
+        "link": "https://vale.rocks/posts/html-relics",
+        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/html-relics\">https://vale.rocks/posts/html-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607991\">https://news.ycombinator.com/item?id=49607991</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+        "pubDate": "Tue, 08 Sep 2026 09:43:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49607991"
       },
       {
-        "title": "Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)",
-        "link": "https://albertjoseph0.github.io/nyc-maptap/",
-        "description": "<p>Article URL: <a href=\"https://albertjoseph0.github.io/nyc-maptap/\">https://albertjoseph0.github.io/nyc-maptap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605122\">https://news.ycombinator.com/item?id=49605122</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 08 Sep 2026 02:36:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49605122"
+        "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+        "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+        "description": "<p>Article URL: <a href=\"https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten\">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607443\">https://news.ycombinator.com/item?id=49607443</a></p>\n<p>Points: 127</p>\n<p># Comments: 132</p>",
+        "pubDate": "Tue, 08 Sep 2026 08:42:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49607443"
+      },
+      {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "description": "<p>Article URL: <a href=\"https://cims.nyu.edu/~tristanb/statement.pdf\">https://cims.nyu.edu/~tristanb/statement.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605915\">https://news.ycombinator.com/item?id=49605915</a></p>\n<p>Points: 284</p>\n<p># Comments: 142</p>",
+        "pubDate": "Tue, 08 Sep 2026 05:42:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605915"
+      },
+      {
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "link": "https://github.com/TauricResearch/TradingAgents",
+        "description": "<p>Article URL: <a href=\"https://github.com/TauricResearch/TradingAgents\">https://github.com/TauricResearch/TradingAgents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605822\">https://news.ycombinator.com/item?id=49605822</a></p>\n<p>Points: 59</p>\n<p># Comments: 37</p>",
+        "pubDate": "Tue, 08 Sep 2026 05:20:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605822"
+      },
+      {
+        "title": "My Feed, My Way",
+        "link": "https://www.pm.gov.au/media/my-feed-my-way",
+        "description": "<p>Article URL: <a href=\"https://www.pm.gov.au/media/my-feed-my-way\">https://www.pm.gov.au/media/my-feed-my-way</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605782\">https://news.ycombinator.com/item?id=49605782</a></p>\n<p>Points: 129</p>\n<p># Comments: 101</p>",
+        "pubDate": "Tue, 08 Sep 2026 05:10:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605782"
+      },
+      {
+        "title": "Mistral raises €3B",
+        "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605767\">https://news.ycombinator.com/item?id=49605767</a></p>\n<p>Points: 503</p>\n<p># Comments: 354</p>",
+        "pubDate": "Tue, 08 Sep 2026 05:06:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605767"
+      },
+      {
+        "title": "We have a year to fix security everywhere",
+        "link": "https://jyn.dev/a-year-to-fix-security/",
+        "description": "<p>Article URL: <a href=\"https://jyn.dev/a-year-to-fix-security/\">https://jyn.dev/a-year-to-fix-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605691\">https://news.ycombinator.com/item?id=49605691</a></p>\n<p>Points: 242</p>\n<p># Comments: 220</p>",
+        "pubDate": "Tue, 08 Sep 2026 04:48:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605691"
+      },
+      {
+        "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+        "link": "https://rohanadwankar.github.io/posts/platforms.html",
+        "description": "<p>Article URL: <a href=\"https://rohanadwankar.github.io/posts/platforms.html\">https://rohanadwankar.github.io/posts/platforms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605644\">https://news.ycombinator.com/item?id=49605644</a></p>\n<p>Points: 36</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 08 Sep 2026 04:36:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605644"
+      },
+      {
+        "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+        "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+        "description": "<p>Article URL: <a href=\"https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics\">https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605511\">https://news.ycombinator.com/item?id=49605511</a></p>\n<p>Points: 48</p>\n<p># Comments: 31</p>",
+        "pubDate": "Tue, 08 Sep 2026 04:06:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605511"
+      },
+      {
+        "title": "I tested 10 model/harness combinations on the same Three.js task",
+        "link": "https://alvins82.github.io/hangar-harness-model-tests/",
+        "description": "<p>Article URL: <a href=\"https://alvins82.github.io/hangar-harness-model-tests/\">https://alvins82.github.io/hangar-harness-model-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605433\">https://news.ycombinator.com/item?id=49605433</a></p>\n<p>Points: 86</p>\n<p># Comments: 50</p>",
+        "pubDate": "Tue, 08 Sep 2026 03:42:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605433"
+      },
+      {
+        "title": "How well do agents use test/verification techniques?",
+        "link": "https://danluu.com/agentic-testing/",
+        "description": "<p>Article URL: <a href=\"https://danluu.com/agentic-testing/\">https://danluu.com/agentic-testing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605246\">https://news.ycombinator.com/item?id=49605246</a></p>\n<p>Points: 94</p>\n<p># Comments: 26</p>",
+        "pubDate": "Tue, 08 Sep 2026 02:58:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49605246"
+      },
+      {
+        "title": "There's a new \"Google Jail\" for independent wikis",
+        "link": "https://weirdgloop.org/blog/google-jail",
+        "description": "<p>Article URL: <a href=\"https://weirdgloop.org/blog/google-jail\">https://weirdgloop.org/blog/google-jail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604870\">https://news.ycombinator.com/item?id=49604870</a></p>\n<p>Points: 191</p>\n<p># Comments: 65</p>",
+        "pubDate": "Tue, 08 Sep 2026 01:57:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49604870"
       },
       {
         "title": "Jellyfin 12.0",
         "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-        "description": "<p>Article URL: <a href=\"https://jellyfin.org/posts/jellyfin-release-12.0/\">https://jellyfin.org/posts/jellyfin-release-12.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604861\">https://news.ycombinator.com/item?id=49604861</a></p>\n<p>Points: 153</p>\n<p># Comments: 61</p>",
+        "description": "<p>Article URL: <a href=\"https://jellyfin.org/posts/jellyfin-release-12.0/\">https://jellyfin.org/posts/jellyfin-release-12.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604861\">https://news.ycombinator.com/item?id=49604861</a></p>\n<p>Points: 392</p>\n<p># Comments: 167</p>",
         "pubDate": "Tue, 08 Sep 2026 01:56:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49604861"
       },
       {
         "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
         "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "description": "<p>Article URL: <a href=\"https://mcpherrin.ca/2026/09/07/rsa.html\">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604637\">https://news.ycombinator.com/item?id=49604637</a></p>\n<p>Points: 161</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://mcpherrin.ca/2026/09/07/rsa.html\">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604637\">https://news.ycombinator.com/item?id=49604637</a></p>\n<p>Points: 357</p>\n<p># Comments: 59</p>",
         "pubDate": "Tue, 08 Sep 2026 01:16:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49604637"
       },
       {
         "title": "TALA Is Open-Source",
         "link": "https://d2lang.com/blog/tala-is-open-source/",
-        "description": "<p>Article URL: <a href=\"https://d2lang.com/blog/tala-is-open-source/\">https://d2lang.com/blog/tala-is-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604150\">https://news.ycombinator.com/item?id=49604150</a></p>\n<p>Points: 128</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://d2lang.com/blog/tala-is-open-source/\">https://d2lang.com/blog/tala-is-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604150\">https://news.ycombinator.com/item?id=49604150</a></p>\n<p>Points: 235</p>\n<p># Comments: 17</p>",
         "pubDate": "Mon, 07 Sep 2026 23:37:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49604150"
       },
       {
-        "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-        "link": "https://github.com/Sadpainy/Stuxnet",
-        "description": "<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49603546\">https://news.ycombinator.com/item?id=49603546</a></p>\n<p>Points: 125</p>\n<p># Comments: 45</p>",
-        "pubDate": "Mon, 07 Sep 2026 22:12:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49603546"
-      },
-      {
-        "title": "Macbeth and His Problems",
-        "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-        "description": "<p>Article URL: <a href=\"https://porticoquarterly.com/essay/macbeth-and-his-problems/\">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602716\">https://news.ycombinator.com/item?id=49602716</a></p>\n<p>Points: 47</p>\n<p># Comments: 18</p>",
-        "pubDate": "Mon, 07 Sep 2026 20:34:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49602716"
-      },
-      {
         "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
         "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-        "description": "<p>Article URL: <a href=\"https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/\">https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602699\">https://news.ycombinator.com/item?id=49602699</a></p>\n<p>Points: 134</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/\">https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602699\">https://news.ycombinator.com/item?id=49602699</a></p>\n<p>Points: 205</p>\n<p># Comments: 95</p>",
         "pubDate": "Mon, 07 Sep 2026 20:32:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49602699"
       },
       {
         "title": "Emacs Bedrock 2.0",
         "link": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-        "description": "<p>Article URL: <a href=\"https://lambdaland.org/posts/2026-09-06-bedrock-v2/\">https://lambdaland.org/posts/2026-09-06-bedrock-v2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602490\">https://news.ycombinator.com/item?id=49602490</a></p>\n<p>Points: 64</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://lambdaland.org/posts/2026-09-06-bedrock-v2/\">https://lambdaland.org/posts/2026-09-06-bedrock-v2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602490\">https://news.ycombinator.com/item?id=49602490</a></p>\n<p>Points: 124</p>\n<p># Comments: 27</p>",
         "pubDate": "Mon, 07 Sep 2026 20:12:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49602490"
       },
       {
         "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
         "link": "https://lax-skyline.parcelscope.net/",
-        "description": "<p>Article URL: <a href=\"https://lax-skyline.parcelscope.net/\">https://lax-skyline.parcelscope.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49601655\">https://news.ycombinator.com/item?id=49601655</a></p>\n<p>Points: 245</p>\n<p># Comments: 126</p>",
+        "description": "<p>Article URL: <a href=\"https://lax-skyline.parcelscope.net/\">https://lax-skyline.parcelscope.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49601655\">https://news.ycombinator.com/item?id=49601655</a></p>\n<p>Points: 299</p>\n<p># Comments: 147</p>",
         "pubDate": "Mon, 07 Sep 2026 18:52:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49601655"
       },
       {
-        "title": "bzip3",
-        "link": "https://github.com/iczelia/bzip3",
-        "description": "<p>Article URL: <a href=\"https://github.com/iczelia/bzip3\">https://github.com/iczelia/bzip3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49598291\">https://news.ycombinator.com/item?id=49598291</a></p>\n<p>Points: 392</p>\n<p># Comments: 111</p>",
-        "pubDate": "Mon, 07 Sep 2026 13:35:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49598291"
-      },
-      {
-        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-        "link": "https://mathathonchallenge.com/index.html",
-        "description": "<p>Article URL: <a href=\"https://mathathonchallenge.com/index.html\">https://mathathonchallenge.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596055\">https://news.ycombinator.com/item?id=49596055</a></p>\n<p>Points: 245</p>\n<p># Comments: 84</p>",
-        "pubDate": "Mon, 07 Sep 2026 09:26:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49596055"
-      },
-      {
-        "title": "Keep Our Servers Running",
-        "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 970</p>\n<p># Comments: 252</p>",
-        "pubDate": "Mon, 07 Sep 2026 03:29:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49593563"
-      },
-      {
-        "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-        "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-        "description": "<p><a href=\"https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\" rel=\"nofollow\">https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592375\">https://news.ycombinator.com/item?id=49592375</a></p>\n<p>Points: 609</p>\n<p># Comments: 837</p>",
-        "pubDate": "Mon, 07 Sep 2026 00:22:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49592375"
-      },
-      {
-        "title": "Icy Moons Are Ocean Worlds",
-        "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-        "description": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds\">https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586207\">https://news.ycombinator.com/item?id=49586207</a></p>\n<p>Points: 141</p>\n<p># Comments: 15</p>",
-        "pubDate": "Sun, 06 Sep 2026 13:07:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49586207"
-      },
-      {
-        "title": "Catching Crumbs from the Table (2000)",
-        "link": "https://www.nature.com/articles/35014679",
-        "description": "<p><a href=\"https://web.archive.org/web/20150719010624/http://www.nature.com/nature/journal/v405/n6786/full/405517a0.html\" rel=\"nofollow\">https://web.archive.org/web/20150719010624/http://www.nature...</a><p><a href=\"https://www.scribd.com/document/893921964/CHIANG-Catching-Crumbs-From-the-Table\" rel=\"nofollow\">https://www.scribd.com/document/893921964/CHIANG-Catching-Cr...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584053\">https://news.ycombinator.com/item?id=49584053</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
-        "pubDate": "Sun, 06 Sep 2026 07:15:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49584053"
-      },
-      {
-        "title": "Everything is free now, so why not a floating orb in my IDE",
-        "link": "https://eighttrigrams.net/post/79",
-        "description": "<p>Article URL: <a href=\"https://eighttrigrams.net/post/79\">https://eighttrigrams.net/post/79</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580260\">https://news.ycombinator.com/item?id=49580260</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 05 Sep 2026 20:15:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49580260"
-      },
-      {
-        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-        "link": "https://arxiv.org/abs/2607.24888",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.24888\">https://arxiv.org/abs/2607.24888</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575515\">https://news.ycombinator.com/item?id=49575515</a></p>\n<p>Points: 176</p>\n<p># Comments: 37</p>",
-        "pubDate": "Sat, 05 Sep 2026 11:25:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49575515"
-      },
-      {
-        "title": "This Month in Ladybird – August 2026",
-        "link": "https://ladybird.org/newsletter/2026-08-31/",
-        "description": "<p>Article URL: <a href=\"https://ladybird.org/newsletter/2026-08-31/\">https://ladybird.org/newsletter/2026-08-31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571096\">https://news.ycombinator.com/item?id=49571096</a></p>\n<p>Points: 194</p>\n<p># Comments: 46</p>",
-        "pubDate": "Fri, 04 Sep 2026 22:47:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49571096"
+        "title": "anystation: Calling any station A public board shaped like a tree. No account",
+        "link": "https://anystation.net/",
+        "description": "<p>Article URL: <a href=\"https://anystation.net/\">https://anystation.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49595841\">https://news.ycombinator.com/item?id=49595841</a></p>\n<p>Points: 7</p>\n<p># Comments: 12</p>",
+        "pubDate": "Mon, 07 Sep 2026 09:00:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49595841"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-08T04:20:26.216Z",
+  "lastUpdated": "2026-09-08T11:06:19.153Z",
   "stats": {
     "feeds": 2,
     "articles": 20
