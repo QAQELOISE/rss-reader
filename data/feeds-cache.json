@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-09T04:25:25.260Z"
+      "lastFetched": "2026-09-09T11:10:46.595Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-09T04:25:45.381Z"
+      "lastFetched": "2026-09-09T11:11:06.489Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Harvard study predicts most suicide attempts a week in advance",
-        "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
-        "description": "<p>Article URL: <a href=\"https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\">https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619906\">https://news.ycombinator.com/item?id=49619906</a></p>\n<p>Points: 96</p>\n<p># Comments: 48</p>",
-        "pubDate": "Wed, 09 Sep 2026 02:07:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49619906"
+        "title": "How An AI math breakthrough ignited a controversy",
+        "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy\">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624163\">https://news.ycombinator.com/item?id=49624163</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 09 Sep 2026 10:25:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49624163"
+      },
+      {
+        "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
+        "link": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
+        "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34\">https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623996\">https://news.ycombinator.com/item?id=49623996</a></p>\n<p>Points: 12</p>\n<p># Comments: 27</p>",
+        "pubDate": "Wed, 09 Sep 2026 10:07:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49623996"
+      },
+      {
+        "title": "Lotus Notes and the dangers of starting from scratch",
+        "link": "https://buttondown.com/blog/lotus-notes-email",
+        "description": "<p>Article URL: <a href=\"https://buttondown.com/blog/lotus-notes-email\">https://buttondown.com/blog/lotus-notes-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623937\">https://news.ycombinator.com/item?id=49623937</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
+        "pubDate": "Wed, 09 Sep 2026 10:01:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49623937"
+      },
+      {
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/codex-quantum-computing-experiments/\">https://openai.com/index/codex-quantum-computing-experiments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622561\">https://news.ycombinator.com/item?id=49622561</a></p>\n<p>Points: 83</p>\n<p># Comments: 59</p>",
+        "pubDate": "Wed, 09 Sep 2026 07:22:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49622561"
+      },
+      {
+        "title": "On Really Trying (2009)",
+        "link": "https://gwern.net/on-really-trying",
+        "description": "<p>Article URL: <a href=\"https://gwern.net/on-really-trying\">https://gwern.net/on-really-trying</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622305\">https://news.ycombinator.com/item?id=49622305</a></p>\n<p>Points: 60</p>\n<p># Comments: 37</p>",
+        "pubDate": "Wed, 09 Sep 2026 06:58:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49622305"
+      },
+      {
+        "title": "“Tweet” and the bird logo apparently enter the public domain",
+        "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+        "description": "<p>Article URL: <a href=\"https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm\">https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49621751\">https://news.ycombinator.com/item?id=49621751</a></p>\n<p>Points: 107</p>\n<p># Comments: 65</p>",
+        "pubDate": "Wed, 09 Sep 2026 06:02:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49621751"
+      },
+      {
+        "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+        "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+        "description": "<p>Article URL: <a href=\"https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en\">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49621102\">https://news.ycombinator.com/item?id=49621102</a></p>\n<p>Points: 61</p>\n<p># Comments: 14</p>",
+        "pubDate": "Wed, 09 Sep 2026 04:43:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49621102"
       },
       {
         "title": "27.5KB language-agnostic WebGPU syntax highlighter",
         "link": "https://gpu-lexer.vercel.app/",
-        "description": "<p>Article URL: <a href=\"https://gpu-lexer.vercel.app/\">https://gpu-lexer.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619464\">https://news.ycombinator.com/item?id=49619464</a></p>\n<p>Points: 33</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://gpu-lexer.vercel.app/\">https://gpu-lexer.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619464\">https://news.ycombinator.com/item?id=49619464</a></p>\n<p>Points: 91</p>\n<p># Comments: 28</p>",
         "pubDate": "Wed, 09 Sep 2026 01:14:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49619464"
       },
       {
-        "title": "I resigned from Anthropic today",
-        "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/hilbertspaess/status/2097476196791709843#m\">https://twitter.com/hilbertspaess/status/2097476196791709843#m</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619227\">https://news.ycombinator.com/item?id=49619227</a></p>\n<p>Points: 156</p>\n<p># Comments: 204</p>",
-        "pubDate": "Wed, 09 Sep 2026 00:40:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49619227"
-      },
-      {
         "title": "A Topological Picture Book, Rendered",
         "link": "https://e-infinity.space/picture-book/",
-        "description": "<p>Article URL: <a href=\"https://e-infinity.space/picture-book/\">https://e-infinity.space/picture-book/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49618050\">https://news.ycombinator.com/item?id=49618050</a></p>\n<p>Points: 67</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://e-infinity.space/picture-book/\">https://e-infinity.space/picture-book/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49618050\">https://news.ycombinator.com/item?id=49618050</a></p>\n<p>Points: 111</p>\n<p># Comments: 11</p>",
         "pubDate": "Tue, 08 Sep 2026 22:28:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=49618050"
       },
       {
         "title": "Large language models develop novel social biases through adaptive exploration",
         "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-        "description": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617581\">https://news.ycombinator.com/item?id=49617581</a></p>\n<p>Points: 118</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617581\">https://news.ycombinator.com/item?id=49617581</a></p>\n<p>Points: 170</p>\n<p># Comments: 89</p>",
         "pubDate": "Tue, 08 Sep 2026 21:47:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49617581"
       },
       {
         "title": "How to build a printer",
         "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-        "description": "<p>Article URL: <a href=\"https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617255\">https://news.ycombinator.com/item?id=49617255</a></p>\n<p>Points: 198</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617255\">https://news.ycombinator.com/item?id=49617255</a></p>\n<p>Points: 352</p>\n<p># Comments: 76</p>",
         "pubDate": "Tue, 08 Sep 2026 21:22:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49617255"
       },
       {
         "title": "Tao: Open math problems being non-renewably mined by AI",
         "link": "https://mathstodon.xyz/@tao/117237320796901560",
-        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 225</p>\n<p># Comments: 163</p>",
+        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 376</p>\n<p># Comments: 332</p>",
         "pubDate": "Tue, 08 Sep 2026 21:00:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49616968"
       },
       {
         "title": "Mercury 2.5",
         "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-        "description": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616354\">https://news.ycombinator.com/item?id=49616354</a></p>\n<p>Points: 138</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616354\">https://news.ycombinator.com/item?id=49616354</a></p>\n<p>Points: 207</p>\n<p># Comments: 33</p>",
         "pubDate": "Tue, 08 Sep 2026 20:14:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49616354"
       },
       {
-        "title": "Animation in Bevy: The Big Picture",
-        "link": "https://glocq.com/en/blog/20260827/",
-        "description": "<p>Article URL: <a href=\"https://glocq.com/en/blog/20260827/\">https://glocq.com/en/blog/20260827/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616272\">https://news.ycombinator.com/item?id=49616272</a></p>\n<p>Points: 56</p>\n<p># Comments: 5</p>",
-        "pubDate": "Tue, 08 Sep 2026 20:08:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49616272"
-      },
-      {
-        "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-        "link": "https://github.com/argonautlabsai/deltafin",
-        "description": "<p>Article URL: <a href=\"https://github.com/argonautlabsai/deltafin\">https://github.com/argonautlabsai/deltafin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616257\">https://news.ycombinator.com/item?id=49616257</a></p>\n<p>Points: 229</p>\n<p># Comments: 118</p>",
-        "pubDate": "Tue, 08 Sep 2026 20:07:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49616257"
-      },
-      {
         "title": "Muse – Meta’s personal AI agent",
         "link": "https://ai.meta.com/muse/",
-        "description": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 372</p>\n<p># Comments: 394</p>",
+        "description": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 530</p>\n<p># Comments: 573</p>",
         "pubDate": "Tue, 08 Sep 2026 19:25:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49615537"
       },
       {
-        "title": "ChatGPT Images 2.5",
-        "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49614720\">https://news.ycombinator.com/item?id=49614720</a></p>\n<p>Points: 277</p>\n<p># Comments: 373</p>",
-        "pubDate": "Tue, 08 Sep 2026 18:37:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49614720"
-      },
-      {
         "title": "On the Navier–Stokes Millennium Prize Problem",
         "link": "https://openai.com/index/navier-stokes-solution/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/navier-stokes-solution/\">https://openai.com/index/navier-stokes-solution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 1182</p>\n<p># Comments: 1014</p>",
+        "description": "<p>Further discussion:<p><a href=\"https://simonwillison.net/2026/Sep/8/on-navier-stokes/\" rel=\"nofollow\">https://simonwillison.net/2026/Sep/8/on-navier-stokes/</a>, <a href=\"https://news.ycombinator.com/item?id=49621697\">https://news.ycombinator.com/item?id=49621697</a><p><a href=\"https://twitter.com/sama/status/2097385167002415140\" rel=\"nofollow\">https://twitter.com/sama/status/2097385167002415140</a>, <a href=\"https://xcancel.com/sama/status/2097385167002415140\" rel=\"nofollow\">https://xcancel.com/sama/status/2097385167002415140</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 1269</p>\n<p># Comments: 1017</p>",
         "pubDate": "Tue, 08 Sep 2026 17:13:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49613262"
       },
       {
-        "title": "Show HN: LLM Attention Visualization",
-        "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "description": "<p>Article URL: <a href=\"https://ishamf.dev/p/llm-attention-visualizer/\">https://ishamf.dev/p/llm-attention-visualizer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613068\">https://news.ycombinator.com/item?id=49613068</a></p>\n<p>Points: 141</p>\n<p># Comments: 23</p>",
-        "pubDate": "Tue, 08 Sep 2026 16:59:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49613068"
+        "title": "Into the depths of C: Elaborating the de facto standards (2016)",
+        "link": "https://dl.acm.org/doi/10.1145/2980983.2908081",
+        "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/2980983.2908081\">https://dl.acm.org/doi/10.1145/2980983.2908081</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612089\">https://news.ycombinator.com/item?id=49612089</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 08 Sep 2026 15:49:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49612089"
       },
       {
         "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
         "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-        "description": "<p><a href=\"https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\" rel=\"nofollow\">https://deepmind.google/blog/alphagenome-atlas-a-predictive-...</a><p><a href=\"https://deepmind.google.com/science/alphagenome/atlas\" rel=\"nofollow\">https://deepmind.google.com/science/alphagenome/atlas</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611251\">https://news.ycombinator.com/item?id=49611251</a></p>\n<p>Points: 511</p>\n<p># Comments: 117</p>",
+        "description": "<p><a href=\"https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\" rel=\"nofollow\">https://deepmind.google/blog/alphagenome-atlas-a-predictive-...</a><p><a href=\"https://deepmind.google.com/science/alphagenome/atlas\" rel=\"nofollow\">https://deepmind.google.com/science/alphagenome/atlas</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611251\">https://news.ycombinator.com/item?id=49611251</a></p>\n<p>Points: 567</p>\n<p># Comments: 122</p>",
         "pubDate": "Tue, 08 Sep 2026 14:55:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49611251"
       },
       {
         "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
         "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/\">https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611128\">https://news.ycombinator.com/item?id=49611128</a></p>\n<p>Points: 225</p>\n<p># Comments: 110</p>",
+        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/\">https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611128\">https://news.ycombinator.com/item?id=49611128</a></p>\n<p>Points: 254</p>\n<p># Comments: 125</p>",
         "pubDate": "Tue, 08 Sep 2026 14:49:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=49611128"
       },
       {
         "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
         "link": "https://github.com/ayghri/i-have-adhd",
-        "description": "<p>Article URL: <a href=\"https://github.com/ayghri/i-have-adhd\">https://github.com/ayghri/i-have-adhd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610631\">https://news.ycombinator.com/item?id=49610631</a></p>\n<p>Points: 352</p>\n<p># Comments: 267</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/ayghri/i-have-adhd\">https://github.com/ayghri/i-have-adhd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610631\">https://news.ycombinator.com/item?id=49610631</a></p>\n<p>Points: 463</p>\n<p># Comments: 316</p>",
         "pubDate": "Tue, 08 Sep 2026 14:13:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49610631"
       },
       {
         "title": "DaVinci Resolve 21.1",
         "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
-        "description": "<p>Article URL: <a href=\"https://www.blackmagicdesign.com/media/release/20260908-03\">https://www.blackmagicdesign.com/media/release/20260908-03</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610181\">https://news.ycombinator.com/item?id=49610181</a></p>\n<p>Points: 369</p>\n<p># Comments: 164</p>",
+        "description": "<p>Article URL: <a href=\"https://www.blackmagicdesign.com/media/release/20260908-03\">https://www.blackmagicdesign.com/media/release/20260908-03</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610181\">https://news.ycombinator.com/item?id=49610181</a></p>\n<p>Points: 409</p>\n<p># Comments: 185</p>",
         "pubDate": "Tue, 08 Sep 2026 13:36:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49610181"
-      },
-      {
-        "title": "Show HN: Copperhead – Cursor for circuit boards",
-        "link": "https://copperhead.sh/",
-        "description": "<p>Article URL: <a href=\"https://copperhead.sh/\">https://copperhead.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610059\">https://news.ycombinator.com/item?id=49610059</a></p>\n<p>Points: 213</p>\n<p># Comments: 87</p>",
-        "pubDate": "Tue, 08 Sep 2026 13:26:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49610059"
-      },
-      {
-        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-        "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "description": "<p>Article URL: <a href=\"https://cims.nyu.edu/~tristanb/statement.pdf\">https://cims.nyu.edu/~tristanb/statement.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605915\">https://news.ycombinator.com/item?id=49605915</a></p>\n<p>Points: 1384</p>\n<p># Comments: 592</p>",
-        "pubDate": "Tue, 08 Sep 2026 05:42:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49605915"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-09T04:25:45.381Z",
+  "lastUpdated": "2026-09-09T11:11:06.489Z",
   "stats": {
     "feeds": 2,
     "articles": 20
