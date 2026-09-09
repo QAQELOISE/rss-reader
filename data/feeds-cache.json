@@ -5,113 +5,141 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-09T16:28:09.400Z"
+      "lastFetched": "2026-09-09T20:51:28.231Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-09T16:28:19.006Z"
+      "lastFetched": "2026-09-09T20:51:34.222Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-        "link": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-        "description": "<p>Article URL: <a href=\"https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/\">https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628704\">https://news.ycombinator.com/item?id=49628704</a></p>\n<p>Points: 62</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 09 Sep 2026 16:01:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49628704"
+        "title": "iPhone Duo",
+        "link": "https://www.apple.com/iphone-duo/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/iphone-duo/\">https://www.apple.com/iphone-duo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630931\">https://news.ycombinator.com/item?id=49630931</a></p>\n<p>Points: 508</p>\n<p># Comments: 1136</p>",
+        "pubDate": "Wed, 09 Sep 2026 18:15:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630931"
       },
       {
-        "title": "GNU Radio in the Browser",
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "link": "https://github.com/OtoDock/oto-dock",
+        "description": "<p>Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.<p>Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).<p>The agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.<p>Trying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.<p>AI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.<p>I would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.<p>GitHub: <a href=\"https://github.com/OtoDock/oto-dock\" rel=\"nofollow\">https://github.com/OtoDock/oto-dock</a>\nWebsite: <a href=\"https://otodock.io\" rel=\"nofollow\">https://otodock.io</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630606\">https://news.ycombinator.com/item?id=49630606</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:57:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630606"
+      },
+      {
+        "title": "Apple Watch Ultra 4",
+        "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/\">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630583\">https://news.ycombinator.com/item?id=49630583</a></p>\n<p>Points: 58</p>\n<p># Comments: 89</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:56:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630583"
+      },
+      {
+        "title": "Apple Watch Series 12",
+        "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/\">https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630566\">https://news.ycombinator.com/item?id=49630566</a></p>\n<p>Points: 141</p>\n<p># Comments: 137</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:56:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630566"
+      },
+      {
+        "title": "AirPods 5",
+        "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\">https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630253\">https://news.ycombinator.com/item?id=49630253</a></p>\n<p>Points: 239</p>\n<p># Comments: 196</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:39:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630253"
+      },
+      {
+        "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+        "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/\">https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630151\">https://news.ycombinator.com/item?id=49630151</a></p>\n<p>Points: 160</p>\n<p># Comments: 121</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:33:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630151"
+      },
+      {
+        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+        "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+        "description": "<p>Article URL: <a href=\"https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3\">https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630026\">https://news.ycombinator.com/item?id=49630026</a></p>\n<p>Points: 105</p>\n<p># Comments: 46</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:24:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49630026"
+      },
+      {
+        "title": "Growing proof that autonomous cars save lives",
+        "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/are-self-driving-cars-safe\">https://spectrum.ieee.org/are-self-driving-cars-safe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49629886\">https://news.ycombinator.com/item?id=49629886</a></p>\n<p>Points: 74</p>\n<p># Comments: 105</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:14:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49629886"
+      },
+      {
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "link": "https://arxiv.org/abs/2609.09153",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.09153\">https://arxiv.org/abs/2609.09153</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49629868\">https://news.ycombinator.com/item?id=49629868</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:13:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49629868"
+      },
+      {
+        "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+        "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+        "description": "<p>Article URL: <a href=\"https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/\">https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49629865\">https://news.ycombinator.com/item?id=49629865</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+        "pubDate": "Wed, 09 Sep 2026 17:13:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49629865"
+      },
+      {
+        "title": "Understanding the recent DDoS attack against Read the Docs",
+        "link": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+        "description": "<p>Article URL: <a href=\"https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/\">https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628614\">https://news.ycombinator.com/item?id=49628614</a></p>\n<p>Points: 112</p>\n<p># Comments: 39</p>",
+        "pubDate": "Wed, 09 Sep 2026 15:55:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49628614"
+      },
+      {
+        "title": "GNU Radio in the browser",
         "link": "https://gnuradioworld.com/",
-        "description": "<p>Article URL: <a href=\"https://gnuradioworld.com/\">https://gnuradioworld.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628576\">https://news.ycombinator.com/item?id=49628576</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://gnuradioworld.com/\">https://gnuradioworld.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628576\">https://news.ycombinator.com/item?id=49628576</a></p>\n<p>Points: 134</p>\n<p># Comments: 18</p>",
         "pubDate": "Wed, 09 Sep 2026 15:53:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49628576"
       },
       {
         "title": "No Man's Sky Cosmos",
         "link": "https://www.nomanssky.com/cosmos-update/",
-        "description": "<p>Article URL: <a href=\"https://www.nomanssky.com/cosmos-update/\">https://www.nomanssky.com/cosmos-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628493\">https://news.ycombinator.com/item?id=49628493</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://www.nomanssky.com/cosmos-update/\">https://www.nomanssky.com/cosmos-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628493\">https://news.ycombinator.com/item?id=49628493</a></p>\n<p>Points: 186</p>\n<p># Comments: 200</p>",
         "pubDate": "Wed, 09 Sep 2026 15:47:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49628493"
       },
       {
-        "title": "Better AI code comment detector",
-        "link": "https://entropicthoughts.com/better-ai-comment-classifier",
-        "description": "<p>Article URL: <a href=\"https://entropicthoughts.com/better-ai-comment-classifier\">https://entropicthoughts.com/better-ai-comment-classifier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628454\">https://news.ycombinator.com/item?id=49628454</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
-        "pubDate": "Wed, 09 Sep 2026 15:45:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49628454"
-      },
-      {
-        "title": "Planet Labs' Open Satellite Feed",
+        "title": "Planet Labs' open satellite feed",
         "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-        "description": "<p>Article URL: <a href=\"https://tech.marksblogg.com/planet-labs-open-satellite-feed.html\">https://tech.marksblogg.com/planet-labs-open-satellite-feed.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628429\">https://news.ycombinator.com/item?id=49628429</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://tech.marksblogg.com/planet-labs-open-satellite-feed.html\">https://tech.marksblogg.com/planet-labs-open-satellite-feed.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628429\">https://news.ycombinator.com/item?id=49628429</a></p>\n<p>Points: 110</p>\n<p># Comments: 21</p>",
         "pubDate": "Wed, 09 Sep 2026 15:44:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49628429"
       },
       {
-        "title": "Rails 8 Guide: Features, Requirements and Upgrade Path (2026)",
-        "link": "https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html",
-        "description": "<p>Article URL: <a href=\"https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html\">https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628409\">https://news.ycombinator.com/item?id=49628409</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 09 Sep 2026 15:42:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49628409"
-      },
-      {
-        "title": "Bomb Sense",
-        "link": "https://danboland.net/2021/07/15/bomb-sense.html",
-        "description": "<p>Article URL: <a href=\"https://danboland.net/2021/07/15/bomb-sense.html\">https://danboland.net/2021/07/15/bomb-sense.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628367\">https://news.ycombinator.com/item?id=49628367</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 09 Sep 2026 15:40:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49628367"
-      },
-      {
-        "title": "We Accidentally Built a Synthetic Cell Factory",
+        "title": "We accidentally built a synthetic cell factory",
         "link": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-        "description": "<p>Article URL: <a href=\"https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory\">https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628290\">https://news.ycombinator.com/item?id=49628290</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory\">https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628290\">https://news.ycombinator.com/item?id=49628290</a></p>\n<p>Points: 63</p>\n<p># Comments: 4</p>",
         "pubDate": "Wed, 09 Sep 2026 15:34:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=49628290"
       },
       {
-        "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
-        "link": "https://www.nber.org/papers/w35514",
-        "description": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35514\">https://www.nber.org/papers/w35514</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627655\">https://news.ycombinator.com/item?id=49627655</a></p>\n<p>Points: 42</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 09 Sep 2026 14:55:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49627655"
-      },
-      {
-        "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-        "link": "https://github.com/Atomburstofficial/geiger",
-        "description": "<p>Article URL: <a href=\"https://github.com/Atomburstofficial/geiger\">https://github.com/Atomburstofficial/geiger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627646\">https://news.ycombinator.com/item?id=49627646</a></p>\n<p>Points: 26</p>\n<p># Comments: 15</p>",
-        "pubDate": "Wed, 09 Sep 2026 14:54:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49627646"
-      },
-      {
-        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
         "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-        "description": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\">https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627370\">https://news.ycombinator.com/item?id=49627370</a></p>\n<p>Points: 43</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\">https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627370\">https://news.ycombinator.com/item?id=49627370</a></p>\n<p>Points: 255</p>\n<p># Comments: 96</p>",
         "pubDate": "Wed, 09 Sep 2026 14:37:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49627370"
       },
       {
-        "title": "Microsoft/TracerAI withdraws copyright takedown against Luanti",
-        "link": "https://blog.luanti.org/2026/09/08/dmca-rescinded/",
-        "description": "<p>Article URL: <a href=\"https://blog.luanti.org/2026/09/08/dmca-rescinded/\">https://blog.luanti.org/2026/09/08/dmca-rescinded/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627306\">https://news.ycombinator.com/item?id=49627306</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 09 Sep 2026 14:33:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49627306"
+        "title": "What will our economic future look like?",
+        "link": "https://www.anthropic.com/institute/econ-scenarios",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/institute/econ-scenarios\">https://www.anthropic.com/institute/econ-scenarios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626373\">https://news.ycombinator.com/item?id=49626373</a></p>\n<p>Points: 115</p>\n<p># Comments: 185</p>",
+        "pubDate": "Wed, 09 Sep 2026 13:38:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49626373"
       },
       {
-        "title": "Playing whack-a-mole is losing",
-        "link": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
-        "description": "<p>Article URL: <a href=\"https://dadrian.io/blog/posts/whack-a-mole-is-losing/\">https://dadrian.io/blog/posts/whack-a-mole-is-losing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626429\">https://news.ycombinator.com/item?id=49626429</a></p>\n<p>Points: 31</p>\n<p># Comments: 8</p>",
-        "pubDate": "Wed, 09 Sep 2026 13:41:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49626429"
-      },
-      {
-        "title": "Tailwind Labs is joining Shopify",
+        "title": "Shopify acquires Tailwind",
         "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-        "description": "<p>Article URL: <a href=\"https://tailwindcss.com/blog/tailwind-is-joining-shopify\">https://tailwindcss.com/blog/tailwind-is-joining-shopify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626190\">https://news.ycombinator.com/item?id=49626190</a></p>\n<p>Points: 450</p>\n<p># Comments: 173</p>",
+        "description": "<p>Article URL: <a href=\"https://tailwindcss.com/blog/tailwind-is-joining-shopify\">https://tailwindcss.com/blog/tailwind-is-joining-shopify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626190\">https://news.ycombinator.com/item?id=49626190</a></p>\n<p>Points: 729</p>\n<p># Comments: 304</p>",
         "pubDate": "Wed, 09 Sep 2026 13:27:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49626190"
       },
@@ -123,44 +151,16 @@
         "guid": "https://news.ycombinator.com/item?id=49625110"
       },
       {
-        "title": "I advertise malicious software on Google Ads",
+        "title": "How I advertise malicious software on Google Ads",
         "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
-        "description": "<p>Article URL: <a href=\"https://xlii.space/eng/malicious-software-on-google-ads/\">https://xlii.space/eng/malicious-software-on-google-ads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624856\">https://news.ycombinator.com/item?id=49624856</a></p>\n<p>Points: 246</p>\n<p># Comments: 143</p>",
+        "description": "<p>Article URL: <a href=\"https://xlii.space/eng/malicious-software-on-google-ads/\">https://xlii.space/eng/malicious-software-on-google-ads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624856\">https://news.ycombinator.com/item?id=49624856</a></p>\n<p>Points: 312</p>\n<p># Comments: 190</p>",
         "pubDate": "Wed, 09 Sep 2026 11:43:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49624856"
-      },
-      {
-        "title": "Desert Ant Labs: local, fast models that run on device",
-        "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
-        "description": "<p>Article URL: <a href=\"https://desertant.com/blog/introducing-desert-ant-labs/\">https://desertant.com/blog/introducing-desert-ant-labs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624823\">https://news.ycombinator.com/item?id=49624823</a></p>\n<p>Points: 254</p>\n<p># Comments: 67</p>",
-        "pubDate": "Wed, 09 Sep 2026 11:39:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49624823"
-      },
-      {
-        "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-        "link": "https://news.ycombinator.com/item?id=49624603",
-        "description": "<p>DSeek plans to officially release the V4.1 Flash model around September 10, 2026 (Beijing Time). After extensive internal and external testing, V4.1 Flash has comprehensively surpassed V4 Pro across all key metrics, including performance, cost, speed, and task completion time. In keeping with our commitment to user responsibility, following the official launch of V4.1 Flash and prior to the release of V4.1 Pro, all requests to the Pro model will be routed to V4.1 Flash and billed at Flash's price. If you encounter any issues during your comparative testing between V4 Pro and V4.1 Flash, please do not hesitate to reach out to us with your feedback. Thank you for your support!<p>We will adjust the pricing for the Flash series effective from 12:00 Beijing Time on September 10, 2026. During off-peak hours, the unit price will be $0.003 for input cache hits, $0.15 for input cache misses, and $0.6 for output. Peak-hour prices will be double the off-peak rates. Please plan your usage accordingly.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624603\">https://news.ycombinator.com/item?id=49624603</a></p>\n<p>Points: 307</p>\n<p># Comments: 160</p>",
-        "pubDate": "Wed, 09 Sep 2026 11:19:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49624603"
-      },
-      {
-        "title": "Building a Wall Lamp from Scratch",
-        "link": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
-        "description": "<p>Article URL: <a href=\"https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/\">https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623938\">https://news.ycombinator.com/item?id=49623938</a></p>\n<p>Points: 62</p>\n<p># Comments: 23</p>",
-        "pubDate": "Wed, 09 Sep 2026 10:01:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49623938"
-      },
-      {
-        "title": "Lotus Notes and the dangers of starting from scratch",
-        "link": "https://buttondown.com/blog/lotus-notes-email",
-        "description": "<p>Article URL: <a href=\"https://buttondown.com/blog/lotus-notes-email\">https://buttondown.com/blog/lotus-notes-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623937\">https://news.ycombinator.com/item?id=49623937</a></p>\n<p>Points: 129</p>\n<p># Comments: 85</p>",
-        "pubDate": "Wed, 09 Sep 2026 10:01:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49623937"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-09T16:28:19.006Z",
+  "lastUpdated": "2026-09-09T20:51:34.222Z",
   "stats": {
     "feeds": 2,
     "articles": 20
