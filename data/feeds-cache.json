@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-11T04:22:20.331Z"
+      "lastFetched": "2026-09-11T11:05:48.958Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-11T04:22:39.679Z"
+      "lastFetched": "2026-09-11T11:05:54.772Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "LLM Visualizer – Build a Transformer from Scratch",
-        "link": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
-        "description": "<p>Article URL: <a href=\"https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\">https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652996\">https://news.ycombinator.com/item?id=49652996</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 11 Sep 2026 02:51:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49652996"
+        "title": "Resist \"AI\"",
+        "link": "https://ronjeffries.com/articles/-v026/x/t/",
+        "description": "<p>Article URL: <a href=\"https://ronjeffries.com/articles/-v026/x/t/\">https://ronjeffries.com/articles/-v026/x/t/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656033\">https://news.ycombinator.com/item?id=49656033</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 11 Sep 2026 10:19:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49656033"
+      },
+      {
+        "title": "The Death of Shame Is Tearing Us Apart",
+        "link": "https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart",
+        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart\">https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655619\">https://news.ycombinator.com/item?id=49655619</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 11 Sep 2026 09:30:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49655619"
+      },
+      {
+        "title": "Cherenkov Radiation - traveling faster than light",
+        "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+        "description": "<p>Article URL: <a href=\"http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655286\">https://news.ycombinator.com/item?id=49655286</a></p>\n<p>Points: 63</p>\n<p># Comments: 45</p>",
+        "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49655286"
+      },
+      {
+        "title": "Neijuan",
+        "link": "https://en.wikipedia.org/wiki/Neijuan",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Neijuan\">https://en.wikipedia.org/wiki/Neijuan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655176\">https://news.ycombinator.com/item?id=49655176</a></p>\n<p>Points: 40</p>\n<p># Comments: 12</p>",
+        "pubDate": "Fri, 11 Sep 2026 08:26:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49655176"
+      },
+      {
+        "title": "CSS Curiosities of the Past",
+        "link": "https://vale.rocks/posts/css-relics",
+        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/css-relics\">https://vale.rocks/posts/css-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49654962\">https://news.ycombinator.com/item?id=49654962</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 11 Sep 2026 07:57:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49654962"
+      },
+      {
+        "title": "GPT‑Live‑1 in the API",
+        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-live-1-in-the-api/\">https://openai.com/index/introducing-gpt-live-1-in-the-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653985\">https://news.ycombinator.com/item?id=49653985</a></p>\n<p>Points: 28</p>\n<p># Comments: 24</p>",
+        "pubDate": "Fri, 11 Sep 2026 05:45:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49653985"
+      },
+      {
+        "title": "Exercise intensity is associated with cardiometabolic health",
+        "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+        "description": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2\">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653328\">https://news.ycombinator.com/item?id=49653328</a></p>\n<p>Points: 105</p>\n<p># Comments: 47</p>",
+        "pubDate": "Fri, 11 Sep 2026 03:48:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49653328"
       },
       {
         "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
         "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-        "description": "<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 93</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 233</p>\n<p># Comments: 80</p>",
         "pubDate": "Fri, 11 Sep 2026 01:00:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49652237"
       },
       {
-        "title": "Herdr Studio",
-        "link": "https://powerfooI.github.io/herdr-studio/",
-        "description": "<p>Article URL: <a href=\"https://powerfooI.github.io/herdr-studio/\">https://powerfooI.github.io/herdr-studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652188\">https://news.ycombinator.com/item?id=49652188</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 11 Sep 2026 00:54:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49652188"
-      },
-      {
-        "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-        "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8r6y4me2g6o\">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652105\">https://news.ycombinator.com/item?id=49652105</a></p>\n<p>Points: 127</p>\n<p># Comments: 97</p>",
-        "pubDate": "Fri, 11 Sep 2026 00:42:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49652105"
-      },
-      {
-        "title": "YuE2 · Frontier Music with Symbolic Planning",
-        "link": "https://map-yue2.github.io/",
-        "description": "<p>Article URL: <a href=\"https://map-yue2.github.io/\">https://map-yue2.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652028\">https://news.ycombinator.com/item?id=49652028</a></p>\n<p>Points: 63</p>\n<p># Comments: 51</p>",
-        "pubDate": "Fri, 11 Sep 2026 00:33:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49652028"
-      },
-      {
-        "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-        "link": "https://system76.com/workstations/thelio-mira-ai",
-        "description": "<p>Article URL: <a href=\"https://system76.com/workstations/thelio-mira-ai\">https://system76.com/workstations/thelio-mira-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651372\">https://news.ycombinator.com/item?id=49651372</a></p>\n<p>Points: 60</p>\n<p># Comments: 38</p>",
-        "pubDate": "Thu, 10 Sep 2026 23:10:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49651372"
-      },
-      {
         "title": "Nine coding harnesses vs. your laptop",
         "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-        "description": "<p>Article URL: <a href=\"https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74\">https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651221\">https://news.ycombinator.com/item?id=49651221</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74\">https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651221\">https://news.ycombinator.com/item?id=49651221</a></p>\n<p>Points: 108</p>\n<p># Comments: 30</p>",
         "pubDate": "Thu, 10 Sep 2026 22:54:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49651221"
       },
       {
         "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
         "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-        "description": "<p>Article URL: <a href=\"https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx\">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49650418\">https://news.ycombinator.com/item?id=49650418</a></p>\n<p>Points: 76</p>\n<p># Comments: 122</p>",
+        "description": "<p>Article URL: <a href=\"https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx\">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49650418\">https://news.ycombinator.com/item?id=49650418</a></p>\n<p>Points: 108</p>\n<p># Comments: 192</p>",
         "pubDate": "Thu, 10 Sep 2026 21:30:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49650418"
       },
       {
         "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
         "link": "https://merybenavente.me/blog/proof-of-capture",
-        "description": "<p>Article URL: <a href=\"https://merybenavente.me/blog/proof-of-capture\">https://merybenavente.me/blog/proof-of-capture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649222\">https://news.ycombinator.com/item?id=49649222</a></p>\n<p>Points: 77</p>\n<p># Comments: 51</p>",
+        "description": "<p>Article URL: <a href=\"https://merybenavente.me/blog/proof-of-capture\">https://merybenavente.me/blog/proof-of-capture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649222\">https://news.ycombinator.com/item?id=49649222</a></p>\n<p>Points: 113</p>\n<p># Comments: 64</p>",
         "pubDate": "Thu, 10 Sep 2026 19:44:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49649222"
       },
       {
         "title": "OpenAI Agents API",
         "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Points: 179</p>\n<p># Comments: 107</p>",
+        "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Points: 272</p>\n<p># Comments: 150</p>",
         "pubDate": "Thu, 10 Sep 2026 19:43:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49649213"
       },
       {
         "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
         "link": "https://auberon.xyz/blog/posts/deathray/",
-        "description": "<p>Article URL: <a href=\"https://auberon.xyz/blog/posts/deathray/\">https://auberon.xyz/blog/posts/deathray/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649124\">https://news.ycombinator.com/item?id=49649124</a></p>\n<p>Points: 110</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://auberon.xyz/blog/posts/deathray/\">https://auberon.xyz/blog/posts/deathray/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649124\">https://news.ycombinator.com/item?id=49649124</a></p>\n<p>Points: 208</p>\n<p># Comments: 126</p>",
         "pubDate": "Thu, 10 Sep 2026 19:34:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49649124"
       },
       {
         "title": "JEP 544: Ahead-of-Time Code Compilation",
         "link": "https://openjdk.org/jeps/544",
-        "description": "<p>Article URL: <a href=\"https://openjdk.org/jeps/544\">https://openjdk.org/jeps/544</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647404\">https://news.ycombinator.com/item?id=49647404</a></p>\n<p>Points: 83</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://openjdk.org/jeps/544\">https://openjdk.org/jeps/544</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647404\">https://news.ycombinator.com/item?id=49647404</a></p>\n<p>Points: 95</p>\n<p># Comments: 40</p>",
         "pubDate": "Thu, 10 Sep 2026 17:30:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49647404"
       },
       {
         "title": "Detecting and countering misuse of AI: September 2026",
         "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "description": "<p><a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647300\">https://news.ycombinator.com/item?id=49647300</a></p>\n<p>Points: 100</p>\n<p># Comments: 167</p>",
+        "description": "<p><a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647300\">https://news.ycombinator.com/item?id=49647300</a></p>\n<p>Points: 138</p>\n<p># Comments: 201</p>",
         "pubDate": "Thu, 10 Sep 2026 17:23:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49647300"
       },
       {
         "title": "Music Theory for the 21st-Century Classroom",
         "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-        "description": "<p>Article URL: <a href=\"https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647134\">https://news.ycombinator.com/item?id=49647134</a></p>\n<p>Points: 180</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647134\">https://news.ycombinator.com/item?id=49647134</a></p>\n<p>Points: 235</p>\n<p># Comments: 100</p>",
         "pubDate": "Thu, 10 Sep 2026 17:14:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49647134"
       },
       {
         "title": "Forgejo <=16.0.3 Critical RCE",
         "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-        "description": "<p>Article URL: <a href=\"https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md\">https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645907\">https://news.ycombinator.com/item?id=49645907</a></p>\n<p>Points: 156</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md\">https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645907\">https://news.ycombinator.com/item?id=49645907</a></p>\n<p>Points: 191</p>\n<p># Comments: 69</p>",
         "pubDate": "Thu, 10 Sep 2026 15:57:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49645907"
       },
       {
         "title": "Neki – Sharded Postgres",
         "link": "https://planetscale.com/blog/introducing-neki",
-        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-neki\">https://planetscale.com/blog/introducing-neki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645686\">https://news.ycombinator.com/item?id=49645686</a></p>\n<p>Points: 214</p>\n<p># Comments: 117</p>",
+        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-neki\">https://planetscale.com/blog/introducing-neki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645686\">https://news.ycombinator.com/item?id=49645686</a></p>\n<p>Points: 248</p>\n<p># Comments: 132</p>",
         "pubDate": "Thu, 10 Sep 2026 15:43:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49645686"
       },
       {
         "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
         "link": "https://cognition.com/blog/swe-2",
-        "description": "<p>Article URL: <a href=\"https://cognition.com/blog/swe-2\">https://cognition.com/blog/swe-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645443\">https://news.ycombinator.com/item?id=49645443</a></p>\n<p>Points: 369</p>\n<p># Comments: 157</p>",
+        "description": "<p>Article URL: <a href=\"https://cognition.com/blog/swe-2\">https://cognition.com/blog/swe-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645443\">https://news.ycombinator.com/item?id=49645443</a></p>\n<p>Points: 419</p>\n<p># Comments: 175</p>",
         "pubDate": "Thu, 10 Sep 2026 15:29:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49645443"
       },
       {
         "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
         "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-        "description": "<p><a href=\"https://dstretch.com/DecorrelationStretch.pdf\" rel=\"nofollow\">https://dstretch.com/DecorrelationStretch.pdf</a><p><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/\" rel=\"nofollow\">https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645437\">https://news.ycombinator.com/item?id=49645437</a></p>\n<p>Points: 289</p>\n<p># Comments: 46</p>",
+        "description": "<p><a href=\"https://dstretch.com/DecorrelationStretch.pdf\" rel=\"nofollow\">https://dstretch.com/DecorrelationStretch.pdf</a><p><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/\" rel=\"nofollow\">https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645437\">https://news.ycombinator.com/item?id=49645437</a></p>\n<p>Points: 342</p>\n<p># Comments: 56</p>",
         "pubDate": "Thu, 10 Sep 2026 15:29:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49645437"
-      },
-      {
-        "title": "Don't let anyone take away your big box of cables",
-        "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/hands-off-my-cables/\">https://blog.jim-nielsen.com/2026/hands-off-my-cables/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645393\">https://news.ycombinator.com/item?id=49645393</a></p>\n<p>Points: 375</p>\n<p># Comments: 276</p>",
-        "pubDate": "Thu, 10 Sep 2026 15:27:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49645393"
-      },
-      {
-        "title": "Shopify is moving from React Native back to Swift and Kotlin",
-        "link": "https://shopify.engineering/back-to-native",
-        "description": "<p>Article URL: <a href=\"https://shopify.engineering/back-to-native\">https://shopify.engineering/back-to-native</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643982\">https://news.ycombinator.com/item?id=49643982</a></p>\n<p>Points: 869</p>\n<p># Comments: 589</p>",
-        "pubDate": "Thu, 10 Sep 2026 14:09:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49643982"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-11T04:22:39.679Z",
+  "lastUpdated": "2026-09-11T11:05:54.772Z",
   "stats": {
     "feeds": 2,
     "articles": 20
