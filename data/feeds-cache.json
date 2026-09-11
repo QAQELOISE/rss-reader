@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-11T11:05:48.958Z"
+      "lastFetched": "2026-09-11T16:21:20.345Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-11T11:05:54.772Z"
+      "lastFetched": "2026-09-11T16:21:32.969Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Resist \"AI\"",
-        "link": "https://ronjeffries.com/articles/-v026/x/t/",
-        "description": "<p>Article URL: <a href=\"https://ronjeffries.com/articles/-v026/x/t/\">https://ronjeffries.com/articles/-v026/x/t/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656033\">https://news.ycombinator.com/item?id=49656033</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 11 Sep 2026 10:19:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49656033"
+        "title": "Godot and Rust based multiplexer (terminal panes and more)",
+        "link": "https://github.com/godot-pty/gpty",
+        "description": "<p>Article URL: <a href=\"https://github.com/godot-pty/gpty\">https://github.com/godot-pty/gpty</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660676\">https://news.ycombinator.com/item?id=49660676</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 11 Sep 2026 16:03:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49660676"
       },
       {
-        "title": "The Death of Shame Is Tearing Us Apart",
-        "link": "https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart",
-        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart\">https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655619\">https://news.ycombinator.com/item?id=49655619</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
-        "pubDate": "Fri, 11 Sep 2026 09:30:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49655619"
+        "title": "Hacker News with reduced priority for AI driven content",
+        "link": "https://sprinklz.io/public/pdwt4dve5uai",
+        "description": "<p>Article URL: <a href=\"https://sprinklz.io/public/pdwt4dve5uai\">https://sprinklz.io/public/pdwt4dve5uai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660482\">https://news.ycombinator.com/item?id=49660482</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+        "pubDate": "Fri, 11 Sep 2026 15:52:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49660482"
+      },
+      {
+        "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
+        "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/\">https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660104\">https://news.ycombinator.com/item?id=49660104</a></p>\n<p>Points: 36</p>\n<p># Comments: 14</p>",
+        "pubDate": "Fri, 11 Sep 2026 15:29:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49660104"
+      },
+      {
+        "title": "Show HN: Hacker News, without AI",
+        "link": "https://hcker.news/?ai=exclude",
+        "description": "<p>Article URL: <a href=\"https://hcker.news/?ai=exclude\">https://hcker.news/?ai=exclude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659647\">https://news.ycombinator.com/item?id=49659647</a></p>\n<p>Points: 63</p>\n<p># Comments: 38</p>",
+        "pubDate": "Fri, 11 Sep 2026 15:01:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49659647"
+      },
+      {
+        "title": "HuggingFace: Security.txt",
+        "link": "https://huggingface.co/security.txt",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/security.txt\">https://huggingface.co/security.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659245\">https://news.ycombinator.com/item?id=49659245</a></p>\n<p>Points: 91</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 11 Sep 2026 14:38:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49659245"
+      },
+      {
+        "title": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
+        "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/",
+        "description": "<p>Article URL: <a href=\"https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/\">https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658819\">https://news.ycombinator.com/item?id=49658819</a></p>\n<p>Points: 40</p>\n<p># Comments: 13</p>",
+        "pubDate": "Fri, 11 Sep 2026 14:14:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49658819"
+      },
+      {
+        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "link": "https://clawfight.ai/agents.md",
+        "description": "<p>How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space.<p>This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (5090). I installed claude code and set to dangerously skip permissions, enabled /rc and became completely submerged in the all-hours modern AI builder workflow.<p>I stood up openclaw to see if I could have an agentic org drive this project. I spent a good amount of time on “openclaw ops”, babysitting 3 agents and trying to make them the best versions of themselves. They still do stupid things that cost me tokens.<p>For the game render, I started out using Unreal Engine and allowing agents to remote control their players, but the quality just wasn’t there. I recently moved to doing near-real time video renders of the match and will bring UE back in for multi-agent games.<p>Everything is AI generated. I’m fascinated by the future of realtime video generation and building out native MCP infrastructure.<p>You can play directly from model provider apps (claude connector or openai plugin) and has fallback support for more basic HTTP clients. But the architecture and gameplay is MCP first.<p>Tell your agent/app “go read clawfight.ai/agents.md and play”</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658483\">https://news.ycombinator.com/item?id=49658483</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 11 Sep 2026 13:54:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49658483"
+      },
+      {
+        "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+        "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+        "description": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html\">https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658302\">https://news.ycombinator.com/item?id=49658302</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 11 Sep 2026 13:41:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49658302"
+      },
+      {
+        "title": "Houthis 'take control' of key island in global shipping route",
+        "link": "https://www.bbc.com/news/live/cmd683p01eljt",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cmd683p01eljt\">https://www.bbc.com/news/live/cmd683p01eljt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658299\">https://news.ycombinator.com/item?id=49658299</a></p>\n<p>Points: 236</p>\n<p># Comments: 310</p>",
+        "pubDate": "Fri, 11 Sep 2026 13:41:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49658299"
+      },
+      {
+        "title": "How to Build a $20B Semiconductor Fab (2024)",
+        "link": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor",
+        "description": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor\">https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49657991\">https://news.ycombinator.com/item?id=49657991</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 11 Sep 2026 13:22:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49657991"
+      },
+      {
+        "title": "The Waymo effect: how AI is quietly making research less collaborative",
+        "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "description": "<p>Article URL: <a href=\"https://www.researchagenda.news/articles/the-waymo-effect.html\">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656496\">https://news.ycombinator.com/item?id=49656496</a></p>\n<p>Points: 303</p>\n<p># Comments: 244</p>",
+        "pubDate": "Fri, 11 Sep 2026 11:17:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49656496"
+      },
+      {
+        "title": "RTK reports token savings, but our cost benchmarks disagree",
+        "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/\">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656471\">https://news.ycombinator.com/item?id=49656471</a></p>\n<p>Points: 92</p>\n<p># Comments: 51</p>",
+        "pubDate": "Fri, 11 Sep 2026 11:15:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49656471"
+      },
+      {
+        "title": "Claude is only available to people over 18 years",
+        "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "description": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 302</p>\n<p># Comments: 378</p>",
+        "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49656225"
       },
       {
         "title": "Cherenkov Radiation - traveling faster than light",
         "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-        "description": "<p>Article URL: <a href=\"http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655286\">https://news.ycombinator.com/item?id=49655286</a></p>\n<p>Points: 63</p>\n<p># Comments: 45</p>",
+        "description": "<p>Article URL: <a href=\"http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655286\">https://news.ycombinator.com/item?id=49655286</a></p>\n<p>Points: 168</p>\n<p># Comments: 84</p>",
         "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49655286"
       },
       {
-        "title": "Neijuan",
-        "link": "https://en.wikipedia.org/wiki/Neijuan",
-        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Neijuan\">https://en.wikipedia.org/wiki/Neijuan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655176\">https://news.ycombinator.com/item?id=49655176</a></p>\n<p>Points: 40</p>\n<p># Comments: 12</p>",
-        "pubDate": "Fri, 11 Sep 2026 08:26:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49655176"
-      },
-      {
         "title": "CSS Curiosities of the Past",
         "link": "https://vale.rocks/posts/css-relics",
-        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/css-relics\">https://vale.rocks/posts/css-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49654962\">https://news.ycombinator.com/item?id=49654962</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/css-relics\">https://vale.rocks/posts/css-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49654962\">https://news.ycombinator.com/item?id=49654962</a></p>\n<p>Points: 63</p>\n<p># Comments: 39</p>",
         "pubDate": "Fri, 11 Sep 2026 07:57:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49654962"
       },
       {
-        "title": "GPT‑Live‑1 in the API",
-        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-live-1-in-the-api/\">https://openai.com/index/introducing-gpt-live-1-in-the-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653985\">https://news.ycombinator.com/item?id=49653985</a></p>\n<p>Points: 28</p>\n<p># Comments: 24</p>",
-        "pubDate": "Fri, 11 Sep 2026 05:45:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49653985"
-      },
-      {
-        "title": "Exercise intensity is associated with cardiometabolic health",
-        "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-        "description": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2\">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653328\">https://news.ycombinator.com/item?id=49653328</a></p>\n<p>Points: 105</p>\n<p># Comments: 47</p>",
-        "pubDate": "Fri, 11 Sep 2026 03:48:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49653328"
-      },
-      {
         "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
         "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-        "description": "<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 233</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 348</p>\n<p># Comments: 108</p>",
         "pubDate": "Fri, 11 Sep 2026 01:00:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49652237"
       },
       {
-        "title": "Nine coding harnesses vs. your laptop",
-        "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-        "description": "<p>Article URL: <a href=\"https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74\">https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651221\">https://news.ycombinator.com/item?id=49651221</a></p>\n<p>Points: 108</p>\n<p># Comments: 30</p>",
-        "pubDate": "Thu, 10 Sep 2026 22:54:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49651221"
-      },
-      {
-        "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-        "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-        "description": "<p>Article URL: <a href=\"https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx\">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49650418\">https://news.ycombinator.com/item?id=49650418</a></p>\n<p>Points: 108</p>\n<p># Comments: 192</p>",
-        "pubDate": "Thu, 10 Sep 2026 21:30:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49650418"
-      },
-      {
-        "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-        "link": "https://merybenavente.me/blog/proof-of-capture",
-        "description": "<p>Article URL: <a href=\"https://merybenavente.me/blog/proof-of-capture\">https://merybenavente.me/blog/proof-of-capture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649222\">https://news.ycombinator.com/item?id=49649222</a></p>\n<p>Points: 113</p>\n<p># Comments: 64</p>",
-        "pubDate": "Thu, 10 Sep 2026 19:44:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49649222"
+        "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+        "link": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+        "description": "<p>Article URL: <a href=\"https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/\">https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651046\">https://news.ycombinator.com/item?id=49651046</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 10 Sep 2026 22:33:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49651046"
       },
       {
         "title": "OpenAI Agents API",
         "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Points: 272</p>\n<p># Comments: 150</p>",
+        "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Points: 317</p>\n<p># Comments: 167</p>",
         "pubDate": "Thu, 10 Sep 2026 19:43:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49649213"
       },
       {
-        "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-        "link": "https://auberon.xyz/blog/posts/deathray/",
-        "description": "<p>Article URL: <a href=\"https://auberon.xyz/blog/posts/deathray/\">https://auberon.xyz/blog/posts/deathray/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649124\">https://news.ycombinator.com/item?id=49649124</a></p>\n<p>Points: 208</p>\n<p># Comments: 126</p>",
-        "pubDate": "Thu, 10 Sep 2026 19:34:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49649124"
-      },
-      {
-        "title": "JEP 544: Ahead-of-Time Code Compilation",
-        "link": "https://openjdk.org/jeps/544",
-        "description": "<p>Article URL: <a href=\"https://openjdk.org/jeps/544\">https://openjdk.org/jeps/544</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647404\">https://news.ycombinator.com/item?id=49647404</a></p>\n<p>Points: 95</p>\n<p># Comments: 40</p>",
-        "pubDate": "Thu, 10 Sep 2026 17:30:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49647404"
-      },
-      {
-        "title": "Detecting and countering misuse of AI: September 2026",
-        "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "description": "<p><a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647300\">https://news.ycombinator.com/item?id=49647300</a></p>\n<p>Points: 138</p>\n<p># Comments: 201</p>",
-        "pubDate": "Thu, 10 Sep 2026 17:23:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49647300"
-      },
-      {
-        "title": "Music Theory for the 21st-Century Classroom",
-        "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-        "description": "<p>Article URL: <a href=\"https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647134\">https://news.ycombinator.com/item?id=49647134</a></p>\n<p>Points: 235</p>\n<p># Comments: 100</p>",
-        "pubDate": "Thu, 10 Sep 2026 17:14:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49647134"
-      },
-      {
-        "title": "Forgejo <=16.0.3 Critical RCE",
-        "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-        "description": "<p>Article URL: <a href=\"https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md\">https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645907\">https://news.ycombinator.com/item?id=49645907</a></p>\n<p>Points: 191</p>\n<p># Comments: 69</p>",
-        "pubDate": "Thu, 10 Sep 2026 15:57:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49645907"
-      },
-      {
-        "title": "Neki – Sharded Postgres",
-        "link": "https://planetscale.com/blog/introducing-neki",
-        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-neki\">https://planetscale.com/blog/introducing-neki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645686\">https://news.ycombinator.com/item?id=49645686</a></p>\n<p>Points: 248</p>\n<p># Comments: 132</p>",
-        "pubDate": "Thu, 10 Sep 2026 15:43:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49645686"
-      },
-      {
-        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-        "link": "https://cognition.com/blog/swe-2",
-        "description": "<p>Article URL: <a href=\"https://cognition.com/blog/swe-2\">https://cognition.com/blog/swe-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645443\">https://news.ycombinator.com/item?id=49645443</a></p>\n<p>Points: 419</p>\n<p># Comments: 175</p>",
-        "pubDate": "Thu, 10 Sep 2026 15:29:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49645443"
-      },
-      {
         "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
         "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-        "description": "<p><a href=\"https://dstretch.com/DecorrelationStretch.pdf\" rel=\"nofollow\">https://dstretch.com/DecorrelationStretch.pdf</a><p><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/\" rel=\"nofollow\">https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645437\">https://news.ycombinator.com/item?id=49645437</a></p>\n<p>Points: 342</p>\n<p># Comments: 56</p>",
+        "description": "<p><a href=\"https://dstretch.com/DecorrelationStretch.pdf\" rel=\"nofollow\">https://dstretch.com/DecorrelationStretch.pdf</a><p><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/\" rel=\"nofollow\">https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645437\">https://news.ycombinator.com/item?id=49645437</a></p>\n<p>Points: 363</p>\n<p># Comments: 62</p>",
         "pubDate": "Thu, 10 Sep 2026 15:29:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49645437"
+      },
+      {
+        "title": "Don't let anyone take away your big box of cables",
+        "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/hands-off-my-cables/\">https://blog.jim-nielsen.com/2026/hands-off-my-cables/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645393\">https://news.ycombinator.com/item?id=49645393</a></p>\n<p>Points: 703</p>\n<p># Comments: 423</p>",
+        "pubDate": "Thu, 10 Sep 2026 15:27:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49645393"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-11T11:05:54.772Z",
+  "lastUpdated": "2026-09-11T16:21:32.969Z",
   "stats": {
     "feeds": 2,
     "articles": 20
