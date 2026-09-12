@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-12T04:20:50.832Z"
+      "lastFetched": "2026-09-12T10:35:10.645Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-12T04:20:50.990Z"
+      "lastFetched": "2026-09-12T10:35:10.851Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Google no longer provides direct URLs in search results",
+        "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+        "description": "<p>Article URL: <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/\">https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670493\">https://news.ycombinator.com/item?id=49670493</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 12 Sep 2026 09:08:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49670493"
+      },
+      {
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "link": "https://eiln.github.io/posts/ane.html",
+        "description": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 83</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 12 Sep 2026 07:54:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49670032"
+      },
+      {
+        "title": "Usenet rewind archive search engine",
+        "link": "https://www.usenet-rewind.com/",
+        "description": "<p>Article URL: <a href=\"https://www.usenet-rewind.com/\">https://www.usenet-rewind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668777\">https://news.ycombinator.com/item?id=49668777</a></p>\n<p>Points: 65</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sat, 12 Sep 2026 04:19:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49668777"
+      },
+      {
+        "title": "Navier-Stokes Announcement",
+        "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+        "description": "<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 169</p>\n<p># Comments: 111</p>",
+        "pubDate": "Sat, 12 Sep 2026 04:09:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49668706"
+      },
+      {
+        "title": "google.com/goto: Google's anti-scraping update",
         "link": "https://www.autom.dev/blog/google-search-goto-links",
-        "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 55</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 438</p>\n<p># Comments: 336</p>",
         "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49668386"
       },
       {
-        "title": "Pandas Should Go Extinct",
-        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-        "description": "<p>Article URL: <a href=\"https://eddie.codes/posts/pandas-should-go-extinct/\">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668198\">https://news.ycombinator.com/item?id=49668198</a></p>\n<p>Points: 58</p>\n<p># Comments: 29</p>",
-        "pubDate": "Sat, 12 Sep 2026 02:42:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49668198"
-      },
-      {
-        "title": "Ask HN: Did Google kill its enterprise workhorse model?",
-        "link": "https://news.ycombinator.com/item?id=49668196",
-        "description": "<p>Is anyone else in a panic over the Gemini 2.5 model generation (Pro, Flash) being sunset in October before there's even any Pro class model in general availability (with geo restrictions etc.)?   Google wants everyone to migrate to 3.x Flash, which beats the older Pro models on the benchmarked tasks, but isn't the same thing as the Pro class on reasoning-heavy tasks like complex reasoning on very large documents (my big use case).<p>The Gemini family had a distinct niche in document comprehension, with thousand page input documents taking only 300k tokens.  Nothing quite like that in OpenAI or Anthropic world, even at more than 10x the token adjusted price.  Should we just give up on Google at this point and engineer around the competitors' limits and eat the costs?  Totally unnecessary own goal by team Google.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668196\">https://news.ycombinator.com/item?id=49668196</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 12 Sep 2026 02:41:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49668196"
-      },
-      {
-        "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-        "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-        "description": "<p>Article URL: <a href=\"https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies\">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49667375\">https://news.ycombinator.com/item?id=49667375</a></p>\n<p>Points: 66</p>\n<p># Comments: 31</p>",
-        "pubDate": "Sat, 12 Sep 2026 00:40:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49667375"
-      },
-      {
-        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-        "link": "https://github.com/zachsaw/graphify-csharp",
-        "description": "<p>Article URL: <a href=\"https://github.com/zachsaw/graphify-csharp\">https://github.com/zachsaw/graphify-csharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49667188\">https://news.ycombinator.com/item?id=49667188</a></p>\n<p>Points: 24</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sat, 12 Sep 2026 00:16:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49667188"
-      },
-      {
         "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
         "link": "https://www.rubyhack.ai/",
-        "description": "<p>Article URL: <a href=\"https://www.rubyhack.ai/\">https://www.rubyhack.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 462</p>\n<p># Comments: 269</p>",
+        "description": "<p><a href=\"https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\" rel=\"nofollow\">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 714</p>\n<p># Comments: 400</p>",
         "pubDate": "Fri, 11 Sep 2026 23:17:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49666735"
       },
       {
-        "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-        "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666155\">https://news.ycombinator.com/item?id=49666155</a></p>\n<p>Points: 23</p>\n<p># Comments: 8</p>",
-        "pubDate": "Fri, 11 Sep 2026 22:16:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49666155"
-      },
-      {
         "title": "Project Blinkenlights",
         "link": "https://blinkenlights.de/en/",
-        "description": "<p>Article URL: <a href=\"https://blinkenlights.de/en/\">https://blinkenlights.de/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666146\">https://news.ycombinator.com/item?id=49666146</a></p>\n<p>Points: 61</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://blinkenlights.de/en/\">https://blinkenlights.de/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666146\">https://news.ycombinator.com/item?id=49666146</a></p>\n<p>Points: 96</p>\n<p># Comments: 31</p>",
         "pubDate": "Fri, 11 Sep 2026 22:15:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49666146"
       },
       {
         "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
         "link": "https://github.com/mirza-rizvi/ResolveHQ",
-        "description": "<p>Article URL: <a href=\"https://github.com/mirza-rizvi/ResolveHQ\">https://github.com/mirza-rizvi/ResolveHQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665864\">https://news.ycombinator.com/item?id=49665864</a></p>\n<p>Points: 44</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/mirza-rizvi/ResolveHQ\">https://github.com/mirza-rizvi/ResolveHQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665864\">https://news.ycombinator.com/item?id=49665864</a></p>\n<p>Points: 59</p>\n<p># Comments: 21</p>",
         "pubDate": "Fri, 11 Sep 2026 21:48:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49665864"
       },
       {
-        "title": "AI researchers debate how close we are to recursive self-improvement",
-        "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "description": "<p>Article URL: <a href=\"https://www.dwarkesh.com/p/john-beren-charlie\">https://www.dwarkesh.com/p/john-beren-charlie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665711\">https://news.ycombinator.com/item?id=49665711</a></p>\n<p>Points: 67</p>\n<p># Comments: 59</p>",
-        "pubDate": "Fri, 11 Sep 2026 21:35:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49665711"
+        "title": "Another way to leak traffic on Android has been discovered",
+        "link": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+        "description": "<p>Article URL: <a href=\"https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered\">https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665502\">https://news.ycombinator.com/item?id=49665502</a></p>\n<p>Points: 74</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 11 Sep 2026 21:16:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49665502"
       },
       {
         "title": "GrapheneOS' rewritten Messages app is released",
         "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "description": "<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 222</p>\n<p># Comments: 136</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 280</p>\n<p># Comments: 203</p>",
         "pubDate": "Fri, 11 Sep 2026 18:50:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49663373"
       },
       {
         "title": "I spent $220 on Google app ads and 60% of the installs were robots",
         "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-        "description": "<p>Article URL: <a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">https://dayzlegame.com/blog/google-ads-bot-farm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662990\">https://news.ycombinator.com/item?id=49662990</a></p>\n<p>Points: 381</p>\n<p># Comments: 197</p>",
+        "description": "<p>Article URL: <a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">https://dayzlegame.com/blog/google-ads-bot-farm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662990\">https://news.ycombinator.com/item?id=49662990</a></p>\n<p>Points: 540</p>\n<p># Comments: 282</p>",
         "pubDate": "Fri, 11 Sep 2026 18:24:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49662990"
       },
       {
         "title": "Litelm: LiteLLM Without the Bloat",
         "link": "https://github.com/kennethwolters/litelm",
-        "description": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 109</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 143</p>\n<p># Comments: 47</p>",
         "pubDate": "Fri, 11 Sep 2026 18:10:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49662767"
       },
       {
         "title": "The EPA is planning to scrap public review rules for data center pollution",
         "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-        "description": "<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 394</p>\n<p># Comments: 275</p>",
+        "description": "<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 463</p>\n<p># Comments: 337</p>",
         "pubDate": "Fri, 11 Sep 2026 18:05:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49662672"
       },
       {
         "title": "A misalignment of AI in mathematics",
         "link": "https://mathandai.org/",
-        "description": "<p><a href=\"https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/\" rel=\"nofollow\">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...</a><p><a href=\"https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://www.economist.com/science-and-technology/2026/09/11/...</a>, <a href=\"https://unwall.app/www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://unwall.app/www.economist.com/science-and-technology/...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662371\">https://news.ycombinator.com/item?id=49662371</a></p>\n<p>Points: 751</p>\n<p># Comments: 750</p>",
+        "description": "<p><a href=\"https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/\" rel=\"nofollow\">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...</a><p><a href=\"https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://www.economist.com/science-and-technology/2026/09/11/...</a>, <a href=\"https://unwall.app/www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://unwall.app/www.economist.com/science-and-technology/...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662371\">https://news.ycombinator.com/item?id=49662371</a></p>\n<p>Points: 939</p>\n<p># Comments: 899</p>",
         "pubDate": "Fri, 11 Sep 2026 17:45:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49662371"
       },
       {
         "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
         "link": "https://snap.berkeley.edu/",
-        "description": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 125</p>\n<p># Comments: 63</p>",
+        "description": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 145</p>\n<p># Comments: 84</p>",
         "pubDate": "Fri, 11 Sep 2026 17:36:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49662214"
       },
       {
         "title": "Mind-altering drugs played key role in rise of Andean civilization",
         "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 119</p>\n<p># Comments: 83</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 165</p>\n<p># Comments: 107</p>",
         "pubDate": "Fri, 11 Sep 2026 17:25:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49662020"
       },
       {
-        "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-        "link": "https://www.getzep.com/careers/",
-        "description": "<p>Article URL: <a href=\"https://www.getzep.com/careers/\">https://www.getzep.com/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49661645\">https://news.ycombinator.com/item?id=49661645</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 11 Sep 2026 17:00:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49661645"
-      },
-      {
         "title": "Rune is now open source",
         "link": "https://rune.build/blog/rune-is-now-open-source",
-        "description": "<p>Article URL: <a href=\"https://rune.build/blog/rune-is-now-open-source\">https://rune.build/blog/rune-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660149\">https://news.ycombinator.com/item?id=49660149</a></p>\n<p>Points: 157</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://rune.build/blog/rune-is-now-open-source\">https://rune.build/blog/rune-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660149\">https://news.ycombinator.com/item?id=49660149</a></p>\n<p>Points: 188</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 11 Sep 2026 15:31:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49660149"
       },
       {
-        "title": "Claude is only available to people over 18 years",
-        "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "description": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 597</p>\n<p># Comments: 613</p>",
-        "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49656225"
+        "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+        "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8r6y4me2g6o\">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652105\">https://news.ycombinator.com/item?id=49652105</a></p>\n<p>Points: 365</p>\n<p># Comments: 324</p>",
+        "pubDate": "Fri, 11 Sep 2026 00:42:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49652105"
+      },
+      {
+        "title": "Show HN: Bodily Oddities",
+        "link": "https://vester.si/bodily-oddities/",
+        "description": "<p>When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I inhaled, it would feel like a spike was being driven into my heart, and my breathing got completely shallow. I was sure I was done for, when all of a sudden, after an exhale, it disappeared.<p>It wasn't until I was in my twenties that I learned this was called Precordial catch syndrome and it happens to most everyone. Every friend I've told about it was surprised, and also most knew the feeling.<p>I collected a growing list of strange things bodies do ever since. And now finally I made it into a little page for others to see:<p><a href=\"https://vester.si/bodily-oddities/\" rel=\"nofollow\">https://vester.si/bodily-oddities/</a><p>It includes a form to tell me about new things, if you think they belong on the page. Feedback welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649789\">https://news.ycombinator.com/item?id=49649789</a></p>\n<p>Points: 252</p>\n<p># Comments: 169</p>",
+        "pubDate": "Thu, 10 Sep 2026 20:33:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49649789"
+      },
+      {
+        "title": "Detailed report on the use of solar geoengineering",
+        "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+        "description": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/\">https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49646113\">https://news.ycombinator.com/item?id=49646113</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 10 Sep 2026 16:08:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49646113"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-12T04:20:50.990Z",
+  "lastUpdated": "2026-09-12T10:35:10.851Z",
   "stats": {
     "feeds": 2,
     "articles": 20
