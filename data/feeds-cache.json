@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-12T15:26:41.120Z"
+      "lastFetched": "2026-09-12T20:28:25.875Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-12T15:27:00.739Z"
+      "lastFetched": "2026-09-12T20:28:45.560Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Ask HN: What default model do you use and why?",
-        "link": "https://news.ycombinator.com/item?id=49672966",
-        "description": "<p>I use claude for most of what I do, and Fable is largely overkill for me and frequently burns through my Max plan's session credits in minutes (!) when just doing an initial mobile app planning with 4 agents. After I waited out the timeout period 6 hours later,  and I picked up again, the cache had timed out so it burned through 2% of the session in less than a minute. Opus 4.8 is now my goto and I will be avoiding 5 until I see a reason to switch back. 4.8 is 'good enough' for what I need and has been a great value. It mostly gets things right. Most of what I do is web and mobile , largely cloud backend.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672966\">https://news.ycombinator.com/item?id=49672966</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 12 Sep 2026 14:58:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672966"
+        "title": "An open letter to Dario: if you mean it, open the weights",
+        "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+        "description": "<p>Article URL: <a href=\"https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676085\">https://news.ycombinator.com/item?id=49676085</a></p>\n<p>Points: 156</p>\n<p># Comments: 47</p>",
+        "pubDate": "Sat, 12 Sep 2026 19:15:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49676085"
+      },
+      {
+        "title": "Will There Be a 7G?",
+        "link": "https://arxiv.org/abs/2609.01877",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.01877\">https://arxiv.org/abs/2609.01877</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674498\">https://news.ycombinator.com/item?id=49674498</a></p>\n<p>Points: 52</p>\n<p># Comments: 81</p>",
+        "pubDate": "Sat, 12 Sep 2026 17:05:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49674498"
+      },
+      {
+        "title": "Make your first edit to OpenStreetMap",
+        "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "description": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 139</p>\n<p># Comments: 49</p>",
+        "pubDate": "Sat, 12 Sep 2026 16:25:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49674050"
+      },
+      {
+        "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+        "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673580\">https://news.ycombinator.com/item?id=49673580</a></p>\n<p>Points: 57</p>\n<p># Comments: 17</p>",
+        "pubDate": "Sat, 12 Sep 2026 15:49:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49673580"
+      },
+      {
+        "title": "Nvidia is the central bank of AI",
+        "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "description": "<p><a href=\"https://archive.ph/kt50V\" rel=\"nofollow\">https://archive.ph/kt50V</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 242</p>\n<p># Comments: 181</p>",
+        "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49673098"
+      },
+      {
+        "title": "I made a build visualizer to understand Bun's compile times",
+        "link": "https://lalitm.com/post/buildprof/",
+        "description": "<p>Article URL: <a href=\"https://lalitm.com/post/buildprof/\">https://lalitm.com/post/buildprof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672842\">https://news.ycombinator.com/item?id=49672842</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+        "pubDate": "Sat, 12 Sep 2026 14:45:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49672842"
+      },
+      {
+        "title": "I refuse to let SPICE die",
+        "link": "https://github.com/nefarius/vd_agent/",
+        "description": "<p>Article URL: <a href=\"https://github.com/nefarius/vd_agent/\">https://github.com/nefarius/vd_agent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672641\">https://news.ycombinator.com/item?id=49672641</a></p>\n<p>Points: 65</p>\n<p># Comments: 57</p>",
+        "pubDate": "Sat, 12 Sep 2026 14:25:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49672641"
       },
       {
         "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
         "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-        "description": "<p>Article URL: <a href=\"https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun\">https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672549\">https://news.ycombinator.com/item?id=49672549</a></p>\n<p>Points: 27</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun\">https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672549\">https://news.ycombinator.com/item?id=49672549</a></p>\n<p>Points: 103</p>\n<p># Comments: 153</p>",
         "pubDate": "Sat, 12 Sep 2026 14:16:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49672549"
       },
       {
-        "title": "You Don't Need Matrix Calculus",
-        "link": "https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html",
-        "description": "<p>Article URL: <a href=\"https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html\">https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672541\">https://news.ycombinator.com/item?id=49672541</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 12 Sep 2026 14:15:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672541"
-      },
-      {
-        "title": "We Must Pace the Frontier",
+        "title": "We must pace the frontier",
         "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-        "description": "<p>Article URL: <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672510\">https://news.ycombinator.com/item?id=49672510</a></p>\n<p>Points: 93</p>\n<p># Comments: 95</p>",
+        "description": "<p>Article URL: <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672510\">https://news.ycombinator.com/item?id=49672510</a></p>\n<p>Points: 365</p>\n<p># Comments: 502</p>",
         "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49672510"
       },
       {
-        "title": "Compiler Can Undo Your Security Checks",
-        "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-        "description": "<p>Article URL: <a href=\"https://davidbombal.com/your-compiler-can-undo-your-security-checks/\">https://davidbombal.com/your-compiler-can-undo-your-security-checks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672474\">https://news.ycombinator.com/item?id=49672474</a></p>\n<p>Points: 8</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sat, 12 Sep 2026 14:07:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672474"
-      },
-      {
         "title": "A Mathematical Framework for Transformer Circuits (2021)",
         "link": "https://transformer-circuits.pub/2021/framework/index.html",
-        "description": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2021/framework/index.html\">https://transformer-circuits.pub/2021/framework/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672365\">https://news.ycombinator.com/item?id=49672365</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2021/framework/index.html\">https://transformer-circuits.pub/2021/framework/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672365\">https://news.ycombinator.com/item?id=49672365</a></p>\n<p>Points: 61</p>\n<p># Comments: 14</p>",
         "pubDate": "Sat, 12 Sep 2026 13:56:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49672365"
       },
       {
-        "title": "My last six months at Evernote",
-        "link": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
-        "description": "<p>Article URL: <a href=\"https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/\">https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672342\">https://news.ycombinator.com/item?id=49672342</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
-        "pubDate": "Sat, 12 Sep 2026 13:54:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672342"
+        "title": "A few good ideas in programming languages",
+        "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+        "description": "<p>Article URL: <a href=\"https://prydt.xyz/blog/a-few-good-ideas-in-pl/\">https://prydt.xyz/blog/a-few-good-ideas-in-pl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671972\">https://news.ycombinator.com/item?id=49671972</a></p>\n<p>Points: 61</p>\n<p># Comments: 44</p>",
+        "pubDate": "Sat, 12 Sep 2026 13:07:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49671972"
       },
       {
-        "title": "LLMs are real, AI is fake",
-        "link": "https://pluralistic.net/2026/09/12/god-in-the-box/",
-        "description": "<p>Article URL: <a href=\"https://pluralistic.net/2026/09/12/god-in-the-box/\">https://pluralistic.net/2026/09/12/god-in-the-box/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672281\">https://news.ycombinator.com/item?id=49672281</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
-        "pubDate": "Sat, 12 Sep 2026 13:47:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672281"
+        "title": "How Trail of Bits helps verify the integrity of Signal chats",
+        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/\">https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671237\">https://news.ycombinator.com/item?id=49671237</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 12 Sep 2026 11:27:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49671237"
       },
       {
-        "title": "Fuck it, make it anyway",
-        "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-        "description": "<p>Article URL: <a href=\"https://www.joelotter.com/posts/2026/09/make-it-anyway/\">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671329\">https://news.ycombinator.com/item?id=49671329</a></p>\n<p>Points: 318</p>\n<p># Comments: 274</p>",
-        "pubDate": "Sat, 12 Sep 2026 11:42:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49671329"
-      },
-      {
-        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "title": "The worst spam emails: iLands AI agent hustle",
         "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671159\">https://news.ycombinator.com/item?id=49671159</a></p>\n<p>Points: 61</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671159\">https://news.ycombinator.com/item?id=49671159</a></p>\n<p>Points: 89</p>\n<p># Comments: 42</p>",
         "pubDate": "Sat, 12 Sep 2026 11:13:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49671159"
       },
       {
-        "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
-        "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/crm932el3yjo\">https://www.bbc.co.uk/news/articles/crm932el3yjo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670981\">https://news.ycombinator.com/item?id=49670981</a></p>\n<p>Points: 70</p>\n<p># Comments: 16</p>",
-        "pubDate": "Sat, 12 Sep 2026 10:39:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49670981"
-      },
-      {
         "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
         "link": "https://eiln.github.io/posts/ane.html",
-        "description": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 159</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 198</p>\n<p># Comments: 26</p>",
         "pubDate": "Sat, 12 Sep 2026 07:54:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49670032"
       },
       {
-        "title": "Usenet rewind archive search engine",
-        "link": "https://www.usenet-rewind.com/",
-        "description": "<p>Article URL: <a href=\"https://www.usenet-rewind.com/\">https://www.usenet-rewind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668777\">https://news.ycombinator.com/item?id=49668777</a></p>\n<p>Points: 97</p>\n<p># Comments: 29</p>",
-        "pubDate": "Sat, 12 Sep 2026 04:19:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49668777"
+        "title": "Navier-Stokes Announcement",
+        "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+        "description": "<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 274</p>\n<p># Comments: 217</p>",
+        "pubDate": "Sat, 12 Sep 2026 04:09:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49668706"
       },
       {
         "title": "google.com/goto: Google's anti-scraping update",
         "link": "https://www.autom.dev/blog/google-search-goto-links",
-        "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 517</p>\n<p># Comments: 416</p>",
+        "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 592</p>\n<p># Comments: 464</p>",
         "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49668386"
       },
       {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "link": "https://www.rubyhack.ai/",
-        "description": "<p><a href=\"https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\" rel=\"nofollow\">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 841</p>\n<p># Comments: 493</p>",
-        "pubDate": "Fri, 11 Sep 2026 23:17:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49666735"
+        "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+        "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+        "description": "<p><a href=\"https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered\" rel=\"nofollow\">https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665502\">https://news.ycombinator.com/item?id=49665502</a></p>\n<p>Points: 143</p>\n<p># Comments: 39</p>",
+        "pubDate": "Fri, 11 Sep 2026 21:16:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49665502"
       },
       {
-        "title": "Forgotten Woodlands",
-        "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-        "description": "<p>Article URL: <a href=\"https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49\">https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665549\">https://news.ycombinator.com/item?id=49665549</a></p>\n<p>Points: 27</p>\n<p># Comments: 10</p>",
-        "pubDate": "Fri, 11 Sep 2026 21:21:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49665549"
+        "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+        "link": "https://snap.berkeley.edu/",
+        "description": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 166</p>\n<p># Comments: 103</p>",
+        "pubDate": "Fri, 11 Sep 2026 17:36:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49662214"
       },
       {
-        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-        "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-        "description": "<p>Article URL: <a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">https://dayzlegame.com/blog/google-ads-bot-farm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662990\">https://news.ycombinator.com/item?id=49662990</a></p>\n<p>Points: 643</p>\n<p># Comments: 354</p>",
-        "pubDate": "Fri, 11 Sep 2026 18:24:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49662990"
+        "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+        "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+        "description": "<p><a href=\"https://web.archive.org/web/20260911105205/https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/\" rel=\"nofollow\">https://web.archive.org/web/20260911105205/https://www.wired...</a><p><a href=\"https://archive.ph/1xTJ3\" rel=\"nofollow\">https://archive.ph/1xTJ3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658672\">https://news.ycombinator.com/item?id=49658672</a></p>\n<p>Points: 64</p>\n<p># Comments: 78</p>",
+        "pubDate": "Fri, 11 Sep 2026 14:07:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49658672"
       },
       {
-        "title": "Litelm: LiteLLM Without the Bloat",
-        "link": "https://github.com/kennethwolters/litelm",
-        "description": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 162</p>\n<p># Comments: 56</p>",
-        "pubDate": "Fri, 11 Sep 2026 18:10:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49662767"
-      },
-      {
-        "title": "A misalignment of AI in mathematics",
-        "link": "https://mathandai.org/",
-        "description": "<p><a href=\"https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/\" rel=\"nofollow\">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...</a><p><a href=\"https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://www.economist.com/science-and-technology/2026/09/11/...</a>, <a href=\"https://unwall.app/www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://unwall.app/www.economist.com/science-and-technology/...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662371\">https://news.ycombinator.com/item?id=49662371</a></p>\n<p>Points: 1079</p>\n<p># Comments: 1031</p>",
-        "pubDate": "Fri, 11 Sep 2026 17:45:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49662371"
-      },
-      {
-        "title": "Mind-altering drugs played key role in rise of Andean civilization",
-        "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 191</p>\n<p># Comments: 126</p>",
-        "pubDate": "Fri, 11 Sep 2026 17:25:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49662020"
+        "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+        "link": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
+        "description": "<p>Article URL: <a href=\"https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic\">https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653509\">https://news.ycombinator.com/item?id=49653509</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 11 Sep 2026 04:19:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49653509"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-12T15:27:00.739Z",
+  "lastUpdated": "2026-09-12T20:28:45.561Z",
   "stats": {
     "feeds": 2,
     "articles": 20
