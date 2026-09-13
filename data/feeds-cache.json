@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-13T16:06:13.991Z"
+      "lastFetched": "2026-09-13T20:39:39.964Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-13T16:06:33.736Z"
+      "lastFetched": "2026-09-13T20:39:52.996Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+        "link": "https://twitter.com/TechEmails/status/2099214399840059428",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/TechEmails/status/2099214399840059428\">https://twitter.com/TechEmails/status/2099214399840059428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688157\">https://news.ycombinator.com/item?id=49688157</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 13 Sep 2026 20:08:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49688157"
+      },
+      {
+        "title": "There Is No AI (It's Just People) with Jaron Lanier",
+        "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+        "description": "<p>Article URL: <a href=\"https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/\">https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49687869\">https://news.ycombinator.com/item?id=49687869</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 13 Sep 2026 19:41:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49687869"
+      },
+      {
+        "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+        "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "description": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/\">https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49687334\">https://news.ycombinator.com/item?id=49687334</a></p>\n<p>Points: 17</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 13 Sep 2026 18:49:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49687334"
+      },
+      {
+        "title": "I'm being cyberattacked by Tesla, Inc",
+        "link": "https://dreamstation.systems/personal/tesla.html",
+        "description": "<p>Article URL: <a href=\"https://dreamstation.systems/personal/tesla.html\">https://dreamstation.systems/personal/tesla.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686766\">https://news.ycombinator.com/item?id=49686766</a></p>\n<p>Points: 311</p>\n<p># Comments: 89</p>",
+        "pubDate": "Sun, 13 Sep 2026 18:03:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49686766"
+      },
+      {
+        "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+        "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+        "description": "<p>Article URL: <a href=\"https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/\">https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686697\">https://news.ycombinator.com/item?id=49686697</a></p>\n<p>Points: 80</p>\n<p># Comments: 51</p>",
+        "pubDate": "Sun, 13 Sep 2026 17:57:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49686697"
+      },
+      {
+        "title": "Device Drivers lab exercise – COSC562",
+        "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+        "description": "<p>Article URL: <a href=\"https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html\">https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686503\">https://news.ycombinator.com/item?id=49686503</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 13 Sep 2026 17:41:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49686503"
+      },
+      {
+        "title": "Why is Google still serving dodgy ads?",
+        "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+        "description": "<p>Article URL: <a href=\"https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686445\">https://news.ycombinator.com/item?id=49686445</a></p>\n<p>Points: 279</p>\n<p># Comments: 127</p>",
+        "pubDate": "Sun, 13 Sep 2026 17:37:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49686445"
+      },
+      {
+        "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+        "link": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/\">https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686134\">https://news.ycombinator.com/item?id=49686134</a></p>\n<p>Points: 64</p>\n<p># Comments: 45</p>",
+        "pubDate": "Sun, 13 Sep 2026 17:08:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49686134"
+      },
+      {
+        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+        "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2098973625252708460\">https://twitter.com/DavidSacks/status/2098973625252708460</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685991\">https://news.ycombinator.com/item?id=49685991</a></p>\n<p>Points: 155</p>\n<p># Comments: 115</p>",
+        "pubDate": "Sun, 13 Sep 2026 16:52:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49685991"
+      },
+      {
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685253\">https://news.ycombinator.com/item?id=49685253</a></p>\n<p>Points: 235</p>\n<p># Comments: 119</p>",
+        "pubDate": "Sun, 13 Sep 2026 15:44:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49685253"
+      },
+      {
         "title": "Libraries Run Rust Inside Python (With PyO3)",
         "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-        "description": "<p>Article URL: <a href=\"https://belderbos.dev/blog/how-libraries-run-rust-inside-python/\">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685037\">https://news.ycombinator.com/item?id=49685037</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://belderbos.dev/blog/how-libraries-run-rust-inside-python/\">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685037\">https://news.ycombinator.com/item?id=49685037</a></p>\n<p>Points: 39</p>\n<p># Comments: 26</p>",
         "pubDate": "Sun, 13 Sep 2026 15:24:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49685037"
       },
       {
-        "title": "Predictive intelligence to anticipate anything.",
-        "link": "https://prior.chat/",
-        "description": "<p>Article URL: <a href=\"https://prior.chat/\">https://prior.chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684879\">https://news.ycombinator.com/item?id=49684879</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 13 Sep 2026 15:11:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684879"
+        "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+        "link": "https://cpak.it/",
+        "description": "<p>Article URL: <a href=\"https://cpak.it/\">https://cpak.it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684778\">https://news.ycombinator.com/item?id=49684778</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 13 Sep 2026 15:02:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49684778"
       },
       {
         "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
         "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-        "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment\">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684393\">https://news.ycombinator.com/item?id=49684393</a></p>\n<p>Points: 62</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment\">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684393\">https://news.ycombinator.com/item?id=49684393</a></p>\n<p>Points: 291</p>\n<p># Comments: 132</p>",
         "pubDate": "Sun, 13 Sep 2026 14:28:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49684393"
       },
       {
         "title": "CUDA for AMD on Windows",
         "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-        "description": "<p>Article URL: <a href=\"https://github.com/Speedstu/CUDA-for-AMD-Windows\">https://github.com/Speedstu/CUDA-for-AMD-Windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684356\">https://news.ycombinator.com/item?id=49684356</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Speedstu/CUDA-for-AMD-Windows\">https://github.com/Speedstu/CUDA-for-AMD-Windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684356\">https://news.ycombinator.com/item?id=49684356</a></p>\n<p>Points: 104</p>\n<p># Comments: 58</p>",
         "pubDate": "Sun, 13 Sep 2026 14:25:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49684356"
       },
       {
-        "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-        "link": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "description": "<p>Article URL: <a href=\"https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo\">https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684266\">https://news.ycombinator.com/item?id=49684266</a></p>\n<p>Points: 44</p>\n<p># Comments: 36</p>",
-        "pubDate": "Sun, 13 Sep 2026 14:15:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684266"
-      },
-      {
         "title": "Making Startups Powerful",
         "link": "https://paulgraham.com/powerful.html",
-        "description": "<p>Article URL: <a href=\"https://paulgraham.com/powerful.html\">https://paulgraham.com/powerful.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684196\">https://news.ycombinator.com/item?id=49684196</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://paulgraham.com/powerful.html\">https://paulgraham.com/powerful.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684196\">https://news.ycombinator.com/item?id=49684196</a></p>\n<p>Points: 91</p>\n<p># Comments: 36</p>",
         "pubDate": "Sun, 13 Sep 2026 14:09:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49684196"
       },
       {
-        "title": "Key symbols we lost to time, pt. 1: The PC side",
-        "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-        "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/\">https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684101\">https://news.ycombinator.com/item?id=49684101</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 13 Sep 2026 14:00:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684101"
-      },
-      {
-        "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-        "link": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xJzrU38pGWc\">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684042\">https://news.ycombinator.com/item?id=49684042</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 13 Sep 2026 13:54:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684042"
-      },
-      {
-        "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-        "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg\">https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683729\">https://news.ycombinator.com/item?id=49683729</a></p>\n<p>Points: 68</p>\n<p># Comments: 50</p>",
-        "pubDate": "Sun, 13 Sep 2026 13:24:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49683729"
+        "title": "Data collected by cars and sold to third parties",
+        "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "description": "<p><a href=\"https://web.archive.org/web/20260913134705/https://www.theverge.com/column/994172/your-car-is-selling-your-data\" rel=\"nofollow\">https://web.archive.org/web/20260913134705/https://www.theve...</a><p><a href=\"https://archive.ph/TWEVZ\" rel=\"nofollow\">https://archive.ph/TWEVZ</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683953\">https://news.ycombinator.com/item?id=49683953</a></p>\n<p>Points: 172</p>\n<p># Comments: 100</p>",
+        "pubDate": "Sun, 13 Sep 2026 13:45:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49683953"
       },
       {
         "title": "Why is the x86 undefined instruction called ud2? Why 2?",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689\">https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683262\">https://news.ycombinator.com/item?id=49683262</a></p>\n<p>Points: 24</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689\">https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683262\">https://news.ycombinator.com/item?id=49683262</a></p>\n<p>Points: 146</p>\n<p># Comments: 37</p>",
         "pubDate": "Sun, 13 Sep 2026 12:30:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49683262"
       },
       {
         "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
         "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-        "description": "<p>Article URL: <a href=\"https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet\">https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683033\">https://news.ycombinator.com/item?id=49683033</a></p>\n<p>Points: 54</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet\">https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683033\">https://news.ycombinator.com/item?id=49683033</a></p>\n<p>Points: 94</p>\n<p># Comments: 37</p>",
         "pubDate": "Sun, 13 Sep 2026 12:01:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49683033"
       },
       {
-        "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-        "link": "https://www.analystidx.com/",
-        "description": "<p>Hi HN!<p>What if analyst ratings could be relied on to help you find the next Sandisk, before it takes off?<p>On Analyst Index, analysts publish price targets with a maturity date. Every call gets scored against what the stock actually did, so an analyst builds a record on accuracy instead of on follower count.<p>I started this because after riding the Tesla wave in 2019/2020, I messed up epically with some high risk bets that didn’t work out, including one pick from an analyst I didn’t know was not much good. I needed something like this to help me figure out a) which analysts are worth listening to, and b) which stocks to buy based on their ratings.<p>On what already exists: TipRanks has scored analysts since 2009 and Benzinga sells accuracy scores through an API, so this isn’t entirely new. The difference here is that analyst incentives are aligned with that of investors through a subscription. TipRanks and others scrape published sell side calls and sell access to investors without analysts seeing a dollar of investor revenue. So without aligned incentives, the quality of their work is going to be lower.<p>(Yes, I scraped sell side calls to bootstrap Analyst Index with some data - better than launching with a ghost town).<p>On methodology: Right now scoring is naive. I compare the call against the stock's movement over the stated horizon and score the difference. I thought it better to ship simpler something sooner rather than later. If scoring design is your area, I'd like to talk.<p>What's live: 44 price targets from 25 analysts across 3 tickers, browsable without an account.\nWhat isn't: no analyst signup yet, no payments, and no paywall enforcement — anyone can currently subscribe to anyone and see everything.<p>Business model (planned): analysts set their own subscription price, readers subscribe directly, I take 10%.<p>Open problems I don't have answers to:<p>- Cold start on supply. The analysts I want are good and undiscovered, which means they have no audience by definition, so the score has to do the work an audience normally does. If I can't drive demand-side traffic, no amount of scoring sophistication saves this.<p>- Whether price targets carry information at all. Plenty of people think they're noise. My guess is that aligning incentives will produce a signal, but I can't prove that just yet.<p>Regulatory: I operate as a publisher, not an adviser. Content is impersonal and general circulation, with no personalized recommendations and no performance promises. Nothing on the site is investment advice.<p>Link: <a href=\"https://www.analystidx.com/\" rel=\"nofollow\">https://www.analystidx.com/</a><p>The feedback I want most is who you would like to see on Analyst Index (analysts) and what it would take for you to become a customer (as an investor). I know most people out of the gate are going to have objections to using Analyst Index for their own investing, but it would be helpful to learn what those objections are to evaluate whether they can be overcome.<p>Any other feedback is welcome too!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49682946\">https://news.ycombinator.com/item?id=49682946</a></p>\n<p>Points: 7</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sun, 13 Sep 2026 11:50:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49682946"
-      },
-      {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/\">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49682087\">https://news.ycombinator.com/item?id=49682087</a></p>\n<p>Points: 121</p>\n<p># Comments: 78</p>",
-        "pubDate": "Sun, 13 Sep 2026 09:59:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49682087"
-      },
-      {
         "title": "Homebrew 7.0.0",
         "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-        "description": "<p>Article URL: <a href=\"https://brew.sh/2026/09/13/homebrew-7.0.0/\">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681545\">https://news.ycombinator.com/item?id=49681545</a></p>\n<p>Points: 334</p>\n<p># Comments: 136</p>",
+        "description": "<p>Article URL: <a href=\"https://brew.sh/2026/09/13/homebrew-7.0.0/\">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681545\">https://news.ycombinator.com/item?id=49681545</a></p>\n<p>Points: 493</p>\n<p># Comments: 196</p>",
         "pubDate": "Sun, 13 Sep 2026 08:41:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49681545"
       },
       {
         "title": "JetKVM Mini",
         "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-        "description": "<p>Article URL: <a href=\"https://jetkvm.com/blog/introducing-jetkvm-mini\">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681152\">https://news.ycombinator.com/item?id=49681152</a></p>\n<p>Points: 345</p>\n<p># Comments: 131</p>",
+        "description": "<p>Article URL: <a href=\"https://jetkvm.com/blog/introducing-jetkvm-mini\">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681152\">https://news.ycombinator.com/item?id=49681152</a></p>\n<p>Points: 456</p>\n<p># Comments: 178</p>",
         "pubDate": "Sun, 13 Sep 2026 07:49:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49681152"
-      },
-      {
-        "title": "A wandering black hole caught feeding on the run",
-        "link": "https://phys.org/news/2026-08-black-hole-caught.html",
-        "description": "<p>Article URL: <a href=\"https://phys.org/news/2026-08-black-hole-caught.html\">https://phys.org/news/2026-08-black-hole-caught.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679734\">https://news.ycombinator.com/item?id=49679734</a></p>\n<p>Points: 51</p>\n<p># Comments: 36</p>",
-        "pubDate": "Sun, 13 Sep 2026 03:34:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49679734"
-      },
-      {
-        "title": "Aligned to whom?",
-        "link": "https://hyperbo.la/w/aligned-to-whom/",
-        "description": "<p>Article URL: <a href=\"https://hyperbo.la/w/aligned-to-whom/\">https://hyperbo.la/w/aligned-to-whom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679643\">https://news.ycombinator.com/item?id=49679643</a></p>\n<p>Points: 134</p>\n<p># Comments: 74</p>",
-        "pubDate": "Sun, 13 Sep 2026 03:17:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49679643"
-      },
-      {
-        "title": "The Interim Computer Museum",
-        "link": "https://icm.museum/",
-        "description": "<p>Article URL: <a href=\"https://icm.museum/\">https://icm.museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679459\">https://news.ycombinator.com/item?id=49679459</a></p>\n<p>Points: 148</p>\n<p># Comments: 17</p>",
-        "pubDate": "Sun, 13 Sep 2026 02:43:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49679459"
-      },
-      {
-        "title": "Why are AI agents lying, cheating and coordinating?",
-        "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "description": "<p>Article URL: <a href=\"https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating\">https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678969\">https://news.ycombinator.com/item?id=49678969</a></p>\n<p>Points: 437</p>\n<p># Comments: 511</p>",
-        "pubDate": "Sun, 13 Sep 2026 01:22:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49678969"
-      },
-      {
-        "title": "Everyone should slow down AI development except for me",
-        "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-        "description": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678683\">https://news.ycombinator.com/item?id=49678683</a></p>\n<p>Points: 662</p>\n<p># Comments: 389</p>",
-        "pubDate": "Sun, 13 Sep 2026 00:30:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49678683"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-13T16:06:33.737Z",
+  "lastUpdated": "2026-09-13T20:39:52.996Z",
   "stats": {
     "feeds": 2,
     "articles": 20
