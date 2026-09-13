@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-12T20:28:25.875Z"
+      "lastFetched": "2026-09-13T04:34:37.919Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-12T20:28:45.560Z"
+      "lastFetched": "2026-09-13T04:34:51.900Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "An open letter to Dario: if you mean it, open the weights",
-        "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-        "description": "<p>Article URL: <a href=\"https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676085\">https://news.ycombinator.com/item?id=49676085</a></p>\n<p>Points: 156</p>\n<p># Comments: 47</p>",
-        "pubDate": "Sat, 12 Sep 2026 19:15:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49676085"
+        "title": "The Succession Crisis That Tore England Apart",
+        "link": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+        "description": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart\">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679647\">https://news.ycombinator.com/item?id=49679647</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 13 Sep 2026 03:18:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49679647"
+      },
+      {
+        "title": "The Interim Computer Museum",
+        "link": "https://icm.museum/",
+        "description": "<p>Article URL: <a href=\"https://icm.museum/\">https://icm.museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679459\">https://news.ycombinator.com/item?id=49679459</a></p>\n<p>Points: 43</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 13 Sep 2026 02:43:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49679459"
+      },
+      {
+        "title": "Apple *deletes* your Apple Music library if you unsubscribe",
+        "link": "https://www.reddit.com/r/apple/comments/7niv58/fyi_apple_deletes_your_apple_music_library_if_you/",
+        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/apple/comments/7niv58/fyi_apple_deletes_your_apple_music_library_if_you/\">https://www.reddit.com/r/apple/comments/7niv58/fyi_apple_deletes_your_apple_music_library_if_you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679450\">https://news.ycombinator.com/item?id=49679450</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 13 Sep 2026 02:42:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49679450"
+      },
+      {
+        "title": "Don't call yourself an artisanal programmer",
+        "link": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+        "description": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/\">https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679360\">https://news.ycombinator.com/item?id=49679360</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 13 Sep 2026 02:29:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49679360"
+      },
+      {
+        "title": "Align AI and Mathematics–To Something Else",
+        "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+        "description": "<p>Article URL: <a href=\"https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/\">https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678783\">https://news.ycombinator.com/item?id=49678783</a></p>\n<p>Points: 30</p>\n<p># Comments: 19</p>",
+        "pubDate": "Sun, 13 Sep 2026 00:47:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49678783"
+      },
+      {
+        "title": "Everyone should slow down AI development except for me",
+        "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "description": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678683\">https://news.ycombinator.com/item?id=49678683</a></p>\n<p>Points: 261</p>\n<p># Comments: 140</p>",
+        "pubDate": "Sun, 13 Sep 2026 00:30:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49678683"
+      },
+      {
+        "title": "AgentsDock: An IDE designed for agentic AI research",
+        "link": "https://agentsdock.net/",
+        "description": "<p>Article URL: <a href=\"https://agentsdock.net/\">https://agentsdock.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678435\">https://news.ycombinator.com/item?id=49678435</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 12 Sep 2026 23:45:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49678435"
+      },
+      {
+        "title": "Don't be the out of touch Kung Fu master – John Carmack",
+        "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/ID_AA_Carmack/status/2098443262214230095\">https://twitter.com/ID_AA_Carmack/status/2098443262214230095</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677577\">https://news.ycombinator.com/item?id=49677577</a></p>\n<p>Points: 60</p>\n<p># Comments: 33</p>",
+        "pubDate": "Sat, 12 Sep 2026 21:51:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49677577"
+      },
+      {
+        "title": "P(doom)",
+        "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/9/12/pdoom/\">https://lucumr.pocoo.org/2026/9/12/pdoom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677450\">https://news.ycombinator.com/item?id=49677450</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sat, 12 Sep 2026 21:35:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49677450"
+      },
+      {
+        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+        "link": "https://withspecific.com/benchmarks/real-swe",
+        "description": "<p>Article URL: <a href=\"https://withspecific.com/benchmarks/real-swe\">https://withspecific.com/benchmarks/real-swe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676820\">https://news.ycombinator.com/item?id=49676820</a></p>\n<p>Points: 167</p>\n<p># Comments: 89</p>",
+        "pubDate": "Sat, 12 Sep 2026 20:25:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49676820"
+      },
+      {
+        "title": "LG Says We're Fake News [video]",
+        "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ToP9xfLDSME\">https://www.youtube.com/watch?v=ToP9xfLDSME</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676324\">https://news.ycombinator.com/item?id=49676324</a></p>\n<p>Points: 207</p>\n<p># Comments: 92</p>",
+        "pubDate": "Sat, 12 Sep 2026 19:35:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49676324"
+      },
+      {
+        "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+        "link": "https://hachyderm.io/@simontatham/117201594980991062",
+        "description": "<p>Article URL: <a href=\"https://hachyderm.io/@simontatham/117201594980991062\">https://hachyderm.io/@simontatham/117201594980991062</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49675902\">https://news.ycombinator.com/item?id=49675902</a></p>\n<p>Points: 226</p>\n<p># Comments: 70</p>",
+        "pubDate": "Sat, 12 Sep 2026 18:58:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49675902"
       },
       {
         "title": "Will There Be a 7G?",
         "link": "https://arxiv.org/abs/2609.01877",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.01877\">https://arxiv.org/abs/2609.01877</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674498\">https://news.ycombinator.com/item?id=49674498</a></p>\n<p>Points: 52</p>\n<p># Comments: 81</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.01877\">https://arxiv.org/abs/2609.01877</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674498\">https://news.ycombinator.com/item?id=49674498</a></p>\n<p>Points: 87</p>\n<p># Comments: 149</p>",
         "pubDate": "Sat, 12 Sep 2026 17:05:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49674498"
       },
       {
         "title": "Make your first edit to OpenStreetMap",
         "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-        "description": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 139</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 381</p>\n<p># Comments: 87</p>",
         "pubDate": "Sat, 12 Sep 2026 16:25:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49674050"
       },
       {
         "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
         "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673580\">https://news.ycombinator.com/item?id=49673580</a></p>\n<p>Points: 57</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673580\">https://news.ycombinator.com/item?id=49673580</a></p>\n<p>Points: 94</p>\n<p># Comments: 27</p>",
         "pubDate": "Sat, 12 Sep 2026 15:49:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49673580"
       },
       {
         "title": "Nvidia is the central bank of AI",
         "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "description": "<p><a href=\"https://archive.ph/kt50V\" rel=\"nofollow\">https://archive.ph/kt50V</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 242</p>\n<p># Comments: 181</p>",
+        "description": "<p><a href=\"https://archive.ph/kt50V\" rel=\"nofollow\">https://archive.ph/kt50V</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 424</p>\n<p># Comments: 291</p>",
         "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49673098"
       },
       {
         "title": "I made a build visualizer to understand Bun's compile times",
         "link": "https://lalitm.com/post/buildprof/",
-        "description": "<p>Article URL: <a href=\"https://lalitm.com/post/buildprof/\">https://lalitm.com/post/buildprof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672842\">https://news.ycombinator.com/item?id=49672842</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://lalitm.com/post/buildprof/\">https://lalitm.com/post/buildprof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672842\">https://news.ycombinator.com/item?id=49672842</a></p>\n<p>Points: 108</p>\n<p># Comments: 21</p>",
         "pubDate": "Sat, 12 Sep 2026 14:45:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=49672842"
       },
       {
-        "title": "I refuse to let SPICE die",
-        "link": "https://github.com/nefarius/vd_agent/",
-        "description": "<p>Article URL: <a href=\"https://github.com/nefarius/vd_agent/\">https://github.com/nefarius/vd_agent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672641\">https://news.ycombinator.com/item?id=49672641</a></p>\n<p>Points: 65</p>\n<p># Comments: 57</p>",
-        "pubDate": "Sat, 12 Sep 2026 14:25:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672641"
-      },
-      {
-        "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-        "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-        "description": "<p>Article URL: <a href=\"https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun\">https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672549\">https://news.ycombinator.com/item?id=49672549</a></p>\n<p>Points: 103</p>\n<p># Comments: 153</p>",
-        "pubDate": "Sat, 12 Sep 2026 14:16:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49672549"
-      },
-      {
         "title": "We must pace the frontier",
         "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-        "description": "<p>Article URL: <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672510\">https://news.ycombinator.com/item?id=49672510</a></p>\n<p>Points: 365</p>\n<p># Comments: 502</p>",
+        "description": "<p>Article URL: <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672510\">https://news.ycombinator.com/item?id=49672510</a></p>\n<p>Points: 593</p>\n<p># Comments: 825</p>",
         "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49672510"
       },
       {
         "title": "A Mathematical Framework for Transformer Circuits (2021)",
         "link": "https://transformer-circuits.pub/2021/framework/index.html",
-        "description": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2021/framework/index.html\">https://transformer-circuits.pub/2021/framework/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672365\">https://news.ycombinator.com/item?id=49672365</a></p>\n<p>Points: 61</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2021/framework/index.html\">https://transformer-circuits.pub/2021/framework/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672365\">https://news.ycombinator.com/item?id=49672365</a></p>\n<p>Points: 91</p>\n<p># Comments: 17</p>",
         "pubDate": "Sat, 12 Sep 2026 13:56:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49672365"
       },
       {
-        "title": "A few good ideas in programming languages",
-        "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-        "description": "<p>Article URL: <a href=\"https://prydt.xyz/blog/a-few-good-ideas-in-pl/\">https://prydt.xyz/blog/a-few-good-ideas-in-pl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671972\">https://news.ycombinator.com/item?id=49671972</a></p>\n<p>Points: 61</p>\n<p># Comments: 44</p>",
-        "pubDate": "Sat, 12 Sep 2026 13:07:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49671972"
-      },
-      {
         "title": "How Trail of Bits helps verify the integrity of Signal chats",
         "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-        "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/\">https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671237\">https://news.ycombinator.com/item?id=49671237</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/\">https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671237\">https://news.ycombinator.com/item?id=49671237</a></p>\n<p>Points: 63</p>\n<p># Comments: 38</p>",
         "pubDate": "Sat, 12 Sep 2026 11:27:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49671237"
-      },
-      {
-        "title": "The worst spam emails: iLands AI agent hustle",
-        "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-        "description": "<p>Article URL: <a href=\"https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671159\">https://news.ycombinator.com/item?id=49671159</a></p>\n<p>Points: 89</p>\n<p># Comments: 42</p>",
-        "pubDate": "Sat, 12 Sep 2026 11:13:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49671159"
-      },
-      {
-        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "link": "https://eiln.github.io/posts/ane.html",
-        "description": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 198</p>\n<p># Comments: 26</p>",
-        "pubDate": "Sat, 12 Sep 2026 07:54:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49670032"
-      },
-      {
-        "title": "Navier-Stokes Announcement",
-        "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-        "description": "<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 274</p>\n<p># Comments: 217</p>",
-        "pubDate": "Sat, 12 Sep 2026 04:09:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49668706"
-      },
-      {
-        "title": "google.com/goto: Google's anti-scraping update",
-        "link": "https://www.autom.dev/blog/google-search-goto-links",
-        "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 592</p>\n<p># Comments: 464</p>",
-        "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49668386"
-      },
-      {
-        "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-        "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-        "description": "<p><a href=\"https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered\" rel=\"nofollow\">https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665502\">https://news.ycombinator.com/item?id=49665502</a></p>\n<p>Points: 143</p>\n<p># Comments: 39</p>",
-        "pubDate": "Fri, 11 Sep 2026 21:16:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49665502"
-      },
-      {
-        "title": "λ Snap – An inviting programming language for kids and adults for CS study",
-        "link": "https://snap.berkeley.edu/",
-        "description": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 166</p>\n<p># Comments: 103</p>",
-        "pubDate": "Fri, 11 Sep 2026 17:36:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49662214"
-      },
-      {
-        "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-        "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-        "description": "<p><a href=\"https://web.archive.org/web/20260911105205/https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/\" rel=\"nofollow\">https://web.archive.org/web/20260911105205/https://www.wired...</a><p><a href=\"https://archive.ph/1xTJ3\" rel=\"nofollow\">https://archive.ph/1xTJ3</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658672\">https://news.ycombinator.com/item?id=49658672</a></p>\n<p>Points: 64</p>\n<p># Comments: 78</p>",
-        "pubDate": "Fri, 11 Sep 2026 14:07:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49658672"
-      },
-      {
-        "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
-        "link": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
-        "description": "<p>Article URL: <a href=\"https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic\">https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653509\">https://news.ycombinator.com/item?id=49653509</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 11 Sep 2026 04:19:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49653509"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-12T20:28:45.561Z",
+  "lastUpdated": "2026-09-13T04:34:51.900Z",
   "stats": {
     "feeds": 2,
     "articles": 20
