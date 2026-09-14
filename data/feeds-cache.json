@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-14T04:40:23.722Z"
+      "lastFetched": "2026-09-14T12:32:05.281Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-14T04:40:41.089Z"
+      "lastFetched": "2026-09-14T12:32:25.143Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+        "link": "https://xcancel.com/twitter",
+        "description": "<p>Article URL: <a href=\"https://xcancel.com/twitter\">https://xcancel.com/twitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695459\">https://news.ycombinator.com/item?id=49695459</a></p>\n<p>Points: 27</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 14 Sep 2026 12:05:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49695459"
+      },
+      {
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/\">https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695409\">https://news.ycombinator.com/item?id=49695409</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 14 Sep 2026 12:01:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49695409"
+      },
+      {
+        "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+        "link": "https://github.com/callbacked/kinesis",
+        "description": "<p>a couple hours ago i had astra take on a 10 month old repo of mine <a href=\"https://github.com/callbacked/neural-band-poc/\" rel=\"nofollow\">https://github.com/callbacked/neural-band-poc/</a> that involved finding a way to use the meta neural band independently from the glasses to read the sEMG data off of it. i really think it is a cool piece of technology that largely gets overlooked by the glasses, and always thought it was a shame it couldn't be used outside of its main application.<p>after making quick work of that, i wanted to use it to control my mac using gesture controls and that's how kinesis was born. it has been very cool being able to swipe from desktops using my fingers, swiping up to open up mission control or controlling a virtual knob to adjust my volume.<p>i definitely havent scratched the surface with the neural band but it has been a really fun endeavor thus far! i really hope others can find creative uses for their neural bands too :)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695408\">https://news.ycombinator.com/item?id=49695408</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 14 Sep 2026 12:01:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49695408"
+      },
+      {
+        "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+        "link": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
+        "description": "<p>Article URL: <a href=\"https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/\">https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695065\">https://news.ycombinator.com/item?id=49695065</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 14 Sep 2026 11:27:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49695065"
+      },
+      {
+        "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+        "link": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+        "description": "<p>Article URL: <a href=\"https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge\">https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694905\">https://news.ycombinator.com/item?id=49694905</a></p>\n<p>Points: 22</p>\n<p># Comments: 23</p>",
+        "pubDate": "Mon, 14 Sep 2026 11:05:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49694905"
+      },
+      {
+        "title": "Watch AI materials-science and bioscience abilities closely",
+        "link": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+        "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely\">https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694871\">https://news.ycombinator.com/item?id=49694871</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 14 Sep 2026 11:01:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49694871"
+      },
+      {
+        "title": "Who Aligns the Aligners?",
+        "link": "https://prestonbyrne.com/2026/09/13/aligners/",
+        "description": "<p>Article URL: <a href=\"https://prestonbyrne.com/2026/09/13/aligners/\">https://prestonbyrne.com/2026/09/13/aligners/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694722\">https://news.ycombinator.com/item?id=49694722</a></p>\n<p>Points: 27</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 14 Sep 2026 10:41:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49694722"
+      },
+      {
+        "title": "Pkgsrc Is Cool (2022)",
+        "link": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+        "description": "<p>Article URL: <a href=\"https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/\">https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694311\">https://news.ycombinator.com/item?id=49694311</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+        "pubDate": "Mon, 14 Sep 2026 09:53:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49694311"
+      },
+      {
+        "title": "A 386 PC for Your RP2350",
+        "link": "https://github.com/rh1tech/frank-386",
+        "description": "<p>Article URL: <a href=\"https://github.com/rh1tech/frank-386\">https://github.com/rh1tech/frank-386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693613\">https://news.ycombinator.com/item?id=49693613</a></p>\n<p>Points: 80</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 14 Sep 2026 08:25:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49693613"
+      },
+      {
+        "title": "EuroBirdPortal – Live bird movements across Europe",
+        "link": "https://www.eurobirdportal.org/ebp/en/",
+        "description": "<p>Article URL: <a href=\"https://www.eurobirdportal.org/ebp/en/\">https://www.eurobirdportal.org/ebp/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693610\">https://news.ycombinator.com/item?id=49693610</a></p>\n<p>Points: 107</p>\n<p># Comments: 40</p>",
+        "pubDate": "Mon, 14 Sep 2026 08:25:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49693610"
+      },
+      {
+        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+        "link": "https://github.com/anuj0456/OpenArch",
+        "description": "<p>Article URL: <a href=\"https://github.com/anuj0456/OpenArch\">https://github.com/anuj0456/OpenArch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693384\">https://news.ycombinator.com/item?id=49693384</a></p>\n<p>Points: 56</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 14 Sep 2026 07:55:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49693384"
+      },
+      {
+        "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+        "link": "https://screensize.net/reports/viewport-stats",
+        "description": "<p>Article URL: <a href=\"https://screensize.net/reports/viewport-stats\">https://screensize.net/reports/viewport-stats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693226\">https://news.ycombinator.com/item?id=49693226</a></p>\n<p>Points: 29</p>\n<p># Comments: 17</p>",
+        "pubDate": "Mon, 14 Sep 2026 07:35:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49693226"
+      },
+      {
         "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
         "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-        "description": "<p><a href=\"https://archive.ph/8NmSg\" rel=\"nofollow\">https://archive.ph/8NmSg</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691343\">https://news.ycombinator.com/item?id=49691343</a></p>\n<p>Points: 42</p>\n<p># Comments: 22</p>",
+        "description": "<p><a href=\"https://archive.ph/8NmSg\" rel=\"nofollow\">https://archive.ph/8NmSg</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691343\">https://news.ycombinator.com/item?id=49691343</a></p>\n<p>Points: 197</p>\n<p># Comments: 254</p>",
         "pubDate": "Mon, 14 Sep 2026 02:50:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49691343"
       },
       {
-        "title": "Show HN: Is It Greg?",
-        "link": "https://github.com/antoineleclair/is-it-greg",
-        "description": "<p>My friend Greg often posts incredible things he just made, just for fun.<p>Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!<p>A few things he made that I think are amazing:<p>- ikea complexity index: <a href=\"https://ikea.greg.technology/\" rel=\"nofollow\">https://ikea.greg.technology/</a><p>- Boing: <a href=\"https://boing.greg.technology/\" rel=\"nofollow\">https://boing.greg.technology/</a><p>I want to make sure I don't miss anything from him, so I created this Chrome extension that flags things posted by Greg, or linking to his website or a subdomain.<p>I hope other people will install the extension and never miss anything Greg made.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690943\">https://news.ycombinator.com/item?id=49690943</a></p>\n<p>Points: 52</p>\n<p># Comments: 19</p>",
-        "pubDate": "Mon, 14 Sep 2026 01:58:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690943"
-      },
-      {
-        "title": "The Malicious Use of Artificial Intelligence",
-        "link": "https://arxiv.org/abs/1802.07228",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1802.07228\">https://arxiv.org/abs/1802.07228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690678\">https://news.ycombinator.com/item?id=49690678</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
-        "pubDate": "Mon, 14 Sep 2026 01:22:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690678"
-      },
-      {
-        "title": "Show HN: Exploring the intersection of prediction markets and social media",
-        "link": "https://www.thevidmarket.com/",
-        "description": "<p>The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690614\">https://news.ycombinator.com/item?id=49690614</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-        "pubDate": "Mon, 14 Sep 2026 01:14:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690614"
-      },
-      {
-        "title": "AI Robots – When will they be in our homes",
-        "link": "https://spectrum.ieee.org/ai-robots",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-robots\">https://spectrum.ieee.org/ai-robots</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690411\">https://news.ycombinator.com/item?id=49690411</a></p>\n<p>Points: 13</p>\n<p># Comments: 8</p>",
-        "pubDate": "Mon, 14 Sep 2026 00:44:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690411"
-      },
-      {
-        "title": "Writing a better reality: The case for optimistic sci-fi",
-        "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-        "description": "<p>Article URL: <a href=\"https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/\">https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690279\">https://news.ycombinator.com/item?id=49690279</a></p>\n<p>Points: 24</p>\n<p># Comments: 14</p>",
-        "pubDate": "Mon, 14 Sep 2026 00:27:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690279"
-      },
-      {
-        "title": "Open-Source AI and Open Models Reading List",
-        "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "description": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/open-source-ai-reading-list\">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690260\">https://news.ycombinator.com/item?id=49690260</a></p>\n<p>Points: 51</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 14 Sep 2026 00:22:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690260"
+        "title": "The case against JPEG XL",
+        "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+        "description": "<p>Article URL: <a href=\"https://giannirosato.com/blog/post/case-against-jxl/\">https://giannirosato.com/blog/post/case-against-jxl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690554\">https://news.ycombinator.com/item?id=49690554</a></p>\n<p>Points: 196</p>\n<p># Comments: 257</p>",
+        "pubDate": "Mon, 14 Sep 2026 01:02:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49690554"
       },
       {
         "title": "Apple's Dimensional Drawings",
         "link": "https://developer.apple.com/accessories/dimensional-drawings/",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/accessories/dimensional-drawings/\">https://developer.apple.com/accessories/dimensional-drawings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690174\">https://news.ycombinator.com/item?id=49690174</a></p>\n<p>Points: 71</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://developer.apple.com/accessories/dimensional-drawings/\">https://developer.apple.com/accessories/dimensional-drawings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690174\">https://news.ycombinator.com/item?id=49690174</a></p>\n<p>Points: 249</p>\n<p># Comments: 89</p>",
         "pubDate": "Mon, 14 Sep 2026 00:11:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49690174"
       },
       {
-        "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-        "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts\">https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690139\">https://news.ycombinator.com/item?id=49690139</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
-        "pubDate": "Mon, 14 Sep 2026 00:07:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690139"
-      },
-      {
-        "title": "The Coming War on General Computation (2011)",
-        "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-        "description": "<p>Article URL: <a href=\"https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation\">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690051\">https://news.ycombinator.com/item?id=49690051</a></p>\n<p>Points: 66</p>\n<p># Comments: 15</p>",
-        "pubDate": "Sun, 13 Sep 2026 23:54:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49690051"
-      },
-      {
-        "title": "The contagion of fear",
-        "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-        "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689460\">https://news.ycombinator.com/item?id=49689460</a></p>\n<p>Points: 183</p>\n<p># Comments: 136</p>",
-        "pubDate": "Sun, 13 Sep 2026 22:38:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49689460"
-      },
-      {
         "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
         "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-        "description": "<p>Article URL: <a href=\"https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689048\">https://news.ycombinator.com/item?id=49689048</a></p>\n<p>Points: 131</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689048\">https://news.ycombinator.com/item?id=49689048</a></p>\n<p>Points: 308</p>\n<p># Comments: 156</p>",
         "pubDate": "Sun, 13 Sep 2026 21:47:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49689048"
       },
       {
         "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
         "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 610</p>\n<p># Comments: 268</p>",
+        "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 1040</p>\n<p># Comments: 459</p>",
         "pubDate": "Sun, 13 Sep 2026 21:06:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49688695"
       },
       {
         "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
         "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-        "description": "<p>Article URL: <a href=\"https://pages.cs.wisc.edu/~plonka/netgear-sntp/\">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688391\">https://news.ycombinator.com/item?id=49688391</a></p>\n<p>Points: 70</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://pages.cs.wisc.edu/~plonka/netgear-sntp/\">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688391\">https://news.ycombinator.com/item?id=49688391</a></p>\n<p>Points: 93</p>\n<p># Comments: 11</p>",
         "pubDate": "Sun, 13 Sep 2026 20:33:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49688391"
       },
       {
         "title": "Mullenweg has returned as CEO after attempted board ouster",
         "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/\">https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688259\">https://news.ycombinator.com/item?id=49688259</a></p>\n<p>Points: 77</p>\n<p># Comments: 134</p>",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/\">https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688259\">https://news.ycombinator.com/item?id=49688259</a></p>\n<p>Points: 203</p>\n<p># Comments: 266</p>",
         "pubDate": "Sun, 13 Sep 2026 20:19:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49688259"
       },
       {
         "title": "Why is Google still serving dodgy ads?",
         "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-        "description": "<p>Article URL: <a href=\"https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686445\">https://news.ycombinator.com/item?id=49686445</a></p>\n<p>Points: 667</p>\n<p># Comments: 316</p>",
+        "description": "<p>Article URL: <a href=\"https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686445\">https://news.ycombinator.com/item?id=49686445</a></p>\n<p>Points: 868</p>\n<p># Comments: 377</p>",
         "pubDate": "Sun, 13 Sep 2026 17:37:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49686445"
-      },
-      {
-        "title": "Ask HN: What are you working on? (September 2026)",
-        "link": "https://news.ycombinator.com/item?id=49686380",
-        "description": "<p>What are you working on? What have you been curious about lately?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686380\">https://news.ycombinator.com/item?id=49686380</a></p>\n<p>Points: 112</p>\n<p># Comments: 287</p>",
-        "pubDate": "Sun, 13 Sep 2026 17:31:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49686380"
-      },
-      {
-        "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-        "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-        "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment\">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684393\">https://news.ycombinator.com/item?id=49684393</a></p>\n<p>Points: 402</p>\n<p># Comments: 181</p>",
-        "pubDate": "Sun, 13 Sep 2026 14:28:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684393"
-      },
-      {
-        "title": "CUDA for AMD on Windows",
-        "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-        "description": "<p>Article URL: <a href=\"https://github.com/Speedstu/CUDA-for-AMD-Windows\">https://github.com/Speedstu/CUDA-for-AMD-Windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684356\">https://news.ycombinator.com/item?id=49684356</a></p>\n<p>Points: 145</p>\n<p># Comments: 75</p>",
-        "pubDate": "Sun, 13 Sep 2026 14:25:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684356"
-      },
-      {
-        "title": "Making Startups Powerful",
-        "link": "https://paulgraham.com/powerful.html",
-        "description": "<p>Article URL: <a href=\"https://paulgraham.com/powerful.html\">https://paulgraham.com/powerful.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684196\">https://news.ycombinator.com/item?id=49684196</a></p>\n<p>Points: 182</p>\n<p># Comments: 80</p>",
-        "pubDate": "Sun, 13 Sep 2026 14:09:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49684196"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-14T04:40:41.089Z",
+  "lastUpdated": "2026-09-14T12:32:25.143Z",
   "stats": {
     "feeds": 2,
     "articles": 20
