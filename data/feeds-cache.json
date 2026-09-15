@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-15T04:41:11.539Z"
+      "lastFetched": "2026-09-15T11:34:31.494Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-15T04:41:31.025Z"
+      "lastFetched": "2026-09-15T11:34:38.280Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Oil Executives Say the Great Fuel Crisis Is Here",
-        "link": "https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030\">https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707477\">https://news.ycombinator.com/item?id=49707477</a></p>\n<p>Points: 21</p>\n<p># Comments: 12</p>",
-        "pubDate": "Tue, 15 Sep 2026 03:48:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49707477"
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8ly49w9g1edo\">https://www.bbc.com/news/articles/c8ly49w9g1edo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710253\">https://news.ycombinator.com/item?id=49710253</a></p>\n<p>Points: 101</p>\n<p># Comments: 68</p>",
+        "pubDate": "Tue, 15 Sep 2026 10:22:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49710253"
       },
       {
-        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-        "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-        "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49706223\">https://news.ycombinator.com/item?id=49706223</a></p>\n<p>Points: 83</p>\n<p># Comments: 45</p>",
-        "pubDate": "Tue, 15 Sep 2026 00:40:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49706223"
+        "title": "Let's make quality the norm again",
+        "link": "https://www.forbrukerradet.no/short-life/",
+        "description": "<p>Article URL: <a href=\"https://www.forbrukerradet.no/short-life/\">https://www.forbrukerradet.no/short-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710109\">https://news.ycombinator.com/item?id=49710109</a></p>\n<p>Points: 74</p>\n<p># Comments: 79</p>",
+        "pubDate": "Tue, 15 Sep 2026 10:00:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49710109"
+      },
+      {
+        "title": "How much of F-Droid is LLM generated?",
+        "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "description": "<p>Article URL: <a href=\"https://tintotint.eu/whacky-corner/f-droid_slop/\">https://tintotint.eu/whacky-corner/f-droid_slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710015\">https://news.ycombinator.com/item?id=49710015</a></p>\n<p>Points: 49</p>\n<p># Comments: 31</p>",
+        "pubDate": "Tue, 15 Sep 2026 09:47:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49710015"
+      },
+      {
+        "title": "Alternatives to MinIO for single-node local S3",
+        "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+        "description": "<p>Article URL: <a href=\"https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/\">https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49709381\">https://news.ycombinator.com/item?id=49709381</a></p>\n<p>Points: 38</p>\n<p># Comments: 26</p>",
+        "pubDate": "Tue, 15 Sep 2026 08:21:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49709381"
+      },
+      {
+        "title": "The k-server conjecture is true",
+        "link": "https://arxiv.org/abs/2609.15979",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.15979\">https://arxiv.org/abs/2609.15979</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49709129\">https://news.ycombinator.com/item?id=49709129</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+        "pubDate": "Tue, 15 Sep 2026 07:45:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49709129"
+      },
+      {
+        "title": "CSS-Tricks in Limbo",
+        "link": "https://vale.rocks/micros/20260915-0135",
+        "description": "<p>Article URL: <a href=\"https://vale.rocks/micros/20260915-0135\">https://vale.rocks/micros/20260915-0135</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708993\">https://news.ycombinator.com/item?id=49708993</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+        "pubDate": "Tue, 15 Sep 2026 07:27:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49708993"
+      },
+      {
+        "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+        "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+        "description": "<p>Article URL: <a href=\"https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013\">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708774\">https://news.ycombinator.com/item?id=49708774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 15 Sep 2026 07:00:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49708774"
+      },
+      {
+        "title": "I can't stop thinking about Papua New Guinea",
+        "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "description": "<p>Article URL: <a href=\"https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708431\">https://news.ycombinator.com/item?id=49708431</a></p>\n<p>Points: 283</p>\n<p># Comments: 98</p>",
+        "pubDate": "Tue, 15 Sep 2026 06:16:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49708431"
+      },
+      {
+        "title": "Linux from Scratch",
+        "link": "https://www.linuxfromscratch.org/",
+        "description": "<p>Article URL: <a href=\"https://www.linuxfromscratch.org/\">https://www.linuxfromscratch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707627\">https://news.ycombinator.com/item?id=49707627</a></p>\n<p>Points: 209</p>\n<p># Comments: 69</p>",
+        "pubDate": "Tue, 15 Sep 2026 04:15:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49707627"
       },
       {
         "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
         "link": "https://github.com/JamesRyanATX/fcbnerd",
-        "description": "<p>Article URL: <a href=\"https://github.com/JamesRyanATX/fcbnerd\">https://github.com/JamesRyanATX/fcbnerd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49705442\">https://news.ycombinator.com/item?id=49705442</a></p>\n<p>Points: 47</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/JamesRyanATX/fcbnerd\">https://github.com/JamesRyanATX/fcbnerd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49705442\">https://news.ycombinator.com/item?id=49705442</a></p>\n<p>Points: 78</p>\n<p># Comments: 19</p>",
         "pubDate": "Mon, 14 Sep 2026 23:01:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49705442"
       },
       {
         "title": "Charts built for Chat",
         "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-        "description": "<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 149</p>\n<p># Comments: 47</p>",
+        "description": "<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 239</p>\n<p># Comments: 74</p>",
         "pubDate": "Mon, 14 Sep 2026 21:22:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49704246"
       },
       {
-        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-        "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-        "description": "<p>Article URL: <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html\">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704008\">https://news.ycombinator.com/item?id=49704008</a></p>\n<p>Points: 188</p>\n<p># Comments: 192</p>",
-        "pubDate": "Mon, 14 Sep 2026 21:05:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49704008"
-      },
-      {
-        "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-        "link": "https://pub.sakana.ai/pc-alm/",
-        "description": "<p><a href=\"https://arxiv.org/abs/2605.31022\" rel=\"nofollow\">https://arxiv.org/abs/2605.31022</a><p><a href=\"https://github.com/SakanaAI/pc-alm\" rel=\"nofollow\">https://github.com/SakanaAI/pc-alm</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701182\">https://news.ycombinator.com/item?id=49701182</a></p>\n<p>Points: 57</p>\n<p># Comments: 13</p>",
-        "pubDate": "Mon, 14 Sep 2026 18:03:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49701182"
-      },
-      {
         "title": "iOS 27, iPadOS 27, and macOS 27",
         "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 466</p>\n<p># Comments: 506</p>",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 626</p>\n<p># Comments: 718</p>",
         "pubDate": "Mon, 14 Sep 2026 17:50:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49701004"
       },
       {
-        "title": "Steam Frame starts at $1059",
-        "link": "https://store.steampowered.com/hardware/steamframe",
-        "description": "<p>Article URL: <a href=\"https://store.steampowered.com/hardware/steamframe\">https://store.steampowered.com/hardware/steamframe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700661\">https://news.ycombinator.com/item?id=49700661</a></p>\n<p>Points: 571</p>\n<p># Comments: 434</p>",
-        "pubDate": "Mon, 14 Sep 2026 17:27:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49700661"
-      },
-      {
         "title": "Pion, an agent designed to run any company autonomously",
         "link": "https://andonlabs.com/blog/why-we-built-pion",
-        "description": "<p>Article URL: <a href=\"https://andonlabs.com/blog/why-we-built-pion\">https://andonlabs.com/blog/why-we-built-pion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700477\">https://news.ycombinator.com/item?id=49700477</a></p>\n<p>Points: 326</p>\n<p># Comments: 362</p>",
+        "description": "<p>Article URL: <a href=\"https://andonlabs.com/blog/why-we-built-pion\">https://andonlabs.com/blog/why-we-built-pion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700477\">https://news.ycombinator.com/item?id=49700477</a></p>\n<p>Points: 419</p>\n<p># Comments: 519</p>",
         "pubDate": "Mon, 14 Sep 2026 17:16:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49700477"
       },
       {
-        "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-        "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/automatic-key-exchange-for-origins/\">https://blog.cloudflare.com/automatic-key-exchange-for-origins/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700255\">https://news.ycombinator.com/item?id=49700255</a></p>\n<p>Points: 97</p>\n<p># Comments: 26</p>",
-        "pubDate": "Mon, 14 Sep 2026 17:02:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49700255"
-      },
-      {
-        "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-        "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead\">https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700218\">https://news.ycombinator.com/item?id=49700218</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 14 Sep 2026 17:00:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49700218"
-      },
-      {
-        "title": "Why don't machine learning research agents overfit?",
-        "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-        "description": "<p>Article URL: <a href=\"https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit\">https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699648\">https://news.ycombinator.com/item?id=49699648</a></p>\n<p>Points: 112</p>\n<p># Comments: 63</p>",
-        "pubDate": "Mon, 14 Sep 2026 16:32:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49699648"
-      },
-      {
-        "title": "How my e-reader lost its stripes",
-        "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-        "description": "<p>Article URL: <a href=\"https://www.serpentine.com/posts/2026/x3-stripes/\">https://www.serpentine.com/posts/2026/x3-stripes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699489\">https://news.ycombinator.com/item?id=49699489</a></p>\n<p>Points: 168</p>\n<p># Comments: 28</p>",
-        "pubDate": "Mon, 14 Sep 2026 16:23:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49699489"
-      },
-      {
         "title": "Distributed Systems Classics (2017)",
         "link": "https://nvartolomei.com/dist-sys-classics/",
-        "description": "<p>Article URL: <a href=\"https://nvartolomei.com/dist-sys-classics/\">https://nvartolomei.com/dist-sys-classics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699158\">https://news.ycombinator.com/item?id=49699158</a></p>\n<p>Points: 253</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://nvartolomei.com/dist-sys-classics/\">https://nvartolomei.com/dist-sys-classics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699158\">https://news.ycombinator.com/item?id=49699158</a></p>\n<p>Points: 313</p>\n<p># Comments: 68</p>",
         "pubDate": "Mon, 14 Sep 2026 16:02:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49699158"
       },
       {
-        "title": "A Beginning for Mathematics",
+        "title": "A beginning for mathematics",
         "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-        "description": "<p>Article URL: <a href=\"https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/\">https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698699\">https://news.ycombinator.com/item?id=49698699</a></p>\n<p>Points: 182</p>\n<p># Comments: 106</p>",
+        "description": "<p>Article URL: <a href=\"https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/\">https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698699\">https://news.ycombinator.com/item?id=49698699</a></p>\n<p>Points: 233</p>\n<p># Comments: 128</p>",
         "pubDate": "Mon, 14 Sep 2026 15:33:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49698699"
       },
       {
         "title": "Principles for Fast Tokio Applications",
         "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-        "description": "<p>Article URL: <a href=\"https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/\">https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698607\">https://news.ycombinator.com/item?id=49698607</a></p>\n<p>Points: 180</p>\n<p># Comments: 45</p>",
+        "description": "<p>Article URL: <a href=\"https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/\">https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698607\">https://news.ycombinator.com/item?id=49698607</a></p>\n<p>Points: 220</p>\n<p># Comments: 53</p>",
         "pubDate": "Mon, 14 Sep 2026 15:27:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49698607"
       },
       {
-        "title": "Dario, Please",
-        "link": "https://pop.rdi.sh/dario-please/",
-        "description": "<p>Article URL: <a href=\"https://pop.rdi.sh/dario-please/\">https://pop.rdi.sh/dario-please/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697893\">https://news.ycombinator.com/item?id=49697893</a></p>\n<p>Points: 352</p>\n<p># Comments: 170</p>",
-        "pubDate": "Mon, 14 Sep 2026 14:50:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49697893"
+        "title": "A rough guide for going back to the Moon",
+        "link": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+        "description": "<p>Article URL: <a href=\"https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model\">https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697549\">https://news.ycombinator.com/item?id=49697549</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 14 Sep 2026 14:33:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49697549"
       },
       {
         "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
         "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-        "description": "<p>Article URL: <a href=\"https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/\">https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697477\">https://news.ycombinator.com/item?id=49697477</a></p>\n<p>Points: 67</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/\">https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697477\">https://news.ycombinator.com/item?id=49697477</a></p>\n<p>Points: 127</p>\n<p># Comments: 28</p>",
         "pubDate": "Mon, 14 Sep 2026 14:29:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49697477"
       },
       {
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-        "description": "<p>Article URL: <a href=\"https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/\">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697014\">https://news.ycombinator.com/item?id=49697014</a></p>\n<p>Points: 123</p>\n<p># Comments: 68</p>",
-        "pubDate": "Mon, 14 Sep 2026 13:59:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49697014"
-      },
-      {
         "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
         "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-        "description": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\">https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696697\">https://news.ycombinator.com/item?id=49696697</a></p>\n<p>Points: 104</p>\n<p># Comments: 95</p>",
+        "description": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\">https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696697\">https://news.ycombinator.com/item?id=49696697</a></p>\n<p>Points: 207</p>\n<p># Comments: 217</p>",
         "pubDate": "Mon, 14 Sep 2026 13:38:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49696697"
+      },
+      {
+        "title": "People who can't picture anything are rewriting the science of imagination",
+        "link": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+        "description": "<p>Article URL: <a href=\"https://dailyneuron.com/aphantasia-mental-imagery-brain-network/\">https://dailyneuron.com/aphantasia-mental-imagery-brain-network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696453\">https://news.ycombinator.com/item?id=49696453</a></p>\n<p>Points: 179</p>\n<p># Comments: 253</p>",
+        "pubDate": "Mon, 14 Sep 2026 13:23:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49696453"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-15T04:41:31.025Z",
+  "lastUpdated": "2026-09-15T11:34:38.280Z",
   "stats": {
     "feeds": 2,
     "articles": 20
