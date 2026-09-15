@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-15T16:49:09.149Z"
+      "lastFetched": "2026-09-15T21:11:14.698Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-15T16:49:29.247Z"
+      "lastFetched": "2026-09-15T21:11:15.159Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Swift 6.4 Released",
-        "link": "https://www.swift.org/blog/swift-6.4-released/",
-        "description": "<p>Article URL: <a href=\"https://www.swift.org/blog/swift-6.4-released/\">https://www.swift.org/blog/swift-6.4-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49714239\">https://news.ycombinator.com/item?id=49714239</a></p>\n<p>Points: 80</p>\n<p># Comments: 24</p>",
-        "pubDate": "Tue, 15 Sep 2026 15:40:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49714239"
+        "title": "Jean-Pierre Serre is 100 years old today",
+        "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+        "description": "<p>Article URL: <a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718822\">https://news.ycombinator.com/item?id=49718822</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 15 Sep 2026 20:57:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49718822"
+      },
+      {
+        "title": "How much oil-market buffer is left?",
+        "link": "https://www.depletion.org",
+        "description": "<p>Article URL: <a href=\"https://www.depletion.org\">https://www.depletion.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718025\">https://news.ycombinator.com/item?id=49718025</a></p>\n<p>Points: 53</p>\n<p># Comments: 71</p>",
+        "pubDate": "Tue, 15 Sep 2026 19:56:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49718025"
+      },
+      {
+        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+        "link": "https://codyho.dev/blog/gpu-driver/",
+        "description": "<p>Article URL: <a href=\"https://codyho.dev/blog/gpu-driver/\">https://codyho.dev/blog/gpu-driver/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717638\">https://news.ycombinator.com/item?id=49717638</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 15 Sep 2026 19:30:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49717638"
+      },
+      {
+        "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+        "link": "https://github.com/GraafHenk/numberwang",
+        "description": "<p>Article URL: <a href=\"https://github.com/GraafHenk/numberwang\">https://github.com/GraafHenk/numberwang</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717605\">https://news.ycombinator.com/item?id=49717605</a></p>\n<p>Points: 47</p>\n<p># Comments: 15</p>",
+        "pubDate": "Tue, 15 Sep 2026 19:27:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49717605"
+      },
+      {
+        "title": "Introducing System One Models and Jev",
+        "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 313</p>\n<p># Comments: 123</p>",
+        "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49717558"
+      },
+      {
+        "title": "Chopping up books when they're physically too big",
+        "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+        "description": "<p>Article URL: <a href=\"https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\">https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716953\">https://news.ycombinator.com/item?id=49716953</a></p>\n<p>Points: 53</p>\n<p># Comments: 46</p>",
+        "pubDate": "Tue, 15 Sep 2026 18:45:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49716953"
+      },
+      {
+        "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+        "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+        "description": "<p>Article URL: <a href=\"https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716476\">https://news.ycombinator.com/item?id=49716476</a></p>\n<p>Points: 143</p>\n<p># Comments: 59</p>",
+        "pubDate": "Tue, 15 Sep 2026 18:11:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49716476"
+      },
+      {
+        "title": "An Update on Wayback Machine Access",
+        "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 236</p>\n<p># Comments: 120</p>",
+        "pubDate": "Tue, 15 Sep 2026 17:52:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49716176"
+      },
+      {
+        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715947\">https://news.ycombinator.com/item?id=49715947</a></p>\n<p>Points: 169</p>\n<p># Comments: 109</p>",
+        "pubDate": "Tue, 15 Sep 2026 17:38:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49715947"
+      },
+      {
+        "title": "GEFS on OpenBSD: A Early Preview",
+        "link": "https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2",
+        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-tech&m=178948744271633&w=2\">https://marc.info/?l=openbsd-tech&m=178948744271633&w=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715590\">https://news.ycombinator.com/item?id=49715590</a></p>\n<p>Points: 77</p>\n<p># Comments: 40</p>",
+        "pubDate": "Tue, 15 Sep 2026 17:12:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49715590"
+      },
+      {
+        "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+        "link": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+        "description": "<p>Article URL: <a href=\"https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd\">https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715446\">https://news.ycombinator.com/item?id=49715446</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 15 Sep 2026 17:00:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49715446"
+      },
+      {
+        "title": "America's Driver's License Breach Is a National Security Disaster",
+        "link": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+        "description": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster\">https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49714547\">https://news.ycombinator.com/item?id=49714547</a></p>\n<p>Points: 192</p>\n<p># Comments: 125</p>",
+        "pubDate": "Tue, 15 Sep 2026 15:58:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49714547"
       },
       {
         "title": "Cartesian – AI 3D Modeling for Design",
         "link": "https://www.formas.ai/cartesian",
-        "description": "<p>Article URL: <a href=\"https://www.formas.ai/cartesian\">https://www.formas.ai/cartesian</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713999\">https://news.ycombinator.com/item?id=49713999</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://www.formas.ai/cartesian\">https://www.formas.ai/cartesian</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713999\">https://news.ycombinator.com/item?id=49713999</a></p>\n<p>Points: 71</p>\n<p># Comments: 62</p>",
         "pubDate": "Tue, 15 Sep 2026 15:26:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49713999"
       },
       {
-        "title": "The bitter lesson of browser agents",
-        "link": "https://browser-use.com/posts/bitter-lesson-browser-agents",
-        "description": "<p>Article URL: <a href=\"https://browser-use.com/posts/bitter-lesson-browser-agents\">https://browser-use.com/posts/bitter-lesson-browser-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713637\">https://news.ycombinator.com/item?id=49713637</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 15 Sep 2026 15:03:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713637"
-      },
-      {
-        "title": "Closing the IPv6 First-Packet Gap with Grand",
-        "link": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
-        "description": "<p>Article URL: <a href=\"https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/\">https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713337\">https://news.ycombinator.com/item?id=49713337</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 15 Sep 2026 14:44:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713337"
-      },
-      {
-        "title": "The CSS Zen Garden dream shipped",
+        "title": "The CSS Zen Garden dream, finally shipped",
         "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-        "description": "<p>Article URL: <a href=\"https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/\">https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713262\">https://news.ycombinator.com/item?id=49713262</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/\">https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713262\">https://news.ycombinator.com/item?id=49713262</a></p>\n<p>Points: 99</p>\n<p># Comments: 43</p>",
         "pubDate": "Tue, 15 Sep 2026 14:40:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49713262"
       },
       {
-        "title": "What we have learned at OpenShell applying formal methods to control AI agents",
-        "link": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-        "description": "<p>Article URL: <a href=\"https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/\">https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713261\">https://news.ycombinator.com/item?id=49713261</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 15 Sep 2026 14:40:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713261"
-      },
-      {
-        "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
-        "link": "https://arxiv.org/abs/2602.06258",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.06258\">https://arxiv.org/abs/2602.06258</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713130\">https://news.ycombinator.com/item?id=49713130</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 15 Sep 2026 14:31:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713130"
-      },
-      {
         "title": "The Inference Hardware Revolution of 2026",
         "link": "https://spectrum.ieee.org/inference-hardware-revolution",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/inference-hardware-revolution\">https://spectrum.ieee.org/inference-hardware-revolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713024\">https://news.ycombinator.com/item?id=49713024</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/inference-hardware-revolution\">https://spectrum.ieee.org/inference-hardware-revolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713024\">https://news.ycombinator.com/item?id=49713024</a></p>\n<p>Points: 69</p>\n<p># Comments: 6</p>",
         "pubDate": "Tue, 15 Sep 2026 14:24:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49713024"
       },
       {
-        "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-        "link": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/\">https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712746\">https://news.ycombinator.com/item?id=49712746</a></p>\n<p>Points: 120</p>\n<p># Comments: 113</p>",
-        "pubDate": "Tue, 15 Sep 2026 14:07:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49712746"
-      },
-      {
-        "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-        "link": "https://github.com/greentfrapp/panel",
-        "description": "<p>Article URL: <a href=\"https://github.com/greentfrapp/panel\">https://github.com/greentfrapp/panel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712621\">https://news.ycombinator.com/item?id=49712621</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 15 Sep 2026 13:58:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49712621"
-      },
-      {
         "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
         "link": "https://withcapsule.app/",
-        "description": "<p>Hey HN,<p>I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.<p>The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.<p>Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.<p>One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.<p>I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.<p>You can try it out in the web preview at <a href=\"https://withcapsule.app/preview\" rel=\"nofollow\">https://withcapsule.app/preview</a> with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:<p>\"Please read the app wizard instructions at <a href=\"https://withcapsule.app/prompt.txt\" rel=\"nofollow\">https://withcapsule.app/prompt.txt</a> and help me design an app.“<p>I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712278\">https://news.ycombinator.com/item?id=49712278</a></p>\n<p>Points: 119</p>\n<p># Comments: 62</p>",
+        "description": "<p>Hey HN,<p>I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.<p>The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.<p>Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.<p>One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.<p>I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.<p>You can try it out in the web preview at <a href=\"https://withcapsule.app/preview\" rel=\"nofollow\">https://withcapsule.app/preview</a> with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:<p>\"Please read the app wizard instructions at <a href=\"https://withcapsule.app/prompt.txt\" rel=\"nofollow\">https://withcapsule.app/prompt.txt</a> and help me design an app.“<p>I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712278\">https://news.ycombinator.com/item?id=49712278</a></p>\n<p>Points: 239</p>\n<p># Comments: 110</p>",
         "pubDate": "Tue, 15 Sep 2026 13:31:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49712278"
       },
       {
-        "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-        "link": "https://github.com/ordewell/ordewell",
-        "description": "<p>Article URL: <a href=\"https://github.com/ordewell/ordewell\">https://github.com/ordewell/ordewell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712276\">https://news.ycombinator.com/item?id=49712276</a></p>\n<p>Points: 27</p>\n<p># Comments: 22</p>",
-        "pubDate": "Tue, 15 Sep 2026 13:31:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49712276"
-      },
-      {
         "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
         "link": "https://bkovac.github.io/modem-thing/",
-        "description": "<p>Article URL: <a href=\"https://bkovac.github.io/modem-thing/\">https://bkovac.github.io/modem-thing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712102\">https://news.ycombinator.com/item?id=49712102</a></p>\n<p>Points: 98</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://bkovac.github.io/modem-thing/\">https://bkovac.github.io/modem-thing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712102\">https://news.ycombinator.com/item?id=49712102</a></p>\n<p>Points: 150</p>\n<p># Comments: 28</p>",
         "pubDate": "Tue, 15 Sep 2026 13:20:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49712102"
       },
       {
-        "title": "Java 27 Released",
+        "title": "Java 27",
         "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-        "description": "<p>Article URL: <a href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712041\">https://news.ycombinator.com/item?id=49712041</a></p>\n<p>Points: 231</p>\n<p># Comments: 173</p>",
+        "description": "<p>Article URL: <a href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712041\">https://news.ycombinator.com/item?id=49712041</a></p>\n<p>Points: 287</p>\n<p># Comments: 253</p>",
         "pubDate": "Tue, 15 Sep 2026 13:13:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=49712041"
       },
       {
         "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "link": "https://github.com/arnegiacomo/fugleramme",
-        "description": "<p>Article URL: <a href=\"https://github.com/arnegiacomo/fugleramme\">https://github.com/arnegiacomo/fugleramme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711544\">https://news.ycombinator.com/item?id=49711544</a></p>\n<p>Points: 590</p>\n<p># Comments: 93</p>",
+        "description": "<p>See also: <i>Avian Visitors</i> - <a href=\"https://news.ycombinator.com/item?id=48343424\">https://news.ycombinator.com/item?id=48343424</a> - May 2026 (20 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711544\">https://news.ycombinator.com/item?id=49711544</a></p>\n<p>Points: 1091</p>\n<p># Comments: 148</p>",
         "pubDate": "Tue, 15 Sep 2026 12:31:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49711544"
       },
       {
-        "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
-        "link": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
-        "description": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough\">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711309\">https://news.ycombinator.com/item?id=49711309</a></p>\n<p>Points: 112</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 15 Sep 2026 12:08:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49711309"
-      },
-      {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/\">https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711240\">https://news.ycombinator.com/item?id=49711240</a></p>\n<p>Points: 107</p>\n<p># Comments: 74</p>",
-        "pubDate": "Tue, 15 Sep 2026 12:01:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49711240"
-      },
-      {
-        "title": "25 Years of Mass Surveillance Is Enough",
+        "title": "25 years of mass surveillance is enough",
         "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-        "description": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710883\">https://news.ycombinator.com/item?id=49710883</a></p>\n<p>Points: 481</p>\n<p># Comments: 147</p>",
+        "description": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710883\">https://news.ycombinator.com/item?id=49710883</a></p>\n<p>Points: 688</p>\n<p># Comments: 248</p>",
         "pubDate": "Tue, 15 Sep 2026 11:26:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49710883"
-      },
-      {
-        "title": "Suspected sabotage causes major Netherlands rail disruption",
-        "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8ly49w9g1edo\">https://www.bbc.com/news/articles/c8ly49w9g1edo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710253\">https://news.ycombinator.com/item?id=49710253</a></p>\n<p>Points: 343</p>\n<p># Comments: 336</p>",
-        "pubDate": "Tue, 15 Sep 2026 10:22:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49710253"
-      },
-      {
-        "title": "Alternatives to MinIO for single-node local S3",
-        "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-        "description": "<p>Article URL: <a href=\"https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/\">https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49709381\">https://news.ycombinator.com/item?id=49709381</a></p>\n<p>Points: 170</p>\n<p># Comments: 75</p>",
-        "pubDate": "Tue, 15 Sep 2026 08:21:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49709381"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-15T16:49:29.248Z",
+  "lastUpdated": "2026-09-15T21:11:15.159Z",
   "stats": {
     "feeds": 2,
     "articles": 20
