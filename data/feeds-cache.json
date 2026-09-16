@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-16T11:21:02.843Z"
+      "lastFetched": "2026-09-16T16:41:38.648Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-16T11:21:11.316Z"
+      "lastFetched": "2026-09-16T16:41:58.550Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Code Is Crap",
+        "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+        "description": "<p>Article URL: <a href=\"https://testing.googleblog.com/2011/02/this-code-is-crap.html\">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729228\">https://news.ycombinator.com/item?id=49729228</a></p>\n<p>Points: 21</p>\n<p># Comments: 10</p>",
+        "pubDate": "Wed, 16 Sep 2026 16:13:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49729228"
+      },
+      {
+        "title": "Small Programming Tricks",
+        "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+        "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+        "pubDate": "Wed, 16 Sep 2026 15:56:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49729000"
+      },
+      {
+        "title": "Can we stop with the uptime percentages?",
+        "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/\">https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49728733\">https://news.ycombinator.com/item?id=49728733</a></p>\n<p>Points: 45</p>\n<p># Comments: 34</p>",
+        "pubDate": "Wed, 16 Sep 2026 15:40:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49728733"
+      },
+      {
+        "title": "Anatomy of a Texture",
+        "link": "https://agentlien.github.io/texture/",
+        "description": "<p>Article URL: <a href=\"https://agentlien.github.io/texture/\">https://agentlien.github.io/texture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727592\">https://news.ycombinator.com/item?id=49727592</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+        "pubDate": "Wed, 16 Sep 2026 14:28:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49727592"
+      },
+      {
+        "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+        "link": "https://openai.com/index/reimagining-advertising-with-ai/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/reimagining-advertising-with-ai/\">https://openai.com/index/reimagining-advertising-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727041\">https://news.ycombinator.com/item?id=49727041</a></p>\n<p>Points: 112</p>\n<p># Comments: 104</p>",
+        "pubDate": "Wed, 16 Sep 2026 13:51:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49727041"
+      },
+      {
+        "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+        "link": "https://arxiv.org/abs/2609.14858",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.14858\">https://arxiv.org/abs/2609.14858</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726955\">https://news.ycombinator.com/item?id=49726955</a></p>\n<p>Points: 89</p>\n<p># Comments: 23</p>",
+        "pubDate": "Wed, 16 Sep 2026 13:44:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49726955"
+      },
+      {
+        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+        "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726586\">https://news.ycombinator.com/item?id=49726586</a></p>\n<p>Points: 237</p>\n<p># Comments: 106</p>",
+        "pubDate": "Wed, 16 Sep 2026 13:18:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49726586"
+      },
+      {
+        "title": "Scaling Golang CI by Replacing actions/setup-go",
+        "link": "https://www.cloudx.ai/posts/setup-go",
+        "description": "<p>Article URL: <a href=\"https://www.cloudx.ai/posts/setup-go\">https://www.cloudx.ai/posts/setup-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726350\">https://news.ycombinator.com/item?id=49726350</a></p>\n<p>Points: 42</p>\n<p># Comments: 5</p>",
+        "pubDate": "Wed, 16 Sep 2026 13:02:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49726350"
+      },
+      {
+        "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+        "link": "https://stale.jock.pl/",
+        "description": "<p>Article URL: <a href=\"https://stale.jock.pl/\">https://stale.jock.pl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726343\">https://news.ycombinator.com/item?id=49726343</a></p>\n<p>Points: 29</p>\n<p># Comments: 19</p>",
+        "pubDate": "Wed, 16 Sep 2026 13:01:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49726343"
+      },
+      {
+        "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+        "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+        "description": "<p>Article URL: <a href=\"https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model\">https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725800\">https://news.ycombinator.com/item?id=49725800</a></p>\n<p>Points: 95</p>\n<p># Comments: 24</p>",
+        "pubDate": "Wed, 16 Sep 2026 12:19:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49725800"
+      },
+      {
+        "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+        "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer\">https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725541\">https://news.ycombinator.com/item?id=49725541</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 16 Sep 2026 12:01:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49725541"
+      },
+      {
+        "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip\">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725356\">https://news.ycombinator.com/item?id=49725356</a></p>\n<p>Points: 166</p>\n<p># Comments: 44</p>",
+        "pubDate": "Wed, 16 Sep 2026 11:49:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49725356"
+      },
+      {
+        "title": "The Google Play app review process now regularly takes longer than a week",
+        "link": "https://gultsch.social/@daniel/117280438824908947",
+        "description": "<p>Article URL: <a href=\"https://gultsch.social/@daniel/117280438824908947\">https://gultsch.social/@daniel/117280438824908947</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724927\">https://news.ycombinator.com/item?id=49724927</a></p>\n<p>Points: 261</p>\n<p># Comments: 231</p>",
+        "pubDate": "Wed, 16 Sep 2026 11:19:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49724927"
+      },
+      {
         "title": "Salesforce Global Outage",
         "link": "https://status.salesforce.com/products/all",
-        "description": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 215</p>\n<p># Comments: 122</p>",
         "pubDate": "Wed, 16 Sep 2026 10:37:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49724488"
       },
       {
-        "title": "EU chief opens door for Canada to become 'associate member'",
-        "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cjwyzrr9d3dko\">https://www.bbc.com/news/articles/cjwyzrr9d3dko</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724141\">https://news.ycombinator.com/item?id=49724141</a></p>\n<p>Points: 122</p>\n<p># Comments: 58</p>",
-        "pubDate": "Wed, 16 Sep 2026 09:54:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49724141"
-      },
-      {
-        "title": "Learning Programming in an Age of LLMs",
-        "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-        "description": "<p>Article URL: <a href=\"https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723873\">https://news.ycombinator.com/item?id=49723873</a></p>\n<p>Points: 61</p>\n<p># Comments: 37</p>",
-        "pubDate": "Wed, 16 Sep 2026 09:12:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49723873"
-      },
-      {
         "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
         "link": "https://mistral.ai/news/mistral-x-mozilla/",
-        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-x-mozilla/\">https://mistral.ai/news/mistral-x-mozilla/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723408\">https://news.ycombinator.com/item?id=49723408</a></p>\n<p>Points: 71</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-x-mozilla/\">https://mistral.ai/news/mistral-x-mozilla/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723408\">https://news.ycombinator.com/item?id=49723408</a></p>\n<p>Points: 348</p>\n<p># Comments: 114</p>",
         "pubDate": "Wed, 16 Sep 2026 08:08:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49723408"
       },
       {
-        "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-        "link": "https://github.com/dbalsom/martypc",
-        "description": "<p>Article URL: <a href=\"https://github.com/dbalsom/martypc\">https://github.com/dbalsom/martypc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722591\">https://news.ycombinator.com/item?id=49722591</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-        "pubDate": "Wed, 16 Sep 2026 05:56:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49722591"
-      },
-      {
         "title": "A software thing I built: GPS on a 25MHz 486-SX",
         "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-        "description": "<p>Article URL: <a href=\"https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722521\">https://news.ycombinator.com/item?id=49722521</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722521\">https://news.ycombinator.com/item?id=49722521</a></p>\n<p>Points: 61</p>\n<p># Comments: 19</p>",
         "pubDate": "Wed, 16 Sep 2026 05:43:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49722521"
       },
       {
-        "title": "Datamimic – don't let your coding agent invent its own test world",
-        "link": "https://github.com/rapiddweller/datamimic",
-        "description": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 43</p>\n<p># Comments: 7</p>",
-        "pubDate": "Wed, 16 Sep 2026 04:58:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49722276"
-      },
-      {
-        "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-        "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721548\">https://news.ycombinator.com/item?id=49721548</a></p>\n<p>Points: 87</p>\n<p># Comments: 21</p>",
-        "pubDate": "Wed, 16 Sep 2026 02:46:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49721548"
-      },
-      {
         "title": "Apple Reference Image: A New Approach for Verified Photography",
         "link": "https://security.apple.com/blog/apple-reference-image/",
-        "description": "<p>Article URL: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721322\">https://news.ycombinator.com/item?id=49721322</a></p>\n<p>Points: 284</p>\n<p># Comments: 203</p>",
+        "description": "<p>Article URL: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721322\">https://news.ycombinator.com/item?id=49721322</a></p>\n<p>Points: 415</p>\n<p># Comments: 266</p>",
         "pubDate": "Wed, 16 Sep 2026 02:07:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49721322"
       },
       {
-        "title": "Saving Jet Fuel",
-        "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-        "description": "<p>Article URL: <a href=\"https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49720164\">https://news.ycombinator.com/item?id=49720164</a></p>\n<p>Points: 102</p>\n<p># Comments: 50</p>",
-        "pubDate": "Tue, 15 Sep 2026 23:17:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49720164"
-      },
-      {
-        "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-        "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-        "description": "<p>Article URL: <a href=\"https://nand2mario.github.io/posts/2026/zsst-voodoo/\">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719938\">https://news.ycombinator.com/item?id=49719938</a></p>\n<p>Points: 133</p>\n<p># Comments: 39</p>",
-        "pubDate": "Tue, 15 Sep 2026 22:50:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49719938"
-      },
-      {
         "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
         "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-        "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 228</p>\n<p># Comments: 79</p>",
+        "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 265</p>\n<p># Comments: 98</p>",
         "pubDate": "Tue, 15 Sep 2026 21:07:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49718928"
       },
       {
-        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-        "link": "https://codyho.dev/blog/gpu-driver/",
-        "description": "<p>Article URL: <a href=\"https://codyho.dev/blog/gpu-driver/\">https://codyho.dev/blog/gpu-driver/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717638\">https://news.ycombinator.com/item?id=49717638</a></p>\n<p>Points: 341</p>\n<p># Comments: 194</p>",
-        "pubDate": "Tue, 15 Sep 2026 19:30:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49717638"
-      },
-      {
         "title": "Introducing System One Models and Jev",
         "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 1458</p>\n<p># Comments: 414</p>",
+        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 1682</p>\n<p># Comments: 459</p>",
         "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49717558"
       },
       {
-        "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-        "link": "https://mnoukhov.github.io/posts/ngu/",
-        "description": "<p><a href=\"https://arxiv.org/abs/2609.13443\" rel=\"nofollow\">https://arxiv.org/abs/2609.13443</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717280\">https://news.ycombinator.com/item?id=49717280</a></p>\n<p>Points: 100</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 15 Sep 2026 19:07:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49717280"
-      },
-      {
-        "title": "Chopping up books when they're physically too big",
-        "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-        "description": "<p>Article URL: <a href=\"https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\">https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716953\">https://news.ycombinator.com/item?id=49716953</a></p>\n<p>Points: 188</p>\n<p># Comments: 172</p>",
-        "pubDate": "Tue, 15 Sep 2026 18:45:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49716953"
-      },
-      {
-        "title": "We got admin access to Baseten's production GitHub",
-        "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-        "description": "<p>Article URL: <a href=\"https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716476\">https://news.ycombinator.com/item?id=49716476</a></p>\n<p>Points: 287</p>\n<p># Comments: 162</p>",
-        "pubDate": "Tue, 15 Sep 2026 18:11:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49716476"
-      },
-      {
         "title": "An update on Wayback Machine access",
         "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 555</p>\n<p># Comments: 284</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 642</p>\n<p># Comments: 340</p>",
         "pubDate": "Tue, 15 Sep 2026 17:52:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49716176"
-      },
-      {
-        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715947\">https://news.ycombinator.com/item?id=49715947</a></p>\n<p>Points: 427</p>\n<p># Comments: 280</p>",
-        "pubDate": "Tue, 15 Sep 2026 17:38:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49715947"
-      },
-      {
-        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "description": "<p>Article URL: <a href=\"https://dank.systems/posts/2026-09-15-ai-bear.html\">https://dank.systems/posts/2026-09-15-ai-bear.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715927\">https://news.ycombinator.com/item?id=49715927</a></p>\n<p>Points: 247</p>\n<p># Comments: 287</p>",
-        "pubDate": "Tue, 15 Sep 2026 17:37:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49715927"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-16T11:21:11.316Z",
+  "lastUpdated": "2026-09-16T16:41:58.550Z",
   "stats": {
     "feeds": 2,
     "articles": 20
