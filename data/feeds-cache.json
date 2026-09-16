@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-16T04:36:16.253Z"
+      "lastFetched": "2026-09-16T11:21:02.843Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-16T04:36:35.962Z"
+      "lastFetched": "2026-09-16T11:21:11.316Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Salesforce Global Outage",
+        "link": "https://status.salesforce.com/products/all",
+        "description": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+        "pubDate": "Wed, 16 Sep 2026 10:37:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49724488"
+      },
+      {
+        "title": "EU chief opens door for Canada to become 'associate member'",
+        "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cjwyzrr9d3dko\">https://www.bbc.com/news/articles/cjwyzrr9d3dko</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724141\">https://news.ycombinator.com/item?id=49724141</a></p>\n<p>Points: 122</p>\n<p># Comments: 58</p>",
+        "pubDate": "Wed, 16 Sep 2026 09:54:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49724141"
+      },
+      {
+        "title": "Learning Programming in an Age of LLMs",
+        "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+        "description": "<p>Article URL: <a href=\"https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723873\">https://news.ycombinator.com/item?id=49723873</a></p>\n<p>Points: 61</p>\n<p># Comments: 37</p>",
+        "pubDate": "Wed, 16 Sep 2026 09:12:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49723873"
+      },
+      {
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "link": "https://mistral.ai/news/mistral-x-mozilla/",
+        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-x-mozilla/\">https://mistral.ai/news/mistral-x-mozilla/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723408\">https://news.ycombinator.com/item?id=49723408</a></p>\n<p>Points: 71</p>\n<p># Comments: 16</p>",
+        "pubDate": "Wed, 16 Sep 2026 08:08:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49723408"
+      },
+      {
+        "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+        "link": "https://github.com/dbalsom/martypc",
+        "description": "<p>Article URL: <a href=\"https://github.com/dbalsom/martypc\">https://github.com/dbalsom/martypc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722591\">https://news.ycombinator.com/item?id=49722591</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 16 Sep 2026 05:56:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49722591"
+      },
+      {
+        "title": "A software thing I built: GPS on a 25MHz 486-SX",
+        "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+        "description": "<p>Article URL: <a href=\"https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722521\">https://news.ycombinator.com/item?id=49722521</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 16 Sep 2026 05:43:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49722521"
+      },
+      {
+        "title": "Datamimic – don't let your coding agent invent its own test world",
+        "link": "https://github.com/rapiddweller/datamimic",
+        "description": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 43</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 16 Sep 2026 04:58:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49722276"
+      },
+      {
         "title": "Negativland, Culture Jamming, and the Art of Making Something New",
         "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721548\">https://news.ycombinator.com/item?id=49721548</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721548\">https://news.ycombinator.com/item?id=49721548</a></p>\n<p>Points: 87</p>\n<p># Comments: 21</p>",
         "pubDate": "Wed, 16 Sep 2026 02:46:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49721548"
       },
       {
-        "title": "Stay discoverable in search while disallowing AI training",
-        "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/\">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721435\">https://news.ycombinator.com/item?id=49721435</a></p>\n<p>Points: 37</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 16 Sep 2026 02:25:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49721435"
-      },
-      {
         "title": "Apple Reference Image: A New Approach for Verified Photography",
         "link": "https://security.apple.com/blog/apple-reference-image/",
-        "description": "<p>Article URL: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721322\">https://news.ycombinator.com/item?id=49721322</a></p>\n<p>Points: 65</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721322\">https://news.ycombinator.com/item?id=49721322</a></p>\n<p>Points: 284</p>\n<p># Comments: 203</p>",
         "pubDate": "Wed, 16 Sep 2026 02:07:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49721322"
       },
       {
         "title": "Saving Jet Fuel",
         "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-        "description": "<p>Article URL: <a href=\"https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49720164\">https://news.ycombinator.com/item?id=49720164</a></p>\n<p>Points: 58</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49720164\">https://news.ycombinator.com/item?id=49720164</a></p>\n<p>Points: 102</p>\n<p># Comments: 50</p>",
         "pubDate": "Tue, 15 Sep 2026 23:17:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49720164"
       },
       {
         "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
         "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-        "description": "<p>Article URL: <a href=\"https://nand2mario.github.io/posts/2026/zsst-voodoo/\">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719938\">https://news.ycombinator.com/item?id=49719938</a></p>\n<p>Points: 69</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://nand2mario.github.io/posts/2026/zsst-voodoo/\">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719938\">https://news.ycombinator.com/item?id=49719938</a></p>\n<p>Points: 133</p>\n<p># Comments: 39</p>",
         "pubDate": "Tue, 15 Sep 2026 22:50:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49719938"
       },
       {
         "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
         "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-        "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 159</p>\n<p># Comments: 46</p>",
+        "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 228</p>\n<p># Comments: 79</p>",
         "pubDate": "Tue, 15 Sep 2026 21:07:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49718928"
       },
       {
-        "title": "Jean-Pierre Serre turns 100",
-        "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-        "description": "<p>Article URL: <a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718822\">https://news.ycombinator.com/item?id=49718822</a></p>\n<p>Points: 111</p>\n<p># Comments: 19</p>",
-        "pubDate": "Tue, 15 Sep 2026 20:57:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49718822"
-      },
-      {
         "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
         "link": "https://codyho.dev/blog/gpu-driver/",
-        "description": "<p>Article URL: <a href=\"https://codyho.dev/blog/gpu-driver/\">https://codyho.dev/blog/gpu-driver/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717638\">https://news.ycombinator.com/item?id=49717638</a></p>\n<p>Points: 207</p>\n<p># Comments: 130</p>",
+        "description": "<p>Article URL: <a href=\"https://codyho.dev/blog/gpu-driver/\">https://codyho.dev/blog/gpu-driver/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717638\">https://news.ycombinator.com/item?id=49717638</a></p>\n<p>Points: 341</p>\n<p># Comments: 194</p>",
         "pubDate": "Tue, 15 Sep 2026 19:30:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49717638"
       },
       {
-        "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-        "link": "https://github.com/GraafHenk/numberwang",
-        "description": "<p>Article URL: <a href=\"https://github.com/GraafHenk/numberwang\">https://github.com/GraafHenk/numberwang</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717605\">https://news.ycombinator.com/item?id=49717605</a></p>\n<p>Points: 124</p>\n<p># Comments: 47</p>",
-        "pubDate": "Tue, 15 Sep 2026 19:27:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49717605"
-      },
-      {
         "title": "Introducing System One Models and Jev",
         "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 966</p>\n<p># Comments: 302</p>",
+        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 1458</p>\n<p># Comments: 414</p>",
         "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49717558"
       },
       {
         "title": "Learning to solve hard problems in RL for LLMs by never giving up",
         "link": "https://mnoukhov.github.io/posts/ngu/",
-        "description": "<p><a href=\"https://arxiv.org/abs/2609.13443\" rel=\"nofollow\">https://arxiv.org/abs/2609.13443</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717280\">https://news.ycombinator.com/item?id=49717280</a></p>\n<p>Points: 59</p>\n<p># Comments: 0</p>",
+        "description": "<p><a href=\"https://arxiv.org/abs/2609.13443\" rel=\"nofollow\">https://arxiv.org/abs/2609.13443</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717280\">https://news.ycombinator.com/item?id=49717280</a></p>\n<p>Points: 100</p>\n<p># Comments: 6</p>",
         "pubDate": "Tue, 15 Sep 2026 19:07:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49717280"
       },
       {
         "title": "Chopping up books when they're physically too big",
         "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-        "description": "<p>Article URL: <a href=\"https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\">https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716953\">https://news.ycombinator.com/item?id=49716953</a></p>\n<p>Points: 143</p>\n<p># Comments: 137</p>",
+        "description": "<p>Article URL: <a href=\"https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\">https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716953\">https://news.ycombinator.com/item?id=49716953</a></p>\n<p>Points: 188</p>\n<p># Comments: 172</p>",
         "pubDate": "Tue, 15 Sep 2026 18:45:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49716953"
       },
       {
         "title": "We got admin access to Baseten's production GitHub",
         "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-        "description": "<p>Article URL: <a href=\"https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716476\">https://news.ycombinator.com/item?id=49716476</a></p>\n<p>Points: 249</p>\n<p># Comments: 136</p>",
+        "description": "<p>Article URL: <a href=\"https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716476\">https://news.ycombinator.com/item?id=49716476</a></p>\n<p>Points: 287</p>\n<p># Comments: 162</p>",
         "pubDate": "Tue, 15 Sep 2026 18:11:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49716476"
       },
       {
         "title": "An update on Wayback Machine access",
         "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 445</p>\n<p># Comments: 233</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 555</p>\n<p># Comments: 284</p>",
         "pubDate": "Tue, 15 Sep 2026 17:52:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49716176"
       },
       {
         "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715947\">https://news.ycombinator.com/item?id=49715947</a></p>\n<p>Points: 351</p>\n<p># Comments: 224</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715947\">https://news.ycombinator.com/item?id=49715947</a></p>\n<p>Points: 427</p>\n<p># Comments: 280</p>",
         "pubDate": "Tue, 15 Sep 2026 17:38:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49715947"
       },
       {
-        "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-        "link": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
-        "description": "<p>Article URL: <a href=\"https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd\">https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715446\">https://news.ycombinator.com/item?id=49715446</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 15 Sep 2026 17:00:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49715446"
-      },
-      {
-        "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-        "link": "https://github.com/pizza-bot-app/pizza-bot",
-        "description": "<p>Hi HN - long-time lurker (since 2012!), first time poster.<p>Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source.<p>Pizza Bot started as an internal passion project I worked on with a small team at Amazon.<p>The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved).<p>This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza Bot as an MCP server instead, so it would be available to AI tools through natural language.<p>This was a decent solution for technical users, but the Account Managers who live inside our CRM system wanted something too. We decided to rebuild Pizza Bot as an Electron desktop app modeled after an email inbox, so it would be familiar to non-technical users and would run on both Mac and Windows. We also bundled internal MCP servers as OCI images and hosted them in Amazon ECR as an \"addon marketplace\" so users could install them with one click without having to set up Amazon developer tooling.<p>The project took off organically and expanded outside of AWS into the wider Amazon organization globally. More than 2,000 people ended up using it for meeting prep, email drafting, Slack summaries, CRM logging, prioritizing their day, and web research.<p>Once apps like Claude Cowork and Amazon's own Quick Desktop came out, we realized the real growth opportunity was outside of Amazon. Rather than try to rip out the Amazon-specific integrations, we rebuilt Pizza Bot once more as an open source project. We leaned on coding agents heavily, which is the only reason a team our size could pull off a full rewrite. I'm pleased to say it's finally public, and we're hoping to bring in community members and see where it goes. We'd like to do for knowledge workers what Claude Code and Codex have done for programmers.<p>A couple of things to know up front. Most of what made Pizza Bot useful on day one inside Amazon came from that internal catalog of skills and MCP servers for Amazon's own systems, and none of it could come out with the app. So it ships thinner than the version those 2,000 people used, and building that catalog back up for tools other people actually use is where we need the most help. It's also a community project and not an AWS service, so there's no support or SLA behind it. The Windows and Linux builds aren't signed yet either.<p>On the technical side, Pizza Bot is a server and a client. The desktop app bundles both, or you can point a client at a remote backend; personally, I self-host the server on my home network and reach it from my phone over Tailscale. The server owns the thread lifecycle and checkpoints state with DeepAgents and LangGraph, and clients rehydrate from it as needed, so you can disconnect mid-run and pick the thread back up from another client. Approval pauses outlive the session that created them and collect in an Action filter, so you can answer an hour later from a different device. The agent you talk to has a sandboxed QuickJS interpreter that can reach your filesystem only if you grant it a folder, but its main job is to delegate. Each subagent is a 1:1 mapping of a Skill, and an Activity bar shows that subagent and the tool calls it's making as it works. Memory is opt-in and stored as plain markdown files on your machine. Every tool call is explicit, including looking up a memory - we err on the side of transparency to reduce surprises. Tools come from MCP servers, and skills are ordinary SKILL.md files with a per-tool approval policy, so existing skills that don't require a code interpreter should still work.<p>What I'd most like to hear about is where the app itself gets in your way, the kind of problem you can't fix by writing a skill or an MCP server. I'm around today to answer questions!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713894\">https://news.ycombinator.com/item?id=49713894</a></p>\n<p>Points: 37</p>\n<p># Comments: 23</p>",
-        "pubDate": "Tue, 15 Sep 2026 15:20:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713894"
-      },
-      {
-        "title": "The CSS Zen Garden dream, finally shipped",
-        "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-        "description": "<p>Article URL: <a href=\"https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/\">https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713262\">https://news.ycombinator.com/item?id=49713262</a></p>\n<p>Points: 131</p>\n<p># Comments: 72</p>",
-        "pubDate": "Tue, 15 Sep 2026 14:40:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713262"
-      },
-      {
-        "title": "The Inference Hardware Revolution of 2026",
-        "link": "https://spectrum.ieee.org/inference-hardware-revolution",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/inference-hardware-revolution\">https://spectrum.ieee.org/inference-hardware-revolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713024\">https://news.ycombinator.com/item?id=49713024</a></p>\n<p>Points: 125</p>\n<p># Comments: 13</p>",
-        "pubDate": "Tue, 15 Sep 2026 14:24:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49713024"
-      },
-      {
-        "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-        "link": "https://withcapsule.app/",
-        "description": "<p>Hey HN,<p>I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.<p>The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.<p>Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.<p>One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.<p>I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.<p>You can try it out in the web preview at <a href=\"https://withcapsule.app/preview\" rel=\"nofollow\">https://withcapsule.app/preview</a> with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:<p>\"Please read the app wizard instructions at <a href=\"https://withcapsule.app/prompt.txt\" rel=\"nofollow\">https://withcapsule.app/prompt.txt</a> and help me design an app.“<p>I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712278\">https://news.ycombinator.com/item?id=49712278</a></p>\n<p>Points: 301</p>\n<p># Comments: 121</p>",
-        "pubDate": "Tue, 15 Sep 2026 13:31:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49712278"
+        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+        "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+        "description": "<p>Article URL: <a href=\"https://dank.systems/posts/2026-09-15-ai-bear.html\">https://dank.systems/posts/2026-09-15-ai-bear.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715927\">https://news.ycombinator.com/item?id=49715927</a></p>\n<p>Points: 247</p>\n<p># Comments: 287</p>",
+        "pubDate": "Tue, 15 Sep 2026 17:37:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49715927"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-16T04:36:35.962Z",
+  "lastUpdated": "2026-09-16T11:21:11.316Z",
   "stats": {
     "feeds": 2,
     "articles": 20
