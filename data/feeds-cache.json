@@ -5,87 +5,136 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-16T16:41:38.648Z"
+      "lastFetched": "2026-09-16T21:12:22.201Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-16T16:41:58.550Z"
+      "lastFetched": "2026-09-16T21:12:41.748Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Code Is Crap",
-        "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-        "description": "<p>Article URL: <a href=\"https://testing.googleblog.com/2011/02/this-code-is-crap.html\">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729228\">https://news.ycombinator.com/item?id=49729228</a></p>\n<p>Points: 21</p>\n<p># Comments: 10</p>",
-        "pubDate": "Wed, 16 Sep 2026 16:13:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49729228"
+        "title": "Xiami Mimo 2.6 Live Post-Training Dashboard",
+        "link": "https://mimo.xiaomi.com/rl/",
+        "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 51</p>\n<p># Comments: 18</p>",
+        "pubDate": "Wed, 16 Sep 2026 20:09:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49732270"
       },
       {
-        "title": "Small Programming Tricks",
+        "title": "macOS 27 Golden Gate: The Ars Technica Review",
+        "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/\">https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732036\">https://news.ycombinator.com/item?id=49732036</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 16 Sep 2026 19:53:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49732036"
+      },
+      {
+        "title": "How good are frontier models at physics?",
+        "link": "https://arxiv.org/abs/2609.13009",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.13009\">https://arxiv.org/abs/2609.13009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731620\">https://news.ycombinator.com/item?id=49731620</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 16 Sep 2026 19:19:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731620"
+      },
+      {
+        "title": "Accurate Models of AMD Matrix Cores",
+        "link": "https://arxiv.org/abs/2609.14845",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.14845\">https://arxiv.org/abs/2609.14845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731360\">https://news.ycombinator.com/item?id=49731360</a></p>\n<p>Points: 36</p>\n<p># Comments: 5</p>",
+        "pubDate": "Wed, 16 Sep 2026 18:56:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731360"
+      },
+      {
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "link": "https://rohanbansal.com/qorl",
+        "description": "<p>Article URL: <a href=\"https://rohanbansal.com/qorl\">https://rohanbansal.com/qorl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731285\">https://news.ycombinator.com/item?id=49731285</a></p>\n<p>Points: 174</p>\n<p># Comments: 23</p>",
+        "pubDate": "Wed, 16 Sep 2026 18:50:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731285"
+      },
+      {
+        "title": "Reverse-engineered Jev-like model",
+        "link": "https://github.com/vinnylarouge/jevlike",
+        "description": "<p>Article URL: <a href=\"https://github.com/vinnylarouge/jevlike\">https://github.com/vinnylarouge/jevlike</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731282\">https://news.ycombinator.com/item?id=49731282</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 16 Sep 2026 18:49:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731282"
+      },
+      {
+        "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+        "link": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+        "description": "<p>Article URL: <a href=\"https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us\">https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731235\">https://news.ycombinator.com/item?id=49731235</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+        "pubDate": "Wed, 16 Sep 2026 18:45:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731235"
+      },
+      {
+        "title": "Tell HN: An inside view of Montana's new biotech law",
+        "link": "https://news.ycombinator.com/item?id=49731216",
+        "description": "<p>Montana passed a law called SB535. It builds on right-to-try (pre-approval access with informed consent, Phase 1 safety data etc.) but goes much further, fixing problems with those laws.<p>Alex Tabarrok called it \"the most important regulatory innovation in drug approval in my lifetime\" (<a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/montanas-sb535-and-a-potential-biotech-renaissance-in-america.html\" rel=\"nofollow\">https://marginalrevolution.com/marginalrevolution/2026/06/mo...</a>). Was posted here but died in /new (<a href=\"https://news.ycombinator.com/item?id=48559525\">https://news.ycombinator.com/item?id=48559525</a>). The mods suggested this post.<p>I contributed ideas to the law and am now implementing it through my company. I invested in biotech for years and watched companies struggle. I built the biotech ecosystem in Prospera as an alternative, concluded it was too early, and now think Montana is the best place to prove this.<p><i>Why this exists:</i> When FDA approves a bad drug, heads roll. When it delays a good one, the deaths are statistical and nobody gets blamed (\"invisible graveyard\"). So the incentive is overcaution, which is why the cost per approved drug has roughly doubled every 9 years for decades (\"Eroom's Law\"). Founders are in the \"Valley of Death\" around Phase 1: grants are no longer available, and commercial money wants assurance the drug will pass the next trial. Only ~10% of post-Phase 1 drugs get approved, but 68% of failed trials don’t stop because they found lack of safety or efficacy but commercial reasons (Williams et al., PLOS ONE 2015). Federal Right to Try and Expanded Access haven't fixed this. Federal reform is super-hard.<p><i>What Montana allows:</i> A physician can give an experimental treatment outside a trial if: it completed FDA Phase 1 under an active IND; a state-registered private review board (ETRB) approved the protocol; it's delivered at a state-licensed clinic; consent exceeds the federal standard & adverse events need to be reported. The key is: sponsors and clinics can charge.<p><i>Why this time it's different:</i> The risk-reward ratio is what's broken. Right to Try and Expanded Access don't let sponsors charge, so treating a patient is risk plus expense. Montana is the first state law where sponsors of IND-stage drugs can price in that risk. Trial recruitment today is a price-control system: per-patient cost is around $50-100k, typically has a ceiling upward on what it can pay patients (\"undue inducement\") and a floor downward (no profit, only at cost in RTT / EA). Montana removes both (I know this will lead to lots of debate, let’s have it.)<p>So this is not a free for all, the additional liberties come with tough oversight. An ETRB is Montana's version of an IRB: safety review, consent, mandatory outcome reporting, and you can't withhold safety information from patients. That’s the truth-funding mechanism.<p><i>What companies can do now:</i> If you have a Phase 1 asset stuck in the Valley of Death: treat patients, negotiate payment, get real-world data, use it to sharpen your Phase 2/3 design.<p>Disclosure: my company formed the first ETRB. The model is review fees, like an IRB; no equity in applicants, no payment by outcome; COI policy and board bios public; decision letters published with applicant consent; annual outcome report required.<p>Objections:<p>- Someone gets hurt? Same as trials and ordinary care: US legal system, legal recourse.<p>- FDA shuts it down? They haven't said they won't, but historically FDA goes after grey-market clinics, not state laws; we're asking for safe harbor, but some companies aren't waiting.<p>- Snake oil? Bad actors want to fly under the radar, and Montana makes that hard.<p><i>What's needed:</i> Biotechs with Phase 1+ assets willing to move before full FDA assurance, to build the evidence that gets the agency on board - the point is not to skip FDA, but to reduce the cost of data. And ex-FDA reviewers, IND operators, IRB members telling us where this breaks.<p>Happy to answer anything.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731216\">https://news.ycombinator.com/item?id=49731216</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+        "pubDate": "Wed, 16 Sep 2026 18:43:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731216"
+      },
+      {
+        "title": "Vectorized and performance-portable Quicksort (2022)",
+        "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+        "description": "<p>Article URL: <a href=\"https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\">https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731054\">https://news.ycombinator.com/item?id=49731054</a></p>\n<p>Points: 147</p>\n<p># Comments: 21</p>",
+        "pubDate": "Wed, 16 Sep 2026 18:31:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49731054"
+      },
+      {
+        "title": "Training Text-to-Image Models 3.6× Faster",
+        "link": "https://www.linum.ai/field-notes/jit-ddt",
+        "description": "<p>Article URL: <a href=\"https://www.linum.ai/field-notes/jit-ddt\">https://www.linum.ai/field-notes/jit-ddt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729816\">https://news.ycombinator.com/item?id=49729816</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 16 Sep 2026 16:58:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49729816"
+      },
+      {
+        "title": "Claude Cowork and chat are now one Claude",
+        "link": "https://claude.com/blog/cowork-is-now-claude",
+        "description": "<p>Article URL: <a href=\"https://claude.com/blog/cowork-is-now-claude\">https://claude.com/blog/cowork-is-now-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729412\">https://news.ycombinator.com/item?id=49729412</a></p>\n<p>Points: 170</p>\n<p># Comments: 181</p>",
+        "pubDate": "Wed, 16 Sep 2026 16:26:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49729412"
+      },
+      {
+        "title": "Small programming tricks",
         "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 271</p>\n<p># Comments: 146</p>",
         "pubDate": "Wed, 16 Sep 2026 15:56:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49729000"
       },
       {
         "title": "Can we stop with the uptime percentages?",
         "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/\">https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49728733\">https://news.ycombinator.com/item?id=49728733</a></p>\n<p>Points: 45</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/\">https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49728733\">https://news.ycombinator.com/item?id=49728733</a></p>\n<p>Points: 120</p>\n<p># Comments: 94</p>",
         "pubDate": "Wed, 16 Sep 2026 15:40:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49728733"
       },
       {
-        "title": "Anatomy of a Texture",
-        "link": "https://agentlien.github.io/texture/",
-        "description": "<p>Article URL: <a href=\"https://agentlien.github.io/texture/\">https://agentlien.github.io/texture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727592\">https://news.ycombinator.com/item?id=49727592</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 16 Sep 2026 14:28:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49727592"
-      },
-      {
-        "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-        "link": "https://openai.com/index/reimagining-advertising-with-ai/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/reimagining-advertising-with-ai/\">https://openai.com/index/reimagining-advertising-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727041\">https://news.ycombinator.com/item?id=49727041</a></p>\n<p>Points: 112</p>\n<p># Comments: 104</p>",
-        "pubDate": "Wed, 16 Sep 2026 13:51:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49727041"
+        "title": "The DeepMind Institute",
+        "link": "https://institute.deepmind.com/",
+        "description": "<p>Article URL: <a href=\"https://institute.deepmind.com/\">https://institute.deepmind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727659\">https://news.ycombinator.com/item?id=49727659</a></p>\n<p>Points: 97</p>\n<p># Comments: 32</p>",
+        "pubDate": "Wed, 16 Sep 2026 14:32:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49727659"
       },
       {
         "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
         "link": "https://arxiv.org/abs/2609.14858",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.14858\">https://arxiv.org/abs/2609.14858</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726955\">https://news.ycombinator.com/item?id=49726955</a></p>\n<p>Points: 89</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.14858\">https://arxiv.org/abs/2609.14858</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726955\">https://news.ycombinator.com/item?id=49726955</a></p>\n<p>Points: 159</p>\n<p># Comments: 48</p>",
         "pubDate": "Wed, 16 Sep 2026 13:44:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49726955"
       },
       {
-        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+        "title": "Hackers Got Inside a Flock Camera",
         "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726586\">https://news.ycombinator.com/item?id=49726586</a></p>\n<p>Points: 237</p>\n<p># Comments: 106</p>",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726586\">https://news.ycombinator.com/item?id=49726586</a></p>\n<p>Points: 391</p>\n<p># Comments: 192</p>",
         "pubDate": "Wed, 16 Sep 2026 13:18:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49726586"
       },
       {
-        "title": "Scaling Golang CI by Replacing actions/setup-go",
-        "link": "https://www.cloudx.ai/posts/setup-go",
-        "description": "<p>Article URL: <a href=\"https://www.cloudx.ai/posts/setup-go\">https://www.cloudx.ai/posts/setup-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726350\">https://news.ycombinator.com/item?id=49726350</a></p>\n<p>Points: 42</p>\n<p># Comments: 5</p>",
-        "pubDate": "Wed, 16 Sep 2026 13:02:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49726350"
-      },
-      {
         "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
         "link": "https://stale.jock.pl/",
-        "description": "<p>Article URL: <a href=\"https://stale.jock.pl/\">https://stale.jock.pl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726343\">https://news.ycombinator.com/item?id=49726343</a></p>\n<p>Points: 29</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://stale.jock.pl/\">https://stale.jock.pl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726343\">https://news.ycombinator.com/item?id=49726343</a></p>\n<p>Points: 65</p>\n<p># Comments: 42</p>",
         "pubDate": "Wed, 16 Sep 2026 13:01:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49726343"
-      },
-      {
-        "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-        "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-        "description": "<p>Article URL: <a href=\"https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model\">https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725800\">https://news.ycombinator.com/item?id=49725800</a></p>\n<p>Points: 95</p>\n<p># Comments: 24</p>",
-        "pubDate": "Wed, 16 Sep 2026 12:19:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49725800"
       },
       {
         "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -95,72 +144,23 @@
         "guid": "https://news.ycombinator.com/item?id=49725541"
       },
       {
-        "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-        "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip\">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725356\">https://news.ycombinator.com/item?id=49725356</a></p>\n<p>Points: 166</p>\n<p># Comments: 44</p>",
-        "pubDate": "Wed, 16 Sep 2026 11:49:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49725356"
-      },
-      {
         "title": "The Google Play app review process now regularly takes longer than a week",
         "link": "https://gultsch.social/@daniel/117280438824908947",
-        "description": "<p>Article URL: <a href=\"https://gultsch.social/@daniel/117280438824908947\">https://gultsch.social/@daniel/117280438824908947</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724927\">https://news.ycombinator.com/item?id=49724927</a></p>\n<p>Points: 261</p>\n<p># Comments: 231</p>",
+        "description": "<p>Article URL: <a href=\"https://gultsch.social/@daniel/117280438824908947\">https://gultsch.social/@daniel/117280438824908947</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724927\">https://news.ycombinator.com/item?id=49724927</a></p>\n<p>Points: 324</p>\n<p># Comments: 313</p>",
         "pubDate": "Wed, 16 Sep 2026 11:19:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49724927"
       },
       {
         "title": "Salesforce Global Outage",
         "link": "https://status.salesforce.com/products/all",
-        "description": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 215</p>\n<p># Comments: 122</p>",
+        "description": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 254</p>\n<p># Comments: 162</p>",
         "pubDate": "Wed, 16 Sep 2026 10:37:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49724488"
-      },
-      {
-        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-        "link": "https://mistral.ai/news/mistral-x-mozilla/",
-        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-x-mozilla/\">https://mistral.ai/news/mistral-x-mozilla/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723408\">https://news.ycombinator.com/item?id=49723408</a></p>\n<p>Points: 348</p>\n<p># Comments: 114</p>",
-        "pubDate": "Wed, 16 Sep 2026 08:08:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49723408"
-      },
-      {
-        "title": "A software thing I built: GPS on a 25MHz 486-SX",
-        "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-        "description": "<p>Article URL: <a href=\"https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722521\">https://news.ycombinator.com/item?id=49722521</a></p>\n<p>Points: 61</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 16 Sep 2026 05:43:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49722521"
-      },
-      {
-        "title": "Apple Reference Image: A New Approach for Verified Photography",
-        "link": "https://security.apple.com/blog/apple-reference-image/",
-        "description": "<p>Article URL: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721322\">https://news.ycombinator.com/item?id=49721322</a></p>\n<p>Points: 415</p>\n<p># Comments: 266</p>",
-        "pubDate": "Wed, 16 Sep 2026 02:07:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49721322"
-      },
-      {
-        "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-        "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-        "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 265</p>\n<p># Comments: 98</p>",
-        "pubDate": "Tue, 15 Sep 2026 21:07:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49718928"
-      },
-      {
-        "title": "Introducing System One Models and Jev",
-        "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 1682</p>\n<p># Comments: 459</p>",
-        "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49717558"
-      },
-      {
-        "title": "An update on Wayback Machine access",
-        "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 642</p>\n<p># Comments: 340</p>",
-        "pubDate": "Tue, 15 Sep 2026 17:52:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49716176"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-16T16:41:58.550Z",
+  "lastUpdated": "2026-09-16T21:12:41.748Z",
   "stats": {
     "feeds": 2,
     "articles": 20
