@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-17T04:41:04.372Z"
+      "lastFetched": "2026-09-17T11:29:19.481Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-17T04:41:04.682Z"
+      "lastFetched": "2026-09-17T11:29:39.141Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
-        "link": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
-        "description": "<p>Article URL: <a href=\"https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/\">https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49736220\">https://news.ycombinator.com/item?id=49736220</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
-        "pubDate": "Thu, 17 Sep 2026 03:57:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49736220"
+        "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+        "link": "https://news.ycombinator.com/item?id=49738879",
+        "description": "<p>I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.<p>Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)<p>From the activity history, neovim last sent bitcoin out of the address in 2019 so it's been max 7 years since they've definitely had access.<p>Does anyone from the neovim project know about this? \nSeems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily.<p>https://www.blockchain.com/explorer/addresses/btc/1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49738879\">https://news.ycombinator.com/item?id=49738879</a></p>\n<p>Points: 25</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 17 Sep 2026 10:44:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49738879"
+      },
+      {
+        "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+        "link": "https://manticoresearch.com/blog/auto-chunking/",
+        "description": "<p>Article URL: <a href=\"https://manticoresearch.com/blog/auto-chunking/\">https://manticoresearch.com/blog/auto-chunking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49738766\">https://news.ycombinator.com/item?id=49738766</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 17 Sep 2026 10:30:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49738766"
+      },
+      {
+        "title": "GLM Built Its Own Inference Infrastructure",
+        "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+        "description": "<p>Article URL: <a href=\"https://z.ai/blog/glm-built-its-inference-infrastructure\">https://z.ai/blog/glm-built-its-inference-infrastructure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737922\">https://news.ycombinator.com/item?id=49737922</a></p>\n<p>Points: 91</p>\n<p># Comments: 55</p>",
+        "pubDate": "Thu, 17 Sep 2026 08:27:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49737922"
+      },
+      {
+        "title": "One Year of Sponsored Servo Development",
+        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+        "description": "<p>Article URL: <a href=\"https://servo.org/blog/2026/09/15/one-year-of-sponsorship/\">https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737849\">https://news.ycombinator.com/item?id=49737849</a></p>\n<p>Points: 112</p>\n<p># Comments: 46</p>",
+        "pubDate": "Thu, 17 Sep 2026 08:13:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49737849"
+      },
+      {
+        "title": "OpenAI Model Misalignment Report",
+        "link": "https://openai.com/index/model-misalignment-reporting-framework/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/model-misalignment-reporting-framework/\">https://openai.com/index/model-misalignment-reporting-framework/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737503\">https://news.ycombinator.com/item?id=49737503</a></p>\n<p>Points: 51</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 17 Sep 2026 07:21:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49737503"
+      },
+      {
+        "title": "Cloudflare/Security-Audit-Skill",
+        "link": "https://github.com/cloudflare/security-audit-skill",
+        "description": "<p>Article URL: <a href=\"https://github.com/cloudflare/security-audit-skill\">https://github.com/cloudflare/security-audit-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49736466\">https://news.ycombinator.com/item?id=49736466</a></p>\n<p>Points: 80</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 17 Sep 2026 04:36:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49736466"
       },
       {
         "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
         "link": "https://ryan.science/blog/keys-not-included",
-        "description": "<p>Article URL: <a href=\"https://ryan.science/blog/keys-not-included\">https://ryan.science/blog/keys-not-included</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735930\">https://news.ycombinator.com/item?id=49735930</a></p>\n<p>Points: 49</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://ryan.science/blog/keys-not-included\">https://ryan.science/blog/keys-not-included</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735930\">https://news.ycombinator.com/item?id=49735930</a></p>\n<p>Points: 191</p>\n<p># Comments: 70</p>",
         "pubDate": "Thu, 17 Sep 2026 03:03:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49735930"
       },
       {
-        "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-        "link": "https://www.vanityfair.com/news/2008/05/monsanto200805",
-        "description": "<p>Article URL: <a href=\"https://www.vanityfair.com/news/2008/05/monsanto200805\">https://www.vanityfair.com/news/2008/05/monsanto200805</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735692\">https://news.ycombinator.com/item?id=49735692</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 17 Sep 2026 02:19:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49735692"
-      },
-      {
-        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-        "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-        "description": "<p>Article URL: <a href=\"https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html\">https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735410\">https://news.ycombinator.com/item?id=49735410</a></p>\n<p>Points: 63</p>\n<p># Comments: 6</p>",
-        "pubDate": "Thu, 17 Sep 2026 01:39:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49735410"
-      },
-      {
-        "title": "Part-human part-mouse brain developed in science breakthrough",
-        "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c60m3k28j81mo\">https://www.bbc.com/news/articles/c60m3k28j81mo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735367\">https://news.ycombinator.com/item?id=49735367</a></p>\n<p>Points: 11</p>\n<p># Comments: 8</p>",
-        "pubDate": "Thu, 17 Sep 2026 01:33:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49735367"
-      },
-      {
-        "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-        "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-        "description": "<p>Article URL: <a href=\"https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/\">https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734929\">https://news.ycombinator.com/item?id=49734929</a></p>\n<p>Points: 38</p>\n<p># Comments: 17</p>",
-        "pubDate": "Thu, 17 Sep 2026 00:28:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49734929"
-      },
-      {
         "title": "OpenSpec – A lightweight and configurable AI spec framework",
         "link": "https://openspec.dev/",
-        "description": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 97</p>\n<p># Comments: 38</p>",
+        "description": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 145</p>\n<p># Comments: 65</p>",
         "pubDate": "Wed, 16 Sep 2026 23:06:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=49734264"
       },
       {
         "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
         "link": "https://harnesstax.github.io/",
-        "description": "<p>Article URL: <a href=\"https://harnesstax.github.io/\">https://harnesstax.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49733726\">https://news.ycombinator.com/item?id=49733726</a></p>\n<p>Points: 69</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://harnesstax.github.io/\">https://harnesstax.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49733726\">https://news.ycombinator.com/item?id=49733726</a></p>\n<p>Points: 139</p>\n<p># Comments: 55</p>",
         "pubDate": "Wed, 16 Sep 2026 22:10:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49733726"
       },
       {
         "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
         "link": "https://arxiv.org/abs/2609.16338",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.16338\">https://arxiv.org/abs/2609.16338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732931\">https://news.ycombinator.com/item?id=49732931</a></p>\n<p>Points: 163</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.16338\">https://arxiv.org/abs/2609.16338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732931\">https://news.ycombinator.com/item?id=49732931</a></p>\n<p>Points: 212</p>\n<p># Comments: 34</p>",
         "pubDate": "Wed, 16 Sep 2026 20:59:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=49732931"
       },
       {
         "title": "Backups Aren't Simple",
         "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-        "description": "<p>Article URL: <a href=\"https://filipovski.net/2026/09/16/backups-arent-simple.html\">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732513\">https://news.ycombinator.com/item?id=49732513</a></p>\n<p>Points: 133</p>\n<p># Comments: 71</p>",
+        "description": "<p>Article URL: <a href=\"https://filipovski.net/2026/09/16/backups-arent-simple.html\">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732513\">https://news.ycombinator.com/item?id=49732513</a></p>\n<p>Points: 255</p>\n<p># Comments: 155</p>",
         "pubDate": "Wed, 16 Sep 2026 20:27:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49732513"
       },
       {
         "title": "Xiaomi Mimo 2.6 live post-training dashboard",
         "link": "https://mimo.xiaomi.com/rl/",
-        "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 321</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 449</p>\n<p># Comments: 122</p>",
         "pubDate": "Wed, 16 Sep 2026 20:09:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49732270"
       },
       {
         "title": "Training a 4B model to produce 81% faster query plans than Postgres",
         "link": "https://rohanbansal.com/qorl",
-        "description": "<p>Article URL: <a href=\"https://rohanbansal.com/qorl\">https://rohanbansal.com/qorl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731285\">https://news.ycombinator.com/item?id=49731285</a></p>\n<p>Points: 450</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://rohanbansal.com/qorl\">https://rohanbansal.com/qorl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731285\">https://news.ycombinator.com/item?id=49731285</a></p>\n<p>Points: 566</p>\n<p># Comments: 120</p>",
         "pubDate": "Wed, 16 Sep 2026 18:50:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=49731285"
       },
       {
-        "title": "Reverse-engineered Jev-like model",
-        "link": "https://github.com/vinnylarouge/jevlike",
-        "description": "<p>Article URL: <a href=\"https://github.com/vinnylarouge/jevlike\">https://github.com/vinnylarouge/jevlike</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731282\">https://news.ycombinator.com/item?id=49731282</a></p>\n<p>Points: 94</p>\n<p># Comments: 14</p>",
-        "pubDate": "Wed, 16 Sep 2026 18:49:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49731282"
-      },
-      {
         "title": "Small programming tricks",
         "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-        "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 439</p>\n<p># Comments: 198</p>",
+        "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 534</p>\n<p># Comments: 241</p>",
         "pubDate": "Wed, 16 Sep 2026 15:56:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49729000"
       },
       {
-        "title": "The DeepMind Institute",
-        "link": "https://institute.deepmind.com/",
-        "description": "<p>Article URL: <a href=\"https://institute.deepmind.com/\">https://institute.deepmind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727659\">https://news.ycombinator.com/item?id=49727659</a></p>\n<p>Points: 156</p>\n<p># Comments: 53</p>",
-        "pubDate": "Wed, 16 Sep 2026 14:32:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49727659"
-      },
-      {
-        "title": "Anatomy of a Texture",
-        "link": "https://agentlien.github.io/texture/",
-        "description": "<p>I just uploaded a new article describing how a modern video game texture is stored in graphics memory, why it's done this way, and how it may differ between platforms.<p>It is called Anatomy of a Texture.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49727592\">https://news.ycombinator.com/item?id=49727592</a></p>\n<p>Points: 83</p>\n<p># Comments: 14</p>",
-        "pubDate": "Wed, 16 Sep 2026 14:28:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49727592"
-      },
-      {
-        "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-        "link": "https://arxiv.org/abs/2609.14858",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.14858\">https://arxiv.org/abs/2609.14858</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726955\">https://news.ycombinator.com/item?id=49726955</a></p>\n<p>Points: 187</p>\n<p># Comments: 49</p>",
-        "pubDate": "Wed, 16 Sep 2026 13:44:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49726955"
-      },
-      {
         "title": "Nvidia announces native GPU programming in Rust",
         "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "description": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724881\">https://news.ycombinator.com/item?id=49724881</a></p>\n<p>Points: 432</p>\n<p># Comments: 157</p>",
+        "description": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724881\">https://news.ycombinator.com/item?id=49724881</a></p>\n<p>Points: 732</p>\n<p># Comments: 299</p>",
         "pubDate": "Wed, 16 Sep 2026 11:15:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49724881"
       },
       {
-        "title": "A 32-Year-Old Bug Walks into a Telnet Server",
+        "title": "A 32-year-old bug walks into a Telnet server",
         "link": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-        "description": "<p>Article URL: <a href=\"https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/\">https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721291\">https://news.ycombinator.com/item?id=49721291</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/\">https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721291\">https://news.ycombinator.com/item?id=49721291</a></p>\n<p>Points: 67</p>\n<p># Comments: 27</p>",
         "pubDate": "Wed, 16 Sep 2026 02:01:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49721291"
       },
       {
+        "title": "Lucasart's Afterlife",
+        "link": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+        "description": "<p>Article URL: <a href=\"https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/\">https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719751\">https://news.ycombinator.com/item?id=49719751</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
+        "pubDate": "Tue, 15 Sep 2026 22:30:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49719751"
+      },
+      {
         "title": "The engineering behind the US Strategic Petroleum Reserve",
         "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-        "description": "<p>Article URL: <a href=\"https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve\">https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719596\">https://news.ycombinator.com/item?id=49719596</a></p>\n<p>Points: 150</p>\n<p># Comments: 57</p>",
+        "description": "<p>Article URL: <a href=\"https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve\">https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719596\">https://news.ycombinator.com/item?id=49719596</a></p>\n<p>Points: 214</p>\n<p># Comments: 84</p>",
         "pubDate": "Tue, 15 Sep 2026 22:15:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49719596"
+      },
+      {
+        "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+        "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+        "description": "<p><a href=\"https://archive.is/Ay7RJ\" rel=\"nofollow\">https://archive.is/Ay7RJ</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719249\">https://news.ycombinator.com/item?id=49719249</a></p>\n<p>Points: 423</p>\n<p># Comments: 351</p>",
+        "pubDate": "Tue, 15 Sep 2026 21:41:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49719249"
+      },
+      {
+        "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+        "link": "https://jakeasmith.com/blog/http-build-url/",
+        "description": "<p>Article URL: <a href=\"https://jakeasmith.com/blog/http-build-url/\">https://jakeasmith.com/blog/http-build-url/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718773\">https://news.ycombinator.com/item?id=49718773</a></p>\n<p>Points: 139</p>\n<p># Comments: 31</p>",
+        "pubDate": "Tue, 15 Sep 2026 20:53:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49718773"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-17T04:41:04.682Z",
+  "lastUpdated": "2026-09-17T11:29:39.142Z",
   "stats": {
     "feeds": 2,
     "articles": 20
