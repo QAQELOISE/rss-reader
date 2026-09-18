@@ -5,59 +5,122 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-17T21:14:20.203Z"
+      "lastFetched": "2026-09-18T04:26:30.620Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-17T21:14:20.344Z"
+      "lastFetched": "2026-09-18T04:26:36.688Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Bend",
+        "title": "Waymo in Singapore",
+        "link": "https://waymo.com/waymo-in-singapore/",
+        "description": "<p>Article URL: <a href=\"https://waymo.com/waymo-in-singapore/\">https://waymo.com/waymo-in-singapore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749981\">https://news.ycombinator.com/item?id=49749981</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 18 Sep 2026 03:49:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49749981"
+      },
+      {
+        "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+        "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+        "description": "<p>Article URL: <a href=\"https://linguisticdiscovery.com/posts/pre-greek/\">https://linguisticdiscovery.com/posts/pre-greek/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749771\">https://news.ycombinator.com/item?id=49749771</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 18 Sep 2026 03:04:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49749771"
+      },
+      {
+        "title": "Code Scans",
+        "link": "https://devin.ai/blog/introducing-code-scans",
+        "description": "<p>Article URL: <a href=\"https://devin.ai/blog/introducing-code-scans\">https://devin.ai/blog/introducing-code-scans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749744\">https://news.ycombinator.com/item?id=49749744</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 18 Sep 2026 03:00:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49749744"
+      },
+      {
+        "title": "Hacking OpenAI",
+        "link": "https://www.hacktron.ai/blog/hacking-openai",
+        "description": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/hacking-openai\">https://www.hacktron.ai/blog/hacking-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749656\">https://news.ycombinator.com/item?id=49749656</a></p>\n<p>Points: 78</p>\n<p># Comments: 23</p>",
+        "pubDate": "Fri, 18 Sep 2026 02:47:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49749656"
+      },
+      {
+        "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+        "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+        "description": "<p>Article URL: <a href=\"https://byteshape.com/blogs/Qwen3.8-27B/\">https://byteshape.com/blogs/Qwen3.8-27B/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749393\">https://news.ycombinator.com/item?id=49749393</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 18 Sep 2026 02:04:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49749393"
+      },
+      {
+        "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+        "link": "https://askamonk.online",
+        "description": "<p>Article URL: <a href=\"https://askamonk.online\">https://askamonk.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749171\">https://news.ycombinator.com/item?id=49749171</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 18 Sep 2026 01:34:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49749171"
+      },
+      {
+        "title": "Telstra outage: The night a network decided the year was 2006",
+        "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+        "description": "<p>Article URL: <a href=\"https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006\">https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49748957\">https://news.ycombinator.com/item?id=49748957</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 18 Sep 2026 01:05:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49748957"
+      },
+      {
+        "title": "Alibaba releases Qwen 3.8 Omni Flash",
+        "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8-omni-flash\">https://qwen.ai/blog?id=qwen3.8-omni-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747925\">https://news.ycombinator.com/item?id=49747925</a></p>\n<p>Points: 97</p>\n<p># Comments: 22</p>",
+        "pubDate": "Thu, 17 Sep 2026 23:05:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49747925"
+      },
+      {
+        "title": "How Uber Protects Against Retry Storms",
+        "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+        "description": "<p>Article URL: <a href=\"https://www.uber.com/us/en/blog/protecting-against-retry-storms/\">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746628\">https://news.ycombinator.com/item?id=49746628</a></p>\n<p>Points: 68</p>\n<p># Comments: 29</p>",
+        "pubDate": "Thu, 17 Sep 2026 21:14:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49746628"
+      },
+      {
+        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "link": "https://prismml.com/news/bonsai-2-27b",
+        "description": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-27b\">https://prismml.com/news/bonsai-2-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746618\">https://news.ycombinator.com/item?id=49746618</a></p>\n<p>Points: 306</p>\n<p># Comments: 99</p>",
+        "pubDate": "Thu, 17 Sep 2026 21:13:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49746618"
+      },
+      {
+        "title": "The most important product decision is what you don't build",
+        "link": "https://liamnugent.me/posts/what-you-dont-build/",
+        "description": "<p>Article URL: <a href=\"https://liamnugent.me/posts/what-you-dont-build/\">https://liamnugent.me/posts/what-you-dont-build/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746407\">https://news.ycombinator.com/item?id=49746407</a></p>\n<p>Points: 71</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 17 Sep 2026 20:52:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49746407"
+      },
+      {
+        "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+        "link": "https://snapdrop.me",
+        "description": "<p>Article URL: <a href=\"https://snapdrop.me\">https://snapdrop.me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746346\">https://news.ycombinator.com/item?id=49746346</a></p>\n<p>Points: 44</p>\n<p># Comments: 26</p>",
+        "pubDate": "Thu, 17 Sep 2026 20:48:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49746346"
+      },
+      {
+        "title": "Flet 1.0 – Build cross-platform apps in Python",
+        "link": "https://flet.dev/",
+        "description": "<p>Article URL: <a href=\"https://flet.dev/\">https://flet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746290\">https://news.ycombinator.com/item?id=49746290</a></p>\n<p>Points: 76</p>\n<p># Comments: 38</p>",
+        "pubDate": "Thu, 17 Sep 2026 20:44:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49746290"
+      },
+      {
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
         "link": "https://bend-lang.com/",
-        "description": "<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 29</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 358</p>\n<p># Comments: 181</p>",
         "pubDate": "Thu, 17 Sep 2026 20:36:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49746163"
       },
       {
         "title": "Astra for Law",
         "link": "https://openai.com/index/astra-for-law/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 84</p>\n<p># Comments: 61</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 391</p>\n<p># Comments: 417</p>",
         "pubDate": "Thu, 17 Sep 2026 20:17:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49745940"
-      },
-      {
-        "title": "Everybody's Lost Their Minds",
-        "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-        "description": "<p>Article URL: <a href=\"https://www.netmeister.org/blog/everybodys-lost-their-minds.html\">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745570\">https://news.ycombinator.com/item?id=49745570</a></p>\n<p>Points: 91</p>\n<p># Comments: 26</p>",
-        "pubDate": "Thu, 17 Sep 2026 19:43:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49745570"
-      },
-      {
-        "title": "Canto: A speech model built for the real world",
-        "link": "https://wisprflow.ai/canto",
-        "description": "<p>Article URL: <a href=\"https://wisprflow.ai/canto\">https://wisprflow.ai/canto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49744715\">https://news.ycombinator.com/item?id=49744715</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
-        "pubDate": "Thu, 17 Sep 2026 18:32:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49744715"
-      },
-      {
-        "title": "Don't Make Job Referrals Public",
-        "link": "https://blog.melashri.net/micro/public-job-referral/",
-        "description": "<p>Article URL: <a href=\"https://blog.melashri.net/micro/public-job-referral/\">https://blog.melashri.net/micro/public-job-referral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49744530\">https://news.ycombinator.com/item?id=49744530</a></p>\n<p>Points: 17</p>\n<p># Comments: 12</p>",
-        "pubDate": "Thu, 17 Sep 2026 18:16:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49744530"
-      },
-      {
-        "title": "T. Rex Had a Body Temperature of 97 Degrees",
-        "link": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
-        "description": "<p>gift link:\n<a href=\"https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html?unlocked_article_code=1.B1E.-_cw.27sz2ArILpnl&smid=url-share\" rel=\"nofollow\">https://www.nytimes.com/2026/09/16/science/trex-dinosaur-tem...</a><p>paper:\n<a href=\"https://www.science.org/doi/10.1126/sciadv.aeb7653\" rel=\"nofollow\">https://www.science.org/doi/10.1126/sciadv.aeb7653</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743691\">https://news.ycombinator.com/item?id=49743691</a></p>\n<p>Points: 37</p>\n<p># Comments: 50</p>",
-        "pubDate": "Thu, 17 Sep 2026 17:13:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49743691"
       },
       {
         "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
@@ -67,100 +130,37 @@
         "guid": "https://news.ycombinator.com/item?id=49743567"
       },
       {
-        "title": "Towards Self-Driving Codebases",
-        "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-        "description": "<p>Article URL: <a href=\"https://blog.detail.dev/posts/towards-self-driving-codebases/\">https://blog.detail.dev/posts/towards-self-driving-codebases/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743527\">https://news.ycombinator.com/item?id=49743527</a></p>\n<p>Points: 68</p>\n<p># Comments: 62</p>",
-        "pubDate": "Thu, 17 Sep 2026 16:58:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49743527"
-      },
-      {
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "link": "https://arxiv.org/abs/2609.18842",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.18842\">https://arxiv.org/abs/2609.18842</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743483\">https://news.ycombinator.com/item?id=49743483</a></p>\n<p>Points: 70</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.18842\">https://arxiv.org/abs/2609.18842</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743483\">https://news.ycombinator.com/item?id=49743483</a></p>\n<p>Points: 123</p>\n<p># Comments: 38</p>",
         "pubDate": "Thu, 17 Sep 2026 16:55:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=49743483"
       },
       {
         "title": "Hister: A private search engine for the pages you visit and the files you keep",
         "link": "https://github.com/asciimoo/hister",
-        "description": "<p>Article URL: <a href=\"https://github.com/asciimoo/hister\">https://github.com/asciimoo/hister</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743097\">https://news.ycombinator.com/item?id=49743097</a></p>\n<p>Points: 318</p>\n<p># Comments: 109</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/asciimoo/hister\">https://github.com/asciimoo/hister</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743097\">https://news.ycombinator.com/item?id=49743097</a></p>\n<p>Points: 514</p>\n<p># Comments: 139</p>",
         "pubDate": "Thu, 17 Sep 2026 16:25:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49743097"
       },
       {
-        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-        "link": "https://news.ycombinator.com/item?id=49743049",
-        "description": "<p>Hey HN, we're Nars & Nishant, founders of Skillsync (<a href=\"https://skillsync.com\">https://skillsync.com</a>)<p>Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. This is annoying because you cannot simply switch between agents without starting over. We get locked into a single provider and their agent as we invest in skills and memories over time. Skillsync acts as a universal converter. It moves the entire session, including all the messages, reasoning and tool calls so you can pick up right where you left off.<p>Skillsync collects all your sessions in one place and makes them searchable. It breaks down what each session is carrying, including which loaded skills the agent is actually using, making stale context easy to spot. You can also create shared workspaces to sync sessions across your team. You can build your own closed loop systems. Everything runs locally except when you share to workspaces.<p>The core is an open-source Rust engine called txcript (<a href=\"https://github.com/skillsynchq/txcript\" rel=\"nofollow\">https://github.com/skillsynchq/txcript</a>). It translates a session from one agent's on-disk format into another's, mapping conversation, reasoning, and tool history. Think ffmpeg or pandoc, but for agent sessions.<p>On top of that engine is a local-first desktop app. Your agent sessions are normally scattered across different tools' folders in formats you'd never read by hand; the app surfaces them in one place with a UI that makes them actually readable, the conversation, the reasoning, and the tool calls, so you can revisit what happened, move a session into another agent, or share it with a teammate.<p>Skills and memory are stored as portable, human-readable markdown you own, and exposed to any agent over MCP for search and selective retrieval.<p>Sessions and translation run locally on your machine. The one thing that leaves is what you explicitly share into a team workspace.<p>It’s been surprising to us to see how locked-in people already are without realizing it. You don't notice you're trapped in one agent or harness until you try to leave, and by then you've got months of sessions stuck in a format only that tool can read. The lock-in is invisible right up until it's expensive.<p>Once sessions are portable, they stop being disposable logs and become something you can actually build on, spotting patterns in how you work, handing a session off to someone else, letting a non-technical teammate pick up where an engineer left off. The session turns out to be the unit of collaboration, and right now it's being thrown away.<p>Before Skillsync, Nars and I built an open-source payment orchestrator that let merchants route across many processors instead of getting locked into one (30k+ GitHub stars). Fighting vendor lock-in by making incompatible systems interoperate was the whole job. We came into YC with a different idea, but the more we lived inside coding agents the more we saw the same problem from the other side: your context is locked into whatever agent you start with, because every agent stores sessions differently and none of it moves.<p>Some of the things we’re seeing people do with Skillsync are:<p>- Moving a session between Claude Code, Codex, and Cursor mid-task, including when you hit a usage limit on one and want to keep going on another.<p>- Thinking through a problem in a browser Claude chat, then handing the whole thread to Claude Code or Codex to build.<p>- Sharing research sessions with a team. Everyone uploads their sessions, so teammates and their agents can build on each other's work instead of repeating it.<p>It's available as a Mac app, CLI and MCP. Here's the demo: <a href=\"https://youtu.be/7hVhSnSKGl8\" rel=\"nofollow\">https://youtu.be/7hVhSnSKGl8</a>. Would love to hear your feedback and answer questions!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743049\">https://news.ycombinator.com/item?id=49743049</a></p>\n<p>Points: 30</p>\n<p># Comments: 40</p>",
-        "pubDate": "Thu, 17 Sep 2026 16:22:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49743049"
-      },
-      {
-        "title": "Vinix – A modern operating system written in V",
-        "link": "https://vinix-os.org/",
-        "description": "<p>Article URL: <a href=\"https://vinix-os.org/\">https://vinix-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49742439\">https://news.ycombinator.com/item?id=49742439</a></p>\n<p>Points: 80</p>\n<p># Comments: 52</p>",
-        "pubDate": "Thu, 17 Sep 2026 15:40:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49742439"
-      },
-      {
-        "title": "LLM Classification Is Feature Engineering",
-        "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-        "description": "<p>Article URL: <a href=\"https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/\">https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49742437\">https://news.ycombinator.com/item?id=49742437</a></p>\n<p>Points: 81</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 17 Sep 2026 15:40:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49742437"
-      },
-      {
         "title": "CrowdSec Source Code Leak",
         "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-        "description": "<p>Article URL: <a href=\"https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure\">https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49742355\">https://news.ycombinator.com/item?id=49742355</a></p>\n<p>Points: 103</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure\">https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49742355\">https://news.ycombinator.com/item?id=49742355</a></p>\n<p>Points: 138</p>\n<p># Comments: 42</p>",
         "pubDate": "Thu, 17 Sep 2026 15:34:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49742355"
       },
       {
         "title": "Rate limits on GitLab.com are changing",
         "link": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-        "description": "<p>Article URL: <a href=\"https://about.gitlab.com/blog/rate-limit-change-2026/\">https://about.gitlab.com/blog/rate-limit-change-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49742353\">https://news.ycombinator.com/item?id=49742353</a></p>\n<p>Points: 121</p>\n<p># Comments: 96</p>",
+        "description": "<p>Article URL: <a href=\"https://about.gitlab.com/blog/rate-limit-change-2026/\">https://about.gitlab.com/blog/rate-limit-change-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49742353\">https://news.ycombinator.com/item?id=49742353</a></p>\n<p>Points: 161</p>\n<p># Comments: 109</p>",
         "pubDate": "Thu, 17 Sep 2026 15:33:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49742353"
-      },
-      {
-        "title": "The American Religion of Self-Storage Facilities",
-        "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-        "description": "<p><a href=\"https://archive.ph/F77tj\" rel=\"nofollow\">https://archive.ph/F77tj</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740260\">https://news.ycombinator.com/item?id=49740260</a></p>\n<p>Points: 144</p>\n<p># Comments: 241</p>",
-        "pubDate": "Thu, 17 Sep 2026 13:12:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49740260"
-      },
-      {
-        "title": "Show HN: Share your AI Setup, Learn from others",
-        "link": "https://mysetup.ai/",
-        "description": "<p>I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks?   So I built this with the hope we could have a dedicated space to share and be open about our setups.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740105\">https://news.ycombinator.com/item?id=49740105</a></p>\n<p>Points: 149</p>\n<p># Comments: 77</p>",
-        "pubDate": "Thu, 17 Sep 2026 13:01:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49740105"
-      },
-      {
-        "title": "Why I didn’t sign the Fields medallists’ letter",
-        "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-        "description": "<p>Article URL: <a href=\"https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/\">https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49738091\">https://news.ycombinator.com/item?id=49738091</a></p>\n<p>Points: 168</p>\n<p># Comments: 216</p>",
-        "pubDate": "Thu, 17 Sep 2026 08:51:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49738091"
-      },
-      {
-        "title": "How GLM built its own inference infrastructure",
-        "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-        "description": "<p>Article URL: <a href=\"https://z.ai/blog/glm-built-its-inference-infrastructure\">https://z.ai/blog/glm-built-its-inference-infrastructure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737922\">https://news.ycombinator.com/item?id=49737922</a></p>\n<p>Points: 331</p>\n<p># Comments: 246</p>",
-        "pubDate": "Thu, 17 Sep 2026 08:27:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49737922"
-      },
-      {
-        "title": "One year of sponsored Servo development",
-        "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "description": "<p>Article URL: <a href=\"https://servo.org/blog/2026/09/15/one-year-of-sponsorship/\">https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737849\">https://news.ycombinator.com/item?id=49737849</a></p>\n<p>Points: 330</p>\n<p># Comments: 133</p>",
-        "pubDate": "Thu, 17 Sep 2026 08:13:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49737849"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-17T21:14:20.344Z",
+  "lastUpdated": "2026-09-18T04:26:36.688Z",
   "stats": {
     "feeds": 2,
     "articles": 20
