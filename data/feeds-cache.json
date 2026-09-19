@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-19T04:23:57.211Z"
+      "lastFetched": "2026-09-19T10:45:58.107Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-19T04:24:05.753Z"
+      "lastFetched": "2026-09-19T10:45:58.297Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Roman Timekeeping",
+        "link": "https://en.wikipedia.org/wiki/Roman_timekeeping",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Roman_timekeeping\">https://en.wikipedia.org/wiki/Roman_timekeeping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765056\">https://news.ycombinator.com/item?id=49765056</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 19 Sep 2026 10:04:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49765056"
+      },
+      {
+        "title": "AI-generated posters don’t have to be horrible",
+        "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 89</p>\n<p># Comments: 47</p>",
+        "pubDate": "Sat, 19 Sep 2026 09:20:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49764791"
+      },
+      {
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "description": "<p>Article URL: <a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763987\">https://news.ycombinator.com/item?id=49763987</a></p>\n<p>Points: 123</p>\n<p># Comments: 61</p>",
+        "pubDate": "Sat, 19 Sep 2026 06:41:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49763987"
+      },
+      {
+        "title": "If math is more than proof, we need to better celebrate the rest of it",
+        "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763928\">https://news.ycombinator.com/item?id=49763928</a></p>\n<p>Points: 106</p>\n<p># Comments: 73</p>",
+        "pubDate": "Sat, 19 Sep 2026 06:28:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49763928"
+      },
+      {
+        "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+        "link": "https://browser.geekbench.com/v7/cpu/389219",
+        "description": "<p>Article URL: <a href=\"https://browser.geekbench.com/v7/cpu/389219\">https://browser.geekbench.com/v7/cpu/389219</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763883\">https://news.ycombinator.com/item?id=49763883</a></p>\n<p>Points: 62</p>\n<p># Comments: 41</p>",
+        "pubDate": "Sat, 19 Sep 2026 06:19:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49763883"
+      },
+      {
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "description": "<p>Article URL: <a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\">https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763697\">https://news.ycombinator.com/item?id=49763697</a></p>\n<p>Points: 245</p>\n<p># Comments: 104</p>",
+        "pubDate": "Sat, 19 Sep 2026 05:48:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49763697"
+      },
+      {
+        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+        "description": "<p>Article URL: <a href=\"https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\">https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763379\">https://news.ycombinator.com/item?id=49763379</a></p>\n<p>Points: 28</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 19 Sep 2026 04:44:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49763379"
+      },
+      {
+        "title": "San Francisco Onion Futures Company",
+        "link": "https://onionfutures.com/",
+        "description": "<p>Article URL: <a href=\"https://onionfutures.com/\">https://onionfutures.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763296\">https://news.ycombinator.com/item?id=49763296</a></p>\n<p>Points: 197</p>\n<p># Comments: 71</p>",
+        "pubDate": "Sat, 19 Sep 2026 04:23:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49763296"
+      },
+      {
         "title": "SDCC – Small Device C Compiler",
         "link": "https://sdcc.sourceforge.net/",
-        "description": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 86</p>\n<p># Comments: 18</p>",
         "pubDate": "Sat, 19 Sep 2026 02:32:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49762744"
       },
       {
         "title": "Science Is Open Software",
         "link": "https://jepedersen.dk/blog/202505_research/",
-        "description": "<p>Article URL: <a href=\"https://jepedersen.dk/blog/202505_research/\">https://jepedersen.dk/blog/202505_research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762687\">https://news.ycombinator.com/item?id=49762687</a></p>\n<p>Points: 30</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://jepedersen.dk/blog/202505_research/\">https://jepedersen.dk/blog/202505_research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762687\">https://news.ycombinator.com/item?id=49762687</a></p>\n<p>Points: 100</p>\n<p># Comments: 38</p>",
         "pubDate": "Sat, 19 Sep 2026 02:21:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49762687"
       },
       {
-        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-        "link": "https://liveworld.info/",
-        "description": "<p>Article URL: <a href=\"https://liveworld.info/\">https://liveworld.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762099\">https://news.ycombinator.com/item?id=49762099</a></p>\n<p>Points: 24</p>\n<p># Comments: 24</p>",
-        "pubDate": "Sat, 19 Sep 2026 00:30:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49762099"
-      },
-      {
-        "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-        "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-        "description": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\">https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761840\">https://news.ycombinator.com/item?id=49761840</a></p>\n<p>Points: 61</p>\n<p># Comments: 8</p>",
-        "pubDate": "Fri, 18 Sep 2026 23:54:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49761840"
-      },
-      {
         "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
         "link": "https://spectrum.ieee.org/llms-for-chip-design",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 72</p>\n<p># Comments: 64</p>",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 125</p>\n<p># Comments: 90</p>",
         "pubDate": "Fri, 18 Sep 2026 23:04:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49761432"
       },
       {
-        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-        "link": "https://code.claude.com/docs/en/changelog",
-        "description": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/changelog\">https://code.claude.com/docs/en/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49760187\">https://news.ycombinator.com/item?id=49760187</a></p>\n<p>Points: 562</p>\n<p># Comments: 203</p>",
-        "pubDate": "Fri, 18 Sep 2026 21:00:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49760187"
-      },
-      {
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117282080803799576\">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758736\">https://news.ycombinator.com/item?id=49758736</a></p>\n<p>Points: 646</p>\n<p># Comments: 317</p>",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117282080803799576\">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758736\">https://news.ycombinator.com/item?id=49758736</a></p>\n<p>Points: 851</p>\n<p># Comments: 424</p>",
         "pubDate": "Fri, 18 Sep 2026 19:03:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49758736"
       },
       {
-        "title": "The Implications of Linguistic Illegibility for LLM Security",
-        "link": "https://arxiv.org/abs/2609.02852",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.02852\">https://arxiv.org/abs/2609.02852</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758689\">https://news.ycombinator.com/item?id=49758689</a></p>\n<p>Points: 56</p>\n<p># Comments: 21</p>",
-        "pubDate": "Fri, 18 Sep 2026 19:00:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49758689"
-      },
-      {
         "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
         "link": "https://arxiv.org/abs/2510.03215",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.03215\">https://arxiv.org/abs/2510.03215</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758615\">https://news.ycombinator.com/item?id=49758615</a></p>\n<p>Points: 72</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.03215\">https://arxiv.org/abs/2510.03215</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758615\">https://news.ycombinator.com/item?id=49758615</a></p>\n<p>Points: 92</p>\n<p># Comments: 13</p>",
         "pubDate": "Fri, 18 Sep 2026 18:55:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=49758615"
       },
       {
         "title": "Saving another 100TB of RAM",
         "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 267</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 366</p>\n<p># Comments: 79</p>",
         "pubDate": "Fri, 18 Sep 2026 18:51:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49758580"
       },
       {
-        "title": "Xcode 27.1 Beta Release Notes",
-        "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes\">https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758419\">https://news.ycombinator.com/item?id=49758419</a></p>\n<p>Points: 122</p>\n<p># Comments: 75</p>",
-        "pubDate": "Fri, 18 Sep 2026 18:39:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49758419"
-      },
-      {
         "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
         "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-        "description": "<p>Article URL: <a href=\"https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/\">https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757050\">https://news.ycombinator.com/item?id=49757050</a></p>\n<p>Points: 166</p>\n<p># Comments: 61</p>",
+        "description": "<p>Article URL: <a href=\"https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/\">https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757050\">https://news.ycombinator.com/item?id=49757050</a></p>\n<p>Points: 194</p>\n<p># Comments: 71</p>",
         "pubDate": "Fri, 18 Sep 2026 16:54:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49757050"
       },
       {
-        "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-        "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-        "description": "<p><a href=\"https://archive.is/1CFX9\" rel=\"nofollow\">https://archive.is/1CFX9</a><p><a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\" rel=\"nofollow\">https://med.stanford.edu/news/all-news/2026/09/two-separate-...</a><p>Preprint of paper: <a href=\"https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1\" rel=\"nofollow\">https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755533\">https://news.ycombinator.com/item?id=49755533</a></p>\n<p>Points: 107</p>\n<p># Comments: 60</p>",
-        "pubDate": "Fri, 18 Sep 2026 15:12:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49755533"
-      },
-      {
         "title": "Cloudflare Quick Tunnels",
         "link": "https://try.cloudflare.com/",
-        "description": "<p>Article URL: <a href=\"https://try.cloudflare.com/\">https://try.cloudflare.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754785\">https://news.ycombinator.com/item?id=49754785</a></p>\n<p>Points: 628</p>\n<p># Comments: 262</p>",
+        "description": "<p>Article URL: <a href=\"https://try.cloudflare.com/\">https://try.cloudflare.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754785\">https://news.ycombinator.com/item?id=49754785</a></p>\n<p>Points: 711</p>\n<p># Comments: 285</p>",
         "pubDate": "Fri, 18 Sep 2026 14:18:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49754785"
       },
       {
         "title": "OpenJev",
         "link": "https://openjev.com/",
-        "description": "<p>Article URL: <a href=\"https://openjev.com/\">https://openjev.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752041\">https://news.ycombinator.com/item?id=49752041</a></p>\n<p>Points: 576</p>\n<p># Comments: 250</p>",
+        "description": "<p>Article URL: <a href=\"https://openjev.com/\">https://openjev.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752041\">https://news.ycombinator.com/item?id=49752041</a></p>\n<p>Points: 630</p>\n<p># Comments: 267</p>",
         "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49752041"
       },
       {
         "title": "Inside ZCode: Silently uploading your Git history to the cloud",
         "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-        "description": "<p>Article URL: <a href=\"https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/\">https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750694\">https://news.ycombinator.com/item?id=49750694</a></p>\n<p>Points: 269</p>\n<p># Comments: 94</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/\">https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750694\">https://news.ycombinator.com/item?id=49750694</a></p>\n<p>Points: 301</p>\n<p># Comments: 100</p>",
         "pubDate": "Fri, 18 Sep 2026 06:11:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49750694"
       },
       {
         "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
         "link": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-        "description": "<p>Article URL: <a href=\"https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157\">https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749724\">https://news.ycombinator.com/item?id=49749724</a></p>\n<p>Points: 120</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157\">https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749724\">https://news.ycombinator.com/item?id=49749724</a></p>\n<p>Points: 168</p>\n<p># Comments: 71</p>",
         "pubDate": "Fri, 18 Sep 2026 02:56:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49749724"
       },
       {
-        "title": "Minimal Phone 2",
-        "link": "https://minimalcompany.com/",
-        "description": "<p>Article URL: <a href=\"https://minimalcompany.com/\">https://minimalcompany.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749369\">https://news.ycombinator.com/item?id=49749369</a></p>\n<p>Points: 211</p>\n<p># Comments: 196</p>",
-        "pubDate": "Fri, 18 Sep 2026 02:00:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49749369"
-      },
-      {
         "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
         "link": "https://cactuscompute.com/needle",
-        "description": "<p>Hey HN, Henry from Cactus here.<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.<p>The key features:<p>1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).<p>2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k.<p>3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost.<p>4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc.<p>5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.<p>6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on \"narrow task\", we found that production users often prefer tuning before production.<p>7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.<p>8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model.<p>9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component.<p>Thanks for reading and as always, thoughts appreciated!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49748553\">https://news.ycombinator.com/item?id=49748553</a></p>\n<p>Points: 175</p>\n<p># Comments: 79</p>",
+        "description": "<p>Hey HN, Henry from Cactus here.<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.<p>The key features:<p>1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).<p>2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k.<p>3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost.<p>4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc.<p>5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.<p>6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on \"narrow task\", we found that production users often prefer tuning before production.<p>7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.<p>8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model.<p>9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component.<p>Thanks for reading and as always, thoughts appreciated!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49748553\">https://news.ycombinator.com/item?id=49748553</a></p>\n<p>Points: 198</p>\n<p># Comments: 89</p>",
         "pubDate": "Fri, 18 Sep 2026 00:11:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49748553"
-      },
-      {
-        "title": "How to Write with an LLM",
-        "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "description": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747070\">https://news.ycombinator.com/item?id=49747070</a></p>\n<p>Points: 426</p>\n<p># Comments: 291</p>",
-        "pubDate": "Thu, 17 Sep 2026 21:48:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49747070"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-19T04:24:05.753Z",
+  "lastUpdated": "2026-09-19T10:45:58.297Z",
   "stats": {
     "feeds": 2,
     "articles": 20
