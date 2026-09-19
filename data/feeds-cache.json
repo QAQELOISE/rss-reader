@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-19T15:47:47.915Z"
+      "lastFetched": "2026-09-19T20:29:47.570Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-19T15:47:54.044Z"
+      "lastFetched": "2026-09-19T20:30:07.246Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-        "link": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-        "description": "<p>Article URL: <a href=\"https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951\">https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766821\">https://news.ycombinator.com/item?id=49766821</a></p>\n<p>Points: 28</p>\n<p># Comments: 15</p>",
-        "pubDate": "Sat, 19 Sep 2026 14:23:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49766821"
+        "title": "Measure internet censorship. Contribute to the largest open dataset",
+        "link": "https://ooni.org/install",
+        "description": "<p>Article URL: <a href=\"https://ooni.org/install\">https://ooni.org/install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769676\">https://news.ycombinator.com/item?id=49769676</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 19 Sep 2026 20:00:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49769676"
       },
       {
-        "title": "A graphical desktop for the ZX Spectrum",
-        "link": "https://github.com/mindbox77/zxdesk",
-        "description": "<p>Article URL: <a href=\"https://github.com/mindbox77/zxdesk\">https://github.com/mindbox77/zxdesk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766676\">https://news.ycombinator.com/item?id=49766676</a></p>\n<p>Points: 34</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sat, 19 Sep 2026 14:01:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49766676"
+        "title": "OpenAI and Anthropic oversold AI security breaches",
+        "link": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+        "description": "<p>Article URL: <a href=\"https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/\">https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769668\">https://news.ycombinator.com/item?id=49769668</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+        "pubDate": "Sat, 19 Sep 2026 19:59:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49769668"
+      },
+      {
+        "title": "Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]",
+        "link": "https://gabriel-zucman.eu/files/prop40letter.pdf",
+        "description": "<p>Article URL: <a href=\"https://gabriel-zucman.eu/files/prop40letter.pdf\">https://gabriel-zucman.eu/files/prop40letter.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769421\">https://news.ycombinator.com/item?id=49769421</a></p>\n<p>Points: 14</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sat, 19 Sep 2026 19:25:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49769421"
+      },
+      {
+        "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+        "link": "https://eprint.iacr.org/2026/2039",
+        "description": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/2039\">https://eprint.iacr.org/2026/2039</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769405\">https://news.ycombinator.com/item?id=49769405</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 19 Sep 2026 19:23:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49769405"
+      },
+      {
+        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+        "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+        "description": "<p>Article URL: <a href=\"https://bartosz.fenski.pl/modern-fs-benchmark/\">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768833\">https://news.ycombinator.com/item?id=49768833</a></p>\n<p>Points: 56</p>\n<p># Comments: 42</p>",
+        "pubDate": "Sat, 19 Sep 2026 18:11:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49768833"
+      },
+      {
+        "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+        "link": "https://supabase.link/orioledbjob",
+        "description": "<p>Article URL: <a href=\"https://supabase.link/orioledbjob\">https://supabase.link/orioledbjob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768220\">https://news.ycombinator.com/item?id=49768220</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 19 Sep 2026 17:01:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49768220"
+      },
+      {
+        "title": "Almost Never Use AI to Write Anything Substantive",
+        "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "description": "<p>Article URL: <a href=\"https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\">https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767937\">https://news.ycombinator.com/item?id=49767937</a></p>\n<p>Points: 116</p>\n<p># Comments: 72</p>",
+        "pubDate": "Sat, 19 Sep 2026 16:35:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49767937"
+      },
+      {
+        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+        "link": "https://github.com/trycua/cua",
+        "description": "<p>Hello HN! We're Dillon and Francesco from Cua.<p>We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored.<p>We wondered how far we could go with a small model trained to only make these kinds of decisions.<p>Our inspiration was Typesafe's Jev and its System One Model framing. This is a nod to the dichotomy between thinking quickly, automatically, and intuitively (system 1) vs. thinking slowly, analytically (system 2), as described by Daniel Kahneman.<p>The interesting question for us was: what happens if you give a model an interface of current context, and a set of possible choices, and you ask it to return a probability for each choice? This kind of model does not generate output token by token like most LLMs do, but rather scores the options you give it, which you can check, trust, and use to drive your app's behavior.<p>CUA-S1 is our answer for narrow, specialized decision models for computer use. Our first release is CUA-S1-FORMS. We built this from ideas and code in jevlike, and then trained a second model just to handle form interactions. It has 706k parameters, and the original checkpoint is 2.8 MB.<p>The first training iteration took less than 30 minutes on synthetic data. Given a set of structured elements and values extracted from a document, it predicts whether to use the given value, CHECK, CLICK, or SKIP for each element. It does not predict new values for text fields, and does not consider screenshots. Element decisions are scored together, and your code can order the actions, and Cua Driver will execute them one at a time.<p>A first evaluation of this specialist vs. hosted Jev on our form task:<p>- For the whole decision set: 99.7% correct vs 83.6%.<p>- For the subset of steps that require an action: 100% correct vs 96%.<p>- For the subset of steps that are just leaving already-filled fields alone: 100% correct vs 74%.<p>The specialist was trained specifically for this task and convention (just press skip for already filled boxes), while hosted Jev has not been fine-tuned for it, so this is an experiment in scoped specialization.<p>We measured 7-9 ms to score a form locally vs. 260-280 ms per call to hosted Jev including network latency, though those samples measure different things and are not end-to-end form completion times.<p>Our interest here is in the space between a brittle script and a general agent loop. The content and layout of form fields vary enough that scripts get unwieldy, but the set of available decisions can remain narrow and well scoped. We want to explore the possibility of a general agent encountering something novel, and passing well understood decisions over to specialists like this.<p>That is a direction we are looking into. The current release is for forms only. We're open sourced the synthetic data generation, training, evaluation, and Driver integration under libs/cua-s1 with an MIT license.<p>Comments welcome! Especially if you are building computer-use agents and have run into a recurring decision that is too variable to script but is too narrow to call another LLM for.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767564\">https://news.ycombinator.com/item?id=49767564</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 19 Sep 2026 15:52:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49767564"
+      },
+      {
+        "title": "Brood War Bench",
+        "link": "https://bw.swerdlow.dev/report",
+        "description": "<p>Article URL: <a href=\"https://bw.swerdlow.dev/report\">https://bw.swerdlow.dev/report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766966\">https://news.ycombinator.com/item?id=49766966</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 19 Sep 2026 14:44:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49766966"
       },
       {
         "title": "What Zig felt like, coming from Rust",
         "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "description": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Points: 65</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Points: 152</p>\n<p># Comments: 179</p>",
         "pubDate": "Sat, 19 Sep 2026 13:55:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49766637"
       },
       {
         "title": "Tin: full-text search for Postgres",
         "link": "https://planetscale.com/blog/introducing-tin",
-        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-tin\">https://planetscale.com/blog/introducing-tin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766611\">https://news.ycombinator.com/item?id=49766611</a></p>\n<p>Points: 44</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-tin\">https://planetscale.com/blog/introducing-tin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766611\">https://news.ycombinator.com/item?id=49766611</a></p>\n<p>Points: 146</p>\n<p># Comments: 64</p>",
         "pubDate": "Sat, 19 Sep 2026 13:52:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49766611"
       },
       {
-        "title": "Laya the open source version of Jev",
+        "title": "I built non-autoregressive decision models with RL a year ago",
         "link": "https://laya.convaiinnovations.com/",
-        "description": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 386</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 871</p>\n<p># Comments: 214</p>",
         "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49765348"
       },
       {
         "title": "AI-generated posters don’t have to be horrible",
         "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 631</p>\n<p># Comments: 380</p>",
+        "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 1104</p>\n<p># Comments: 618</p>",
         "pubDate": "Sat, 19 Sep 2026 09:20:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49764791"
       },
       {
         "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
         "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "description": "<p>Article URL: <a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763987\">https://news.ycombinator.com/item?id=49763987</a></p>\n<p>Points: 230</p>\n<p># Comments: 121</p>",
+        "description": "<p>Article URL: <a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763987\">https://news.ycombinator.com/item?id=49763987</a></p>\n<p>Points: 313</p>\n<p># Comments: 152</p>",
         "pubDate": "Sat, 19 Sep 2026 06:41:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49763987"
       },
       {
         "title": "If math is more than proof, we need to better celebrate the rest of it",
         "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763928\">https://news.ycombinator.com/item?id=49763928</a></p>\n<p>Points: 213</p>\n<p># Comments: 174</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763928\">https://news.ycombinator.com/item?id=49763928</a></p>\n<p>Points: 269</p>\n<p># Comments: 224</p>",
         "pubDate": "Sat, 19 Sep 2026 06:28:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49763928"
       },
       {
-        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
         "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "description": "<p>Article URL: <a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\">https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763697\">https://news.ycombinator.com/item?id=49763697</a></p>\n<p>Points: 447</p>\n<p># Comments: 168</p>",
+        "description": "<p><a href=\"https://www.nature.com/articles/s41593-026-02433-7\" rel=\"nofollow\">https://www.nature.com/articles/s41593-026-02433-7</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763697\">https://news.ycombinator.com/item?id=49763697</a></p>\n<p>Points: 579</p>\n<p># Comments: 209</p>",
         "pubDate": "Sat, 19 Sep 2026 05:48:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49763697"
       },
       {
-        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-        "description": "<p>Article URL: <a href=\"https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\">https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763379\">https://news.ycombinator.com/item?id=49763379</a></p>\n<p>Points: 47</p>\n<p># Comments: 5</p>",
-        "pubDate": "Sat, 19 Sep 2026 04:44:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49763379"
-      },
-      {
         "title": "San Francisco Onion Futures Company",
         "link": "https://onionfutures.com/",
-        "description": "<p>Article URL: <a href=\"https://onionfutures.com/\">https://onionfutures.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763296\">https://news.ycombinator.com/item?id=49763296</a></p>\n<p>Points: 278</p>\n<p># Comments: 97</p>",
+        "description": "<p>Article URL: <a href=\"https://onionfutures.com/\">https://onionfutures.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763296\">https://news.ycombinator.com/item?id=49763296</a></p>\n<p>Points: 337</p>\n<p># Comments: 141</p>",
         "pubDate": "Sat, 19 Sep 2026 04:23:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=49763296"
       },
       {
         "title": "SDCC – Small Device C Compiler",
         "link": "https://sdcc.sourceforge.net/",
-        "description": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 109</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 119</p>\n<p># Comments: 28</p>",
         "pubDate": "Sat, 19 Sep 2026 02:32:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49762744"
       },
       {
-        "title": "Science Is Open Software",
-        "link": "https://jepedersen.dk/blog/202505_research/",
-        "description": "<p>Article URL: <a href=\"https://jepedersen.dk/blog/202505_research/\">https://jepedersen.dk/blog/202505_research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762687\">https://news.ycombinator.com/item?id=49762687</a></p>\n<p>Points: 127</p>\n<p># Comments: 47</p>",
-        "pubDate": "Sat, 19 Sep 2026 02:21:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49762687"
-      },
-      {
-        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-        "link": "https://spectrum.ieee.org/llms-for-chip-design",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 168</p>\n<p># Comments: 115</p>",
-        "pubDate": "Fri, 18 Sep 2026 23:04:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49761432"
-      },
-      {
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117282080803799576\">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758736\">https://news.ycombinator.com/item?id=49758736</a></p>\n<p>Points: 956</p>\n<p># Comments: 523</p>",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117282080803799576\">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758736\">https://news.ycombinator.com/item?id=49758736</a></p>\n<p>Points: 1065</p>\n<p># Comments: 622</p>",
         "pubDate": "Fri, 18 Sep 2026 19:03:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49758736"
       },
       {
         "title": "Saving another 100TB of RAM",
         "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 409</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 445</p>\n<p># Comments: 100</p>",
         "pubDate": "Fri, 18 Sep 2026 18:51:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=49758580"
-      },
-      {
-        "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-        "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756121\">https://news.ycombinator.com/item?id=49756121</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
-        "pubDate": "Fri, 18 Sep 2026 15:47:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49756121"
-      },
-      {
-        "title": "Cloudflare Quick Tunnels",
-        "link": "https://try.cloudflare.com/",
-        "description": "<p>Article URL: <a href=\"https://try.cloudflare.com/\">https://try.cloudflare.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754785\">https://news.ycombinator.com/item?id=49754785</a></p>\n<p>Points: 766</p>\n<p># Comments: 299</p>",
-        "pubDate": "Fri, 18 Sep 2026 14:18:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49754785"
-      },
-      {
-        "title": "OpenJev",
-        "link": "https://openjev.com/",
-        "description": "<p>Article URL: <a href=\"https://openjev.com/\">https://openjev.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752041\">https://news.ycombinator.com/item?id=49752041</a></p>\n<p>Points: 659</p>\n<p># Comments: 276</p>",
-        "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49752041"
-      },
-      {
-        "title": "I built the fastest PHP webserver in the world",
-        "link": "https://qbixserver.com",
-        "description": "<p>Article URL: <a href=\"https://qbixserver.com\">https://qbixserver.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749789\">https://news.ycombinator.com/item?id=49749789</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 18 Sep 2026 03:08:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49749789"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-19T15:47:54.044Z",
+  "lastUpdated": "2026-09-19T20:30:07.246Z",
   "stats": {
     "feeds": 2,
     "articles": 20
