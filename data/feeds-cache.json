@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-21T12:43:02.748Z"
+      "lastFetched": "2026-09-21T21:55:29.309Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-21T12:43:22.573Z"
+      "lastFetched": "2026-09-21T21:55:35.270Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "NEC V20 CPU: A bit of pep for an XT",
-        "link": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
-        "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/\">https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49785783\">https://news.ycombinator.com/item?id=49785783</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 21 Sep 2026 11:21:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49785783"
+        "title": "CBP suspends all personal prescription importation Oct 22",
+        "link": "https://www.personalimportation.org/advocacy",
+        "description": "<p>Article URL: <a href=\"https://www.personalimportation.org/advocacy\">https://www.personalimportation.org/advocacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49793322\">https://news.ycombinator.com/item?id=49793322</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 21 Sep 2026 20:58:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49793322"
       },
       {
-        "title": "ZuckOff Know when a camera is in the room",
-        "link": "https://zuckoff.app/",
-        "description": "<p>Article URL: <a href=\"https://zuckoff.app/\">https://zuckoff.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49785429\">https://news.ycombinator.com/item?id=49785429</a></p>\n<p>Points: 325</p>\n<p># Comments: 123</p>",
-        "pubDate": "Mon, 21 Sep 2026 10:33:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49785429"
+        "title": "Xiaomi MiMo v2.6",
+        "link": "https://mimo.xiaomi.com/mimo-v2-6",
+        "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">https://mimo.xiaomi.com/mimo-v2-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792730\">https://news.ycombinator.com/item?id=49792730</a></p>\n<p>Points: 245</p>\n<p># Comments: 105</p>",
+        "pubDate": "Mon, 21 Sep 2026 20:12:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49792730"
       },
       {
-        "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-        "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-        "description": "<p>Article URL: <a href=\"https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff\">https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49785397\">https://news.ycombinator.com/item?id=49785397</a></p>\n<p>Points: 174</p>\n<p># Comments: 11</p>",
-        "pubDate": "Mon, 21 Sep 2026 10:27:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49785397"
+        "title": "Transformers Explained Visually",
+        "link": "https://poloclub.github.io/transformer-explainer/",
+        "description": "<p>Article URL: <a href=\"https://poloclub.github.io/transformer-explainer/\">https://poloclub.github.io/transformer-explainer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792342\">https://news.ycombinator.com/item?id=49792342</a></p>\n<p>Points: 78</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 21 Sep 2026 19:43:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49792342"
       },
       {
-        "title": "Jev-Leftpad",
-        "link": "https://github.com/f/jev-leftpad",
-        "description": "<p>Article URL: <a href=\"https://github.com/f/jev-leftpad\">https://github.com/f/jev-leftpad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784706\">https://news.ycombinator.com/item?id=49784706</a></p>\n<p>Points: 113</p>\n<p># Comments: 44</p>",
-        "pubDate": "Mon, 21 Sep 2026 08:39:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49784706"
+        "title": "Show HN: A website that tracks US food prices every day",
+        "link": "https://www.kadoa.com/food-prices",
+        "description": "<p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale markets<p>- what prices supermarkets advertised in their weekly ads<p>This data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.<p>I think this should be public data that is easy to access and understand, so I built an open-source tracker for it.<p>Github: <a href=\"https://github.com/kadoa-org/food-price-monitor\" rel=\"nofollow\">https://github.com/kadoa-org/food-price-monitor</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792076\">https://news.ycombinator.com/item?id=49792076</a></p>\n<p>Points: 22</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 21 Sep 2026 19:24:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49792076"
       },
       {
-        "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-        "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-        "description": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Disney%2B_ad_policy_change\">https://consumerrights.wiki/w/Disney%2B_ad_policy_change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784336\">https://news.ycombinator.com/item?id=49784336</a></p>\n<p>Points: 125</p>\n<p># Comments: 85</p>",
-        "pubDate": "Mon, 21 Sep 2026 07:55:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49784336"
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "link": "https://linear.app/now/ci-bottleneck-reworked",
+        "description": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 72</p>\n<p># Comments: 58</p>",
+        "pubDate": "Mon, 21 Sep 2026 19:23:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49792067"
       },
       {
-        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-        "link": "https://github.com/jaredpalmer/kev/tree/main",
-        "description": "<p>Article URL: <a href=\"https://github.com/jaredpalmer/kev/tree/main\">https://github.com/jaredpalmer/kev/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783999\">https://news.ycombinator.com/item?id=49783999</a></p>\n<p>Points: 178</p>\n<p># Comments: 78</p>",
-        "pubDate": "Mon, 21 Sep 2026 07:11:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49783999"
+        "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+        "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791997\">https://news.ycombinator.com/item?id=49791997</a></p>\n<p>Points: 50</p>\n<p># Comments: 23</p>",
+        "pubDate": "Mon, 21 Sep 2026 19:17:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791997"
       },
       {
-        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-        "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-        "description": "<p>Article URL: <a href=\"http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf\">http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783495\">https://news.ycombinator.com/item?id=49783495</a></p>\n<p>Points: 236</p>\n<p># Comments: 52</p>",
-        "pubDate": "Mon, 21 Sep 2026 05:55:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49783495"
+        "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+        "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead\">https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791939\">https://news.ycombinator.com/item?id=49791939</a></p>\n<p>Points: 193</p>\n<p># Comments: 139</p>",
+        "pubDate": "Mon, 21 Sep 2026 19:14:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791939"
       },
       {
-        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-        "link": "https://github.com/volotat/mini-AGI/",
-        "description": "<p>Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit.<p>So, first of all it does work and you can see the sample from the whole training run here: <a href=\"https://raw.githubusercontent.com/volotat/mini-AGI/refs/heads/main/runs/samples.txt\" rel=\"nofollow\">https://raw.githubusercontent.com/volotat/mini-AGI/refs/head...</a><p>Here is the scaling law graph I have so far, and it looks very promising:\n<a href=\"https://github.com/volotat/mini-AGI/blob/main/assets/scaling.png\" rel=\"nofollow\">https://github.com/volotat/mini-AGI/blob/main/assets/scaling...</a><p>The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations.<p>I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data.<p>First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients.<p>I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself.<p>Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified.<p>The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do.<p>The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself.<p>Thanks for your attention.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783133\">https://news.ycombinator.com/item?id=49783133</a></p>\n<p>Points: 161</p>\n<p># Comments: 29</p>",
-        "pubDate": "Mon, 21 Sep 2026 04:42:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49783133"
+        "title": "In Search of a Compositional Theory of Self-Stabilization",
+        "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+        "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html\">http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791797\">https://news.ycombinator.com/item?id=49791797</a></p>\n<p>Points: 34</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 21 Sep 2026 19:04:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791797"
       },
       {
-        "title": "Heretic removes restrictions from language models",
-        "link": "https://heretic-project.org/",
-        "description": "<p>Article URL: <a href=\"https://heretic-project.org/\">https://heretic-project.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783101\">https://news.ycombinator.com/item?id=49783101</a></p>\n<p>Points: 72</p>\n<p># Comments: 29</p>",
-        "pubDate": "Mon, 21 Sep 2026 04:35:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49783101"
+        "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+        "link": "https://robocurve.org/roboharm/",
+        "description": "<p>Article URL: <a href=\"https://robocurve.org/roboharm/\">https://robocurve.org/roboharm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791720\">https://news.ycombinator.com/item?id=49791720</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 21 Sep 2026 18:58:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791720"
       },
       {
-        "title": "Why Backprop Goes Backward (2018)",
-        "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-        "description": "<p>Article URL: <a href=\"https://gregorygundersen.com/blog/2018/04/15/backprop/\">https://gregorygundersen.com/blog/2018/04/15/backprop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781693\">https://news.ycombinator.com/item?id=49781693</a></p>\n<p>Points: 54</p>\n<p># Comments: 6</p>",
-        "pubDate": "Mon, 21 Sep 2026 00:42:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49781693"
+        "title": "Frontier AI on Your Own Hardware",
+        "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "description": "<p>Article URL: <a href=\"https://timdettmers.com/2026/09/21/dlab-open-source-week/\">https://timdettmers.com/2026/09/21/dlab-open-source-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791647\">https://news.ycombinator.com/item?id=49791647</a></p>\n<p>Points: 45</p>\n<p># Comments: 16</p>",
+        "pubDate": "Mon, 21 Sep 2026 18:53:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791647"
       },
       {
-        "title": "Amiga Unix, Again",
-        "link": "https://amigaux.org/",
-        "description": "<p>Article URL: <a href=\"https://amigaux.org/\">https://amigaux.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781436\">https://news.ycombinator.com/item?id=49781436</a></p>\n<p>Points: 118</p>\n<p># Comments: 38</p>",
-        "pubDate": "Sun, 20 Sep 2026 23:57:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49781436"
+        "title": "US halts flights at busy East Coast airports, says fiber line cut",
+        "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/\">https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791509\">https://news.ycombinator.com/item?id=49791509</a></p>\n<p>Points: 139</p>\n<p># Comments: 92</p>",
+        "pubDate": "Mon, 21 Sep 2026 18:41:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791509"
       },
       {
-        "title": "What happened to the Snowden archive",
-        "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-        "description": "<p>Article URL: <a href=\"https://libroot.org/posts/what-happened-to-the-snowden-archive\">https://libroot.org/posts/what-happened-to-the-snowden-archive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780820\">https://news.ycombinator.com/item?id=49780820</a></p>\n<p>Points: 516</p>\n<p># Comments: 358</p>",
-        "pubDate": "Sun, 20 Sep 2026 22:35:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49780820"
+        "title": "Why does mathmain need an encrypted loader?",
+        "link": "https://safedep.io/mathmain-encrypted-loader/",
+        "description": "<p>Article URL: <a href=\"https://safedep.io/mathmain-encrypted-loader/\">https://safedep.io/mathmain-encrypted-loader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791378\">https://news.ycombinator.com/item?id=49791378</a></p>\n<p>Points: 85</p>\n<p># Comments: 23</p>",
+        "pubDate": "Mon, 21 Sep 2026 18:33:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791378"
       },
       {
-        "title": "AX – Google’s Open Agentic Orchestrator",
-        "link": "https://agentexecutor.io",
-        "description": "<p>Article URL: <a href=\"https://agentexecutor.io\">https://agentexecutor.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780797\">https://news.ycombinator.com/item?id=49780797</a></p>\n<p>Points: 537</p>\n<p># Comments: 240</p>",
-        "pubDate": "Sun, 20 Sep 2026 22:32:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49780797"
+        "title": "Apple Copland D11E4 Booting in the Browser",
+        "link": "https://www.pagetable.com/300",
+        "description": "<p>Article URL: <a href=\"https://www.pagetable.com/300\">https://www.pagetable.com/300</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791125\">https://news.ycombinator.com/item?id=49791125</a></p>\n<p>Points: 47</p>\n<p># Comments: 12</p>",
+        "pubDate": "Mon, 21 Sep 2026 18:15:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791125"
       },
       {
-        "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-        "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-        "description": "<p>Article URL: <a href=\"https://github.com/lfarroco/ogre-battle-64-recomp\">https://github.com/lfarroco/ogre-battle-64-recomp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780022\">https://news.ycombinator.com/item?id=49780022</a></p>\n<p>Points: 95</p>\n<p># Comments: 32</p>",
-        "pubDate": "Sun, 20 Sep 2026 20:59:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49780022"
+        "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+        "link": "https://ieeexplore.ieee.org/document/689473",
+        "description": "<p>Article URL: <a href=\"https://ieeexplore.ieee.org/document/689473\">https://ieeexplore.ieee.org/document/689473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791117\">https://news.ycombinator.com/item?id=49791117</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+        "pubDate": "Mon, 21 Sep 2026 18:14:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49791117"
       },
       {
-        "title": "MCP was always a bad idea?",
-        "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-        "description": "<p>Article URL: <a href=\"https://maharship.com/blog/why-mcp-was-always-a-bad-idea/\">https://maharship.com/blog/why-mcp-was-always-a-bad-idea/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49779329\">https://news.ycombinator.com/item?id=49779329</a></p>\n<p>Points: 206</p>\n<p># Comments: 157</p>",
-        "pubDate": "Sun, 20 Sep 2026 19:44:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49779329"
+        "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+        "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+        "description": "<p>Article URL: <a href=\"https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac\">https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49790409\">https://news.ycombinator.com/item?id=49790409</a></p>\n<p>Points: 183</p>\n<p># Comments: 121</p>",
+        "pubDate": "Mon, 21 Sep 2026 17:30:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49790409"
       },
       {
-        "title": "A Necessary History of the Oddest Letter: W",
-        "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-        "description": "<p>Article URL: <a href=\"https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778195\">https://news.ycombinator.com/item?id=49778195</a></p>\n<p>Points: 172</p>\n<p># Comments: 82</p>",
-        "pubDate": "Sun, 20 Sep 2026 17:55:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49778195"
+        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+        "link": "https://github.com/naw103/foremerge",
+        "description": "<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n</code></pre>\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL <a href=\"https://foremerge.com/install.sh\" rel=\"nofollow\">https://foremerge.com/install.sh</a> | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href=\"https://github.com/naw103/foremerge\" rel=\"nofollow\">https://github.com/naw103/foremerge</a>\nWebsite: <a href=\"https://foremerge.com\" rel=\"nofollow\">https://foremerge.com</a><p>More information on the problems this solves: <a href=\"https://foremerge.com/blog/\" rel=\"nofollow\">https://foremerge.com/blog/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789356\">https://news.ycombinator.com/item?id=49789356</a></p>\n<p>Points: 28</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 21 Sep 2026 16:22:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49789356"
       },
       {
-        "title": "I turned Jev into a (lousy) chatbot",
-        "link": "https://github.com/kyle-pena-nlp/jevchat/",
-        "description": "<p>Article URL: <a href=\"https://github.com/kyle-pena-nlp/jevchat/\">https://github.com/kyle-pena-nlp/jevchat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778162\">https://news.ycombinator.com/item?id=49778162</a></p>\n<p>Points: 156</p>\n<p># Comments: 44</p>",
-        "pubDate": "Sun, 20 Sep 2026 17:51:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49778162"
+        "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+        "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/hermes-shortwave-radio-digital-data\">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789228\">https://news.ycombinator.com/item?id=49789228</a></p>\n<p>Points: 64</p>\n<p># Comments: 33</p>",
+        "pubDate": "Mon, 21 Sep 2026 16:14:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49789228"
       },
       {
-        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-        "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-        "description": "<p>Article URL: <a href=\"https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\">https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778029\">https://news.ycombinator.com/item?id=49778029</a></p>\n<p>Points: 500</p>\n<p># Comments: 348</p>",
-        "pubDate": "Sun, 20 Sep 2026 17:38:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49778029"
+        "title": "Fable 5 – Median thinking declined in August",
+        "link": "https://twitter.com/Lon/status/2101793422487204027",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/Lon/status/2101793422487204027\">https://twitter.com/Lon/status/2101793422487204027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789224\">https://news.ycombinator.com/item?id=49789224</a></p>\n<p>Points: 301</p>\n<p># Comments: 202</p>",
+        "pubDate": "Mon, 21 Sep 2026 16:13:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49789224"
       },
       {
-        "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-        "link": "https://github.com/adonis-singh/re4",
-        "description": "<p>Article URL: <a href=\"https://github.com/adonis-singh/re4\">https://github.com/adonis-singh/re4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778022\">https://news.ycombinator.com/item?id=49778022</a></p>\n<p>Points: 126</p>\n<p># Comments: 82</p>",
-        "pubDate": "Sun, 20 Sep 2026 17:38:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49778022"
+        "title": "How do Traffic Signals Work (2019)",
+        "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+        "description": "<p>Article URL: <a href=\"https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\">https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789081\">https://news.ycombinator.com/item?id=49789081</a></p>\n<p>Points: 48</p>\n<p># Comments: 32</p>",
+        "pubDate": "Mon, 21 Sep 2026 16:06:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49789081"
       },
       {
-        "title": "I am often wrong",
-        "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-        "description": "<p>Article URL: <a href=\"https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html\">https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49777467\">https://news.ycombinator.com/item?id=49777467</a></p>\n<p>Points: 263</p>\n<p># Comments: 189</p>",
-        "pubDate": "Sun, 20 Sep 2026 16:41:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49777467"
+        "title": "Grok 4.7",
+        "link": "https://x.ai/news/grok-4-7",
+        "description": "<p>Article URL: <a href=\"https://x.ai/news/grok-4-7\">https://x.ai/news/grok-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788838\">https://news.ycombinator.com/item?id=49788838</a></p>\n<p>Points: 430</p>\n<p># Comments: 352</p>",
+        "pubDate": "Mon, 21 Sep 2026 15:50:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49788838"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-21T12:43:22.574Z",
+  "lastUpdated": "2026-09-21T21:55:35.270Z",
   "stats": {
     "feeds": 2,
     "articles": 20
