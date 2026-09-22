@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-21T21:55:29.309Z"
+      "lastFetched": "2026-09-22T04:36:49.007Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-21T21:55:35.270Z"
+      "lastFetched": "2026-09-22T04:36:55.510Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "CBP suspends all personal prescription importation Oct 22",
-        "link": "https://www.personalimportation.org/advocacy",
-        "description": "<p>Article URL: <a href=\"https://www.personalimportation.org/advocacy\">https://www.personalimportation.org/advocacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49793322\">https://news.ycombinator.com/item?id=49793322</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 21 Sep 2026 20:58:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49793322"
+        "title": "Claude Status – Elevated errors for multiple models",
+        "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+        "description": "<p>Article URL: <a href=\"https://status.claude.com/incidents/7g1qpkyz5gxh\">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795579\">https://news.ycombinator.com/item?id=49795579</a></p>\n<p>Points: 78</p>\n<p># Comments: 60</p>",
+        "pubDate": "Tue, 22 Sep 2026 01:05:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49795579"
       },
       {
-        "title": "Xiaomi MiMo v2.6",
+        "title": "Socrates vs. the Written Word (2011)",
+        "link": "https://wondermark.com/socrates-vs-writing/",
+        "description": "<p>Article URL: <a href=\"https://wondermark.com/socrates-vs-writing/\">https://wondermark.com/socrates-vs-writing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795122\">https://news.ycombinator.com/item?id=49795122</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+        "pubDate": "Tue, 22 Sep 2026 00:06:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49795122"
+      },
+      {
+        "title": "Looking forward to Git 2.56 – and 3.0",
+        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794736\">https://news.ycombinator.com/item?id=49794736</a></p>\n<p>Points: 57</p>\n<p># Comments: 24</p>",
+        "pubDate": "Mon, 21 Sep 2026 23:16:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49794736"
+      },
+      {
+        "title": "Spymarks, Not Watermarks",
+        "link": "https://brand.io/article/spymarks/",
+        "description": "<p>Article URL: <a href=\"https://brand.io/article/spymarks/\">https://brand.io/article/spymarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794615\">https://news.ycombinator.com/item?id=49794615</a></p>\n<p>Points: 225</p>\n<p># Comments: 41</p>",
+        "pubDate": "Mon, 21 Sep 2026 23:03:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49794615"
+      },
+      {
+        "title": "I don't want to read what you didn't write",
+        "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+        "description": "<p>Article URL: <a href=\"https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794330\">https://news.ycombinator.com/item?id=49794330</a></p>\n<p>Points: 425</p>\n<p># Comments: 139</p>",
+        "pubDate": "Mon, 21 Sep 2026 22:30:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49794330"
+      },
+      {
+        "title": "MiMo v2.6",
         "link": "https://mimo.xiaomi.com/mimo-v2-6",
-        "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">https://mimo.xiaomi.com/mimo-v2-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792730\">https://news.ycombinator.com/item?id=49792730</a></p>\n<p>Points: 245</p>\n<p># Comments: 105</p>",
+        "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">https://mimo.xiaomi.com/mimo-v2-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792730\">https://news.ycombinator.com/item?id=49792730</a></p>\n<p>Points: 661</p>\n<p># Comments: 321</p>",
         "pubDate": "Mon, 21 Sep 2026 20:12:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49792730"
       },
       {
         "title": "Transformers Explained Visually",
         "link": "https://poloclub.github.io/transformer-explainer/",
-        "description": "<p>Article URL: <a href=\"https://poloclub.github.io/transformer-explainer/\">https://poloclub.github.io/transformer-explainer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792342\">https://news.ycombinator.com/item?id=49792342</a></p>\n<p>Points: 78</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://poloclub.github.io/transformer-explainer/\">https://poloclub.github.io/transformer-explainer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792342\">https://news.ycombinator.com/item?id=49792342</a></p>\n<p>Points: 254</p>\n<p># Comments: 41</p>",
         "pubDate": "Mon, 21 Sep 2026 19:43:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49792342"
       },
       {
-        "title": "Show HN: A website that tracks US food prices every day",
-        "link": "https://www.kadoa.com/food-prices",
-        "description": "<p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale markets<p>- what prices supermarkets advertised in their weekly ads<p>This data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.<p>I think this should be public data that is easy to access and understand, so I built an open-source tracker for it.<p>Github: <a href=\"https://github.com/kadoa-org/food-price-monitor\" rel=\"nofollow\">https://github.com/kadoa-org/food-price-monitor</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792076\">https://news.ycombinator.com/item?id=49792076</a></p>\n<p>Points: 22</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 21 Sep 2026 19:24:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49792076"
-      },
-      {
         "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
         "link": "https://linear.app/now/ci-bottleneck-reworked",
-        "description": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 72</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 172</p>\n<p># Comments: 180</p>",
         "pubDate": "Mon, 21 Sep 2026 19:23:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=49792067"
       },
       {
         "title": "The Advisory Group on Mathematics and Artificial Intelligence",
         "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791997\">https://news.ycombinator.com/item?id=49791997</a></p>\n<p>Points: 50</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791997\">https://news.ycombinator.com/item?id=49791997</a></p>\n<p>Points: 109</p>\n<p># Comments: 54</p>",
         "pubDate": "Mon, 21 Sep 2026 19:17:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49791997"
       },
       {
-        "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+        "title": "NASA’s Mars Sample Return mission is dead",
         "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead\">https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791939\">https://news.ycombinator.com/item?id=49791939</a></p>\n<p>Points: 193</p>\n<p># Comments: 139</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead\">https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791939\">https://news.ycombinator.com/item?id=49791939</a></p>\n<p>Points: 339</p>\n<p># Comments: 274</p>",
         "pubDate": "Mon, 21 Sep 2026 19:14:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49791939"
       },
       {
-        "title": "In Search of a Compositional Theory of Self-Stabilization",
-        "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-        "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html\">http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791797\">https://news.ycombinator.com/item?id=49791797</a></p>\n<p>Points: 34</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 21 Sep 2026 19:04:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49791797"
-      },
-      {
         "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
         "link": "https://robocurve.org/roboharm/",
-        "description": "<p>Article URL: <a href=\"https://robocurve.org/roboharm/\">https://robocurve.org/roboharm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791720\">https://news.ycombinator.com/item?id=49791720</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://robocurve.org/roboharm/\">https://robocurve.org/roboharm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791720\">https://news.ycombinator.com/item?id=49791720</a></p>\n<p>Points: 39</p>\n<p># Comments: 21</p>",
         "pubDate": "Mon, 21 Sep 2026 18:58:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=49791720"
       },
       {
         "title": "Frontier AI on Your Own Hardware",
         "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-        "description": "<p>Article URL: <a href=\"https://timdettmers.com/2026/09/21/dlab-open-source-week/\">https://timdettmers.com/2026/09/21/dlab-open-source-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791647\">https://news.ycombinator.com/item?id=49791647</a></p>\n<p>Points: 45</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://timdettmers.com/2026/09/21/dlab-open-source-week/\">https://timdettmers.com/2026/09/21/dlab-open-source-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791647\">https://news.ycombinator.com/item?id=49791647</a></p>\n<p>Points: 121</p>\n<p># Comments: 62</p>",
         "pubDate": "Mon, 21 Sep 2026 18:53:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49791647"
       },
       {
-        "title": "US halts flights at busy East Coast airports, says fiber line cut",
-        "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/\">https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791509\">https://news.ycombinator.com/item?id=49791509</a></p>\n<p>Points: 139</p>\n<p># Comments: 92</p>",
-        "pubDate": "Mon, 21 Sep 2026 18:41:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49791509"
-      },
-      {
         "title": "Why does mathmain need an encrypted loader?",
         "link": "https://safedep.io/mathmain-encrypted-loader/",
-        "description": "<p>Article URL: <a href=\"https://safedep.io/mathmain-encrypted-loader/\">https://safedep.io/mathmain-encrypted-loader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791378\">https://news.ycombinator.com/item?id=49791378</a></p>\n<p>Points: 85</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://safedep.io/mathmain-encrypted-loader/\">https://safedep.io/mathmain-encrypted-loader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791378\">https://news.ycombinator.com/item?id=49791378</a></p>\n<p>Points: 119</p>\n<p># Comments: 35</p>",
         "pubDate": "Mon, 21 Sep 2026 18:33:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49791378"
       },
       {
         "title": "Apple Copland D11E4 Booting in the Browser",
         "link": "https://www.pagetable.com/300",
-        "description": "<p>Article URL: <a href=\"https://www.pagetable.com/300\">https://www.pagetable.com/300</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791125\">https://news.ycombinator.com/item?id=49791125</a></p>\n<p>Points: 47</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.pagetable.com/300\">https://www.pagetable.com/300</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791125\">https://news.ycombinator.com/item?id=49791125</a></p>\n<p>Points: 112</p>\n<p># Comments: 32</p>",
         "pubDate": "Mon, 21 Sep 2026 18:15:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=49791125"
       },
       {
-        "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-        "link": "https://ieeexplore.ieee.org/document/689473",
-        "description": "<p>Article URL: <a href=\"https://ieeexplore.ieee.org/document/689473\">https://ieeexplore.ieee.org/document/689473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791117\">https://news.ycombinator.com/item?id=49791117</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
-        "pubDate": "Mon, 21 Sep 2026 18:14:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49791117"
-      },
-      {
         "title": "Turn off and restrict access to Apple Intelligence features on Mac",
         "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-        "description": "<p>Article URL: <a href=\"https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac\">https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49790409\">https://news.ycombinator.com/item?id=49790409</a></p>\n<p>Points: 183</p>\n<p># Comments: 121</p>",
+        "description": "<p>Article URL: <a href=\"https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac\">https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49790409\">https://news.ycombinator.com/item?id=49790409</a></p>\n<p>Points: 261</p>\n<p># Comments: 179</p>",
         "pubDate": "Mon, 21 Sep 2026 17:30:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=49790409"
       },
       {
-        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-        "link": "https://github.com/naw103/foremerge",
-        "description": "<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n</code></pre>\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL <a href=\"https://foremerge.com/install.sh\" rel=\"nofollow\">https://foremerge.com/install.sh</a> | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href=\"https://github.com/naw103/foremerge\" rel=\"nofollow\">https://github.com/naw103/foremerge</a>\nWebsite: <a href=\"https://foremerge.com\" rel=\"nofollow\">https://foremerge.com</a><p>More information on the problems this solves: <a href=\"https://foremerge.com/blog/\" rel=\"nofollow\">https://foremerge.com/blog/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789356\">https://news.ycombinator.com/item?id=49789356</a></p>\n<p>Points: 28</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 21 Sep 2026 16:22:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49789356"
-      },
-      {
-        "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+        "title": "HERMES radio enables voice and data communication over vast distances",
         "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/hermes-shortwave-radio-digital-data\">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789228\">https://news.ycombinator.com/item?id=49789228</a></p>\n<p>Points: 64</p>\n<p># Comments: 33</p>",
+        "description": "<p><a href=\"https://hermes.radio/\" rel=\"nofollow\">https://hermes.radio/</a><p><a href=\"https://www.rhizomatica.org/\" rel=\"nofollow\">https://www.rhizomatica.org/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789228\">https://news.ycombinator.com/item?id=49789228</a></p>\n<p>Points: 112</p>\n<p># Comments: 47</p>",
         "pubDate": "Mon, 21 Sep 2026 16:14:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49789228"
       },
       {
-        "title": "Fable 5 – Median thinking declined in August",
-        "link": "https://twitter.com/Lon/status/2101793422487204027",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/Lon/status/2101793422487204027\">https://twitter.com/Lon/status/2101793422487204027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789224\">https://news.ycombinator.com/item?id=49789224</a></p>\n<p>Points: 301</p>\n<p># Comments: 202</p>",
-        "pubDate": "Mon, 21 Sep 2026 16:13:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49789224"
-      },
-      {
-        "title": "How do Traffic Signals Work (2019)",
+        "title": "How do traffic signals work? (2019)",
         "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-        "description": "<p>Article URL: <a href=\"https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\">https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789081\">https://news.ycombinator.com/item?id=49789081</a></p>\n<p>Points: 48</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\">https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789081\">https://news.ycombinator.com/item?id=49789081</a></p>\n<p>Points: 71</p>\n<p># Comments: 52</p>",
         "pubDate": "Mon, 21 Sep 2026 16:06:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49789081"
       },
       {
         "title": "Grok 4.7",
         "link": "https://x.ai/news/grok-4-7",
-        "description": "<p>Article URL: <a href=\"https://x.ai/news/grok-4-7\">https://x.ai/news/grok-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788838\">https://news.ycombinator.com/item?id=49788838</a></p>\n<p>Points: 430</p>\n<p># Comments: 352</p>",
+        "description": "<p>Article URL: <a href=\"https://x.ai/news/grok-4-7\">https://x.ai/news/grok-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788838\">https://news.ycombinator.com/item?id=49788838</a></p>\n<p>Points: 522</p>\n<p># Comments: 445</p>",
         "pubDate": "Mon, 21 Sep 2026 15:50:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49788838"
+      },
+      {
+        "title": "Attention is all you have",
+        "link": "https://alicegg.tech/2026/09/21/attention",
+        "description": "<p>Article URL: <a href=\"https://alicegg.tech/2026/09/21/attention\">https://alicegg.tech/2026/09/21/attention</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787726\">https://news.ycombinator.com/item?id=49787726</a></p>\n<p>Points: 638</p>\n<p># Comments: 193</p>",
+        "pubDate": "Mon, 21 Sep 2026 14:26:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49787726"
+      },
+      {
+        "title": "What Sun got wrong",
+        "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/\">https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787436\">https://news.ycombinator.com/item?id=49787436</a></p>\n<p>Points: 534</p>\n<p># Comments: 311</p>",
+        "pubDate": "Mon, 21 Sep 2026 14:03:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49787436"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-21T21:55:35.270Z",
+  "lastUpdated": "2026-09-22T04:36:55.510Z",
   "stats": {
     "feeds": 2,
     "articles": 20
