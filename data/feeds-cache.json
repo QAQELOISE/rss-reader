@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-22T21:11:23.677Z"
+      "lastFetched": "2026-09-23T04:32:52.443Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-22T21:11:32.088Z"
+      "lastFetched": "2026-09-23T04:32:58.895Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "The JavaScript Midlife Crisis",
-        "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-        "description": "<p>Article URL: <a href=\"https://maroun-baydoun.com/blog/javascript-midlife-crisis/\">https://maroun-baydoun.com/blog/javascript-midlife-crisis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807248\">https://news.ycombinator.com/item?id=49807248</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
-        "pubDate": "Tue, 22 Sep 2026 19:58:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49807248"
+        "title": "Data-Only Attacks Are Easier Than You Think",
+        "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+        "description": "<p>Article URL: <a href=\"https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811429\">https://news.ycombinator.com/item?id=49811429</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 23 Sep 2026 03:49:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49811429"
+      },
+      {
+        "title": "Transit rewards (Waymo pays you to take the train)",
+        "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+        "description": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/09/transit-rewards/\">https://waymo.com/blog/2026/09/transit-rewards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811065\">https://news.ycombinator.com/item?id=49811065</a></p>\n<p>Points: 24</p>\n<p># Comments: 6</p>",
+        "pubDate": "Wed, 23 Sep 2026 02:52:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49811065"
+      },
+      {
+        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cqj3dgy8x3vro\">https://www.bbc.com/news/articles/cqj3dgy8x3vro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49810829\">https://news.ycombinator.com/item?id=49810829</a></p>\n<p>Points: 73</p>\n<p># Comments: 54</p>",
+        "pubDate": "Wed, 23 Sep 2026 02:13:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49810829"
+      },
+      {
+        "title": "The current balance of power in open models",
+        "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+        "description": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/the-current-balance-of-power-in-open\">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808816\">https://news.ycombinator.com/item?id=49808816</a></p>\n<p>Points: 59</p>\n<p># Comments: 21</p>",
+        "pubDate": "Tue, 22 Sep 2026 22:03:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49808816"
+      },
+      {
+        "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "link": "https://foxscript.org/",
+        "description": "<p>Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808023\">https://news.ycombinator.com/item?id=49808023</a></p>\n<p>Points: 232</p>\n<p># Comments: 147</p>",
+        "pubDate": "Tue, 22 Sep 2026 21:00:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49808023"
       },
       {
         "title": "Native apps written in TypeScript and CSS",
         "link": "https://github.com/geastack/examples",
-        "description": "<p>Article URL: <a href=\"https://github.com/geastack/examples\">https://github.com/geastack/examples</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807021\">https://news.ycombinator.com/item?id=49807021</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/geastack/examples\">https://github.com/geastack/examples</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807021\">https://news.ycombinator.com/item?id=49807021</a></p>\n<p>Points: 93</p>\n<p># Comments: 34</p>",
         "pubDate": "Tue, 22 Sep 2026 19:42:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=49807021"
       },
       {
-        "title": "A Faster Shortest Path Algorithm",
-        "link": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-        "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/faster-shortest-path-algorithm\">https://www.vals.ai/blogs/faster-shortest-path-algorithm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806778\">https://news.ycombinator.com/item?id=49806778</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 22 Sep 2026 19:24:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49806778"
+        "title": "Obscura: VPN that can't log your activity",
+        "link": "https://obscura.com/#faq-technical",
+        "description": "<p>Article URL: <a href=\"https://obscura.com/#faq-technical\">https://obscura.com/#faq-technical</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807003\">https://news.ycombinator.com/item?id=49807003</a></p>\n<p>Points: 97</p>\n<p># Comments: 84</p>",
+        "pubDate": "Tue, 22 Sep 2026 19:40:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49807003"
       },
       {
-        "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
         "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-iran-school-attack/\">https://www.bloomberg.com/graphics/2026-iran-school-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806430\">https://news.ycombinator.com/item?id=49806430</a></p>\n<p>Points: 223</p>\n<p># Comments: 116</p>",
+        "description": "<p><a href=\"https://archive.ph/0V37g\" rel=\"nofollow\">https://archive.ph/0V37g</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806430\">https://news.ycombinator.com/item?id=49806430</a></p>\n<p>Points: 506</p>\n<p># Comments: 249</p>",
         "pubDate": "Tue, 22 Sep 2026 19:03:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49806430"
       },
       {
-        "title": "SAML: A Fractal of Bad Design",
+        "title": "SAML: A fractal of bad design",
         "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-        "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/\">https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806335\">https://news.ycombinator.com/item?id=49806335</a></p>\n<p>Points: 78</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/\">https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806335\">https://news.ycombinator.com/item?id=49806335</a></p>\n<p>Points: 187</p>\n<p># Comments: 110</p>",
         "pubDate": "Tue, 22 Sep 2026 18:57:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49806335"
       },
       {
         "title": "Unreal Agent",
         "link": "https://unreallabs.ai/blog/unreal-agent/",
-        "description": "<p><a href=\"https://github.com/unreallabsai/unreal-agent\" rel=\"nofollow\">https://github.com/unreallabsai/unreal-agent</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805748\">https://news.ycombinator.com/item?id=49805748</a></p>\n<p>Points: 53</p>\n<p># Comments: 42</p>",
+        "description": "<p><a href=\"https://github.com/unreallabsai/unreal-agent\" rel=\"nofollow\">https://github.com/unreallabsai/unreal-agent</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805748\">https://news.ycombinator.com/item?id=49805748</a></p>\n<p>Points: 147</p>\n<p># Comments: 88</p>",
         "pubDate": "Tue, 22 Sep 2026 18:15:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49805748"
       },
       {
-        "title": "An update on how we confirm your age group on Discord",
-        "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-        "description": "<p>Article URL: <a href=\"https://discord.com/blog/safer-for-teens-same-discord-for-adults\">https://discord.com/blog/safer-for-teens-same-discord-for-adults</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805677\">https://news.ycombinator.com/item?id=49805677</a></p>\n<p>Points: 51</p>\n<p># Comments: 7</p>",
-        "pubDate": "Tue, 22 Sep 2026 18:10:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49805677"
-      },
-      {
         "title": "GPT-6 Sol and Luna",
         "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-sol-and-luna/\">https://openai.com/index/introducing-gpt-6-sol-and-luna/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805509\">https://news.ycombinator.com/item?id=49805509</a></p>\n<p>Points: 792</p>\n<p># Comments: 430</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-sol-and-luna/\">https://openai.com/index/introducing-gpt-6-sol-and-luna/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805509\">https://news.ycombinator.com/item?id=49805509</a></p>\n<p>Points: 1311</p>\n<p># Comments: 647</p>",
         "pubDate": "Tue, 22 Sep 2026 18:00:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49805509"
       },
       {
         "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
         "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-        "description": "<p><a href=\"https://archive.ph/96YBP\" rel=\"nofollow\">https://archive.ph/96YBP</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805278\">https://news.ycombinator.com/item?id=49805278</a></p>\n<p>Points: 96</p>\n<p># Comments: 49</p>",
+        "description": "<p><a href=\"https://archive.ph/96YBP\" rel=\"nofollow\">https://archive.ph/96YBP</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805278\">https://news.ycombinator.com/item?id=49805278</a></p>\n<p>Points: 487</p>\n<p># Comments: 345</p>",
         "pubDate": "Tue, 22 Sep 2026 17:46:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49805278"
       },
       {
-        "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-        "link": "https://www.coveragecat.com/",
-        "description": "<p>Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade.<p>We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no sold leads, and a real broker on the other end. Our current focus is helping tech folks (think L3-L8) buy umbrella insurance.<p>Coverage Cat pairs AI-guided intake with a licensed brokerage team, so you can size up coverage, see honest price ranges, and compare real carrier options without handing your details to five agents overnight. Folks who use personal AI agents (think Muse, Instinct, Town, Openclaw, etc.) can drive the same flow through the Agent API/MCP.<p>We’d love your feedback so please do try it out. Just feed the prompt: “Shop for umbrella insurance with Coverage Cat” to your personal agent and let us know what you think!<p>If you want to watch a couple of agents navigate the flow before you use it there’s a video here: <a href=\"https://youtu.be/1BUkgAn6s-I\" rel=\"nofollow\">https://youtu.be/1BUkgAn6s-I</a><p>For those who are unfamiliar with this type of coverage, here’s a blurb from one of our insurance agents: “Umbrella liability insurance is a policy that provides additional coverage above the limits of existing auto, homeowners, renters, or landlord policies. It kicks in after the underlying policy limits are exhausted and may also cover personal injury claims like libel, slander, or defamation that standard policies often exclude. Policies typically start at $1 million in additional liability coverage and can protect you, your spouse, dependents, and even pets in your household.”<p>Buying insurance online is a miserable experience. You fill out a bunch of forms that say they’re going to give you quotes. Most don’t and then you end up with tons of unwanted phone calls and spam. Even if you wade through the muck, you’ll often still end up with sub-optimal prices and coverage because of a lack of market transparency and poorly-aligned advisory incentives.<p>We came to this problem because Max is a classic personal finance obsessive. He's the type of person that <i>needs</i> to know that he has the best possible price for something (everyone has one friend with the patience for a two hour phone call with the bank for some $10 fee) or that his insurance coverage is as tailored to his risk profile as the market will allow. He actually reads insurance policies end to end.<p>Years ago, when he shopped for his homeowners insurance it took him 10+ phone calls and dozens of online form fills to find the right deal. He also suffered tons of collateral damage in the process: websites sold his information to dozens of agents who proceeded to call, text, and email him a spam hoard that grows to this day.<p>After this painful search made us aware of the problem, we also spent a lot of time doing user research with wealthy-ish tech employees to see if they felt the same way. They did, and also complained that they 1) often felt like they'd left money on the table, 2) didn’t really understand their coverages, and 3) that brokers were slow, hard to communicate with, and unreliable.<p>To solve the problem, we set out to build Coverage Cat. Our approach has three major components:<p>First, we work really really hard to find and partner with insurance carriers that offer high-quality, competitively-priced products. We've also taken time to identify insurers that work on a direct-to-consumer basis or transparently list their prices online so we can make our customers aware of all the options available to them. We get paid commission when we match users to great insurance deals, but we still show and recommend folks deals that we don't make money on when they're accessible and will always recommend users buy what's best for their personal financial situation. Our goal is to meaningfully improve price transparency so consumers (and their AI agents) can make informed coverage decisions and not get nickel-and-dimed!<p>Second, we automate every possible part of the insurance process. Some forms, portals, & approvals still need human review due to regulatory constraints, but if it's not restricted, we're automating it. LLMs have given our small team tremendous leverage and enabled us to tackle problems at a scale that would've been unfathomable five years ago.<p>Finally, we build for agents first (a remix of the more classic adage, build for developers/APIs). We've always been big believers that personal finance would be the killer use-case for the AI revolution and have done our best to position ourselves to surf the wave. As personal assistants have started to explode onto the mainstream (think Muse, Instinct, Town, Codex, CC etc.) we've ensured our shopping and comparison process works via API/MCP so agents can present their users with all the information they need to make a good decision and transform a miserable shopping experience into a delightful one.<p>Coverage Cat is an unusual business because, while we also help folks find homeowners insurance in California and Texas, our main focus is on umbrella insurance. Most brokerages only sell umbrella coverage as a customer retention product, but it makes them almost no money. We focus on it as our core business because: 1) it's one piece of the insurance puzzle that many people in tech overlook and/or are confused about even though it can have a huge impact on their financial well-being. 2) Existing online tools and brokerages broadly don't make it easy to comparison shop for. 3) It was, for us, the most technically feasible candidate for automation given startup resource constraints.<p>Insofar as we know Coverage Cat is the first instance of a tool/portal that allows AI agents to complete most of the comparison and shopping steps required to allow people to buy insurance.<p>Also happy to answer any questions about the product, the problem space, and even some insurance questions (Max is a licensed agent) where regulation permits. Cheers!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804931\">https://news.ycombinator.com/item?id=49804931</a></p>\n<p>Points: 28</p>\n<p># Comments: 19</p>",
-        "pubDate": "Tue, 22 Sep 2026 17:26:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49804931"
-      },
-      {
-        "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-        "link": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117299954135808210\">https://grapheneos.social/@GrapheneOS/117299954135808210</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804683\">https://news.ycombinator.com/item?id=49804683</a></p>\n<p>Points: 198</p>\n<p># Comments: 86</p>",
-        "pubDate": "Tue, 22 Sep 2026 17:12:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49804683"
-      },
-      {
         "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
         "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
-        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-opus-5-5\">https://artificialanalysis.ai/models/claude-opus-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804316\">https://news.ycombinator.com/item?id=49804316</a></p>\n<p>Points: 164</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-opus-5-5\">https://artificialanalysis.ai/models/claude-opus-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804316\">https://news.ycombinator.com/item?id=49804316</a></p>\n<p>Points: 255</p>\n<p># Comments: 77</p>",
         "pubDate": "Tue, 22 Sep 2026 16:51:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49804316"
       },
       {
         "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
         "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-        "description": "<p>Article URL: <a href=\"https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\">https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803959\">https://news.ycombinator.com/item?id=49803959</a></p>\n<p>Points: 109</p>\n<p># Comments: 55</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\">https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803959\">https://news.ycombinator.com/item?id=49803959</a></p>\n<p>Points: 168</p>\n<p># Comments: 87</p>",
         "pubDate": "Tue, 22 Sep 2026 16:33:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49803959"
       },
       {
         "title": "Claude Opus 5.5",
         "link": "https://www.anthropic.com/claude-opus-5-5",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-opus-5-5\">https://www.anthropic.com/claude-opus-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803892\">https://news.ycombinator.com/item?id=49803892</a></p>\n<p>Points: 868</p>\n<p># Comments: 651</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-opus-5-5\">https://www.anthropic.com/claude-opus-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803892\">https://news.ycombinator.com/item?id=49803892</a></p>\n<p>Points: 1324</p>\n<p># Comments: 862</p>",
         "pubDate": "Tue, 22 Sep 2026 16:29:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49803892"
       },
       {
         "title": "16-bit Intel 8088 chip (c. 1985)",
         "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
-        "description": "<p>Article URL: <a href=\"https://allpoetry.com/16-bit-Intel-8088-chip\">https://allpoetry.com/16-bit-Intel-8088-chip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803635\">https://news.ycombinator.com/item?id=49803635</a></p>\n<p>Points: 89</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://allpoetry.com/16-bit-Intel-8088-chip\">https://allpoetry.com/16-bit-Intel-8088-chip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803635\">https://news.ycombinator.com/item?id=49803635</a></p>\n<p>Points: 113</p>\n<p># Comments: 14</p>",
         "pubDate": "Tue, 22 Sep 2026 16:11:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=49803635"
       },
       {
-        "title": "Writing Rust code that's fast by asking agents to make the code faster",
-        "link": "https://minimaxir.com/2026/09/agentic-iteration/",
-        "description": "<p>Article URL: <a href=\"https://minimaxir.com/2026/09/agentic-iteration/\">https://minimaxir.com/2026/09/agentic-iteration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803085\">https://news.ycombinator.com/item?id=49803085</a></p>\n<p>Points: 85</p>\n<p># Comments: 46</p>",
-        "pubDate": "Tue, 22 Sep 2026 15:38:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49803085"
-      },
-      {
         "title": "OpenAI is well positioned to fast-follow Jev",
         "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-        "description": "<p>Article URL: <a href=\"https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802161\">https://news.ycombinator.com/item?id=49802161</a></p>\n<p>Points: 220</p>\n<p># Comments: 166</p>",
+        "description": "<p>Article URL: <a href=\"https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802161\">https://news.ycombinator.com/item?id=49802161</a></p>\n<p>Points: 273</p>\n<p># Comments: 197</p>",
         "pubDate": "Tue, 22 Sep 2026 14:42:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=49802161"
       },
       {
         "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
         "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-        "description": "<p>Article URL: <a href=\"https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy\">https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49801939\">https://news.ycombinator.com/item?id=49801939</a></p>\n<p>Points: 508</p>\n<p># Comments: 387</p>",
+        "description": "<p>Article URL: <a href=\"https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy\">https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49801939\">https://news.ycombinator.com/item?id=49801939</a></p>\n<p>Points: 656</p>\n<p># Comments: 483</p>",
         "pubDate": "Tue, 22 Sep 2026 14:30:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49801939"
       },
       {
         "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
         "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "description": "<p>Article URL: <a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49801324\">https://news.ycombinator.com/item?id=49801324</a></p>\n<p>Points: 485</p>\n<p># Comments: 340</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49801324\">https://news.ycombinator.com/item?id=49801324</a></p>\n<p>Points: 600</p>\n<p># Comments: 372</p>",
         "pubDate": "Tue, 22 Sep 2026 13:52:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49801324"
       },
       {
         "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
         "link": "https://benchmarkheaven.com/jev-models",
-        "description": "<p>Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibration, Speed and Cost.<p>Leaderboard right now:<p><pre><code>  #1 - Jev            74.4\n  #2 - SemIf          73.1\n  #3 - djev           73.0\n  #4 - Winnow-12B Q8  71.2\n  #5 reflex 4B        70.3.\n</code></pre>\nMIT harness, public items, frozen artifacts, scoring code and public per-task outcomes:<p><a href=\"https://github.com/fstandhartinger/jevbench\" rel=\"nofollow\">https://github.com/fstandhartinger/jevbench</a><p>Two no-signup demos:<p><a href=\"https://who-is-right.app.mintapis.com\" rel=\"nofollow\">https://who-is-right.app.mintapis.com</a><p><a href=\"https://is-it-ai-slop.app.mintapis.com\" rel=\"nofollow\">https://is-it-ai-slop.app.mintapis.com</a><p>Limitations: English-only; latency from one German server; local/demo latency gets a disclosed ×2 adjustment (+150 ms on my servers) which is an informed assumption; held-out prompts still reach evaluated services; ~1-point gaps can be noise.<p>Wdyt?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49800574\">https://news.ycombinator.com/item?id=49800574</a></p>\n<p>Points: 25</p>\n<p># Comments: 1</p>",
+        "description": "<p>Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibration, Speed and Cost.<p>Leaderboard right now:<p><pre><code>  #1 - Jev            74.4\n  #2 - SemIf          73.1\n  #3 - djev           73.0\n  #4 - Winnow-12B Q8  71.2\n  #5 reflex 4B        70.3.\n</code></pre>\nMIT harness, public items, frozen artifacts, scoring code and public per-task outcomes:<p><a href=\"https://github.com/fstandhartinger/jevbench\" rel=\"nofollow\">https://github.com/fstandhartinger/jevbench</a><p>Two no-signup demos:<p><a href=\"https://who-is-right.app.mintapis.com\" rel=\"nofollow\">https://who-is-right.app.mintapis.com</a><p><a href=\"https://is-it-ai-slop.app.mintapis.com\" rel=\"nofollow\">https://is-it-ai-slop.app.mintapis.com</a><p>Limitations: English-only; latency from one German server; local/demo latency gets a disclosed ×2 adjustment (+150 ms on my servers) which is an informed assumption; held-out prompts still reach evaluated services; ~1-point gaps can be noise.<p>Wdyt?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49800574\">https://news.ycombinator.com/item?id=49800574</a></p>\n<p>Points: 80</p>\n<p># Comments: 20</p>",
         "pubDate": "Tue, 22 Sep 2026 13:01:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49800574"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-22T21:11:32.088Z",
+  "lastUpdated": "2026-09-23T04:32:58.895Z",
   "stats": {
     "feeds": 2,
     "articles": 20
