@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-24T04:30:25.960Z"
+      "lastFetched": "2026-09-24T11:34:11.412Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-24T04:30:46.106Z"
+      "lastFetched": "2026-09-24T11:34:17.904Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-        "link": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
-        "description": "<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826059\">https://news.ycombinator.com/item?id=49826059</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 24 Sep 2026 03:53:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49826059"
+        "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+        "link": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+        "description": "<p>Article URL: <a href=\"https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/\">https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828409\">https://news.ycombinator.com/item?id=49828409</a></p>\n<p>Points: 64</p>\n<p># Comments: 19</p>",
+        "pubDate": "Thu, 24 Sep 2026 09:52:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49828409"
+      },
+      {
+        "title": "Nokia Design Archive (2025)",
+        "link": "https://nokiadesignarchive.aalto.fi/index.html",
+        "description": "<p>Article URL: <a href=\"https://nokiadesignarchive.aalto.fi/index.html\">https://nokiadesignarchive.aalto.fi/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828385\">https://news.ycombinator.com/item?id=49828385</a></p>\n<p>Points: 65</p>\n<p># Comments: 23</p>",
+        "pubDate": "Thu, 24 Sep 2026 09:49:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49828385"
+      },
+      {
+        "title": "Looks promising for document editing with your agent",
+        "link": "https://www.paperinstruments.com/blog/introducing-paper-office",
+        "description": "<p>Article URL: <a href=\"https://www.paperinstruments.com/blog/introducing-paper-office\">https://www.paperinstruments.com/blog/introducing-paper-office</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828177\">https://news.ycombinator.com/item?id=49828177</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 24 Sep 2026 09:19:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49828177"
+      },
+      {
+        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+        "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49827794\">https://news.ycombinator.com/item?id=49827794</a></p>\n<p>Points: 190</p>\n<p># Comments: 73</p>",
+        "pubDate": "Thu, 24 Sep 2026 08:23:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49827794"
+      },
+      {
+        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "link": "https://transluce.org/agent-activity",
+        "description": "<p>Article URL: <a href=\"https://transluce.org/agent-activity\">https://transluce.org/agent-activity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826565\">https://news.ycombinator.com/item?id=49826565</a></p>\n<p>Points: 147</p>\n<p># Comments: 118</p>",
+        "pubDate": "Thu, 24 Sep 2026 05:21:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49826565"
+      },
+      {
+        "title": "Contrastive Language Models",
+        "link": "https://contrastive-lm.notion.site/",
+        "description": "<p>Article URL: <a href=\"https://contrastive-lm.notion.site/\">https://contrastive-lm.notion.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826221\">https://news.ycombinator.com/item?id=49826221</a></p>\n<p>Points: 85</p>\n<p># Comments: 18</p>",
+        "pubDate": "Thu, 24 Sep 2026 04:20:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49826221"
       },
       {
         "title": "Ideas on modernizing the open-source desktop",
         "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825642\">https://news.ycombinator.com/item?id=49825642</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825642\">https://news.ycombinator.com/item?id=49825642</a></p>\n<p>Points: 162</p>\n<p># Comments: 163</p>",
         "pubDate": "Thu, 24 Sep 2026 02:52:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=49825642"
       },
       {
-        "title": "Australia says OpenAI agent hacked into government website",
-        "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-        "description": "<p>Article URL: <a href=\"https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825024\">https://news.ycombinator.com/item?id=49825024</a></p>\n<p>Points: 58</p>\n<p># Comments: 38</p>",
-        "pubDate": "Thu, 24 Sep 2026 01:24:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49825024"
-      },
-      {
-        "title": "Liquid Network Security Incident Assessment",
-        "link": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
-        "description": "<p>Article URL: <a href=\"https://blog.blockstream.com/liquid-network-security-incident-assessment/\">https://blog.blockstream.com/liquid-network-security-incident-assessment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824978\">https://news.ycombinator.com/item?id=49824978</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Thu, 24 Sep 2026 01:18:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49824978"
-      },
-      {
-        "title": "FLAWED's Flaws and What This Means for Industry Research",
-        "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-        "description": "<p>Article URL: <a href=\"https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824969\">https://news.ycombinator.com/item?id=49824969</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-        "pubDate": "Thu, 24 Sep 2026 01:16:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49824969"
+        "title": "OpenAI agent hacked Australian government website, PM says",
+        "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cvgl73pxgndwt\">https://www.bbc.com/news/live/cvgl73pxgndwt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825580\">https://news.ycombinator.com/item?id=49825580</a></p>\n<p>Points: 84</p>\n<p># Comments: 44</p>",
+        "pubDate": "Thu, 24 Sep 2026 02:44:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49825580"
       },
       {
         "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
         "link": "https://github.com/nestrilabs/virtio-nvgpu",
-        "description": "<p>Article URL: <a href=\"https://github.com/nestrilabs/virtio-nvgpu\">https://github.com/nestrilabs/virtio-nvgpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824864\">https://news.ycombinator.com/item?id=49824864</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/nestrilabs/virtio-nvgpu\">https://github.com/nestrilabs/virtio-nvgpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824864\">https://news.ycombinator.com/item?id=49824864</a></p>\n<p>Points: 108</p>\n<p># Comments: 46</p>",
         "pubDate": "Thu, 24 Sep 2026 01:02:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49824864"
       },
       {
         "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
         "link": "https://carbon.ms/self-hosted",
-        "description": "<p>Article URL: <a href=\"https://carbon.ms/self-hosted\">https://carbon.ms/self-hosted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824715\">https://news.ycombinator.com/item?id=49824715</a></p>\n<p>Points: 14</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://carbon.ms/self-hosted\">https://carbon.ms/self-hosted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824715\">https://news.ycombinator.com/item?id=49824715</a></p>\n<p>Points: 39</p>\n<p># Comments: 17</p>",
         "pubDate": "Thu, 24 Sep 2026 00:45:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49824715"
       },
       {
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "description": "<p>Article URL: <a href=\"https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign\">https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824686\">https://news.ycombinator.com/item?id=49824686</a></p>\n<p>Points: 140</p>\n<p># Comments: 118</p>",
-        "pubDate": "Thu, 24 Sep 2026 00:41:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49824686"
-      },
-      {
         "title": "Meta VR Glasses",
         "link": "https://www.meta.com/vr-glasses/",
-        "description": "<p>Article URL: <a href=\"https://www.meta.com/vr-glasses/\">https://www.meta.com/vr-glasses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824268\">https://news.ycombinator.com/item?id=49824268</a></p>\n<p>Points: 307</p>\n<p># Comments: 267</p>",
+        "description": "<p>Article URL: <a href=\"https://www.meta.com/vr-glasses/\">https://www.meta.com/vr-glasses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824268\">https://news.ycombinator.com/item?id=49824268</a></p>\n<p>Points: 419</p>\n<p># Comments: 369</p>",
         "pubDate": "Wed, 23 Sep 2026 23:47:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49824268"
       },
       {
         "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
         "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-        "description": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\">https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823664\">https://news.ycombinator.com/item?id=49823664</a></p>\n<p>Points: 96</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\">https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823664\">https://news.ycombinator.com/item?id=49823664</a></p>\n<p>Points: 197</p>\n<p># Comments: 24</p>",
         "pubDate": "Wed, 23 Sep 2026 22:45:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=49823664"
       },
       {
         "title": "Linux support is coming to Snapdragon X2 Series",
         "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823582\">https://news.ycombinator.com/item?id=49823582</a></p>\n<p>Points: 238</p>\n<p># Comments: 113</p>",
+        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823582\">https://news.ycombinator.com/item?id=49823582</a></p>\n<p>Points: 444</p>\n<p># Comments: 186</p>",
         "pubDate": "Wed, 23 Sep 2026 22:38:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49823582"
       },
       {
         "title": "Mercury 2.5 LLM hits 770 tokens per second",
         "link": "https://artificialanalysis.ai/models/mercury-2-5",
-        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/mercury-2-5\">https://artificialanalysis.ai/models/mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823348\">https://news.ycombinator.com/item?id=49823348</a></p>\n<p>Points: 73</p>\n<p># Comments: 44</p>",
+        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/mercury-2-5\">https://artificialanalysis.ai/models/mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823348\">https://news.ycombinator.com/item?id=49823348</a></p>\n<p>Points: 118</p>\n<p># Comments: 68</p>",
         "pubDate": "Wed, 23 Sep 2026 22:16:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=49823348"
       },
       {
-        "title": "We just shipped support for the ugliest part of HTTP: Vary",
-        "link": "https://blog.cloudflare.com/vary-support/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/vary-support/\">https://blog.cloudflare.com/vary-support/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823195\">https://news.ycombinator.com/item?id=49823195</a></p>\n<p>Points: 104</p>\n<p># Comments: 22</p>",
-        "pubDate": "Wed, 23 Sep 2026 22:03:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49823195"
-      },
-      {
         "title": "VSCode's SSH Agent Is Bananas (2025)",
         "link": "https://fly.io/blog/vscode-ssh-wtf/",
-        "description": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombinator.com/item?id=49822555</a></p>\n<p>Points: 157</p>\n<p># Comments: 99</p>",
+        "description": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombinator.com/item?id=49822555</a></p>\n<p>Points: 243</p>\n<p># Comments: 151</p>",
         "pubDate": "Wed, 23 Sep 2026 21:01:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49822555"
       },
       {
-        "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-        "link": "https://huggingface.co/apple/LensVLM-9B",
-        "description": "<p>Article URL: <a href=\"https://huggingface.co/apple/LensVLM-9B\">https://huggingface.co/apple/LensVLM-9B</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820496\">https://news.ycombinator.com/item?id=49820496</a></p>\n<p>Points: 63</p>\n<p># Comments: 7</p>",
-        "pubDate": "Wed, 23 Sep 2026 18:36:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49820496"
-      },
-      {
-        "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
-        "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-        "description": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/\">https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820136\">https://news.ycombinator.com/item?id=49820136</a></p>\n<p>Points: 51</p>\n<p># Comments: 15</p>",
-        "pubDate": "Wed, 23 Sep 2026 18:07:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49820136"
-      },
-      {
         "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
         "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 559</p>\n<p># Comments: 582</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 664</p>\n<p># Comments: 680</p>",
         "pubDate": "Wed, 23 Sep 2026 18:06:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49820134"
       },
       {
         "title": "A brief history of Windows scroll bar shortcuts",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\">https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820065\">https://news.ycombinator.com/item?id=49820065</a></p>\n<p>Points: 123</p>\n<p># Comments: 60</p>",
+        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\">https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820065\">https://news.ycombinator.com/item?id=49820065</a></p>\n<p>Points: 146</p>\n<p># Comments: 85</p>",
         "pubDate": "Wed, 23 Sep 2026 18:02:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49820065"
       },
       {
         "title": "Making Tailscale Faster",
         "link": "https://tailscale.com/blog/making-tailscale-faster",
-        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/making-tailscale-faster\">https://tailscale.com/blog/making-tailscale-faster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819880\">https://news.ycombinator.com/item?id=49819880</a></p>\n<p>Points: 109</p>\n<p># Comments: 43</p>",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/making-tailscale-faster\">https://tailscale.com/blog/making-tailscale-faster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819880\">https://news.ycombinator.com/item?id=49819880</a></p>\n<p>Points: 175</p>\n<p># Comments: 69</p>",
         "pubDate": "Wed, 23 Sep 2026 17:49:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49819880"
       },
       {
         "title": "Italian parliament votes for return to nuclear energy",
         "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\">https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819221\">https://news.ycombinator.com/item?id=49819221</a></p>\n<p>Points: 646</p>\n<p># Comments: 417</p>",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\">https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819221\">https://news.ycombinator.com/item?id=49819221</a></p>\n<p>Points: 807</p>\n<p># Comments: 639</p>",
         "pubDate": "Wed, 23 Sep 2026 17:06:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49819221"
+      },
+      {
+        "title": "Why 'What's Opera, Doc?' looks like that",
+        "link": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+        "description": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that\">https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817741\">https://news.ycombinator.com/item?id=49817741</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
+        "pubDate": "Wed, 23 Sep 2026 15:37:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49817741"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-24T04:30:46.106Z",
+  "lastUpdated": "2026-09-24T11:34:17.905Z",
   "stats": {
     "feeds": 2,
     "articles": 20
