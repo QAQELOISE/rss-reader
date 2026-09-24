@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-23T21:25:11.052Z"
+      "lastFetched": "2026-09-24T04:30:25.960Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-23T21:25:30.621Z"
+      "lastFetched": "2026-09-24T04:30:46.106Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "LensVLM-9B by Apple",
-        "link": "https://huggingface.co/papers/2605.07019",
-        "description": "<p>Article URL: <a href=\"https://huggingface.co/papers/2605.07019\">https://huggingface.co/papers/2605.07019</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822186\">https://news.ycombinator.com/item?id=49822186</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 23 Sep 2026 20:35:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49822186"
+        "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
+        "link": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
+        "description": "<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826059\">https://news.ycombinator.com/item?id=49826059</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 24 Sep 2026 03:53:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49826059"
       },
       {
-        "title": "Why Omarchy Exists",
-        "link": "https://mikael.pika.page/posts/why-omarchy-exists",
-        "description": "<p>Article URL: <a href=\"https://mikael.pika.page/posts/why-omarchy-exists\">https://mikael.pika.page/posts/why-omarchy-exists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822122\">https://news.ycombinator.com/item?id=49822122</a></p>\n<p>Points: 19</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 23 Sep 2026 20:31:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49822122"
+        "title": "Ideas on modernizing the open-source desktop",
+        "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825642\">https://news.ycombinator.com/item?id=49825642</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 24 Sep 2026 02:52:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49825642"
       },
       {
-        "title": "Once Claude can measure something, it can make it faster",
-        "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-        "description": "<p>Article URL: <a href=\"https://claude.dev/blog/how-we-made-claude-ai-faster/\">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49821196\">https://news.ycombinator.com/item?id=49821196</a></p>\n<p>Points: 86</p>\n<p># Comments: 55</p>",
-        "pubDate": "Wed, 23 Sep 2026 19:23:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49821196"
+        "title": "Australia says OpenAI agent hacked into government website",
+        "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+        "description": "<p>Article URL: <a href=\"https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825024\">https://news.ycombinator.com/item?id=49825024</a></p>\n<p>Points: 58</p>\n<p># Comments: 38</p>",
+        "pubDate": "Thu, 24 Sep 2026 01:24:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49825024"
       },
       {
-        "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-        "link": "https://www.forensicdbg.com",
-        "description": "<p>Hello HN!<p>I've spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods for understanding what was going on, and decided to build it into a much more effective debugging tool called ForensicDbg.<p>I built a modern interface to minimize the friction when debugging. All of the data shown to you is analyzed, interpreted, and presented to you clearly, so you can focus on what matters. Everything is interlinked so you can quickly and intuitivly navigate through the process space.<p>ForensicDbg comes with an MCP server which allows for agenic debugging. The work done to interpret and interlink your data also benefits AI tools. It removes the risk of hallucinations while building a stable foundation for them to work from without spending tokens.<p>If you want to try it out you can sign up and get a free beta license here: <a href=\"https://www.forensicdbg.com/beta\" rel=\"nofollow\">https://www.forensicdbg.com/beta</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49821086\">https://news.ycombinator.com/item?id=49821086</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 23 Sep 2026 19:15:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49821086"
+        "title": "Liquid Network Security Incident Assessment",
+        "link": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+        "description": "<p>Article URL: <a href=\"https://blog.blockstream.com/liquid-network-security-incident-assessment/\">https://blog.blockstream.com/liquid-network-security-incident-assessment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824978\">https://news.ycombinator.com/item?id=49824978</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 24 Sep 2026 01:18:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49824978"
+      },
+      {
+        "title": "FLAWED's Flaws and What This Means for Industry Research",
+        "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+        "description": "<p>Article URL: <a href=\"https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824969\">https://news.ycombinator.com/item?id=49824969</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 24 Sep 2026 01:16:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49824969"
+      },
+      {
+        "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+        "link": "https://github.com/nestrilabs/virtio-nvgpu",
+        "description": "<p>Article URL: <a href=\"https://github.com/nestrilabs/virtio-nvgpu\">https://github.com/nestrilabs/virtio-nvgpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824864\">https://news.ycombinator.com/item?id=49824864</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 24 Sep 2026 01:02:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49824864"
+      },
+      {
+        "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+        "link": "https://carbon.ms/self-hosted",
+        "description": "<p>Article URL: <a href=\"https://carbon.ms/self-hosted\">https://carbon.ms/self-hosted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824715\">https://news.ycombinator.com/item?id=49824715</a></p>\n<p>Points: 14</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 24 Sep 2026 00:45:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49824715"
+      },
+      {
+        "title": "Feds Target AI Critics as \"Foreign Agents\"",
+        "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+        "description": "<p>Article URL: <a href=\"https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign\">https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824686\">https://news.ycombinator.com/item?id=49824686</a></p>\n<p>Points: 140</p>\n<p># Comments: 118</p>",
+        "pubDate": "Thu, 24 Sep 2026 00:41:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49824686"
+      },
+      {
+        "title": "Meta VR Glasses",
+        "link": "https://www.meta.com/vr-glasses/",
+        "description": "<p>Article URL: <a href=\"https://www.meta.com/vr-glasses/\">https://www.meta.com/vr-glasses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824268\">https://news.ycombinator.com/item?id=49824268</a></p>\n<p>Points: 307</p>\n<p># Comments: 267</p>",
+        "pubDate": "Wed, 23 Sep 2026 23:47:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49824268"
+      },
+      {
+        "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+        "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+        "description": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\">https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823664\">https://news.ycombinator.com/item?id=49823664</a></p>\n<p>Points: 96</p>\n<p># Comments: 14</p>",
+        "pubDate": "Wed, 23 Sep 2026 22:45:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49823664"
+      },
+      {
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823582\">https://news.ycombinator.com/item?id=49823582</a></p>\n<p>Points: 238</p>\n<p># Comments: 113</p>",
+        "pubDate": "Wed, 23 Sep 2026 22:38:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49823582"
+      },
+      {
+        "title": "Mercury 2.5 LLM hits 770 tokens per second",
+        "link": "https://artificialanalysis.ai/models/mercury-2-5",
+        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/mercury-2-5\">https://artificialanalysis.ai/models/mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823348\">https://news.ycombinator.com/item?id=49823348</a></p>\n<p>Points: 73</p>\n<p># Comments: 44</p>",
+        "pubDate": "Wed, 23 Sep 2026 22:16:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49823348"
+      },
+      {
+        "title": "We just shipped support for the ugliest part of HTTP: Vary",
+        "link": "https://blog.cloudflare.com/vary-support/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/vary-support/\">https://blog.cloudflare.com/vary-support/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823195\">https://news.ycombinator.com/item?id=49823195</a></p>\n<p>Points: 104</p>\n<p># Comments: 22</p>",
+        "pubDate": "Wed, 23 Sep 2026 22:03:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49823195"
+      },
+      {
+        "title": "VSCode's SSH Agent Is Bananas (2025)",
+        "link": "https://fly.io/blog/vscode-ssh-wtf/",
+        "description": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombinator.com/item?id=49822555</a></p>\n<p>Points: 157</p>\n<p># Comments: 99</p>",
+        "pubDate": "Wed, 23 Sep 2026 21:01:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49822555"
+      },
+      {
+        "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+        "link": "https://huggingface.co/apple/LensVLM-9B",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/apple/LensVLM-9B\">https://huggingface.co/apple/LensVLM-9B</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820496\">https://news.ycombinator.com/item?id=49820496</a></p>\n<p>Points: 63</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 23 Sep 2026 18:36:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49820496"
       },
       {
         "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
         "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-        "description": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/\">https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820136\">https://news.ycombinator.com/item?id=49820136</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/\">https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820136\">https://news.ycombinator.com/item?id=49820136</a></p>\n<p>Points: 51</p>\n<p># Comments: 15</p>",
         "pubDate": "Wed, 23 Sep 2026 18:07:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49820136"
       },
       {
         "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
         "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 289</p>\n<p># Comments: 280</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 559</p>\n<p># Comments: 582</p>",
         "pubDate": "Wed, 23 Sep 2026 18:06:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49820134"
       },
       {
         "title": "A brief history of Windows scroll bar shortcuts",
         "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\">https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820065\">https://news.ycombinator.com/item?id=49820065</a></p>\n<p>Points: 64</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\">https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820065\">https://news.ycombinator.com/item?id=49820065</a></p>\n<p>Points: 123</p>\n<p># Comments: 60</p>",
         "pubDate": "Wed, 23 Sep 2026 18:02:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49820065"
       },
       {
-        "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-        "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c32l8y8kygdvo\">https://www.bbc.com/news/articles/c32l8y8kygdvo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819814\">https://news.ycombinator.com/item?id=49819814</a></p>\n<p>Points: 98</p>\n<p># Comments: 154</p>",
-        "pubDate": "Wed, 23 Sep 2026 17:45:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49819814"
+        "title": "Making Tailscale Faster",
+        "link": "https://tailscale.com/blog/making-tailscale-faster",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/making-tailscale-faster\">https://tailscale.com/blog/making-tailscale-faster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819880\">https://news.ycombinator.com/item?id=49819880</a></p>\n<p>Points: 109</p>\n<p># Comments: 43</p>",
+        "pubDate": "Wed, 23 Sep 2026 17:49:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49819880"
       },
       {
         "title": "Italian parliament votes for return to nuclear energy",
         "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\">https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819221\">https://news.ycombinator.com/item?id=49819221</a></p>\n<p>Points: 377</p>\n<p># Comments: 216</p>",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\">https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819221\">https://news.ycombinator.com/item?id=49819221</a></p>\n<p>Points: 646</p>\n<p># Comments: 417</p>",
         "pubDate": "Wed, 23 Sep 2026 17:06:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49819221"
-      },
-      {
-        "title": "28% of job postings on company career sites have been open over 90 days",
-        "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
-        "description": "<p>Article URL: <a href=\"https://unlisted.careers/ghost-jobs/report/2026-09\">https://unlisted.careers/ghost-jobs/report/2026-09</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818698\">https://news.ycombinator.com/item?id=49818698</a></p>\n<p>Points: 170</p>\n<p># Comments: 255</p>",
-        "pubDate": "Wed, 23 Sep 2026 16:35:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49818698"
-      },
-      {
-        "title": "Gemini 3.8 text-to-speech",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817615\">https://news.ycombinator.com/item?id=49817615</a></p>\n<p>Points: 200</p>\n<p># Comments: 104</p>",
-        "pubDate": "Wed, 23 Sep 2026 15:29:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49817615"
-      },
-      {
-        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-        "description": "<p>Article URL: <a href=\"https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol\">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817524\">https://news.ycombinator.com/item?id=49817524</a></p>\n<p>Points: 97</p>\n<p># Comments: 34</p>",
-        "pubDate": "Wed, 23 Sep 2026 15:23:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49817524"
-      },
-      {
-        "title": "Fixing the Portobello Police Station Clock",
-        "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-        "description": "<p>Article URL: <a href=\"https://pointinthecloud.com/2026-04-11-211700.html\">https://pointinthecloud.com/2026-04-11-211700.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817469\">https://news.ycombinator.com/item?id=49817469</a></p>\n<p>Points: 326</p>\n<p># Comments: 73</p>",
-        "pubDate": "Wed, 23 Sep 2026 15:18:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49817469"
-      },
-      {
-        "title": "GPT-6 Astra has gained the ability to drive a car",
-        "link": "https://drivingbench.com/",
-        "description": "<p>Article URL: <a href=\"https://drivingbench.com/\">https://drivingbench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817404\">https://news.ycombinator.com/item?id=49817404</a></p>\n<p>Points: 251</p>\n<p># Comments: 215</p>",
-        "pubDate": "Wed, 23 Sep 2026 15:14:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49817404"
-      },
-      {
-        "title": "Strands Harness",
-        "link": "https://strandsagents.com/blog/introducing-strands-harness/",
-        "description": "<p>Article URL: <a href=\"https://strandsagents.com/blog/introducing-strands-harness/\">https://strandsagents.com/blog/introducing-strands-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817289\">https://news.ycombinator.com/item?id=49817289</a></p>\n<p>Points: 120</p>\n<p># Comments: 88</p>",
-        "pubDate": "Wed, 23 Sep 2026 15:05:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49817289"
-      },
-      {
-        "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-        "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-        "description": "<p>Article URL: <a href=\"https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/\">https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49816374\">https://news.ycombinator.com/item?id=49816374</a></p>\n<p>Points: 233</p>\n<p># Comments: 126</p>",
-        "pubDate": "Wed, 23 Sep 2026 14:04:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49816374"
-      },
-      {
-        "title": "Stripe's Knowledge AI Platform",
-        "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-        "description": "<p>Article URL: <a href=\"https://stripe.dev/blog/meet-stripes-knowledge-ai-platform\">https://stripe.dev/blog/meet-stripes-knowledge-ai-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49815982\">https://news.ycombinator.com/item?id=49815982</a></p>\n<p>Points: 153</p>\n<p># Comments: 97</p>",
-        "pubDate": "Wed, 23 Sep 2026 13:38:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49815982"
-      },
-      {
-        "title": "I don't want the details",
-        "link": "https://michaelheap.com/i-dont-want-the-details/",
-        "description": "<p>Article URL: <a href=\"https://michaelheap.com/i-dont-want-the-details/\">https://michaelheap.com/i-dont-want-the-details/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49815466\">https://news.ycombinator.com/item?id=49815466</a></p>\n<p>Points: 297</p>\n<p># Comments: 175</p>",
-        "pubDate": "Wed, 23 Sep 2026 13:04:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49815466"
-      },
-      {
-        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-        "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-        "description": "<p>Article URL: <a href=\"https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/\">https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49814947\">https://news.ycombinator.com/item?id=49814947</a></p>\n<p>Points: 422</p>\n<p># Comments: 236</p>",
-        "pubDate": "Wed, 23 Sep 2026 12:15:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49814947"
-      },
-      {
-        "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-        "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-        "description": "<p>Article URL: <a href=\"https://questdb.com/careers/pre-sales-engineer-north-america/\">https://questdb.com/careers/pre-sales-engineer-north-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49814780\">https://news.ycombinator.com/item?id=49814780</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 23 Sep 2026 12:01:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49814780"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-23T21:25:30.621Z",
+  "lastUpdated": "2026-09-24T04:30:46.106Z",
   "stats": {
     "feeds": 2,
     "articles": 20
