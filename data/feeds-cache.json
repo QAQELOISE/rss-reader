@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-26T11:14:19.658Z"
+      "lastFetched": "2026-09-26T16:15:54.267Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-26T11:14:25.745Z"
+      "lastFetched": "2026-09-26T16:16:08.961Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Some Supabase customers are publicly exposing reams of people's data to the web",
+        "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/\">https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857595\">https://news.ycombinator.com/item?id=49857595</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 26 Sep 2026 15:42:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49857595"
+      },
+      {
+        "title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/\">https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857572\">https://news.ycombinator.com/item?id=49857572</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 26 Sep 2026 15:40:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49857572"
+      },
+      {
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "link": "https://github.com/brumar/chess-postmortem-skills",
+        "description": "<p>Hello HN,<p>It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.<p>The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too.<p>A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like \"analyze my last lichess game\", and gives me a commented video of the game. The result is not perfect and it takes time to deliver (an hour or so), but for me it is a much more pleasant and memorable experience than clicking around Stockfish branches. It burns tokens, so make sure you have enough quota. From the session logs, the last analyzed game would have cost around $15 at API prices.<p>The fact that it reflects on my own thinking during the game makes it interesting from a teaching point of view, so I thought it was worth sharing.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857528\">https://news.ycombinator.com/item?id=49857528</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 26 Sep 2026 15:34:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49857528"
+      },
+      {
+        "title": "Plunging test scores are a slow-moving catastrophe",
+        "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe\">https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857442\">https://news.ycombinator.com/item?id=49857442</a></p>\n<p>Points: 43</p>\n<p># Comments: 43</p>",
+        "pubDate": "Sat, 26 Sep 2026 15:24:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49857442"
+      },
+      {
+        "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+        "link": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+        "description": "<p>Article URL: <a href=\"https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/\">https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857323\">https://news.ycombinator.com/item?id=49857323</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 26 Sep 2026 15:10:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49857323"
+      },
+      {
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "description": "<p>Article URL: <a href=\"https://gultsch.de/posts/breaking-up-with-google-play/\">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49855315\">https://news.ycombinator.com/item?id=49855315</a></p>\n<p>Points: 396</p>\n<p># Comments: 148</p>",
+        "pubDate": "Sat, 26 Sep 2026 10:55:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49855315"
+      },
+      {
         "title": "Fifteen years later, the Apple Cards origin story",
         "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-        "description": "<p>Article URL: <a href=\"https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story\">https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854693\">https://news.ycombinator.com/item?id=49854693</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story\">https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854693\">https://news.ycombinator.com/item?id=49854693</a></p>\n<p>Points: 193</p>\n<p># Comments: 27</p>",
         "pubDate": "Sat, 26 Sep 2026 09:13:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49854693"
       },
       {
         "title": "Floci: Locally emulating any cloud service",
         "link": "https://floci.io",
-        "description": "<p>Article URL: <a href=\"https://floci.io\">https://floci.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854416\">https://news.ycombinator.com/item?id=49854416</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://floci.io\">https://floci.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854416\">https://news.ycombinator.com/item?id=49854416</a></p>\n<p>Points: 97</p>\n<p># Comments: 17</p>",
         "pubDate": "Sat, 26 Sep 2026 08:31:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49854416"
       },
       {
-        "title": "The far side of the Moon provides clues to a previous magnetic field",
-        "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
-        "description": "<p>Article URL: <a href=\"https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html\">https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854216\">https://news.ycombinator.com/item?id=49854216</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 26 Sep 2026 07:49:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49854216"
-      },
-      {
         "title": "Is your Postgres migration safe or not safe?",
         "link": "https://safenotsafe.dev/",
-        "description": "<p>Article URL: <a href=\"https://safenotsafe.dev/\">https://safenotsafe.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854161\">https://news.ycombinator.com/item?id=49854161</a></p>\n<p>Points: 35</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://safenotsafe.dev/\">https://safenotsafe.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854161\">https://news.ycombinator.com/item?id=49854161</a></p>\n<p>Points: 90</p>\n<p># Comments: 29</p>",
         "pubDate": "Sat, 26 Sep 2026 07:33:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=49854161"
       },
       {
-        "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
-        "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol\">https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49853918\">https://news.ycombinator.com/item?id=49853918</a></p>\n<p>Points: 31</p>\n<p># Comments: 19</p>",
-        "pubDate": "Sat, 26 Sep 2026 06:51:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49853918"
-      },
-      {
         "title": "A single function Jev-like wrapper for LLMs, including vision models",
         "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "description": "<p>Article URL: <a href=\"http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html\">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49853175\">https://news.ycombinator.com/item?id=49853175</a></p>\n<p>Points: 85</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html\">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49853175\">https://news.ycombinator.com/item?id=49853175</a></p>\n<p>Points: 114</p>\n<p># Comments: 31</p>",
         "pubDate": "Sat, 26 Sep 2026 04:20:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=49853175"
       },
       {
         "title": "We're gonna need a lot more mathematicians",
         "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/\">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852717\">https://news.ycombinator.com/item?id=49852717</a></p>\n<p>Points: 153</p>\n<p># Comments: 185</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/\">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852717\">https://news.ycombinator.com/item?id=49852717</a></p>\n<p>Points: 252</p>\n<p># Comments: 350</p>",
         "pubDate": "Sat, 26 Sep 2026 02:46:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49852717"
       },
       {
-        "title": "HomelabFest will be in St. Louis in September 2027",
-        "link": "https://www.homelabfest.org",
-        "description": "<p>Article URL: <a href=\"https://www.homelabfest.org\">https://www.homelabfest.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852462\">https://news.ycombinator.com/item?id=49852462</a></p>\n<p>Points: 33</p>\n<p># Comments: 17</p>",
-        "pubDate": "Sat, 26 Sep 2026 02:03:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49852462"
-      },
-      {
         "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
         "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-        "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\">https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852302\">https://news.ycombinator.com/item?id=49852302</a></p>\n<p>Points: 244</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\">https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852302\">https://news.ycombinator.com/item?id=49852302</a></p>\n<p>Points: 329</p>\n<p># Comments: 90</p>",
         "pubDate": "Sat, 26 Sep 2026 01:36:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49852302"
       },
       {
-        "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-        "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-        "description": "<p>Article URL: <a href=\"https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\">https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852065\">https://news.ycombinator.com/item?id=49852065</a></p>\n<p>Points: 183</p>\n<p># Comments: 83</p>",
-        "pubDate": "Sat, 26 Sep 2026 00:59:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49852065"
-      },
-      {
-        "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-        "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/serotonin-stress-smart-contact-lens\">https://spectrum.ieee.org/serotonin-stress-smart-contact-lens</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49850781\">https://news.ycombinator.com/item?id=49850781</a></p>\n<p>Points: 46</p>\n<p># Comments: 12</p>",
-        "pubDate": "Fri, 25 Sep 2026 22:28:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49850781"
-      },
-      {
         "title": "What even is an OS now?",
         "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-        "description": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49850305\">https://news.ycombinator.com/item?id=49850305</a></p>\n<p>Points: 207</p>\n<p># Comments: 287</p>",
+        "description": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49850305\">https://news.ycombinator.com/item?id=49850305</a></p>\n<p>Points: 248</p>\n<p># Comments: 368</p>",
         "pubDate": "Fri, 25 Sep 2026 21:36:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49850305"
       },
       {
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "link": "https://swarmtraces.org/",
-        "description": "<p>Article URL: <a href=\"https://swarmtraces.org/\">https://swarmtraces.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849985\">https://news.ycombinator.com/item?id=49849985</a></p>\n<p>Points: 507</p>\n<p># Comments: 311</p>",
+        "description": "<p>Article URL: <a href=\"https://swarmtraces.org/\">https://swarmtraces.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849985\">https://news.ycombinator.com/item?id=49849985</a></p>\n<p>Points: 608</p>\n<p># Comments: 388</p>",
         "pubDate": "Fri, 25 Sep 2026 21:09:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49849985"
       },
       {
-        "title": "Excel now supports multiple values in a single cell",
-        "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-        "description": "<p>Related: <a href=\"https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756\" rel=\"nofollow\">https://techcommunity.microsoft.com/blog/excelblog/excel-now...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849832\">https://news.ycombinator.com/item?id=49849832</a></p>\n<p>Points: 195</p>\n<p># Comments: 141</p>",
-        "pubDate": "Fri, 25 Sep 2026 20:55:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49849832"
+        "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+        "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+        "description": "<p>Article URL: <a href=\"https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html\">https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849820\">https://news.ycombinator.com/item?id=49849820</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 25 Sep 2026 20:53:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49849820"
       },
       {
         "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
         "link": "https://news.ycombinator.com/item?id=49848955",
-        "description": "<p>Do you currently work with or know anyone who is still using:<p>* dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes?<p>* CNC mills/spectrometers/microscopes/other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)?<p>* Anything with a parallel port dongle?<p>If so, I'd be very interested in hearing your experience here, or feel free to send me an email at the address in my profile. I'm not trying to sell anything, just doing some research for an idea around keeping these going on modern hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49848955\">https://news.ycombinator.com/item?id=49848955</a></p>\n<p>Points: 133</p>\n<p># Comments: 129</p>",
+        "description": "<p>Do you currently work with or know anyone who is still using:<p>* dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes?<p>* CNC mills/spectrometers/microscopes/other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)?<p>* Anything with a parallel port dongle?<p>If so, I'd be very interested in hearing your experience here, or feel free to send me an email at the address in my profile. I'm not trying to sell anything, just doing some research for an idea around keeping these going on modern hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49848955\">https://news.ycombinator.com/item?id=49848955</a></p>\n<p>Points: 191</p>\n<p># Comments: 192</p>",
         "pubDate": "Fri, 25 Sep 2026 19:37:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=49848955"
       },
       {
         "title": "Ollaya – Ollama for open-source, Jev-style decision models",
         "link": "https://ollaya.dev/",
-        "description": "<p>Article URL: <a href=\"https://ollaya.dev/\">https://ollaya.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49848269\">https://news.ycombinator.com/item?id=49848269</a></p>\n<p>Points: 473</p>\n<p># Comments: 117</p>",
+        "description": "<p>Article URL: <a href=\"https://ollaya.dev/\">https://ollaya.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49848269\">https://news.ycombinator.com/item?id=49848269</a></p>\n<p>Points: 533</p>\n<p># Comments: 130</p>",
         "pubDate": "Fri, 25 Sep 2026 18:33:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=49848269"
       },
       {
         "title": "Gravity seems holographic. What does that mean for reality?",
         "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/\">https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845998\">https://news.ycombinator.com/item?id=49845998</a></p>\n<p>Points: 208</p>\n<p># Comments: 174</p>",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/\">https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845998\">https://news.ycombinator.com/item?id=49845998</a></p>\n<p>Points: 251</p>\n<p># Comments: 194</p>",
         "pubDate": "Fri, 25 Sep 2026 15:31:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49845998"
       },
       {
-        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html\">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845977\">https://news.ycombinator.com/item?id=49845977</a></p>\n<p>Points: 448</p>\n<p># Comments: 778</p>",
-        "pubDate": "Fri, 25 Sep 2026 15:29:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49845977"
-      },
-      {
         "title": "Show HN: Jev Plays Pokémon Red",
         "link": "https://jev-pokemon.vercel.app/",
-        "description": "<p>Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.<p>I've spent endless hours playing this game as a child so building this was a ton of fun.<p>I open sourced everything in case you want to hack on it yourself here: <a href=\"https://github.com/christianmat/jev-pokemon\" rel=\"nofollow\">https://github.com/christianmat/jev-pokemon</a><p>The game is being streamed live including the tokens and cost - hopefully we get all the badges and don't get stuck in a cave :)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845172\">https://news.ycombinator.com/item?id=49845172</a></p>\n<p>Points: 208</p>\n<p># Comments: 85</p>",
+        "description": "<p>Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.<p>I've spent endless hours playing this game as a child so building this was a ton of fun.<p>I open sourced everything in case you want to hack on it yourself here: <a href=\"https://github.com/christianmat/jev-pokemon\" rel=\"nofollow\">https://github.com/christianmat/jev-pokemon</a><p>The game is being streamed live including the tokens and cost - hopefully we get all the badges and don't get stuck in a cave :)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845172\">https://news.ycombinator.com/item?id=49845172</a></p>\n<p>Points: 231</p>\n<p># Comments: 93</p>",
         "pubDate": "Fri, 25 Sep 2026 14:28:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=49845172"
       },
       {
-        "title": "First Principles Thinking",
-        "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-        "description": "<p>Article URL: <a href=\"https://sunilsadasivan.com/writing/first-principles-thinking/\">https://sunilsadasivan.com/writing/first-principles-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49844736\">https://news.ycombinator.com/item?id=49844736</a></p>\n<p>Points: 266</p>\n<p># Comments: 112</p>",
-        "pubDate": "Fri, 25 Sep 2026 13:55:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49844736"
+        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "link": "https://github.com/InfinityLoop1308/PipePipe",
+        "description": "<p>Article URL: <a href=\"https://github.com/InfinityLoop1308/PipePipe\">https://github.com/InfinityLoop1308/PipePipe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842764\">https://news.ycombinator.com/item?id=49842764</a></p>\n<p>Points: 20</p>\n<p># Comments: 16</p>",
+        "pubDate": "Fri, 25 Sep 2026 10:55:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49842764"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-26T11:14:25.745Z",
+  "lastUpdated": "2026-09-26T16:16:08.961Z",
   "stats": {
     "feeds": 2,
     "articles": 20
