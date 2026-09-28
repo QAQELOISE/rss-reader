@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-28T05:08:39.988Z"
+      "lastFetched": "2026-09-28T13:40:08.597Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-28T05:08:52.755Z"
+      "lastFetched": "2026-09-28T13:40:28.552Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "title": "Does Reddit have an astroturfing problem? What the data suggests",
+        "link": "https://www.petervijeh.com/projects/reddit-astroturf",
+        "description": "<p>Article URL: <a href=\"https://www.petervijeh.com/projects/reddit-astroturf\">https://www.petervijeh.com/projects/reddit-astroturf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49877678\">https://news.ycombinator.com/item?id=49877678</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 28 Sep 2026 13:30:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49877678"
+      },
+      {
+        "title": "Show HN: Hntui – A TUI for Hacker News",
+        "link": "https://github.com/ahmd-sh/hntui",
+        "description": "<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49876760\">https://news.ycombinator.com/item?id=49876760</a></p>\n<p>Points: 32</p>\n<p># Comments: 13</p>",
+        "pubDate": "Mon, 28 Sep 2026 12:11:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49876760"
+      },
+      {
+        "title": "The smart home graveyard is getting crowded",
+        "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+        "description": "<p>Article URL: <a href=\"https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard\">https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49876373\">https://news.ycombinator.com/item?id=49876373</a></p>\n<p>Points: 32</p>\n<p># Comments: 27</p>",
+        "pubDate": "Mon, 28 Sep 2026 11:27:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49876373"
+      },
+      {
+        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+        "link": "https://git.mills.io/prologic/parley",
+        "description": "<p>Article URL: <a href=\"https://git.mills.io/prologic/parley\">https://git.mills.io/prologic/parley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49875913\">https://news.ycombinator.com/item?id=49875913</a></p>\n<p>Points: 130</p>\n<p># Comments: 55</p>",
+        "pubDate": "Mon, 28 Sep 2026 10:30:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49875913"
+      },
+      {
+        "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+        "link": "https://github.com/seamusc/papermono-shopping-list",
+        "description": "<p>Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink\ntouchscreen), synced with a phone web app over Wi-Fi. Works offline,\n~2,400 lines of C++.<p>This is a great wee device! BLE, Wi-Fi and LoRa on one board makes it flexible\nfor way more than a shopping list, this is just what I built first. This\nfirmware only uses Wi-Fi.<p>Fully vibe-coded with Claude Code, I didn't hand-write this. I wanted to see\nhow Claude would get on with building something useful for a new hardware device.<p>As it's stuck to the fridge it's easy for the family to use, and it's already being used day to day which I'll admit is a first for a home built project like this</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49875801\">https://news.ycombinator.com/item?id=49875801</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 28 Sep 2026 10:14:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49875801"
+      },
+      {
+        "title": "SpaceX's Starship launching to orbit for first time ever today",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+        "description": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live\">https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49875411\">https://news.ycombinator.com/item?id=49875411</a></p>\n<p>Points: 196</p>\n<p># Comments: 114</p>",
+        "pubDate": "Mon, 28 Sep 2026 09:15:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49875411"
+      },
+      {
+        "title": "Three Days in August: What a DDoS Attack Exposed in Our Network",
+        "link": "https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/",
+        "description": "<p>Article URL: <a href=\"https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/\">https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49875401\">https://news.ycombinator.com/item?id=49875401</a></p>\n<p>Points: 12</p>\n<p># Comments: 8</p>",
+        "pubDate": "Mon, 28 Sep 2026 09:13:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49875401"
+      },
+      {
+        "title": "AI companies in race to demonstrate their model most threatening to humanity",
+        "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+        "description": "<p>Article URL: <a href=\"https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/\">https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49875148\">https://news.ycombinator.com/item?id=49875148</a></p>\n<p>Points: 282</p>\n<p># Comments: 199</p>",
+        "pubDate": "Mon, 28 Sep 2026 08:35:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49875148"
+      },
+      {
+        "title": "37,500 border drawings: a map of the world as people remember it",
+        "link": "https://www.habibicode.org/thedrawnworld",
+        "description": "<p>Article URL: <a href=\"https://www.habibicode.org/thedrawnworld\">https://www.habibicode.org/thedrawnworld</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49875142\">https://news.ycombinator.com/item?id=49875142</a></p>\n<p>Points: 73</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 28 Sep 2026 08:35:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49875142"
+      },
+      {
+        "title": "Prompting Claude Opus 5.5",
+        "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "description": "<p>Article URL: <a href=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5\">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49874728\">https://news.ycombinator.com/item?id=49874728</a></p>\n<p>Points: 157</p>\n<p># Comments: 164</p>",
+        "pubDate": "Mon, 28 Sep 2026 07:33:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49874728"
+      },
+      {
+        "title": "Made by Mechanical Means",
+        "link": "https://felixrieseberg.com/made-by-mechanical-means/",
+        "description": "<p>Article URL: <a href=\"https://felixrieseberg.com/made-by-mechanical-means/\">https://felixrieseberg.com/made-by-mechanical-means/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49874551\">https://news.ycombinator.com/item?id=49874551</a></p>\n<p>Points: 48</p>\n<p># Comments: 14</p>",
+        "pubDate": "Mon, 28 Sep 2026 07:06:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49874551"
+      },
+      {
+        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
         "link": "https://arxiv.org/abs/2110.01834",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2110.01834\">https://arxiv.org/abs/2110.01834</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49873241\">https://news.ycombinator.com/item?id=49873241</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2110.01834\">https://arxiv.org/abs/2110.01834</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49873241\">https://news.ycombinator.com/item?id=49873241</a></p>\n<p>Points: 131</p>\n<p># Comments: 46</p>",
         "pubDate": "Mon, 28 Sep 2026 03:23:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49873241"
       },
       {
-        "title": "Microsoft drops Copilot+ branding from its new laptops",
-        "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding\">https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872980\">https://news.ycombinator.com/item?id=49872980</a></p>\n<p>Points: 27</p>\n<p># Comments: 12</p>",
-        "pubDate": "Mon, 28 Sep 2026 02:46:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49872980"
-      },
-      {
         "title": "Nissan's third generation e-POWER powertrain",
         "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-        "description": "<p>Article URL: <a href=\"https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\">https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872883\">https://news.ycombinator.com/item?id=49872883</a></p>\n<p>Points: 25</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\">https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872883\">https://news.ycombinator.com/item?id=49872883</a></p>\n<p>Points: 100</p>\n<p># Comments: 166</p>",
         "pubDate": "Mon, 28 Sep 2026 02:31:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49872883"
       },
       {
-        "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-        "link": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-        "description": "<p>Article URL: <a href=\"https://efraingaray.com/en/blog/tabpfn-vs-xgboost/\">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872864\">https://news.ycombinator.com/item?id=49872864</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 28 Sep 2026 02:27:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49872864"
-      },
-      {
         "title": "Owed a billion dollars in Nvidia stock",
         "link": "https://colo.to/nvidia-stock-narrative.html",
-        "description": "<p>Article URL: <a href=\"https://colo.to/nvidia-stock-narrative.html\">https://colo.to/nvidia-stock-narrative.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872723\">https://news.ycombinator.com/item?id=49872723</a></p>\n<p>Points: 298</p>\n<p># Comments: 147</p>",
+        "description": "<p>Article URL: <a href=\"https://colo.to/nvidia-stock-narrative.html\">https://colo.to/nvidia-stock-narrative.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872723\">https://news.ycombinator.com/item?id=49872723</a></p>\n<p>Points: 856</p>\n<p># Comments: 363</p>",
         "pubDate": "Mon, 28 Sep 2026 02:05:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=49872723"
       },
       {
-        "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-        "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html\">https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872522\">https://news.ycombinator.com/item?id=49872522</a></p>\n<p>Points: 87</p>\n<p># Comments: 70</p>",
-        "pubDate": "Mon, 28 Sep 2026 01:30:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49872522"
-      },
-      {
-        "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
-        "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products\">https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872497\">https://news.ycombinator.com/item?id=49872497</a></p>\n<p>Points: 68</p>\n<p># Comments: 21</p>",
-        "pubDate": "Mon, 28 Sep 2026 01:27:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49872497"
-      },
-      {
-        "title": "Was Silent Reading Unusual During Augustine's Time?",
-        "link": "https://www.historyofinformation.com/detail.php?entryid=4341",
-        "description": "<p>Article URL: <a href=\"https://www.historyofinformation.com/detail.php?entryid=4341\">https://www.historyofinformation.com/detail.php?entryid=4341</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872474\">https://news.ycombinator.com/item?id=49872474</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 28 Sep 2026 01:22:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49872474"
-      },
-      {
         "title": "Lunar Terminator Paradox",
         "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-        "description": "<p>Article URL: <a href=\"https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870837\">https://news.ycombinator.com/item?id=49870837</a></p>\n<p>Points: 56</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870837\">https://news.ycombinator.com/item?id=49870837</a></p>\n<p>Points: 92</p>\n<p># Comments: 60</p>",
         "pubDate": "Sun, 27 Sep 2026 21:06:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49870837"
       },
       {
         "title": "When did Google get so weird?",
         "link": "https://sancho.bearblog.dev/google-weird/",
-        "description": "<p>Article URL: <a href=\"https://sancho.bearblog.dev/google-weird/\">https://sancho.bearblog.dev/google-weird/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870367\">https://news.ycombinator.com/item?id=49870367</a></p>\n<p>Points: 966</p>\n<p># Comments: 523</p>",
+        "description": "<p>Article URL: <a href=\"https://sancho.bearblog.dev/google-weird/\">https://sancho.bearblog.dev/google-weird/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870367\">https://news.ycombinator.com/item?id=49870367</a></p>\n<p>Points: 1484</p>\n<p># Comments: 793</p>",
         "pubDate": "Sun, 27 Sep 2026 20:12:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=49870367"
       },
       {
         "title": "Self-Hosting on the Dark Web",
         "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-        "description": "<p>Article URL: <a href=\"https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\">https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870295\">https://news.ycombinator.com/item?id=49870295</a></p>\n<p>Points: 101</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\">https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870295\">https://news.ycombinator.com/item?id=49870295</a></p>\n<p>Points: 260</p>\n<p># Comments: 95</p>",
         "pubDate": "Sun, 27 Sep 2026 20:03:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49870295"
       },
       {
         "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
         "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-        "description": "<p>Article URL: <a href=\"https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11\">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870070\">https://news.ycombinator.com/item?id=49870070</a></p>\n<p>Points: 94</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11\">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870070\">https://news.ycombinator.com/item?id=49870070</a></p>\n<p>Points: 158</p>\n<p># Comments: 46</p>",
         "pubDate": "Sun, 27 Sep 2026 19:37:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49870070"
       },
       {
         "title": "Imp is a full port of DSPy to the BEAM",
         "link": "https://github.com/deepfates/imp",
-        "description": "<p><a href=\"https://hex.pm/packages/imp\" rel=\"nofollow\">https://hex.pm/packages/imp</a><p><a href=\"https://dspy.ai/current/\" rel=\"nofollow\">https://dspy.ai/current/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869995\">https://news.ycombinator.com/item?id=49869995</a></p>\n<p>Points: 61</p>\n<p># Comments: 6</p>",
+        "description": "<p><a href=\"https://hex.pm/packages/imp\" rel=\"nofollow\">https://hex.pm/packages/imp</a><p><a href=\"https://dspy.ai/current/\" rel=\"nofollow\">https://dspy.ai/current/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869995\">https://news.ycombinator.com/item?id=49869995</a></p>\n<p>Points: 88</p>\n<p># Comments: 7</p>",
         "pubDate": "Sun, 27 Sep 2026 19:28:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49869995"
       },
       {
-        "title": "What I did at Recurse Center",
-        "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-        "description": "<p>Article URL: <a href=\"https://thill.me/2026/09/11/what-i-did-at-rc.html\">https://thill.me/2026/09/11/what-i-did-at-rc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869773\">https://news.ycombinator.com/item?id=49869773</a></p>\n<p>Points: 86</p>\n<p># Comments: 25</p>",
-        "pubDate": "Sun, 27 Sep 2026 19:04:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49869773"
-      },
-      {
         "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
         "link": "https://www.inkandswitch.com/essay/malleable-software/",
-        "description": "<p>Article URL: <a href=\"https://www.inkandswitch.com/essay/malleable-software/\">https://www.inkandswitch.com/essay/malleable-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869755\">https://news.ycombinator.com/item?id=49869755</a></p>\n<p>Points: 22</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://www.inkandswitch.com/essay/malleable-software/\">https://www.inkandswitch.com/essay/malleable-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869755\">https://news.ycombinator.com/item?id=49869755</a></p>\n<p>Points: 119</p>\n<p># Comments: 60</p>",
         "pubDate": "Sun, 27 Sep 2026 19:01:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=49869755"
-      },
-      {
-        "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-        "link": "https://loficities.com/",
-        "description": "<p>Article URL: <a href=\"https://loficities.com/\">https://loficities.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869574\">https://news.ycombinator.com/item?id=49869574</a></p>\n<p>Points: 201</p>\n<p># Comments: 88</p>",
-        "pubDate": "Sun, 27 Sep 2026 18:44:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49869574"
-      },
-      {
-        "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-        "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-        "description": "<p><a href=\"https://en.wikipedia.org/wiki/John_Chowning\" rel=\"nofollow\">https://en.wikipedia.org/wiki/John_Chowning</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869142\">https://news.ycombinator.com/item?id=49869142</a></p>\n<p>Points: 62</p>\n<p># Comments: 15</p>",
-        "pubDate": "Sun, 27 Sep 2026 18:02:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49869142"
-      },
-      {
-        "title": "Ember-1",
-        "link": "https://fireworks.ai/blog/ember-1",
-        "description": "<p>Article URL: <a href=\"https://fireworks.ai/blog/ember-1\">https://fireworks.ai/blog/ember-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49868830\">https://news.ycombinator.com/item?id=49868830</a></p>\n<p>Points: 394</p>\n<p># Comments: 197</p>",
-        "pubDate": "Sun, 27 Sep 2026 17:31:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49868830"
-      },
-      {
-        "title": "Don't couple your Go code to GitHub",
-        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-        "description": "<p>Article URL: <a href=\"https://iain.rocks/blog/dont-couple-your-go-code-to-github\">https://iain.rocks/blog/dont-couple-your-go-code-to-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49868404\">https://news.ycombinator.com/item?id=49868404</a></p>\n<p>Points: 181</p>\n<p># Comments: 90</p>",
-        "pubDate": "Sun, 27 Sep 2026 16:50:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49868404"
-      },
-      {
-        "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-        "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\">https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49866951\">https://news.ycombinator.com/item?id=49866951</a></p>\n<p>Points: 225</p>\n<p># Comments: 83</p>",
-        "pubDate": "Sun, 27 Sep 2026 14:30:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49866951"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-28T05:08:52.755Z",
+  "lastUpdated": "2026-09-28T13:40:28.552Z",
   "stats": {
     "feeds": 2,
     "articles": 20
