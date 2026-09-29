@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-29T05:32:01.646Z"
+      "lastFetched": "2026-09-29T12:38:58.725Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-29T05:32:21.444Z"
+      "lastFetched": "2026-09-29T12:39:18.338Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
-        "link": "https://bluegraph.io/",
-        "description": "<p>Article URL: <a href=\"https://bluegraph.io/\">https://bluegraph.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886901\">https://news.ycombinator.com/item?id=49886901</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 29 Sep 2026 01:29:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49886901"
+        "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+        "link": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027\">https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891550\">https://news.ycombinator.com/item?id=49891550</a></p>\n<p>Points: 52</p>\n<p># Comments: 19</p>",
+        "pubDate": "Tue, 29 Sep 2026 11:44:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49891550"
+      },
+      {
+        "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+        "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive\">https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891480\">https://news.ycombinator.com/item?id=49891480</a></p>\n<p>Points: 81</p>\n<p># Comments: 35</p>",
+        "pubDate": "Tue, 29 Sep 2026 11:35:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49891480"
+      },
+      {
+        "title": "You Are No Longer Invited to Dinner",
+        "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+        "description": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/the-death-of-the-american-host\">https://www.derekthompson.org/p/the-death-of-the-american-host</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891295\">https://news.ycombinator.com/item?id=49891295</a></p>\n<p>Points: 131</p>\n<p># Comments: 93</p>",
+        "pubDate": "Tue, 29 Sep 2026 11:14:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49891295"
+      },
+      {
+        "title": "Jeeves. Reasoning improves Jev-like decision models",
+        "link": "https://github.com/PostHog/jeeves",
+        "description": "<p>Article URL: <a href=\"https://github.com/PostHog/jeeves\">https://github.com/PostHog/jeeves</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891290\">https://news.ycombinator.com/item?id=49891290</a></p>\n<p>Points: 53</p>\n<p># Comments: 13</p>",
+        "pubDate": "Tue, 29 Sep 2026 11:13:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49891290"
+      },
+      {
+        "title": "New Cyber-OSINT model released",
+        "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/0x0SojalSec/status/2104736980768866439\">https://twitter.com/0x0SojalSec/status/2104736980768866439</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890829\">https://news.ycombinator.com/item?id=49890829</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 29 Sep 2026 10:23:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49890829"
+      },
+      {
+        "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+        "link": "https://github.com/EverMind-AI/Raven",
+        "description": "<p>Article URL: <a href=\"https://github.com/EverMind-AI/Raven\">https://github.com/EverMind-AI/Raven</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890647\">https://news.ycombinator.com/item?id=49890647</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 29 Sep 2026 09:58:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49890647"
+      },
+      {
+        "title": "AI companies leak data to advertisers [pdf]",
+        "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "description": "<p>Article URL: <a href=\"https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890226\">https://news.ycombinator.com/item?id=49890226</a></p>\n<p>Points: 178</p>\n<p># Comments: 50</p>",
+        "pubDate": "Tue, 29 Sep 2026 09:03:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49890226"
+      },
+      {
+        "title": "Evan Doorbell's Phone Tapes – Brought to You by Telephone World",
+        "link": "https://evan-doorbell.com/",
+        "description": "<p>Article URL: <a href=\"https://evan-doorbell.com/\">https://evan-doorbell.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890054\">https://news.ycombinator.com/item?id=49890054</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 29 Sep 2026 08:40:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49890054"
+      },
+      {
+        "title": "Using any C++ library in Godot",
+        "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+        "description": "<p>Article URL: <a href=\"https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\">https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890051\">https://news.ycombinator.com/item?id=49890051</a></p>\n<p>Points: 70</p>\n<p># Comments: 21</p>",
+        "pubDate": "Tue, 29 Sep 2026 08:40:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49890051"
+      },
+      {
+        "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+        "link": "https://www.startup-nights.ch/event/",
+        "description": "<p>Article URL: <a href=\"https://www.startup-nights.ch/event/\">https://www.startup-nights.ch/event/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49889633\">https://news.ycombinator.com/item?id=49889633</a></p>\n<p>Points: 28</p>\n<p># Comments: 11</p>",
+        "pubDate": "Tue, 29 Sep 2026 07:49:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49889633"
       },
       {
         "title": "Tank Body Problem",
         "link": "http://www.jimsitu.com",
-        "description": "<p>Article URL: <a href=\"http://www.jimsitu.com\">http://www.jimsitu.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886482\">https://news.ycombinator.com/item?id=49886482</a></p>\n<p>Points: 55</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"http://www.jimsitu.com\">http://www.jimsitu.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886482\">https://news.ycombinator.com/item?id=49886482</a></p>\n<p>Points: 132</p>\n<p># Comments: 30</p>",
         "pubDate": "Tue, 29 Sep 2026 00:41:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49886482"
       },
       {
-        "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-        "link": "https://lolchat.rip/",
-        "description": "<p>Article URL: <a href=\"https://lolchat.rip/\">https://lolchat.rip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886195\">https://news.ycombinator.com/item?id=49886195</a></p>\n<p>Points: 74</p>\n<p># Comments: 40</p>",
-        "pubDate": "Tue, 29 Sep 2026 00:06:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49886195"
-      },
-      {
-        "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-        "link": "https://jonclegg.github.io/pacman-bakeoff/",
-        "description": "<p>Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:<p>“Create a Pac-Man game in a single HTML page”<p>Each model gets one shot — no follow-up prompts or fixes.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49885493\">https://news.ycombinator.com/item?id=49885493</a></p>\n<p>Points: 22</p>\n<p># Comments: 16</p>",
-        "pubDate": "Mon, 28 Sep 2026 22:43:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49885493"
-      },
-      {
         "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
         "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-        "description": "<p>Article URL: <a href=\"https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884625\">https://news.ycombinator.com/item?id=49884625</a></p>\n<p>Points: 63</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884625\">https://news.ycombinator.com/item?id=49884625</a></p>\n<p>Points: 113</p>\n<p># Comments: 24</p>",
         "pubDate": "Mon, 28 Sep 2026 21:26:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49884625"
       },
       {
         "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
         "link": "https://github.com/firelex/jeff",
-        "description": "<p>Article URL: <a href=\"https://github.com/firelex/jeff\">https://github.com/firelex/jeff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883844\">https://news.ycombinator.com/item?id=49883844</a></p>\n<p>Points: 406</p>\n<p># Comments: 154</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/firelex/jeff\">https://github.com/firelex/jeff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883844\">https://news.ycombinator.com/item?id=49883844</a></p>\n<p>Points: 522</p>\n<p># Comments: 197</p>",
         "pubDate": "Mon, 28 Sep 2026 20:23:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49883844"
       },
       {
-        "title": "World Labs Is Joining AMD",
-        "link": "https://www.worldlabs.ai/blog/amd-announcement",
-        "description": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/amd-announcement\">https://www.worldlabs.ai/blog/amd-announcement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883760\">https://news.ycombinator.com/item?id=49883760</a></p>\n<p>Points: 241</p>\n<p># Comments: 99</p>",
-        "pubDate": "Mon, 28 Sep 2026 20:18:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49883760"
-      },
-      {
         "title": "California farmers are struggling to sell grapes as demand for wine drops",
         "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-        "description": "<p>Article URL: <a href=\"https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops\">https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883539\">https://news.ycombinator.com/item?id=49883539</a></p>\n<p>Points: 128</p>\n<p># Comments: 298</p>",
+        "description": "<p>Article URL: <a href=\"https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops\">https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883539\">https://news.ycombinator.com/item?id=49883539</a></p>\n<p>Points: 266</p>\n<p># Comments: 671</p>",
         "pubDate": "Mon, 28 Sep 2026 20:00:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49883539"
       },
       {
         "title": "Scientists solve 1840s space weather mystery",
         "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/\">https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883536\">https://news.ycombinator.com/item?id=49883536</a></p>\n<p>Points: 91</p>\n<p># Comments: 41</p>",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/\">https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883536\">https://news.ycombinator.com/item?id=49883536</a></p>\n<p>Points: 115</p>\n<p># Comments: 48</p>",
         "pubDate": "Mon, 28 Sep 2026 20:00:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49883536"
       },
       {
-        "title": "It's Time to Investigate the AI Labs",
-        "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-        "description": "<p>Article URL: <a href=\"https://calnewport.com/its-time-to-investigate-the-ai-labs/\">https://calnewport.com/its-time-to-investigate-the-ai-labs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883471\">https://news.ycombinator.com/item?id=49883471</a></p>\n<p>Points: 388</p>\n<p># Comments: 140</p>",
-        "pubDate": "Mon, 28 Sep 2026 19:53:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49883471"
-      },
-      {
         "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
         "link": "https://stateofutopia.com/experiments/microllmlab/",
-        "description": "<p>Article URL: <a href=\"https://stateofutopia.com/experiments/microllmlab/\">https://stateofutopia.com/experiments/microllmlab/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882781\">https://news.ycombinator.com/item?id=49882781</a></p>\n<p>Points: 189</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://stateofutopia.com/experiments/microllmlab/\">https://stateofutopia.com/experiments/microllmlab/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882781\">https://news.ycombinator.com/item?id=49882781</a></p>\n<p>Points: 257</p>\n<p># Comments: 89</p>",
         "pubDate": "Mon, 28 Sep 2026 18:58:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=49882781"
       },
       {
         "title": "Sonnet 5.5",
         "link": "https://www.anthropic.com/claude-sonnet-5-5",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-sonnet-5-5\">https://www.anthropic.com/claude-sonnet-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49881850\">https://news.ycombinator.com/item?id=49881850</a></p>\n<p>Points: 691</p>\n<p># Comments: 458</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-sonnet-5-5\">https://www.anthropic.com/claude-sonnet-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49881850\">https://news.ycombinator.com/item?id=49881850</a></p>\n<p>Points: 828</p>\n<p># Comments: 559</p>",
         "pubDate": "Mon, 28 Sep 2026 17:58:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=49881850"
       },
       {
-        "title": "Show HN: Destroy Any Website with Stickman",
-        "link": "https://destroy.spritefusion.com/",
-        "description": "<p>Article URL: <a href=\"https://destroy.spritefusion.com/\">https://destroy.spritefusion.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49880601\">https://news.ycombinator.com/item?id=49880601</a></p>\n<p>Points: 124</p>\n<p># Comments: 30</p>",
-        "pubDate": "Mon, 28 Sep 2026 16:31:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49880601"
-      },
-      {
         "title": "Phyllotaxis: An audio-reactive LED display",
         "link": "https://jagi.studio/posts/phyllotaxis/",
-        "description": "<p>Article URL: <a href=\"https://jagi.studio/posts/phyllotaxis/\">https://jagi.studio/posts/phyllotaxis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49880411\">https://news.ycombinator.com/item?id=49880411</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://jagi.studio/posts/phyllotaxis/\">https://jagi.studio/posts/phyllotaxis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49880411\">https://news.ycombinator.com/item?id=49880411</a></p>\n<p>Points: 169</p>\n<p># Comments: 22</p>",
         "pubDate": "Mon, 28 Sep 2026 16:18:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49880411"
       },
       {
         "title": "Pirating the Pirates",
         "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-        "description": "<p>Article URL: <a href=\"https://mubi.com/en/notebook/posts/pirating-the-pirates\">https://mubi.com/en/notebook/posts/pirating-the-pirates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49880036\">https://news.ycombinator.com/item?id=49880036</a></p>\n<p>Points: 483</p>\n<p># Comments: 243</p>",
+        "description": "<p>Article URL: <a href=\"https://mubi.com/en/notebook/posts/pirating-the-pirates\">https://mubi.com/en/notebook/posts/pirating-the-pirates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49880036\">https://news.ycombinator.com/item?id=49880036</a></p>\n<p>Points: 625</p>\n<p># Comments: 314</p>",
         "pubDate": "Mon, 28 Sep 2026 15:54:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49880036"
       },
       {
         "title": "Nvidia wants to put a watchdog chip next to every AI agent",
         "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/28/nvidia-releases.html\">https://www.cnbc.com/2026/09/28/nvidia-releases.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879883\">https://news.ycombinator.com/item?id=49879883</a></p>\n<p>Points: 140</p>\n<p># Comments: 164</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/28/nvidia-releases.html\">https://www.cnbc.com/2026/09/28/nvidia-releases.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879883\">https://news.ycombinator.com/item?id=49879883</a></p>\n<p>Points: 197</p>\n<p># Comments: 246</p>",
         "pubDate": "Mon, 28 Sep 2026 15:46:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49879883"
-      },
-      {
-        "title": "Hijacking the PS5's RTMP stream",
-        "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-        "description": "<p>Article URL: <a href=\"https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\">https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879702\">https://news.ycombinator.com/item?id=49879702</a></p>\n<p>Points: 228</p>\n<p># Comments: 72</p>",
-        "pubDate": "Mon, 28 Sep 2026 15:35:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49879702"
-      },
-      {
-        "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-        "link": "https://www.thisamericanlife.org/897/transcript",
-        "description": "<p>Article URL: <a href=\"https://www.thisamericanlife.org/897/transcript\">https://www.thisamericanlife.org/897/transcript</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879697\">https://news.ycombinator.com/item?id=49879697</a></p>\n<p>Points: 346</p>\n<p># Comments: 199</p>",
-        "pubDate": "Mon, 28 Sep 2026 15:35:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49879697"
-      },
-      {
-        "title": "Updated Google Maps shows destruction of the city of Rafah",
-        "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/AliAbunimah/status/2103890594137309425\">https://twitter.com/AliAbunimah/status/2103890594137309425</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879645\">https://news.ycombinator.com/item?id=49879645</a></p>\n<p>Points: 351</p>\n<p># Comments: 190</p>",
-        "pubDate": "Mon, 28 Sep 2026 15:32:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49879645"
-      },
-      {
-        "title": "Cf: The Agentic CLI for the Cloudflare API",
-        "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cloudflare-cf-cli-launch/\">https://blog.cloudflare.com/cloudflare-cf-cli-launch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879577\">https://news.ycombinator.com/item?id=49879577</a></p>\n<p>Points: 141</p>\n<p># Comments: 66</p>",
-        "pubDate": "Mon, 28 Sep 2026 15:28:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49879577"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-29T05:32:21.444Z",
+  "lastUpdated": "2026-09-29T12:39:18.338Z",
   "stats": {
     "feeds": 2,
     "articles": 20
