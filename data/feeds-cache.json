@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-09-29T22:09:18.273Z"
+      "lastFetched": "2026-09-30T05:20:05.369Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-09-29T22:09:38.420Z"
+      "lastFetched": "2026-09-30T05:20:25.231Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "LinkedIn Larpmaxxing",
+        "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+        "description": "<p>Article URL: <a href=\"https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\">https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49904314\">https://news.ycombinator.com/item?id=49904314</a></p>\n<p>Points: 12</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 30 Sep 2026 04:19:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49904314"
+      },
+      {
+        "title": "PSSA: A non-transformer language model written from scratch in Rust",
+        "link": "https://github.com/Sparticle62ops/pssa",
+        "description": "<p>Article URL: <a href=\"https://github.com/Sparticle62ops/pssa\">https://github.com/Sparticle62ops/pssa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903993\">https://news.ycombinator.com/item?id=49903993</a></p>\n<p>Points: 37</p>\n<p># Comments: 10</p>",
+        "pubDate": "Wed, 30 Sep 2026 03:19:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49903993"
+      },
+      {
+        "title": "RSS Feeds for Last.fm",
+        "link": "https://lfm.xiffy.nl/",
+        "description": "<p>Article URL: <a href=\"https://lfm.xiffy.nl/\">https://lfm.xiffy.nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903862\">https://news.ycombinator.com/item?id=49903862</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+        "pubDate": "Wed, 30 Sep 2026 03:00:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49903862"
+      },
+      {
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "link": "https://agmai.org/general-sep29/",
+        "description": "<p>Article URL: <a href=\"https://agmai.org/general-sep29/\">https://agmai.org/general-sep29/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903713\">https://news.ycombinator.com/item?id=49903713</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 30 Sep 2026 02:36:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49903713"
+      },
+      {
+        "title": "Ballmer Peak",
+        "link": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Ballmer_Peak\">https://en.wikipedia.org/wiki/Ballmer_Peak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903712\">https://news.ycombinator.com/item?id=49903712</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 30 Sep 2026 02:35:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49903712"
+      },
+      {
+        "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+        "link": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
+        "description": "<p>Article URL: <a href=\"https://mightygodking.com/2008/04/21/fun-from-yesterday/\">https://mightygodking.com/2008/04/21/fun-from-yesterday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903383\">https://news.ycombinator.com/item?id=49903383</a></p>\n<p>Points: 24</p>\n<p># Comments: 15</p>",
+        "pubDate": "Wed, 30 Sep 2026 01:47:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49903383"
+      },
+      {
+        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "link": "https://github.com/ninjahawk/livenerf",
+        "description": "<p>Article URL: <a href=\"https://github.com/ninjahawk/livenerf\">https://github.com/ninjahawk/livenerf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901736\">https://news.ycombinator.com/item?id=49901736</a></p>\n<p>Points: 391</p>\n<p># Comments: 158</p>",
+        "pubDate": "Tue, 29 Sep 2026 22:36:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49901736"
+      },
+      {
+        "title": "Deser: Rethinking Rust Serialization",
+        "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/9/29/deser/\">https://lucumr.pocoo.org/2026/9/29/deser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901149\">https://news.ycombinator.com/item?id=49901149</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 29 Sep 2026 21:48:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49901149"
+      },
+      {
         "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
         "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-        "description": "<p>Article URL: <a href=\"https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49899090\">https://news.ycombinator.com/item?id=49899090</a></p>\n<p>Points: 97</p>\n<p># Comments: 47</p>",
+        "description": "<p>Article URL: <a href=\"https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49899090\">https://news.ycombinator.com/item?id=49899090</a></p>\n<p>Points: 198</p>\n<p># Comments: 118</p>",
         "pubDate": "Tue, 29 Sep 2026 19:30:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=49899090"
       },
       {
-        "title": "Galaxy Game – Interim Computer Museum",
-        "link": "https://icm.museum/blog/?p=698",
-        "description": "<p>Article URL: <a href=\"https://icm.museum/blog/?p=698\">https://icm.museum/blog/?p=698</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49899004\">https://news.ycombinator.com/item?id=49899004</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 29 Sep 2026 19:24:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49899004"
-      },
-      {
-        "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-        "link": "https://github.com/lostmsu/TurboGPT",
-        "description": "<p>Inspired by minGPT for home experiments.<p>Requires CUDA 13.4; build script is Windows only.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898931\">https://news.ycombinator.com/item?id=49898931</a></p>\n<p>Points: 29</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 29 Sep 2026 19:20:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49898931"
-      },
-      {
-        "title": "Nicholas Polson has authored 258 academic papers in 2026 so far",
-        "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-        "description": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/08/27/258/\">https://statmodeling.stat.columbia.edu/2026/08/27/258/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898877\">https://news.ycombinator.com/item?id=49898877</a></p>\n<p>Points: 114</p>\n<p># Comments: 83</p>",
-        "pubDate": "Tue, 29 Sep 2026 19:15:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49898877"
-      },
-      {
         "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
         "link": "https://space.bl2.net/",
-        "description": "<p>Article URL: <a href=\"https://space.bl2.net/\">https://space.bl2.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898778\">https://news.ycombinator.com/item?id=49898778</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://space.bl2.net/\">https://space.bl2.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898778\">https://news.ycombinator.com/item?id=49898778</a></p>\n<p>Points: 172</p>\n<p># Comments: 39</p>",
         "pubDate": "Tue, 29 Sep 2026 19:08:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=49898778"
       },
       {
-        "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-        "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\">https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49897075\">https://news.ycombinator.com/item?id=49897075</a></p>\n<p>Points: 139</p>\n<p># Comments: 99</p>",
-        "pubDate": "Tue, 29 Sep 2026 17:31:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49897075"
+        "title": "We’re forgetting what darkness feels like",
+        "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation\">https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898050\">https://news.ycombinator.com/item?id=49898050</a></p>\n<p>Points: 109</p>\n<p># Comments: 65</p>",
+        "pubDate": "Tue, 29 Sep 2026 18:22:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49898050"
       },
       {
-        "title": "ChatGPT Pro 500",
-        "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "description": "<p>Article URL: <a href=\"https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\">https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896975\">https://news.ycombinator.com/item?id=49896975</a></p>\n<p>Points: 164</p>\n<p># Comments: 171</p>",
-        "pubDate": "Tue, 29 Sep 2026 17:26:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49896975"
+        "title": "Vermont replacing power plants with home batteries",
+        "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+        "description": "<p>See also <a href=\"https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/\" rel=\"nofollow\">https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49897993\">https://news.ycombinator.com/item?id=49897993</a></p>\n<p>Points: 131</p>\n<p># Comments: 113</p>",
+        "pubDate": "Tue, 29 Sep 2026 18:19:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49897993"
+      },
+      {
+        "title": "Show HN: A working 3D model of an Enigma machine",
+        "link": "https://enigma.design",
+        "description": "<p>I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing out hundreds of extremely detailed prompts, and building my own inspection tools to ensure that every part is sized and positioned in a historically accurate way.<p>It's still a work in progress, but would love any feedback on the experience so far!<p>1. <a href=\"https://www.youtube.com/watch?v=JsBZOcqZerk\" rel=\"nofollow\">https://www.youtube.com/watch?v=JsBZOcqZerk</a><p>2. <a href=\"https://www.youtube.com/watch?v=ybkkiGtJmkM\" rel=\"nofollow\">https://www.youtube.com/watch?v=ybkkiGtJmkM</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896757\">https://news.ycombinator.com/item?id=49896757</a></p>\n<p>Points: 50</p>\n<p># Comments: 18</p>",
+        "pubDate": "Tue, 29 Sep 2026 17:15:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49896757"
       },
       {
         "title": "Tcl/Tk 9.1",
         "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-        "description": "<p>Article URL: <a href=\"https://www.tcl-lang.org/software/tcltk/9.1.html\">https://www.tcl-lang.org/software/tcltk/9.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896712\">https://news.ycombinator.com/item?id=49896712</a></p>\n<p>Points: 214</p>\n<p># Comments: 65</p>",
+        "description": "<p>Article URL: <a href=\"https://www.tcl-lang.org/software/tcltk/9.1.html\">https://www.tcl-lang.org/software/tcltk/9.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896712\">https://news.ycombinator.com/item?id=49896712</a></p>\n<p>Points: 256</p>\n<p># Comments: 100</p>",
         "pubDate": "Tue, 29 Sep 2026 17:13:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49896712"
       },
       {
         "title": "Dots: Always-on agents",
         "link": "https://openai.com/index/introducing-dots/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-dots/\">https://openai.com/index/introducing-dots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896604\">https://news.ycombinator.com/item?id=49896604</a></p>\n<p>Points: 408</p>\n<p># Comments: 317</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-dots/\">https://openai.com/index/introducing-dots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896604\">https://news.ycombinator.com/item?id=49896604</a></p>\n<p>Points: 515</p>\n<p># Comments: 392</p>",
         "pubDate": "Tue, 29 Sep 2026 17:07:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49896604"
       },
       {
-        "title": "DevDay 2026 Recap",
-        "link": "https://openai.com/index/devday-2026-recap/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/devday-2026-recap/\">https://openai.com/index/devday-2026-recap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896600\">https://news.ycombinator.com/item?id=49896600</a></p>\n<p>Points: 83</p>\n<p># Comments: 38</p>",
-        "pubDate": "Tue, 29 Sep 2026 17:07:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49896600"
-      },
-      {
         "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
         "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-sol/\">https://openai.com/index/introducing-gpt-6-1-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896586\">https://news.ycombinator.com/item?id=49896586</a></p>\n<p>Points: 674</p>\n<p># Comments: 607</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-sol/\">https://openai.com/index/introducing-gpt-6-1-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896586\">https://news.ycombinator.com/item?id=49896586</a></p>\n<p>Points: 847</p>\n<p># Comments: 772</p>",
         "pubDate": "Tue, 29 Sep 2026 17:06:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49896586"
       },
       {
-        "title": "What if Jev spoke Arrow?",
-        "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
-        "description": "<p>Article URL: <a href=\"https://columnar.tech/blog/what-if-jev-spoke-arrow/\">https://columnar.tech/blog/what-if-jev-spoke-arrow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895970\">https://news.ycombinator.com/item?id=49895970</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
-        "pubDate": "Tue, 29 Sep 2026 16:25:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49895970"
+        "title": "Needed 1+1, built a functional programming language",
+        "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+        "description": "<p>Article URL: <a href=\"https://hereticpleb.vercel.app/blog/needed-one-plus-one/\">https://hereticpleb.vercel.app/blog/needed-one-plus-one/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895864\">https://news.ycombinator.com/item?id=49895864</a></p>\n<p>Points: 59</p>\n<p># Comments: 16</p>",
+        "pubDate": "Tue, 29 Sep 2026 16:18:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49895864"
       },
       {
         "title": "PS5 Relapse Exploit",
         "link": "https://github.com/ntfargo/Relapse-Exploit",
-        "description": "<p>Article URL: <a href=\"https://github.com/ntfargo/Relapse-Exploit\">https://github.com/ntfargo/Relapse-Exploit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895304\">https://news.ycombinator.com/item?id=49895304</a></p>\n<p>Points: 177</p>\n<p># Comments: 99</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/ntfargo/Relapse-Exploit\">https://github.com/ntfargo/Relapse-Exploit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895304\">https://news.ycombinator.com/item?id=49895304</a></p>\n<p>Points: 266</p>\n<p># Comments: 148</p>",
         "pubDate": "Tue, 29 Sep 2026 15:44:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=49895304"
       },
       {
         "title": "Show HN: NSL – WSL for Linux",
         "link": "https://frostyard.github.io/nsl/",
-        "description": "<p>One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49894351\">https://news.ycombinator.com/item?id=49894351</a></p>\n<p>Points: 62</p>\n<p># Comments: 49</p>",
+        "description": "<p>One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49894351\">https://news.ycombinator.com/item?id=49894351</a></p>\n<p>Points: 105</p>\n<p># Comments: 73</p>",
         "pubDate": "Tue, 29 Sep 2026 14:51:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49894351"
       },
       {
         "title": "America.gov",
         "link": "https://america.gov/",
-        "description": "<p>Article URL: <a href=\"https://america.gov/\">https://america.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893509\">https://news.ycombinator.com/item?id=49893509</a></p>\n<p>Points: 180</p>\n<p># Comments: 138</p>",
+        "description": "<p>Article URL: <a href=\"https://america.gov/\">https://america.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893509\">https://news.ycombinator.com/item?id=49893509</a></p>\n<p>Points: 470</p>\n<p># Comments: 374</p>",
         "pubDate": "Tue, 29 Sep 2026 14:04:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49893509"
-      },
-      {
-        "title": "Ask HN: What are you reading?",
-        "link": "https://news.ycombinator.com/item?id=49893157",
-        "description": "<p>I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough.  I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working...</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893157\">https://news.ycombinator.com/item?id=49893157</a></p>\n<p>Points: 70</p>\n<p># Comments: 198</p>",
-        "pubDate": "Tue, 29 Sep 2026 13:44:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49893157"
-      },
-      {
-        "title": "How Delhi cut electricity loss from 50 to 5 percent",
-        "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/delhi-electricity-loss\">https://spectrum.ieee.org/delhi-electricity-loss</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49892245\">https://news.ycombinator.com/item?id=49892245</a></p>\n<p>Points: 399</p>\n<p># Comments: 227</p>",
-        "pubDate": "Tue, 29 Sep 2026 12:43:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49892245"
-      },
-      {
-        "title": "Sustainable energy without the hot air (2008)",
-        "link": "https://www.withouthotair.com/",
-        "description": "<p>Article URL: <a href=\"https://www.withouthotair.com/\">https://www.withouthotair.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49892175\">https://news.ycombinator.com/item?id=49892175</a></p>\n<p>Points: 127</p>\n<p># Comments: 68</p>",
-        "pubDate": "Tue, 29 Sep 2026 12:38:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49892175"
-      },
-      {
-        "title": "Everybody’s home. No one’s coming over",
-        "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-        "description": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/the-death-of-the-american-host\">https://www.derekthompson.org/p/the-death-of-the-american-host</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891295\">https://news.ycombinator.com/item?id=49891295</a></p>\n<p>Points: 684</p>\n<p># Comments: 624</p>",
-        "pubDate": "Tue, 29 Sep 2026 11:14:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49891295"
-      },
-      {
-        "title": "Jeeves. Reasoning improves Jev-like decision models",
-        "link": "https://github.com/PostHog/jeeves",
-        "description": "<p>Article URL: <a href=\"https://github.com/PostHog/jeeves\">https://github.com/PostHog/jeeves</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891290\">https://news.ycombinator.com/item?id=49891290</a></p>\n<p>Points: 214</p>\n<p># Comments: 85</p>",
-        "pubDate": "Tue, 29 Sep 2026 11:13:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49891290"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-09-29T22:09:38.420Z",
+  "lastUpdated": "2026-09-30T05:20:25.231Z",
   "stats": {
     "feeds": 2,
     "articles": 20
