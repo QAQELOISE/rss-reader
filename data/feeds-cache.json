@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-01T22:35:36.348Z"
+      "lastFetched": "2026-10-02T05:22:05.767Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-01T22:35:49.361Z"
+      "lastFetched": "2026-10-02T05:22:25.583Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "OpenRadioss is not open anymore",
-        "link": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
-        "description": "<p>Article URL: <a href=\"https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/\">https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927392\">https://news.ycombinator.com/item?id=49927392</a></p>\n<p>Points: 11</p>\n<p># Comments: 10</p>",
-        "pubDate": "Thu, 01 Oct 2026 21:41:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49927392"
+        "title": "DeepSeek Harness",
+        "link": "https://www.deepseek.com/en/harness/",
+        "description": "<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 51</p>\n<p># Comments: 21</p>",
+        "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49929489"
+      },
+      {
+        "title": "How Singapore's government-run dating service works",
+        "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+        "description": "<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p>\n<p>Points: 50</p>\n<p># Comments: 19</p>",
+        "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49929113"
+      },
+      {
+        "title": "Butterflies use optical illusions to dodge predators",
+        "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+        "description": "<p>Article URL: <a href=\"https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\">https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928152\">https://news.ycombinator.com/item?id=49928152</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 01 Oct 2026 23:15:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49928152"
+      },
+      {
+        "title": "Several vulnerabilities have been discovered in the Linux kernel",
+        "link": "https://lwn.net/Articles/1097401/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 198</p>\n<p># Comments: 130</p>",
+        "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49928121"
+      },
+      {
+        "title": "Frog and Toad and the Increasingly Capable Machines",
+        "link": "https://www.frogandtoad.ai/",
+        "description": "<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p>\n<p>Points: 89</p>\n<p># Comments: 15</p>",
+        "pubDate": "Thu, 01 Oct 2026 22:23:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49927760"
+      },
+      {
+        "title": "Aweb – Communication for AI Agents",
+        "link": "https://aweb.ai",
+        "description": "<p>Article URL: <a href=\"https://aweb.ai\">https://aweb.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927587\">https://news.ycombinator.com/item?id=49927587</a></p>\n<p>Points: 30</p>\n<p># Comments: 23</p>",
+        "pubDate": "Thu, 01 Oct 2026 22:02:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49927587"
       },
       {
         "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
         "link": "https://www.cssbed.com",
-        "description": "<p>Article URL: <a href=\"https://www.cssbed.com\">https://www.cssbed.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927212\">https://news.ycombinator.com/item?id=49927212</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cssbed.com\">https://www.cssbed.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927212\">https://news.ycombinator.com/item?id=49927212</a></p>\n<p>Points: 84</p>\n<p># Comments: 21</p>",
         "pubDate": "Thu, 01 Oct 2026 21:21:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=49927212"
       },
       {
-        "title": "The death of web development education",
-        "link": "https://molily.de/web-dev-education/",
-        "description": "<p>Article URL: <a href=\"https://molily.de/web-dev-education/\">https://molily.de/web-dev-education/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927100\">https://news.ycombinator.com/item?id=49927100</a></p>\n<p>Points: 78</p>\n<p># Comments: 56</p>",
-        "pubDate": "Thu, 01 Oct 2026 21:07:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49927100"
+        "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+        "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+        "description": "<p>Article URL: <a href=\"https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\">https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926917\">https://news.ycombinator.com/item?id=49926917</a></p>\n<p>Points: 105</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 01 Oct 2026 20:48:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49926917"
       },
       {
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "link": "https://github.com/Vibra-Ingenn/Janus",
-        "description": "<p>Article URL: <a href=\"https://github.com/Vibra-Ingenn/Janus\">https://github.com/Vibra-Ingenn/Janus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926773\">https://news.ycombinator.com/item?id=49926773</a></p>\n<p>Points: 29</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Vibra-Ingenn/Janus\">https://github.com/Vibra-Ingenn/Janus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926773\">https://news.ycombinator.com/item?id=49926773</a></p>\n<p>Points: 60</p>\n<p># Comments: 9</p>",
         "pubDate": "Thu, 01 Oct 2026 20:36:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49926773"
       },
       {
-        "title": "Show HN: Rhun, an open-source code editor written in assembly",
-        "link": "https://rhun.app/",
-        "description": "<p>I found that I'm not using even 1/3 of vim/vscode features anymore.<p>That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.<p>The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription.<p>It's a solo project, MIT licensed and still early.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926726\">https://news.ycombinator.com/item?id=49926726</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-        "pubDate": "Thu, 01 Oct 2026 20:32:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49926726"
-      },
-      {
-        "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+        "title": "Automatic Transmission – a data-privacy study of connected vehicles",
         "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-        "description": "<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/index.html\">https://automatictransmission.khoury.northeastern.edu/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926628\">https://news.ycombinator.com/item?id=49926628</a></p>\n<p>Points: 107</p>\n<p># Comments: 93</p>",
+        "description": "<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/index.html\">https://automatictransmission.khoury.northeastern.edu/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926628\">https://news.ycombinator.com/item?id=49926628</a></p>\n<p>Points: 159</p>\n<p># Comments: 152</p>",
         "pubDate": "Thu, 01 Oct 2026 20:23:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49926628"
       },
       {
-        "title": "SvelteKit 3 Is Here",
+        "title": "SvelteKit 3",
         "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-        "description": "<p>Article URL: <a href=\"https://svelte.dev/blog/sveltekit-3-is-here\">https://svelte.dev/blog/sveltekit-3-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926536\">https://news.ycombinator.com/item?id=49926536</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://svelte.dev/blog/sveltekit-3-is-here\">https://svelte.dev/blog/sveltekit-3-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926536\">https://news.ycombinator.com/item?id=49926536</a></p>\n<p>Points: 182</p>\n<p># Comments: 62</p>",
         "pubDate": "Thu, 01 Oct 2026 20:14:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=49926536"
       },
       {
         "title": "ArXiv's Updated Rate Limit Policy",
         "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-        "description": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\">https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926512\">https://news.ycombinator.com/item?id=49926512</a></p>\n<p>Points: 35</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\">https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926512\">https://news.ycombinator.com/item?id=49926512</a></p>\n<p>Points: 93</p>\n<p># Comments: 38</p>",
         "pubDate": "Thu, 01 Oct 2026 20:12:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49926512"
       },
       {
         "title": "Pi 1.0",
         "link": "https://earendil.com/posts/pi-1-0/",
-        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-1-0/\">https://earendil.com/posts/pi-1-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a></p>\n<p>Points: 501</p>\n<p># Comments: 176</p>",
+        "description": "<p>Related: <i>Pi Durable</i> - https://news.ycombinator.com/item?id=49925969</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a></p>\n<p>Points: 956</p>\n<p># Comments: 311</p>",
         "pubDate": "Thu, 01 Oct 2026 19:33:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49926069"
       },
       {
         "title": "Pi Durable",
         "link": "https://earendil.com/posts/pi-durable/",
-        "description": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-durable/\">https://earendil.com/posts/pi-durable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925969\">https://news.ycombinator.com/item?id=49925969</a></p>\n<p>Points: 146</p>\n<p># Comments: 14</p>",
+        "description": "<p>Related: <i>Pi 1.0</i> - <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a> - Oct 2026 (184 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925969\">https://news.ycombinator.com/item?id=49925969</a></p>\n<p>Points: 291</p>\n<p># Comments: 36</p>",
         "pubDate": "Thu, 01 Oct 2026 19:24:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=49925969"
       },
       {
-        "title": "Effect 4.0",
-        "link": "https://effect.website/blog/releases/effect/40",
-        "description": "<p>Article URL: <a href=\"https://effect.website/blog/releases/effect/40\">https://effect.website/blog/releases/effect/40</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925812\">https://news.ycombinator.com/item?id=49925812</a></p>\n<p>Points: 26</p>\n<p># Comments: 12</p>",
-        "pubDate": "Thu, 01 Oct 2026 19:10:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49925812"
-      },
-      {
-        "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+        "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
         "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-        "description": "<p>Article URL: <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925742\">https://news.ycombinator.com/item?id=49925742</a></p>\n<p>Points: 58</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925742\">https://news.ycombinator.com/item?id=49925742</a></p>\n<p>Points: 89</p>\n<p># Comments: 6</p>",
         "pubDate": "Thu, 01 Oct 2026 19:03:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=49925742"
       },
       {
         "title": "Bez: Generating a browser engine from specs and tests",
         "link": "https://tangled.org/burrito.space/bez",
-        "description": "<p>Article URL: <a href=\"https://tangled.org/burrito.space/bez\">https://tangled.org/burrito.space/bez</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925036\">https://news.ycombinator.com/item?id=49925036</a></p>\n<p>Points: 76</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://tangled.org/burrito.space/bez\">https://tangled.org/burrito.space/bez</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925036\">https://news.ycombinator.com/item?id=49925036</a></p>\n<p>Points: 101</p>\n<p># Comments: 43</p>",
         "pubDate": "Thu, 01 Oct 2026 18:08:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=49925036"
       },
       {
-        "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+        "title": "Vote on which of Hacker News' challenges for AI have been met",
+        "link": "https://stoppels.ch/goalposts/",
+        "description": "<p>Article URL: <a href=\"https://stoppels.ch/goalposts/\">https://stoppels.ch/goalposts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924618\">https://news.ycombinator.com/item?id=49924618</a></p>\n<p>Points: 117</p>\n<p># Comments: 122</p>",
+        "pubDate": "Thu, 01 Oct 2026 17:32:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49924618"
+      },
+      {
+        "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+        "link": "https://blog.gitbutler.com/git-3-sha-256",
+        "description": "<p>Article URL: <a href=\"https://blog.gitbutler.com/git-3-sha-256\">https://blog.gitbutler.com/git-3-sha-256</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924179\">https://news.ycombinator.com/item?id=49924179</a></p>\n<p>Points: 284</p>\n<p># Comments: 277</p>",
+        "pubDate": "Thu, 01 Oct 2026 16:57:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49924179"
+      },
+      {
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "link": "https://blog.cloudflare.com/clef-decision-models/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/clef-decision-models/\">https://blog.cloudflare.com/clef-decision-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923692\">https://news.ycombinator.com/item?id=49923692</a></p>\n<p>Points: 368</p>\n<p># Comments: 145</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/clef-decision-models/\">https://blog.cloudflare.com/clef-decision-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923692\">https://news.ycombinator.com/item?id=49923692</a></p>\n<p>Points: 467</p>\n<p># Comments: 170</p>",
         "pubDate": "Thu, 01 Oct 2026 16:18:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49923692"
       },
       {
-        "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-        "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
-        "description": "<p>Article URL: <a href=\"https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\">https://github.com/beatrizalmeidaf/papero-pdf-text-extractor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923638\">https://news.ycombinator.com/item?id=49923638</a></p>\n<p>Points: 62</p>\n<p># Comments: 6</p>",
-        "pubDate": "Thu, 01 Oct 2026 16:14:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49923638"
-      },
-      {
         "title": "RIP, vector database",
         "link": "https://turbopuffer.com/blog/rip-vector-database",
-        "description": "<p>Article URL: <a href=\"https://turbopuffer.com/blog/rip-vector-database\">https://turbopuffer.com/blog/rip-vector-database</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923466\">https://news.ycombinator.com/item?id=49923466</a></p>\n<p>Points: 247</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://turbopuffer.com/blog/rip-vector-database\">https://turbopuffer.com/blog/rip-vector-database</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923466\">https://news.ycombinator.com/item?id=49923466</a></p>\n<p>Points: 297</p>\n<p># Comments: 79</p>",
         "pubDate": "Thu, 01 Oct 2026 16:01:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49923466"
-      },
-      {
-        "title": "Identity Management for Agentic AI [pdf] (2025)",
-        "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-        "description": "<p>Article URL: <a href=\"https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\">https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922736\">https://news.ycombinator.com/item?id=49922736</a></p>\n<p>Points: 65</p>\n<p># Comments: 21</p>",
-        "pubDate": "Thu, 01 Oct 2026 15:11:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49922736"
-      },
-      {
-        "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-        "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-        "description": "<p>Article URL: <a href=\"https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/\">https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922674\">https://news.ycombinator.com/item?id=49922674</a></p>\n<p>Points: 138</p>\n<p># Comments: 22</p>",
-        "pubDate": "Thu, 01 Oct 2026 15:07:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49922674"
-      },
-      {
-        "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-        "link": "https://www.polyedergarten.de/e_index.htm",
-        "description": "<p>Article URL: <a href=\"https://www.polyedergarten.de/e_index.htm\">https://www.polyedergarten.de/e_index.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922594\">https://news.ycombinator.com/item?id=49922594</a></p>\n<p>Points: 45</p>\n<p># Comments: 5</p>",
-        "pubDate": "Thu, 01 Oct 2026 15:02:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49922594"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (October 2026)",
-        "link": "https://news.ycombinator.com/item?id=49922569",
-        "description": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://hnwork.app\" rel=\"nofollow\">https://hnwork.app</a>, <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=49922568\">https://news.ycombinator.com/item?id=49922568</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922569\">https://news.ycombinator.com/item?id=49922569</a></p>\n<p>Points: 128</p>\n<p># Comments: 130</p>",
-        "pubDate": "Thu, 01 Oct 2026 15:02:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49922569"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-01T22:35:49.361Z",
+  "lastUpdated": "2026-10-02T05:22:25.583Z",
   "stats": {
     "feeds": 2,
     "articles": 20
