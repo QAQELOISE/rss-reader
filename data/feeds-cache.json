@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-03T16:07:28.588Z"
+      "lastFetched": "2026-10-03T20:57:18.969Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-03T16:07:48.002Z"
+      "lastFetched": "2026-10-03T20:57:28.855Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "We want you to build the next Git platform on Cloudflare",
+        "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/next-git-platform-on-cloudflare/\">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947051\">https://news.ycombinator.com/item?id=49947051</a></p>\n<p>Points: 14</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sat, 03 Oct 2026 19:33:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49947051"
+      },
+      {
+        "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+        "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+        "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/\">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947050\">https://news.ycombinator.com/item?id=49947050</a></p>\n<p>Points: 12</p>\n<p># Comments: 9</p>",
+        "pubDate": "Sat, 03 Oct 2026 19:33:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49947050"
+      },
+      {
+        "title": "Our AI Midwife",
+        "link": "https://www.astralcodexten.com/p/our-ai-midwife",
+        "description": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/our-ai-midwife\">https://www.astralcodexten.com/p/our-ai-midwife</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946873\">https://news.ycombinator.com/item?id=49946873</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 03 Oct 2026 19:12:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946873"
+      },
+      {
+        "title": "RSS Feed Best Practices (2022)",
+        "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+        "description": "<p>Article URL: <a href=\"https://kevincox.ca/2022/05/06/rss-feed-best-practices/\">https://kevincox.ca/2022/05/06/rss-feed-best-practices/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946845\">https://news.ycombinator.com/item?id=49946845</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 03 Oct 2026 19:09:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946845"
+      },
+      {
+        "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+        "link": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+        "description": "<p>Article URL: <a href=\"https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/\">https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946827\">https://news.ycombinator.com/item?id=49946827</a></p>\n<p>Points: 26</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 03 Oct 2026 19:07:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946827"
+      },
+      {
+        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+        "description": "<p>Article URL: <a href=\"https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\">https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946567\">https://news.ycombinator.com/item?id=49946567</a></p>\n<p>Points: 25</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 03 Oct 2026 18:29:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946567"
+      },
+      {
+        "title": "ADHD, autism or complex trauma? [pdf]",
+        "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+        "description": "<p>Article URL: <a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946403\">https://news.ycombinator.com/item?id=49946403</a></p>\n<p>Points: 164</p>\n<p># Comments: 135</p>",
+        "pubDate": "Sat, 03 Oct 2026 18:08:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946403"
+      },
+      {
+        "title": "Hole Punch: Sling your spaceship around gravitational fields",
+        "link": "https://notoriousbfg.com/hole-punch/",
+        "description": "<p>Article URL: <a href=\"https://notoriousbfg.com/hole-punch/\">https://notoriousbfg.com/hole-punch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946393\">https://news.ycombinator.com/item?id=49946393</a></p>\n<p>Points: 88</p>\n<p># Comments: 28</p>",
+        "pubDate": "Sat, 03 Oct 2026 18:06:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946393"
+      },
+      {
+        "title": "Pop!_OS bans AI-generated code from much of its codebase",
+        "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+        "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/\">https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946321\">https://news.ycombinator.com/item?id=49946321</a></p>\n<p>Points: 81</p>\n<p># Comments: 89</p>",
+        "pubDate": "Sat, 03 Oct 2026 17:57:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946321"
+      },
+      {
+        "title": "Vx – One Language, Every Chip",
+        "link": "https://vxlang.org/",
+        "description": "<p>Article URL: <a href=\"https://vxlang.org/\">https://vxlang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946076\">https://news.ycombinator.com/item?id=49946076</a></p>\n<p>Points: 31</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sat, 03 Oct 2026 17:23:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946076"
+      },
+      {
+        "title": "Kolibri – Tech Report [pdf]",
+        "link": "https://aleph-alpha.com/downloads/tech-report.pdf",
+        "description": "<p>Article URL: <a href=\"https://aleph-alpha.com/downloads/tech-report.pdf\">https://aleph-alpha.com/downloads/tech-report.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946069\">https://news.ycombinator.com/item?id=49946069</a></p>\n<p>Points: 94</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 03 Oct 2026 17:22:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946069"
+      },
+      {
+        "title": "RetailReady (YC W24) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945904\">https://news.ycombinator.com/item?id=49945904</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 03 Oct 2026 17:00:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49945904"
+      },
+      {
         "title": "FTL: A new operating system for clouds",
         "link": "https://ftl-os.org/",
-        "description": "<p>Article URL: <a href=\"https://ftl-os.org/\">https://ftl-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944912\">https://news.ycombinator.com/item?id=49944912</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
+        "description": "<p><a href=\"https://github.com/nuta/ftl\" rel=\"nofollow\">https://github.com/nuta/ftl</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944912\">https://news.ycombinator.com/item?id=49944912</a></p>\n<p>Points: 117</p>\n<p># Comments: 49</p>",
         "pubDate": "Sat, 03 Oct 2026 15:02:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49944912"
       },
       {
-        "title": "US killer's sentence quashed because of AI video of victim shown in court",
-        "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cwgkvygg5nzvo\">https://www.bbc.com/news/articles/cwgkvygg5nzvo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944127\">https://news.ycombinator.com/item?id=49944127</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
-        "pubDate": "Sat, 03 Oct 2026 13:34:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49944127"
-      },
-      {
-        "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-        "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack\">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943524\">https://news.ycombinator.com/item?id=49943524</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 03 Oct 2026 12:02:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49943524"
-      },
-      {
-        "title": "The Escalation of War in Ethiopia",
-        "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-        "description": "<p>Article URL: <a href=\"https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia\">https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943451\">https://news.ycombinator.com/item?id=49943451</a></p>\n<p>Points: 112</p>\n<p># Comments: 98</p>",
-        "pubDate": "Sat, 03 Oct 2026 11:54:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49943451"
-      },
-      {
-        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-        "link": "https://tej.as/blog/aleph-alpha-kolibri",
-        "description": "<p>Article URL: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 262</p>\n<p># Comments: 116</p>",
-        "pubDate": "Sat, 03 Oct 2026 10:43:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49943034"
-      },
-      {
-        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "title": "Kolibri: A Sovereign Open-Weight Model",
         "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "description": "<p>Article URL: <a href=\"https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p>\n<p>Points: 171</p>\n<p># Comments: 29</p>",
+        "description": "<p><a href=\"https://tej.as/blog/aleph-alpha-kolibri\" rel=\"nofollow\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p>\n<p>Points: 392</p>\n<p># Comments: 253</p>",
         "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=49942706"
       },
       {
-        "title": "Show HN: Offrun – manage every coding agent from one workspace",
-        "link": "https://offrun.dev/",
-        "description": "<p>Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942434\">https://news.ycombinator.com/item?id=49942434</a></p>\n<p>Points: 43</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sat, 03 Oct 2026 08:40:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49942434"
-      },
-      {
         "title": "An Update on Orion for Linux and Windows",
         "link": "https://blog.kagi.com/update-orion-linux-windows",
-        "description": "<p>Article URL: <a href=\"https://blog.kagi.com/update-orion-linux-windows\">https://blog.kagi.com/update-orion-linux-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941447\">https://news.ycombinator.com/item?id=49941447</a></p>\n<p>Points: 135</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.kagi.com/update-orion-linux-windows\">https://blog.kagi.com/update-orion-linux-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941447\">https://news.ycombinator.com/item?id=49941447</a></p>\n<p>Points: 167</p>\n<p># Comments: 96</p>",
         "pubDate": "Sat, 03 Oct 2026 04:53:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=49941447"
       },
       {
-        "title": "Extra Big Ass Intelligence",
-        "link": "https://www.extrabigassintelligence.com/",
-        "description": "<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 398</p>\n<p># Comments: 89</p>",
-        "pubDate": "Sat, 03 Oct 2026 03:19:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49941114"
-      },
-      {
         "title": "Cloudflare OHTTP gateway",
         "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941091\">https://news.ycombinator.com/item?id=49941091</a></p>\n<p>Points: 143</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941091\">https://news.ycombinator.com/item?id=49941091</a></p>\n<p>Points: 176</p>\n<p># Comments: 81</p>",
         "pubDate": "Sat, 03 Oct 2026 03:15:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=49941091"
       },
       {
         "title": "Newgrounds.com – A community of games, music, and art",
         "link": "https://www.newgrounds.com/",
-        "description": "<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 361</p>\n<p># Comments: 101</p>",
+        "description": "<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 414</p>\n<p># Comments: 121</p>",
         "pubDate": "Sat, 03 Oct 2026 00:55:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=49940394"
       },
       {
         "title": "Woking Electrical Control Room (2016)",
         "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-        "description": "<p>Article URL: <a href=\"http://www.darbiansphotography.com/woking-electrical-control-room-urbex\">http://www.darbiansphotography.com/woking-electrical-control-room-urbex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938399\">https://news.ycombinator.com/item?id=49938399</a></p>\n<p>Points: 58</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"http://www.darbiansphotography.com/woking-electrical-control-room-urbex\">http://www.darbiansphotography.com/woking-electrical-control-room-urbex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938399\">https://news.ycombinator.com/item?id=49938399</a></p>\n<p>Points: 107</p>\n<p># Comments: 18</p>",
         "pubDate": "Fri, 02 Oct 2026 20:44:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=49938399"
       },
       {
-        "title": "Updates to Full Disk Access in macOS",
-        "link": "https://developer.apple.com/news/?id=p6zjojqw",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 254</p>\n<p># Comments: 170</p>",
-        "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49937631"
-      },
-      {
-        "title": "Make Tmux the OS",
-        "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-        "description": "<p>Article URL: <a href=\"https://matduggan.com/what-does-my-dream-os-ui-look-like/\">https://matduggan.com/what-does-my-dream-os-ui-look-like/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937540\">https://news.ycombinator.com/item?id=49937540</a></p>\n<p>Points: 135</p>\n<p># Comments: 71</p>",
-        "pubDate": "Fri, 02 Oct 2026 19:29:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49937540"
-      },
-      {
-        "title": "Muse Gadgets",
-        "link": "https://gadgets.muse.ai",
-        "description": "<p>Article URL: <a href=\"https://gadgets.muse.ai\">https://gadgets.muse.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937504\">https://news.ycombinator.com/item?id=49937504</a></p>\n<p>Points: 223</p>\n<p># Comments: 98</p>",
-        "pubDate": "Fri, 02 Oct 2026 19:26:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49937504"
+        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "link": "https://pipod.dev/",
+        "description": "<p>pi pod runs sessions of the pi coding agent in isolated sandboxes (\"pods\") on a server you run, in composable environments.<p>----<p>Since moving my company towards AI-native work, I have been really frustrated by the state of \"agentic engineering\" environments. Products by the labs (claude code, codex) lock you into a single provider for your tokens. Agnostic solutions (factory, devin, arguably cursor) make you pay per-token costs. None of these products allow you to fully customize the harness, and of course they all run on someone else's infrastructure.<p>I've been an early and fervent user of pi, which I think is fantastically simple and beautiful software. I have felt it needs an environment for it to work across platforms with fully functional composability for teams.<p>This is very much a work in progress, but for my team this has been a much needed solution and has helped us tremendously. I hope you will give it a try and let me know how you would like it to improve.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937304\">https://news.ycombinator.com/item?id=49937304</a></p>\n<p>Points: 38</p>\n<p># Comments: 22</p>",
+        "pubDate": "Fri, 02 Oct 2026 19:10:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49937304"
       },
       {
         "title": "Apple Pass Designer",
         "link": "https://developer.apple.com/pass-designer/",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 500</p>\n<p># Comments: 300</p>",
+        "description": "<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 538</p>\n<p># Comments: 320</p>",
         "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=49937276"
-      },
-      {
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "link": "https://dwarfstar.sh/",
-        "description": "<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 301</p>\n<p># Comments: 89</p>",
-        "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49936575"
-      },
-      {
-        "title": "One month coding with GLM 5.3 Flash",
-        "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-        "description": "<p>Article URL: <a href=\"https://wagtail.org/blog/one-month-on-glm-53-flash/\">https://wagtail.org/blog/one-month-on-glm-53-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934620\">https://news.ycombinator.com/item?id=49934620</a></p>\n<p>Points: 204</p>\n<p># Comments: 160</p>",
-        "pubDate": "Fri, 02 Oct 2026 15:29:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49934620"
-      },
-      {
-        "title": "With most information hidden, the game Stratego had stumped AI until now",
-        "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "description": "<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p>\n<p>Points: 255</p>\n<p># Comments: 121</p>",
-        "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49933740"
-      },
-      {
-        "title": "On building a worm detector",
-        "link": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
-        "description": "<p>Article URL: <a href=\"https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/\">https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932509\">https://news.ycombinator.com/item?id=49932509</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 02 Oct 2026 12:00:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49932509"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-03T16:07:48.002Z",
+  "lastUpdated": "2026-10-03T20:57:28.855Z",
   "stats": {
     "feeds": 2,
     "articles": 20
