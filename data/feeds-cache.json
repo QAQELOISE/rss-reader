@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-04T05:37:41.595Z"
+      "lastFetched": "2026-10-04T12:12:50.519Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-04T05:37:47.226Z"
+      "lastFetched": "2026-10-04T12:13:09.913Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Why don't more developers \"use the platform\"?",
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "link": "https://github.com/allenv0/SCM",
+        "description": "<p>Article URL: <a href=\"https://github.com/allenv0/SCM\">https://github.com/allenv0/SCM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952111\">https://news.ycombinator.com/item?id=49952111</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 04 Oct 2026 09:24:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49952111"
+      },
+      {
+        "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+        "link": "https://gamehistory.org/5k-magazines/",
+        "description": "<p>Article URL: <a href=\"https://gamehistory.org/5k-magazines/\">https://gamehistory.org/5k-magazines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952029\">https://news.ycombinator.com/item?id=49952029</a></p>\n<p>Points: 36</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 04 Oct 2026 09:07:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49952029"
+      },
+      {
+        "title": "In Ukraine, distributed renewables foil Russia's assaults",
+        "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+        "description": "<p>Article URL: <a href=\"https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/\">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951881\">https://news.ycombinator.com/item?id=49951881</a></p>\n<p>Points: 101</p>\n<p># Comments: 86</p>",
+        "pubDate": "Sun, 04 Oct 2026 08:39:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49951881"
+      },
+      {
+        "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+        "link": "https://github.com/PowderworksCode/headstart",
+        "description": "<p>Article URL: <a href=\"https://github.com/PowderworksCode/headstart\">https://github.com/PowderworksCode/headstart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951218\">https://news.ycombinator.com/item?id=49951218</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 04 Oct 2026 06:26:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49951218"
+      },
+      {
+        "title": "Why don't more developers “use the platform”?",
         "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-        "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p>\n<p>Points: 38</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p>\n<p>Points: 163</p>\n<p># Comments: 136</p>",
         "pubDate": "Sun, 04 Oct 2026 04:10:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=49950554"
       },
       {
+        "title": "Religious scholars met with Anthropic",
+        "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "description": "<p><a href=\"https://archive.is/y8FW0\" rel=\"nofollow\">https://archive.is/y8FW0</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950052\">https://news.ycombinator.com/item?id=49950052</a></p>\n<p>Points: 88</p>\n<p># Comments: 208</p>",
+        "pubDate": "Sun, 04 Oct 2026 02:34:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49950052"
+      },
+      {
         "title": "We're working on a new RuneScape MMO",
         "link": "https://play.runescape.com/4",
-        "description": "<p>Article URL: <a href=\"https://play.runescape.com/4\">https://play.runescape.com/4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949588\">https://news.ycombinator.com/item?id=49949588</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://play.runescape.com/4\">https://play.runescape.com/4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949588\">https://news.ycombinator.com/item?id=49949588</a></p>\n<p>Points: 87</p>\n<p># Comments: 34</p>",
         "pubDate": "Sun, 04 Oct 2026 01:12:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=49949588"
       },
       {
         "title": "Tell HN: Bob Cringely has died",
         "link": "https://news.ycombinator.com/item?id=49949438",
-        "description": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p>\n<p>Points: 298</p>\n<p># Comments: 54</p>",
+        "description": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p>\n<p>Points: 517</p>\n<p># Comments: 103</p>",
         "pubDate": "Sun, 04 Oct 2026 00:50:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=49949438"
       },
       {
         "title": "We're going to need default hard budget caps on pretty much everything",
         "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949235\">https://news.ycombinator.com/item?id=49949235</a></p>\n<p>Points: 328</p>\n<p># Comments: 163</p>",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949235\">https://news.ycombinator.com/item?id=49949235</a></p>\n<p>Points: 468</p>\n<p># Comments: 232</p>",
         "pubDate": "Sun, 04 Oct 2026 00:20:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=49949235"
       },
       {
-        "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-        "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-        "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/\">https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49948254\">https://news.ycombinator.com/item?id=49948254</a></p>\n<p>Points: 387</p>\n<p># Comments: 222</p>",
-        "pubDate": "Sat, 03 Oct 2026 22:07:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49948254"
-      },
-      {
         "title": "Reasons I didn't become an EMT, ranked",
         "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-        "description": "<p>Article URL: <a href=\"https://ben.stolovitz.com/posts/reasons-not-emt-ranked/\">https://ben.stolovitz.com/posts/reasons-not-emt-ranked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947631\">https://news.ycombinator.com/item?id=49947631</a></p>\n<p>Points: 129</p>\n<p># Comments: 63</p>",
+        "description": "<p>Article URL: <a href=\"https://ben.stolovitz.com/posts/reasons-not-emt-ranked/\">https://ben.stolovitz.com/posts/reasons-not-emt-ranked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947631\">https://news.ycombinator.com/item?id=49947631</a></p>\n<p>Points: 161</p>\n<p># Comments: 78</p>",
         "pubDate": "Sat, 03 Oct 2026 20:49:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=49947631"
       },
       {
         "title": "Surely you have ultra-wideband radios on your bins too?",
         "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-        "description": "<p>Article URL: <a href=\"https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/\">https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947472\">https://news.ycombinator.com/item?id=49947472</a></p>\n<p>Points: 60</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/\">https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947472\">https://news.ycombinator.com/item?id=49947472</a></p>\n<p>Points: 88</p>\n<p># Comments: 43</p>",
         "pubDate": "Sat, 03 Oct 2026 20:27:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=49947472"
       },
       {
+        "title": "We want you to build the next Git platform on Cloudflare",
+        "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/next-git-platform-on-cloudflare/\">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947051\">https://news.ycombinator.com/item?id=49947051</a></p>\n<p>Points: 145</p>\n<p># Comments: 126</p>",
+        "pubDate": "Sat, 03 Oct 2026 19:33:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49947051"
+      },
+      {
         "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
         "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-        "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU\">https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946895\">https://news.ycombinator.com/item?id=49946895</a></p>\n<p>Points: 204</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU\">https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946895\">https://news.ycombinator.com/item?id=49946895</a></p>\n<p>Points: 322</p>\n<p># Comments: 52</p>",
         "pubDate": "Sat, 03 Oct 2026 19:14:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=49946895"
       },
       {
-        "title": "RSS Feed Best Practices (2022)",
-        "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-        "description": "<p>Article URL: <a href=\"https://kevincox.ca/2022/05/06/rss-feed-best-practices/\">https://kevincox.ca/2022/05/06/rss-feed-best-practices/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946845\">https://news.ycombinator.com/item?id=49946845</a></p>\n<p>Points: 48</p>\n<p># Comments: 9</p>",
-        "pubDate": "Sat, 03 Oct 2026 19:09:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49946845"
+        "title": "How to hack time, with C2PA",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+        "description": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/hacking-time.html\">https://www.da.vidbuchanan.co.uk/blog/hacking-time.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946707\">https://news.ycombinator.com/item?id=49946707</a></p>\n<p>Points: 43</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 03 Oct 2026 18:52:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946707"
+      },
+      {
+        "title": "What Meta got right with Muse",
+        "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+        "description": "<p>Article URL: <a href=\"https://metedata.substack.com/p/what-meta-got-right-with-muse\">https://metedata.substack.com/p/what-meta-got-right-with-muse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946526\">https://news.ycombinator.com/item?id=49946526</a></p>\n<p>Points: 57</p>\n<p># Comments: 80</p>",
+        "pubDate": "Sat, 03 Oct 2026 18:23:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946526"
       },
       {
         "title": "Hole Punch: Sling your spaceship around gravitational fields",
         "link": "https://notoriousbfg.com/hole-punch/",
-        "description": "<p>Article URL: <a href=\"https://notoriousbfg.com/hole-punch/\">https://notoriousbfg.com/hole-punch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946393\">https://news.ycombinator.com/item?id=49946393</a></p>\n<p>Points: 262</p>\n<p># Comments: 62</p>",
+        "description": "<p>Article URL: <a href=\"https://notoriousbfg.com/hole-punch/\">https://notoriousbfg.com/hole-punch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946393\">https://news.ycombinator.com/item?id=49946393</a></p>\n<p>Points: 303</p>\n<p># Comments: 68</p>",
         "pubDate": "Sat, 03 Oct 2026 18:06:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=49946393"
       },
       {
         "title": "Treachery in the Rodin Museum 3D scan verdict",
         "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-        "description": "<p>Article URL: <a href=\"https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict\">https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946355\">https://news.ycombinator.com/item?id=49946355</a></p>\n<p>Points: 134</p>\n<p># Comments: 67</p>",
+        "description": "<p>Article URL: <a href=\"https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict\">https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946355\">https://news.ycombinator.com/item?id=49946355</a></p>\n<p>Points: 218</p>\n<p># Comments: 97</p>",
         "pubDate": "Sat, 03 Oct 2026 18:01:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=49946355"
       },
       {
+        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+        "description": "<p><a href=\"https://archive.ph/TyDPf\" rel=\"nofollow\">https://archive.ph/TyDPf</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946228\">https://news.ycombinator.com/item?id=49946228</a></p>\n<p>Points: 171</p>\n<p># Comments: 243</p>",
+        "pubDate": "Sat, 03 Oct 2026 17:44:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49946228"
+      },
+      {
         "title": "Agents don't need memory, they need documentation",
         "link": "https://liao.gg/blog/agents-dont-need-memory",
-        "description": "<p>Article URL: <a href=\"https://liao.gg/blog/agents-dont-need-memory\">https://liao.gg/blog/agents-dont-need-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945933\">https://news.ycombinator.com/item?id=49945933</a></p>\n<p>Points: 108</p>\n<p># Comments: 64</p>",
+        "description": "<p>Article URL: <a href=\"https://liao.gg/blog/agents-dont-need-memory\">https://liao.gg/blog/agents-dont-need-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945933\">https://news.ycombinator.com/item?id=49945933</a></p>\n<p>Points: 211</p>\n<p># Comments: 113</p>",
         "pubDate": "Sat, 03 Oct 2026 17:03:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=49945933"
       },
       {
-        "title": "RetailReady (YC W24) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945904\">https://news.ycombinator.com/item?id=49945904</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 03 Oct 2026 17:00:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49945904"
-      },
-      {
-        "title": "Docker has always used microVMs (well since 2016)",
-        "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
-        "description": "<p>Article URL: <a href=\"https://dave.recoil.org/docker-has-always-used-microvms/\">https://dave.recoil.org/docker-has-always-used-microvms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945352\">https://news.ycombinator.com/item?id=49945352</a></p>\n<p>Points: 30</p>\n<p># Comments: 21</p>",
-        "pubDate": "Sat, 03 Oct 2026 15:55:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49945352"
-      },
-      {
         "title": "FTL: A new operating system for clouds",
         "link": "https://ftl-os.org/",
-        "description": "<p><a href=\"https://github.com/nuta/ftl\" rel=\"nofollow\">https://github.com/nuta/ftl</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944912\">https://news.ycombinator.com/item?id=49944912</a></p>\n<p>Points: 161</p>\n<p># Comments: 65</p>",
+        "description": "<p><a href=\"https://github.com/nuta/ftl\" rel=\"nofollow\">https://github.com/nuta/ftl</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944912\">https://news.ycombinator.com/item?id=49944912</a></p>\n<p>Points: 178</p>\n<p># Comments: 68</p>",
         "pubDate": "Sat, 03 Oct 2026 15:02:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=49944912"
-      },
-      {
-        "title": "I quit OpenAI because its culture is broken",
-        "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-        "description": "<p><a href=\"https://archive.ph/5GQx8\" rel=\"nofollow\">https://archive.ph/5GQx8</a><p><a href=\"https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/oct/03/openai-sa...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944227\">https://news.ycombinator.com/item?id=49944227</a></p>\n<p>Points: 136</p>\n<p># Comments: 392</p>",
-        "pubDate": "Sat, 03 Oct 2026 13:46:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49944227"
-      },
-      {
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "description": "<p>tech report: <a href=\"https://aleph-alpha.com/downloads/tech-report.pdf\" rel=\"nofollow\">https://aleph-alpha.com/downloads/tech-report.pdf</a><p>additional paper: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\" rel=\"nofollow\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p>\n<p>Points: 557</p>\n<p># Comments: 311</p>",
-        "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49942706"
-      },
-      {
-        "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-        "link": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-        "description": "<p>Article URL: <a href=\"https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program\">https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942130\">https://news.ycombinator.com/item?id=49942130</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
-        "pubDate": "Sat, 03 Oct 2026 07:32:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49942130"
-      },
-      {
-        "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-        "link": "https://thoreaubasic.com/",
-        "description": "<p>Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like:<p><pre><code>  DIM A%(12000000000)\n</code></pre>\n…and have it actually work. Then I kept adding things. The result is Thoreau BASIC, a free x64 BASIC interpreter inspired by GW-BASIC, running both as a normal Windows program and directly on bare-metal UEFI without an operating system.<p>Version 3.2 has become considerably more ambitious than the little interpreter I originally intended to write. The language still deliberately looks and feels like old Microsoft BASIC. Line numbers, GOTO, GOSUB, PRINT, PSET, LINE, CIRCLE, DRAW, etc. are all there. But underneath that rather innocent-looking surface is now quite a lot of machinery.<p>Some of the current features:<p><pre><code>  native x64 JIT compilation, with automatic fallback to the interpreter\n  PARFOR for multithreaded numeric loops\n  SSE2 / AVX2 acceleration where available\n  64-bit addressing and very large arrays\n  native complex, quaternion and other hypercomplex numbers\n  arbitrary-resolution 24-bit graphics\n  sprites, bitmap operations, polygon filling and mouse input\n  TCP/IP networking on Windows and UEFI\n  an integrated profiler, debugger, tracing and program-analysis tools\n  CREATEEXE to turn a BASIC program into a standalone Windows executable\n  CREATEEFI to turn the same program into a directly bootable UEFI application\n</code></pre>\nThe sound system has also grown rather out of proportion. Thoreau BASIC can now handle up to 32 live instrument channels plus 64 sound effect channels and 256 voices, with real-time pan and brightness control. NOTE and SOUNDKEY can be used more like playable synthesis primitives rather than just old-school BASIC beeps.<p>3.2 also expands the less glamorous but surprisingly useful parts of the environment. There is better file browsing and selection with GETFILES and SELECTBOX, longer case-preserving paths, recovery/file-flush facilities, and considerably more detailed SYSTEMINFO$ diagnostics. The latter is useful for seeing things such as available CPU capabilities and the execution environment while debugging performance differences between machines.<p>One thing I've spent a lot of time on recently is making the BASIC programs themselves fast enough that they stop feeling like demonstrations of an interpreter. For example, the current Mandelbrot demo is a real-time interactive fractal explorer. Mouse movement pans the fractal, left-click zooms in and right-click zooms out, while the BASIC program continuously redraws and displays the frame rate.<p>There are also 3D and procedural demos, sprite programs, networking examples, hypercomplex fractals and games.\nAn important design constraint throughout the project has been that Windows and UEFI should execute essentially the same BASIC language. A program shouldn't suddenly become a different species just because there is no operating system underneath it.<p>And yes, I am fully aware of the absurdity of combining GOTO 100 with AVX2, multithreading, TCP/IP and quaternion arithmetic. That is increasingly the point. I'm interested in the question: What would BASIC look like if it had never gone out of fashion? Thoreau BASIC 3.2 is my current answer.<p>I'd be especially interested in feedback from people who remember GW-BASIC/QBasic, compiler/interpreter people, and anyone sufficiently unreasonable to enjoy the idea of booting a modern x64 PC directly into a BASIC interpreter/JIT compiler.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942103\">https://news.ycombinator.com/item?id=49942103</a></p>\n<p>Points: 43</p>\n<p># Comments: 13</p>",
-        "pubDate": "Sat, 03 Oct 2026 07:28:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49942103"
-      },
-      {
-        "title": "The characters of plastics (2024)",
-        "link": "https://yarchive.net/blog/plastics/",
-        "description": "<p>Article URL: <a href=\"https://yarchive.net/blog/plastics/\">https://yarchive.net/blog/plastics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941764\">https://news.ycombinator.com/item?id=49941764</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sat, 03 Oct 2026 06:14:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49941764"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-04T05:37:47.226Z",
+  "lastUpdated": "2026-10-04T12:13:09.913Z",
   "stats": {
     "feeds": 2,
     "articles": 20
