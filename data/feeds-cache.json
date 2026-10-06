@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-05T14:23:05.468Z"
+      "lastFetched": "2026-10-06T06:10:11.894Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-05T14:23:25.292Z"
+      "lastFetched": "2026-10-06T06:10:31.690Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-        "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-        "description": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped\">https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49964303\">https://news.ycombinator.com/item?id=49964303</a></p>\n<p>Points: 68</p>\n<p># Comments: 37</p>",
-        "pubDate": "Mon, 05 Oct 2026 13:02:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49964303"
+        "title": "Resurrecting iChat Audio and Video Conferencing",
+        "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+        "description": "<p>Article URL: <a href=\"https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973878\">https://news.ycombinator.com/item?id=49973878</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+        "pubDate": "Tue, 06 Oct 2026 03:39:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49973878"
       },
       {
-        "title": "Gitframes",
-        "link": "https://github.com/gatewai-dev/gitframes",
-        "description": "<p>Article URL: <a href=\"https://github.com/gatewai-dev/gitframes\">https://github.com/gatewai-dev/gitframes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49964265\">https://news.ycombinator.com/item?id=49964265</a></p>\n<p>Points: 22</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 05 Oct 2026 12:59:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49964265"
+        "title": "Why Common Lisp is now the best programming language",
+        "link": "https://www.vivienhenz.com/common-lisp",
+        "description": "<p>Article URL: <a href=\"https://www.vivienhenz.com/common-lisp\">https://www.vivienhenz.com/common-lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973598\">https://news.ycombinator.com/item?id=49973598</a></p>\n<p>Points: 92</p>\n<p># Comments: 115</p>",
+        "pubDate": "Tue, 06 Oct 2026 02:51:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49973598"
       },
       {
-        "title": "Tell HN: Uceprotect is extorting website owners",
-        "link": "https://news.ycombinator.com/item?id=49964045",
-        "description": "<p>I recently discovered by accident that our website was being blocked by Orange's security filters.<p>After a quick check, I found that our IP address is listed on UCEPROTECT Level 3. The listing is based on the reputation of the entire ASN 14061 (DigitalOcean, US) [1]. In other words, even if your IP did nothing wrong, it will still be listed because of its ASN.<p>If your site is innocent and listed only because it's hosted on DigitalOcean, UCEPROTECT offers to whitelist it for about $30/month or $108/year [2].<p>I checked the ASNs of several other popular hosting providers, and they're all listed too. So if your site is hosted on DigitalOcean or any other major provider, it's probably blacklisted as well. That can cut you off from customers on mobile networks like Orange, whose \"cybersecurity protection\" uses blacklists like UCEPROTECT to filter traffic.<p>Honestly, in my 20-year career, this is the first time I've seen a blacklist misbehave this badly and ask for money when there's clearly been no wrongdoing.<p>[1] http://www.uceprotect.net/en/rblcheck.php?asn=14061<p>[2] https://www.whitelisted.org/</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49964045\">https://news.ycombinator.com/item?id=49964045</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
-        "pubDate": "Mon, 05 Oct 2026 12:35:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49964045"
+        "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+        "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+        "description": "<p>Article URL: <a href=\"https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972607\">https://news.ycombinator.com/item?id=49972607</a></p>\n<p>Points: 106</p>\n<p># Comments: 86</p>",
+        "pubDate": "Tue, 06 Oct 2026 00:24:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49972607"
       },
       {
-        "title": "The Era of Software Quality, or the Era of Ostriches?",
-        "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-        "description": "<p>Article URL: <a href=\"https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/\">https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49964018\">https://news.ycombinator.com/item?id=49964018</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
-        "pubDate": "Mon, 05 Oct 2026 12:33:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49964018"
+        "title": "Samon: Designing a Zen Garden Raking Puzzle",
+        "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+        "description": "<p>Article URL: <a href=\"https://gwern.net/doc/design/2026-10-03-gwern-samon.html\">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972211\">https://news.ycombinator.com/item?id=49972211</a></p>\n<p>Points: 38</p>\n<p># Comments: 15</p>",
+        "pubDate": "Mon, 05 Oct 2026 23:35:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49972211"
       },
       {
-        "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-        "description": "<p>Article URL: <a href=\"https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/\">https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49963366\">https://news.ycombinator.com/item?id=49963366</a></p>\n<p>Points: 191</p>\n<p># Comments: 158</p>",
-        "pubDate": "Mon, 05 Oct 2026 11:13:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49963366"
+        "title": "Ephemeral Testing",
+        "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+        "description": "<p>Article URL: <a href=\"https://lemire.me/blog/2026/10/05/ephemeral-testing/\">https://lemire.me/blog/2026/10/05/ephemeral-testing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972008\">https://news.ycombinator.com/item?id=49972008</a></p>\n<p>Points: 47</p>\n<p># Comments: 13</p>",
+        "pubDate": "Mon, 05 Oct 2026 23:06:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49972008"
+      },
+      {
+        "title": "Example.com just launched the biggest redesign in decades",
+        "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+        "description": "<p>Article URL: <a href=\"https://www.debugbear.com/blog/example-dot-com-redesign-history\">https://www.debugbear.com/blog/example-dot-com-redesign-history</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971921\">https://news.ycombinator.com/item?id=49971921</a></p>\n<p>Points: 164</p>\n<p># Comments: 92</p>",
+        "pubDate": "Mon, 05 Oct 2026 22:55:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49971921"
+      },
+      {
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/\">https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971846\">https://news.ycombinator.com/item?id=49971846</a></p>\n<p>Points: 371</p>\n<p># Comments: 268</p>",
+        "pubDate": "Mon, 05 Oct 2026 22:46:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49971846"
+      },
+      {
+        "title": "Global Solar Atlas: summary of solar power potential globally",
+        "link": "https://globalsolaratlas.info/",
+        "description": "<p>Article URL: <a href=\"https://globalsolaratlas.info/\">https://globalsolaratlas.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971782\">https://news.ycombinator.com/item?id=49971782</a></p>\n<p>Points: 41</p>\n<p># Comments: 18</p>",
+        "pubDate": "Mon, 05 Oct 2026 22:37:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49971782"
+      },
+      {
+        "title": "Friendship ended with Deno, now Node is my best friend",
+        "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+        "description": "<p>Article URL: <a href=\"https://dbushell.com/2026/10/03/deno-to-node/\">https://dbushell.com/2026/10/03/deno-to-node/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971719\">https://news.ycombinator.com/item?id=49971719</a></p>\n<p>Points: 118</p>\n<p># Comments: 52</p>",
+        "pubDate": "Mon, 05 Oct 2026 22:30:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49971719"
+      },
+      {
+        "title": "Texas city demands $2M for public records on Flock usage",
+        "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/\">https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971523\">https://news.ycombinator.com/item?id=49971523</a></p>\n<p>Points: 165</p>\n<p># Comments: 26</p>",
+        "pubDate": "Mon, 05 Oct 2026 22:05:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49971523"
+      },
+      {
+        "title": "Find the flattest route between any two points in SF",
+        "link": "https://flattensf.com/",
+        "description": "<p>Article URL: <a href=\"https://flattensf.com/\">https://flattensf.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971230\">https://news.ycombinator.com/item?id=49971230</a></p>\n<p>Points: 157</p>\n<p># Comments: 52</p>",
+        "pubDate": "Mon, 05 Oct 2026 21:40:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49971230"
+      },
+      {
+        "title": "Dust: Pretraining Transformers Without Backpropagation",
+        "link": "https://qlabs.sh/research/dust",
+        "description": "<p>Article URL: <a href=\"https://qlabs.sh/research/dust\">https://qlabs.sh/research/dust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49970871\">https://news.ycombinator.com/item?id=49970871</a></p>\n<p>Points: 147</p>\n<p># Comments: 33</p>",
+        "pubDate": "Mon, 05 Oct 2026 21:15:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49970871"
+      },
+      {
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49970667\">https://news.ycombinator.com/item?id=49970667</a></p>\n<p>Points: 286</p>\n<p># Comments: 190</p>",
+        "pubDate": "Mon, 05 Oct 2026 21:00:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49970667"
+      },
+      {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "link": "https://reflection.ai/blog/introducing-beam",
+        "description": "<p>Article URL: <a href=\"https://reflection.ai/blog/introducing-beam\">https://reflection.ai/blog/introducing-beam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49969183\">https://news.ycombinator.com/item?id=49969183</a></p>\n<p>Points: 387</p>\n<p># Comments: 120</p>",
+        "pubDate": "Mon, 05 Oct 2026 19:16:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49969183"
+      },
+      {
+        "title": "Making a GTK application in Haskell, part 1",
+        "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+        "description": "<p>Article URL: <a href=\"https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965308\">https://news.ycombinator.com/item?id=49965308</a></p>\n<p>Points: 147</p>\n<p># Comments: 39</p>",
+        "pubDate": "Mon, 05 Oct 2026 14:23:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49965308"
+      },
+      {
+        "title": "The lamps in my house",
+        "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+        "description": "<p>Article URL: <a href=\"https://arslan.io/2026/10/05/the-lamps-in-my-house/\">https://arslan.io/2026/10/05/the-lamps-in-my-house/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965152\">https://news.ycombinator.com/item?id=49965152</a></p>\n<p>Points: 170</p>\n<p># Comments: 79</p>",
+        "pubDate": "Mon, 05 Oct 2026 14:12:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49965152"
+      },
+      {
+        "title": "Linux containers in 500 lines of code (2016)",
+        "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+        "description": "<p>Article URL: <a href=\"https://blog.lizzie.io/linux-containers-in-500-loc.html\">https://blog.lizzie.io/linux-containers-in-500-loc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965118\">https://news.ycombinator.com/item?id=49965118</a></p>\n<p>Points: 113</p>\n<p># Comments: 23</p>",
+        "pubDate": "Mon, 05 Oct 2026 14:09:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49965118"
       },
       {
         "title": "Web Search API",
         "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-        "description": "<p>Article URL: <a href=\"https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\">https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49963171\">https://news.ycombinator.com/item?id=49963171</a></p>\n<p>Points: 137</p>\n<p># Comments: 73</p>",
+        "description": "<p>Article URL: <a href=\"https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\">https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49963171\">https://news.ycombinator.com/item?id=49963171</a></p>\n<p>Points: 520</p>\n<p># Comments: 237</p>",
         "pubDate": "Mon, 05 Oct 2026 10:47:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=49963171"
       },
       {
-        "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-        "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-        "description": "<p>Article URL: <a href=\"https://www.nobelprize.org/prizes/medicine/2026/press-release/\">https://www.nobelprize.org/prizes/medicine/2026/press-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49963094\">https://news.ycombinator.com/item?id=49963094</a></p>\n<p>Points: 65</p>\n<p># Comments: 21</p>",
-        "pubDate": "Mon, 05 Oct 2026 10:35:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49963094"
-      },
-      {
-        "title": "Apple and a Hacker's Future",
+        "title": "Apple and a hacker's future",
         "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-        "description": "<p>Article URL: <a href=\"https://stratechery.com/2026/apple-and-a-hackers-future/\">https://stratechery.com/2026/apple-and-a-hackers-future/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49962857\">https://news.ycombinator.com/item?id=49962857</a></p>\n<p>Points: 106</p>\n<p># Comments: 81</p>",
+        "description": "<p>Article URL: <a href=\"https://stratechery.com/2026/apple-and-a-hackers-future/\">https://stratechery.com/2026/apple-and-a-hackers-future/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49962857\">https://news.ycombinator.com/item?id=49962857</a></p>\n<p>Points: 237</p>\n<p># Comments: 208</p>",
         "pubDate": "Mon, 05 Oct 2026 10:05:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=49962857"
       },
       {
-        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-        "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-        "description": "<p>Article URL: <a href=\"https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger\">https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49962012\">https://news.ycombinator.com/item?id=49962012</a></p>\n<p>Points: 281</p>\n<p># Comments: 222</p>",
-        "pubDate": "Mon, 05 Oct 2026 08:09:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49962012"
-      },
-      {
-        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-        "description": "<p>Article URL: <a href=\"https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\">https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49961861\">https://news.ycombinator.com/item?id=49961861</a></p>\n<p>Points: 102</p>\n<p># Comments: 64</p>",
+        "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+        "description": "<p><a href=\"https://archive.ph/Axpbl\" rel=\"nofollow\">https://archive.ph/Axpbl</a><p><a href=\"https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\" rel=\"nofollow\">https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49961861\">https://news.ycombinator.com/item?id=49961861</a></p>\n<p>Points: 186</p>\n<p># Comments: 123</p>",
         "pubDate": "Mon, 05 Oct 2026 07:46:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=49961861"
-      },
-      {
-        "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-        "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-        "description": "<p>Article URL: <a href=\"https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49959869\">https://news.ycombinator.com/item?id=49959869</a></p>\n<p>Points: 257</p>\n<p># Comments: 217</p>",
-        "pubDate": "Mon, 05 Oct 2026 01:54:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49959869"
-      },
-      {
-        "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-        "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-        "description": "<p><a href=\"https://archive.org/details/tippett-archive/\" rel=\"nofollow\">https://archive.org/details/tippett-archive/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957812\">https://news.ycombinator.com/item?id=49957812</a></p>\n<p>Points: 183</p>\n<p># Comments: 20</p>",
-        "pubDate": "Sun, 04 Oct 2026 21:01:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49957812"
-      },
-      {
-        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "link": "https://github.com/omlahore/RemoveMacAI",
-        "description": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 667</p>\n<p># Comments: 453</p>",
-        "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49957116"
-      },
-      {
-        "title": "Improper redaction reveals Google Data Center water and electricity usage",
-        "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-        "description": "<p>Article URL: <a href=\"https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957068\">https://news.ycombinator.com/item?id=49957068</a></p>\n<p>Points: 463</p>\n<p># Comments: 597</p>",
-        "pubDate": "Sun, 04 Oct 2026 19:37:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49957068"
-      },
-      {
-        "title": "A browser-native classic Visual Basic VB6 IDE",
-        "link": "https://wieslawsoltes.github.io/VB6/",
-        "description": "<p>Article URL: <a href=\"https://wieslawsoltes.github.io/VB6/\">https://wieslawsoltes.github.io/VB6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49956681\">https://news.ycombinator.com/item?id=49956681</a></p>\n<p>Points: 311</p>\n<p># Comments: 101</p>",
-        "pubDate": "Sun, 04 Oct 2026 18:49:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49956681"
-      },
-      {
-        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-        "link": "https://github.com/Niko1221/Strata",
-        "description": "<p>Article URL: <a href=\"https://github.com/Niko1221/Strata\">https://github.com/Niko1221/Strata</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953495\">https://news.ycombinator.com/item?id=49953495</a></p>\n<p>Points: 851</p>\n<p># Comments: 383</p>",
-        "pubDate": "Sun, 04 Oct 2026 12:51:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49953495"
-      },
-      {
-        "title": "We ported the original Doom to SQL",
-        "link": "https://cedardb.com/blog/sqldoom/",
-        "description": "<p>Article URL: <a href=\"https://cedardb.com/blog/sqldoom/\">https://cedardb.com/blog/sqldoom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49948300\">https://news.ycombinator.com/item?id=49948300</a></p>\n<p>Points: 210</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sat, 03 Oct 2026 22:14:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49948300"
-      },
-      {
-        "title": "Automating my 35mm film scanning pipeline",
-        "link": "https://shannadige.com/blog/darkroom/",
-        "description": "<p>Article URL: <a href=\"https://shannadige.com/blog/darkroom/\">https://shannadige.com/blog/darkroom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946148\">https://news.ycombinator.com/item?id=49946148</a></p>\n<p>Points: 96</p>\n<p># Comments: 65</p>",
-        "pubDate": "Sat, 03 Oct 2026 17:35:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49946148"
-      },
-      {
-        "title": "Infidel goes wild",
-        "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-        "description": "<p>Article URL: <a href=\"https://blog.zarfhome.com/2026/10/infidel-goes-wild\">https://blog.zarfhome.com/2026/10/infidel-goes-wild</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943637\">https://news.ycombinator.com/item?id=49943637</a></p>\n<p>Points: 155</p>\n<p># Comments: 30</p>",
-        "pubDate": "Sat, 03 Oct 2026 12:19:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49943637"
-      },
-      {
-        "title": "Type Safe Generic Data Structures in C",
-        "link": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-        "description": "<p>Article URL: <a href=\"https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/\">https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943479\">https://news.ycombinator.com/item?id=49943479</a></p>\n<p>Points: 50</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sat, 03 Oct 2026 11:57:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49943479"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-05T14:23:25.292Z",
+  "lastUpdated": "2026-10-06T06:10:31.690Z",
   "stats": {
     "feeds": 2,
     "articles": 20
