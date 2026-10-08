@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-07T13:09:16.679Z"
+      "lastFetched": "2026-10-08T05:48:33.248Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-07T23:00:38.006Z"
+      "lastFetched": "2026-10-08T05:48:52.862Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Terence Tao Responds to the OpenAI Math Drop",
+        "link": "https://mathstodon.xyz/@tao/117395269325940185",
+        "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117395269325940185\">https://mathstodon.xyz/@tao/117395269325940185</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002008\">https://news.ycombinator.com/item?id=50002008</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 08 Oct 2026 05:14:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50002008"
+      },
+      {
+        "title": "A 100x faster* alternative to homebrew",
+        "link": "https://github.com/zerobrewhq/zerobrew",
+        "description": "<p>Article URL: <a href=\"https://github.com/zerobrewhq/zerobrew\">https://github.com/zerobrewhq/zerobrew</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50001580\">https://news.ycombinator.com/item?id=50001580</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
+        "pubDate": "Thu, 08 Oct 2026 03:23:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50001580"
+      },
+      {
+        "title": "Margaret Hamilton has died",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "description": "<p>Article URL: <a href=\"https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998895\">https://news.ycombinator.com/item?id=49998895</a></p>\n<p>Points: 1124</p>\n<p># Comments: 126</p>",
+        "pubDate": "Wed, 07 Oct 2026 21:16:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49998895"
+      },
+      {
+        "title": "'Jonathan' is the oldest land animal on Earth",
+        "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+        "description": "<p>Article URL: <a href=\"https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998066\">https://news.ycombinator.com/item?id=49998066</a></p>\n<p>Points: 108</p>\n<p># Comments: 42</p>",
+        "pubDate": "Wed, 07 Oct 2026 20:01:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49998066"
+      },
+      {
+        "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+        "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+        "description": "<p>Article URL: <a href=\"https://debasishg.github.io/blog/push-ifs-up-fors-down/\">https://debasishg.github.io/blog/push-ifs-up-fors-down/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997073\">https://news.ycombinator.com/item?id=49997073</a></p>\n<p>Points: 130</p>\n<p># Comments: 61</p>",
+        "pubDate": "Wed, 07 Oct 2026 18:43:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49997073"
+      },
+      {
+        "title": "Claude Haiku 5.5",
+        "link": "https://www.anthropic.com/claude-haiku-5-5",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">https://www.anthropic.com/claude-haiku-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996437\">https://news.ycombinator.com/item?id=49996437</a></p>\n<p>Points: 783</p>\n<p># Comments: 388</p>",
+        "pubDate": "Wed, 07 Oct 2026 18:01:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49996437"
+      },
+      {
+        "title": "GPT‑6 and Intelligent UI for everyone",
+        "link": "https://openai.com/index/gpt-6-for-everyone/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/gpt-6-for-everyone/\">https://openai.com/index/gpt-6-for-everyone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996425\">https://news.ycombinator.com/item?id=49996425</a></p>\n<p>Points: 567</p>\n<p># Comments: 296</p>",
+        "pubDate": "Wed, 07 Oct 2026 18:00:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49996425"
+      },
+      {
+        "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+        "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html\">https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996406\">https://news.ycombinator.com/item?id=49996406</a></p>\n<p>Points: 64</p>\n<p># Comments: 5</p>",
+        "pubDate": "Wed, 07 Oct 2026 17:59:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49996406"
+      },
+      {
+        "title": "Docker Agent",
+        "link": "https://github.com/docker/docker-agent",
+        "description": "<p>Article URL: <a href=\"https://github.com/docker/docker-agent\">https://github.com/docker/docker-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996259\">https://news.ycombinator.com/item?id=49996259</a></p>\n<p>Points: 209</p>\n<p># Comments: 97</p>",
+        "pubDate": "Wed, 07 Oct 2026 17:48:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49996259"
+      },
+      {
+        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+        "link": "https://bigwords.page/",
+        "description": "<p>Article URL: <a href=\"https://bigwords.page/\">https://bigwords.page/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994443\">https://news.ycombinator.com/item?id=49994443</a></p>\n<p>Points: 430</p>\n<p># Comments: 126</p>",
+        "pubDate": "Wed, 07 Oct 2026 15:44:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49994443"
+      },
+      {
+        "title": "Navier–Stokes Lost in Translation",
+        "link": "https://arxiv.org/abs/2610.08144",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.08144\">https://arxiv.org/abs/2610.08144</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994145\">https://news.ycombinator.com/item?id=49994145</a></p>\n<p>Points: 281</p>\n<p># Comments: 174</p>",
+        "pubDate": "Wed, 07 Oct 2026 15:24:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49994145"
+      },
+      {
+        "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+        "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+        "description": "<p>Article URL: <a href=\"https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees\">https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49993914\">https://news.ycombinator.com/item?id=49993914</a></p>\n<p>Points: 528</p>\n<p># Comments: 381</p>",
+        "pubDate": "Wed, 07 Oct 2026 15:09:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49993914"
+      },
+      {
+        "title": "Why were Victorian elites so effective?",
+        "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+        "description": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/\">https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49993908\">https://news.ycombinator.com/item?id=49993908</a></p>\n<p>Points: 125</p>\n<p># Comments: 192</p>",
+        "pubDate": "Wed, 07 Oct 2026 15:09:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49993908"
+      },
+      {
+        "title": "Animated ASCII Art for Web Pages",
+        "link": "https://ascii.rest/",
+        "description": "<p>Article URL: <a href=\"https://ascii.rest/\">https://ascii.rest/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49993857\">https://news.ycombinator.com/item?id=49993857</a></p>\n<p>Points: 323</p>\n<p># Comments: 60</p>",
+        "pubDate": "Wed, 07 Oct 2026 15:05:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49993857"
+      },
+      {
+        "title": "Anti-patterns in software blogging",
+        "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+        "description": "<p>Article URL: <a href=\"https://refactoringenglish.com/blog/anti-patterns-software-blogging/\">https://refactoringenglish.com/blog/anti-patterns-software-blogging/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49992257\">https://news.ycombinator.com/item?id=49992257</a></p>\n<p>Points: 239</p>\n<p># Comments: 129</p>",
+        "pubDate": "Wed, 07 Oct 2026 13:08:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49992257"
+      },
+      {
+        "title": "House with 15m underground tunnels for sale for 300k",
+        "link": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+        "description": "<p>Article URL: <a href=\"https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/\">https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49992125\">https://news.ycombinator.com/item?id=49992125</a></p>\n<p>Points: 186</p>\n<p># Comments: 169</p>",
+        "pubDate": "Wed, 07 Oct 2026 12:57:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49992125"
+      },
+      {
+        "title": "Google Playground: Create and play custom games",
+        "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+        "description": "<p><a href=\"https://labs.google/playground\" rel=\"nofollow\">https://labs.google/playground</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49991823\">https://news.ycombinator.com/item?id=49991823</a></p>\n<p>Points: 133</p>\n<p># Comments: 211</p>",
+        "pubDate": "Wed, 07 Oct 2026 12:28:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49991823"
+      },
+      {
+        "title": "Shipping JPEG XL in Chrome",
+        "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "description": "<p>Article URL: <a href=\"https://developer.chrome.com/blog/jpeg-xl-in-chrome\">https://developer.chrome.com/blog/jpeg-xl-in-chrome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49991227\">https://news.ycombinator.com/item?id=49991227</a></p>\n<p>Points: 520</p>\n<p># Comments: 351</p>",
+        "pubDate": "Wed, 07 Oct 2026 11:25:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49991227"
+      },
+      {
+        "title": "Sharing AI progress in mathematics",
+        "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "description": "<p><a href=\"https://github.com/openai/math\" rel=\"nofollow\">https://github.com/openai/math</a><p><a href=\"https://github.com/openai/math/tree/main/preprints\" rel=\"nofollow\">https://github.com/openai/math/tree/main/preprints</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49984923\">https://news.ycombinator.com/item?id=49984923</a></p>\n<p>Points: 1263</p>\n<p># Comments: 1432</p>",
+        "pubDate": "Tue, 06 Oct 2026 22:17:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49984923"
+      },
+      {
+        "title": "Cleo (Mathematician)",
+        "link": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Cleo_(mathematician)\">https://en.wikipedia.org/wiki/Cleo_(mathematician)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49982445\">https://news.ycombinator.com/item?id=49982445</a></p>\n<p>Points: 102</p>\n<p># Comments: 11</p>",
+        "pubDate": "Tue, 06 Oct 2026 18:49:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=49982445"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-07T23:00:38.006Z",
+  "lastUpdated": "2026-10-08T05:48:52.863Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
