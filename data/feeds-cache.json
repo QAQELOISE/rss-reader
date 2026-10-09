@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-08T23:14:29.186Z"
+      "lastFetched": "2026-10-09T05:53:16.877Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-08T23:14:35.431Z"
+      "lastFetched": "2026-10-09T05:53:31.295Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-        "link": "https://github.com/thesnarkitecht/rembrandt",
-        "description": "<p>Article URL: <a href=\"https://github.com/thesnarkitecht/rembrandt\">https://github.com/thesnarkitecht/rembrandt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50012199\">https://news.ycombinator.com/item?id=50012199</a></p>\n<p>Points: 33</p>\n<p># Comments: 27</p>",
-        "pubDate": "Thu, 08 Oct 2026 21:00:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50012199"
+        "title": "Show HN: Quake ported to safe Rust, playable in browser",
+        "link": "https://quake-srp.pages.dev/",
+        "description": "<p>Article URL: <a href=\"https://quake-srp.pages.dev/\">https://quake-srp.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016312\">https://news.ycombinator.com/item?id=50016312</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50016312"
+      },
+      {
+        "title": "Anger as man sentenced to death for Facebook comment",
+        "link": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
+        "description": "<p>Article URL: <a href=\"https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304\">https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015486\">https://news.ycombinator.com/item?id=50015486</a></p>\n<p>Points: 35</p>\n<p># Comments: 17</p>",
+        "pubDate": "Fri, 09 Oct 2026 03:03:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50015486"
+      },
+      {
+        "title": "Reducing undefined behavior in the C language",
+        "link": "https://lwn.net/Articles/1095811/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1095811/\">https://lwn.net/Articles/1095811/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015074\">https://news.ycombinator.com/item?id=50015074</a></p>\n<p>Points: 71</p>\n<p># Comments: 43</p>",
+        "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50015074"
+      },
+      {
+        "title": "Bevy 0.20",
+        "link": "https://bevy.org/news/bevy-0-20/",
+        "description": "<p>Article URL: <a href=\"https://bevy.org/news/bevy-0-20/\">https://bevy.org/news/bevy-0-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013610\">https://news.ycombinator.com/item?id=50013610</a></p>\n<p>Points: 116</p>\n<p># Comments: 20</p>",
+        "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50013610"
       },
       {
         "title": "AI-ready biological data: $1.8B global commitment",
         "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-        "description": "<p>Article URL: <a href=\"https://biohub.org/news/virtual-biology-initiative-expansion/\">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011999\">https://news.ycombinator.com/item?id=50011999</a></p>\n<p>Points: 38</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://biohub.org/news/virtual-biology-initiative-expansion/\">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011999\">https://news.ycombinator.com/item?id=50011999</a></p>\n<p>Points: 102</p>\n<p># Comments: 14</p>",
         "pubDate": "Thu, 08 Oct 2026 20:46:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=50011999"
       },
       {
         "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
         "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-        "description": "<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011928\">https://news.ycombinator.com/item?id=50011928</a></p>\n<p>Points: 87</p>\n<p># Comments: 80</p>",
+        "description": "<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011928\">https://news.ycombinator.com/item?id=50011928</a></p>\n<p>Points: 241</p>\n<p># Comments: 143</p>",
         "pubDate": "Thu, 08 Oct 2026 20:42:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50011928"
       },
       {
         "title": "The value of not getting to the point (2015)",
         "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-        "description": "<p>Article URL: <a href=\"https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/\">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50010470\">https://news.ycombinator.com/item?id=50010470</a></p>\n<p>Points: 89</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/\">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50010470\">https://news.ycombinator.com/item?id=50010470</a></p>\n<p>Points: 142</p>\n<p># Comments: 46</p>",
         "pubDate": "Thu, 08 Oct 2026 19:04:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=50010470"
       },
       {
         "title": "Theranos.world",
         "link": "https://www.theranos.world/",
-        "description": "<p>Article URL: <a href=\"https://www.theranos.world/\">https://www.theranos.world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50009295\">https://news.ycombinator.com/item?id=50009295</a></p>\n<p>Points: 200</p>\n<p># Comments: 95</p>",
+        "description": "<p>Article URL: <a href=\"https://www.theranos.world/\">https://www.theranos.world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50009295\">https://news.ycombinator.com/item?id=50009295</a></p>\n<p>Points: 367</p>\n<p># Comments: 131</p>",
         "pubDate": "Thu, 08 Oct 2026 17:51:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=50009295"
       },
       {
+        "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+        "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+        "description": "<p>Article URL: <a href=\"https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/\">https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50009066\">https://news.ycombinator.com/item?id=50009066</a></p>\n<p>Points: 34</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 08 Oct 2026 17:39:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50009066"
+      },
+      {
         "title": "Whistle: Speech to Text in 16.9 MB",
         "link": "https://cactuscompute.com/blog/whistle",
-        "description": "<p>Article URL: <a href=\"https://cactuscompute.com/blog/whistle\">https://cactuscompute.com/blog/whistle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008427\">https://news.ycombinator.com/item?id=50008427</a></p>\n<p>Points: 431</p>\n<p># Comments: 103</p>",
+        "description": "<p>Article URL: <a href=\"https://cactuscompute.com/blog/whistle\">https://cactuscompute.com/blog/whistle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008427\">https://news.ycombinator.com/item?id=50008427</a></p>\n<p>Points: 671</p>\n<p># Comments: 141</p>",
         "pubDate": "Thu, 08 Oct 2026 16:59:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50008427"
       },
       {
         "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
         "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-        "description": "<p>Article URL: <a href=\"http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html\">http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008047\">https://news.ycombinator.com/item?id=50008047</a></p>\n<p>Points: 82</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html\">http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008047\">https://news.ycombinator.com/item?id=50008047</a></p>\n<p>Points: 144</p>\n<p># Comments: 28</p>",
         "pubDate": "Thu, 08 Oct 2026 16:37:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=50008047"
       },
       {
+        "title": "Show HN: Jevman – AI decision models play Pac-Man",
+        "link": "https://opper.ai/jevman-benchmark/",
+        "description": "<p>Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.<p>We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.<p>So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts.<p>The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo:\n<a href=\"https://github.com/opper-ai/jevman-benchmark/blob/main/CONTRIBUTING.md#benchmark-your-own-model\" rel=\"nofollow\">https://github.com/opper-ai/jevman-benchmark/blob/main/CONTR...</a><p>You can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try.<p>It's pretty fun to play and surprisingly difficult to beat jev's highscore. Any feedback is more than welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007993\">https://news.ycombinator.com/item?id=50007993</a></p>\n<p>Points: 51</p>\n<p># Comments: 10</p>",
+        "pubDate": "Thu, 08 Oct 2026 16:34:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50007993"
+      },
+      {
         "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
         "link": "https://openrouter.ai/stepfun/step-5-preview",
-        "description": "<p>Article URL: <a href=\"https://openrouter.ai/stepfun/step-5-preview\">https://openrouter.ai/stepfun/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007764\">https://news.ycombinator.com/item?id=50007764</a></p>\n<p>Points: 75</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://openrouter.ai/stepfun/step-5-preview\">https://openrouter.ai/stepfun/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007764\">https://news.ycombinator.com/item?id=50007764</a></p>\n<p>Points: 118</p>\n<p># Comments: 27</p>",
         "pubDate": "Thu, 08 Oct 2026 16:20:20 +0000",
         "guid": "https://news.ycombinator.com/item?id=50007764"
       },
       {
-        "title": "New gTLD Application for .lan",
-        "link": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
-        "description": "<p>Article URL: <a href=\"https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary\">https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007353\">https://news.ycombinator.com/item?id=50007353</a></p>\n<p>Points: 90</p>\n<p># Comments: 108</p>",
-        "pubDate": "Thu, 08 Oct 2026 15:51:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50007353"
-      },
-      {
-        "title": "Trump administration is suspending Microsoft from a green card program",
-        "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea\">https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50006832\">https://news.ycombinator.com/item?id=50006832</a></p>\n<p>Points: 778</p>\n<p># Comments: 1352</p>",
-        "pubDate": "Thu, 08 Oct 2026 15:15:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50006832"
-      },
-      {
         "title": "Orkut.com",
         "link": "https://orkut.com/",
-        "description": "<p>Article URL: <a href=\"https://orkut.com/\">https://orkut.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50006012\">https://news.ycombinator.com/item?id=50006012</a></p>\n<p>Points: 126</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://orkut.com/\">https://orkut.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50006012\">https://news.ycombinator.com/item?id=50006012</a></p>\n<p>Points: 169</p>\n<p># Comments: 127</p>",
         "pubDate": "Thu, 08 Oct 2026 14:09:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=50006012"
       },
       {
         "title": "Beauty in DVD Menus",
         "link": "https://vale.rocks/posts/dvd-menus",
-        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/dvd-menus\">https://vale.rocks/posts/dvd-menus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50005527\">https://news.ycombinator.com/item?id=50005527</a></p>\n<p>Points: 236</p>\n<p># Comments: 142</p>",
+        "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/dvd-menus\">https://vale.rocks/posts/dvd-menus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50005527\">https://news.ycombinator.com/item?id=50005527</a></p>\n<p>Points: 285</p>\n<p># Comments: 154</p>",
         "pubDate": "Thu, 08 Oct 2026 13:22:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50005527"
       },
       {
-        "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-        "link": "https://quesma.com/blog/invisible-cities-one-shot/",
-        "description": "<p>Article URL: <a href=\"https://quesma.com/blog/invisible-cities-one-shot/\">https://quesma.com/blog/invisible-cities-one-shot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50004790\">https://news.ycombinator.com/item?id=50004790</a></p>\n<p>Points: 334</p>\n<p># Comments: 171</p>",
-        "pubDate": "Thu, 08 Oct 2026 12:00:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50004790"
-      },
-      {
-        "title": "Vanillin provides a sweet solution for chronic wound healing",
-        "link": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
-        "description": "<p>Article URL: <a href=\"https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/\">https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50004542\">https://news.ycombinator.com/item?id=50004542</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
-        "pubDate": "Thu, 08 Oct 2026 11:30:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50004542"
-      },
-      {
-        "title": "OLED burn-in test: 30-month update",
-        "link": "https://www.techspot.com/article/3178-oled-burn-in-test/",
-        "description": "<p>Article URL: <a href=\"https://www.techspot.com/article/3178-oled-burn-in-test/\">https://www.techspot.com/article/3178-oled-burn-in-test/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50004115\">https://news.ycombinator.com/item?id=50004115</a></p>\n<p>Points: 79</p>\n<p># Comments: 50</p>",
-        "pubDate": "Thu, 08 Oct 2026 10:34:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50004115"
-      },
-      {
         "title": "Yes, and",
         "link": "https://htmx.org/essays/yes-and/",
-        "description": "<p>Article URL: <a href=\"https://htmx.org/essays/yes-and/\">https://htmx.org/essays/yes-and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50003796\">https://news.ycombinator.com/item?id=50003796</a></p>\n<p>Points: 88</p>\n<p># Comments: 36</p>",
+        "description": "<p>Article URL: <a href=\"https://htmx.org/essays/yes-and/\">https://htmx.org/essays/yes-and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50003796\">https://news.ycombinator.com/item?id=50003796</a></p>\n<p>Points: 306</p>\n<p># Comments: 85</p>",
         "pubDate": "Thu, 08 Oct 2026 09:48:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=50003796"
       },
       {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\">https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002665\">https://news.ycombinator.com/item?id=50002665</a></p>\n<p>Points: 129</p>\n<p># Comments: 56</p>",
+        "pubDate": "Thu, 08 Oct 2026 07:07:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50002665"
+      },
+      {
+        "title": "OpenAI withdraws three mathematical results",
+        "link": "https://twitter.com/danintheory/status/2108065033070789090",
+        "description": "<p><a href=\"https://github.com/openai/math/blob/main/history.md\" rel=\"nofollow\">https://github.com/openai/math/blob/main/history.md</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002650\">https://news.ycombinator.com/item?id=50002650</a></p>\n<p>Points: 276</p>\n<p># Comments: 556</p>",
+        "pubDate": "Thu, 08 Oct 2026 07:05:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50002650"
+      },
+      {
         "title": "US man given prison sentence for bot-farming music streams",
         "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-        "description": "<p><a href=\"https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music\" rel=\"nofollow\">https://www.justice.gov/usao-sdny/pr/north-carolina-man-sent...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50000985\">https://news.ycombinator.com/item?id=50000985</a></p>\n<p>Points: 78</p>\n<p># Comments: 115</p>",
+        "description": "<p><a href=\"https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music\" rel=\"nofollow\">https://www.justice.gov/usao-sdny/pr/north-carolina-man-sent...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50000985\">https://news.ycombinator.com/item?id=50000985</a></p>\n<p>Points: 157</p>\n<p># Comments: 247</p>",
         "pubDate": "Thu, 08 Oct 2026 01:33:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50000985"
       },
       {
         "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
         "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-        "description": "<p>Article URL: <a href=\"https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/\">https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50000488\">https://news.ycombinator.com/item?id=50000488</a></p>\n<p>Points: 303</p>\n<p># Comments: 258</p>",
+        "description": "<p>Article URL: <a href=\"https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/\">https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50000488\">https://news.ycombinator.com/item?id=50000488</a></p>\n<p>Points: 534</p>\n<p># Comments: 441</p>",
         "pubDate": "Thu, 08 Oct 2026 00:14:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50000488"
-      },
-      {
-        "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-        "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/\">https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998992\">https://news.ycombinator.com/item?id=49998992</a></p>\n<p>Points: 92</p>\n<p># Comments: 43</p>",
-        "pubDate": "Wed, 07 Oct 2026 21:25:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49998992"
-      },
-      {
-        "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-        "link": "https://www.nature.com/articles/s41586-026-10546-z",
-        "description": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41586-026-10546-z\">https://www.nature.com/articles/s41586-026-10546-z</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996639\">https://news.ycombinator.com/item?id=49996639</a></p>\n<p>Points: 60</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 07 Oct 2026 18:14:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=49996639"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-08T23:14:35.431Z",
+  "lastUpdated": "2026-10-09T05:53:31.295Z",
   "stats": {
     "feeds": 2,
     "articles": 20
