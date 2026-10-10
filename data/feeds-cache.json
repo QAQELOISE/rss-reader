@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-10T12:20:40.837Z"
+      "lastFetched": "2026-10-10T21:31:07.947Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-10T12:20:53.711Z"
+      "lastFetched": "2026-10-10T21:31:27.713Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Apple/macOS silently removed from official Unix registry",
+        "title": "50MB operating system can resurrect your old PC",
+        "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+        "description": "<p>Article URL: <a href=\"https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/\">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036571\">https://news.ycombinator.com/item?id=50036571</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 10 Oct 2026 19:59:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50036571"
+      },
+      {
+        "title": "Takeshi's Castle",
+        "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+        "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Takeshi%27s_Castle\">https://en.wikipedia.org/wiki/Takeshi%27s_Castle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036119\">https://news.ycombinator.com/item?id=50036119</a></p>\n<p>Points: 45</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50036119"
+      },
+      {
+        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+        "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035886\">https://news.ycombinator.com/item?id=50035886</a></p>\n<p>Points: 74</p>\n<p># Comments: 44</p>",
+        "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50035886"
+      },
+      {
+        "title": "Why DuckDB 2.0 is faster",
+        "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+        "description": "<p>Article URL: <a href=\"https://motherduck.com/blog/why-duckdb-20-is-faster/\">https://motherduck.com/blog/why-duckdb-20-is-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035530\">https://news.ycombinator.com/item?id=50035530</a></p>\n<p>Points: 68</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50035530"
+      },
+      {
+        "title": "Knuth reward check",
+        "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+        "description": "<p>Article URL: <a href=\"https://www.thomas-huehn.com/knuth-reward-check/\">https://www.thomas-huehn.com/knuth-reward-check/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034081\">https://news.ycombinator.com/item?id=50034081</a></p>\n<p>Points: 109</p>\n<p># Comments: 40</p>",
+        "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50034081"
+      },
+      {
+        "title": "How Protein Took over the World",
+        "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+        "description": "<p><a href=\"https://archive.is/CbkfI\" rel=\"nofollow\">https://archive.is/CbkfI</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034008\">https://news.ycombinator.com/item?id=50034008</a></p>\n<p>Points: 41</p>\n<p># Comments: 82</p>",
+        "pubDate": "Sat, 10 Oct 2026 15:40:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50034008"
+      },
+      {
+        "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+        "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+        "description": "<p>Article URL: <a href=\"https://chronicles.popvax.com/p/popvax-goes-clinical\">https://chronicles.popvax.com/p/popvax-goes-clinical</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033721\">https://news.ycombinator.com/item?id=50033721</a></p>\n<p>Points: 100</p>\n<p># Comments: 17</p>",
+        "pubDate": "Sat, 10 Oct 2026 15:10:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50033721"
+      },
+      {
+        "title": "Bitwarden Dual License Model",
+        "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+        "description": "<p>Article URL: <a href=\"https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\">https://community.bitwarden.com/t/published-version-update-in-app-stores/102750</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033407\">https://news.ycombinator.com/item?id=50033407</a></p>\n<p>Points: 301</p>\n<p># Comments: 226</p>",
+        "pubDate": "Sat, 10 Oct 2026 14:32:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50033407"
+      },
+      {
+        "title": "Unikernels were hard. key word: were",
+        "link": "https://ghuntley.com/unikernels/",
+        "description": "<p>Article URL: <a href=\"https://ghuntley.com/unikernels/\">https://ghuntley.com/unikernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033357\">https://news.ycombinator.com/item?id=50033357</a></p>\n<p>Points: 41</p>\n<p># Comments: 17</p>",
+        "pubDate": "Sat, 10 Oct 2026 14:27:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50033357"
+      },
+      {
+        "title": "I would like the value of my home to rise, while my property taxes fall",
+        "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+        "description": "<p>Article URL: <a href=\"https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/\">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50032758\">https://news.ycombinator.com/item?id=50032758</a></p>\n<p>Points: 169</p>\n<p># Comments: 393</p>",
+        "pubDate": "Sat, 10 Oct 2026 13:29:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50032758"
+      },
+      {
+        "title": "Apple/macOS removed from official Unix registry",
         "link": "https://www.opengroup.org//openbrand/register/",
-        "description": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 210</p>\n<p># Comments: 194</p>",
         "pubDate": "Sat, 10 Oct 2026 10:57:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=50031653"
       },
       {
         "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "link": "https://github.com/rociiu/talorys",
-        "description": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 211</p>\n<p># Comments: 109</p>",
         "pubDate": "Sat, 10 Oct 2026 10:52:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=50031614"
       },
       {
         "title": "`123456' password used in Danish CPR data breach",
         "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-        "description": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031269\">https://news.ycombinator.com/item?id=50031269</a></p>\n<p>Points: 134</p>\n<p># Comments: 83</p>",
+        "description": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031269\">https://news.ycombinator.com/item?id=50031269</a></p>\n<p>Points: 362</p>\n<p># Comments: 188</p>",
         "pubDate": "Sat, 10 Oct 2026 09:51:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=50031269"
       },
       {
-        "title": "Computers Cannot Make Decisions",
-        "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-        "description": "<p>Article URL: <a href=\"https://wiki.cateat.fish/art:computers_cannot_make_decisions\">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029982\">https://news.ycombinator.com/item?id=50029982</a></p>\n<p>Points: 119</p>\n<p># Comments: 100</p>",
-        "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50029982"
-      },
-      {
-        "title": "Food processing influences metabolism and brain activity",
-        "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-        "description": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029830\">https://news.ycombinator.com/item?id=50029830</a></p>\n<p>Points: 56</p>\n<p># Comments: 43</p>",
-        "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50029830"
+        "title": "The Lightbulb Computer",
+        "link": "https://lightbulbcomputer.com/",
+        "description": "<p>Article URL: <a href=\"https://lightbulbcomputer.com/\">https://lightbulbcomputer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029487\">https://news.ycombinator.com/item?id=50029487</a></p>\n<p>Points: 90</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sat, 10 Oct 2026 04:12:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50029487"
       },
       {
         "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
         "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-        "description": "<p>Article URL: <a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029123\">https://news.ycombinator.com/item?id=50029123</a></p>\n<p>Points: 213</p>\n<p># Comments: 103</p>",
+        "description": "<p>Article URL: <a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029123\">https://news.ycombinator.com/item?id=50029123</a></p>\n<p>Points: 379</p>\n<p># Comments: 214</p>",
         "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=50029123"
       },
       {
         "title": "REA Reverse – Engineer Anything",
         "link": "https://rea.tools/",
-        "description": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 473</p>\n<p># Comments: 190</p>",
+        "description": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 650</p>\n<p># Comments: 277</p>",
         "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=50028275"
       },
       {
-        "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-        "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-        "description": "<p>Article URL: <a href=\"https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants\">https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028027\">https://news.ycombinator.com/item?id=50028027</a></p>\n<p>Points: 84</p>\n<p># Comments: 18</p>",
-        "pubDate": "Fri, 09 Oct 2026 23:53:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50028027"
+        "title": "How strong is the strong interaction?",
+        "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+        "description": "<p>Article URL: <a href=\"https://cerncourier.com/how-strong-is-the-strong-interaction/\">https://cerncourier.com/how-strong-is-the-strong-interaction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028162\">https://news.ycombinator.com/item?id=50028162</a></p>\n<p>Points: 32</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sat, 10 Oct 2026 00:13:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50028162"
       },
       {
-        "title": "Compiling Rust to readable C with Eurydice",
-        "link": "https://lwn.net/Articles/1055211/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1055211/\">https://lwn.net/Articles/1055211/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027853\">https://news.ycombinator.com/item?id=50027853</a></p>\n<p>Points: 92</p>\n<p># Comments: 24</p>",
-        "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50027853"
+        "title": "Recent AI models struggled to match a human algorithmic innovation",
+        "link": "https://epoch.ai/publications/innovationeval",
+        "description": "<p>Article URL: <a href=\"https://epoch.ai/publications/innovationeval\">https://epoch.ai/publications/innovationeval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027257\">https://news.ycombinator.com/item?id=50027257</a></p>\n<p>Points: 38</p>\n<p># Comments: 28</p>",
+        "pubDate": "Fri, 09 Oct 2026 22:14:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50027257"
       },
       {
-        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-        "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-        "description": "<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026555\">https://news.ycombinator.com/item?id=50026555</a></p>\n<p>Points: 597</p>\n<p># Comments: 323</p>",
-        "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50026555"
-      },
-      {
-        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-        "link": "https://carrierexplode.com/",
-        "description": "<p>Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024499\">https://news.ycombinator.com/item?id=50024499</a></p>\n<p>Points: 342</p>\n<p># Comments: 42</p>",
-        "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50024499"
-      },
-      {
-        "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-        "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/\">https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024090\">https://news.ycombinator.com/item?id=50024090</a></p>\n<p>Points: 134</p>\n<p># Comments: 28</p>",
-        "pubDate": "Fri, 09 Oct 2026 17:42:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50024090"
-      },
-      {
-        "title": "Scam American companies are using to manipulate ingredient lists",
-        "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/WallStreetApes/status/2108594998656807078\">https://twitter.com/WallStreetApes/status/2108594998656807078</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023995\">https://news.ycombinator.com/item?id=50023995</a></p>\n<p>Points: 136</p>\n<p># Comments: 148</p>",
-        "pubDate": "Fri, 09 Oct 2026 17:35:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50023995"
-      },
-      {
-        "title": "Typesafe AI raises $870M at $7.5B",
-        "link": "https://typesafe.ai/blog/series-ai",
-        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/series-ai\">https://typesafe.ai/blog/series-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023450\">https://news.ycombinator.com/item?id=50023450</a></p>\n<p>Points: 382</p>\n<p># Comments: 290</p>",
-        "pubDate": "Fri, 09 Oct 2026 17:02:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50023450"
+        "title": "Rampart: Browser native on-device PII radaction",
+        "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+        "description": "<p>Article URL: <a href=\"https://ndstudio.gov/posts/say-hello-to-rampart\">https://ndstudio.gov/posts/say-hello-to-rampart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024242\">https://news.ycombinator.com/item?id=50024242</a></p>\n<p>Points: 54</p>\n<p># Comments: 22</p>",
+        "pubDate": "Fri, 09 Oct 2026 17:52:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50024242"
       },
       {
         "title": "Triple-A Minesweeper",
         "link": "https://minesweeper.mikelacher.com/",
-        "description": "<p>Article URL: <a href=\"https://minesweeper.mikelacher.com/\">https://minesweeper.mikelacher.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022292\">https://news.ycombinator.com/item?id=50022292</a></p>\n<p>Points: 1051</p>\n<p># Comments: 201</p>",
+        "description": "<p>Article URL: <a href=\"https://minesweeper.mikelacher.com/\">https://minesweeper.mikelacher.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022292\">https://news.ycombinator.com/item?id=50022292</a></p>\n<p>Points: 1326</p>\n<p># Comments: 264</p>",
         "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=50022292"
-      },
-      {
-        "title": "Can you use autoregressive diffusion to generate market data?",
-        "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-        "description": "<p>Article URL: <a href=\"https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/\">https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021410\">https://news.ycombinator.com/item?id=50021410</a></p>\n<p>Points: 104</p>\n<p># Comments: 36</p>",
-        "pubDate": "Fri, 09 Oct 2026 14:56:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50021410"
-      },
-      {
-        "title": "'Wallace and Gromit,' 90% Alone",
-        "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-        "description": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone\">https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020533\">https://news.ycombinator.com/item?id=50020533</a></p>\n<p>Points: 230</p>\n<p># Comments: 33</p>",
-        "pubDate": "Fri, 09 Oct 2026 13:49:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50020533"
-      },
-      {
-        "title": "Our $445M Series D",
-        "link": "https://oxide.computer/blog/our-445m-series-d",
-        "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/our-445m-series-d\">https://oxide.computer/blog/our-445m-series-d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020014\">https://news.ycombinator.com/item?id=50020014</a></p>\n<p>Points: 666</p>\n<p># Comments: 299</p>",
-        "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50020014"
-      },
-      {
-        "title": "Cloudflare acquires Deno",
-        "link": "https://deno.com/blog/cloudflare",
-        "description": "<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p>\n<p>Points: 1261</p>\n<p># Comments: 638</p>",
-        "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50019911"
-      },
-      {
-        "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-        "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-        "description": "<p>Article URL: <a href=\"https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/\">https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019056\">https://news.ycombinator.com/item?id=50019056</a></p>\n<p>Points: 152</p>\n<p># Comments: 78</p>",
-        "pubDate": "Fri, 09 Oct 2026 11:36:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50019056"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-10T12:20:53.711Z",
+  "lastUpdated": "2026-10-10T21:31:27.713Z",
   "stats": {
     "feeds": 2,
     "articles": 20
