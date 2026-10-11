@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-10T21:31:07.947Z"
+      "lastFetched": "2026-10-11T12:36:54.464Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-11T05:32:35.532Z"
+      "lastFetched": "2026-10-11T12:37:14.017Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "link": "https://jobs.ashbyhq.com/weave-os",
+        "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/weave-os\">https://jobs.ashbyhq.com/weave-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042330\">https://news.ycombinator.com/item?id=50042330</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 11 Oct 2026 12:01:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50042330"
+      },
+      {
+        "title": "I paid people to try and follow my README",
+        "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+        "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/\">https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042219\">https://news.ycombinator.com/item?id=50042219</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 11 Oct 2026 11:47:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50042219"
+      },
+      {
+        "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
+        "link": "https://copilot.travel/tolls/europe-2026",
+        "description": "<p>Article URL: <a href=\"https://copilot.travel/tolls/europe-2026\">https://copilot.travel/tolls/europe-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042149\">https://news.ycombinator.com/item?id=50042149</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 11 Oct 2026 11:39:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50042149"
+      },
+      {
+        "title": "AI is creating a 'human premium' for art created by people",
+        "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5vgjm3gk7rzo\">https://www.bbc.com/news/articles/c5vgjm3gk7rzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042107\">https://news.ycombinator.com/item?id=50042107</a></p>\n<p>Points: 26</p>\n<p># Comments: 21</p>",
+        "pubDate": "Sun, 11 Oct 2026 11:34:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50042107"
+      },
+      {
+        "title": "Nitter: Update Oct 10th seeking funding and legal help",
+        "link": "https://nitter.net",
+        "description": "<p>Article URL: <a href=\"https://nitter.net\">https://nitter.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50041682\">https://news.ycombinator.com/item?id=50041682</a></p>\n<p>Points: 144</p>\n<p># Comments: 34</p>",
+        "pubDate": "Sun, 11 Oct 2026 10:37:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50041682"
+      },
+      {
+        "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+        "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+        "description": "<p>Article URL: <a href=\"https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/\">https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50041667\">https://news.ycombinator.com/item?id=50041667</a></p>\n<p>Points: 20</p>\n<p># Comments: 15</p>",
+        "pubDate": "Sun, 11 Oct 2026 10:34:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50041667"
+      },
+      {
+        "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+        "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+        "description": "<p>Article URL: <a href=\"https://radar.cloudflare.com/bots/as13238?dateRange=7d\">https://radar.cloudflare.com/bots/as13238?dateRange=7d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50041619\">https://news.ycombinator.com/item?id=50041619</a></p>\n<p>Points: 188</p>\n<p># Comments: 62</p>",
+        "pubDate": "Sun, 11 Oct 2026 10:27:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50041619"
+      },
+      {
+        "title": "IRCv3",
+        "link": "https://ircv3.net/",
+        "description": "<p>Article URL: <a href=\"https://ircv3.net/\">https://ircv3.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50041540\">https://news.ycombinator.com/item?id=50041540</a></p>\n<p>Points: 119</p>\n<p># Comments: 94</p>",
+        "pubDate": "Sun, 11 Oct 2026 10:11:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50041540"
+      },
+      {
+        "title": "I wish you the best in the Offline",
+        "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+        "description": "<p>Article URL: <a href=\"https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/\">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50040625\">https://news.ycombinator.com/item?id=50040625</a></p>\n<p>Points: 63</p>\n<p># Comments: 36</p>",
+        "pubDate": "Sun, 11 Oct 2026 07:53:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50040625"
+      },
+      {
+        "title": "3rd Yandex Cloud Data Center Was Hit",
+        "link": "https://status.yandex.cloud/en/incidents/2136",
+        "description": "<p>Article URL: <a href=\"https://status.yandex.cloud/en/incidents/2136\">https://status.yandex.cloud/en/incidents/2136</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50040547\">https://news.ycombinator.com/item?id=50040547</a></p>\n<p>Points: 268</p>\n<p># Comments: 328</p>",
+        "pubDate": "Sun, 11 Oct 2026 07:34:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50040547"
+      },
+      {
+        "title": "LineageOS 24.0",
+        "link": "https://lineageos.org/Changelog-32/",
+        "description": "<p>Article URL: <a href=\"https://lineageos.org/Changelog-32/\">https://lineageos.org/Changelog-32/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50040276\">https://news.ycombinator.com/item?id=50040276</a></p>\n<p>Points: 165</p>\n<p># Comments: 42</p>",
+        "pubDate": "Sun, 11 Oct 2026 06:18:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50040276"
+      },
+      {
+        "title": "PSPi 6 – Raspberry Pi in a PSP",
+        "link": "https://github.com/othermod/PSPi-Version-6",
+        "description": "<p>Article URL: <a href=\"https://github.com/othermod/PSPi-Version-6\">https://github.com/othermod/PSPi-Version-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038623\">https://news.ycombinator.com/item?id=50038623</a></p>\n<p>Points: 105</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sun, 11 Oct 2026 00:45:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50038623"
+      },
+      {
+        "title": "Build your own decision model",
+        "link": "https://nishtahir.com/build-your-own-decision-model/",
+        "description": "<p>Article URL: <a href=\"https://nishtahir.com/build-your-own-decision-model/\">https://nishtahir.com/build-your-own-decision-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50037949\">https://news.ycombinator.com/item?id=50037949</a></p>\n<p>Points: 349</p>\n<p># Comments: 78</p>",
+        "pubDate": "Sat, 10 Oct 2026 22:50:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50037949"
+      },
+      {
+        "title": "A city-building game in which the city would prefer you didn't",
+        "link": "https://housing.over.pizza/",
+        "description": "<p>Article URL: <a href=\"https://housing.over.pizza/\">https://housing.over.pizza/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036864\">https://news.ycombinator.com/item?id=50036864</a></p>\n<p>Points: 391</p>\n<p># Comments: 129</p>",
+        "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50036864"
+      },
+      {
+        "title": "Knuth reward check",
+        "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+        "description": "<p>Article URL: <a href=\"https://www.thomas-huehn.com/knuth-reward-check/\">https://www.thomas-huehn.com/knuth-reward-check/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034081\">https://news.ycombinator.com/item?id=50034081</a></p>\n<p>Points: 200</p>\n<p># Comments: 73</p>",
+        "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50034081"
+      },
+      {
+        "title": "Unikernels were hard. key word: were",
+        "link": "https://ghuntley.com/unikernels/",
+        "description": "<p>Article URL: <a href=\"https://ghuntley.com/unikernels/\">https://ghuntley.com/unikernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033357\">https://news.ycombinator.com/item?id=50033357</a></p>\n<p>Points: 171</p>\n<p># Comments: 84</p>",
+        "pubDate": "Sat, 10 Oct 2026 14:27:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50033357"
+      },
+      {
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "link": "https://github.com/rociiu/talorys",
+        "description": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 301</p>\n<p># Comments: 137</p>",
+        "pubDate": "Sat, 10 Oct 2026 10:52:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50031614"
+      },
+      {
+        "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+        "link": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+        "description": "<p>Article URL: <a href=\"https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/\">https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031289\">https://news.ycombinator.com/item?id=50031289</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 10 Oct 2026 09:55:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50031289"
+      },
+      {
+        "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+        "link": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall\">https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50030558\">https://news.ycombinator.com/item?id=50030558</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 10 Oct 2026 07:25:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50030558"
+      },
+      {
+        "title": "Rat's Register Allocator",
+        "link": "https://hexrat.cc/pages/blog/2026_10_07",
+        "description": "<p>Article URL: <a href=\"https://hexrat.cc/pages/blog/2026_10_07\">https://hexrat.cc/pages/blog/2026_10_07</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50030470\">https://news.ycombinator.com/item?id=50030470</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 10 Oct 2026 07:10:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50030470"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-11T05:32:35.533Z",
+  "lastUpdated": "2026-10-11T12:37:14.018Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
