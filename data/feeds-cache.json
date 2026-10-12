@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-12T05:42:14.209Z"
+      "lastFetched": "2026-10-12T15:10:12.901Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-12T05:42:20.973Z"
+      "lastFetched": "2026-10-12T15:10:20.254Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Why aren't AI companies being charged for hacking?",
+        "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+        "description": "<p>Article URL: <a href=\"https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/\">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057278\">https://news.ycombinator.com/item?id=50057278</a></p>\n<p>Points: 55</p>\n<p># Comments: 14</p>",
+        "pubDate": "Mon, 12 Oct 2026 14:52:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50057278"
+      },
+      {
+        "title": "An Unmade Film Shaped Hayao Miyazaki",
+        "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+        "description": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki\">https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057030\">https://news.ycombinator.com/item?id=50057030</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 12 Oct 2026 14:34:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50057030"
+      },
+      {
+        "title": "Solar Panels That Plug into Your Wall Are About to Be Everywhere",
+        "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+        "description": "<p>Article URL: <a href=\"https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy\">https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50056822\">https://news.ycombinator.com/item?id=50056822</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 12 Oct 2026 14:19:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50056822"
+      },
+      {
+        "title": "Incident with Actions, Pull Requests and Issues",
+        "link": "https://www.githubstatus.com/incidents/93njd414rpbx",
+        "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/93njd414rpbx\">https://www.githubstatus.com/incidents/93njd414rpbx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055375\">https://news.ycombinator.com/item?id=50055375</a></p>\n<p>Points: 71</p>\n<p># Comments: 48</p>",
+        "pubDate": "Mon, 12 Oct 2026 12:23:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50055375"
+      },
+      {
+        "title": "Citroen revives the 2CV for an electric age",
+        "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/c620r33plgppo\">https://www.bbc.co.uk/news/articles/c620r33plgppo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055220\">https://news.ycombinator.com/item?id=50055220</a></p>\n<p>Points: 92</p>\n<p># Comments: 98</p>",
+        "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50055220"
+      },
+      {
+        "title": "QGIS bans AI assisted contributions",
+        "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "description": "<p>Article URL: <a href=\"https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387\">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50054751\">https://news.ycombinator.com/item?id=50054751</a></p>\n<p>Points: 257</p>\n<p># Comments: 261</p>",
+        "pubDate": "Mon, 12 Oct 2026 11:22:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50054751"
+      },
+      {
+        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+        "link": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c64g1l5389kvo\">https://www.bbc.com/news/articles/c64g1l5389kvo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50054207\">https://news.ycombinator.com/item?id=50054207</a></p>\n<p>Points: 477</p>\n<p># Comments: 160</p>",
+        "pubDate": "Mon, 12 Oct 2026 10:21:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50054207"
+      },
+      {
+        "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+        "link": "https://github.com/snuri00/ps2-web-recomp",
+        "description": "<p>Article URL: <a href=\"https://github.com/snuri00/ps2-web-recomp\">https://github.com/snuri00/ps2-web-recomp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50052251\">https://news.ycombinator.com/item?id=50052251</a></p>\n<p>Points: 135</p>\n<p># Comments: 70</p>",
+        "pubDate": "Mon, 12 Oct 2026 06:46:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50052251"
+      },
+      {
+        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html\">https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051583\">https://news.ycombinator.com/item?id=50051583</a></p>\n<p>Points: 221</p>\n<p># Comments: 165</p>",
+        "pubDate": "Mon, 12 Oct 2026 05:03:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50051583"
+      },
+      {
         "title": "Type-safe HTML templating in Zig",
         "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-        "description": "<p>Article URL: <a href=\"https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html\">https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051573\">https://news.ycombinator.com/item?id=50051573</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html\">https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051573\">https://news.ycombinator.com/item?id=50051573</a></p>\n<p>Points: 172</p>\n<p># Comments: 68</p>",
         "pubDate": "Mon, 12 Oct 2026 05:02:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50051573"
       },
       {
-        "title": "Yandex bot traffic down 99% after data center attack",
-        "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
-        "description": "<p>Article URL: <a href=\"https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic\">https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051532\">https://news.ycombinator.com/item?id=50051532</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 12 Oct 2026 04:54:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50051532"
+        "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+        "description": "<p>Article URL: <a href=\"https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/\">https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051530\">https://news.ycombinator.com/item?id=50051530</a></p>\n<p>Points: 229</p>\n<p># Comments: 260</p>",
+        "pubDate": "Mon, 12 Oct 2026 04:54:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50051530"
       },
       {
         "title": "Doory – Open-Source Canva",
         "link": "https://github.com/shaongitbd/doory",
-        "description": "<p>Article URL: <a href=\"https://github.com/shaongitbd/doory\">https://github.com/shaongitbd/doory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049872\">https://news.ycombinator.com/item?id=50049872</a></p>\n<p>Points: 54</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/shaongitbd/doory\">https://github.com/shaongitbd/doory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049872\">https://news.ycombinator.com/item?id=50049872</a></p>\n<p>Points: 166</p>\n<p># Comments: 63</p>",
         "pubDate": "Mon, 12 Oct 2026 00:48:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=50049872"
       },
       {
         "title": "Local Indexing to reduce tool calling and token usage",
         "link": "https://tedhaley.ca/pensieve/",
-        "description": "<p>Article URL: <a href=\"https://tedhaley.ca/pensieve/\">https://tedhaley.ca/pensieve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049508\">https://news.ycombinator.com/item?id=50049508</a></p>\n<p>Points: 49</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://tedhaley.ca/pensieve/\">https://tedhaley.ca/pensieve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049508\">https://news.ycombinator.com/item?id=50049508</a></p>\n<p>Points: 99</p>\n<p># Comments: 31</p>",
         "pubDate": "Mon, 12 Oct 2026 00:03:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=50049508"
       },
       {
-        "title": "HashiCorp archives the Boundary open source repo",
-        "link": "https://github.com/hashicorp/boundary",
-        "description": "<p>Article URL: <a href=\"https://github.com/hashicorp/boundary\">https://github.com/hashicorp/boundary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049498\">https://news.ycombinator.com/item?id=50049498</a></p>\n<p>Points: 61</p>\n<p># Comments: 11</p>",
-        "pubDate": "Mon, 12 Oct 2026 00:02:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50049498"
-      },
-      {
         "title": "Whatever became of holography? (2011)",
         "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-        "description": "<p>Article URL: <a href=\"https://www.americanscientist.org/article/whatever-became-of-holography\">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049411\">https://news.ycombinator.com/item?id=50049411</a></p>\n<p>Points: 100</p>\n<p># Comments: 48</p>",
+        "description": "<p>Article URL: <a href=\"https://www.americanscientist.org/article/whatever-became-of-holography\">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049411\">https://news.ycombinator.com/item?id=50049411</a></p>\n<p>Points: 160</p>\n<p># Comments: 82</p>",
         "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50049411"
       },
       {
         "title": "Illustration Beyond Proof",
         "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/\">https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049133\">https://news.ycombinator.com/item?id=50049133</a></p>\n<p>Points: 51</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/\">https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049133\">https://news.ycombinator.com/item?id=50049133</a></p>\n<p>Points: 87</p>\n<p># Comments: 13</p>",
         "pubDate": "Sun, 11 Oct 2026 23:22:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50049133"
       },
       {
-        "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-        "link": "https://github.com/ClickHouse/clickhouse-c",
-        "description": "<p>Article URL: <a href=\"https://github.com/ClickHouse/clickhouse-c\">https://github.com/ClickHouse/clickhouse-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049003\">https://news.ycombinator.com/item?id=50049003</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sun, 11 Oct 2026 23:08:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50049003"
-      },
-      {
         "title": "Fingerprints are the new cookies",
         "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-        "description": "<p>Article URL: <a href=\"https://royfish.dev/fingerprints-are-the-new-cookies\">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048642\">https://news.ycombinator.com/item?id=50048642</a></p>\n<p>Points: 216</p>\n<p># Comments: 99</p>",
+        "description": "<p>Article URL: <a href=\"https://royfish.dev/fingerprints-are-the-new-cookies\">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048642\">https://news.ycombinator.com/item?id=50048642</a></p>\n<p>Points: 543</p>\n<p># Comments: 264</p>",
         "pubDate": "Sun, 11 Oct 2026 22:33:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50048642"
       },
       {
-        "title": "Google is illegaly cutting forest to build data centers",
-        "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment\">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048638\">https://news.ycombinator.com/item?id=50048638</a></p>\n<p>Points: 306</p>\n<p># Comments: 80</p>",
-        "pubDate": "Sun, 11 Oct 2026 22:33:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50048638"
-      },
-      {
-        "title": "Recursive self-improvement through collective intelligence",
-        "link": "https://pub.sakana.ai/mass/",
-        "description": "<p>Article URL: <a href=\"https://pub.sakana.ai/mass/\">https://pub.sakana.ai/mass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048522\">https://news.ycombinator.com/item?id=50048522</a></p>\n<p>Points: 89</p>\n<p># Comments: 47</p>",
-        "pubDate": "Sun, 11 Oct 2026 22:22:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50048522"
-      },
-      {
-        "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
-        "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-        "description": "<p>Article URL: <a href=\"https://pydantic.dev/articles/dynamic-shredding-2026-01-26\">https://pydantic.dev/articles/dynamic-shredding-2026-01-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048490\">https://news.ycombinator.com/item?id=50048490</a></p>\n<p>Points: 15</p>\n<p># Comments: 8</p>",
-        "pubDate": "Sun, 11 Oct 2026 22:18:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50048490"
-      },
-      {
         "title": "Passkeys are a trap",
         "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-        "description": "<p>Article URL: <a href=\"https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048312\">https://news.ycombinator.com/item?id=50048312</a></p>\n<p>Points: 425</p>\n<p># Comments: 232</p>",
+        "description": "<p>Article URL: <a href=\"https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048312\">https://news.ycombinator.com/item?id=50048312</a></p>\n<p>Points: 836</p>\n<p># Comments: 445</p>",
         "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50048312"
       },
       {
-        "title": "Tattoos you can turn on and off",
-        "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-        "description": "<p>Article URL: <a href=\"https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off\">https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047802\">https://news.ycombinator.com/item?id=50047802</a></p>\n<p>Points: 43</p>\n<p># Comments: 14</p>",
-        "pubDate": "Sun, 11 Oct 2026 21:04:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50047802"
-      },
-      {
         "title": "The gap in shared understanding of LLM capability is widening",
         "link": "https://twitter.com/karpathy/status/2109361546505966046",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2109361546505966046\">https://twitter.com/karpathy/status/2109361546505966046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047422\">https://news.ycombinator.com/item?id=50047422</a></p>\n<p>Points: 359</p>\n<p># Comments: 523</p>",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2109361546505966046\">https://twitter.com/karpathy/status/2109361546505966046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047422\">https://news.ycombinator.com/item?id=50047422</a></p>\n<p>Points: 572</p>\n<p># Comments: 812</p>",
         "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50047422"
       },
       {
         "title": "Cartographers of North Korea (2019)",
         "link": "https://cartographers-nk.wonyoung.so/",
-        "description": "<p>Article URL: <a href=\"https://cartographers-nk.wonyoung.so/\">https://cartographers-nk.wonyoung.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047091\">https://news.ycombinator.com/item?id=50047091</a></p>\n<p>Points: 222</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"https://cartographers-nk.wonyoung.so/\">https://cartographers-nk.wonyoung.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047091\">https://news.ycombinator.com/item?id=50047091</a></p>\n<p>Points: 299</p>\n<p># Comments: 61</p>",
         "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=50047091"
       },
       {
-        "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-        "link": "https://theonion.com/archivehunt/",
-        "description": "<p>Article URL: <a href=\"https://theonion.com/archivehunt/\">https://theonion.com/archivehunt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047055\">https://news.ycombinator.com/item?id=50047055</a></p>\n<p>Points: 293</p>\n<p># Comments: 42</p>",
-        "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50047055"
-      },
-      {
         "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
         "link": "https://www.ways-of-seeing.com/ch1",
-        "description": "<p>Article URL: <a href=\"https://www.ways-of-seeing.com/ch1\">https://www.ways-of-seeing.com/ch1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50046241\">https://news.ycombinator.com/item?id=50046241</a></p>\n<p>Points: 96</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://www.ways-of-seeing.com/ch1\">https://www.ways-of-seeing.com/ch1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50046241\">https://news.ycombinator.com/item?id=50046241</a></p>\n<p>Points: 131</p>\n<p># Comments: 31</p>",
         "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=50046241"
-      },
-      {
-        "title": "Total Annihilation, rebuilt for modern computers",
-        "link": "https://nanolathe.gg",
-        "description": "<p>Article URL: <a href=\"https://nanolathe.gg\">https://nanolathe.gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045984\">https://news.ycombinator.com/item?id=50045984</a></p>\n<p>Points: 430</p>\n<p># Comments: 184</p>",
-        "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50045984"
-      },
-      {
-        "title": "NYC's \"Click to Cancel\" rule is now in effect",
-        "link": "https://www.nyc.gov/main/click-to-cancel",
-        "description": "<p>Article URL: <a href=\"https://www.nyc.gov/main/click-to-cancel\">https://www.nyc.gov/main/click-to-cancel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045946\">https://news.ycombinator.com/item?id=50045946</a></p>\n<p>Points: 419</p>\n<p># Comments: 199</p>",
-        "pubDate": "Sun, 11 Oct 2026 18:01:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50045946"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-12T05:42:20.973Z",
+  "lastUpdated": "2026-10-12T15:10:20.254Z",
   "stats": {
     "feeds": 2,
     "articles": 20
