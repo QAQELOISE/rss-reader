@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-13T00:30:32.842Z"
+      "lastFetched": "2026-10-13T14:02:17.350Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-13T00:30:40.990Z"
+      "lastFetched": "2026-10-13T14:02:25.637Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Instant Software Factories",
-        "link": "https://github.com/mikolalysenko/instant-factory",
-        "description": "<p>Article URL: <a href=\"https://github.com/mikolalysenko/instant-factory\">https://github.com/mikolalysenko/instant-factory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064827\">https://news.ycombinator.com/item?id=50064827</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
-        "pubDate": "Tue, 13 Oct 2026 00:09:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50064827"
+        "title": "Apple HomeView",
+        "link": "https://www.apple.com/apple-homeview/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/apple-homeview/\">https://www.apple.com/apple-homeview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071017\">https://news.ycombinator.com/item?id=50071017</a></p>\n<p>Points: 95</p>\n<p># Comments: 109</p>",
+        "pubDate": "Tue, 13 Oct 2026 13:02:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50071017"
       },
       {
-        "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-        "link": "https://doi.org/10.1111/acel.70751",
-        "description": "<p>Article URL: <a href=\"https://doi.org/10.1111/acel.70751\">https://doi.org/10.1111/acel.70751</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064536\">https://news.ycombinator.com/item?id=50064536</a></p>\n<p>Points: 42</p>\n<p># Comments: 15</p>",
-        "pubDate": "Mon, 12 Oct 2026 23:34:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50064536"
+        "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+        "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "description": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/distributed-gpu-cloud\">https://machinelearning.apple.com/research/distributed-gpu-cloud</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070593\">https://news.ycombinator.com/item?id=50070593</a></p>\n<p>Points: 47</p>\n<p># Comments: 14</p>",
+        "pubDate": "Tue, 13 Oct 2026 12:26:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50070593"
       },
       {
-        "title": "A shared, verifiable fix database that AI agents read and write themselves",
-        "link": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
-        "description": "<p>Article URL: <a href=\"https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt\">https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064444\">https://news.ycombinator.com/item?id=50064444</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 12 Oct 2026 23:22:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50064444"
+        "title": "Mozilla Introduces Firefox Enterprise",
+        "link": "https://www.firefox.com/en-US/enterprise/",
+        "description": "<p>Article URL: <a href=\"https://www.firefox.com/en-US/enterprise/\">https://www.firefox.com/en-US/enterprise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070302\">https://news.ycombinator.com/item?id=50070302</a></p>\n<p>Points: 152</p>\n<p># Comments: 75</p>",
+        "pubDate": "Tue, 13 Oct 2026 12:00:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50070302"
       },
       {
-        "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-        "link": "https://github.com/andrewfader/blokkily",
-        "description": "<p>Article URL: <a href=\"https://github.com/andrewfader/blokkily\">https://github.com/andrewfader/blokkily</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064438\">https://news.ycombinator.com/item?id=50064438</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 12 Oct 2026 23:21:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50064438"
+        "title": "A Visual Intro to Complex Numbers",
+        "link": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+        "description": "<p>Article URL: <a href=\"https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers\">https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070287\">https://news.ycombinator.com/item?id=50070287</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 13 Oct 2026 12:00:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50070287"
       },
       {
-        "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-        "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-        "description": "<p>Article URL: <a href=\"https://nirajrajgor.com/blog/kindle-photo-frame-with-ai\">https://nirajrajgor.com/blog/kindle-photo-frame-with-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064318\">https://news.ycombinator.com/item?id=50064318</a></p>\n<p>Points: 37</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 12 Oct 2026 23:07:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50064318"
+        "title": "An hour of audio transcribed in about 13s on MacBook Air",
+        "link": "https://eg2.haku.sh/",
+        "description": "<p>Article URL: <a href=\"https://eg2.haku.sh/\">https://eg2.haku.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069971\">https://news.ycombinator.com/item?id=50069971</a></p>\n<p>Points: 160</p>\n<p># Comments: 46</p>",
+        "pubDate": "Tue, 13 Oct 2026 11:27:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50069971"
       },
       {
-        "title": "Breaking Bad star RJ Mitte dies aged 34",
-        "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
-        "description": "<p>Article URL: <a href=\"https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332\">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063831\">https://news.ycombinator.com/item?id=50063831</a></p>\n<p>Points: 100</p>\n<p># Comments: 30</p>",
-        "pubDate": "Mon, 12 Oct 2026 22:15:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50063831"
+        "title": "Character.ai Files for Bankruptcy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+        "description": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney\">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069942\">https://news.ycombinator.com/item?id=50069942</a></p>\n<p>Points: 104</p>\n<p># Comments: 64</p>",
+        "pubDate": "Tue, 13 Oct 2026 11:24:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50069942"
+      },
+      {
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "link": "https://github.com/rust-lang/rust/issues/164250",
+        "description": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust/issues/164250\">https://github.com/rust-lang/rust/issues/164250</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069499\">https://news.ycombinator.com/item?id=50069499</a></p>\n<p>Points: 332</p>\n<p># Comments: 169</p>",
+        "pubDate": "Tue, 13 Oct 2026 10:27:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50069499"
+      },
+      {
+        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "link": "https://pdftomp3.com/connect-ai/",
+        "description": "<p>Article URL: <a href=\"https://pdftomp3.com/connect-ai/\">https://pdftomp3.com/connect-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069337\">https://news.ycombinator.com/item?id=50069337</a></p>\n<p>Points: 84</p>\n<p># Comments: 49</p>",
+        "pubDate": "Tue, 13 Oct 2026 10:08:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50069337"
+      },
+      {
+        "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+        "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran\">https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069329\">https://news.ycombinator.com/item?id=50069329</a></p>\n<p>Points: 207</p>\n<p># Comments: 87</p>",
+        "pubDate": "Tue, 13 Oct 2026 10:08:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50069329"
+      },
+      {
+        "title": "Crypto thieves sell hardware wallets with secret eSIM",
+        "link": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+        "description": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html\">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068508\">https://news.ycombinator.com/item?id=50068508</a></p>\n<p>Points: 91</p>\n<p># Comments: 64</p>",
+        "pubDate": "Tue, 13 Oct 2026 08:34:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50068508"
+      },
+      {
+        "title": "Document Review with Unsiloed and TypeSafe Jev",
+        "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+        "description": "<p>Article URL: <a href=\"https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev\">https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068443\">https://news.ycombinator.com/item?id=50068443</a></p>\n<p>Points: 27</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 13 Oct 2026 08:24:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50068443"
+      },
+      {
+        "title": "Character.ai files for Chapter 11 bankruptcy",
+        "link": "https://blog.character.ai/an-update-on-character-ai/",
+        "description": "<p>Article URL: <a href=\"https://blog.character.ai/an-update-on-character-ai/\">https://blog.character.ai/an-update-on-character-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068036\">https://news.ycombinator.com/item?id=50068036</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+        "pubDate": "Tue, 13 Oct 2026 07:28:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50068036"
+      },
+      {
+        "title": "Hittite royal archive found in Turkey",
+        "link": "https://www.thehistoryblog.com/archives/77107",
+        "description": "<p>Article URL: <a href=\"https://www.thehistoryblog.com/archives/77107\">https://www.thehistoryblog.com/archives/77107</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50067414\">https://news.ycombinator.com/item?id=50067414</a></p>\n<p>Points: 178</p>\n<p># Comments: 35</p>",
+        "pubDate": "Tue, 13 Oct 2026 06:02:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50067414"
+      },
+      {
+        "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+        "link": "https://www.argmin.net/p/faster-fourier-transforms",
+        "description": "<p>Article URL: <a href=\"https://www.argmin.net/p/faster-fourier-transforms\">https://www.argmin.net/p/faster-fourier-transforms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065932\">https://news.ycombinator.com/item?id=50065932</a></p>\n<p>Points: 189</p>\n<p># Comments: 123</p>",
+        "pubDate": "Tue, 13 Oct 2026 02:46:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50065932"
+      },
+      {
+        "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+        "link": "https://github.com/bherbruck/solidcraft",
+        "description": "<p>Article URL: <a href=\"https://github.com/bherbruck/solidcraft\">https://github.com/bherbruck/solidcraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064840\">https://news.ycombinator.com/item?id=50064840</a></p>\n<p>Points: 94</p>\n<p># Comments: 22</p>",
+        "pubDate": "Tue, 13 Oct 2026 00:11:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50064840"
       },
       {
         "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
         "link": "https://github.com/prabanta-dev/janas",
-        "description": "<p>Article URL: <a href=\"https://github.com/prabanta-dev/janas\">https://github.com/prabanta-dev/janas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063717\">https://news.ycombinator.com/item?id=50063717</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/prabanta-dev/janas\">https://github.com/prabanta-dev/janas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063717\">https://news.ycombinator.com/item?id=50063717</a></p>\n<p>Points: 183</p>\n<p># Comments: 66</p>",
         "pubDate": "Mon, 12 Oct 2026 22:05:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50063717"
       },
       {
         "title": "AI is a tool and using it well takes skill",
         "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-        "description": "<p>Article URL: <a href=\"https://yyhh.org/blog/2026/10/ai-is-a-tool/\">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063427\">https://news.ycombinator.com/item?id=50063427</a></p>\n<p>Points: 195</p>\n<p># Comments: 182</p>",
+        "description": "<p>Article URL: <a href=\"https://yyhh.org/blog/2026/10/ai-is-a-tool/\">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063427\">https://news.ycombinator.com/item?id=50063427</a></p>\n<p>Points: 484</p>\n<p># Comments: 393</p>",
         "pubDate": "Mon, 12 Oct 2026 21:40:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=50063427"
       },
       {
-        "title": "Phreak.ing – Internet Phone Switch",
-        "link": "https://phreak.ing/",
-        "description": "<p>Article URL: <a href=\"https://phreak.ing/\">https://phreak.ing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063417\">https://news.ycombinator.com/item?id=50063417</a></p>\n<p>Points: 51</p>\n<p># Comments: 16</p>",
-        "pubDate": "Mon, 12 Oct 2026 21:39:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50063417"
-      },
-      {
         "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
         "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "description": "<p>Article URL: <a href=\"https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html\">https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063365\">https://news.ycombinator.com/item?id=50063365</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html\">https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063365\">https://news.ycombinator.com/item?id=50063365</a></p>\n<p>Points: 267</p>\n<p># Comments: 137</p>",
         "pubDate": "Mon, 12 Oct 2026 21:35:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=50063365"
       },
       {
-        "title": "Who Is Vfmaddrnd231pd?",
+        "title": "Who is vfmaddrnd231pd?",
         "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-        "description": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/\">https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063138\">https://news.ycombinator.com/item?id=50063138</a></p>\n<p>Points: 88</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/\">https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063138\">https://news.ycombinator.com/item?id=50063138</a></p>\n<p>Points: 232</p>\n<p># Comments: 21</p>",
         "pubDate": "Mon, 12 Oct 2026 21:12:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50063138"
       },
       {
-        "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-        "link": "https://brickbrag.com/",
-        "description": "<p>Article URL: <a href=\"https://brickbrag.com/\">https://brickbrag.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063042\">https://news.ycombinator.com/item?id=50063042</a></p>\n<p>Points: 21</p>\n<p># Comments: 9</p>",
-        "pubDate": "Mon, 12 Oct 2026 21:03:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50063042"
-      },
-      {
         "title": "Writing a Demoscene Intro for the ZX Spectrum",
         "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-        "description": "<p>Article URL: <a href=\"https://www.markround.com/blog/2026/zx-spectrum-intro\">https://www.markround.com/blog/2026/zx-spectrum-intro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50061859\">https://news.ycombinator.com/item?id=50061859</a></p>\n<p>Points: 65</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://www.markround.com/blog/2026/zx-spectrum-intro\">https://www.markround.com/blog/2026/zx-spectrum-intro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50061859\">https://news.ycombinator.com/item?id=50061859</a></p>\n<p>Points: 159</p>\n<p># Comments: 28</p>",
         "pubDate": "Mon, 12 Oct 2026 19:40:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=50061859"
-      },
-      {
-        "title": "Making big downloads resumable in Firefox",
-        "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-        "description": "<p>Article URL: <a href=\"https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html\">https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50061791\">https://news.ycombinator.com/item?id=50061791</a></p>\n<p>Points: 69</p>\n<p># Comments: 20</p>",
-        "pubDate": "Mon, 12 Oct 2026 19:36:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50061791"
-      },
-      {
-        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-        "link": "https://github.com/openai/codex/issues/48195",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/48195\">https://github.com/openai/codex/issues/48195</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50060694\">https://news.ycombinator.com/item?id=50060694</a></p>\n<p>Points: 431</p>\n<p># Comments: 227</p>",
-        "pubDate": "Mon, 12 Oct 2026 18:29:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50060694"
-      },
-      {
-        "title": "'AI' Is Not a Tool by Rich Hickey",
-        "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-        "description": "<p><a href=\"https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02\" rel=\"nofollow\">https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50060269\">https://news.ycombinator.com/item?id=50060269</a></p>\n<p>Points: 184</p>\n<p># Comments: 82</p>",
-        "pubDate": "Mon, 12 Oct 2026 18:00:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50060269"
-      },
-      {
-        "title": "Thinking will become a hobby",
-        "link": "https://www.spinellis.gr/blog/20261008/?li261008",
-        "description": "<p>Article URL: <a href=\"https://www.spinellis.gr/blog/20261008/?li261008\">https://www.spinellis.gr/blog/20261008/?li261008</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059204\">https://news.ycombinator.com/item?id=50059204</a></p>\n<p>Points: 211</p>\n<p># Comments: 275</p>",
-        "pubDate": "Mon, 12 Oct 2026 16:54:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50059204"
-      },
-      {
-        "title": "Muse Wonder",
-        "link": "https://research.meta.ai/blog/muse-wonder",
-        "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-wonder\">https://research.meta.ai/blog/muse-wonder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059115\">https://news.ycombinator.com/item?id=50059115</a></p>\n<p>Points: 507</p>\n<p># Comments: 275</p>",
-        "pubDate": "Mon, 12 Oct 2026 16:48:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50059115"
-      },
-      {
-        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-        "link": "https://news.ycombinator.com/item?id=50059096",
-        "description": "<p>Hey HN, I’m Vishnu from Agent37 (<a href=\"https://agent37.com\">https://agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox.<p>You can view a video walkthrough of the product here: <a href=\"https://youtu.be/DK5ISR2tbNo\" rel=\"nofollow\">https://youtu.be/DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses.<p>One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings.<p>Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month.<p>Here are some techniques that have worked for lowering cost:<p>* When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or performing certain tasks, but beyond that, they’re often not peaking. They need more RAM for things like browser and computer-use tasks. Once the task is done, usage often comes back down. This is a key insight in lowering cost, so by efficiently managing the CPU/RAM utilization we could lower the cost.<p>* Secondly, you have to skip the hyperscalers when renting the Hosts. I worked at Amazon before and they have 80-90% margins on VMs. So it was an obvious choice once I looked at the prices to go one layer down to vendors like Hetzner and OVH. This alone was probably one of the biggest cost levers in reducing the cost.<p>* Thirdly, you also want to pick a technology stack that lets you efficiently cache and share resources across the host. We use gVisor for better utilization and fast boot times. It lets us use available host memory across sandboxes without reserving a full VM’s memory for each one. There are tradeoffs: our gVisor sandboxes don’t support workloads like Docker-in-Docker or Android emulators.<p>* And finally the size and shape of the hosts you buy also makes a big difference. RAM is typically the bottleneck when it comes to cost and not the CPU. This is specifically true for agent harness workloads, so when buying servers, we optimize for packing more RAM into a given host.<p>We also host full VM sandboxes for workloads that need them, including running Docker at a slightly higher price, but they are still pretty low cost given the rest of the techniques.<p>Overall, my learning has been that just by focusing on a niche of sandbox usecases, and optimizing for it you can give a much better cost/performance tradeoff.<p>I was previously a Senior Software Engineer at Amazon and an Engineering Manager at Quantcast. I built Amazon's internal AI chatbot, Diya, and their internal coding harness, Ziya.<p>If you’re someone who’s looking to run agents on sandbox and are exploring a sandbox vendor, come check us out. We’re particularly looking for developers building messaging agents to try their workloads and challenge the limits and economics of our platform.<p>Thanks!<p><a href=\"https://agent37.com\">https://agent37.com</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059096\">https://news.ycombinator.com/item?id=50059096</a></p>\n<p>Points: 89</p>\n<p># Comments: 61</p>",
-        "pubDate": "Mon, 12 Oct 2026 16:46:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50059096"
-      },
-      {
-        "title": "A Modern Web App in C",
-        "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-        "description": "<p>Article URL: <a href=\"https://prophitt.me/writing/a-modern-web-app-in-c\">https://prophitt.me/writing/a-modern-web-app-in-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50058528\">https://news.ycombinator.com/item?id=50058528</a></p>\n<p>Points: 363</p>\n<p># Comments: 157</p>",
-        "pubDate": "Mon, 12 Oct 2026 16:13:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50058528"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-13T00:30:40.990Z",
+  "lastUpdated": "2026-10-13T14:02:25.637Z",
   "stats": {
     "feeds": 2,
     "articles": 20
