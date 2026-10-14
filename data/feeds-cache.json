@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-14T17:00:44.398Z"
+      "lastFetched": "2026-10-14T21:32:43.914Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-14T17:00:59.064Z"
+      "lastFetched": "2026-10-14T21:33:04.137Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
-        "link": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
-        "description": "<p>Article URL: <a href=\"https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960\">https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090084\">https://news.ycombinator.com/item?id=50090084</a></p>\n<p>Points: 45</p>\n<p># Comments: 9</p>",
-        "pubDate": "Wed, 14 Oct 2026 16:16:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50090084"
+        "title": "Jev 1.14: For the Builders and Dreamers",
+        "link": "https://typesafe.ai/blog/jev-1-14",
+        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/jev-1-14\">https://typesafe.ai/blog/jev-1-14</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50095353\">https://news.ycombinator.com/item?id=50095353</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50095353"
+      },
+      {
+        "title": "OpenCode 2.0",
+        "link": "https://anoma.ly/notes/opencode-2-0/",
+        "description": "<p>Article URL: <a href=\"https://anoma.ly/notes/opencode-2-0/\">https://anoma.ly/notes/opencode-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094994\">https://news.ycombinator.com/item?id=50094994</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+        "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50094994"
+      },
+      {
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "description": "<p>Article URL: <a href=\"https://sunshowers.io/posts/anthropic-mononoke/\">https://sunshowers.io/posts/anthropic-mononoke/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094694\">https://news.ycombinator.com/item?id=50094694</a></p>\n<p>Points: 104</p>\n<p># Comments: 17</p>",
+        "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50094694"
+      },
+      {
+        "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+        "link": "https://blog.cloudflare.com/yandex-outage/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/yandex-outage/\">https://blog.cloudflare.com/yandex-outage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094673\">https://news.ycombinator.com/item?id=50094673</a></p>\n<p>Points: 86</p>\n<p># Comments: 30</p>",
+        "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50094673"
+      },
+      {
+        "title": "Fancy Curl Sites",
+        "link": "https://nytpu.com/gemlog/2026-03-18",
+        "description": "<p>Article URL: <a href=\"https://nytpu.com/gemlog/2026-03-18\">https://nytpu.com/gemlog/2026-03-18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093612\">https://news.ycombinator.com/item?id=50093612</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50093612"
+      },
+      {
+        "title": "Things to know when you get cancer – 2026 Edition",
+        "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+        "description": "<p>Article URL: <a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093568\">https://news.ycombinator.com/item?id=50093568</a></p>\n<p>Points: 340</p>\n<p># Comments: 66</p>",
+        "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50093568"
+      },
+      {
+        "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+        "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+        "description": "<p>Article URL: <a href=\"https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092730\">https://news.ycombinator.com/item?id=50092730</a></p>\n<p>Points: 219</p>\n<p># Comments: 145</p>",
+        "pubDate": "Wed, 14 Oct 2026 18:37:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50092730"
+      },
+      {
+        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+        "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+        "description": "<p>Article URL: <a href=\"https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\">https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092664\">https://news.ycombinator.com/item?id=50092664</a></p>\n<p>Points: 195</p>\n<p># Comments: 143</p>",
+        "pubDate": "Wed, 14 Oct 2026 18:32:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50092664"
+      },
+      {
+        "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+        "link": "https://petal.live/",
+        "description": "<p>Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https://github.com/kiruna-labs/petal\" rel=\"nofollow\">https://github.com/kiruna-labs/petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p>Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017.<p>When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else’s screen, and start collaborating with zero friction.”<p>Datadog acquired us in 2022, and thus began the great adventure of adapting our real-time technology into Datadog products, while also continue developing CoScreen as a standalone tool from the Datadog ecosystem. Datadog invested in the product for years and we’re thankful for that. But CoScreen itself proved, like so many other screen sharing tool acquisitions, to be too tangential from the customer base and core mission. We instead built other communication features in Datadog, the integrations with other video platforms, and also its wildly successful MCP server.\nWe weren't the only ones. Around was bought by Miro and shut down in March 2025. Multi (formerly Remotion) was acqui-hired by OpenAI in 2024 and shut down about a month later. It's nearly always the same story: a small team builds something hard that people love, a platform buys it for the team or the feature, and the standalone product doesn't survive the integration.\nSo we decided firmly to do things differently this time. Petal is completely free and open source and we aren't monetizing it. If we lose interest or get hit by a bus, you can self-host it or fork it, and nobody can sunset it on you. Honestly it's a love letter to everyone in this community that supported us, believed in us, and to liberate collaborative screen sharing from this vicious cycle.<p>We hope through this we can help foster a large and vibrant community around innovating in this product sector.\nWhat Petal does: shared windows show up as real windows on your desktop, movable and resizable, not tiles in a grid. Several people can share at once, everyone gets a labeled cursor, and you can click into any shared window to type and scroll. Rooms are persistent, so you click once to join \"eng-sync\" instead of passing links around.\nIt runs on macOS and Windows (Linux is next, this time for real and you can help us!), plus a web app. Media goes over LiveKit. You can use our hosted instance with zero config, or point the app at your own LiveKit server with one docker-compose if you want the traffic to stay on your network or even use an entirely different video backend if you want to.\nThe part that still feels strange to us: CoScreen took almost six years to build. The first version of Petal took under eight weeks, from scratch, with frontier models like Fable and Astra doing a lot of the work. Real-time video and window capture is some of the most unforgiving code we have ever written, so we didn't expect that. We will do a proper writeup on what worked and what didn't, and are happy to answer questions about it here.\nTill, Darren, Max and I will be in the thread.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092470\">https://news.ycombinator.com/item?id=50092470</a></p>\n<p>Points: 74</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 14 Oct 2026 18:23:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50092470"
+      },
+      {
+        "title": "America didn't lose its rare earth industry, it sold it",
+        "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+        "description": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it\">https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091875\">https://news.ycombinator.com/item?id=50091875</a></p>\n<p>Points: 103</p>\n<p># Comments: 44</p>",
+        "pubDate": "Wed, 14 Oct 2026 17:50:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50091875"
+      },
+      {
+        "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+        "link": "https://github.com/bealesh/neckbeard",
+        "description": "<p>Article URL: <a href=\"https://github.com/bealesh/neckbeard\">https://github.com/bealesh/neckbeard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091794\">https://news.ycombinator.com/item?id=50091794</a></p>\n<p>Points: 54</p>\n<p># Comments: 38</p>",
+        "pubDate": "Wed, 14 Oct 2026 17:45:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50091794"
+      },
+      {
+        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+        "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "description": "<p>Article URL: <a href=\"https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\">https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091788\">https://news.ycombinator.com/item?id=50091788</a></p>\n<p>Points: 764</p>\n<p># Comments: 363</p>",
+        "pubDate": "Wed, 14 Oct 2026 17:45:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50091788"
+      },
+      {
+        "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+        "link": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+        "description": "<p>Article URL: <a href=\"https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges\">https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090662\">https://news.ycombinator.com/item?id=50090662</a></p>\n<p>Points: 118</p>\n<p># Comments: 78</p>",
+        "pubDate": "Wed, 14 Oct 2026 16:45:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50090662"
+      },
+      {
+        "title": "Better HTTP/1 connection reuse in Go 1.27",
+        "link": "https://go.dev/blog/http-connection-reuse",
+        "description": "<p>Article URL: <a href=\"https://go.dev/blog/http-connection-reuse\">https://go.dev/blog/http-connection-reuse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090369\">https://news.ycombinator.com/item?id=50090369</a></p>\n<p>Points: 165</p>\n<p># Comments: 27</p>",
+        "pubDate": "Wed, 14 Oct 2026 16:29:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50090369"
+      },
+      {
+        "title": "Google is silently linking your phone number across all signed-in accounts",
+        "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+        "description": "<p>Article URL: <a href=\"https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\">https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090349\">https://news.ycombinator.com/item?id=50090349</a></p>\n<p>Points: 280</p>\n<p># Comments: 70</p>",
+        "pubDate": "Wed, 14 Oct 2026 16:28:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50090349"
       },
       {
         "title": "Submarine cable resilience",
         "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50089229\">https://news.ycombinator.com/item?id=50089229</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50089229\">https://news.ycombinator.com/item?id=50089229</a></p>\n<p>Points: 114</p>\n<p># Comments: 36</p>",
         "pubDate": "Wed, 14 Oct 2026 15:31:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50089229"
       },
       {
-        "title": "Passkeys are not a trap",
-        "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-        "description": "<p>Article URL: <a href=\"https://scotthelme.co.uk/passkeys-are-not-a-trap/\">https://scotthelme.co.uk/passkeys-are-not-a-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088935\">https://news.ycombinator.com/item?id=50088935</a></p>\n<p>Points: 236</p>\n<p># Comments: 348</p>",
-        "pubDate": "Wed, 14 Oct 2026 15:15:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50088935"
-      },
-      {
         "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
         "link": "https://github.com/graphicle-ai/graphicle",
-        "description": "<p>Article URL: <a href=\"https://github.com/graphicle-ai/graphicle\">https://github.com/graphicle-ai/graphicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088713\">https://news.ycombinator.com/item?id=50088713</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/graphicle-ai/graphicle\">https://github.com/graphicle-ai/graphicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088713\">https://news.ycombinator.com/item?id=50088713</a></p>\n<p>Points: 37</p>\n<p># Comments: 11</p>",
         "pubDate": "Wed, 14 Oct 2026 15:00:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=50088713"
       },
       {
         "title": "Running Windows desktop tests from Linux with disposable VMs",
         "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-        "description": "<p>Article URL: <a href=\"https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation\">https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088643\">https://news.ycombinator.com/item?id=50088643</a></p>\n<p>Points: 36</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation\">https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088643\">https://news.ycombinator.com/item?id=50088643</a></p>\n<p>Points: 76</p>\n<p># Comments: 27</p>",
         "pubDate": "Wed, 14 Oct 2026 14:55:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50088643"
       },
       {
         "title": "Strands Decider: Why Not an Encoder?",
         "link": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-        "description": "<p>Article URL: <a href=\"https://brooker.co.za:443/blog/2026/10/04/encoders.html\">https://brooker.co.za:443/blog/2026/10/04/encoders.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088447\">https://news.ycombinator.com/item?id=50088447</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://brooker.co.za:443/blog/2026/10/04/encoders.html\">https://brooker.co.za:443/blog/2026/10/04/encoders.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088447\">https://news.ycombinator.com/item?id=50088447</a></p>\n<p>Points: 33</p>\n<p># Comments: 1</p>",
         "pubDate": "Wed, 14 Oct 2026 14:40:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=50088447"
       },
       {
-        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-        "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/\">https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088430\">https://news.ycombinator.com/item?id=50088430</a></p>\n<p>Points: 116</p>\n<p># Comments: 100</p>",
-        "pubDate": "Wed, 14 Oct 2026 14:38:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50088430"
-      },
-      {
-        "title": "Scientists Are Teaching Birds to Sing Lost Songs",
-        "link": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
-        "description": "<p>Article URL: <a href=\"https://e360.yale.edu/digest/teaching-birds-lost-songs\">https://e360.yale.edu/digest/teaching-birds-lost-songs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50087337\">https://news.ycombinator.com/item?id=50087337</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 14 Oct 2026 13:20:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50087337"
-      },
-      {
-        "title": "RIP Eric Binnion",
-        "link": "https://ma.tt/2026/10/rip-eric/",
-        "description": "<p>Article URL: <a href=\"https://ma.tt/2026/10/rip-eric/\">https://ma.tt/2026/10/rip-eric/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50087044\">https://news.ycombinator.com/item?id=50087044</a></p>\n<p>Points: 74</p>\n<p># Comments: 34</p>",
-        "pubDate": "Wed, 14 Oct 2026 12:58:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50087044"
-      },
-      {
         "title": "Nvidia's first GPU: GeForce 256",
         "link": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-        "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/\">https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50086363\">https://news.ycombinator.com/item?id=50086363</a></p>\n<p>Points: 19</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/\">https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50086363\">https://news.ycombinator.com/item?id=50086363</a></p>\n<p>Points: 60</p>\n<p># Comments: 39</p>",
         "pubDate": "Wed, 14 Oct 2026 12:05:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50086363"
-      },
-      {
-        "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-        "link": "https://github.com/timescale/pg_vectorsearch",
-        "description": "<p>Article URL: <a href=\"https://github.com/timescale/pg_vectorsearch\">https://github.com/timescale/pg_vectorsearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50086165\">https://news.ycombinator.com/item?id=50086165</a></p>\n<p>Points: 134</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 14 Oct 2026 11:47:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50086165"
-      },
-      {
-        "title": "TV4 postpones show after AI agent erases edited material",
-        "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-        "description": "<p>Article URL: <a href=\"https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage\">https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085323\">https://news.ycombinator.com/item?id=50085323</a></p>\n<p>Points: 100</p>\n<p># Comments: 59</p>",
-        "pubDate": "Wed, 14 Oct 2026 10:28:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50085323"
-      },
-      {
-        "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-        "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-        "description": "<p>Article URL: <a href=\"https://blog.lorenzano.eu/pulsar-at-esug-2026/\">https://blog.lorenzano.eu/pulsar-at-esug-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085306\">https://news.ycombinator.com/item?id=50085306</a></p>\n<p>Points: 63</p>\n<p># Comments: 14</p>",
-        "pubDate": "Wed, 14 Oct 2026 10:26:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50085306"
-      },
-      {
-        "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-        "link": "https://museumofages.org/w/vinci",
-        "description": "<p>Hello HN,<p>I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free.<p>At the different stops you can see for example his paintings close to their real size, or 15 of his machines rebuilt in code, and you can have a look at 29 of his anatomy sheets. We also selected 207 of his manuscript pages which you can read in a virtual reading table, mirror the view to read his writing and 131 of the 207 are translated. We also rebuilt his last house in Amboise on the later stops of the walk. The museum is available in seven languages.<p>Each stop has one of four grades as a label, documented, reconstructed, conjectural and not known. In a detailed view the user can have a closer look at the sources.<p>The materials of the rooms and machines are created in Three.js. The museum runs with WebGPU. If the browser doesn’t support it, the fallback is WebGL2. To create the textures we used Creative Commons Zero photo scans (CC0) and for a few small objects we use free 3D models (CC0).<p>Our mission is to create digital museums you can walk as not everyone can get to a museum, because illness or disability keeps them away. Some cannot afford the trip or just reside far away. So our goal is also to make our digital museums as accessible as possible. Therefore we also pre-rendered the walk so that it also works on older phones and is easy to use for older people.<p>We released the code under AGPL-3.0. The texts and pictures are CC BY-SA 4.0. Reproductions have their own licenses. \n<a href=\"https://github.com/chipmates/museumofages\" rel=\"nofollow\">https://github.com/chipmates/museumofages</a><p>We put a lot of time and passion into the museum and hope you like it. We are happy about any feedback. Which digital museum would you like to see next?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085022\">https://news.ycombinator.com/item?id=50085022</a></p>\n<p>Points: 69</p>\n<p># Comments: 31</p>",
-        "pubDate": "Wed, 14 Oct 2026 10:00:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50085022"
-      },
-      {
-        "title": "Amazon pushes up prices across the Internet",
-        "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-        "description": "<p>Article URL: <a href=\"https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/\">https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084757\">https://news.ycombinator.com/item?id=50084757</a></p>\n<p>Points: 478</p>\n<p># Comments: 434</p>",
-        "pubDate": "Wed, 14 Oct 2026 09:28:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50084757"
-      },
-      {
-        "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-        "link": "https://typeof.net/Iosevka/",
-        "description": "<p>Article URL: <a href=\"https://typeof.net/Iosevka/\">https://typeof.net/Iosevka/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084240\">https://news.ycombinator.com/item?id=50084240</a></p>\n<p>Points: 524</p>\n<p># Comments: 211</p>",
-        "pubDate": "Wed, 14 Oct 2026 08:27:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50084240"
-      },
-      {
-        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-        "link": "https://github.com/android/ndk/issues/2260",
-        "description": "<p>Article URL: <a href=\"https://github.com/android/ndk/issues/2260\">https://github.com/android/ndk/issues/2260</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50083130\">https://news.ycombinator.com/item?id=50083130</a></p>\n<p>Points: 444</p>\n<p># Comments: 217</p>",
-        "pubDate": "Wed, 14 Oct 2026 06:18:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50083130"
-      },
-      {
-        "title": "Felix Rieseberg Homepage",
-        "link": "https://felixrieseberg.com/",
-        "description": "<p>Article URL: <a href=\"https://felixrieseberg.com/\">https://felixrieseberg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082470\">https://news.ycombinator.com/item?id=50082470</a></p>\n<p>Points: 258</p>\n<p># Comments: 99</p>",
-        "pubDate": "Wed, 14 Oct 2026 04:42:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50082470"
-      },
-      {
-        "title": "Recreational Programming",
-        "link": "https://www.cphiri.dev/presentations/recreational-programming",
-        "description": "<p>Article URL: <a href=\"https://www.cphiri.dev/presentations/recreational-programming\">https://www.cphiri.dev/presentations/recreational-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079865\">https://news.ycombinator.com/item?id=50079865</a></p>\n<p>Points: 282</p>\n<p># Comments: 131</p>",
-        "pubDate": "Tue, 13 Oct 2026 22:33:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50079865"
-      },
-      {
-        "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
-        "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-        "description": "<p><a href=\"https://celebratio.org/Appel_KI/article/796/#sender\" rel=\"nofollow\">https://celebratio.org/Appel_KI/article/796/#sender</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077096\">https://news.ycombinator.com/item?id=50077096</a></p>\n<p>Points: 67</p>\n<p># Comments: 43</p>",
-        "pubDate": "Tue, 13 Oct 2026 19:17:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50077096"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-14T17:00:59.064Z",
+  "lastUpdated": "2026-10-14T21:33:04.137Z",
   "stats": {
     "feeds": 2,
     "articles": 20
