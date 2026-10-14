@@ -5,18 +5,81 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-13T22:34:31.022Z"
+      "lastFetched": "2026-10-14T04:39:13.284Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-13T22:34:40.116Z"
+      "lastFetched": "2026-10-14T04:39:20.650Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
+      {
+        "title": "Is 'Attention' the Essence of Intelligence?",
+        "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/\">https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081930\">https://news.ycombinator.com/item?id=50081930</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 14 Oct 2026 03:10:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50081930"
+      },
+      {
+        "title": "I built a tool to track what AI leaders say and how their views change on video",
+        "link": "https://blumify.io/people",
+        "description": "<p>Article URL: <a href=\"https://blumify.io/people\">https://blumify.io/people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081151\">https://news.ycombinator.com/item?id=50081151</a></p>\n<p>Points: 42</p>\n<p># Comments: 24</p>",
+        "pubDate": "Wed, 14 Oct 2026 01:09:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50081151"
+      },
+      {
+        "title": "High-speed video reveals how honey bee stingers pump venom",
+        "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/\">https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081133\">https://news.ycombinator.com/item?id=50081133</a></p>\n<p>Points: 39</p>\n<p># Comments: 7</p>",
+        "pubDate": "Wed, 14 Oct 2026 01:05:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50081133"
+      },
+      {
+        "title": "Do Frameworks Matter Anymore?",
+        "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+        "description": "<p>Article URL: <a href=\"https://brookslybrand.com/posts/do-frameworks-matter-anymore/\">https://brookslybrand.com/posts/do-frameworks-matter-anymore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081092\">https://news.ycombinator.com/item?id=50081092</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 14 Oct 2026 01:01:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50081092"
+      },
+      {
+        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "link": "https://pulseos.finance",
+        "description": "<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.<p>I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data.<p>Features-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I'm sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction.<p>How it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, and code, not the model, does the money math against the ledger. A 4B checker model double-checks each money answer; when the two readings disagree, the app says it is not sure instead of guessing. That change took wrong answers from about one in five to 5 in 494 questions across our last three tests. The write-up covers how we test, the designs that failed, and the limits of the claim: <a href=\"https://pulseos.finance/pulse-local/writing/agree-or-not-sure\" rel=\"nofollow\">https://pulseos.finance/pulse-local/writing/agree-or-not-sur...</a><p>The tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b).<p>Limitations: the first start downloads about 2.9 GB of models. With the checker on, a money answer takes 12 to 14 seconds (you can turn the checker off). Small models can still misread an open-ended question. The app answers in English. Mac only for now; Windows is next.<p>The app is free. An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.<p>Feedback welcome, especially on wrong answers and on questions it should handle but does not.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50080275\">https://news.ycombinator.com/item?id=50080275</a></p>\n<p>Points: 80</p>\n<p># Comments: 47</p>",
+        "pubDate": "Tue, 13 Oct 2026 23:13:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50080275"
+      },
+      {
+        "title": "Grace Hopper Celebration Cancelled",
+        "link": "https://anitab.org/press-release",
+        "description": "<p>Article URL: <a href=\"https://anitab.org/press-release\">https://anitab.org/press-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50080007\">https://news.ycombinator.com/item?id=50080007</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
+        "pubDate": "Tue, 13 Oct 2026 22:46:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50080007"
+      },
+      {
+        "title": "Recreational Programming",
+        "link": "https://www.cphiri.dev/presentations/recreational-programming",
+        "description": "<p>Article URL: <a href=\"https://www.cphiri.dev/presentations/recreational-programming\">https://www.cphiri.dev/presentations/recreational-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079865\">https://news.ycombinator.com/item?id=50079865</a></p>\n<p>Points: 98</p>\n<p># Comments: 32</p>",
+        "pubDate": "Tue, 13 Oct 2026 22:33:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50079865"
+      },
+      {
+        "title": "AlphaNIST",
+        "link": "https://alpha-nist.github.io/",
+        "description": "<p>Article URL: <a href=\"https://alpha-nist.github.io/\">https://alpha-nist.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079464\">https://news.ycombinator.com/item?id=50079464</a></p>\n<p>Points: 58</p>\n<p># Comments: 15</p>",
+        "pubDate": "Tue, 13 Oct 2026 21:57:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50079464"
+      },
+      {
+        "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+        "link": "https://www.pi.website/blog/api-beta",
+        "description": "<p>Article URL: <a href=\"https://www.pi.website/blog/api-beta\">https://www.pi.website/blog/api-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079437\">https://news.ycombinator.com/item?id=50079437</a></p>\n<p>Points: 47</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 13 Oct 2026 21:55:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50079437"
+      },
       {
         "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
         "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
@@ -27,140 +90,77 @@
       {
         "title": "OpenAI engineer arrested in bugging of executive conference room",
         "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-        "description": "<p><a href=\"https://x.com/OpenAINewsroom/status/2110095403198849132\" rel=\"nofollow\">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078141\">https://news.ycombinator.com/item?id=50078141</a></p>\n<p>Points: 146</p>\n<p># Comments: 158</p>",
+        "description": "<p><a href=\"https://x.com/OpenAINewsroom/status/2110095403198849132\" rel=\"nofollow\">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078141\">https://news.ycombinator.com/item?id=50078141</a></p>\n<p>Points: 476</p>\n<p># Comments: 413</p>",
         "pubDate": "Tue, 13 Oct 2026 20:23:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=50078141"
       },
       {
-        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-        "link": "https://parsimony.lasu.dev/",
-        "description": "<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units.<p>GPT-6 and Claude 5.5 have no public patches yet, so I ran them myself on 3–10 tasks on my own subscriptions (shown as faded circles, not ranked).<p>Any feedback or model contributions are welcome, especially public patch exports for newer models.<p>GitHub: <a href=\"https://github.com/La5u/Parsimony\" rel=\"nofollow\">https://github.com/La5u/Parsimony</a><p>Not affiliated with any of the benchmarks.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077619\">https://news.ycombinator.com/item?id=50077619</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 13 Oct 2026 19:50:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50077619"
-      },
-      {
         "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
         "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-        "description": "<p><a href=\"https://celebratio.org/Appel_KI/article/796/#sender\" rel=\"nofollow\">https://celebratio.org/Appel_KI/article/796/#sender</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077096\">https://news.ycombinator.com/item?id=50077096</a></p>\n<p>Points: 15</p>\n<p># Comments: 14</p>",
+        "description": "<p><a href=\"https://celebratio.org/Appel_KI/article/796/#sender\" rel=\"nofollow\">https://celebratio.org/Appel_KI/article/796/#sender</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077096\">https://news.ycombinator.com/item?id=50077096</a></p>\n<p>Points: 54</p>\n<p># Comments: 31</p>",
         "pubDate": "Tue, 13 Oct 2026 19:17:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50077096"
       },
       {
         "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
         "link": "https://guitoro.com/",
-        "description": "<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.<p>1 minute video demo: <a href=\"https://youtu.be/DtcluMLdSgs\" rel=\"nofollow\">https://youtu.be/DtcluMLdSgs</a><p>I would love feedback on how the strumming feels and sounds.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077020\">https://news.ycombinator.com/item?id=50077020</a></p>\n<p>Points: 154</p>\n<p># Comments: 55</p>",
+        "description": "<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.<p>1 minute video demo: <a href=\"https://youtu.be/DtcluMLdSgs\" rel=\"nofollow\">https://youtu.be/DtcluMLdSgs</a><p>I would love feedback on how the strumming feels and sounds.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077020\">https://news.ycombinator.com/item?id=50077020</a></p>\n<p>Points: 342</p>\n<p># Comments: 96</p>",
         "pubDate": "Tue, 13 Oct 2026 19:11:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50077020"
       },
       {
         "title": "Show HN: XY Music Notation",
         "link": "https://music.xy.dev/",
-        "description": "<p>I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.<p>The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).<p>I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.<p>I've found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50075665\">https://news.ycombinator.com/item?id=50075665</a></p>\n<p>Points: 39</p>\n<p># Comments: 30</p>",
+        "description": "<p>I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.<p>The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).<p>I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.<p>I've found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50075665\">https://news.ycombinator.com/item?id=50075665</a></p>\n<p>Points: 59</p>\n<p># Comments: 44</p>",
         "pubDate": "Tue, 13 Oct 2026 17:43:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=50075665"
       },
       {
-        "title": "Show HN: How Random Are You?",
+        "title": "Show HN: How random are you?",
         "link": "https://lab.specr.net/rigged-draw/",
-        "description": "<p>Article URL: <a href=\"https://lab.specr.net/rigged-draw/\">https://lab.specr.net/rigged-draw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074909\">https://news.ycombinator.com/item?id=50074909</a></p>\n<p>Points: 60</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://lab.specr.net/rigged-draw/\">https://lab.specr.net/rigged-draw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074909\">https://news.ycombinator.com/item?id=50074909</a></p>\n<p>Points: 98</p>\n<p># Comments: 58</p>",
         "pubDate": "Tue, 13 Oct 2026 16:57:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=50074909"
       },
       {
-        "title": "Gemini 4 Argon for Robotics",
-        "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-        "description": "<p>Main thread: <i>Gemini 4 Argon</i> - <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p>\n<p>Points: 163</p>\n<p># Comments: 40</p>",
-        "pubDate": "Tue, 13 Oct 2026 16:55:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50074869"
-      },
-      {
         "title": "Gemini 4 Argon",
         "link": "https://deepmind.google/models/gemini/",
-        "description": "<p>See also: <i>Gemini 4 Argon for Robotics</i> - <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p>\n<p>Points: 838</p>\n<p># Comments: 664</p>",
+        "description": "<p>See also: <i>Gemini 4 Argon for Robotics</i> - <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p>\n<p>Points: 1125</p>\n<p># Comments: 810</p>",
         "pubDate": "Tue, 13 Oct 2026 16:03:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50073879"
       },
       {
         "title": "Redesigning source control at Anthropic",
         "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/engineering/redesigning-source-control\">https://www.anthropic.com/engineering/redesigning-source-control</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073633\">https://news.ycombinator.com/item?id=50073633</a></p>\n<p>Points: 424</p>\n<p># Comments: 415</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/engineering/redesigning-source-control\">https://www.anthropic.com/engineering/redesigning-source-control</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073633\">https://news.ycombinator.com/item?id=50073633</a></p>\n<p>Points: 619</p>\n<p># Comments: 595</p>",
         "pubDate": "Tue, 13 Oct 2026 15:49:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=50073633"
       },
       {
-        "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-        "link": "https://news.ycombinator.com/item?id=50073471",
-        "description": "<p>Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.\nConsus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving FedRAMP equivalency, or authorization, is required before processing CUI information.<p>Demo: <a href=\"https://youtu.be/6MYxJe6P4oY\" rel=\"nofollow\">https://youtu.be/6MYxJe6P4oY</a><p>Aerospace and defense is experiencing rapid growth. Unfortunately, most companies are struggling to use AI because of necessary data protections & compliance risk. These companies can move even faster if they could use the AI tools that most other industries take for granted.<p>I spent most of my career prior to Consus in aerospace & defense. I launched national security payloads at SpaceX, and was an early employee at Castelion. I’ve watched first hand how compliance red-tape makes it difficult for companies to adopt new technologies and trust vendors that touch their sensitive data. For example, I worked with a satellite manufacturer that doesn’t allow any AI tools, even for non-sensitive work.<p>Even as AI has become extremely useful over the past 9-12 months, I was surprised by how many aerospace & defense companies refused to touch it. They could see how it could be helpful, but they were scared about model providers training on their data, violating an ITAR rule, or risk losing new business because of a failed cyber assessment. These are all rational fears.<p>There were a lot of ways to solve some/all of these problems, but we focused on building a compliant AI inference layer that can \"plug\" into any AI tool or workflow. Just as OpenRouter integrates with most tools, Consus can connect to tools like ChatGPT or Claude, open source tools including the Pi coding agent or Open WebUI, or integrate with applications built and maintained by individual organizations.<p>Almost no aerospace & defense company lives in all three major GovClouds (AWS, Azure, Google). When I mapped where frontier models can legally run for ITAR and CUI work, each provider had some subset of models, and each model achieved varying levels of compliance. Our customers don’t think in terms of cloud providers. They think about the data controls they require, and the model they want to use.\nThat is why we built the compliance suffix. Under the hood, every request hits a single OpenAI-compatible endpoint, where keys are verified and policy is enforced before anything touches inference. Every model name must carry a compliance suffix, such as gpt-5.6-sol:fedramp-high or claude-opus-5-5:itar, and any bare model name is rejected. We never proxy to the standard commercial endpoints.<p>Our customers are also able to build an allowlist of models, and assign spend & model restrictions to individual users in the organization. This is all handled through our Consus Portal where teams can manage spend, keys, and policies.<p>A typical question we hear is why not just use Bedrock in AWS GovCloud or Azure Government directly. For small teams, just getting access to these platforms is difficult. For larger organizations, GovCloud lets you inherit some but not all of the controls needed to handle sensitive data. Also, models are split across providers: GPT-5.6 Sol is only available in Azure Government, while Claude Opus 5.5 is served through Bedrock in AWS GovCloud. If you want both, you are standing up and securing two separate government cloud environments. We run all of them behind one endpoint so customers don’t have to pick a cloud, and we handle the compliance work for each one.<p>Given the data sensitivities, Consus does not store any customer data at rest. All prompts and completions stay in memory only for the length of the request and are never logged or written to disk. Zero data retention is strictly enforced both on ourselves and the infrastructure/model providers. We do keep metadata on each request and response for billing and audit purposes.<p>Consus is not self-serve by design. ITAR requires us to know exactly who is on the other end of every key, so we verify every organization and put a contract in place before issuing API keys. We charge our customers a compliance fee starting at $40/mo/seat plus AI tokens at cost.<p>We are actively serving customers, and would love any feedback from security experts, or developers/engineers working in highly regulated industries!<p>References:\nAPI Documentation: <a href=\"https://gateway.consus.io/overview\">https://gateway.consus.io/overview</a>\nSecurity & Architecture: <a href=\"https://gateway.consus.io/security\">https://gateway.consus.io/security</a>\nCompliance Details: <a href=\"https://consus.io/compliance\">https://consus.io/compliance</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073471\">https://news.ycombinator.com/item?id=50073471</a></p>\n<p>Points: 32</p>\n<p># Comments: 16</p>",
-        "pubDate": "Tue, 13 Oct 2026 15:41:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50073471"
-      },
-      {
         "title": "I posted to HN, and then my website was flooded with AI bot traffic",
         "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-        "description": "<p>Article URL: <a href=\"https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\">https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073221\">https://news.ycombinator.com/item?id=50073221</a></p>\n<p>Points: 209</p>\n<p># Comments: 133</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\">https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073221\">https://news.ycombinator.com/item?id=50073221</a></p>\n<p>Points: 286</p>\n<p># Comments: 159</p>",
         "pubDate": "Tue, 13 Oct 2026 15:25:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=50073221"
       },
       {
         "title": "The United Kingdom generates less electricity per person than in the 1970s",
         "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-        "description": "<p>Article URL: <a href=\"https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak\">https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072994\">https://news.ycombinator.com/item?id=50072994</a></p>\n<p>Points: 147</p>\n<p># Comments: 217</p>",
+        "description": "<p>Article URL: <a href=\"https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak\">https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072994\">https://news.ycombinator.com/item?id=50072994</a></p>\n<p>Points: 240</p>\n<p># Comments: 329</p>",
         "pubDate": "Tue, 13 Oct 2026 15:12:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=50072994"
       },
       {
         "title": "Thunderbird for iOS",
         "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-        "description": "<p>Article URL: <a href=\"https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\">https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072913\">https://news.ycombinator.com/item?id=50072913</a></p>\n<p>Points: 282</p>\n<p># Comments: 114</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\">https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072913\">https://news.ycombinator.com/item?id=50072913</a></p>\n<p>Points: 378</p>\n<p># Comments: 166</p>",
         "pubDate": "Tue, 13 Oct 2026 15:07:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=50072913"
-      },
-      {
-        "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-        "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-        "description": "<p><a href=\"https://www.apple.com/safari/switch/\" rel=\"nofollow\">https://www.apple.com/safari/switch/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072286\">https://news.ycombinator.com/item?id=50072286</a></p>\n<p>Points: 140</p>\n<p># Comments: 229</p>",
-        "pubDate": "Tue, 13 Oct 2026 14:26:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50072286"
-      },
-      {
-        "title": "How to engineer an AI harness for game development",
-        "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-        "description": "<p>Article URL: <a href=\"https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code\">https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072120\">https://news.ycombinator.com/item?id=50072120</a></p>\n<p>Points: 105</p>\n<p># Comments: 45</p>",
-        "pubDate": "Tue, 13 Oct 2026 14:14:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50072120"
-      },
-      {
-        "title": "New Apple TV 4K",
-        "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/\">https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071310\">https://news.ycombinator.com/item?id=50071310</a></p>\n<p>Points: 254</p>\n<p># Comments: 496</p>",
-        "pubDate": "Tue, 13 Oct 2026 13:21:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50071310"
-      },
-      {
-        "title": "Apple HomeView",
-        "link": "https://www.apple.com/apple-homeview/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/apple-homeview/\">https://www.apple.com/apple-homeview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071017\">https://news.ycombinator.com/item?id=50071017</a></p>\n<p>Points: 604</p>\n<p># Comments: 742</p>",
-        "pubDate": "Tue, 13 Oct 2026 13:02:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50071017"
-      },
-      {
-        "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-        "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-        "description": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/distributed-gpu-cloud\">https://machinelearning.apple.com/research/distributed-gpu-cloud</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070593\">https://news.ycombinator.com/item?id=50070593</a></p>\n<p>Points: 210</p>\n<p># Comments: 90</p>",
-        "pubDate": "Tue, 13 Oct 2026 12:26:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50070593"
-      },
-      {
-        "title": "Worlds more habitable than Earth?",
-        "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-        "description": "<p><a href=\"https://archive.is/yIYpb\" rel=\"nofollow\">https://archive.is/yIYpb</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070554\">https://news.ycombinator.com/item?id=50070554</a></p>\n<p>Points: 69</p>\n<p># Comments: 139</p>",
-        "pubDate": "Tue, 13 Oct 2026 12:23:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50070554"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-13T22:34:40.116Z",
+  "lastUpdated": "2026-10-14T04:39:20.650Z",
   "stats": {
     "feeds": 2,
     "articles": 20
