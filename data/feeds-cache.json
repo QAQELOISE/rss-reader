@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-15T16:48:29.938Z"
+      "lastFetched": "2026-10-15T21:14:41.535Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-15T16:48:41.123Z"
+      "lastFetched": "2026-10-15T21:15:01.109Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "What I Self-Host",
+        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "description": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50109715"
+      },
+      {
+        "title": "Why are we even doing all this?",
+        "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/\">https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109707\">https://news.ycombinator.com/item?id=50109707</a></p>\n<p>Points: 36</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 15 Oct 2026 20:22:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50109707"
+      },
+      {
+        "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+        "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+        "description": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+        "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50109375"
+      },
+      {
+        "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+        "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+        "description": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 72</p>\n<p># Comments: 25</p>",
+        "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50108872"
+      },
+      {
+        "title": "We are entering a period of overlapping crises",
+        "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
+        "description": "<p>Article URL: <a href=\"https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/\">https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108491\">https://news.ycombinator.com/item?id=50108491</a></p>\n<p>Points: 34</p>\n<p># Comments: 23</p>",
+        "pubDate": "Thu, 15 Oct 2026 18:54:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50108491"
+      },
+      {
+        "title": "E Ink Kaleido 4",
+        "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+        "description": "<p><a href=\"https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\" rel=\"nofollow\">https://web.archive.org/web/20261015180401/https://www.eink....</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108229\">https://news.ycombinator.com/item?id=50108229</a></p>\n<p>Points: 70</p>\n<p># Comments: 31</p>",
+        "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50108229"
+      },
+      {
+        "title": "Muse Spark Open",
+        "link": "https://research.meta.ai/blog/muse-spark-open",
+        "description": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 433</p>\n<p># Comments: 266</p>",
+        "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50107379"
+      },
+      {
+        "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+        "link": "https://sygal.app",
+        "description": "<p>Article URL: <a href=\"https://sygal.app\">https://sygal.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106054\">https://news.ycombinator.com/item?id=50106054</a></p>\n<p>Points: 29</p>\n<p># Comments: 8</p>",
+        "pubDate": "Thu, 15 Oct 2026 16:26:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50106054"
+      },
+      {
+        "title": "Jev meets the Trolley Problem",
+        "link": "https://zachlandes.com/trolley-problem/",
+        "description": "<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p>\n<p>Points: 161</p>\n<p># Comments: 81</p>",
+        "pubDate": "Thu, 15 Oct 2026 16:24:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50106023"
+      },
+      {
         "title": "The technical actions needed to ensure the continuity of UTC",
         "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-        "description": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 81</p>\n<p># Comments: 36</p>",
         "pubDate": "Thu, 15 Oct 2026 16:11:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105777"
       },
       {
-        "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+        "title": "Krea 3 – An image model built for editing at scale",
         "link": "https://www.krea.ai/krea-3",
-        "description": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 192</p>\n<p># Comments: 70</p>",
         "pubDate": "Thu, 15 Oct 2026 16:04:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105648"
       },
       {
-        "title": "Neural Networks Are Already Clean",
+        "title": "Neural networks are clean",
         "link": "https://already-clean.goodfire.com/",
-        "description": "<p>Article URL: <a href=\"https://already-clean.goodfire.com/\">https://already-clean.goodfire.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+        "description": "<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 354</p>\n<p># Comments: 113</p>",
         "pubDate": "Thu, 15 Oct 2026 16:04:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105647"
       },
       {
-        "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+        "title": "Steam Client is now faster than Epic's new vibe coded launcher",
         "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-        "description": "<p>Article URL: <a href=\"https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\">https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105635\">https://news.ycombinator.com/item?id=50105635</a></p>\n<p>Points: 68</p>\n<p># Comments: 81</p>",
+        "description": "<p>Article URL: <a href=\"https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\">https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105635\">https://news.ycombinator.com/item?id=50105635</a></p>\n<p>Points: 217</p>\n<p># Comments: 232</p>",
         "pubDate": "Thu, 15 Oct 2026 16:03:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105635"
       },
       {
-        "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
+        "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
         "link": "https://proa.so/",
-        "description": "<p>Video: <a href=\"https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1\" rel=\"nofollow\">https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1</a><p>Video on multi-target rendering: <a href=\"https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq\" rel=\"nofollow\">https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq</a><p>Benchmarks: <a href=\"https://github.com/Proa-Labs/proa-benchmarks\" rel=\"nofollow\">https://github.com/Proa-Labs/proa-benchmarks</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105467\">https://news.ycombinator.com/item?id=50105467</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "description": "<p>Video: <a href=\"https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1\" rel=\"nofollow\">https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1</a><p>Video on multi-target rendering: <a href=\"https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq\" rel=\"nofollow\">https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq</a><p>Benchmarks: <a href=\"https://github.com/Proa-Labs/proa-benchmarks\" rel=\"nofollow\">https://github.com/Proa-Labs/proa-benchmarks</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105467\">https://news.ycombinator.com/item?id=50105467</a></p>\n<p>Points: 65</p>\n<p># Comments: 12</p>",
         "pubDate": "Thu, 15 Oct 2026 15:52:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105467"
       },
       {
-        "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
-        "link": "https://snoutcover.com/one-year",
-        "description": "<p>Article URL: <a href=\"https://snoutcover.com/one-year\">https://snoutcover.com/one-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105344\">https://news.ycombinator.com/item?id=50105344</a></p>\n<p>Points: 108</p>\n<p># Comments: 53</p>",
-        "pubDate": "Thu, 15 Oct 2026 15:44:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50105344"
-      },
-      {
         "title": "Celebrating 70 Years of Fortran",
         "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-        "description": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 62</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 178</p>\n<p># Comments: 76</p>",
         "pubDate": "Thu, 15 Oct 2026 15:03:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50104726"
       },
       {
-        "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
         "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-        "description": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\">https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104654\">https://news.ycombinator.com/item?id=50104654</a></p>\n<p>Points: 101</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\">https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104654\">https://news.ycombinator.com/item?id=50104654</a></p>\n<p>Points: 200</p>\n<p># Comments: 173</p>",
         "pubDate": "Thu, 15 Oct 2026 14:58:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50104654"
       },
       {
-        "title": "Prompt injection in HTTP headers: what 217M web responses show",
-        "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-        "description": "<p>Article URL: <a href=\"https://www.signalscorps.com/blog/prompt-injection-in-http-headers/\">https://www.signalscorps.com/blog/prompt-injection-in-http-headers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104310\">https://news.ycombinator.com/item?id=50104310</a></p>\n<p>Points: 36</p>\n<p># Comments: 8</p>",
-        "pubDate": "Thu, 15 Oct 2026 14:36:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50104310"
-      },
-      {
-        "title": "Using AI to reverse engineer hardware",
-        "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-        "description": "<p>Article URL: <a href=\"https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104299\">https://news.ycombinator.com/item?id=50104299</a></p>\n<p>Points: 45</p>\n<p># Comments: 36</p>",
-        "pubDate": "Thu, 15 Oct 2026 14:35:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50104299"
-      },
-      {
-        "title": "I know why Mathematicians weep",
+        "title": "I know why the mathematicians weep",
         "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-        "description": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\">https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103630\">https://news.ycombinator.com/item?id=50103630</a></p>\n<p>Points: 161</p>\n<p># Comments: 228</p>",
+        "description": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\">https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103630\">https://news.ycombinator.com/item?id=50103630</a></p>\n<p>Points: 310</p>\n<p># Comments: 496</p>",
         "pubDate": "Thu, 15 Oct 2026 13:44:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50103630"
       },
       {
         "title": "Wayland desktop for Linux with skeuomorphic design",
         "link": "https://github.com/fyzugx/DEsk",
-        "description": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 208</p>\n<p># Comments: 85</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 419</p>\n<p># Comments: 173</p>",
         "pubDate": "Thu, 15 Oct 2026 13:23:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50103338"
       },
       {
-        "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
-        "link": "https://github.com/konieczkow/gridsnap",
-        "description": "<p>Article URL: <a href=\"https://github.com/konieczkow/gridsnap\">https://github.com/konieczkow/gridsnap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103263\">https://news.ycombinator.com/item?id=50103263</a></p>\n<p>Points: 27</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 15 Oct 2026 13:19:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50103263"
-      },
-      {
         "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
         "link": "https://www.cppstories.com/2026/cpp26_contracts/",
-        "description": "<p>Article URL: <a href=\"https://www.cppstories.com/2026/cpp26_contracts/\">https://www.cppstories.com/2026/cpp26_contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103164\">https://news.ycombinator.com/item?id=50103164</a></p>\n<p>Points: 67</p>\n<p># Comments: 63</p>",
+        "description": "<p>Article URL: <a href=\"https://www.cppstories.com/2026/cpp26_contracts/\">https://www.cppstories.com/2026/cpp26_contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103164\">https://news.ycombinator.com/item?id=50103164</a></p>\n<p>Points: 110</p>\n<p># Comments: 106</p>",
         "pubDate": "Thu, 15 Oct 2026 13:11:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=50103164"
       },
       {
         "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
         "link": "https://libreboot.org/news/libreboot2610.html",
-        "description": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 150</p>\n<p># Comments: 76</p>",
+        "description": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 225</p>\n<p># Comments: 128</p>",
         "pubDate": "Thu, 15 Oct 2026 12:52:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50102923"
-      },
-      {
-        "title": "Show HN: Unfenced – Land for sale that borders public land",
-        "link": "https://unfenced.land/",
-        "description": "<p>Article URL: <a href=\"https://unfenced.land/\">https://unfenced.land/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102247\">https://news.ycombinator.com/item?id=50102247</a></p>\n<p>Points: 158</p>\n<p># Comments: 114</p>",
-        "pubDate": "Thu, 15 Oct 2026 11:38:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50102247"
-      },
-      {
-        "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-        "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-        "description": "<p>Article URL: <a href=\"https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/\">https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50101813\">https://news.ycombinator.com/item?id=50101813</a></p>\n<p>Points: 142</p>\n<p># Comments: 19</p>",
-        "pubDate": "Thu, 15 Oct 2026 10:43:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50101813"
-      },
-      {
-        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-        "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 271</p>\n<p># Comments: 72</p>",
-        "pubDate": "Wed, 14 Oct 2026 23:59:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50097369"
-      },
-      {
-        "title": "Tiny Little Office",
-        "link": "https://tinylittleoffice.com/",
-        "description": "<p>Article URL: <a href=\"https://tinylittleoffice.com/\">https://tinylittleoffice.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50096142\">https://news.ycombinator.com/item?id=50096142</a></p>\n<p>Points: 600</p>\n<p># Comments: 153</p>",
-        "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50096142"
-      },
-      {
-        "title": "OpenCode 2.0",
-        "link": "https://anoma.ly/notes/opencode-2-0/",
-        "description": "<p>Article URL: <a href=\"https://anoma.ly/notes/opencode-2-0/\">https://anoma.ly/notes/opencode-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094994\">https://news.ycombinator.com/item?id=50094994</a></p>\n<p>Points: 789</p>\n<p># Comments: 340</p>",
-        "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50094994"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-15T16:48:41.123Z",
+  "lastUpdated": "2026-10-15T21:15:01.110Z",
   "stats": {
     "feeds": 2,
     "articles": 20
