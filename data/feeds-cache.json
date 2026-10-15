@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-14T21:32:43.914Z"
+      "lastFetched": "2026-10-15T04:21:55.601Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-14T21:33:04.137Z"
+      "lastFetched": "2026-10-15T04:22:15.110Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Jev 1.14: For the Builders and Dreamers",
+        "title": "Future of Cancer Care Today (FCCT)",
+        "link": "https://sijbrandijfoundation.org/fcct",
+        "description": "<p>Article URL: <a href=\"https://sijbrandijfoundation.org/fcct\">https://sijbrandijfoundation.org/fcct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098702\">https://news.ycombinator.com/item?id=50098702</a></p>\n<p>Points: 20</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 15 Oct 2026 03:18:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50098702"
+      },
+      {
+        "title": "One in ten people are older than 65. Three in four live under a leader who is",
+        "link": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+        "description": "<p>Article URL: <a href=\"https://hannahritchie.substack.com/p/how-old-are-leaders\">https://hannahritchie.substack.com/p/how-old-are-leaders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098570\">https://news.ycombinator.com/item?id=50098570</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 15 Oct 2026 02:53:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50098570"
+      },
+      {
+        "title": "Show HN: My Terminal Themes Web App",
+        "link": "https://news.ycombinator.com/item?id=50098454",
+        "description": "<p>Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it!<p>I've been maintaining a popular repo of terminal themes at <a href=\"https://github.com/mbadolato/iTerm2-Color-Schemes\" rel=\"nofollow\">https://github.com/mbadolato/iTerm2-Color-Schemes</a>, and it was finally time to build the app with all the features I wanted!<p>So, the next-gen version is live at <a href=\"https://terminalthemes.com\" rel=\"nofollow\">https://terminalthemes.com</a>! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more)<p>It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc.<p>I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like!<p>Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them.<p>I would love for you guys to check it out and provide feedback, feature suggestions, whatever!<p>And a huge thanks to the community of people that have contributed themes, ports to other terminals, and tools to provide conversions between formats over the years.<p>Oh! And if you've ever contributed themes to the GitHub repo, please register for an account, find your theme(s), and hit the Claim Authorship button!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098454\">https://news.ycombinator.com/item?id=50098454</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 15 Oct 2026 02:33:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50098454"
+      },
+      {
+        "title": "The Double Headed Stack Allocator",
+        "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+        "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098274\">https://news.ycombinator.com/item?id=50098274</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+        "pubDate": "Thu, 15 Oct 2026 02:06:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50098274"
+      },
+      {
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 113</p>\n<p># Comments: 30</p>",
+        "pubDate": "Wed, 14 Oct 2026 23:59:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50097369"
+      },
+      {
+        "title": "Tiny Little Office",
+        "link": "https://tinylittleoffice.com/",
+        "description": "<p>Article URL: <a href=\"https://tinylittleoffice.com/\">https://tinylittleoffice.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50096142\">https://news.ycombinator.com/item?id=50096142</a></p>\n<p>Points: 227</p>\n<p># Comments: 31</p>",
+        "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50096142"
+      },
+      {
+        "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
         "link": "https://typesafe.ai/blog/jev-1-14",
-        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/jev-1-14\">https://typesafe.ai/blog/jev-1-14</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50095353\">https://news.ycombinator.com/item?id=50095353</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/jev-1-14\">https://typesafe.ai/blog/jev-1-14</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50095353\">https://news.ycombinator.com/item?id=50095353</a></p>\n<p>Points: 229</p>\n<p># Comments: 77</p>",
         "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=50095353"
       },
       {
         "title": "OpenCode 2.0",
         "link": "https://anoma.ly/notes/opencode-2-0/",
-        "description": "<p>Article URL: <a href=\"https://anoma.ly/notes/opencode-2-0/\">https://anoma.ly/notes/opencode-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094994\">https://news.ycombinator.com/item?id=50094994</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://anoma.ly/notes/opencode-2-0/\">https://anoma.ly/notes/opencode-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094994\">https://news.ycombinator.com/item?id=50094994</a></p>\n<p>Points: 402</p>\n<p># Comments: 169</p>",
         "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=50094994"
       },
       {
         "title": "Anthropic's Scion is heavily inspired by Mononoke",
         "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "description": "<p>Article URL: <a href=\"https://sunshowers.io/posts/anthropic-mononoke/\">https://sunshowers.io/posts/anthropic-mononoke/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094694\">https://news.ycombinator.com/item?id=50094694</a></p>\n<p>Points: 104</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://sunshowers.io/posts/anthropic-mononoke/\">https://sunshowers.io/posts/anthropic-mononoke/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094694\">https://news.ycombinator.com/item?id=50094694</a></p>\n<p>Points: 302</p>\n<p># Comments: 119</p>",
         "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=50094694"
       },
       {
-        "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-        "link": "https://blog.cloudflare.com/yandex-outage/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/yandex-outage/\">https://blog.cloudflare.com/yandex-outage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094673\">https://news.ycombinator.com/item?id=50094673</a></p>\n<p>Points: 86</p>\n<p># Comments: 30</p>",
-        "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50094673"
-      },
-      {
         "title": "Fancy Curl Sites",
         "link": "https://nytpu.com/gemlog/2026-03-18",
-        "description": "<p>Article URL: <a href=\"https://nytpu.com/gemlog/2026-03-18\">https://nytpu.com/gemlog/2026-03-18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093612\">https://news.ycombinator.com/item?id=50093612</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://nytpu.com/gemlog/2026-03-18\">https://nytpu.com/gemlog/2026-03-18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093612\">https://news.ycombinator.com/item?id=50093612</a></p>\n<p>Points: 98</p>\n<p># Comments: 18</p>",
         "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=50093612"
       },
       {
-        "title": "Things to know when you get cancer – 2026 Edition",
+        "title": "Things to know when you get cancer",
         "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-        "description": "<p>Article URL: <a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093568\">https://news.ycombinator.com/item?id=50093568</a></p>\n<p>Points: 340</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093568\">https://news.ycombinator.com/item?id=50093568</a></p>\n<p>Points: 971</p>\n<p># Comments: 236</p>",
         "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=50093568"
       },
       {
+        "title": "Suicide rates highest ever among middle-aged men",
+        "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+        "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\">https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093180\">https://news.ycombinator.com/item?id=50093180</a></p>\n<p>Points: 337</p>\n<p># Comments: 428</p>",
+        "pubDate": "Wed, 14 Oct 2026 19:03:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50093180"
+      },
+      {
         "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
         "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-        "description": "<p>Article URL: <a href=\"https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092730\">https://news.ycombinator.com/item?id=50092730</a></p>\n<p>Points: 219</p>\n<p># Comments: 145</p>",
+        "description": "<p>Article URL: <a href=\"https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092730\">https://news.ycombinator.com/item?id=50092730</a></p>\n<p>Points: 318</p>\n<p># Comments: 207</p>",
         "pubDate": "Wed, 14 Oct 2026 18:37:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=50092730"
       },
       {
         "title": "Banks are now trying to offload the AI data center debt they just underwrote",
         "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-        "description": "<p>Article URL: <a href=\"https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\">https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092664\">https://news.ycombinator.com/item?id=50092664</a></p>\n<p>Points: 195</p>\n<p># Comments: 143</p>",
+        "description": "<p>Article URL: <a href=\"https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\">https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092664\">https://news.ycombinator.com/item?id=50092664</a></p>\n<p>Points: 334</p>\n<p># Comments: 235</p>",
         "pubDate": "Wed, 14 Oct 2026 18:32:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50092664"
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "link": "https://petal.live/",
-        "description": "<p>Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https://github.com/kiruna-labs/petal\" rel=\"nofollow\">https://github.com/kiruna-labs/petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p>Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017.<p>When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else’s screen, and start collaborating with zero friction.”<p>Datadog acquired us in 2022, and thus began the great adventure of adapting our real-time technology into Datadog products, while also continue developing CoScreen as a standalone tool from the Datadog ecosystem. Datadog invested in the product for years and we’re thankful for that. But CoScreen itself proved, like so many other screen sharing tool acquisitions, to be too tangential from the customer base and core mission. We instead built other communication features in Datadog, the integrations with other video platforms, and also its wildly successful MCP server.\nWe weren't the only ones. Around was bought by Miro and shut down in March 2025. Multi (formerly Remotion) was acqui-hired by OpenAI in 2024 and shut down about a month later. It's nearly always the same story: a small team builds something hard that people love, a platform buys it for the team or the feature, and the standalone product doesn't survive the integration.\nSo we decided firmly to do things differently this time. Petal is completely free and open source and we aren't monetizing it. If we lose interest or get hit by a bus, you can self-host it or fork it, and nobody can sunset it on you. Honestly it's a love letter to everyone in this community that supported us, believed in us, and to liberate collaborative screen sharing from this vicious cycle.<p>We hope through this we can help foster a large and vibrant community around innovating in this product sector.\nWhat Petal does: shared windows show up as real windows on your desktop, movable and resizable, not tiles in a grid. Several people can share at once, everyone gets a labeled cursor, and you can click into any shared window to type and scroll. Rooms are persistent, so you click once to join \"eng-sync\" instead of passing links around.\nIt runs on macOS and Windows (Linux is next, this time for real and you can help us!), plus a web app. Media goes over LiveKit. You can use our hosted instance with zero config, or point the app at your own LiveKit server with one docker-compose if you want the traffic to stay on your network or even use an entirely different video backend if you want to.\nThe part that still feels strange to us: CoScreen took almost six years to build. The first version of Petal took under eight weeks, from scratch, with frontier models like Fable and Astra doing a lot of the work. Real-time video and window capture is some of the most unforgiving code we have ever written, so we didn't expect that. We will do a proper writeup on what worked and what didn't, and are happy to answer questions about it here.\nTill, Darren, Max and I will be in the thread.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092470\">https://news.ycombinator.com/item?id=50092470</a></p>\n<p>Points: 74</p>\n<p># Comments: 12</p>",
+        "description": "<p>Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https://github.com/kiruna-labs/petal\" rel=\"nofollow\">https://github.com/kiruna-labs/petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p>Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017.<p>When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else’s screen, and start collaborating with zero friction.”<p>Datadog acquired us in 2022, and thus began the great adventure of adapting our real-time technology into Datadog products, while also continue developing CoScreen as a standalone tool from the Datadog ecosystem. Datadog invested in the product for years and we’re thankful for that. But CoScreen itself proved, like so many other screen sharing tool acquisitions, to be too tangential from the customer base and core mission. We instead built other communication features in Datadog, the integrations with other video platforms, and also its wildly successful MCP server.\nWe weren't the only ones. Around was bought by Miro and shut down in March 2025. Multi (formerly Remotion) was acqui-hired by OpenAI in 2024 and shut down about a month later. It's nearly always the same story: a small team builds something hard that people love, a platform buys it for the team or the feature, and the standalone product doesn't survive the integration.\nSo we decided firmly to do things differently this time. Petal is completely free and open source and we aren't monetizing it. If we lose interest or get hit by a bus, you can self-host it or fork it, and nobody can sunset it on you. Honestly it's a love letter to everyone in this community that supported us, believed in us, and to liberate collaborative screen sharing from this vicious cycle.<p>We hope through this we can help foster a large and vibrant community around innovating in this product sector.\nWhat Petal does: shared windows show up as real windows on your desktop, movable and resizable, not tiles in a grid. Several people can share at once, everyone gets a labeled cursor, and you can click into any shared window to type and scroll. Rooms are persistent, so you click once to join \"eng-sync\" instead of passing links around.\nIt runs on macOS and Windows (Linux is next, this time for real and you can help us!), plus a web app. Media goes over LiveKit. You can use our hosted instance with zero config, or point the app at your own LiveKit server with one docker-compose if you want the traffic to stay on your network or even use an entirely different video backend if you want to.\nThe part that still feels strange to us: CoScreen took almost six years to build. The first version of Petal took under eight weeks, from scratch, with frontier models like Fable and Astra doing a lot of the work. Real-time video and window capture is some of the most unforgiving code we have ever written, so we didn't expect that. We will do a proper writeup on what worked and what didn't, and are happy to answer questions about it here.\nTill, Darren, Max and I will be in the thread.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092470\">https://news.ycombinator.com/item?id=50092470</a></p>\n<p>Points: 135</p>\n<p># Comments: 34</p>",
         "pubDate": "Wed, 14 Oct 2026 18:23:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=50092470"
       },
       {
-        "title": "America didn't lose its rare earth industry, it sold it",
-        "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-        "description": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it\">https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091875\">https://news.ycombinator.com/item?id=50091875</a></p>\n<p>Points: 103</p>\n<p># Comments: 44</p>",
-        "pubDate": "Wed, 14 Oct 2026 17:50:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50091875"
+        "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+        "link": "https://oxide.computer/blog/voxel-labs",
+        "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/voxel-labs\">https://oxide.computer/blog/voxel-labs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092423\">https://news.ycombinator.com/item?id=50092423</a></p>\n<p>Points: 91</p>\n<p># Comments: 9</p>",
+        "pubDate": "Wed, 14 Oct 2026 18:21:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50092423"
       },
       {
-        "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
-        "link": "https://github.com/bealesh/neckbeard",
-        "description": "<p>Article URL: <a href=\"https://github.com/bealesh/neckbeard\">https://github.com/bealesh/neckbeard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091794\">https://news.ycombinator.com/item?id=50091794</a></p>\n<p>Points: 54</p>\n<p># Comments: 38</p>",
-        "pubDate": "Wed, 14 Oct 2026 17:45:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50091794"
-      },
-      {
-        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+        "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
         "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-        "description": "<p>Article URL: <a href=\"https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\">https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091788\">https://news.ycombinator.com/item?id=50091788</a></p>\n<p>Points: 764</p>\n<p># Comments: 363</p>",
+        "description": "<p>Article URL: <a href=\"https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\">https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091788\">https://news.ycombinator.com/item?id=50091788</a></p>\n<p>Points: 854</p>\n<p># Comments: 476</p>",
         "pubDate": "Wed, 14 Oct 2026 17:45:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=50091788"
       },
       {
-        "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
-        "link": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
-        "description": "<p>Article URL: <a href=\"https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges\">https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090662\">https://news.ycombinator.com/item?id=50090662</a></p>\n<p>Points: 118</p>\n<p># Comments: 78</p>",
-        "pubDate": "Wed, 14 Oct 2026 16:45:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50090662"
+        "title": "Has AI tells",
+        "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+        "description": "<p>Article URL: <a href=\"https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1\">https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090799\">https://news.ycombinator.com/item?id=50090799</a></p>\n<p>Points: 94</p>\n<p># Comments: 80</p>",
+        "pubDate": "Wed, 14 Oct 2026 16:52:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50090799"
       },
       {
         "title": "Better HTTP/1 connection reuse in Go 1.27",
         "link": "https://go.dev/blog/http-connection-reuse",
-        "description": "<p>Article URL: <a href=\"https://go.dev/blog/http-connection-reuse\">https://go.dev/blog/http-connection-reuse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090369\">https://news.ycombinator.com/item?id=50090369</a></p>\n<p>Points: 165</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://go.dev/blog/http-connection-reuse\">https://go.dev/blog/http-connection-reuse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090369\">https://news.ycombinator.com/item?id=50090369</a></p>\n<p>Points: 217</p>\n<p># Comments: 32</p>",
         "pubDate": "Wed, 14 Oct 2026 16:29:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=50090369"
       },
       {
-        "title": "Google is silently linking your phone number across all signed-in accounts",
-        "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-        "description": "<p>Article URL: <a href=\"https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\">https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090349\">https://news.ycombinator.com/item?id=50090349</a></p>\n<p>Points: 280</p>\n<p># Comments: 70</p>",
-        "pubDate": "Wed, 14 Oct 2026 16:28:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50090349"
-      },
-      {
-        "title": "Submarine cable resilience",
-        "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-        "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50089229\">https://news.ycombinator.com/item?id=50089229</a></p>\n<p>Points: 114</p>\n<p># Comments: 36</p>",
-        "pubDate": "Wed, 14 Oct 2026 15:31:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50089229"
-      },
-      {
-        "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-        "link": "https://github.com/graphicle-ai/graphicle",
-        "description": "<p>Article URL: <a href=\"https://github.com/graphicle-ai/graphicle\">https://github.com/graphicle-ai/graphicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088713\">https://news.ycombinator.com/item?id=50088713</a></p>\n<p>Points: 37</p>\n<p># Comments: 11</p>",
-        "pubDate": "Wed, 14 Oct 2026 15:00:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50088713"
-      },
-      {
-        "title": "Running Windows desktop tests from Linux with disposable VMs",
-        "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-        "description": "<p>Article URL: <a href=\"https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation\">https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088643\">https://news.ycombinator.com/item?id=50088643</a></p>\n<p>Points: 76</p>\n<p># Comments: 27</p>",
-        "pubDate": "Wed, 14 Oct 2026 14:55:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50088643"
-      },
-      {
-        "title": "Strands Decider: Why Not an Encoder?",
-        "link": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-        "description": "<p>Article URL: <a href=\"https://brooker.co.za:443/blog/2026/10/04/encoders.html\">https://brooker.co.za:443/blog/2026/10/04/encoders.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088447\">https://news.ycombinator.com/item?id=50088447</a></p>\n<p>Points: 33</p>\n<p># Comments: 1</p>",
-        "pubDate": "Wed, 14 Oct 2026 14:40:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50088447"
-      },
-      {
-        "title": "Nvidia's first GPU: GeForce 256",
-        "link": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-        "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/\">https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50086363\">https://news.ycombinator.com/item?id=50086363</a></p>\n<p>Points: 60</p>\n<p># Comments: 39</p>",
-        "pubDate": "Wed, 14 Oct 2026 12:05:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50086363"
+        "title": "Americans' social activity has steeply declined in the past 30 years",
+        "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+        "description": "<p>Article URL: <a href=\"https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years\">https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50089921\">https://news.ycombinator.com/item?id=50089921</a></p>\n<p>Points: 284</p>\n<p># Comments: 293</p>",
+        "pubDate": "Wed, 14 Oct 2026 16:09:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50089921"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-14T21:33:04.137Z",
+  "lastUpdated": "2026-10-15T04:22:15.111Z",
   "stats": {
     "feeds": 2,
     "articles": 20
