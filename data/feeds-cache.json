@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-16T04:16:57.747Z"
+      "lastFetched": "2026-10-16T11:12:11.826Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-16T04:17:17.522Z"
+      "lastFetched": "2026-10-16T11:12:18.474Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Japanese people still aren't having sex. And nobody knows why",
+        "link": "https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience",
+        "description": "<p>Article URL: <a href=\"https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience\">https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50116367\">https://news.ycombinator.com/item?id=50116367</a></p>\n<p>Points: 13</p>\n<p># Comments: 17</p>",
+        "pubDate": "Fri, 16 Oct 2026 09:54:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50116367"
+      },
+      {
+        "title": "The insider trading you're allowed to do",
+        "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+        "description": "<p>Article URL: <a href=\"https://coached.com/essays/the-insider-trading-youre-allowed-to-do/\">https://coached.com/essays/the-insider-trading-youre-allowed-to-do/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50115144\">https://news.ycombinator.com/item?id=50115144</a></p>\n<p>Points: 51</p>\n<p># Comments: 32</p>",
+        "pubDate": "Fri, 16 Oct 2026 07:12:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50115144"
+      },
+      {
+        "title": "The Folders Programming Language",
+        "link": "https://danieltemkin.com/esolangs/folders",
+        "description": "<p>Article URL: <a href=\"https://danieltemkin.com/esolangs/folders\">https://danieltemkin.com/esolangs/folders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50114342\">https://news.ycombinator.com/item?id=50114342</a></p>\n<p>Points: 86</p>\n<p># Comments: 11</p>",
+        "pubDate": "Fri, 16 Oct 2026 05:11:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50114342"
+      },
+      {
         "title": "Comparing Chromium Development at Google and Igalia",
         "link": "https://lwn.net/Articles/1094721/",
-        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1094721/\">https://lwn.net/Articles/1094721/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112887\">https://news.ycombinator.com/item?id=50112887</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1094721/\">https://lwn.net/Articles/1094721/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112887\">https://news.ycombinator.com/item?id=50112887</a></p>\n<p>Points: 54</p>\n<p># Comments: 16</p>",
         "pubDate": "Fri, 16 Oct 2026 01:56:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=50112887"
       },
       {
         "title": "Any window from your Mac, on your iPhone and iPad",
         "link": "https://github.com/Saffsanity/sill",
-        "description": "<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 55</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 165</p>\n<p># Comments: 37</p>",
         "pubDate": "Fri, 16 Oct 2026 01:43:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50112739"
       },
       {
         "title": "Thank You, Deno",
         "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-        "description": "<p>Article URL: <a href=\"https://www.vlt.io/blog/competition-keeps-javascript-moving\">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112331\">https://news.ycombinator.com/item?id=50112331</a></p>\n<p>Points: 33</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://www.vlt.io/blog/competition-keeps-javascript-moving\">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112331\">https://news.ycombinator.com/item?id=50112331</a></p>\n<p>Points: 93</p>\n<p># Comments: 19</p>",
         "pubDate": "Fri, 16 Oct 2026 00:52:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=50112331"
       },
       {
         "title": "RPKI now protects 70% of internet routes",
         "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-        "description": "<p>Article URL: <a href=\"https://ipinfo.io/blog/rpki-protects-70-internet-routes\">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112330\">https://news.ycombinator.com/item?id=50112330</a></p>\n<p>Points: 75</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://ipinfo.io/blog/rpki-protects-70-internet-routes\">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112330\">https://news.ycombinator.com/item?id=50112330</a></p>\n<p>Points: 168</p>\n<p># Comments: 58</p>",
         "pubDate": "Fri, 16 Oct 2026 00:52:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=50112330"
       },
       {
-        "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+        "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
         "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 96</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 319</p>\n<p># Comments: 114</p>",
         "pubDate": "Thu, 15 Oct 2026 23:37:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=50111852"
       },
       {
-        "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-        "link": "https://github.com/johnrash/bebox",
-        "description": "<p>Article URL: <a href=\"https://github.com/johnrash/bebox\">https://github.com/johnrash/bebox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111742\">https://news.ycombinator.com/item?id=50111742</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
-        "pubDate": "Thu, 15 Oct 2026 23:22:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50111742"
-      },
-      {
         "title": "What I self-host",
         "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-        "description": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 334</p>\n<p># Comments: 220</p>",
+        "description": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 510</p>\n<p># Comments: 322</p>",
         "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=50109715"
       },
       {
         "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
         "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-        "description": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 194</p>\n<p># Comments: 149</p>",
+        "description": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 307</p>\n<p># Comments: 200</p>",
         "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=50109375"
       },
       {
         "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
         "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-        "description": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 269</p>\n<p># Comments: 128</p>",
+        "description": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 356</p>\n<p># Comments: 163</p>",
         "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=50108872"
       },
       {
-        "title": "E Ink Kaleido 4",
-        "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-        "description": "<p><a href=\"https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\" rel=\"nofollow\">https://web.archive.org/web/20261015180401/https://www.eink....</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108229\">https://news.ycombinator.com/item?id=50108229</a></p>\n<p>Points: 146</p>\n<p># Comments: 84</p>",
-        "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50108229"
-      },
-      {
         "title": "Muse Spark Open",
         "link": "https://research.meta.ai/blog/muse-spark-open",
-        "description": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 679</p>\n<p># Comments: 366</p>",
+        "description": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 828</p>\n<p># Comments: 415</p>",
         "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50107379"
       },
       {
         "title": "Jev meets the Trolley Problem",
         "link": "https://zachlandes.com/trolley-problem/",
-        "description": "<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p>\n<p>Points: 351</p>\n<p># Comments: 161</p>",
+        "description": "<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p>\n<p>Points: 478</p>\n<p># Comments: 202</p>",
         "pubDate": "Thu, 15 Oct 2026 16:24:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50106023"
       },
       {
         "title": "BIPM decides to stop adding leap seconds to UTC",
         "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-        "description": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 103</p>\n<p># Comments: 51</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 193</p>\n<p># Comments: 93</p>",
         "pubDate": "Thu, 15 Oct 2026 16:11:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105777"
       },
       {
         "title": "Krea 3 – An image model built for editing at scale",
         "link": "https://www.krea.ai/krea-3",
-        "description": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 274</p>\n<p># Comments: 86</p>",
+        "description": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 314</p>\n<p># Comments: 100</p>",
         "pubDate": "Thu, 15 Oct 2026 16:04:05 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105648"
       },
       {
         "title": "Neural networks are clean",
         "link": "https://already-clean.goodfire.com/",
-        "description": "<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 556</p>\n<p># Comments: 213</p>",
+        "description": "<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 705</p>\n<p># Comments: 266</p>",
         "pubDate": "Thu, 15 Oct 2026 16:04:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50105647"
       },
       {
         "title": "Celebrating 70 Years of Fortran",
         "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-        "description": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 237</p>\n<p># Comments: 103</p>",
+        "description": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 282</p>\n<p># Comments: 118</p>",
         "pubDate": "Thu, 15 Oct 2026 15:03:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50104726"
       },
       {
         "title": "Using AI to reverse engineer hardware",
         "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-        "description": "<p>Article URL: <a href=\"https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104299\">https://news.ycombinator.com/item?id=50104299</a></p>\n<p>Points: 140</p>\n<p># Comments: 122</p>",
+        "description": "<p>Article URL: <a href=\"https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104299\">https://news.ycombinator.com/item?id=50104299</a></p>\n<p>Points: 202</p>\n<p># Comments: 182</p>",
         "pubDate": "Thu, 15 Oct 2026 14:35:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50104299"
       },
       {
         "title": "Wayland desktop for Linux with skeuomorphic design",
         "link": "https://github.com/fyzugx/DEsk",
-        "description": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 547</p>\n<p># Comments: 215</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 622</p>\n<p># Comments: 248</p>",
         "pubDate": "Thu, 15 Oct 2026 13:23:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50103338"
       },
       {
         "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
         "link": "https://libreboot.org/news/libreboot2610.html",
-        "description": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 260</p>\n<p># Comments: 164</p>",
+        "description": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 290</p>\n<p># Comments: 181</p>",
         "pubDate": "Thu, 15 Oct 2026 12:52:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50102923"
-      },
-      {
-        "title": "Show HN: Unfenced – Land for sale that borders public land",
-        "link": "https://unfenced.land/",
-        "description": "<p>Article URL: <a href=\"https://unfenced.land/\">https://unfenced.land/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102247\">https://news.ycombinator.com/item?id=50102247</a></p>\n<p>Points: 277</p>\n<p># Comments: 187</p>",
-        "pubDate": "Thu, 15 Oct 2026 11:38:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50102247"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-16T04:17:17.522Z",
+  "lastUpdated": "2026-10-16T11:12:18.475Z",
   "stats": {
     "feeds": 2,
     "articles": 20
