@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-16T20:53:36.114Z"
+      "lastFetched": "2026-10-17T04:07:51.633Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-16T20:53:55.918Z"
+      "lastFetched": "2026-10-17T04:08:00.328Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+        "title": "Butlerian Jihad",
+        "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "description": "<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 104</p>\n<p># Comments: 48</p>",
+        "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50127274"
+      },
+      {
+        "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+        "link": "https://www.flexport.com/company/careers/",
+        "description": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126774\">https://news.ycombinator.com/item?id=50126774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 17 Oct 2026 01:01:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50126774"
+      },
+      {
+        "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+        "link": "https://fakeipedia.org",
+        "description": "<p>Hi HN!<p>Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.<p>I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is.<p>If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see.<p>I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126334\">https://news.ycombinator.com/item?id=50126334</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+        "pubDate": "Fri, 16 Oct 2026 23:52:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50126334"
+      },
+      {
+        "title": "Nine-Inch Snails",
+        "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+        "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/\">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50125545\">https://news.ycombinator.com/item?id=50125545</a></p>\n<p>Points: 39</p>\n<p># Comments: 17</p>",
+        "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50125545"
+      },
+      {
+        "title": "FLUX 3 Image Klein",
         "link": "https://bfl.ai/blog/flux-3-image-klein",
-        "description": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 130</p>\n<p># Comments: 38</p>",
         "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=50123580"
       },
       {
-        "title": "The Fatal Flaw of 911",
-        "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-        "description": "<p>Article URL: <a href=\"https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123356\">https://news.ycombinator.com/item?id=50123356</a></p>\n<p>Points: 26</p>\n<p># Comments: 25</p>",
-        "pubDate": "Fri, 16 Oct 2026 19:33:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50123356"
-      },
-      {
         "title": "How the Claude Code team does code review",
         "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "description": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 86</p>\n<p># Comments: 78</p>",
+        "description": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 270</p>\n<p># Comments: 254</p>",
         "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=50122951"
       },
       {
         "title": "You could have invented transformers from memory",
         "link": "https://alexwang.ai/posts/associative-memory/",
-        "description": "<p>Article URL: <a href=\"https://alexwang.ai/posts/associative-memory/\">https://alexwang.ai/posts/associative-memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://alexwang.ai/posts/associative-memory/\">https://alexwang.ai/posts/associative-memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 181</p>\n<p># Comments: 50</p>",
         "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50122878"
       },
       {
         "title": "Claude reveals ECDSA curve origins",
         "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "description": "<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 346</p>\n<p># Comments: 138</p>",
+        "description": "<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 745</p>\n<p># Comments: 288</p>",
         "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=50122800"
       },
       {
-        "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-        "link": "https://stoke.money",
-        "description": "<p>Hi HN,<p>I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.<p>All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following month when the bill is due. As a result, I've always had to maintain a separate spreadsheet to track my actual cash flow.<p>These apps also have a huge focus on managing budgets, which has never been for me. My spending is rarely consistent month-to-month, so every month I'm comparing my fully justified spending against my budget, and tweaking my budget until I “pass”.<p>So I built yet another finance tracking app. It has the usual components - accounts, transactions, categories - but the core is a cash flow projection engine, and everything else is built around it.<p>Budgets are gone. Instead, each income/spending category is projected forward from your historical activity, but not as a flat monthly number. They land in whatever account you historically use (e.g. checking account for paychecks/rent/bills, credit/debit cards for daily spending). Credit card payments are modeled automatically based on your projected credit card balance. You can set up your own recurring transfers between accounts as well, to model savings, for example.<p>The end result is that the app can forecast how your cash moves, and you can see in advance when any account might run low. If all of your accounts look good for the next 12 months, maybe you don't have a budgeting problem.<p>What’s made the biggest difference for me has been the MCP integration, which I have connected to Claude (but can be connected to any AI agent of your choice). I have asked it to import historical transactions by uploading PDF account statements, categorize/tag all transactions that took place while I was on vacation, and plan transfers across my accounts to cover expected payments.<p>I hope some people that share my frustrations will find this app useful.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122776\">https://news.ycombinator.com/item?id=50122776</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
-        "pubDate": "Fri, 16 Oct 2026 18:54:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50122776"
-      },
-      {
         "title": "C++26: The New Debugging Header",
         "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-        "description": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging\">https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122736\">https://news.ycombinator.com/item?id=50122736</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging\">https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122736\">https://news.ycombinator.com/item?id=50122736</a></p>\n<p>Points: 79</p>\n<p># Comments: 12</p>",
         "pubDate": "Fri, 16 Oct 2026 18:52:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50122736"
       },
       {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "link": "https://github.com/cobanov/PS5LM",
-        "description": "<p>Article URL: <a href=\"https://github.com/cobanov/PS5LM\">https://github.com/cobanov/PS5LM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122431\">https://news.ycombinator.com/item?id=50122431</a></p>\n<p>Points: 86</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/cobanov/PS5LM\">https://github.com/cobanov/PS5LM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122431\">https://news.ycombinator.com/item?id=50122431</a></p>\n<p>Points: 226</p>\n<p># Comments: 62</p>",
         "pubDate": "Fri, 16 Oct 2026 18:32:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=50122431"
       },
       {
-        "title": "Anthropic assigned highest junk credit rating in June",
-        "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d\">https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122112\">https://news.ycombinator.com/item?id=50122112</a></p>\n<p>Points: 119</p>\n<p># Comments: 37</p>",
-        "pubDate": "Fri, 16 Oct 2026 18:11:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50122112"
-      },
-      {
         "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
         "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-        "description": "<p>Article URL: <a href=\"https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\">https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122034\">https://news.ycombinator.com/item?id=50122034</a></p>\n<p>Points: 99</p>\n<p># Comments: 77</p>",
+        "description": "<p>Article URL: <a href=\"https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\">https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122034\">https://news.ycombinator.com/item?id=50122034</a></p>\n<p>Points: 190</p>\n<p># Comments: 151</p>",
         "pubDate": "Fri, 16 Oct 2026 18:06:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50122034"
       },
       {
         "title": "Designing more efficient quantum circuits with Claude",
         "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/designing-efficient-quantum-circuits\">https://www.anthropic.com/research/designing-efficient-quantum-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121939\">https://news.ycombinator.com/item?id=50121939</a></p>\n<p>Points: 53</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/designing-efficient-quantum-circuits\">https://www.anthropic.com/research/designing-efficient-quantum-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121939\">https://news.ycombinator.com/item?id=50121939</a></p>\n<p>Points: 115</p>\n<p># Comments: 22</p>",
         "pubDate": "Fri, 16 Oct 2026 18:00:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=50121939"
       },
       {
-        "title": "GifCities",
-        "link": "https://gifcities.org/",
-        "description": "<p><a href=\"https://twitter.com/internetarchive/status/2111140945705963787\" rel=\"nofollow\">https://twitter.com/internetarchive/status/21111409457059637...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121601\">https://news.ycombinator.com/item?id=50121601</a></p>\n<p>Points: 27</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 16 Oct 2026 17:35:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50121601"
-      },
-      {
-        "title": "Piramidal (YC W24) Is Hiring",
-        "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-        "description": "<p>Article URL: <a href=\"https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009\">https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121188\">https://news.ycombinator.com/item?id=50121188</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 16 Oct 2026 17:08:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50121188"
-      },
-      {
         "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
         "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "description": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 284</p>\n<p># Comments: 254</p>",
+        "description": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 437</p>\n<p># Comments: 376</p>",
         "pubDate": "Fri, 16 Oct 2026 17:08:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=50121179"
       },
       {
-        "title": "/dev/null: social network for developers",
-        "link": "https://dev-null.sh",
-        "description": "<p>Article URL: <a href=\"https://dev-null.sh\">https://dev-null.sh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121004\">https://news.ycombinator.com/item?id=50121004</a></p>\n<p>Points: 68</p>\n<p># Comments: 88</p>",
-        "pubDate": "Fri, 16 Oct 2026 16:57:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50121004"
-      },
-      {
         "title": "JPEG XL vs. AVIF for web use-cases",
         "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "description": "<p>Article URL: <a href=\"https://jakearchibald.com/2026/jpeg-xl-vs-avif/\">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120224\">https://news.ycombinator.com/item?id=50120224</a></p>\n<p>Points: 143</p>\n<p># Comments: 105</p>",
+        "description": "<p>Article URL: <a href=\"https://jakearchibald.com/2026/jpeg-xl-vs-avif/\">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120224\">https://news.ycombinator.com/item?id=50120224</a></p>\n<p>Points: 218</p>\n<p># Comments: 154</p>",
         "pubDate": "Fri, 16 Oct 2026 16:12:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=50120224"
       },
       {
         "title": "Waymo in Toronto",
         "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-        "description": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/10/waymo-in-toronto/\">https://waymo.com/blog/2026/10/waymo-in-toronto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118981\">https://news.ycombinator.com/item?id=50118981</a></p>\n<p>Points: 173</p>\n<p># Comments: 283</p>",
+        "description": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/10/waymo-in-toronto/\">https://waymo.com/blog/2026/10/waymo-in-toronto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118981\">https://news.ycombinator.com/item?id=50118981</a></p>\n<p>Points: 299</p>\n<p># Comments: 404</p>",
         "pubDate": "Fri, 16 Oct 2026 14:44:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50118981"
       },
       {
         "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
         "link": "https://calif.io/research/big-fish",
-        "description": "<p>Article URL: <a href=\"https://calif.io/research/big-fish\">https://calif.io/research/big-fish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118977\">https://news.ycombinator.com/item?id=50118977</a></p>\n<p>Points: 142</p>\n<p># Comments: 42</p>",
+        "description": "<p>Article URL: <a href=\"https://calif.io/research/big-fish\">https://calif.io/research/big-fish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118977\">https://news.ycombinator.com/item?id=50118977</a></p>\n<p>Points: 170</p>\n<p># Comments: 48</p>",
         "pubDate": "Fri, 16 Oct 2026 14:44:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=50118977"
       },
       {
         "title": "What on Earth Is Dekton?",
         "link": "https://www.worksinprogress.news/p/porcelain",
-        "description": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/porcelain\">https://www.worksinprogress.news/p/porcelain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118828\">https://news.ycombinator.com/item?id=50118828</a></p>\n<p>Points: 104</p>\n<p># Comments: 37</p>",
+        "description": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/porcelain\">https://www.worksinprogress.news/p/porcelain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118828\">https://news.ycombinator.com/item?id=50118828</a></p>\n<p>Points: 137</p>\n<p># Comments: 47</p>",
         "pubDate": "Fri, 16 Oct 2026 14:31:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50118828"
       },
       {
         "title": "Show HN: Gemini 4 Argon plays StarCraft",
         "link": "https://starskirmish.com/bench/v0-2/",
-        "description": "<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118688\">https://news.ycombinator.com/item?id=50118688</a></p>\n<p>Points: 157</p>\n<p># Comments: 73</p>",
+        "description": "<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118688\">https://news.ycombinator.com/item?id=50118688</a></p>\n<p>Points: 197</p>\n<p># Comments: 89</p>",
         "pubDate": "Fri, 16 Oct 2026 14:18:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50118688"
+      },
+      {
+        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "description": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/mlx-distributed-inference\">https://machinelearning.apple.com/research/mlx-distributed-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118320\">https://news.ycombinator.com/item?id=50118320</a></p>\n<p>Points: 284</p>\n<p># Comments: 130</p>",
+        "pubDate": "Fri, 16 Oct 2026 13:43:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50118320"
+      },
+      {
+        "title": "I love software rendering",
+        "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+        "description": "<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 307</p>\n<p># Comments: 195</p>",
+        "pubDate": "Fri, 16 Oct 2026 12:52:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50117746"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-16T20:53:55.918Z",
+  "lastUpdated": "2026-10-17T04:08:00.328Z",
   "stats": {
     "feeds": 2,
     "articles": 20
