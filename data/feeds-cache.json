@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-18T04:15:11.798Z"
+      "lastFetched": "2026-10-18T10:51:33.540Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-18T04:15:31.323Z"
+      "lastFetched": "2026-10-18T10:51:53.233Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Parser Combinators",
+        "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+        "description": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sun, 18 Oct 2026 08:19:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50139067"
+      },
+      {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "link": "https://api-docs.deepseek.com/guides/search/",
+        "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/search/\">https://api-docs.deepseek.com/guides/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138531\">https://news.ycombinator.com/item?id=50138531</a></p>\n<p>Points: 202</p>\n<p># Comments: 97</p>",
+        "pubDate": "Sun, 18 Oct 2026 06:50:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50138531"
+      },
+      {
+        "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+        "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+        "description": "<p>Article URL: <a href=\"https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\">https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138087\">https://news.ycombinator.com/item?id=50138087</a></p>\n<p>Points: 98</p>\n<p># Comments: 77</p>",
+        "pubDate": "Sun, 18 Oct 2026 05:09:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50138087"
+      },
+      {
+        "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+        "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+        "description": "<p>Article URL: <a href=\"https://www.propublica.org/article/ap3-oath-keepers-militia-mole\">https://www.propublica.org/article/ap3-oath-keepers-militia-mole</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138044\">https://news.ycombinator.com/item?id=50138044</a></p>\n<p>Points: 94</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sun, 18 Oct 2026 04:59:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50138044"
+      },
+      {
+        "title": "Notes on the Complex Roots of Unity",
+        "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/\">https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138002\">https://news.ycombinator.com/item?id=50138002</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sun, 18 Oct 2026 04:49:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50138002"
+      },
+      {
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "link": "https://sphinx-six-theta.vercel.app/",
+        "description": "<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137950\">https://news.ycombinator.com/item?id=50137950</a></p>\n<p>Points: 136</p>\n<p># Comments: 37</p>",
+        "pubDate": "Sun, 18 Oct 2026 04:33:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50137950"
+      },
+      {
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "description": "<p>Article URL: <a href=\"https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything\">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137620\">https://news.ycombinator.com/item?id=50137620</a></p>\n<p>Points: 148</p>\n<p># Comments: 160</p>",
+        "pubDate": "Sun, 18 Oct 2026 03:19:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50137620"
+      },
+      {
         "title": "NY announces game ownership bill requiring ownership rather than licensing",
         "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends\">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50136536\">https://news.ycombinator.com/item?id=50136536</a></p>\n<p>Points: 139</p>\n<p># Comments: 29</p>",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends\">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50136536\">https://news.ycombinator.com/item?id=50136536</a></p>\n<p>Points: 302</p>\n<p># Comments: 107</p>",
         "pubDate": "Sun, 18 Oct 2026 00:14:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=50136536"
       },
       {
-        "title": "JDK 28",
-        "link": "https://openjdk.org/projects/jdk/28/",
-        "description": "<p>Article URL: <a href=\"https://openjdk.org/projects/jdk/28/\">https://openjdk.org/projects/jdk/28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50135379\">https://news.ycombinator.com/item?id=50135379</a></p>\n<p>Points: 88</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sat, 17 Oct 2026 21:37:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50135379"
-      },
-      {
-        "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-        "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-        "description": "<p>Article URL: <a href=\"https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50134617\">https://news.ycombinator.com/item?id=50134617</a></p>\n<p>Points: 103</p>\n<p># Comments: 112</p>",
-        "pubDate": "Sat, 17 Oct 2026 20:07:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50134617"
-      },
-      {
         "title": "Codex Desktop continuously generates Crashpad pending dumps",
         "link": "https://github.com/openai/codex/issues/25921",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/25921\">https://github.com/openai/codex/issues/25921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133231\">https://news.ycombinator.com/item?id=50133231</a></p>\n<p>Points: 103</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/25921\">https://github.com/openai/codex/issues/25921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133231\">https://news.ycombinator.com/item?id=50133231</a></p>\n<p>Points: 133</p>\n<p># Comments: 54</p>",
         "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=50133231"
       },
       {
-        "title": "I Became a Citizen of Japan",
-        "link": "https://www.derekwessman.com/blog-1/natural",
-        "description": "<p>Article URL: <a href=\"https://www.derekwessman.com/blog-1/natural\">https://www.derekwessman.com/blog-1/natural</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133150\">https://news.ycombinator.com/item?id=50133150</a></p>\n<p>Points: 180</p>\n<p># Comments: 82</p>",
-        "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50133150"
-      },
-      {
         "title": "Gold is now the top U.S. export",
         "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-        "description": "<p>Article URL: <a href=\"https://www.numismaticnews.net/gold-now-top-u-s-export\">https://www.numismaticnews.net/gold-now-top-u-s-export</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132870\">https://news.ycombinator.com/item?id=50132870</a></p>\n<p>Points: 274</p>\n<p># Comments: 140</p>",
+        "description": "<p>Article URL: <a href=\"https://www.numismaticnews.net/gold-now-top-u-s-export\">https://www.numismaticnews.net/gold-now-top-u-s-export</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132870\">https://news.ycombinator.com/item?id=50132870</a></p>\n<p>Points: 337</p>\n<p># Comments: 186</p>",
         "pubDate": "Sat, 17 Oct 2026 17:06:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=50132870"
       },
       {
-        "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-        "link": "https://www.artie.com/careers",
-        "description": "<p>Article URL: <a href=\"https://www.artie.com/careers\">https://www.artie.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132839\">https://news.ycombinator.com/item?id=50132839</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 17 Oct 2026 17:02:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50132839"
-      },
-      {
         "title": "Pele – Mermaid diagrams as themeable SVG",
         "link": "https://pele.run/",
-        "description": "<p>Article URL: <a href=\"https://pele.run/\">https://pele.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132193\">https://news.ycombinator.com/item?id=50132193</a></p>\n<p>Points: 313</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://pele.run/\">https://pele.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132193\">https://news.ycombinator.com/item?id=50132193</a></p>\n<p>Points: 442</p>\n<p># Comments: 39</p>",
         "pubDate": "Sat, 17 Oct 2026 15:55:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=50132193"
       },
       {
         "title": "Solar surpasses nuclear power globally for first time",
         "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-        "description": "<p>Article URL: <a href=\"https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131256\">https://news.ycombinator.com/item?id=50131256</a></p>\n<p>Points: 517</p>\n<p># Comments: 322</p>",
+        "description": "<p>Article URL: <a href=\"https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131256\">https://news.ycombinator.com/item?id=50131256</a></p>\n<p>Points: 618</p>\n<p># Comments: 383</p>",
         "pubDate": "Sat, 17 Oct 2026 14:01:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50131256"
       },
       {
         "title": "Making chicken transparent using Dorito dust",
         "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-        "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131213\">https://news.ycombinator.com/item?id=50131213</a></p>\n<p>Points: 276</p>\n<p># Comments: 68</p>",
+        "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131213\">https://news.ycombinator.com/item?id=50131213</a></p>\n<p>Points: 306</p>\n<p># Comments: 82</p>",
         "pubDate": "Sat, 17 Oct 2026 13:55:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=50131213"
       },
       {
         "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
         "link": "https://github.com/mikroverk/esp32sim",
-        "description": "<p>Hi HN,<p>I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.<p>The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.<p>The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected.<p>Source:\n<a href=\"https://github.com/mikroverk/esp32sim\" rel=\"nofollow\">https://github.com/mikroverk/esp32sim</a><p>I made a short video showing it in action:\n<a href=\"https://youtu.be/waoWFilTWEc\" rel=\"nofollow\">https://youtu.be/waoWFilTWEc</a><p>I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131189\">https://news.ycombinator.com/item?id=50131189</a></p>\n<p>Points: 141</p>\n<p># Comments: 14</p>",
+        "description": "<p>Hi HN,<p>I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.<p>The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.<p>The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected.<p>Source:\n<a href=\"https://github.com/mikroverk/esp32sim\" rel=\"nofollow\">https://github.com/mikroverk/esp32sim</a><p>I made a short video showing it in action:\n<a href=\"https://youtu.be/waoWFilTWEc\" rel=\"nofollow\">https://youtu.be/waoWFilTWEc</a><p>I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131189\">https://news.ycombinator.com/item?id=50131189</a></p>\n<p>Points: 168</p>\n<p># Comments: 32</p>",
         "pubDate": "Sat, 17 Oct 2026 13:51:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=50131189"
       },
       {
         "title": "Show HN: High-quality duck audio synthesizer",
         "link": "https://celphase.github.io/duck-pond/",
-        "description": "<p>Article URL: <a href=\"https://celphase.github.io/duck-pond/\">https://celphase.github.io/duck-pond/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131006\">https://news.ycombinator.com/item?id=50131006</a></p>\n<p>Points: 106</p>\n<p># Comments: 27</p>",
+        "description": "<p>Article URL: <a href=\"https://celphase.github.io/duck-pond/\">https://celphase.github.io/duck-pond/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131006\">https://news.ycombinator.com/item?id=50131006</a></p>\n<p>Points: 140</p>\n<p># Comments: 30</p>",
         "pubDate": "Sat, 17 Oct 2026 13:28:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=50131006"
       },
       {
+        "title": "Interactive Linear Programming in the Browser",
+        "link": "https://lpviz.net/",
+        "description": "<p>Article URL: <a href=\"https://lpviz.net/\">https://lpviz.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50130379\">https://news.ycombinator.com/item?id=50130379</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sat, 17 Oct 2026 12:06:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50130379"
+      },
+      {
         "title": "DeepSeek-v4.1-Flash-1017",
         "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "description": "<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 753</p>\n<p># Comments: 609</p>",
+        "description": "<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 865</p>\n<p># Comments: 656</p>",
         "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
         "guid": "https://news.ycombinator.com/item?id=50129045"
       },
       {
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "link": "https://llmspeed.dev/",
-        "description": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 264</p>\n<p># Comments: 77</p>",
+        "description": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 297</p>\n<p># Comments: 82</p>",
         "pubDate": "Sat, 17 Oct 2026 04:36:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=50127979"
       },
       {
-        "title": "Source code of the Estonian online voting system",
-        "link": "https://github.com/valimised/ivxv",
-        "description": "<p>Article URL: <a href=\"https://github.com/valimised/ivxv\">https://github.com/valimised/ivxv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127586\">https://news.ycombinator.com/item?id=50127586</a></p>\n<p>Points: 183</p>\n<p># Comments: 152</p>",
-        "pubDate": "Sat, 17 Oct 2026 03:18:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50127586"
-      },
-      {
-        "title": "A skeptic's first contact with Kubernetes (2024)",
-        "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-        "description": "<p>Article URL: <a href=\"https://blog.davidv.dev/posts/first-contact-with-k8s/\">https://blog.davidv.dev/posts/first-contact-with-k8s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127572\">https://news.ycombinator.com/item?id=50127572</a></p>\n<p>Points: 100</p>\n<p># Comments: 55</p>",
-        "pubDate": "Sat, 17 Oct 2026 03:16:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50127572"
-      },
-      {
         "title": "Dam removals are bringing fish back across the northeastern United States",
         "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\">https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126312\">https://news.ycombinator.com/item?id=50126312</a></p>\n<p>Points: 232</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\">https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126312\">https://news.ycombinator.com/item?id=50126312</a></p>\n<p>Points: 282</p>\n<p># Comments: 66</p>",
         "pubDate": "Fri, 16 Oct 2026 23:47:31 +0000",
         "guid": "https://news.ycombinator.com/item?id=50126312"
       },
       {
         "title": "Bleached corals thrive within days when touching healthy neighbour",
         "link": "https://www.nature.com/articles/d41586-026-03266-x",
-        "description": "<p><a href=\"https://archive.ph/zIPG4\" rel=\"nofollow\">https://archive.ph/zIPG4</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126253\">https://news.ycombinator.com/item?id=50126253</a></p>\n<p>Points: 370</p>\n<p># Comments: 79</p>",
+        "description": "<p><a href=\"https://archive.ph/zIPG4\" rel=\"nofollow\">https://archive.ph/zIPG4</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126253\">https://news.ycombinator.com/item?id=50126253</a></p>\n<p>Points: 465</p>\n<p># Comments: 99</p>",
         "pubDate": "Fri, 16 Oct 2026 23:38:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=50126253"
-      },
-      {
-        "title": "You could have invented transformers from memory",
-        "link": "https://alexwang.ai/posts/associative-memory/",
-        "description": "<p><a href=\"https://twitter.com/heyyalexwang/status/2111158818730397932\" rel=\"nofollow\">https://twitter.com/heyyalexwang/status/2111158818730397932</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 518</p>\n<p># Comments: 120</p>",
-        "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50122878"
-      },
-      {
-        "title": "Rendering pretty sky in Around The World game",
-        "link": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-        "description": "<p>Article URL: <a href=\"https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/\">https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119315\">https://news.ycombinator.com/item?id=50119315</a></p>\n<p>Points: 135</p>\n<p># Comments: 9</p>",
-        "pubDate": "Fri, 16 Oct 2026 15:06:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50119315"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-18T04:15:31.323Z",
+  "lastUpdated": "2026-10-18T10:51:53.233Z",
   "stats": {
     "feeds": 2,
     "articles": 20
