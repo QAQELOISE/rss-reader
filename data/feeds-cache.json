@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-18T15:45:30.918Z"
+      "lastFetched": "2026-10-18T20:28:06.827Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-18T15:45:50.681Z"
+      "lastFetched": "2026-10-18T20:28:26.589Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+        "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+        "description": "<p>Article URL: <a href=\"https://store.steampowered.com/app/5426130/Tiny_Brutalism/\">https://store.steampowered.com/app/5426130/Tiny_Brutalism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144144\">https://news.ycombinator.com/item?id=50144144</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 18 Oct 2026 18:59:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50144144"
+      },
+      {
+        "title": "Free Pascal compiler now supports dynamic packages",
+        "link": "https://www.getlazarus.org/dynamic/",
+        "description": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 35</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50144066"
+      },
+      {
+        "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+        "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+        "description": "<p>Article URL: <a href=\"https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html\">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144005\">https://news.ycombinator.com/item?id=50144005</a></p>\n<p>Points: 103</p>\n<p># Comments: 163</p>",
+        "pubDate": "Sun, 18 Oct 2026 18:40:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50144005"
+      },
+      {
+        "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+        "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+        "description": "<p>Article URL: <a href=\"https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/\">https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50143876\">https://news.ycombinator.com/item?id=50143876</a></p>\n<p>Points: 22</p>\n<p># Comments: 8</p>",
+        "pubDate": "Sun, 18 Oct 2026 18:26:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50143876"
+      },
+      {
+        "title": "PalmOS Lemmings",
+        "link": "https://github.com/ardiri/palmos-lemmings",
+        "description": "<p>Article URL: <a href=\"https://github.com/ardiri/palmos-lemmings\">https://github.com/ardiri/palmos-lemmings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50143536\">https://news.ycombinator.com/item?id=50143536</a></p>\n<p>Points: 40</p>\n<p># Comments: 7</p>",
+        "pubDate": "Sun, 18 Oct 2026 17:56:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50143536"
+      },
+      {
+        "title": "Namecheap just seized and disabled all my domains",
+        "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\">https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142866\">https://news.ycombinator.com/item?id=50142866</a></p>\n<p>Points: 184</p>\n<p># Comments: 107</p>",
+        "pubDate": "Sun, 18 Oct 2026 16:56:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50142866"
+      },
+      {
+        "title": "Someone behind the software",
+        "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+        "description": "<p>Article URL: <a href=\"https://karrisaarinen.com/posts/someone-behind-the-software/\">https://karrisaarinen.com/posts/someone-behind-the-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142573\">https://news.ycombinator.com/item?id=50142573</a></p>\n<p>Points: 175</p>\n<p># Comments: 66</p>",
+        "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50142573"
+      },
+      {
+        "title": "The Intel 8087 chip: floating-point addition and subtraction",
+        "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html\">https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142449\">https://news.ycombinator.com/item?id=50142449</a></p>\n<p>Points: 63</p>\n<p># Comments: 13</p>",
+        "pubDate": "Sun, 18 Oct 2026 16:20:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50142449"
+      },
+      {
+        "title": "macOS 15.8.2 Breaks OpenGL",
+        "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+        "description": "<p>Article URL: <a href=\"https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550\">https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141909\">https://news.ycombinator.com/item?id=50141909</a></p>\n<p>Points: 218</p>\n<p># Comments: 216</p>",
+        "pubDate": "Sun, 18 Oct 2026 15:26:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50141909"
+      },
+      {
         "title": "Will it be a golden age or a dark age for mathematics (and science)?",
         "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/\">https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141681\">https://news.ycombinator.com/item?id=50141681</a></p>\n<p>Points: 21</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/\">https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141681\">https://news.ycombinator.com/item?id=50141681</a></p>\n<p>Points: 106</p>\n<p># Comments: 138</p>",
         "pubDate": "Sun, 18 Oct 2026 15:00:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=50141681"
       },
       {
-        "title": "Websites are closing their doors to AI agents",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "description": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web\">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141657\">https://news.ycombinator.com/item?id=50141657</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
-        "pubDate": "Sun, 18 Oct 2026 14:58:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50141657"
+        "title": "Java sealed classes and exhaustive pattern matching",
+        "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+        "description": "<p>Article URL: <a href=\"https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/\">https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141579\">https://news.ycombinator.com/item?id=50141579</a></p>\n<p>Points: 104</p>\n<p># Comments: 72</p>",
+        "pubDate": "Sun, 18 Oct 2026 14:47:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50141579"
       },
       {
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model\">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141429\">https://news.ycombinator.com/item?id=50141429</a></p>\n<p>Points: 52</p>\n<p># Comments: 40</p>",
-        "pubDate": "Sun, 18 Oct 2026 14:30:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50141429"
-      },
-      {
-        "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-        "link": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
-        "description": "<p>Article URL: <a href=\"https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car\">https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141295\">https://news.ycombinator.com/item?id=50141295</a></p>\n<p>Points: 31</p>\n<p># Comments: 21</p>",
-        "pubDate": "Sun, 18 Oct 2026 14:16:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50141295"
-      },
-      {
-        "title": "Theranos-Style Fraud Has Become the Norm",
-        "link": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
-        "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/\">https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141206\">https://news.ycombinator.com/item?id=50141206</a></p>\n<p>Points: 36</p>\n<p># Comments: 2</p>",
-        "pubDate": "Sun, 18 Oct 2026 14:05:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50141206"
+        "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+        "link": "https://ranet3.com/",
+        "description": "<p>btw this is already running on all my machines (including a macbook), and i've configured all of them to have routable public ip addresses ;)<p>especially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4/v6 addresses very easily for all my devices behind the router<p>ios/android app soon^{TM}</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141436\">https://news.ycombinator.com/item?id=50141436</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 18 Oct 2026 14:31:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50141436"
       },
       {
         "title": "RepRapMicron",
         "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-        "description": "<p>Article URL: <a href=\"https://github.com/VikOlliver/RepRapMicron/wiki\">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141076\">https://news.ycombinator.com/item?id=50141076</a></p>\n<p>Points: 108</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/VikOlliver/RepRapMicron/wiki\">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141076\">https://news.ycombinator.com/item?id=50141076</a></p>\n<p>Points: 284</p>\n<p># Comments: 41</p>",
         "pubDate": "Sun, 18 Oct 2026 13:48:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50141076"
       },
       {
-        "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience",
+        "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
         "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
-        "description": "<p>Article URL: <a href=\"https://www.thing.net/~rdom/ecd/EDTECD.html\">https://www.thing.net/~rdom/ecd/EDTECD.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141024\">https://news.ycombinator.com/item?id=50141024</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://www.thing.net/~rdom/ecd/EDTECD.html\">https://www.thing.net/~rdom/ecd/EDTECD.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141024\">https://news.ycombinator.com/item?id=50141024</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
         "pubDate": "Sun, 18 Oct 2026 13:41:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=50141024"
       },
       {
         "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
         "link": "https://legendofhyrule.com/",
-        "description": "<p>I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens.<p>Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth. The threads meet again much later with Breath of the Wild.<p>I had a lot of help from Claude. I’d often thought about building things like this but never found the time between the day job and the rest of life.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140769\">https://news.ycombinator.com/item?id=50140769</a></p>\n<p>Points: 37</p>\n<p># Comments: 7</p>",
+        "description": "<p>I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens.<p>Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth. The threads meet again much later with Breath of the Wild.<p>I had a lot of help from Claude. I’d often thought about building things like this but never found the time between the day job and the rest of life.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140769\">https://news.ycombinator.com/item?id=50140769</a></p>\n<p>Points: 130</p>\n<p># Comments: 70</p>",
         "pubDate": "Sun, 18 Oct 2026 13:06:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=50140769"
       },
       {
-        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-        "link": "https://www.vals.ai/blogs/impossible-refund",
-        "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/impossible-refund\">https://www.vals.ai/blogs/impossible-refund</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140462\">https://news.ycombinator.com/item?id=50140462</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sun, 18 Oct 2026 12:22:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50140462"
-      },
-      {
         "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
         "link": "https://github.com/0x23/MicroManipulatorStepper",
-        "description": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 90</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 153</p>\n<p># Comments: 12</p>",
         "pubDate": "Sun, 18 Oct 2026 11:16:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=50140001"
       },
       {
         "title": "The Brain Sandwich",
         "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "description": "<p>Article URL: <a href=\"https://terriblesoftware.org/2026/10/02/the-brain-sandwich/\">https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139998\">https://news.ycombinator.com/item?id=50139998</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+        "description": "<p>Article URL: <a href=\"https://terriblesoftware.org/2026/10/02/the-brain-sandwich/\">https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139998\">https://news.ycombinator.com/item?id=50139998</a></p>\n<p>Points: 58</p>\n<p># Comments: 34</p>",
         "pubDate": "Sun, 18 Oct 2026 11:15:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=50139998"
       },
       {
         "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
         "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139692\">https://news.ycombinator.com/item?id=50139692</a></p>\n<p>Points: 121</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139692\">https://news.ycombinator.com/item?id=50139692</a></p>\n<p>Points: 208</p>\n<p># Comments: 58</p>",
         "pubDate": "Sun, 18 Oct 2026 10:21:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=50139692"
       },
       {
         "title": "Parser Combinators",
         "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-        "description": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 121</p>\n<p># Comments: 53</p>",
+        "description": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 198</p>\n<p># Comments: 74</p>",
         "pubDate": "Sun, 18 Oct 2026 08:19:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=50139067"
       },
       {
         "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
         "link": "https://api-docs.deepseek.com/guides/search/",
-        "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/search/\">https://api-docs.deepseek.com/guides/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138531\">https://news.ycombinator.com/item?id=50138531</a></p>\n<p>Points: 384</p>\n<p># Comments: 192</p>",
+        "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/search/\">https://api-docs.deepseek.com/guides/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138531\">https://news.ycombinator.com/item?id=50138531</a></p>\n<p>Points: 489</p>\n<p># Comments: 234</p>",
         "pubDate": "Sun, 18 Oct 2026 06:50:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50138531"
-      },
-      {
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "link": "https://sphinx-six-theta.vercel.app/",
-        "description": "<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137950\">https://news.ycombinator.com/item?id=50137950</a></p>\n<p>Points: 201</p>\n<p># Comments: 61</p>",
-        "pubDate": "Sun, 18 Oct 2026 04:33:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50137950"
-      },
-      {
-        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-        "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-        "description": "<p>Article URL: <a href=\"https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything\">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137620\">https://news.ycombinator.com/item?id=50137620</a></p>\n<p>Points: 247</p>\n<p># Comments: 311</p>",
-        "pubDate": "Sun, 18 Oct 2026 03:19:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50137620"
-      },
-      {
-        "title": "Pele – Mermaid diagrams as themeable SVG",
-        "link": "https://pele.run/",
-        "description": "<p>Article URL: <a href=\"https://pele.run/\">https://pele.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132193\">https://news.ycombinator.com/item?id=50132193</a></p>\n<p>Points: 513</p>\n<p># Comments: 47</p>",
-        "pubDate": "Sat, 17 Oct 2026 15:55:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50132193"
-      },
-      {
-        "title": "Making chicken transparent using Dorito dust",
-        "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-        "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131213\">https://news.ycombinator.com/item?id=50131213</a></p>\n<p>Points: 335</p>\n<p># Comments: 85</p>",
-        "pubDate": "Sat, 17 Oct 2026 13:55:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50131213"
-      },
-      {
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "description": "<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 916</p>\n<p># Comments: 680</p>",
-        "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50129045"
-      },
-      {
-        "title": "Dam removals are bringing fish back across the northeastern United States",
-        "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\">https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126312\">https://news.ycombinator.com/item?id=50126312</a></p>\n<p>Points: 318</p>\n<p># Comments: 81</p>",
-        "pubDate": "Fri, 16 Oct 2026 23:47:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50126312"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-18T15:45:50.681Z",
+  "lastUpdated": "2026-10-18T20:28:26.589Z",
   "stats": {
     "feeds": 2,
     "articles": 20
