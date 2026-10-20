@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-20T04:34:42.595Z"
+      "lastFetched": "2026-10-20T11:22:09.288Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-20T04:35:02.902Z"
+      "lastFetched": "2026-10-20T11:22:17.454Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Google cloud outage takes down banks",
+        "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+        "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163961\">https://news.ycombinator.com/item?id=50163961</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+        "pubDate": "Tue, 20 Oct 2026 10:26:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50163961"
+      },
+      {
+        "title": "Revolut down as users report app not working",
+        "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cxdd8mm6qy4mo\">https://www.bbc.com/news/articles/cxdd8mm6qy4mo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163625\">https://news.ycombinator.com/item?id=50163625</a></p>\n<p>Points: 44</p>\n<p># Comments: 15</p>",
+        "pubDate": "Tue, 20 Oct 2026 09:54:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50163625"
+      },
+      {
+        "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+        "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+        "description": "<p>Article URL: <a href=\"https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/\">https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163502\">https://news.ycombinator.com/item?id=50163502</a></p>\n<p>Points: 240</p>\n<p># Comments: 203</p>",
+        "pubDate": "Tue, 20 Oct 2026 09:35:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50163502"
+      },
+      {
+        "title": "DeepSeek just open-sourced its inference engine",
+        "link": "https://github.com/deepseek-ai/DeepInfer",
+        "description": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepInfer\">https://github.com/deepseek-ai/DeepInfer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163277\">https://news.ycombinator.com/item?id=50163277</a></p>\n<p>Points: 364</p>\n<p># Comments: 123</p>",
+        "pubDate": "Tue, 20 Oct 2026 09:08:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50163277"
+      },
+      {
+        "title": "There is no official XScreenSaver GitHub repository",
+        "link": "https://github.com/xscreensaver-official/xscreensaver",
+        "description": "<p>Article URL: <a href=\"https://github.com/xscreensaver-official/xscreensaver\">https://github.com/xscreensaver-official/xscreensaver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163142\">https://news.ycombinator.com/item?id=50163142</a></p>\n<p>Points: 30</p>\n<p># Comments: 14</p>",
+        "pubDate": "Tue, 20 Oct 2026 08:51:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50163142"
+      },
+      {
+        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+        "link": "https://github.com/microg/GmsCore/wiki",
+        "description": "<p>Article URL: <a href=\"https://github.com/microg/GmsCore/wiki\">https://github.com/microg/GmsCore/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50162177\">https://news.ycombinator.com/item?id=50162177</a></p>\n<p>Points: 76</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 20 Oct 2026 06:37:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50162177"
+      },
+      {
         "title": "Go will reject certificate chains containing eight distrusted SPKIs",
         "link": "https://github.com/golang/go/issues/82345",
-        "description": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/82345\">https://github.com/golang/go/issues/82345</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160877\">https://news.ycombinator.com/item?id=50160877</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/82345\">https://github.com/golang/go/issues/82345</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160877\">https://news.ycombinator.com/item?id=50160877</a></p>\n<p>Points: 101</p>\n<p># Comments: 41</p>",
         "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=50160877"
       },
       {
         "title": "OpenBSD 8.0",
         "link": "https://www.openbsd.org/80.html",
-        "description": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 56</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 321</p>\n<p># Comments: 103</p>",
         "pubDate": "Tue, 20 Oct 2026 02:06:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=50160494"
       },
       {
-        "title": "OpenBSD 8.0: released Oct 20, 2026",
-        "link": "https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2",
-        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-misc&m=179245849770356&w=2\">https://marc.info/?l=openbsd-misc&m=179245849770356&w=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160419\">https://news.ycombinator.com/item?id=50160419</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 20 Oct 2026 01:53:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50160419"
-      },
-      {
-        "title": "Developing Taste",
-        "link": "https://emilkowal.ski/ui/developing-taste",
-        "description": "<p>Article URL: <a href=\"https://emilkowal.ski/ui/developing-taste\">https://emilkowal.ski/ui/developing-taste</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160135\">https://news.ycombinator.com/item?id=50160135</a></p>\n<p>Points: 16</p>\n<p># Comments: 13</p>",
-        "pubDate": "Tue, 20 Oct 2026 01:12:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50160135"
-      },
-      {
         "title": "France's supermarket fridges were vulnerable online for months",
         "link": "https://ipinfo.io/blog/france-fridges-hack",
-        "description": "<p>Article URL: <a href=\"https://ipinfo.io/blog/france-fridges-hack\">https://ipinfo.io/blog/france-fridges-hack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159616\">https://news.ycombinator.com/item?id=50159616</a></p>\n<p>Points: 77</p>\n<p># Comments: 66</p>",
+        "description": "<p>Related: <i>Hackers activate automatic defrosting in supermarket fridges across Europe</i> - <a href=\"https://news.ycombinator.com/item?id=50055304\">https://news.ycombinator.com/item?id=50055304</a> - Oct 2026 (1007 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159616\">https://news.ycombinator.com/item?id=50159616</a></p>\n<p>Points: 179</p>\n<p># Comments: 162</p>",
         "pubDate": "Tue, 20 Oct 2026 00:00:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=50159616"
       },
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "description": "<p>Article URL: <a href=\"https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159341\">https://news.ycombinator.com/item?id=50159341</a></p>\n<p>Points: 118</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159341\">https://news.ycombinator.com/item?id=50159341</a></p>\n<p>Points: 475</p>\n<p># Comments: 141</p>",
         "pubDate": "Mon, 19 Oct 2026 23:22:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=50159341"
       },
       {
-        "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+        "title": "How abliterated models can get you pwned",
         "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-        "description": "<p>Article URL: <a href=\"https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\">https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159245\">https://news.ycombinator.com/item?id=50159245</a></p>\n<p>Points: 69</p>\n<p># Comments: 39</p>",
+        "description": "<p>Article URL: <a href=\"https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\">https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159245\">https://news.ycombinator.com/item?id=50159245</a></p>\n<p>Points: 146</p>\n<p># Comments: 85</p>",
         "pubDate": "Mon, 19 Oct 2026 23:08:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50159245"
       },
       {
         "title": "An ad-free Android TV",
         "link": "https://cretezy.com/2026/ad-free-android-tv",
-        "description": "<p>Article URL: <a href=\"https://cretezy.com/2026/ad-free-android-tv\">https://cretezy.com/2026/ad-free-android-tv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158942\">https://news.ycombinator.com/item?id=50158942</a></p>\n<p>Points: 73</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://cretezy.com/2026/ad-free-android-tv\">https://cretezy.com/2026/ad-free-android-tv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158942\">https://news.ycombinator.com/item?id=50158942</a></p>\n<p>Points: 235</p>\n<p># Comments: 82</p>",
         "pubDate": "Mon, 19 Oct 2026 22:32:37 +0000",
         "guid": "https://news.ycombinator.com/item?id=50158942"
       },
       {
         "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
         "link": "https://bsd.network/@brynet/117407035545900963",
-        "description": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 118</p>\n<p># Comments: 28</p>",
+        "description": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 158</p>\n<p># Comments: 37</p>",
         "pubDate": "Mon, 19 Oct 2026 21:11:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=50158138"
       },
       {
-        "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-        "link": "https://josie.lol/blog/linux-rtx-spark",
-        "description": "<p>Article URL: <a href=\"https://josie.lol/blog/linux-rtx-spark\">https://josie.lol/blog/linux-rtx-spark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158100\">https://news.ycombinator.com/item?id=50158100</a></p>\n<p>Points: 202</p>\n<p># Comments: 95</p>",
-        "pubDate": "Mon, 19 Oct 2026 21:08:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50158100"
-      },
-      {
         "title": "One Hash Bloom Filters",
         "link": "https://calabro.io/ohbf",
-        "description": "<p>Article URL: <a href=\"https://calabro.io/ohbf\">https://calabro.io/ohbf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50157865\">https://news.ycombinator.com/item?id=50157865</a></p>\n<p>Points: 71</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://calabro.io/ohbf\">https://calabro.io/ohbf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50157865\">https://news.ycombinator.com/item?id=50157865</a></p>\n<p>Points: 113</p>\n<p># Comments: 12</p>",
         "pubDate": "Mon, 19 Oct 2026 20:50:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=50157865"
       },
       {
-        "title": "The End of Rationing",
-        "link": "https://sanketsaurav.com/writing/end-of-rationing",
-        "description": "<p>Article URL: <a href=\"https://sanketsaurav.com/writing/end-of-rationing\">https://sanketsaurav.com/writing/end-of-rationing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50156744\">https://news.ycombinator.com/item?id=50156744</a></p>\n<p>Points: 44</p>\n<p># Comments: 39</p>",
-        "pubDate": "Mon, 19 Oct 2026 19:19:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50156744"
-      },
-      {
-        "title": "Evidence (YC S21) Is Hiring Software Engineers",
-        "link": "https://evidence.dev/jobs",
-        "description": "<p>Article URL: <a href=\"https://evidence.dev/jobs\">https://evidence.dev/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155172\">https://news.ycombinator.com/item?id=50155172</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 19 Oct 2026 17:21:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50155172"
-      },
-      {
-        "title": "Android apps running native on macOS",
-        "link": "https://github.com/kksimp/Mac.apk",
-        "description": "<p>Article URL: <a href=\"https://github.com/kksimp/Mac.apk\">https://github.com/kksimp/Mac.apk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154624\">https://news.ycombinator.com/item?id=50154624</a></p>\n<p>Points: 284</p>\n<p># Comments: 153</p>",
-        "pubDate": "Mon, 19 Oct 2026 16:45:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50154624"
-      },
-      {
         "title": "MiniMax M3.1 Flash",
         "link": "https://www.minimax.io/blog/minimax-m31f",
-        "description": "<p>Article URL: <a href=\"https://www.minimax.io/blog/minimax-m31f\">https://www.minimax.io/blog/minimax-m31f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154540\">https://news.ycombinator.com/item?id=50154540</a></p>\n<p>Points: 413</p>\n<p># Comments: 176</p>",
+        "description": "<p>Article URL: <a href=\"https://www.minimax.io/blog/minimax-m31f\">https://www.minimax.io/blog/minimax-m31f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154540\">https://news.ycombinator.com/item?id=50154540</a></p>\n<p>Points: 475</p>\n<p># Comments: 200</p>",
         "pubDate": "Mon, 19 Oct 2026 16:39:09 +0000",
         "guid": "https://news.ycombinator.com/item?id=50154540"
       },
       {
         "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
         "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-        "description": "<p><a href=\"https://public-inspection.federalregister.gov/2026-21447.pdf\" rel=\"nofollow\">https://public-inspection.federalregister.gov/2026-21447.pdf</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154244\">https://news.ycombinator.com/item?id=50154244</a></p>\n<p>Points: 74</p>\n<p># Comments: 80</p>",
+        "description": "<p><a href=\"https://public-inspection.federalregister.gov/2026-21447.pdf\" rel=\"nofollow\">https://public-inspection.federalregister.gov/2026-21447.pdf</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154244\">https://news.ycombinator.com/item?id=50154244</a></p>\n<p>Points: 289</p>\n<p># Comments: 247</p>",
         "pubDate": "Mon, 19 Oct 2026 16:16:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=50154244"
       },
       {
         "title": "Ukraine claims first drone evacuation of wounded soldier",
         "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-        "description": "<p>Article URL: <a href=\"https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153664\">https://news.ycombinator.com/item?id=50153664</a></p>\n<p>Points: 175</p>\n<p># Comments: 135</p>",
+        "description": "<p>Article URL: <a href=\"https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153664\">https://news.ycombinator.com/item?id=50153664</a></p>\n<p>Points: 301</p>\n<p># Comments: 235</p>",
         "pubDate": "Mon, 19 Oct 2026 15:31:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50153664"
       },
       {
-        "title": "Agentic Monitoring",
-        "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-        "description": "<p>Article URL: <a href=\"https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/\">https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153225\">https://news.ycombinator.com/item?id=50153225</a></p>\n<p>Points: 63</p>\n<p># Comments: 3</p>",
-        "pubDate": "Mon, 19 Oct 2026 14:52:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50153225"
+        "title": "Why Is Speculative Decoding Fast?",
+        "link": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+        "description": "<p>Article URL: <a href=\"https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/\">https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152539\">https://news.ycombinator.com/item?id=50152539</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 19 Oct 2026 13:53:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50152539"
+      },
+      {
+        "title": "Maxwell: A new kind of model that sits between code and hardware",
+        "link": "https://heymaxwell.ai/",
+        "description": "<p>Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model.<p>It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line.<p>Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like.<p>Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing.<p>Early access is open at heymaxwell.ai. Happy to answer questions here.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152466\">https://news.ycombinator.com/item?id=50152466</a></p>\n<p>Points: 83</p>\n<p># Comments: 41</p>",
+        "pubDate": "Mon, 19 Oct 2026 13:47:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50152466"
       },
       {
         "title": "Wine ported to OpenBSD",
         "link": "https://marc.info/?l=openbsd-ports&amp;m=179236125692175",
-        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&m=179236125692175\">https://marc.info/?l=openbsd-ports&m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 531</p>\n<p># Comments: 175</p>",
+        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&m=179236125692175\">https://marc.info/?l=openbsd-ports&m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 573</p>\n<p># Comments: 195</p>",
         "pubDate": "Mon, 19 Oct 2026 13:35:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50152307"
-      },
-      {
-        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-        "link": "https://news.ycombinator.com/item?id=50151036",
-        "description": "<p>I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...</a><p>> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?<p>How are you handling this?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151036\">https://news.ycombinator.com/item?id=50151036</a></p>\n<p>Points: 322</p>\n<p># Comments: 465</p>",
-        "pubDate": "Mon, 19 Oct 2026 11:24:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50151036"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-20T04:35:02.902Z",
+  "lastUpdated": "2026-10-20T11:22:17.454Z",
   "stats": {
     "feeds": 2,
     "articles": 20
