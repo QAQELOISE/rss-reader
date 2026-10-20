@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-19T12:53:20.703Z"
+      "lastFetched": "2026-10-20T04:34:42.595Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-19T22:15:58.472Z"
+      "lastFetched": "2026-10-20T04:35:02.902Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+        "link": "https://github.com/golang/go/issues/82345",
+        "description": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/82345\">https://github.com/golang/go/issues/82345</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160877\">https://news.ycombinator.com/item?id=50160877</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+        "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50160877"
+      },
+      {
+        "title": "OpenBSD 8.0",
+        "link": "https://www.openbsd.org/80.html",
+        "description": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 56</p>\n<p># Comments: 12</p>",
+        "pubDate": "Tue, 20 Oct 2026 02:06:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50160494"
+      },
+      {
+        "title": "OpenBSD 8.0: released Oct 20, 2026",
+        "link": "https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2",
+        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-misc&m=179245849770356&w=2\">https://marc.info/?l=openbsd-misc&m=179245849770356&w=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160419\">https://news.ycombinator.com/item?id=50160419</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 20 Oct 2026 01:53:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50160419"
+      },
+      {
+        "title": "Developing Taste",
+        "link": "https://emilkowal.ski/ui/developing-taste",
+        "description": "<p>Article URL: <a href=\"https://emilkowal.ski/ui/developing-taste\">https://emilkowal.ski/ui/developing-taste</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160135\">https://news.ycombinator.com/item?id=50160135</a></p>\n<p>Points: 16</p>\n<p># Comments: 13</p>",
+        "pubDate": "Tue, 20 Oct 2026 01:12:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50160135"
+      },
+      {
+        "title": "France's supermarket fridges were vulnerable online for months",
+        "link": "https://ipinfo.io/blog/france-fridges-hack",
+        "description": "<p>Article URL: <a href=\"https://ipinfo.io/blog/france-fridges-hack\">https://ipinfo.io/blog/france-fridges-hack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159616\">https://news.ycombinator.com/item?id=50159616</a></p>\n<p>Points: 77</p>\n<p># Comments: 66</p>",
+        "pubDate": "Tue, 20 Oct 2026 00:00:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50159616"
+      },
+      {
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "description": "<p>Article URL: <a href=\"https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159341\">https://news.ycombinator.com/item?id=50159341</a></p>\n<p>Points: 118</p>\n<p># Comments: 17</p>",
+        "pubDate": "Mon, 19 Oct 2026 23:22:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50159341"
+      },
+      {
+        "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+        "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+        "description": "<p>Article URL: <a href=\"https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\">https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159245\">https://news.ycombinator.com/item?id=50159245</a></p>\n<p>Points: 69</p>\n<p># Comments: 39</p>",
+        "pubDate": "Mon, 19 Oct 2026 23:08:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50159245"
+      },
+      {
+        "title": "An ad-free Android TV",
+        "link": "https://cretezy.com/2026/ad-free-android-tv",
+        "description": "<p>Article URL: <a href=\"https://cretezy.com/2026/ad-free-android-tv\">https://cretezy.com/2026/ad-free-android-tv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158942\">https://news.ycombinator.com/item?id=50158942</a></p>\n<p>Points: 73</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 19 Oct 2026 22:32:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50158942"
+      },
+      {
+        "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+        "link": "https://bsd.network/@brynet/117407035545900963",
+        "description": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 118</p>\n<p># Comments: 28</p>",
+        "pubDate": "Mon, 19 Oct 2026 21:11:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50158138"
+      },
+      {
+        "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+        "link": "https://josie.lol/blog/linux-rtx-spark",
+        "description": "<p>Article URL: <a href=\"https://josie.lol/blog/linux-rtx-spark\">https://josie.lol/blog/linux-rtx-spark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158100\">https://news.ycombinator.com/item?id=50158100</a></p>\n<p>Points: 202</p>\n<p># Comments: 95</p>",
+        "pubDate": "Mon, 19 Oct 2026 21:08:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50158100"
+      },
+      {
+        "title": "One Hash Bloom Filters",
+        "link": "https://calabro.io/ohbf",
+        "description": "<p>Article URL: <a href=\"https://calabro.io/ohbf\">https://calabro.io/ohbf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50157865\">https://news.ycombinator.com/item?id=50157865</a></p>\n<p>Points: 71</p>\n<p># Comments: 10</p>",
+        "pubDate": "Mon, 19 Oct 2026 20:50:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50157865"
+      },
+      {
+        "title": "The End of Rationing",
+        "link": "https://sanketsaurav.com/writing/end-of-rationing",
+        "description": "<p>Article URL: <a href=\"https://sanketsaurav.com/writing/end-of-rationing\">https://sanketsaurav.com/writing/end-of-rationing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50156744\">https://news.ycombinator.com/item?id=50156744</a></p>\n<p>Points: 44</p>\n<p># Comments: 39</p>",
+        "pubDate": "Mon, 19 Oct 2026 19:19:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50156744"
+      },
+      {
+        "title": "Evidence (YC S21) Is Hiring Software Engineers",
+        "link": "https://evidence.dev/jobs",
+        "description": "<p>Article URL: <a href=\"https://evidence.dev/jobs\">https://evidence.dev/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155172\">https://news.ycombinator.com/item?id=50155172</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 19 Oct 2026 17:21:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50155172"
+      },
+      {
+        "title": "Android apps running native on macOS",
+        "link": "https://github.com/kksimp/Mac.apk",
+        "description": "<p>Article URL: <a href=\"https://github.com/kksimp/Mac.apk\">https://github.com/kksimp/Mac.apk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154624\">https://news.ycombinator.com/item?id=50154624</a></p>\n<p>Points: 284</p>\n<p># Comments: 153</p>",
+        "pubDate": "Mon, 19 Oct 2026 16:45:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50154624"
+      },
+      {
+        "title": "MiniMax M3.1 Flash",
+        "link": "https://www.minimax.io/blog/minimax-m31f",
+        "description": "<p>Article URL: <a href=\"https://www.minimax.io/blog/minimax-m31f\">https://www.minimax.io/blog/minimax-m31f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154540\">https://news.ycombinator.com/item?id=50154540</a></p>\n<p>Points: 413</p>\n<p># Comments: 176</p>",
+        "pubDate": "Mon, 19 Oct 2026 16:39:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50154540"
+      },
+      {
+        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+        "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "description": "<p><a href=\"https://public-inspection.federalregister.gov/2026-21447.pdf\" rel=\"nofollow\">https://public-inspection.federalregister.gov/2026-21447.pdf</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154244\">https://news.ycombinator.com/item?id=50154244</a></p>\n<p>Points: 74</p>\n<p># Comments: 80</p>",
+        "pubDate": "Mon, 19 Oct 2026 16:16:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50154244"
+      },
+      {
+        "title": "Ukraine claims first drone evacuation of wounded soldier",
+        "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+        "description": "<p>Article URL: <a href=\"https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153664\">https://news.ycombinator.com/item?id=50153664</a></p>\n<p>Points: 175</p>\n<p># Comments: 135</p>",
+        "pubDate": "Mon, 19 Oct 2026 15:31:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50153664"
+      },
+      {
+        "title": "Agentic Monitoring",
+        "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+        "description": "<p>Article URL: <a href=\"https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/\">https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153225\">https://news.ycombinator.com/item?id=50153225</a></p>\n<p>Points: 63</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 19 Oct 2026 14:52:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50153225"
+      },
+      {
+        "title": "Wine ported to OpenBSD",
+        "link": "https://marc.info/?l=openbsd-ports&amp;m=179236125692175",
+        "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&m=179236125692175\">https://marc.info/?l=openbsd-ports&m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 531</p>\n<p># Comments: 175</p>",
+        "pubDate": "Mon, 19 Oct 2026 13:35:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50152307"
+      },
+      {
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "link": "https://news.ycombinator.com/item?id=50151036",
+        "description": "<p>I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...</a><p>> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?<p>How are you handling this?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151036\">https://news.ycombinator.com/item?id=50151036</a></p>\n<p>Points: 322</p>\n<p># Comments: 465</p>",
+        "pubDate": "Mon, 19 Oct 2026 11:24:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50151036"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-19T22:15:58.472Z",
+  "lastUpdated": "2026-10-20T04:35:02.902Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
