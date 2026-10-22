@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-21T21:31:41.882Z"
+      "lastFetched": "2026-10-22T04:25:34.905Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-21T21:31:42.079Z"
+      "lastFetched": "2026-10-22T04:25:45.013Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "After automation: Solo founding will be the default",
-        "link": "https://every.to/thesis-statements/julian-weisser",
-        "description": "<p>Article URL: <a href=\"https://every.to/thesis-statements/julian-weisser\">https://every.to/thesis-statements/julian-weisser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186518\">https://news.ycombinator.com/item?id=50186518</a></p>\n<p>Points: 37</p>\n<p># Comments: 42</p>",
-        "pubDate": "Wed, 21 Oct 2026 19:44:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50186518"
+        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "description": "<p>Article URL: <a href=\"https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190455\">https://news.ycombinator.com/item?id=50190455</a></p>\n<p>Points: 48</p>\n<p># Comments: 27</p>",
+        "pubDate": "Thu, 22 Oct 2026 02:30:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50190455"
       },
       {
-        "title": "Claude Duet",
-        "link": "https://claude.com/resources/articles/claude-duet",
-        "description": "<p>Article URL: <a href=\"https://claude.com/resources/articles/claude-duet\">https://claude.com/resources/articles/claude-duet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186455\">https://news.ycombinator.com/item?id=50186455</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
-        "pubDate": "Wed, 21 Oct 2026 19:40:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50186455"
+        "title": "LLM Agents Play Pokemon Showdown",
+        "link": "https://olivergrabner.com/research/pokemon/",
+        "description": "<p>Article URL: <a href=\"https://olivergrabner.com/research/pokemon/\">https://olivergrabner.com/research/pokemon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190334\">https://news.ycombinator.com/item?id=50190334</a></p>\n<p>Points: 17</p>\n<p># Comments: 11</p>",
+        "pubDate": "Thu, 22 Oct 2026 02:13:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50190334"
       },
       {
-        "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-        "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-        "description": "<p>Article URL: <a href=\"https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/\">https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186215\">https://news.ycombinator.com/item?id=50186215</a></p>\n<p>Points: 177</p>\n<p># Comments: 40</p>",
-        "pubDate": "Wed, 21 Oct 2026 19:26:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50186215"
+        "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+        "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+        "description": "<p>Article URL: <a href=\"https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552\">https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190168\">https://news.ycombinator.com/item?id=50190168</a></p>\n<p>Points: 108</p>\n<p># Comments: 60</p>",
+        "pubDate": "Thu, 22 Oct 2026 01:52:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50190168"
       },
       {
-        "title": "Mistral Large 4",
-        "link": "https://docs.mistral.ai/models/mistral-large-4-0",
-        "description": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/mistral-large-4-0\">https://docs.mistral.ai/models/mistral-large-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186129\">https://news.ycombinator.com/item?id=50186129</a></p>\n<p>Points: 296</p>\n<p># Comments: 82</p>",
-        "pubDate": "Wed, 21 Oct 2026 19:20:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50186129"
+        "title": "mitmproxy adds --emudhra option",
+        "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "description": "<p>Article URL: <a href=\"https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50189232\">https://news.ycombinator.com/item?id=50189232</a></p>\n<p>Points: 332</p>\n<p># Comments: 87</p>",
+        "pubDate": "Wed, 21 Oct 2026 23:51:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50189232"
       },
       {
-        "title": "Claude Duet",
-        "link": "https://claude.com/product/claude-duet",
-        "description": "<p>Article URL: <a href=\"https://claude.com/product/claude-duet\">https://claude.com/product/claude-duet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186037\">https://news.ycombinator.com/item?id=50186037</a></p>\n<p>Points: 183</p>\n<p># Comments: 162</p>",
-        "pubDate": "Wed, 21 Oct 2026 19:14:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50186037"
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "link": "https://eliastaylor.com/noexploit/",
+        "description": "<p>Article URL: <a href=\"https://eliastaylor.com/noexploit/\">https://eliastaylor.com/noexploit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50188948\">https://news.ycombinator.com/item?id=50188948</a></p>\n<p>Points: 273</p>\n<p># Comments: 134</p>",
+        "pubDate": "Wed, 21 Oct 2026 23:13:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50188948"
       },
       {
-        "title": "Google's Rust Style Guide",
+        "title": "Postgres recovery_prefetch can cause outages",
+        "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+        "description": "<p>Article URL: <a href=\"https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/\">https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50188614\">https://news.ycombinator.com/item?id=50188614</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 21 Oct 2026 22:33:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50188614"
+      },
+      {
+        "title": "Security Disclosure",
+        "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "description": "<p>Article URL: <a href=\"https://blog.railway.com/p/security-disclosure-wednesday-october-21st\">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50188228\">https://news.ycombinator.com/item?id=50188228</a></p>\n<p>Points: 368</p>\n<p># Comments: 211</p>",
+        "pubDate": "Wed, 21 Oct 2026 21:58:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50188228"
+      },
+      {
+        "title": "Rust Style Guide",
         "link": "https://google.github.io/styleguide/rustguide.html",
-        "description": "<p>Article URL: <a href=\"https://google.github.io/styleguide/rustguide.html\">https://google.github.io/styleguide/rustguide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186010\">https://news.ycombinator.com/item?id=50186010</a></p>\n<p>Points: 97</p>\n<p># Comments: 71</p>",
+        "description": "<p>Article URL: <a href=\"https://google.github.io/styleguide/rustguide.html\">https://google.github.io/styleguide/rustguide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186010\">https://news.ycombinator.com/item?id=50186010</a></p>\n<p>Points: 244</p>\n<p># Comments: 132</p>",
         "pubDate": "Wed, 21 Oct 2026 19:11:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=50186010"
       },
       {
-        "title": "GitLab Remote Code Execution - Integer Overflow issue",
+        "title": "GitLab critical patch release",
         "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-        "description": "<p>Article URL: <a href=\"https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\">https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50185869\">https://news.ycombinator.com/item?id=50185869</a></p>\n<p>Points: 112</p>\n<p># Comments: 25</p>",
+        "description": "<p>Article URL: <a href=\"https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\">https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50185869\">https://news.ycombinator.com/item?id=50185869</a></p>\n<p>Points: 275</p>\n<p># Comments: 67</p>",
         "pubDate": "Wed, 21 Oct 2026 19:01:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=50185869"
       },
       {
-        "title": "Potential third critical PHP CVE",
-        "link": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-        "description": "<p>Article URL: <a href=\"https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027\">https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50185814\">https://news.ycombinator.com/item?id=50185814</a></p>\n<p>Points: 37</p>\n<p># Comments: 13</p>",
-        "pubDate": "Wed, 21 Oct 2026 18:57:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50185814"
-      },
-      {
-        "title": "Canary Tokens",
-        "link": "https://canarytokens.org/",
-        "description": "<p><a href=\"https://docs.canarytokens.org/guide/\" rel=\"nofollow\">https://docs.canarytokens.org/guide/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50185630\">https://news.ycombinator.com/item?id=50185630</a></p>\n<p>Points: 74</p>\n<p># Comments: 15</p>",
-        "pubDate": "Wed, 21 Oct 2026 18:45:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50185630"
-      },
-      {
         "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
         "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\">https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184820\">https://news.ycombinator.com/item?id=50184820</a></p>\n<p>Points: 183</p>\n<p># Comments: 60</p>",
+        "description": "<p><a href=\"https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/\" rel=\"nofollow\">https://nmdoj.gov/press-release/the-new-mexico-department-of...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184820\">https://news.ycombinator.com/item?id=50184820</a></p>\n<p>Points: 437</p>\n<p># Comments: 279</p>",
         "pubDate": "Wed, 21 Oct 2026 17:45:13 +0000",
         "guid": "https://news.ycombinator.com/item?id=50184820"
       },
       {
         "title": "EA is shutting down BioWare",
         "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-        "description": "<p>Article URL: <a href=\"https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware\">https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184586\">https://news.ycombinator.com/item?id=50184586</a></p>\n<p>Points: 387</p>\n<p># Comments: 239</p>",
+        "description": "<p>Article URL: <a href=\"https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware\">https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184586\">https://news.ycombinator.com/item?id=50184586</a></p>\n<p>Points: 574</p>\n<p># Comments: 348</p>",
         "pubDate": "Wed, 21 Oct 2026 17:29:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=50184586"
       },
       {
-        "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-        "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-        "description": "<p>Article URL: <a href=\"https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs\">https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183512\">https://news.ycombinator.com/item?id=50183512</a></p>\n<p>Points: 74</p>\n<p># Comments: 18</p>",
-        "pubDate": "Wed, 21 Oct 2026 16:20:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50183512"
-      },
-      {
-        "title": "The bridge to agent-scale Git infrastructure",
-        "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/\">https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183344\">https://news.ycombinator.com/item?id=50183344</a></p>\n<p>Points: 40</p>\n<p># Comments: 9</p>",
-        "pubDate": "Wed, 21 Oct 2026 16:09:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50183344"
-      },
-      {
-        "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
-        "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-        "description": "<p>Article URL: <a href=\"https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/\">https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183280\">https://news.ycombinator.com/item?id=50183280</a></p>\n<p>Points: 46</p>\n<p># Comments: 22</p>",
-        "pubDate": "Wed, 21 Oct 2026 16:05:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50183280"
+        "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "link": "https://github.com/omnara-ai/omnara",
+        "description": "<p>Hey all, Kartik from Omnara (<a href=\"https://omnara.com\">https://omnara.com</a>) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent's state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API.<p>You may remember us from our early days, when we made a remote-control phone app for Claude Code and Codex. Since the harness ran on a laptop back then, we had to build a relay to reach it, it stopped when the laptop closed, and moving it to a cloud sandbox meant syncing code and agent state between machines. We didn't think remote-controlling a local agent was end-game for how people would run agents, so we built a new product where the agent runs in the cloud, any client can talk to it through an API, and it can still use your laptop as one of its machines.<p>Anthropic and OpenAI are building hosted versions of this, like Claude Managed Agents and the OpenAI Agents API. Omnara is an open-source version you can run on your own servers and use your own models. It's basically a harness server like the opencode or codex servers, but durable, scalable, with the usual harness features like file and shell tools, subagents, compaction, permission prompts, MCP, skills, memory, yada yada yada.<p>Here's some interesting architectural decisions we made while building this out:<p>Most harnesses, like Claude Code, Codex, OpenCode, Pi, Goose, etc, run the agent loop in one long-lived process that keeps its log in a JSONL or SQLite file. In Omnara, the log is an append-only event log in Postgres, with inputs, model outputs and tool calls stored as typed rows in their own tables. The loop runs on stateless workers in the control plane. A worker runs one iteration of the loop, either a model call or the tool calls it produced, then releases the agent and puts the next iteration on a queue in Postgres. Whichever worker is free picks it up, so each iteration of an agent's loop can run in a different process on a different machine. Each iteration's result commits in one transaction, so the model output, its tool calls, usage and the next wakeup are saved together or not at all. If a worker dies mid-iteration, nothing commits, its lease expires, and another worker retries it. Agents waiting on a user, a tool or a retry don't hold a worker, so one worker can multiplex thousands of agents.<p>Also unlike other harnesses, the machines that the workers (our agent loop) run on aren't where the agent runs its commands. Instead, any macOS or Linux machine with an internet connection, like your laptop or any cloud sandbox, can run a small daemon (omnarad) that connects out to Omnara, so it doesn't need any open inbound ports. The agent then gets tools for that machine, like running a command or editing a file. An agent can have any number of machines connected to it. A fun thing I like to do is I have my laptop and a cloud sandbox connected to the same agent, so when my laptop is on, my agent codes there and I can interact with it, and I have it often push to Github. When I close my laptop, my agent sees the laptop went offline, pulls the latest changes to its cloud sandbox, and continues there.<p>The entire codebase is open source at <a href=\"https://github.com/omnara-ai/omnara\" rel=\"nofollow\">https://github.com/omnara-ai/omnara</a>, and it’s self hostable, even on a single machine with docker compose. You can also use the hosted version at <a href=\"https://omnara.com\">https://omnara.com</a>. Let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183892\">https://news.ycombinator.com/item?id=50183892</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 21 Oct 2026 16:44:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50183892"
       },
       {
         "title": "Today's PHP security release, and how we're strengthening security",
         "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-        "description": "<p>Related ongoing thread: <i>PHP 8.2.35</i> - <a href=\"https://news.ycombinator.com/item?id=50180873\">https://news.ycombinator.com/item?id=50180873</a><p>(links to more at <a href=\"https://news.ycombinator.com/item?id=50184935\">https://news.ycombinator.com/item?id=50184935</a>)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50182987\">https://news.ycombinator.com/item?id=50182987</a></p>\n<p>Points: 506</p>\n<p># Comments: 245</p>",
+        "description": "<p>Related ongoing thread: <i>PHP 8.2.35</i> - <a href=\"https://news.ycombinator.com/item?id=50180873\">https://news.ycombinator.com/item?id=50180873</a><p>(links to more at <a href=\"https://news.ycombinator.com/item?id=50184935\">https://news.ycombinator.com/item?id=50184935</a>)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50182987\">https://news.ycombinator.com/item?id=50182987</a></p>\n<p>Points: 698</p>\n<p># Comments: 343</p>",
         "pubDate": "Wed, 21 Oct 2026 15:48:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=50182987"
       },
       {
         "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
         "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488\">https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50182526\">https://news.ycombinator.com/item?id=50182526</a></p>\n<p>Points: 147</p>\n<p># Comments: 79</p>",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488\">https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50182526\">https://news.ycombinator.com/item?id=50182526</a></p>\n<p>Points: 175</p>\n<p># Comments: 89</p>",
         "pubDate": "Wed, 21 Oct 2026 15:20:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=50182526"
       },
       {
         "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
         "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "description": "<p><a href=\"https://patchtheplanet.org/\" rel=\"nofollow\">https://patchtheplanet.org/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181175\">https://news.ycombinator.com/item?id=50181175</a></p>\n<p>Points: 200</p>\n<p># Comments: 130</p>",
+        "description": "<p><a href=\"https://patchtheplanet.org/\" rel=\"nofollow\">https://patchtheplanet.org/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181175\">https://news.ycombinator.com/item?id=50181175</a></p>\n<p>Points: 243</p>\n<p># Comments: 164</p>",
         "pubDate": "Wed, 21 Oct 2026 14:03:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50181175"
       },
       {
         "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
         "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-        "description": "<p>Article URL: <a href=\"https://duckdb.org/2026/10/21/announcing-duckdb-200\">https://duckdb.org/2026/10/21/announcing-duckdb-200</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181136\">https://news.ycombinator.com/item?id=50181136</a></p>\n<p>Points: 326</p>\n<p># Comments: 36</p>",
+        "description": "<p>Article URL: <a href=\"https://duckdb.org/2026/10/21/announcing-duckdb-200\">https://duckdb.org/2026/10/21/announcing-duckdb-200</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181136\">https://news.ycombinator.com/item?id=50181136</a></p>\n<p>Points: 384</p>\n<p># Comments: 49</p>",
         "pubDate": "Wed, 21 Oct 2026 14:01:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=50181136"
       },
       {
         "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
         "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "description": "<p>Article URL: <a href=\"https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\">https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181114\">https://news.ycombinator.com/item?id=50181114</a></p>\n<p>Points: 347</p>\n<p># Comments: 117</p>",
+        "description": "<p>Article URL: <a href=\"https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\">https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50181114\">https://news.ycombinator.com/item?id=50181114</a></p>\n<p>Points: 460</p>\n<p># Comments: 157</p>",
         "pubDate": "Wed, 21 Oct 2026 14:00:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=50181114"
       },
       {
         "title": "PHP 8.2.35",
         "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-        "description": "<p>Related ongoing thread: <i>Today's PHP security release, and how we're strengthening security</i> - <a href=\"https://news.ycombinator.com/item?id=50182987\">https://news.ycombinator.com/item?id=50182987</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180873\">https://news.ycombinator.com/item?id=50180873</a></p>\n<p>Points: 917</p>\n<p># Comments: 516</p>",
+        "description": "<p>Related ongoing thread: <i>Today's PHP security release, and how we're strengthening security</i> - <a href=\"https://news.ycombinator.com/item?id=50182987\">https://news.ycombinator.com/item?id=50182987</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180873\">https://news.ycombinator.com/item?id=50180873</a></p>\n<p>Points: 984</p>\n<p># Comments: 535</p>",
         "pubDate": "Wed, 21 Oct 2026 13:45:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=50180873"
+      },
+      {
+        "title": "OpenAI models are coming to Google Cloud",
+        "link": "https://openai.com/index/openai-models-google-cloud/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/openai-models-google-cloud/\">https://openai.com/index/openai-models-google-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180079\">https://news.ycombinator.com/item?id=50180079</a></p>\n<p>Points: 258</p>\n<p># Comments: 107</p>",
+        "pubDate": "Wed, 21 Oct 2026 12:53:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50180079"
+      },
+      {
+        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "link": "https://alterauth.com/",
+        "description": "<p>Hi HN! We’re Srikar and Kevan, founders of Alter – <a href=\"https://alterauth.com/\">https://alterauth.com/</a>. We’re building access control for agents that can take actions on behalf of multiple users.<p>If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do. User-level authentication in Slack does nothing to control what the agent can do in an external system like the CRM or billing system.<p>Here’s what Alter does:<p>-It acts as a proxy and manages downstream credentials for every API request that an agent takes;<p>-It takes identity into account for every action the agent does. Automatically take into account the end user identity of the person that the agent is taking actions on behalf of.<p>-It enforces fine grained runtime policies and records compliance grade audit logs.<p>Here’s a demo video: <a href=\"https://www.youtube.com/watch?v=9ZqPU14ipGE\" rel=\"nofollow\">https://www.youtube.com/watch?v=9ZqPU14ipGE</a><p>We started this because we saw first hand how hard it is to build agents in regulated industries. To unlock the true benefits of agents we need to allow agents to take actions, sometimes actions on behalf of end users. I (Srikar) was working at Goldmans and I saw how prohibitively expensive it was for me as a developer to write my own custom auth to enable multi-tenancy in agents and to allow agents to have strict policy controls as they act on behalf of end users. My co-founder, Kevan, is a second time founder and was previously working on a database startup. He has experience building and selling deep tech into highly regulated environments. So this problem seemed like a natural fit for the both of us.<p>Building and maintaining custom auth for multi tenant agents was challenging. But so was ensuring that the solution we developed was secure, scalable and keeping track of security grade audit logs. As a result we realized there needs to be a separate product category for this that enables developers to easily build secure multi user agents that can actually take actions in an enterprise.\nSome of the real-world use cases we’ve seen include:<p>We have built a multi user open claw for our own team using Alter that saved us countless hours on our GTM effort.  Link here:<a href=\"https://github.com/AlterAIDev/openclaw-alter-plugin\" rel=\"nofollow\">https://github.com/AlterAIDev/openclaw-alter-plugin</a><p>We have multiple startups who have used our platform to build their own secure internal agents for everything ranging from SRE agents to back office agents dealing with Quickbooks and payroll platforms like Rippling. It has saved developers countless hours both in terms of building and maintenance. We also have a defense contractor building air gapped agents for marine corp using Alter.<p>Under the hood, the value that we provide is that we do a lot of the plumbing that no one wants to do. We support hundreds of providers, all manually tested end to end. Reliability is our biggest priority. We have built this in a way to allow developers to custom build their agents however they see fit. Everything ranging from custom policies, agent delegation, user attribution, audit logs needed for compliance to a LLM gateway with guardrails (Coming soon)<p>Building a security product is hard. We have learnt that in order to build a truly secure product, security thinking has to pervade every part of the development process. We have embraced shift left security. Every PR that is pushed out is continuously checked for supply chain attacks, potentially dangerous code patterns etc.<p>Our business plan revolved around usage based pricing. There is a free tier up to 10k requests and then a pricing tier starting beyond that. We would love it if people configured their APIs and OAuth credentials, tried out the policies and actually built agents that can take actions with alter!<p>If you’ve built an agent that acts for multiple users, how are you handling permissions today? We’d especially like to hear what you’ve had to build yourself.<p><a href=\"https://alterauth.com/\">https://alterauth.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176908\">https://news.ycombinator.com/item?id=50176908</a></p>\n<p>Points: 56</p>\n<p># Comments: 25</p>",
+        "pubDate": "Wed, 21 Oct 2026 06:42:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50176908"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-21T21:31:42.079Z",
+  "lastUpdated": "2026-10-22T04:25:45.013Z",
   "stats": {
     "feeds": 2,
     "articles": 20
