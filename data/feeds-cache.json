@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-24T10:45:18.953Z"
+      "lastFetched": "2026-10-24T15:47:28.135Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-24T10:45:27.580Z"
+      "lastFetched": "2026-10-24T15:47:47.732Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "I Don't Understand Quantum Physics",
+        "title": "Google illegally cut down 250K trees in Finland for data center",
+        "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+        "description": "<p>Article URL: <a href=\"https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/\">https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50221676\">https://news.ycombinator.com/item?id=50221676</a></p>\n<p>Points: 152</p>\n<p># Comments: 65</p>",
+        "pubDate": "Sat, 24 Oct 2026 14:38:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50221676"
+      },
+      {
+        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+        "description": "<p>Article URL: <a href=\"https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/\">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220204\">https://news.ycombinator.com/item?id=50220204</a></p>\n<p>Points: 71</p>\n<p># Comments: 25</p>",
+        "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50220204"
+      },
+      {
+        "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
+        "description": "<p>Article URL: <a href=\"https://gitlab.com/c4psu13/mali-pagecache-root\">https://gitlab.com/c4psu13/mali-pagecache-root</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220042\">https://news.ycombinator.com/item?id=50220042</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+        "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50220042"
+      },
+      {
+        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+        "link": "https://github.com/Zagitta/gpu-unlock",
+        "description": "<p>Article URL: <a href=\"https://github.com/Zagitta/gpu-unlock\">https://github.com/Zagitta/gpu-unlock</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219700\">https://news.ycombinator.com/item?id=50219700</a></p>\n<p>Points: 31</p>\n<p># Comments: 20</p>",
+        "pubDate": "Sat, 24 Oct 2026 09:58:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50219700"
+      },
+      {
+        "title": "I Don't Understand Quantum Physics (2018)",
         "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-        "description": "<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 29</p>\n<p># Comments: 12</p>",
+        "description": "<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 185</p>\n<p># Comments: 128</p>",
         "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=50219666"
       },
       {
-        "title": "ThinkRail from JetBrains",
-        "link": "https://thinkrail.ai/",
-        "description": "<p>Article URL: <a href=\"https://thinkrail.ai/\">https://thinkrail.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219186\">https://news.ycombinator.com/item?id=50219186</a></p>\n<p>Points: 28</p>\n<p># Comments: 20</p>",
-        "pubDate": "Sat, 24 Oct 2026 08:08:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50219186"
-      },
-      {
         "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
         "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-        "description": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219177\">https://news.ycombinator.com/item?id=50219177</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219177\">https://news.ycombinator.com/item?id=50219177</a></p>\n<p>Points: 128</p>\n<p># Comments: 66</p>",
         "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50219177"
       },
       {
         "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
         "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218633\">https://news.ycombinator.com/item?id=50218633</a></p>\n<p>Points: 153</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218633\">https://news.ycombinator.com/item?id=50218633</a></p>\n<p>Points: 378</p>\n<p># Comments: 126</p>",
         "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
         "guid": "https://news.ycombinator.com/item?id=50218633"
       },
       {
         "title": "OBS Studio 33",
         "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "description": "<p>Article URL: <a href=\"https://github.com/obsproject/obs-studio/releases/tag/33.0.0\">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218430\">https://news.ycombinator.com/item?id=50218430</a></p>\n<p>Points: 165</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/obsproject/obs-studio/releases/tag/33.0.0\">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218430\">https://news.ycombinator.com/item?id=50218430</a></p>\n<p>Points: 327</p>\n<p># Comments: 103</p>",
         "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=50218430"
       },
       {
         "title": "How close can pure functional programming get to C?",
         "link": "https://rtfeldman.com/fp-vs-c",
-        "description": "<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 126</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 187</p>\n<p># Comments: 46</p>",
         "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=50218195"
       },
       {
-        "title": "How Block Blast harvests its players for ad money",
-        "link": "https://ayoships.com/breakdowns/block-blast",
-        "description": "<p>Article URL: <a href=\"https://ayoships.com/breakdowns/block-blast\">https://ayoships.com/breakdowns/block-blast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217946\">https://news.ycombinator.com/item?id=50217946</a></p>\n<p>Points: 55</p>\n<p># Comments: 20</p>",
-        "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50217946"
-      },
-      {
         "title": "Apple Security Research Device",
         "link": "https://security.apple.com/research-device/",
-        "description": "<p>Article URL: <a href=\"https://security.apple.com/research-device/\">https://security.apple.com/research-device/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217903\">https://news.ycombinator.com/item?id=50217903</a></p>\n<p>Points: 71</p>\n<p># Comments: 22</p>",
+        "description": "<p>Article URL: <a href=\"https://security.apple.com/research-device/\">https://security.apple.com/research-device/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217903\">https://news.ycombinator.com/item?id=50217903</a></p>\n<p>Points: 115</p>\n<p># Comments: 50</p>",
         "pubDate": "Sat, 24 Oct 2026 02:36:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=50217903"
       },
       {
         "title": "Twelve years of distributed SQLite",
         "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "description": "<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 211</p>\n<p># Comments: 28</p>",
+        "description": "<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 294</p>\n<p># Comments: 43</p>",
         "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=50217500"
       },
       {
         "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
         "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117492375462459244\">https://grapheneos.social/@GrapheneOS/117492375462459244</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217495\">https://news.ycombinator.com/item?id=50217495</a></p>\n<p>Points: 98</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117492375462459244\">https://grapheneos.social/@GrapheneOS/117492375462459244</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217495\">https://news.ycombinator.com/item?id=50217495</a></p>\n<p>Points: 398</p>\n<p># Comments: 127</p>",
         "pubDate": "Sat, 24 Oct 2026 01:15:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=50217495"
       },
       {
-        "title": "One Man's Pan Am 747 Replica [video]",
-        "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vAFwHGGfPz4\">https://www.youtube.com/watch?v=vAFwHGGfPz4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215828\">https://news.ycombinator.com/item?id=50215828</a></p>\n<p>Points: 35</p>\n<p># Comments: 2</p>",
-        "pubDate": "Fri, 23 Oct 2026 21:46:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50215828"
-      },
-      {
         "title": "CVE Tracker",
         "link": "https://cve.0xosprey.com/",
-        "description": "<p>Article URL: <a href=\"https://cve.0xosprey.com/\">https://cve.0xosprey.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215530\">https://news.ycombinator.com/item?id=50215530</a></p>\n<p>Points: 172</p>\n<p># Comments: 62</p>",
+        "description": "<p>Article URL: <a href=\"https://cve.0xosprey.com/\">https://cve.0xosprey.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215530\">https://news.ycombinator.com/item?id=50215530</a></p>\n<p>Points: 200</p>\n<p># Comments: 70</p>",
         "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=50215530"
       },
       {
-        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-        "link": "https://corgi.computer/",
-        "description": "<p>Hey everyone,<p>Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.<p>I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:<p>I show you what the agents are up to, along with a running feed of their activity.\nThere's also a simple shortcut (F1) to go to the next unread agent.<p>I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.\nTheres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc.<p>Many small quality of life improvements to the terminal experience:\n- Links can be copied with a click, so no need to drag-select over many lines\n- cmd+v just pastes images (even on SSH)\n- images have a thumbnail preview.\n- Built-in CPU/Memory/GPU usage tracking, broken down by workspace<p>I assume you have access to cheap inference (Luna/Haiku/etc).\nIt just reuses the agents to organize things for you: what is this http link? what is this worktree about? what is each agent doing? \nIt's small but it made my environment feel more cozy.<p>On a personal note, I've been on a frustrating sick leave for a while now.\nI created Corgi to challenge myself, and see if I can go back.\nThe answer is more mixed than I had hoped, but I am happy with the result and thankful for the experience.<p>I hope you like it! a few friends & myself have been using it for a few weeks and it's been pretty nice.\nThere's still a lot to improve and some rough edges, so feedback would be greatly appreciated.<p>Thank you :)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214373\">https://news.ycombinator.com/item?id=50214373</a></p>\n<p>Points: 87</p>\n<p># Comments: 23</p>",
-        "pubDate": "Fri, 23 Oct 2026 19:46:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50214373"
-      },
-      {
         "title": "Dessa: Conversation Model trained only on speech",
         "link": "https://block.xyz/dessa",
-        "description": "<p>Article URL: <a href=\"https://block.xyz/dessa\">https://block.xyz/dessa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50213925\">https://news.ycombinator.com/item?id=50213925</a></p>\n<p>Points: 391</p>\n<p># Comments: 141</p>",
+        "description": "<p>Article URL: <a href=\"https://block.xyz/dessa\">https://block.xyz/dessa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50213925\">https://news.ycombinator.com/item?id=50213925</a></p>\n<p>Points: 434</p>\n<p># Comments: 165</p>",
         "pubDate": "Fri, 23 Oct 2026 19:09:54 +0000",
         "guid": "https://news.ycombinator.com/item?id=50213925"
       },
       {
-        "title": "Air Purifiers as White Noise Machines",
-        "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-        "description": "<p>Article URL: <a href=\"https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212507\">https://news.ycombinator.com/item?id=50212507</a></p>\n<p>Points: 131</p>\n<p># Comments: 120</p>",
-        "pubDate": "Fri, 23 Oct 2026 17:28:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50212507"
-      },
-      {
         "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
         "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "description": "<p><a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\" rel=\"nofollow\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a><p><a href=\"https://artificialanalysis.ai/models/kimi-k3-1-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/kimi-k3-1-pro</a><p><a href=\"https://www.modelcompare.ai/blog/china-open-source-ai\" rel=\"nofollow\">https://www.modelcompare.ai/blog/china-open-source-ai</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212065\">https://news.ycombinator.com/item?id=50212065</a></p>\n<p>Points: 922</p>\n<p># Comments: 542</p>",
+        "description": "<p><a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\" rel=\"nofollow\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a><p><a href=\"https://artificialanalysis.ai/models/kimi-k3-1-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/kimi-k3-1-pro</a><p><a href=\"https://www.modelcompare.ai/blog/china-open-source-ai\" rel=\"nofollow\">https://www.modelcompare.ai/blog/china-open-source-ai</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212065\">https://news.ycombinator.com/item?id=50212065</a></p>\n<p>Points: 1008</p>\n<p># Comments: 604</p>",
         "pubDate": "Fri, 23 Oct 2026 16:59:08 +0000",
         "guid": "https://news.ycombinator.com/item?id=50212065"
       },
       {
         "title": "Today, we hacked what we'd set out to hack: the iPhone",
         "link": "https://blog.calif.io/p/iphone",
-        "description": "<p>Article URL: <a href=\"https://blog.calif.io/p/iphone\">https://blog.calif.io/p/iphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211474\">https://news.ycombinator.com/item?id=50211474</a></p>\n<p>Points: 891</p>\n<p># Comments: 586</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.calif.io/p/iphone\">https://blog.calif.io/p/iphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211474\">https://news.ycombinator.com/item?id=50211474</a></p>\n<p>Points: 1003</p>\n<p># Comments: 627</p>",
         "pubDate": "Fri, 23 Oct 2026 16:21:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=50211474"
       },
       {
         "title": "Apple Music 404 Not Found",
         "link": "https://music.apple.com/this-url-doesnt-exist",
-        "description": "<p><a href=\"https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/\" rel=\"nofollow\">https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207910\">https://news.ycombinator.com/item?id=50207910</a></p>\n<p>Points: 770</p>\n<p># Comments: 233</p>",
+        "description": "<p><a href=\"https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/\" rel=\"nofollow\">https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207910\">https://news.ycombinator.com/item?id=50207910</a></p>\n<p>Points: 848</p>\n<p># Comments: 248</p>",
         "pubDate": "Fri, 23 Oct 2026 12:28:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=50207910"
       },
       {
         "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
         "link": "https://edjefferson.com/localwiki/",
-        "description": "<p>Article URL: <a href=\"https://edjefferson.com/localwiki/\">https://edjefferson.com/localwiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202285\">https://news.ycombinator.com/item?id=50202285</a></p>\n<p>Points: 1386</p>\n<p># Comments: 236</p>",
+        "description": "<p>Article URL: <a href=\"https://edjefferson.com/localwiki/\">https://edjefferson.com/localwiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202285\">https://news.ycombinator.com/item?id=50202285</a></p>\n<p>Points: 1464</p>\n<p># Comments: 238</p>",
         "pubDate": "Thu, 22 Oct 2026 23:01:18 +0000",
         "guid": "https://news.ycombinator.com/item?id=50202285"
       },
       {
         "title": "Canadians are running out of time to oppose Bill C-22",
         "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\">https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202114\">https://news.ycombinator.com/item?id=50202114</a></p>\n<p>Points: 418</p>\n<p># Comments: 223</p>",
+        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\">https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202114\">https://news.ycombinator.com/item?id=50202114</a></p>\n<p>Points: 470</p>\n<p># Comments: 242</p>",
         "pubDate": "Thu, 22 Oct 2026 22:43:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50202114"
+      },
+      {
+        "title": "How to run a city builder on 16 MHz",
+        "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+        "description": "<p>Article URL: <a href=\"https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/\">https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50194536\">https://news.ycombinator.com/item?id=50194536</a></p>\n<p>Points: 57</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 22 Oct 2026 12:40:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50194536"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-24T10:45:27.581Z",
+  "lastUpdated": "2026-10-24T15:47:47.732Z",
   "stats": {
     "feeds": 2,
     "articles": 20
