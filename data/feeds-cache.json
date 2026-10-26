@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-25T20:43:02.982Z"
+      "lastFetched": "2026-10-26T12:44:57.887Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-26T04:28:11.360Z"
+      "lastFetched": "2026-10-26T12:45:17.738Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Tasks as Code: Move Your Tickets into the Repository",
+        "link": "https://typemill.net/knowledge-hub/tasks-as-code",
+        "description": "<p>Article URL: <a href=\"https://typemill.net/knowledge-hub/tasks-as-code\">https://typemill.net/knowledge-hub/tasks-as-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241924\">https://news.ycombinator.com/item?id=50241924</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 26 Oct 2026 11:15:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50241924"
+      },
+      {
+        "title": "Websites Should Be Printable",
+        "link": "https://brennenputh.me/blog/printable-websites/",
+        "description": "<p>Article URL: <a href=\"https://brennenputh.me/blog/printable-websites/\">https://brennenputh.me/blog/printable-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241664\">https://news.ycombinator.com/item?id=50241664</a></p>\n<p>Points: 41</p>\n<p># Comments: 21</p>",
+        "pubDate": "Mon, 26 Oct 2026 10:32:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50241664"
+      },
+      {
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "link": "https://blocks.manifold3d.ch/",
+        "description": "<p>Article URL: <a href=\"https://blocks.manifold3d.ch/\">https://blocks.manifold3d.ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50240922\">https://news.ycombinator.com/item?id=50240922</a></p>\n<p>Points: 230</p>\n<p># Comments: 95</p>",
+        "pubDate": "Mon, 26 Oct 2026 08:46:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50240922"
+      },
+      {
+        "title": "Behind the scenes at the NeXT Computer office",
+        "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry",
+        "description": "<p>Article URL: <a href=\"https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry\">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238763\">https://news.ycombinator.com/item?id=50238763</a></p>\n<p>Points: 157</p>\n<p># Comments: 83</p>",
+        "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50238763"
+      },
+      {
+        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+        "description": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238739\">https://news.ycombinator.com/item?id=50238739</a></p>\n<p>Points: 169</p>\n<p># Comments: 59</p>",
+        "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50238739"
+      },
+      {
+        "title": "Show HN: TitleArt – Make text like it's 1997",
+        "link": "https://titleart.dvy.io/",
+        "description": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=50238708</a></p>\n<p>Points: 278</p>\n<p># Comments: 46</p>",
+        "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50238708"
+      },
+      {
+        "title": "IBM CEO says open weight models are now good and cheap on-prem",
+        "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "description": "<p>Article URL: <a href=\"https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238088\">https://news.ycombinator.com/item?id=50238088</a></p>\n<p>Points: 313</p>\n<p># Comments: 219</p>",
+        "pubDate": "Mon, 26 Oct 2026 01:47:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50238088"
+      },
+      {
+        "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+        "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+        "description": "<p>Article URL: <a href=\"https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category\">https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237712\">https://news.ycombinator.com/item?id=50237712</a></p>\n<p>Points: 162</p>\n<p># Comments: 96</p>",
+        "pubDate": "Mon, 26 Oct 2026 01:03:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50237712"
+      },
+      {
+        "title": "Steal My Bitcoin CTF PoC",
+        "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+        "description": "<p>Article URL: <a href=\"https://github.com/KillaBoi/StealMyBitcoin-PoC\">https://github.com/KillaBoi/StealMyBitcoin-PoC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237379\">https://news.ycombinator.com/item?id=50237379</a></p>\n<p>Points: 135</p>\n<p># Comments: 36</p>",
+        "pubDate": "Mon, 26 Oct 2026 00:15:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50237379"
+      },
+      {
+        "title": "Attention Is Not What You Need (2025)",
+        "link": "https://arxiv.org/abs/2512.19428",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.19428\">https://arxiv.org/abs/2512.19428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237224\">https://news.ycombinator.com/item?id=50237224</a></p>\n<p>Points: 139</p>\n<p># Comments: 46</p>",
+        "pubDate": "Sun, 25 Oct 2026 23:52:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50237224"
+      },
+      {
+        "title": "F-Zero X on Nintendo 3DS",
+        "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "description": "<p>Article URL: <a href=\"https://hypnotize.works/gdx-3ds/postmortem/index.html\">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237078\">https://news.ycombinator.com/item?id=50237078</a></p>\n<p>Points: 134</p>\n<p># Comments: 74</p>",
+        "pubDate": "Sun, 25 Oct 2026 23:27:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50237078"
+      },
+      {
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "link": "https://minimaxir.com/2026/10/cheap-llms/",
+        "description": "<p>Article URL: <a href=\"https://minimaxir.com/2026/10/cheap-llms/\">https://minimaxir.com/2026/10/cheap-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236102\">https://news.ycombinator.com/item?id=50236102</a></p>\n<p>Points: 358</p>\n<p># Comments: 338</p>",
+        "pubDate": "Sun, 25 Oct 2026 21:11:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50236102"
+      },
+      {
+        "title": "The State of Context Engineering",
+        "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "description": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235780\">https://news.ycombinator.com/item?id=50235780</a></p>\n<p>Points: 207</p>\n<p># Comments: 50</p>",
+        "pubDate": "Sun, 25 Oct 2026 20:32:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50235780"
+      },
+      {
+        "title": "Why I Am a Programmer",
+        "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+        "description": "<p>Article URL: <a href=\"https://www.alfie.wtf/programming/why-i-am-a-programmer.html\">https://www.alfie.wtf/programming/why-i-am-a-programmer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235017\">https://news.ycombinator.com/item?id=50235017</a></p>\n<p>Points: 259</p>\n<p># Comments: 80</p>",
+        "pubDate": "Sun, 25 Oct 2026 19:11:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50235017"
+      },
+      {
+        "title": "Where the Romans Fought (interactive map)",
+        "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+        "description": "<p>Article URL: <a href=\"https://iosiflazaridis.github.io/battles-of-the-romans/\">https://iosiflazaridis.github.io/battles-of-the-romans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234879\">https://news.ycombinator.com/item?id=50234879</a></p>\n<p>Points: 120</p>\n<p># Comments: 48</p>",
+        "pubDate": "Sun, 25 Oct 2026 18:58:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50234879"
+      },
+      {
+        "title": "Dolly Parton's Imagination Library",
+        "link": "https://imaginationlibrary.com/",
+        "description": "<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234474\">https://news.ycombinator.com/item?id=50234474</a></p>\n<p>Points: 579</p>\n<p># Comments: 98</p>",
+        "pubDate": "Sun, 25 Oct 2026 18:23:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50234474"
+      },
+      {
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "link": "https://lynchlab.net/llm-skin-cancer",
+        "description": "<p>Article URL: <a href=\"https://lynchlab.net/llm-skin-cancer\">https://lynchlab.net/llm-skin-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233779\">https://news.ycombinator.com/item?id=50233779</a></p>\n<p>Points: 586</p>\n<p># Comments: 250</p>",
+        "pubDate": "Sun, 25 Oct 2026 17:15:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50233779"
+      },
+      {
+        "title": "Active incident at Dreamhost forcing password reset",
+        "link": "https://www.dreamhoststatus.com/",
+        "description": "<p>Article URL: <a href=\"https://www.dreamhoststatus.com/\">https://www.dreamhoststatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50231166\">https://news.ycombinator.com/item?id=50231166</a></p>\n<p>Points: 159</p>\n<p># Comments: 62</p>",
+        "pubDate": "Sun, 25 Oct 2026 13:09:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50231166"
+      },
+      {
+        "title": "Show HN: A Truly Modular Keyboard",
+        "link": "https://github.com/notaroomba/keybytes",
+        "description": "<p>Article URL: <a href=\"https://github.com/notaroomba/keybytes\">https://github.com/notaroomba/keybytes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50228115\">https://news.ycombinator.com/item?id=50228115</a></p>\n<p>Points: 190</p>\n<p># Comments: 65</p>",
+        "pubDate": "Sun, 25 Oct 2026 03:47:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50228115"
+      },
+      {
+        "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+        "link": "https://adrs.systems",
+        "description": "<p>Why is this worth your time? Essentially, this solves two problems of AI-assisted programming:<p>(a) the first problem is how to do <i>oversight</i> and <i>what</i> do oversight <i>of</i> and this is solved through the ORRCF (for  Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models are supposed to surface all their doubts with fully fleshed out recommendations, with falsifier, to be approved or overridden)<p>(b) the second problem is how to scaffold sustainable AI-written code; the ADRs (Architectural Deliberation Records, after Nygard's decision records) written by the models, summarize all the thought process involved in any design decision and provides the blueprint for the code.<p>In tandem, the records provide both the reason why certain non-obvious design choices were made, from a constant, to a library choice, to an ordering in an operation; and also under what conditions different decisions would be made, for instance, in a different platform, or under different latency requirements, or for a different audience, and so on.<p>This is a framework I've been working for over a year, that is the starting point of all my projects. It involves a lot of moving parts and my challenge is figuring out onboarding. I'm hoping the plugin, ADRs4AI/plugins, just created and now also submitted to Anthropic's marketplace, will make it easier. I am also in the process of recording introductory videos.<p>I would like feedback on the onboarding, on what you make of the currently online materials, and how I could make any of this clearer. Thanks!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227041\">https://news.ycombinator.com/item?id=50227041</a></p>\n<p>Points: 53</p>\n<p># Comments: 31</p>",
+        "pubDate": "Sun, 25 Oct 2026 00:43:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50227041"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-26T04:28:11.360Z",
+  "lastUpdated": "2026-10-26T12:45:17.738Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
