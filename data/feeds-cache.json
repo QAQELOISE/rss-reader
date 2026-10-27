@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-27T04:47:06.291Z"
+      "lastFetched": "2026-10-27T11:59:21.673Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-27T04:47:11.931Z"
+      "lastFetched": "2026-10-27T11:59:38.634Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Software may be getting worse, but it used to be horrible",
+        "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+        "description": "<p>Article URL: <a href=\"https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/\">https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257548\">https://news.ycombinator.com/item?id=50257548</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 27 Oct 2026 11:30:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50257548"
+      },
+      {
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup\">https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257326\">https://news.ycombinator.com/item?id=50257326</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 27 Oct 2026 11:08:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50257326"
+      },
+      {
+        "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+        "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "description": "<p>Article URL: <a href=\"https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/\">https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256985\">https://news.ycombinator.com/item?id=50256985</a></p>\n<p>Points: 126</p>\n<p># Comments: 88</p>",
+        "pubDate": "Tue, 27 Oct 2026 10:27:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50256985"
+      },
+      {
+        "title": "Gforth 1.0",
+        "link": "https://gforth.org/manual/1.0/NEWS.html",
+        "description": "<p>Article URL: <a href=\"https://gforth.org/manual/1.0/NEWS.html\">https://gforth.org/manual/1.0/NEWS.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256952\">https://news.ycombinator.com/item?id=50256952</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 27 Oct 2026 10:23:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50256952"
+      },
+      {
+        "title": "I will no longer upload to NEW",
+        "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+        "description": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel/2026/10/msg00263.html\">https://lists.debian.org/debian-devel/2026/10/msg00263.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256738\">https://news.ycombinator.com/item?id=50256738</a></p>\n<p>Points: 110</p>\n<p># Comments: 42</p>",
+        "pubDate": "Tue, 27 Oct 2026 09:59:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50256738"
+      },
+      {
+        "title": "The Mythical Man-Month in the Age of AI",
+        "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "description": "<p>Article URL: <a href=\"https://j11g.com/the-mythical-man-month-in-the-age-of-ai\">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255298\">https://news.ycombinator.com/item?id=50255298</a></p>\n<p>Points: 211</p>\n<p># Comments: 151</p>",
+        "pubDate": "Tue, 27 Oct 2026 06:25:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50255298"
+      },
+      {
+        "title": "Writing about pratt parsing so I remember it",
+        "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+        "description": "<p>Article URL: <a href=\"https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html\">https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255177\">https://news.ycombinator.com/item?id=50255177</a></p>\n<p>Points: 45</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 27 Oct 2026 06:02:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50255177"
+      },
+      {
+        "title": "I still teach OpenGL ES 3.0",
+        "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+        "description": "<p>Article URL: <a href=\"https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253939\">https://news.ycombinator.com/item?id=50253939</a></p>\n<p>Points: 79</p>\n<p># Comments: 48</p>",
+        "pubDate": "Tue, 27 Oct 2026 02:15:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50253939"
+      },
+      {
         "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
         "link": "https://github.com/otya128/winevdm",
-        "description": "<p>Article URL: <a href=\"https://github.com/otya128/winevdm\">https://github.com/otya128/winevdm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253529\">https://news.ycombinator.com/item?id=50253529</a></p>\n<p>Points: 42</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/otya128/winevdm\">https://github.com/otya128/winevdm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253529\">https://news.ycombinator.com/item?id=50253529</a></p>\n<p>Points: 97</p>\n<p># Comments: 26</p>",
         "pubDate": "Tue, 27 Oct 2026 01:15:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=50253529"
       },
       {
         "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
         "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p>\n<p>Points: 98</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p>\n<p>Points: 145</p>\n<p># Comments: 47</p>",
         "pubDate": "Mon, 26 Oct 2026 22:41:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50252159"
       },
       {
-        "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-        "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-        "description": "<p>Article URL: <a href=\"https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252008\">https://news.ycombinator.com/item?id=50252008</a></p>\n<p>Points: 34</p>\n<p># Comments: 26</p>",
-        "pubDate": "Mon, 26 Oct 2026 22:27:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50252008"
-      },
-      {
         "title": "The Exponential Time Hypothesis Is False [pdf]",
         "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-        "description": "<p>See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251661\">https://news.ycombinator.com/item?id=50251661</a></p>\n<p>Points: 429</p>\n<p># Comments: 164</p>",
+        "description": "<p>See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251661\">https://news.ycombinator.com/item?id=50251661</a></p>\n<p>Points: 661</p>\n<p># Comments: 250</p>",
         "pubDate": "Mon, 26 Oct 2026 21:59:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50251661"
       },
       {
         "title": "Three new discoveries in mathematics, computer science, and physics",
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-        "description": "<p>Related:<p><i>The Exponential Time Hypothesis Is False [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50251661\">https://news.ycombinator.com/item?id=50251661</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p>\n<p>Points: 638</p>\n<p># Comments: 273</p>",
+        "description": "<p>Related:<p><i>The Exponential Time Hypothesis Is False [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50251661\">https://news.ycombinator.com/item?id=50251661</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p>\n<p>Points: 962</p>\n<p># Comments: 501</p>",
         "pubDate": "Mon, 26 Oct 2026 21:35:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=50251344"
       },
       {
         "title": "Type Server Protocol",
         "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-        "description": "<p>Article URL: <a href=\"https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248371\">https://news.ycombinator.com/item?id=50248371</a></p>\n<p>Points: 211</p>\n<p># Comments: 145</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248371\">https://news.ycombinator.com/item?id=50248371</a></p>\n<p>Points: 249</p>\n<p># Comments: 169</p>",
         "pubDate": "Mon, 26 Oct 2026 18:14:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=50248371"
       },
       {
-        "title": "GPT-6.1 Terra",
-        "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-        "description": "<p><a href=\"https://developers.openai.com/api/docs/models/gpt-6.1-terra\" rel=\"nofollow\">https://developers.openai.com/api/docs/models/gpt-6.1-terra</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248124\">https://news.ycombinator.com/item?id=50248124</a></p>\n<p>Points: 547</p>\n<p># Comments: 342</p>",
-        "pubDate": "Mon, 26 Oct 2026 18:01:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50248124"
-      },
-      {
         "title": "Oldest GUI application that still runs on Windows 11",
         "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-        "description": "<p>Article URL: <a href=\"https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/\">https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248055\">https://news.ycombinator.com/item?id=50248055</a></p>\n<p>Points: 342</p>\n<p># Comments: 206</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/\">https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248055\">https://news.ycombinator.com/item?id=50248055</a></p>\n<p>Points: 458</p>\n<p># Comments: 265</p>",
         "pubDate": "Mon, 26 Oct 2026 17:56:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=50248055"
       },
       {
         "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
         "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-        "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html\">http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247928\">https://news.ycombinator.com/item?id=50247928</a></p>\n<p>Points: 141</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html\">http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247928\">https://news.ycombinator.com/item?id=50247928</a></p>\n<p>Points: 182</p>\n<p># Comments: 85</p>",
         "pubDate": "Mon, 26 Oct 2026 17:49:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=50247928"
       },
       {
         "title": "Nietzschian Debugger",
         "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
-        "description": "<p>Article URL: <a href=\"https://github.com/DilawarShafiq/nietzschian-debugger\">https://github.com/DilawarShafiq/nietzschian-debugger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247493\">https://news.ycombinator.com/item?id=50247493</a></p>\n<p>Points: 149</p>\n<p># Comments: 49</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/DilawarShafiq/nietzschian-debugger\">https://github.com/DilawarShafiq/nietzschian-debugger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247493\">https://news.ycombinator.com/item?id=50247493</a></p>\n<p>Points: 188</p>\n<p># Comments: 56</p>",
         "pubDate": "Mon, 26 Oct 2026 17:25:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=50247493"
       },
       {
         "title": "CSS-Tricks has a new owner",
         "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-        "description": "<p>Article URL: <a href=\"https://css-tricks.com/css-tricks-has-a-new-owner/\">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245831\">https://news.ycombinator.com/item?id=50245831</a></p>\n<p>Points: 406</p>\n<p># Comments: 93</p>",
+        "description": "<p>Article URL: <a href=\"https://css-tricks.com/css-tricks-has-a-new-owner/\">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245831\">https://news.ycombinator.com/item?id=50245831</a></p>\n<p>Points: 495</p>\n<p># Comments: 107</p>",
         "pubDate": "Mon, 26 Oct 2026 15:51:23 +0000",
         "guid": "https://news.ycombinator.com/item?id=50245831"
       },
       {
-        "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-        "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-        "description": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\">https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245524\">https://news.ycombinator.com/item?id=50245524</a></p>\n<p>Points: 833</p>\n<p># Comments: 749</p>",
-        "pubDate": "Mon, 26 Oct 2026 15:35:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50245524"
-      },
-      {
         "title": "Solar power is becoming bigger than nuclear",
         "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\">https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245385\">https://news.ycombinator.com/item?id=50245385</a></p>\n<p>Points: 192</p>\n<p># Comments: 309</p>",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\">https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245385\">https://news.ycombinator.com/item?id=50245385</a></p>\n<p>Points: 373</p>\n<p># Comments: 538</p>",
         "pubDate": "Mon, 26 Oct 2026 15:26:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50245385"
       },
       {
         "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
         "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-        "description": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/building-reasoning-models\">https://magazine.sebastianraschka.com/p/building-reasoning-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245138\">https://news.ycombinator.com/item?id=50245138</a></p>\n<p>Points: 616</p>\n<p># Comments: 87</p>",
+        "description": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/building-reasoning-models\">https://magazine.sebastianraschka.com/p/building-reasoning-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245138\">https://news.ycombinator.com/item?id=50245138</a></p>\n<p>Points: 734</p>\n<p># Comments: 101</p>",
         "pubDate": "Mon, 26 Oct 2026 15:11:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=50245138"
       },
       {
         "title": "New iPad mini",
         "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/\">https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50243061\">https://news.ycombinator.com/item?id=50243061</a></p>\n<p>Points: 160</p>\n<p># Comments: 437</p>",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/\">https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50243061\">https://news.ycombinator.com/item?id=50243061</a></p>\n<p>Points: 220</p>\n<p># Comments: 535</p>",
         "pubDate": "Mon, 26 Oct 2026 13:13:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50243061"
-      },
-      {
-        "title": "Anthropic S-1",
-        "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-        "description": "<p>Article URL: <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\">https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242939\">https://news.ycombinator.com/item?id=50242939</a></p>\n<p>Points: 1529</p>\n<p># Comments: 1487</p>",
-        "pubDate": "Mon, 26 Oct 2026 13:04:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50242939"
-      },
-      {
-        "title": "Fixing Tool-Call Accuracy in vLLM",
-        "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-        "description": "<p>Article URL: <a href=\"https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm\">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242870\">https://news.ycombinator.com/item?id=50242870</a></p>\n<p>Points: 154</p>\n<p># Comments: 65</p>",
-        "pubDate": "Mon, 26 Oct 2026 12:59:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50242870"
-      },
-      {
-        "title": "Pharo 14",
-        "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-        "description": "<p>Article URL: <a href=\"https://pharo.org/news/2026-10-26-Pharo14Release.html\">https://pharo.org/news/2026-10-26-Pharo14Release.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241925\">https://news.ycombinator.com/item?id=50241925</a></p>\n<p>Points: 246</p>\n<p># Comments: 66</p>",
-        "pubDate": "Mon, 26 Oct 2026 11:15:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50241925"
-      },
-      {
-        "title": "Websites Should Be Printable",
-        "link": "https://brennenputh.me/blog/printable-websites/",
-        "description": "<p>Article URL: <a href=\"https://brennenputh.me/blog/printable-websites/\">https://brennenputh.me/blog/printable-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241664\">https://news.ycombinator.com/item?id=50241664</a></p>\n<p>Points: 301</p>\n<p># Comments: 183</p>",
-        "pubDate": "Mon, 26 Oct 2026 10:32:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50241664"
-      },
-      {
-        "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-        "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-        "description": "<p>Article URL: <a href=\"https://shraiwi.com/blog/simd-fast-esp32s3/\">https://shraiwi.com/blog/simd-fast-esp32s3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236681\">https://news.ycombinator.com/item?id=50236681</a></p>\n<p>Points: 187</p>\n<p># Comments: 57</p>",
-        "pubDate": "Sun, 25 Oct 2026 22:29:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50236681"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-27T04:47:11.931Z",
+  "lastUpdated": "2026-10-27T11:59:38.634Z",
   "stats": {
     "feeds": 2,
     "articles": 20
