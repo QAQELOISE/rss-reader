@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-27T17:54:58.939Z"
+      "lastFetched": "2026-10-27T22:05:11.056Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-27T17:55:18.533Z"
+      "lastFetched": "2026-10-27T22:05:24.471Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Mossad Has Devices Like the Exploding Pagers in \"Every Country You Can Imagine\"",
-        "link": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
-        "description": "<p>Article URL: <a href=\"https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html\">https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262668\">https://news.ycombinator.com/item?id=50262668</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 27 Oct 2026 17:31:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50262668"
+        "title": "One year of Dioxus fullstack in production: the good, the painful",
+        "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+        "description": "<p>Article URL: <a href=\"https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful\">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265960\">https://news.ycombinator.com/item?id=50265960</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+        "pubDate": "Tue, 27 Oct 2026 21:19:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50265960"
       },
       {
-        "title": "Ghostty 1.4.0",
+        "title": "Early progress on accelerating drug development with Claude",
+        "link": "https://www.anthropic.com/research/early-progress-drug-development",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Points: 43</p>\n<p># Comments: 24</p>",
+        "pubDate": "Tue, 27 Oct 2026 20:50:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50265609"
+      },
+      {
+        "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+        "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+        "description": "<p>Article URL: <a href=\"https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265594\">https://news.ycombinator.com/item?id=50265594</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+        "pubDate": "Tue, 27 Oct 2026 20:48:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50265594"
+      },
+      {
+        "title": "Hex Raises $100M",
+        "link": "https://hex.tech/blog/hex-new-era/",
+        "description": "<p>Article URL: <a href=\"https://hex.tech/blog/hex-new-era/\">https://hex.tech/blog/hex-new-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265413\">https://news.ycombinator.com/item?id=50265413</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 27 Oct 2026 20:36:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50265413"
+      },
+      {
+        "title": "Four Months of Zig",
+        "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "description": "<p>Article URL: <a href=\"https://gracefulliberty.com/articles/four-months-of-zig/\">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265128\">https://news.ycombinator.com/item?id=50265128</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 27 Oct 2026 20:13:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50265128"
+      },
+      {
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "link": "https://tailscale.com/ssh-investigation-update",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/ssh-investigation-update\">https://tailscale.com/ssh-investigation-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264857\">https://news.ycombinator.com/item?id=50264857</a></p>\n<p>Points: 111</p>\n<p># Comments: 58</p>",
+        "pubDate": "Tue, 27 Oct 2026 19:55:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50264857"
+      },
+      {
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "link": "https://www.brangus.io/survival-llm",
+        "description": "<p>Article URL: <a href=\"https://www.brangus.io/survival-llm\">https://www.brangus.io/survival-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264853\">https://news.ycombinator.com/item?id=50264853</a></p>\n<p>Points: 85</p>\n<p># Comments: 58</p>",
+        "pubDate": "Tue, 27 Oct 2026 19:55:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50264853"
+      },
+      {
+        "title": "Discord will soon let anyone find public server messages through Google",
+        "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+        "description": "<p>Article URL: <a href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263854\">https://news.ycombinator.com/item?id=50263854</a></p>\n<p>Points: 146</p>\n<p># Comments: 95</p>",
+        "pubDate": "Tue, 27 Oct 2026 18:44:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50263854"
+      },
+      {
+        "title": "Three TLS Bugs in GoAhead",
+        "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+        "description": "<p>Article URL: <a href=\"https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead\">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263701\">https://news.ycombinator.com/item?id=50263701</a></p>\n<p>Points: 38</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 27 Oct 2026 18:33:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50263701"
+      },
+      {
+        "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+        "link": "https://www.liquid.ai/blog/lfm3",
+        "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 86</p>\n<p># Comments: 31</p>",
+        "pubDate": "Tue, 27 Oct 2026 17:04:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50262229"
+      },
+      {
+        "title": "Ghostty 1.4",
         "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "description": "<p>Article URL: <a href=\"https://ghostty.org/docs/install/release-notes/1-4-0\">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261998\">https://news.ycombinator.com/item?id=50261998</a></p>\n<p>Points: 81</p>\n<p># Comments: 23</p>",
+        "description": "<p>Article URL: <a href=\"https://ghostty.org/docs/install/release-notes/1-4-0\">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261998\">https://news.ycombinator.com/item?id=50261998</a></p>\n<p>Points: 544</p>\n<p># Comments: 160</p>",
         "pubDate": "Tue, 27 Oct 2026 16:51:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261998"
       },
       {
-        "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+        "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
         "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "description": "<p>Article URL: <a href=\"https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261819\">https://news.ycombinator.com/item?id=50261819</a></p>\n<p>Points: 81</p>\n<p># Comments: 19</p>",
+        "description": "<p>Article URL: <a href=\"https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261819\">https://news.ycombinator.com/item?id=50261819</a></p>\n<p>Points: 298</p>\n<p># Comments: 232</p>",
         "pubDate": "Tue, 27 Oct 2026 16:40:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261819"
       },
       {
-        "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-        "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/\">https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261784\">https://news.ycombinator.com/item?id=50261784</a></p>\n<p>Points: 102</p>\n<p># Comments: 26</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:38:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261784"
-      },
-      {
         "title": "Classification of Finite Simple Groups Formalized in Lean",
         "link": "https://cfsg.axiommath.ai/",
-        "description": "<p>Article URL: <a href=\"https://cfsg.axiommath.ai/\">https://cfsg.axiommath.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261647\">https://news.ycombinator.com/item?id=50261647</a></p>\n<p>Points: 35</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://cfsg.axiommath.ai/\">https://cfsg.axiommath.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261647\">https://news.ycombinator.com/item?id=50261647</a></p>\n<p>Points: 140</p>\n<p># Comments: 33</p>",
         "pubDate": "Tue, 27 Oct 2026 16:29:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261647"
       },
       {
-        "title": "Vicious Cycles: Theses on a philosophy of news",
-        "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-        "description": "<p>Article URL: <a href=\"https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/\">https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261623\">https://news.ycombinator.com/item?id=50261623</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:27:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261623"
-      },
-      {
-        "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-        "link": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-        "description": "<p>Article URL: <a href=\"https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/\">https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261584\">https://news.ycombinator.com/item?id=50261584</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:25:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261584"
+        "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+        "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+        "description": "<p>Article URL: <a href=\"https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova\">https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261589\">https://news.ycombinator.com/item?id=50261589</a></p>\n<p>Points: 163</p>\n<p># Comments: 78</p>",
+        "pubDate": "Tue, 27 Oct 2026 16:25:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50261589"
       },
       {
         "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
         "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-        "description": "<p>Article URL: <a href=\"https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/\">https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261583\">https://news.ycombinator.com/item?id=50261583</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/\">https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261583\">https://news.ycombinator.com/item?id=50261583</a></p>\n<p>Points: 47</p>\n<p># Comments: 5</p>",
         "pubDate": "Tue, 27 Oct 2026 16:25:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261583"
       },
       {
-        "title": "Antique Fonts Collection – Restored 19th Century Typefaces",
-        "link": "https://centurylibrary.com/collection/antique-fonts/",
-        "description": "<p>Article URL: <a href=\"https://centurylibrary.com/collection/antique-fonts/\">https://centurylibrary.com/collection/antique-fonts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261579\">https://news.ycombinator.com/item?id=50261579</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:24:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261579"
-      },
-      {
-        "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
-        "link": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
-        "description": "<p>Article URL: <a href=\"https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf\">https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261544\">https://news.ycombinator.com/item?id=50261544</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:21:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261544"
-      },
-      {
-        "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
+        "title": "New 14‑inch MacBook Pro with M6",
         "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261352\">https://news.ycombinator.com/item?id=50261352</a></p>\n<p>Points: 69</p>\n<p># Comments: 61</p>",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261352\">https://news.ycombinator.com/item?id=50261352</a></p>\n<p>Points: 215</p>\n<p># Comments: 256</p>",
         "pubDate": "Tue, 27 Oct 2026 16:08:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261352"
       },
       {
         "title": "Genie 4",
         "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 250</p>\n<p># Comments: 134</p>",
+        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 582</p>\n<p># Comments: 354</p>",
         "pubDate": "Tue, 27 Oct 2026 16:06:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261319"
       },
       {
-        "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-        "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-        "description": "<p>Article URL: <a href=\"https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment\">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260960\">https://news.ycombinator.com/item?id=50260960</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
-        "pubDate": "Tue, 27 Oct 2026 15:39:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50260960"
-      },
-      {
         "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
         "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-        "description": "<p>Article URL: <a href=\"https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260814\">https://news.ycombinator.com/item?id=50260814</a></p>\n<p>Points: 119</p>\n<p># Comments: 48</p>",
+        "description": "<p>Article URL: <a href=\"https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260814\">https://news.ycombinator.com/item?id=50260814</a></p>\n<p>Points: 368</p>\n<p># Comments: 202</p>",
         "pubDate": "Tue, 27 Oct 2026 15:28:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=50260814"
       },
       {
-        "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-        "link": "https://spec-first.dev/",
-        "description": "<p>Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260571\">https://news.ycombinator.com/item?id=50260571</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-        "pubDate": "Tue, 27 Oct 2026 15:12:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50260571"
-      },
-      {
-        "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-        "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497\">https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260526\">https://news.ycombinator.com/item?id=50260526</a></p>\n<p>Points: 71</p>\n<p># Comments: 12</p>",
-        "pubDate": "Tue, 27 Oct 2026 15:09:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50260526"
-      },
-      {
-        "title": "The US government is hiding secret court ruling about how it spies on Americans",
+        "title": "US Government is hiding a secret court ruling about how it spies on Americans",
         "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259604\">https://news.ycombinator.com/item?id=50259604</a></p>\n<p>Points: 396</p>\n<p># Comments: 127</p>",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259604\">https://news.ycombinator.com/item?id=50259604</a></p>\n<p>Points: 667</p>\n<p># Comments: 236</p>",
         "pubDate": "Tue, 27 Oct 2026 14:06:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=50259604"
       },
       {
-        "title": "Is my data used for model training?",
-        "link": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-        "description": "<p>Article URL: <a href=\"https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training\">https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259406\">https://news.ycombinator.com/item?id=50259406</a></p>\n<p>Points: 174</p>\n<p># Comments: 75</p>",
-        "pubDate": "Tue, 27 Oct 2026 13:56:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50259406"
-      },
-      {
-        "title": "PHP2Shell: Exploitation attempts and remediation trends",
-        "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-        "description": "<p>Article URL: <a href=\"https://www.wiz.io/blog/php2shell-exploitation-so-far\">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259343\">https://news.ycombinator.com/item?id=50259343</a></p>\n<p>Points: 154</p>\n<p># Comments: 51</p>",
-        "pubDate": "Tue, 27 Oct 2026 13:52:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50259343"
-      },
-      {
         "title": "Here be monsters: What do you still need to know when agents do the work?",
         "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-        "description": "<p>Article URL: <a href=\"https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258868\">https://news.ycombinator.com/item?id=50258868</a></p>\n<p>Points: 95</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258868\">https://news.ycombinator.com/item?id=50258868</a></p>\n<p>Points: 131</p>\n<p># Comments: 69</p>",
         "pubDate": "Tue, 27 Oct 2026 13:23:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=50258868"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-27T17:55:18.533Z",
+  "lastUpdated": "2026-10-27T22:05:24.471Z",
   "stats": {
     "feeds": 2,
     "articles": 20
