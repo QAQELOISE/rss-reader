@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-27T22:05:11.056Z"
+      "lastFetched": "2026-10-28T05:21:28.756Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-27T22:05:24.471Z"
+      "lastFetched": "2026-10-28T05:21:54.823Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "One year of Dioxus fullstack in production: the good, the painful",
-        "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-        "description": "<p>Article URL: <a href=\"https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful\">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265960\">https://news.ycombinator.com/item?id=50265960</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
-        "pubDate": "Tue, 27 Oct 2026 21:19:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50265960"
+        "title": "Git for US Legislation",
+        "link": "https://lexifina.com/blog/git-for-the-us-code",
+        "description": "<p>Article URL: <a href=\"https://lexifina.com/blog/git-for-the-us-code\">https://lexifina.com/blog/git-for-the-us-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a></p>\n<p>Points: 133</p>\n<p># Comments: 61</p>",
+        "pubDate": "Wed, 28 Oct 2026 01:47:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50268380"
+      },
+      {
+        "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+        "link": "https://github.com/maharmstone/moxnox",
+        "description": "<p>Article URL: <a href=\"https://github.com/maharmstone/moxnox\">https://github.com/maharmstone/moxnox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50267569\">https://news.ycombinator.com/item?id=50267569</a></p>\n<p>Points: 37</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 27 Oct 2026 23:53:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50267569"
+      },
+      {
+        "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+        "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+        "description": "<p>Article URL: <a href=\"https://www.bettascore.ai/research/reliability-reviewers-vs-owners\">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266780\">https://news.ycombinator.com/item?id=50266780</a></p>\n<p>Points: 94</p>\n<p># Comments: 77</p>",
+        "pubDate": "Tue, 27 Oct 2026 22:31:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50266780"
+      },
+      {
+        "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+        "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/expanding-partnership-gsa\">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266701\">https://news.ycombinator.com/item?id=50266701</a></p>\n<p>Points: 34</p>\n<p># Comments: 24</p>",
+        "pubDate": "Tue, 27 Oct 2026 22:23:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50266701"
       },
       {
         "title": "Early progress on accelerating drug development with Claude",
         "link": "https://www.anthropic.com/research/early-progress-drug-development",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Points: 43</p>\n<p># Comments: 24</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Points: 182</p>\n<p># Comments: 164</p>",
         "pubDate": "Tue, 27 Oct 2026 20:50:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=50265609"
       },
       {
         "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
         "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-        "description": "<p>Article URL: <a href=\"https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265594\">https://news.ycombinator.com/item?id=50265594</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+        "description": "<p>Article URL: <a href=\"https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265594\">https://news.ycombinator.com/item?id=50265594</a></p>\n<p>Points: 127</p>\n<p># Comments: 59</p>",
         "pubDate": "Tue, 27 Oct 2026 20:48:49 +0000",
         "guid": "https://news.ycombinator.com/item?id=50265594"
       },
       {
-        "title": "Hex Raises $100M",
-        "link": "https://hex.tech/blog/hex-new-era/",
-        "description": "<p>Article URL: <a href=\"https://hex.tech/blog/hex-new-era/\">https://hex.tech/blog/hex-new-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265413\">https://news.ycombinator.com/item?id=50265413</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 27 Oct 2026 20:36:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50265413"
+        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+        "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/\">https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265393\">https://news.ycombinator.com/item?id=50265393</a></p>\n<p>Points: 69</p>\n<p># Comments: 17</p>",
+        "pubDate": "Tue, 27 Oct 2026 20:35:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50265393"
       },
       {
         "title": "Four Months of Zig",
         "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-        "description": "<p>Article URL: <a href=\"https://gracefulliberty.com/articles/four-months-of-zig/\">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265128\">https://news.ycombinator.com/item?id=50265128</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://gracefulliberty.com/articles/four-months-of-zig/\">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265128\">https://news.ycombinator.com/item?id=50265128</a></p>\n<p>Points: 96</p>\n<p># Comments: 58</p>",
         "pubDate": "Tue, 27 Oct 2026 20:13:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=50265128"
       },
       {
         "title": "Tailscale SSH: Investigation and remediation update",
         "link": "https://tailscale.com/ssh-investigation-update",
-        "description": "<p>Article URL: <a href=\"https://tailscale.com/ssh-investigation-update\">https://tailscale.com/ssh-investigation-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264857\">https://news.ycombinator.com/item?id=50264857</a></p>\n<p>Points: 111</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://tailscale.com/ssh-investigation-update\">https://tailscale.com/ssh-investigation-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264857\">https://news.ycombinator.com/item?id=50264857</a></p>\n<p>Points: 242</p>\n<p># Comments: 122</p>",
         "pubDate": "Tue, 27 Oct 2026 19:55:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=50264857"
       },
       {
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "link": "https://www.brangus.io/survival-llm",
-        "description": "<p>Article URL: <a href=\"https://www.brangus.io/survival-llm\">https://www.brangus.io/survival-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264853\">https://news.ycombinator.com/item?id=50264853</a></p>\n<p>Points: 85</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://www.brangus.io/survival-llm\">https://www.brangus.io/survival-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264853\">https://news.ycombinator.com/item?id=50264853</a></p>\n<p>Points: 255</p>\n<p># Comments: 120</p>",
         "pubDate": "Tue, 27 Oct 2026 19:55:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=50264853"
       },
       {
-        "title": "Discord will soon let anyone find public server messages through Google",
-        "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-        "description": "<p>Article URL: <a href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263854\">https://news.ycombinator.com/item?id=50263854</a></p>\n<p>Points: 146</p>\n<p># Comments: 95</p>",
-        "pubDate": "Tue, 27 Oct 2026 18:44:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50263854"
-      },
-      {
-        "title": "Three TLS Bugs in GoAhead",
-        "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-        "description": "<p>Article URL: <a href=\"https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead\">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263701\">https://news.ycombinator.com/item?id=50263701</a></p>\n<p>Points: 38</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 27 Oct 2026 18:33:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50263701"
+        "title": "Radio-tagged Monarch butterflies",
+        "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+        "description": "<p><a href=\"https://celltracktech.com/pages/blumorpho\" rel=\"nofollow\">https://celltracktech.com/pages/blumorpho</a><p><a href=\"https://monarchresearch.org/news-and-events/monarch-research-launches-blumorpho-tagging-study\" rel=\"nofollow\">https://monarchresearch.org/news-and-events/monarch-research...</a><p><a href=\"https://monarchwatch.org/radiotag/\" rel=\"nofollow\">https://monarchwatch.org/radiotag/</a><p><a href=\"https://swmonarchs.org/ProjectMonarch.php\" rel=\"nofollow\">https://swmonarchs.org/ProjectMonarch.php</a><p><a href=\"https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/\" rel=\"nofollow\">https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262982\">https://news.ycombinator.com/item?id=50262982</a></p>\n<p>Points: 42</p>\n<p># Comments: 16</p>",
+        "pubDate": "Tue, 27 Oct 2026 17:48:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50262982"
       },
       {
         "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
         "link": "https://www.liquid.ai/blog/lfm3",
-        "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 86</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 132</p>\n<p># Comments: 51</p>",
         "pubDate": "Tue, 27 Oct 2026 17:04:50 +0000",
         "guid": "https://news.ycombinator.com/item?id=50262229"
       },
       {
         "title": "Ghostty 1.4",
         "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "description": "<p>Article URL: <a href=\"https://ghostty.org/docs/install/release-notes/1-4-0\">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261998\">https://news.ycombinator.com/item?id=50261998</a></p>\n<p>Points: 544</p>\n<p># Comments: 160</p>",
+        "description": "<p>Article URL: <a href=\"https://ghostty.org/docs/install/release-notes/1-4-0\">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261998\">https://news.ycombinator.com/item?id=50261998</a></p>\n<p>Points: 871</p>\n<p># Comments: 272</p>",
         "pubDate": "Tue, 27 Oct 2026 16:51:22 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261998"
       },
       {
-        "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-        "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "description": "<p>Article URL: <a href=\"https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261819\">https://news.ycombinator.com/item?id=50261819</a></p>\n<p>Points: 298</p>\n<p># Comments: 232</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:40:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261819"
-      },
-      {
         "title": "Classification of Finite Simple Groups Formalized in Lean",
         "link": "https://cfsg.axiommath.ai/",
-        "description": "<p>Article URL: <a href=\"https://cfsg.axiommath.ai/\">https://cfsg.axiommath.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261647\">https://news.ycombinator.com/item?id=50261647</a></p>\n<p>Points: 140</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://cfsg.axiommath.ai/\">https://cfsg.axiommath.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261647\">https://news.ycombinator.com/item?id=50261647</a></p>\n<p>Points: 190</p>\n<p># Comments: 52</p>",
         "pubDate": "Tue, 27 Oct 2026 16:29:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261647"
       },
       {
-        "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-        "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-        "description": "<p>Article URL: <a href=\"https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova\">https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261589\">https://news.ycombinator.com/item?id=50261589</a></p>\n<p>Points: 163</p>\n<p># Comments: 78</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:25:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261589"
-      },
-      {
-        "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-        "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-        "description": "<p>Article URL: <a href=\"https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/\">https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261583\">https://news.ycombinator.com/item?id=50261583</a></p>\n<p>Points: 47</p>\n<p># Comments: 5</p>",
-        "pubDate": "Tue, 27 Oct 2026 16:25:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50261583"
-      },
-      {
         "title": "New 14‑inch MacBook Pro with M6",
         "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "description": "<p>Article URL: <a href=\"https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261352\">https://news.ycombinator.com/item?id=50261352</a></p>\n<p>Points: 215</p>\n<p># Comments: 256</p>",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261352\">https://news.ycombinator.com/item?id=50261352</a></p>\n<p>Points: 317</p>\n<p># Comments: 409</p>",
         "pubDate": "Tue, 27 Oct 2026 16:08:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261352"
       },
       {
         "title": "Genie 4",
         "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 582</p>\n<p># Comments: 354</p>",
+        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 804</p>\n<p># Comments: 489</p>",
         "pubDate": "Tue, 27 Oct 2026 16:06:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50261319"
       },
       {
-        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-        "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-        "description": "<p>Article URL: <a href=\"https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260814\">https://news.ycombinator.com/item?id=50260814</a></p>\n<p>Points: 368</p>\n<p># Comments: 202</p>",
-        "pubDate": "Tue, 27 Oct 2026 15:28:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50260814"
-      },
-      {
         "title": "US Government is hiding a secret court ruling about how it spies on Americans",
         "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259604\">https://news.ycombinator.com/item?id=50259604</a></p>\n<p>Points: 667</p>\n<p># Comments: 236</p>",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259604\">https://news.ycombinator.com/item?id=50259604</a></p>\n<p>Points: 867</p>\n<p># Comments: 310</p>",
         "pubDate": "Tue, 27 Oct 2026 14:06:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=50259604"
       },
       {
-        "title": "Here be monsters: What do you still need to know when agents do the work?",
-        "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-        "description": "<p>Article URL: <a href=\"https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258868\">https://news.ycombinator.com/item?id=50258868</a></p>\n<p>Points: 131</p>\n<p># Comments: 69</p>",
-        "pubDate": "Tue, 27 Oct 2026 13:23:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50258868"
+        "title": "New iMac with M6",
+        "link": "https://www.apple.com/imac/",
+        "description": "<p>Article URL: <a href=\"https://www.apple.com/imac/\">https://www.apple.com/imac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258538\">https://news.ycombinator.com/item?id=50258538</a></p>\n<p>Points: 321</p>\n<p># Comments: 397</p>",
+        "pubDate": "Tue, 27 Oct 2026 13:02:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50258538"
+      },
+      {
+        "title": "Python's experimental JIT to be removed",
+        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/\">https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257419\">https://news.ycombinator.com/item?id=50257419</a></p>\n<p>Points: 469</p>\n<p># Comments: 253</p>",
+        "pubDate": "Tue, 27 Oct 2026 11:17:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50257419"
+      },
+      {
+        "title": "What Happened to the Neanderthals?",
+        "link": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html\">https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50249883\">https://news.ycombinator.com/item?id=50249883</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 26 Oct 2026 19:47:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50249883"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-27T22:05:24.471Z",
+  "lastUpdated": "2026-10-28T05:21:54.823Z",
   "stats": {
     "feeds": 2,
     "articles": 20
