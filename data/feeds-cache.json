@@ -5,22 +5,164 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-28T12:38:08.758Z"
+      "lastFetched": "2026-10-29T05:31:35.500Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-28T22:28:37.475Z"
+      "lastFetched": "2026-10-29T05:31:35.804Z"
     }
   ],
   "articles": {
+    "https://hnrss.org/frontpage": [
+      {
+        "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+        "link": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/\">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50284342\">https://news.ycombinator.com/item?id=50284342</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 29 Oct 2026 03:48:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50284342"
+      },
+      {
+        "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+        "link": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series\">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50284329\">https://news.ycombinator.com/item?id=50284329</a></p>\n<p>Points: 50</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 29 Oct 2026 03:44:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50284329"
+      },
+      {
+        "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+        "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "description": "<p>Article URL: <a href=\"https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50284255\">https://news.ycombinator.com/item?id=50284255</a></p>\n<p>Points: 144</p>\n<p># Comments: 31</p>",
+        "pubDate": "Thu, 29 Oct 2026 03:33:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50284255"
+      },
+      {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "description": "<p>Article URL: <a href=\"https://divagr.com/blog/qwenputer\">https://divagr.com/blog/qwenputer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282838\">https://news.ycombinator.com/item?id=50282838</a></p>\n<p>Points: 250</p>\n<p># Comments: 56</p>",
+        "pubDate": "Thu, 29 Oct 2026 00:25:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50282838"
+      },
+      {
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "description": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=50282544</a></p>\n<p>Points: 132</p>\n<p># Comments: 53</p>",
+        "pubDate": "Wed, 28 Oct 2026 23:45:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50282544"
+      },
+      {
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "description": "<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\">https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282454\">https://news.ycombinator.com/item?id=50282454</a></p>\n<p>Points: 238</p>\n<p># Comments: 217</p>",
+        "pubDate": "Wed, 28 Oct 2026 23:35:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50282454"
+      },
+      {
+        "title": "Formlabs Studio 1 $699 Resin Printer",
+        "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+        "description": "<p>Article URL: <a href=\"https://formlabs.com/products/form-studio-1-basic-founders-edition/\">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50281044\">https://news.ycombinator.com/item?id=50281044</a></p>\n<p>Points: 155</p>\n<p># Comments: 105</p>",
+        "pubDate": "Wed, 28 Oct 2026 21:19:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50281044"
+      },
+      {
+        "title": "A Health Update",
+        "link": "https://furbo.org/2026/10/28/a-health-update/",
+        "description": "<p>Article URL: <a href=\"https://furbo.org/2026/10/28/a-health-update/\">https://furbo.org/2026/10/28/a-health-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280974\">https://news.ycombinator.com/item?id=50280974</a></p>\n<p>Points: 166</p>\n<p># Comments: 25</p>",
+        "pubDate": "Wed, 28 Oct 2026 21:13:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50280974"
+      },
+      {
+        "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+        "link": "https://nango.dev/careers",
+        "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280824\">https://news.ycombinator.com/item?id=50280824</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 28 Oct 2026 21:00:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50280824"
+      },
+      {
+        "title": "The case of the 9 bit AES key",
+        "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+        "description": "<p>Article URL: <a href=\"https://v12.sh/blog/the-case-of-the-9bit-aes-key\">https://v12.sh/blog/the-case-of-the-9bit-aes-key</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280722\">https://news.ycombinator.com/item?id=50280722</a></p>\n<p>Points: 101</p>\n<p># Comments: 50</p>",
+        "pubDate": "Wed, 28 Oct 2026 20:51:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50280722"
+      },
+      {
+        "title": "Scaling Hierarchical Networks",
+        "link": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+        "description": "<p>Article URL: <a href=\"https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1\">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50278253\">https://news.ycombinator.com/item?id=50278253</a></p>\n<p>Points: 50</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 28 Oct 2026 18:07:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50278253"
+      },
+      {
+        "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+        "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/\">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50277755\">https://news.ycombinator.com/item?id=50277755</a></p>\n<p>Points: 56</p>\n<p># Comments: 6</p>",
+        "pubDate": "Wed, 28 Oct 2026 17:45:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50277755"
+      },
+      {
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "link": "https://nullpt.rs/fingerprinting-bioweapons",
+        "description": "<p>Article URL: <a href=\"https://nullpt.rs/fingerprinting-bioweapons\">https://nullpt.rs/fingerprinting-bioweapons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276998\">https://news.ycombinator.com/item?id=50276998</a></p>\n<p>Points: 982</p>\n<p># Comments: 203</p>",
+        "pubDate": "Wed, 28 Oct 2026 17:13:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50276998"
+      },
+      {
+        "title": "MacBook Pro with PROLED XDR Display and Touch",
+        "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+        "description": "<p><a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/\" rel=\"nofollow\">https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276940\">https://news.ycombinator.com/item?id=50276940</a></p>\n<p>Points: 533</p>\n<p># Comments: 918</p>",
+        "pubDate": "Wed, 28 Oct 2026 17:10:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50276940"
+      },
+      {
+        "title": "Gemini 4 Carbon",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276792\">https://news.ycombinator.com/item?id=50276792</a></p>\n<p>Points: 856</p>\n<p># Comments: 712</p>",
+        "pubDate": "Wed, 28 Oct 2026 17:01:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50276792"
+      },
+      {
+        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+        "link": "https://surgehq.ai/blog/dayjob-tax",
+        "description": "<p>Article URL: <a href=\"https://surgehq.ai/blog/dayjob-tax\">https://surgehq.ai/blog/dayjob-tax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275626\">https://news.ycombinator.com/item?id=50275626</a></p>\n<p>Points: 219</p>\n<p># Comments: 140</p>",
+        "pubDate": "Wed, 28 Oct 2026 15:46:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50275626"
+      },
+      {
+        "title": "CNC Stone Carving",
+        "link": "https://carmelitegothic.com/cnc-stone-carving/",
+        "description": "<p>Article URL: <a href=\"https://carmelitegothic.com/cnc-stone-carving/\">https://carmelitegothic.com/cnc-stone-carving/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274409\">https://news.ycombinator.com/item?id=50274409</a></p>\n<p>Points: 441</p>\n<p># Comments: 123</p>",
+        "pubDate": "Wed, 28 Oct 2026 14:38:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50274409"
+      },
+      {
+        "title": "AlpineBSD",
+        "link": "https://wiki.alpinebsd.org",
+        "description": "<p>Article URL: <a href=\"https://wiki.alpinebsd.org\">https://wiki.alpinebsd.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274251\">https://news.ycombinator.com/item?id=50274251</a></p>\n<p>Points: 191</p>\n<p># Comments: 181</p>",
+        "pubDate": "Wed, 28 Oct 2026 14:30:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50274251"
+      },
+      {
+        "title": "The Agent SDK",
+        "link": "https://cursor.com/blog/agent-sdk",
+        "description": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-sdk\">https://cursor.com/blog/agent-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273731\">https://news.ycombinator.com/item?id=50273731</a></p>\n<p>Points: 110</p>\n<p># Comments: 116</p>",
+        "pubDate": "Wed, 28 Oct 2026 14:02:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50273731"
+      },
+      {
+        "title": "Emacs Turns 50",
+        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+        "description": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/\">https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273171\">https://news.ycombinator.com/item?id=50273171</a></p>\n<p>Points: 462</p>\n<p># Comments: 192</p>",
+        "pubDate": "Wed, 28 Oct 2026 13:25:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50273171"
+      }
+    ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-28T22:28:37.476Z",
+  "lastUpdated": "2026-10-29T05:31:35.805Z",
   "stats": {
     "feeds": 2,
-    "articles": 0
+    "articles": 20
   }
 }
