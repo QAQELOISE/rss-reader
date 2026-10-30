@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-30T05:31:25.562Z"
+      "lastFetched": "2026-10-30T12:39:33.101Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-30T05:31:45.405Z"
+      "lastFetched": "2026-10-30T12:39:52.843Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-        "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-        "description": "<p>Article URL: <a href=\"https://www.penligent.ai/hackinglabs/cve-2026-98432/\">https://www.penligent.ai/hackinglabs/cve-2026-98432/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50299182\">https://news.ycombinator.com/item?id=50299182</a></p>\n<p>Points: 34</p>\n<p># Comments: 23</p>",
-        "pubDate": "Fri, 30 Oct 2026 02:33:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50299182"
+        "title": "Backdoors in official Claude Code extensions",
+        "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+        "description": "<p>Article URL: <a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302334\">https://news.ycombinator.com/item?id=50302334</a></p>\n<p>Points: 272</p>\n<p># Comments: 66</p>",
+        "pubDate": "Fri, 30 Oct 2026 11:05:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50302334"
       },
       {
-        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-        "link": "https://github.com/Millillion/lasm",
-        "description": "<p>Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages.<p>Lean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built directly into it.<p>You can build general purpose software in Lean, and formally verify it in Lean. Amazing.<p>Lasm brings Lean to the browser, Node, serverless, and edge environments (and more). The idea is that you can now write web apps, frontend to backend, in Lean and formally verify these apps.<p>Imagine an Express server or Hono server, running on Cloudflare Workers, with formal verification of its specification.<p>I'm an agentic engineer with an emphasis in software engineering, and Lasm was built mostly by Claude Opus 5.5 with my high-level direction.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50299004\">https://news.ycombinator.com/item?id=50299004</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-        "pubDate": "Fri, 30 Oct 2026 02:05:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50299004"
+        "title": "Anthropic hacked to deliver remote access trojan",
+        "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+        "description": "<p>Article URL: <a href=\"https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301983\">https://news.ycombinator.com/item?id=50301983</a></p>\n<p>Points: 182</p>\n<p># Comments: 35</p>",
+        "pubDate": "Fri, 30 Oct 2026 10:22:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50301983"
+      },
+      {
+        "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+        "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+        "description": "<p>Article URL: <a href=\"https://www.binarysecurity.no/posts/2026/10/one-root-case\">https://www.binarysecurity.no/posts/2026/10/one-root-case</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301854\">https://news.ycombinator.com/item?id=50301854</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 30 Oct 2026 10:06:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50301854"
+      },
+      {
+        "title": "How Do You Take a Picture of a Black Hole?",
+        "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301717\">https://news.ycombinator.com/item?id=50301717</a></p>\n<p>Points: 29</p>\n<p># Comments: 20</p>",
+        "pubDate": "Fri, 30 Oct 2026 09:49:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50301717"
+      },
+      {
+        "title": "elect.horse",
+        "link": "https://elect.horse/",
+        "description": "<p>Article URL: <a href=\"https://elect.horse/\">https://elect.horse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301462\">https://news.ycombinator.com/item?id=50301462</a></p>\n<p>Points: 158</p>\n<p># Comments: 33</p>",
+        "pubDate": "Fri, 30 Oct 2026 09:14:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50301462"
+      },
+      {
+        "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+        "link": "https://www.workatastartup.com/jobs/98722",
+        "description": "<p>Article URL: <a href=\"https://www.workatastartup.com/jobs/98722\">https://www.workatastartup.com/jobs/98722</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300643\">https://news.ycombinator.com/item?id=50300643</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 30 Oct 2026 07:00:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50300643"
       },
       {
         "title": "Pico CSS is no longer maintained",
         "link": "https://github.com/picocss/pico/discussions/754",
-        "description": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 78</p>\n<p># Comments: 21</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 166</p>\n<p># Comments: 77</p>",
         "pubDate": "Fri, 30 Oct 2026 01:58:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50298964"
       },
       {
         "title": "Herdr has released native app",
         "link": "https://github.com/herdrdev/herdr-app",
-        "description": "<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 85</p>\n<p># Comments: 56</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 251</p>\n<p># Comments: 168</p>",
         "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=50298436"
       },
       {
         "title": "Cormac McCarthy's Library",
         "link": "https://cormacmccarthy.lib.utk.edu/",
-        "description": "<p>Article URL: <a href=\"https://cormacmccarthy.lib.utk.edu/\">https://cormacmccarthy.lib.utk.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298318\">https://news.ycombinator.com/item?id=50298318</a></p>\n<p>Points: 32</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://cormacmccarthy.lib.utk.edu/\">https://cormacmccarthy.lib.utk.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298318\">https://news.ycombinator.com/item?id=50298318</a></p>\n<p>Points: 65</p>\n<p># Comments: 24</p>",
         "pubDate": "Fri, 30 Oct 2026 00:31:00 +0000",
         "guid": "https://news.ycombinator.com/item?id=50298318"
       },
       {
         "title": "Show HN: I Turned DOOM into a Transformer",
         "link": "https://github.com/mottopanikeiku/doomformer",
-        "description": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do :<p>It can classify MNIST digits, even if you write these digits on the map!<p>It can talk(kinda)<p>You can use it to make decisions, so, it can play DOOM. Yes! You can play DOOM with thousands of DOOM games now! The marine's mind can be controlled by DOOM, playing on a map generated by DOOMFORMER. Truly, the possibilities are endless, and even larger-scale training of DOOMFORMER could be done on a measly T4.<p>If anyone would like to help me scale this up and make crazier things, I'd love to work together.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297697\">https://news.ycombinator.com/item?id=50297697</a></p>\n<p>Points: 61</p>\n<p># Comments: 14</p>",
+        "description": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do :<p>It can classify MNIST digits, even if you write these digits on the map!<p>It can talk(kinda)<p>You can use it to make decisions, so, it can play DOOM. Yes! You can play DOOM with thousands of DOOM games now! The marine's mind can be controlled by DOOM, playing on a map generated by DOOMFORMER. Truly, the possibilities are endless, and even larger-scale training of DOOMFORMER could be done on a measly T4.<p>If anyone would like to help me scale this up and make crazier things, I'd love to work together.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297697\">https://news.ycombinator.com/item?id=50297697</a></p>\n<p>Points: 99</p>\n<p># Comments: 31</p>",
         "pubDate": "Thu, 29 Oct 2026 23:25:46 +0000",
         "guid": "https://news.ycombinator.com/item?id=50297697"
       },
       {
         "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
         "link": "https://journal.animationstudies.org/article/id/66/",
-        "description": "<p>Article URL: <a href=\"https://journal.animationstudies.org/article/id/66/\">https://journal.animationstudies.org/article/id/66/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297089\">https://news.ycombinator.com/item?id=50297089</a></p>\n<p>Points: 84</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://journal.animationstudies.org/article/id/66/\">https://journal.animationstudies.org/article/id/66/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297089\">https://news.ycombinator.com/item?id=50297089</a></p>\n<p>Points: 129</p>\n<p># Comments: 32</p>",
         "pubDate": "Thu, 29 Oct 2026 22:26:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=50297089"
       },
       {
-        "title": "The Great American Rascal: Tom Sawyer at 150",
-        "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-        "description": "<p>Article URL: <a href=\"https://claremontreviewofbooks.com/the-great-american-rascal/\">https://claremontreviewofbooks.com/the-great-american-rascal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296947\">https://news.ycombinator.com/item?id=50296947</a></p>\n<p>Points: 55</p>\n<p># Comments: 23</p>",
-        "pubDate": "Thu, 29 Oct 2026 22:14:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50296947"
-      },
-      {
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
         "link": "https://labs.ycombinator.com/projects/games/index.html",
-        "description": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 230</p>\n<p># Comments: 74</p>",
+        "description": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 321</p>\n<p># Comments: 121</p>",
         "pubDate": "Thu, 29 Oct 2026 21:40:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=50296486"
       },
       {
         "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
         "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-        "description": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 992</p>\n<p># Comments: 581</p>",
+        "description": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 1503</p>\n<p># Comments: 981</p>",
         "pubDate": "Thu, 29 Oct 2026 21:38:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=50296470"
       },
       {
-        "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-        "link": "https://projects.freehackers.org/sylphide-os/",
-        "description": "<p>Article URL: <a href=\"https://projects.freehackers.org/sylphide-os/\">https://projects.freehackers.org/sylphide-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295868\">https://news.ycombinator.com/item?id=50295868</a></p>\n<p>Points: 53</p>\n<p># Comments: 13</p>",
-        "pubDate": "Thu, 29 Oct 2026 20:59:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50295868"
-      },
-      {
-        "title": "ElementaryUI – Swift, in the Browser",
-        "link": "https://elementary.codes",
-        "description": "<p>Article URL: <a href=\"https://elementary.codes\">https://elementary.codes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295821\">https://news.ycombinator.com/item?id=50295821</a></p>\n<p>Points: 80</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 29 Oct 2026 20:56:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50295821"
-      },
-      {
         "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
         "link": "https://github.com/SheepSeb/tinyworldformer",
-        "description": "<p>Article URL: <a href=\"https://github.com/SheepSeb/tinyworldformer\">https://github.com/SheepSeb/tinyworldformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295450\">https://news.ycombinator.com/item?id=50295450</a></p>\n<p>Points: 168</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/SheepSeb/tinyworldformer\">https://github.com/SheepSeb/tinyworldformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295450\">https://news.ycombinator.com/item?id=50295450</a></p>\n<p>Points: 235</p>\n<p># Comments: 16</p>",
         "pubDate": "Thu, 29 Oct 2026 20:32:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=50295450"
       },
       {
         "title": "Patrick Stewart has died",
         "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-        "description": "<p><a href=\"https://archive.ph/y4Egm\" rel=\"nofollow\">https://archive.ph/y4Egm</a><p><a href=\"https://en.wikipedia.org/wiki/Patrick_Stewart\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Patrick_Stewart</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294702\">https://news.ycombinator.com/item?id=50294702</a></p>\n<p>Points: 2656</p>\n<p># Comments: 561</p>",
+        "description": "<p><a href=\"https://archive.ph/y4Egm\" rel=\"nofollow\">https://archive.ph/y4Egm</a><p><a href=\"https://en.wikipedia.org/wiki/Patrick_Stewart\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Patrick_Stewart</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294702\">https://news.ycombinator.com/item?id=50294702</a></p>\n<p>Points: 3108</p>\n<p># Comments: 661</p>",
         "pubDate": "Thu, 29 Oct 2026 19:41:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50294702"
       },
       {
-        "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-        "link": "https://github.com/johncassil/dontallow",
-        "description": "<p>This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294506\">https://news.ycombinator.com/item?id=50294506</a></p>\n<p>Points: 117</p>\n<p># Comments: 90</p>",
-        "pubDate": "Thu, 29 Oct 2026 19:27:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50294506"
-      },
-      {
         "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
         "link": "https://news.ycombinator.com/item?id=50291116",
-        "description": "<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href=\"https://simantic.com\">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.<p>We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.<p>To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.<p>What we offer:\n- Virtual devboards you can program and run with a single API call, without leaving your terminal.\n- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.\n- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.<p>Here is a demo of our simulation used in an AI code review session: <a href=\"https://www.youtube.com/watch?v=kBK1ZjGWWbQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=kBK1ZjGWWbQ</a><p>Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars.<p>We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time.<p>Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode (<a href=\"https://github.com/renode/renode\" rel=\"nofollow\">https://github.com/renode/renode</a>) and QEMU (<a href=\"https://www.qemu.org/\" rel=\"nofollow\">https://www.qemu.org/</a>), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.<p>1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast.<p>2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.<p>3. The open source tools were bloated, with features that we would never use. Yes, there were a  breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them.\nUsers were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware.<p>Because of these issues, we made our own simulation engine from scratch, fully written in Rust.<p>- Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models.<p>- We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps.<p>Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations.<p>Check it out at <a href=\"https://simantic.com/cloud-sim\">https://simantic.com/cloud-sim</a>, and you can start using our AI firmware reviewer bot in your own Github repos here: <a href=\"https://simantic.com/dashboard/simantic-bot\">https://simantic.com/dashboard/simantic-bot</a>.<p>We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones.<p>Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291116\">https://news.ycombinator.com/item?id=50291116</a></p>\n<p>Points: 58</p>\n<p># Comments: 16</p>",
+        "description": "<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href=\"https://simantic.com\">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.<p>We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.<p>To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.<p>What we offer:\n- Virtual devboards you can program and run with a single API call, without leaving your terminal.\n- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.\n- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.<p>Here is a demo of our simulation used in an AI code review session: <a href=\"https://www.youtube.com/watch?v=kBK1ZjGWWbQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=kBK1ZjGWWbQ</a><p>Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars.<p>We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time.<p>Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode (<a href=\"https://github.com/renode/renode\" rel=\"nofollow\">https://github.com/renode/renode</a>) and QEMU (<a href=\"https://www.qemu.org/\" rel=\"nofollow\">https://www.qemu.org/</a>), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.<p>1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast.<p>2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.<p>3. The open source tools were bloated, with features that we would never use. Yes, there were a  breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them.\nUsers were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware.<p>Because of these issues, we made our own simulation engine from scratch, fully written in Rust.<p>- Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models.<p>- We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps.<p>Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations.<p>Check it out at <a href=\"https://simantic.com/cloud-sim\">https://simantic.com/cloud-sim</a>, and you can start using our AI firmware reviewer bot in your own Github repos here: <a href=\"https://simantic.com/dashboard/simantic-bot\">https://simantic.com/dashboard/simantic-bot</a>.<p>We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones.<p>Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291116\">https://news.ycombinator.com/item?id=50291116</a></p>\n<p>Points: 72</p>\n<p># Comments: 26</p>",
         "pubDate": "Thu, 29 Oct 2026 15:56:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50291116"
       },
       {
         "title": "H.264 Is Magic (2016)",
         "link": "https://sidbala.com/h-264-is-magic/",
-        "description": "<p>Article URL: <a href=\"https://sidbala.com/h-264-is-magic/\">https://sidbala.com/h-264-is-magic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291054\">https://news.ycombinator.com/item?id=50291054</a></p>\n<p>Points: 368</p>\n<p># Comments: 134</p>",
+        "description": "<p>Article URL: <a href=\"https://sidbala.com/h-264-is-magic/\">https://sidbala.com/h-264-is-magic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291054\">https://news.ycombinator.com/item?id=50291054</a></p>\n<p>Points: 459</p>\n<p># Comments: 152</p>",
         "pubDate": "Thu, 29 Oct 2026 15:53:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=50291054"
       },
       {
         "title": "LLM Voice",
         "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-        "description": "<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 397</p>\n<p># Comments: 208</p>",
+        "description": "<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 507</p>\n<p># Comments: 266</p>",
         "pubDate": "Thu, 29 Oct 2026 14:57:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=50290177"
       },
       {
         "title": "We're releasing the weights of Mistral Large 4",
         "link": "https://mistral.ai/news/mistral-large-4-oss/",
-        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 1290</p>\n<p># Comments: 359</p>",
+        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 1548</p>\n<p># Comments: 406</p>",
         "pubDate": "Thu, 29 Oct 2026 14:13:21 +0000",
         "guid": "https://news.ycombinator.com/item?id=50289418"
       },
       {
-        "title": "DoorDash to acquire Instacart",
-        "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-        "description": "<p>Article URL: <a href=\"https://about.doordash.com/en-us/news/doordash-to-acquire-instacart\">https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287919\">https://news.ycombinator.com/item?id=50287919</a></p>\n<p>Points: 454</p>\n<p># Comments: 625</p>",
-        "pubDate": "Thu, 29 Oct 2026 12:33:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50287919"
+        "title": "If IPv4 were land",
+        "link": "https://iptrust.co/blog/if-ipv4-were-land",
+        "description": "<p>Article URL: <a href=\"https://iptrust.co/blog/if-ipv4-were-land\">https://iptrust.co/blog/if-ipv4-were-land</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287775\">https://news.ycombinator.com/item?id=50287775</a></p>\n<p>Points: 300</p>\n<p># Comments: 417</p>",
+        "pubDate": "Thu, 29 Oct 2026 12:19:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50287775"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-30T05:31:45.405Z",
+  "lastUpdated": "2026-10-30T12:39:52.843Z",
   "stats": {
     "feeds": 2,
     "articles": 20
