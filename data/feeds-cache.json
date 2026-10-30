@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-10-30T12:39:33.101Z"
+      "lastFetched": "2026-10-30T22:11:39.374Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-10-30T12:39:52.843Z"
+      "lastFetched": "2026-10-30T22:11:50.079Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Backdoors in official Claude Code extensions",
-        "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-        "description": "<p>Article URL: <a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302334\">https://news.ycombinator.com/item?id=50302334</a></p>\n<p>Points: 272</p>\n<p># Comments: 66</p>",
-        "pubDate": "Fri, 30 Oct 2026 11:05:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50302334"
+        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+        "description": "<p>Article URL: <a href=\"https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309647\">https://news.ycombinator.com/item?id=50309647</a></p>\n<p>Points: 72</p>\n<p># Comments: 21</p>",
+        "pubDate": "Fri, 30 Oct 2026 20:23:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309647"
       },
       {
-        "title": "Anthropic hacked to deliver remote access trojan",
-        "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-        "description": "<p>Article URL: <a href=\"https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301983\">https://news.ycombinator.com/item?id=50301983</a></p>\n<p>Points: 182</p>\n<p># Comments: 35</p>",
-        "pubDate": "Fri, 30 Oct 2026 10:22:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50301983"
+        "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+        "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+        "description": "<p>Article URL: <a href=\"https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/\">https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309573\">https://news.ycombinator.com/item?id=50309573</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+        "pubDate": "Fri, 30 Oct 2026 20:18:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309573"
       },
       {
-        "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-        "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-        "description": "<p>Article URL: <a href=\"https://www.binarysecurity.no/posts/2026/10/one-root-case\">https://www.binarysecurity.no/posts/2026/10/one-root-case</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301854\">https://news.ycombinator.com/item?id=50301854</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 30 Oct 2026 10:06:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50301854"
+        "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+        "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+        "description": "<p>In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations).\n- ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model.\n- einfold: a modular query planner for fast tensor contractions in vanilla SQL, again, assuming the above array data model.<p>My hope is that the relational model and algebra provide fresh perspectives on how we might do accelerator programming. Here, our thesis is that separating the logical layers in a tensor program from the physical layers is both more correct and more scalable.<p>If the Bitter Lesson is a central dogma of machine learning, then why not formalize it with relational algebra?<p>If this interests you and you’d like to tinker with us at the intersection of database theory and ML systems, join us on Discord at <a href=\"https://xql.systems\" rel=\"nofollow\">https://xql.systems</a>  (link at the bottom). Cheers.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309479\">https://news.ycombinator.com/item?id=50309479</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 30 Oct 2026 20:09:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309479"
       },
       {
-        "title": "How Do You Take a Picture of a Black Hole?",
-        "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-        "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301717\">https://news.ycombinator.com/item?id=50301717</a></p>\n<p>Points: 29</p>\n<p># Comments: 20</p>",
-        "pubDate": "Fri, 30 Oct 2026 09:49:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50301717"
+        "title": "An Arrogant Way of Killing (2016)",
+        "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+        "description": "<p>Article URL: <a href=\"https://magazine.atavist.com/2016/an-arrogant-way-of-killing\">https://magazine.atavist.com/2016/an-arrogant-way-of-killing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309470\">https://news.ycombinator.com/item?id=50309470</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 30 Oct 2026 20:08:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309470"
       },
       {
-        "title": "elect.horse",
-        "link": "https://elect.horse/",
-        "description": "<p>Article URL: <a href=\"https://elect.horse/\">https://elect.horse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301462\">https://news.ycombinator.com/item?id=50301462</a></p>\n<p>Points: 158</p>\n<p># Comments: 33</p>",
-        "pubDate": "Fri, 30 Oct 2026 09:14:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50301462"
+        "title": "Jules Verne's Lost Novel",
+        "link": "https://blue-continuum.com/verne-paris",
+        "description": "<p>Article URL: <a href=\"https://blue-continuum.com/verne-paris\">https://blue-continuum.com/verne-paris</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309314\">https://news.ycombinator.com/item?id=50309314</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 30 Oct 2026 19:55:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309314"
       },
       {
-        "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-        "link": "https://www.workatastartup.com/jobs/98722",
-        "description": "<p>Article URL: <a href=\"https://www.workatastartup.com/jobs/98722\">https://www.workatastartup.com/jobs/98722</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300643\">https://news.ycombinator.com/item?id=50300643</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 30 Oct 2026 07:00:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50300643"
+        "title": "The oldest ice disappears and the Stone Age emerges from it",
+        "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+        "description": "<p>Article URL: <a href=\"https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921\">https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309266\">https://news.ycombinator.com/item?id=50309266</a></p>\n<p>Points: 32</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 30 Oct 2026 19:51:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309266"
       },
       {
-        "title": "Pico CSS is no longer maintained",
-        "link": "https://github.com/picocss/pico/discussions/754",
-        "description": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 166</p>\n<p># Comments: 77</p>",
-        "pubDate": "Fri, 30 Oct 2026 01:58:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50298964"
+        "title": "Infinite Mac: BeOS",
+        "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+        "description": "<p>Article URL: <a href=\"https://blog.persistent.info/2026/10/infinite-mac-beos.html\">https://blog.persistent.info/2026/10/infinite-mac-beos.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309029\">https://news.ycombinator.com/item?id=50309029</a></p>\n<p>Points: 54</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 30 Oct 2026 19:30:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50309029"
       },
       {
-        "title": "Herdr has released native app",
-        "link": "https://github.com/herdrdev/herdr-app",
-        "description": "<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 251</p>\n<p># Comments: 168</p>",
-        "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50298436"
+        "title": "A Pickpocket's Guide to New York",
+        "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+        "description": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york\">https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50308986\">https://news.ycombinator.com/item?id=50308986</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 30 Oct 2026 19:26:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50308986"
       },
       {
-        "title": "Cormac McCarthy's Library",
-        "link": "https://cormacmccarthy.lib.utk.edu/",
-        "description": "<p>Article URL: <a href=\"https://cormacmccarthy.lib.utk.edu/\">https://cormacmccarthy.lib.utk.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298318\">https://news.ycombinator.com/item?id=50298318</a></p>\n<p>Points: 65</p>\n<p># Comments: 24</p>",
-        "pubDate": "Fri, 30 Oct 2026 00:31:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50298318"
+        "title": "Bunny CDN Security Incident",
+        "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+        "description": "<p>Article URL: <a href=\"https://status.bunny.net/incidents/p6gf1by9kr7m\">https://status.bunny.net/incidents/p6gf1by9kr7m</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50308697\">https://news.ycombinator.com/item?id=50308697</a></p>\n<p>Points: 115</p>\n<p># Comments: 27</p>",
+        "pubDate": "Fri, 30 Oct 2026 19:05:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50308697"
       },
       {
-        "title": "Show HN: I Turned DOOM into a Transformer",
-        "link": "https://github.com/mottopanikeiku/doomformer",
-        "description": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do :<p>It can classify MNIST digits, even if you write these digits on the map!<p>It can talk(kinda)<p>You can use it to make decisions, so, it can play DOOM. Yes! You can play DOOM with thousands of DOOM games now! The marine's mind can be controlled by DOOM, playing on a map generated by DOOMFORMER. Truly, the possibilities are endless, and even larger-scale training of DOOMFORMER could be done on a measly T4.<p>If anyone would like to help me scale this up and make crazier things, I'd love to work together.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297697\">https://news.ycombinator.com/item?id=50297697</a></p>\n<p>Points: 99</p>\n<p># Comments: 31</p>",
-        "pubDate": "Thu, 29 Oct 2026 23:25:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50297697"
+        "title": "GitHub Incident with Actions, Pages, and Webhooks",
+        "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+        "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/pwxsjgnvrk6b\">https://www.githubstatus.com/incidents/pwxsjgnvrk6b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307723\">https://news.ycombinator.com/item?id=50307723</a></p>\n<p>Points: 125</p>\n<p># Comments: 47</p>",
+        "pubDate": "Fri, 30 Oct 2026 17:57:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50307723"
       },
       {
-        "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-        "link": "https://journal.animationstudies.org/article/id/66/",
-        "description": "<p>Article URL: <a href=\"https://journal.animationstudies.org/article/id/66/\">https://journal.animationstudies.org/article/id/66/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297089\">https://news.ycombinator.com/item?id=50297089</a></p>\n<p>Points: 129</p>\n<p># Comments: 32</p>",
-        "pubDate": "Thu, 29 Oct 2026 22:26:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50297089"
+        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+        "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307219\">https://news.ycombinator.com/item?id=50307219</a></p>\n<p>Points: 235</p>\n<p># Comments: 174</p>",
+        "pubDate": "Fri, 30 Oct 2026 17:27:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50307219"
       },
       {
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "link": "https://labs.ycombinator.com/projects/games/index.html",
-        "description": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 321</p>\n<p># Comments: 121</p>",
-        "pubDate": "Thu, 29 Oct 2026 21:40:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50296486"
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "description": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/\">https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307190\">https://news.ycombinator.com/item?id=50307190</a></p>\n<p>Points: 172</p>\n<p># Comments: 48</p>",
+        "pubDate": "Fri, 30 Oct 2026 17:25:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50307190"
       },
       {
-        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-        "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-        "description": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 1503</p>\n<p># Comments: 981</p>",
-        "pubDate": "Thu, 29 Oct 2026 21:38:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50296470"
+        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "link": "https://github.com/dbreunig/nesformer",
+        "description": "<p>Article URL: <a href=\"https://github.com/dbreunig/nesformer\">https://github.com/dbreunig/nesformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50306442\">https://news.ycombinator.com/item?id=50306442</a></p>\n<p>Points: 151</p>\n<p># Comments: 99</p>",
+        "pubDate": "Fri, 30 Oct 2026 16:40:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50306442"
       },
       {
-        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-        "link": "https://github.com/SheepSeb/tinyworldformer",
-        "description": "<p>Article URL: <a href=\"https://github.com/SheepSeb/tinyworldformer\">https://github.com/SheepSeb/tinyworldformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295450\">https://news.ycombinator.com/item?id=50295450</a></p>\n<p>Points: 235</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 29 Oct 2026 20:32:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50295450"
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "description": "<p>Article URL: <a href=\"https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305693\">https://news.ycombinator.com/item?id=50305693</a></p>\n<p>Points: 430</p>\n<p># Comments: 319</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:52:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305693"
       },
       {
-        "title": "Patrick Stewart has died",
-        "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-        "description": "<p><a href=\"https://archive.ph/y4Egm\" rel=\"nofollow\">https://archive.ph/y4Egm</a><p><a href=\"https://en.wikipedia.org/wiki/Patrick_Stewart\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Patrick_Stewart</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294702\">https://news.ycombinator.com/item?id=50294702</a></p>\n<p>Points: 3108</p>\n<p># Comments: 661</p>",
-        "pubDate": "Thu, 29 Oct 2026 19:41:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50294702"
+        "title": "Florilegium: Procedural Flowers in LaTeX",
+        "link": "https://github.com/kevinraymond/florilegium",
+        "description": "<p>Article URL: <a href=\"https://github.com/kevinraymond/florilegium\">https://github.com/kevinraymond/florilegium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305637\">https://news.ycombinator.com/item?id=50305637</a></p>\n<p>Points: 167</p>\n<p># Comments: 31</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:48:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305637"
       },
       {
-        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-        "link": "https://news.ycombinator.com/item?id=50291116",
-        "description": "<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href=\"https://simantic.com\">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.<p>We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.<p>To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.<p>What we offer:\n- Virtual devboards you can program and run with a single API call, without leaving your terminal.\n- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.\n- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.<p>Here is a demo of our simulation used in an AI code review session: <a href=\"https://www.youtube.com/watch?v=kBK1ZjGWWbQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=kBK1ZjGWWbQ</a><p>Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars.<p>We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time.<p>Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode (<a href=\"https://github.com/renode/renode\" rel=\"nofollow\">https://github.com/renode/renode</a>) and QEMU (<a href=\"https://www.qemu.org/\" rel=\"nofollow\">https://www.qemu.org/</a>), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.<p>1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast.<p>2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.<p>3. The open source tools were bloated, with features that we would never use. Yes, there were a  breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them.\nUsers were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware.<p>Because of these issues, we made our own simulation engine from scratch, fully written in Rust.<p>- Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models.<p>- We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps.<p>Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations.<p>Check it out at <a href=\"https://simantic.com/cloud-sim\">https://simantic.com/cloud-sim</a>, and you can start using our AI firmware reviewer bot in your own Github repos here: <a href=\"https://simantic.com/dashboard/simantic-bot\">https://simantic.com/dashboard/simantic-bot</a>.<p>We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones.<p>Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291116\">https://news.ycombinator.com/item?id=50291116</a></p>\n<p>Points: 72</p>\n<p># Comments: 26</p>",
-        "pubDate": "Thu, 29 Oct 2026 15:56:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50291116"
+        "title": "The federated code forge",
+        "link": "https://tangled.org/blog/forge/",
+        "description": "<p>Article URL: <a href=\"https://tangled.org/blog/forge/\">https://tangled.org/blog/forge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305573\">https://news.ycombinator.com/item?id=50305573</a></p>\n<p>Points: 188</p>\n<p># Comments: 65</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:44:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305573"
       },
       {
-        "title": "H.264 Is Magic (2016)",
-        "link": "https://sidbala.com/h-264-is-magic/",
-        "description": "<p>Article URL: <a href=\"https://sidbala.com/h-264-is-magic/\">https://sidbala.com/h-264-is-magic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291054\">https://news.ycombinator.com/item?id=50291054</a></p>\n<p>Points: 459</p>\n<p># Comments: 152</p>",
-        "pubDate": "Thu, 29 Oct 2026 15:53:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50291054"
+        "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+        "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+        "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance\">https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305480\">https://news.ycombinator.com/item?id=50305480</a></p>\n<p>Points: 176</p>\n<p># Comments: 111</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:39:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305480"
       },
       {
-        "title": "LLM Voice",
-        "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-        "description": "<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 507</p>\n<p># Comments: 266</p>",
-        "pubDate": "Thu, 29 Oct 2026 14:57:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50290177"
+        "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+        "link": "https://catcopter.com",
+        "description": "<p>Hi everyone!<p>I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It's a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins). I made it initially for me and my friends but it was quite fun so I thought I'll share it here too.<p>The game is intentionally dorky and it was fun to develop. The tools I used were mostly Opus 5.5 (objects / rigging / motion), Tripo3d for some elements I struggled with and Fable for optimisation (cpu / networking). Backend physics are done with Rapier. Luckily I had a lot of elements / game dynamics done before from another project of mine (<a href=\"https://flat.social\" rel=\"nofollow\">https://flat.social</a>) so the actual iteration here took me around a week.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305320\">https://news.ycombinator.com/item?id=50305320</a></p>\n<p>Points: 74</p>\n<p># Comments: 35</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:29:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305320"
       },
       {
-        "title": "We're releasing the weights of Mistral Large 4",
-        "link": "https://mistral.ai/news/mistral-large-4-oss/",
-        "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 1548</p>\n<p># Comments: 406</p>",
-        "pubDate": "Thu, 29 Oct 2026 14:13:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50289418"
+        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "link": "https://sketch.wakeshift.ai/games/q5ucru",
+        "description": "<p>tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: <a href=\"https://sketch.wakeshift.ai/games/q5ucru\" rel=\"nofollow\">https://sketch.wakeshift.ai/games/q5ucru</a><p>Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I'd ship it as a standalone demonstration.<p>In Sketch Stadium, your agent subscribes to game events. Agents take turns either drawing or guessing. Easy clues are 1 point, medium are 2, and hard are 3. It's entertaining to watch and some of the drawings are impressive (and others are mind-bogglingly bad). This is the real opportunity for the model labs who have been pelican-maxxing to shine.<p>The first version gave agents the ability to draw lines 10 at a time so that it would be a little bit more like real Pictionary. However, it turns out agents are _really_ bad at drawing that way. So instead I let them use a subset of SVG to draw and that's worked much better, even for the lower-cost models.<p>You don't need to create an account to connect your agent, just add the MCP and authorize. But if you don't want to do that, just watch the game linked above.<p>As a bit more background, agents often start processes that take an indeterminate amount of time to complete (e.g. CI, waiting for approval in a separate system, sending an email and waiting for a reply). If an agent needs that process to complete before it can proceed, it can:<p>* poll,<p>* ask the user to tell it when it's done,<p>* use a bespoke built-in integration, or<p>* use a proprietary capability (e.g. Claude Code monitors)<p>Today, there's no easy, consistent way to wake up agents through a webhook or push notification. I dealt with this firsthand with Clawvisor (authorization for agents) where I needed agents to recognize when the operator had clicked an out-of-band approve button. The best-supported way to achieve that at the time was long-polling.<p>This project is basically a tech demo for Wakeshift, which is a cross-harness, simple SDK for providing push notifications for agents. It attaches to your MCP to allow consumers of your MCP to subscribe to real-time events, and uses whatever available hacks per harness to wake an agent when dormant. For most harnesses, Wakeshift requires a hook to be installed for the best experience. It will upgrade automatically as harnesses start adopting MCP events.<p>I'd love any feedback or ideas for other products or games that you'd want to see built on this capability. Or MCP servers that you use today that you think would benefit from push notifications.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305218\">https://news.ycombinator.com/item?id=50305218</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:23:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305218"
       },
       {
-        "title": "If IPv4 were land",
-        "link": "https://iptrust.co/blog/if-ipv4-were-land",
-        "description": "<p>Article URL: <a href=\"https://iptrust.co/blog/if-ipv4-were-land\">https://iptrust.co/blog/if-ipv4-were-land</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287775\">https://news.ycombinator.com/item?id=50287775</a></p>\n<p>Points: 300</p>\n<p># Comments: 417</p>",
-        "pubDate": "Thu, 29 Oct 2026 12:19:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50287775"
+        "title": "Northflank Breached",
+        "link": "https://status.northflank.com",
+        "description": "<p>Article URL: <a href=\"https://status.northflank.com\">https://status.northflank.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305025\">https://news.ycombinator.com/item?id=50305025</a></p>\n<p>Points: 303</p>\n<p># Comments: 226</p>",
+        "pubDate": "Fri, 30 Oct 2026 15:10:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50305025"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-10-30T12:39:52.843Z",
+  "lastUpdated": "2026-10-30T22:11:50.080Z",
   "stats": {
     "feeds": 2,
     "articles": 20
