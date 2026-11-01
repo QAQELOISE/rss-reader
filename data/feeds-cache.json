@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-01T05:46:30.528Z"
+      "lastFetched": "2026-11-01T13:08:16.621Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-01T05:46:50.361Z"
+      "lastFetched": "2026-11-01T13:08:32.452Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+        "link": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+        "description": "<p>Article URL: <a href=\"https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million\">https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50324533\">https://news.ycombinator.com/item?id=50324533</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 01 Nov 2026 11:17:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50324533"
+      },
+      {
+        "title": "Norway makes shithouses great again",
+        "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+        "description": "<p>Article URL: <a href=\"https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/\">https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50324388\">https://news.ycombinator.com/item?id=50324388</a></p>\n<p>Points: 267</p>\n<p># Comments: 117</p>",
+        "pubDate": "Sun, 01 Nov 2026 10:47:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50324388"
+      },
+      {
+        "title": "Domain hacks with unusual Unicode characters (2018)",
+        "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+        "description": "<p>Article URL: <a href=\"https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/\">https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50324371\">https://news.ycombinator.com/item?id=50324371</a></p>\n<p>Points: 19</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 01 Nov 2026 10:44:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50324371"
+      },
+      {
+        "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\">https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50324267\">https://news.ycombinator.com/item?id=50324267</a></p>\n<p>Points: 32</p>\n<p># Comments: 37</p>",
+        "pubDate": "Sun, 01 Nov 2026 10:28:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50324267"
+      },
+      {
+        "title": "A tiny Pacific country rolls out universal basic income",
+        "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income\">https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50324118\">https://news.ycombinator.com/item?id=50324118</a></p>\n<p>Points: 56</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sun, 01 Nov 2026 10:05:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50324118"
+      },
+      {
+        "title": "The AI cost of JavaScript frameworks",
+        "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50323088\">https://news.ycombinator.com/item?id=50323088</a></p>\n<p>Points: 129</p>\n<p># Comments: 78</p>",
+        "pubDate": "Sun, 01 Nov 2026 06:06:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50323088"
+      },
+      {
         "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "description": "<p>Article URL: <a href=\"https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322173\">https://news.ycombinator.com/item?id=50322173</a></p>\n<p>Points: 49</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322173\">https://news.ycombinator.com/item?id=50322173</a></p>\n<p>Points: 166</p>\n<p># Comments: 71</p>",
         "pubDate": "Sun, 01 Nov 2026 02:19:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=50322173"
       },
       {
-        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
         "link": "https://arxiv.org/abs/2409.02292",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2409.02292\">https://arxiv.org/abs/2409.02292</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322022\">https://news.ycombinator.com/item?id=50322022</a></p>\n<p>Points: 38</p>\n<p># Comments: 18</p>",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2409.02292\">https://arxiv.org/abs/2409.02292</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322022\">https://news.ycombinator.com/item?id=50322022</a></p>\n<p>Points: 104</p>\n<p># Comments: 55</p>",
         "pubDate": "Sun, 01 Nov 2026 01:46:29 +0000",
         "guid": "https://news.ycombinator.com/item?id=50322022"
       },
       {
-        "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-        "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-        "description": "<p>Hi HN,<p>I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.<p>Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot.<p>The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions.<p>A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad.<p>Happy to answer anything, and tell me what breaks.<p>p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321522\">https://news.ycombinator.com/item?id=50321522</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
-        "pubDate": "Sun, 01 Nov 2026 00:10:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50321522"
-      },
-      {
-        "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-        "link": "https://emarzion.github.io/KSRT/",
-        "description": "<p>Article URL: <a href=\"https://emarzion.github.io/KSRT/\">https://emarzion.github.io/KSRT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321436\">https://news.ycombinator.com/item?id=50321436</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 31 Oct 2026 23:55:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50321436"
-      },
-      {
-        "title": "When electric cars were for women",
-        "link": "https://spectrum.ieee.org/early-electric-vehicles",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/early-electric-vehicles\">https://spectrum.ieee.org/early-electric-vehicles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321130\">https://news.ycombinator.com/item?id=50321130</a></p>\n<p>Points: 57</p>\n<p># Comments: 38</p>",
-        "pubDate": "Sat, 31 Oct 2026 23:08:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50321130"
-      },
-      {
         "title": "Altoids Project",
         "link": "https://uvdn7.github.io/altoids-project/",
-        "description": "<p>Article URL: <a href=\"https://uvdn7.github.io/altoids-project/\">https://uvdn7.github.io/altoids-project/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321048\">https://news.ycombinator.com/item?id=50321048</a></p>\n<p>Points: 81</p>\n<p># Comments: 4</p>",
+        "description": "<p>Article URL: <a href=\"https://uvdn7.github.io/altoids-project/\">https://uvdn7.github.io/altoids-project/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321048\">https://news.ycombinator.com/item?id=50321048</a></p>\n<p>Points: 122</p>\n<p># Comments: 7</p>",
         "pubDate": "Sat, 31 Oct 2026 22:54:55 +0000",
         "guid": "https://news.ycombinator.com/item?id=50321048"
       },
       {
         "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
         "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "description": "<p>Article URL: <a href=\"https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320995\">https://news.ycombinator.com/item?id=50320995</a></p>\n<p>Points: 152</p>\n<p># Comments: 83</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320995\">https://news.ycombinator.com/item?id=50320995</a></p>\n<p>Points: 285</p>\n<p># Comments: 131</p>",
         "pubDate": "Sat, 31 Oct 2026 22:46:12 +0000",
         "guid": "https://news.ycombinator.com/item?id=50320995"
       },
       {
         "title": "An Italian farmer found some unknown seeds in his attic and planted them",
         "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/\">https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320963\">https://news.ycombinator.com/item?id=50320963</a></p>\n<p>Points: 274</p>\n<p># Comments: 75</p>",
+        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/\">https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320963\">https://news.ycombinator.com/item?id=50320963</a></p>\n<p>Points: 521</p>\n<p># Comments: 163</p>",
         "pubDate": "Sat, 31 Oct 2026 22:41:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=50320963"
       },
       {
-        "title": "AI text watermarking and quality loss",
-        "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-        "description": "<p>Article URL: <a href=\"https://blog.keyvan.net/p/ai-text-watermarking-and-quality\">https://blog.keyvan.net/p/ai-text-watermarking-and-quality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320599\">https://news.ycombinator.com/item?id=50320599</a></p>\n<p>Points: 42</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sat, 31 Oct 2026 21:50:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50320599"
-      },
-      {
         "title": "ChatGPT and Codex usage limits merging",
         "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "description": "<p>Article URL: <a href=\"https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits\">https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320588\">https://news.ycombinator.com/item?id=50320588</a></p>\n<p>Points: 50</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits\">https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320588\">https://news.ycombinator.com/item?id=50320588</a></p>\n<p>Points: 177</p>\n<p># Comments: 107</p>",
         "pubDate": "Sat, 31 Oct 2026 21:49:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=50320588"
       },
       {
         "title": "Surviving \"The Graduate\"",
         "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-        "description": "<p><a href=\"https://archive.ph/Eqn1F\" rel=\"nofollow\">https://archive.ph/Eqn1F</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319563\">https://news.ycombinator.com/item?id=50319563</a></p>\n<p>Points: 91</p>\n<p># Comments: 29</p>",
+        "description": "<p><a href=\"https://archive.ph/Eqn1F\" rel=\"nofollow\">https://archive.ph/Eqn1F</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319563\">https://news.ycombinator.com/item?id=50319563</a></p>\n<p>Points: 133</p>\n<p># Comments: 39</p>",
         "pubDate": "Sat, 31 Oct 2026 20:02:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=50319563"
       },
       {
         "title": "HackerTube: YouTube built from videos recommended by HN",
         "link": "https://karpathy.bearblog.dev/hacker-tube/",
-        "description": "<p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https://hackertube.org/\" rel=\"nofollow\">https://hackertube.org/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319510\">https://news.ycombinator.com/item?id=50319510</a></p>\n<p>Points: 974</p>\n<p># Comments: 299</p>",
+        "description": "<p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https://hackertube.org/\" rel=\"nofollow\">https://hackertube.org/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319510\">https://news.ycombinator.com/item?id=50319510</a></p>\n<p>Points: 1490</p>\n<p># Comments: 402</p>",
         "pubDate": "Sat, 31 Oct 2026 19:56:53 +0000",
         "guid": "https://news.ycombinator.com/item?id=50319510"
       },
       {
-        "title": "Anthropic blocks users for anything touching training larger models",
-        "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/jiahaoshao1/status/2116475922190922088\">https://twitter.com/jiahaoshao1/status/2116475922190922088</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319358\">https://news.ycombinator.com/item?id=50319358</a></p>\n<p>Points: 282</p>\n<p># Comments: 158</p>",
-        "pubDate": "Sat, 31 Oct 2026 19:39:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50319358"
-      },
-      {
-        "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-        "link": "https://epoyraz.github.io/nes-contra-us/",
-        "description": "<p>Based on vermiceli's annotated disassembly of Contra: <a href=\"https://github.com/vermiceli/nes-contra-us\" rel=\"nofollow\">https://github.com/vermiceli/nes-contra-us</a>. Thanks for the great work.<p>I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser.<p>The cherry on top: online multiplayer, so two players can play co-op over the internet.<p>Source: <a href=\"https://github.com/epoyraz/nes-contra-us\" rel=\"nofollow\">https://github.com/epoyraz/nes-contra-us</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319169\">https://news.ycombinator.com/item?id=50319169</a></p>\n<p>Points: 77</p>\n<p># Comments: 46</p>",
-        "pubDate": "Sat, 31 Oct 2026 19:18:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50319169"
-      },
-      {
         "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
         "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-        "description": "<p>Article URL: <a href=\"https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319143\">https://news.ycombinator.com/item?id=50319143</a></p>\n<p>Points: 432</p>\n<p># Comments: 196</p>",
+        "description": "<p>Article URL: <a href=\"https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319143\">https://news.ycombinator.com/item?id=50319143</a></p>\n<p>Points: 551</p>\n<p># Comments: 255</p>",
         "pubDate": "Sat, 31 Oct 2026 19:16:30 +0000",
         "guid": "https://news.ycombinator.com/item?id=50319143"
       },
       {
         "title": "Electrification Could Cut Global Energy Use in Half",
         "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-        "description": "<p>Article URL: <a href=\"https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/\">https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319110\">https://news.ycombinator.com/item?id=50319110</a></p>\n<p>Points: 68</p>\n<p># Comments: 13</p>",
+        "description": "<p>Article URL: <a href=\"https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/\">https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319110\">https://news.ycombinator.com/item?id=50319110</a></p>\n<p>Points: 142</p>\n<p># Comments: 70</p>",
         "pubDate": "Sat, 31 Oct 2026 19:13:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50319110"
       },
       {
-        "title": "The Duty of a Scholar",
-        "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-        "description": "<p>Article URL: <a href=\"https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html\">https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319061\">https://news.ycombinator.com/item?id=50319061</a></p>\n<p>Points: 104</p>\n<p># Comments: 31</p>",
-        "pubDate": "Sat, 31 Oct 2026 19:07:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50319061"
-      },
-      {
         "title": "It's the memory latency, stupid",
         "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-        "description": "<p>Article URL: <a href=\"https://pivotlake.io/blog/its-the-memory-latency-stupid/\">https://pivotlake.io/blog/its-the-memory-latency-stupid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318720\">https://news.ycombinator.com/item?id=50318720</a></p>\n<p>Points: 170</p>\n<p># Comments: 45</p>",
+        "description": "<p>Article URL: <a href=\"https://pivotlake.io/blog/its-the-memory-latency-stupid/\">https://pivotlake.io/blog/its-the-memory-latency-stupid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318720\">https://news.ycombinator.com/item?id=50318720</a></p>\n<p>Points: 217</p>\n<p># Comments: 70</p>",
         "pubDate": "Sat, 31 Oct 2026 18:38:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50318720"
       },
       {
+        "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+        "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html\">https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316117\">https://news.ycombinator.com/item?id=50316117</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 31 Oct 2026 13:41:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50316117"
+      },
+      {
         "title": "Jepsen: ParticleDB 1.1.4",
         "link": "https://jepsen.io/analyses/particledb-1.1.4",
-        "description": "<p><a href=\"https://github.com/jepsen-io/particledb\" rel=\"nofollow\">https://github.com/jepsen-io/particledb</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316100\">https://news.ycombinator.com/item?id=50316100</a></p>\n<p>Points: 234</p>\n<p># Comments: 126</p>",
+        "description": "<p><a href=\"https://github.com/jepsen-io/particledb\" rel=\"nofollow\">https://github.com/jepsen-io/particledb</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316100\">https://news.ycombinator.com/item?id=50316100</a></p>\n<p>Points: 284</p>\n<p># Comments: 162</p>",
         "pubDate": "Sat, 31 Oct 2026 13:39:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50316100"
       },
       {
         "title": "Do the math: How we took over ChatGPT accounts",
         "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "description": "<p>Article URL: <a href=\"https://www.parameter.ai/labs/we-found-a-gap-at-openai\">https://www.parameter.ai/labs/we-found-a-gap-at-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50314699\">https://news.ycombinator.com/item?id=50314699</a></p>\n<p>Points: 315</p>\n<p># Comments: 157</p>",
+        "description": "<p>Article URL: <a href=\"https://www.parameter.ai/labs/we-found-a-gap-at-openai\">https://www.parameter.ai/labs/we-found-a-gap-at-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50314699\">https://news.ycombinator.com/item?id=50314699</a></p>\n<p>Points: 344</p>\n<p># Comments: 168</p>",
         "pubDate": "Sat, 31 Oct 2026 10:30:11 +0000",
         "guid": "https://news.ycombinator.com/item?id=50314699"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-01T05:46:50.361Z",
+  "lastUpdated": "2026-11-01T13:08:32.452Z",
   "stats": {
     "feeds": 2,
     "articles": 20
