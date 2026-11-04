@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-04T14:21:10.551Z"
+      "lastFetched": "2026-11-04T23:32:03.077Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-04T14:21:30.435Z"
+      "lastFetched": "2026-11-04T23:32:22.847Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
-        "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-        "description": "<p>Article URL: <a href=\"https://lists.debian.org/debian-security-announce/2026/msg00526.html\">https://lists.debian.org/debian-security-announce/2026/msg00526.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364814\">https://news.ycombinator.com/item?id=50364814</a></p>\n<p>Points: 50</p>\n<p># Comments: 42</p>",
-        "pubDate": "Wed, 04 Nov 2026 12:46:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50364814"
+        "title": "Successful People (2013)",
+        "link": "https://blog.samaltman.com/successful-people",
+        "description": "<p>Article URL: <a href=\"https://blog.samaltman.com/successful-people\">https://blog.samaltman.com/successful-people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372660\">https://news.ycombinator.com/item?id=50372660</a></p>\n<p>Points: 5</p>\n<p># Comments: 4</p>",
+        "pubDate": "Wed, 04 Nov 2026 23:01:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50372660"
       },
       {
-        "title": "A map of 5000+ midterm ads",
-        "link": "https://admap.org/",
-        "description": "<p>Article URL: <a href=\"https://admap.org/\">https://admap.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364561\">https://news.ycombinator.com/item?id=50364561</a></p>\n<p>Points: 51</p>\n<p># Comments: 17</p>",
-        "pubDate": "Wed, 04 Nov 2026 12:18:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50364561"
+        "title": "Less Popular Than Coal",
+        "link": "https://www.argmin.net/p/less-popular-than-coal",
+        "description": "<p>Article URL: <a href=\"https://www.argmin.net/p/less-popular-than-coal\">https://www.argmin.net/p/less-popular-than-coal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372360\">https://news.ycombinator.com/item?id=50372360</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 04 Nov 2026 22:26:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50372360"
       },
       {
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364336\">https://news.ycombinator.com/item?id=50364336</a></p>\n<p>Points: 280</p>\n<p># Comments: 169</p>",
-        "pubDate": "Wed, 04 Nov 2026 11:52:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50364336"
+        "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+        "link": "https://news.ycombinator.com/item?id=50372294",
+        "description": "<p>I recently commented on the \"who wants to be hired\" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372294\">https://news.ycombinator.com/item?id=50372294</a></p>\n<p>Points: 32</p>\n<p># Comments: 21</p>",
+        "pubDate": "Wed, 04 Nov 2026 22:18:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50372294"
       },
       {
-        "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
-        "link": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
-        "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver\">https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363968\">https://news.ycombinator.com/item?id=50363968</a></p>\n<p>Points: 58</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 04 Nov 2026 11:14:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50363968"
+        "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+        "link": "https://icode4.coffee/?p=1746",
+        "description": "<p>Article URL: <a href=\"https://icode4.coffee/?p=1746\">https://icode4.coffee/?p=1746</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372164\">https://news.ycombinator.com/item?id=50372164</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50372164"
       },
       {
-        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai\">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363554\">https://news.ycombinator.com/item?id=50363554</a></p>\n<p>Points: 170</p>\n<p># Comments: 117</p>",
-        "pubDate": "Wed, 04 Nov 2026 10:23:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50363554"
+        "title": "Death Comes for XSLT",
+        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+        "description": "<p>Article URL: <a href=\"https://dbushell.com/2026/11/03/xslt-rip/\">https://dbushell.com/2026/11/03/xslt-rip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371408\">https://news.ycombinator.com/item?id=50371408</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 04 Nov 2026 20:57:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50371408"
       },
       {
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "link": "https://news.ycombinator.com/item?id=50363461",
-        "description": "<p>If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn <i>not to enter confidential information</i>.<p>https://support.google.com/gemini/answer/16836988<p><i>“[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“</i><p>https://support.google.com/gemini/answer/13594961?hl=en#human_review<p><i>“A subset of chats are reviewed by human reviewers”</i><p>https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data<p><i>“Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.”</i><p>https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage<p><i>“Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”</i><p>To disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours.<p>I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough.<p>Thank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363461\">https://news.ycombinator.com/item?id=50363461</a></p>\n<p>Points: 218</p>\n<p># Comments: 58</p>",
-        "pubDate": "Wed, 04 Nov 2026 10:10:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50363461"
+        "title": "Residential proxies detected on White House network",
+        "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "description": "<p>Article URL: <a href=\"https://layer3intel.com/blog/residential-proxies-white-house-network\">https://layer3intel.com/blog/residential-proxies-white-house-network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371246\">https://news.ycombinator.com/item?id=50371246</a></p>\n<p>Points: 445</p>\n<p># Comments: 130</p>",
+        "pubDate": "Wed, 04 Nov 2026 20:45:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50371246"
       },
       {
-        "title": "Incident with Pull Requests, Git Operations and Issues",
-        "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-        "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/smtdswd1h2w4\">https://www.githubstatus.com/incidents/smtdswd1h2w4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363378\">https://news.ycombinator.com/item?id=50363378</a></p>\n<p>Points: 137</p>\n<p># Comments: 70</p>",
-        "pubDate": "Wed, 04 Nov 2026 10:00:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50363378"
+        "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "link": "https://github.com/gauge-sh/gauge-cli",
+        "description": "<p>Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don't need an account to try it. Explainer video here: <a href=\"https://youtu.be/zhLUlIKB1Mg\" rel=\"nofollow\">https://youtu.be/zhLUlIKB1Mg</a><p>The CLI supports a hillclimbing loop:<p>- set up tasks for coding agents that would need your docs, like 'set up Gauge CI checks'<p>- run the tasks<p>- analyze session transcripts for friction or failures<p>- create variants of your docs to resolve the issues<p>- re-run the tasks with the doc variants injected (transparently, at the same hostname)<p>- repeat until you have a variant that resolves the issues<p>The same loop supports hillclimbing your Skills, CLI, and other agent-facing surfaces.<p>We started out 2 years ago building open-source developer tools (like Tach <a href=\"https://github.com/tach-org/tach\" rel=\"nofollow\">https://github.com/tach-org/tach</a>), then pivoted to AI Search optimization, and are now focused on the intersection of the two spaces. We were already working with awesome devtool companies, and they were the first ones to ask us how to optimize for Claude Code and Codex. We realized this would be something that eventually every company needs to do. Our CLI provides primitives for docs/devrel/eng teams to measure, analyze, and improve how coding agents use their product.<p>The design boils down to two components: VMs and a network gateway.<p>The VMs are straightforward, we want the agents to be highly privileged within their environment so that they are representative of developers' coding agents. Each VM generally comes with the agent harness itself, language toolchains, and a git repository.<p>The network gateway is where we terminate TLS and swap in variants of your docs transparently. The gateway also handles credential replacement, so agents see placeholders and can't exfiltrate keys.<p>The CLI comes with a 'local' execution backend (inference is still remote). For VMs, it uses Docker containers, and the network gateway is mitmproxy running in a sidecar container for each session.<p>We've used the hillclimbing loop internally to find and fix coding agent issues like mistaken pricing, inaccurate product limitations, and repeated workarounds. We saw coding agents report that Gauge only supports Claude Code and Codex, traced it back to the web pages they fetched, and fixed the behavior (we support Pi, OpenCode, and Antigravity as well). For Clerk, we helped shift coding agents from their legacy 'keyless' mode to their new 'clerk init' command. They were able to validate a pre-release change to their SDK's error messages using Gauge, then saw a 3x increase in coding agents using 'clerk init' post-deploy.<p>Due to the 'static' nature of AI models, we've realized that closed-loop optimization techniques are now possible for essentially all software products. The same agent can be simulated over and over, meaning that a high-fidelity testing environment is all you need. Achieving the best results boils down to high-quality analysis (finding generalizable friction and objections) and paired experiments (vary only the content, measure the downstream change in behavior).<p>The repo is here: <a href=\"https://github.com/gauge-sh/gauge-cli\" rel=\"nofollow\">https://github.com/gauge-sh/gauge-cli</a> and you can start using the CLI with: npm i -g @withgauge/cli<p>We also have documentation and a quickstart here: <a href=\"https://docs.withgauge.com/agents/guides/cli\">https://docs.withgauge.com/agents/guides/cli</a><p>If you point a coding agent at those pages, it should guide you through the initial setup - let us know if it doesn't! The intention is for your agent to run some sensible evaluations and find at least one point of friction you can fix.<p>We'd love to know from HN: Has anyone tried to DIY this locally, or built something in-house at their company? Is this an improvement? If not, what would need to change?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371090\">https://news.ycombinator.com/item?id=50371090</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 04 Nov 2026 20:31:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50371090"
       },
       {
-        "title": "Verification Is Not Knowledge: Science needs more than answers",
-        "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-        "description": "<p>Article URL: <a href=\"https://blog.cosmos-institute.org/p/verification-is-not-knowledge\">https://blog.cosmos-institute.org/p/verification-is-not-knowledge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363019\">https://news.ycombinator.com/item?id=50363019</a></p>\n<p>Points: 110</p>\n<p># Comments: 64</p>",
-        "pubDate": "Wed, 04 Nov 2026 09:01:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50363019"
+        "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+        "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\">https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50370654\">https://news.ycombinator.com/item?id=50370654</a></p>\n<p>Points: 74</p>\n<p># Comments: 36</p>",
+        "pubDate": "Wed, 04 Nov 2026 19:55:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50370654"
       },
       {
-        "title": "Kitty 0.50",
-        "link": "https://sw.kovidgoyal.net/kitty/changelog/#",
-        "description": "<p>Article URL: <a href=\"https://sw.kovidgoyal.net/kitty/changelog/#\">https://sw.kovidgoyal.net/kitty/changelog/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362980\">https://news.ycombinator.com/item?id=50362980</a></p>\n<p>Points: 235</p>\n<p># Comments: 145</p>",
-        "pubDate": "Wed, 04 Nov 2026 08:57:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50362980"
+        "title": "Insects don't swarm at LED lights",
+        "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+        "description": "<p>Article URL: <a href=\"https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/\">https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50370610\">https://news.ycombinator.com/item?id=50370610</a></p>\n<p>Points: 132</p>\n<p># Comments: 71</p>",
+        "pubDate": "Wed, 04 Nov 2026 19:50:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50370610"
       },
       {
-        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-        "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-        "description": "<p>Article URL: <a href=\"https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop\">https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362905\">https://news.ycombinator.com/item?id=50362905</a></p>\n<p>Points: 246</p>\n<p># Comments: 138</p>",
-        "pubDate": "Wed, 04 Nov 2026 08:46:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50362905"
+        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "link": "https://www.ricursive.com/ripple",
+        "description": "<p>Article URL: <a href=\"https://www.ricursive.com/ripple\">https://www.ricursive.com/ripple</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369925\">https://news.ycombinator.com/item?id=50369925</a></p>\n<p>Points: 185</p>\n<p># Comments: 61</p>",
+        "pubDate": "Wed, 04 Nov 2026 18:53:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50369925"
       },
       {
-        "title": "The lost malloc()",
-        "link": "https://napcakes.nekoweb.org/posts/malloc/",
-        "description": "<p>Article URL: <a href=\"https://napcakes.nekoweb.org/posts/malloc/\">https://napcakes.nekoweb.org/posts/malloc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362466\">https://news.ycombinator.com/item?id=50362466</a></p>\n<p>Points: 87</p>\n<p># Comments: 25</p>",
-        "pubDate": "Wed, 04 Nov 2026 07:37:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50362466"
+        "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+        "link": "https://fireflyk64.github.io/wcmulti/",
+        "description": "<p>Article URL: <a href=\"https://fireflyk64.github.io/wcmulti/\">https://fireflyk64.github.io/wcmulti/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369895\">https://news.ycombinator.com/item?id=50369895</a></p>\n<p>Points: 85</p>\n<p># Comments: 8</p>",
+        "pubDate": "Wed, 04 Nov 2026 18:51:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50369895"
       },
       {
-        "title": "Jelly Sheet",
-        "link": "https://mrdoob.github.io/codevember-2026/01/",
-        "description": "<p>Article URL: <a href=\"https://mrdoob.github.io/codevember-2026/01/\">https://mrdoob.github.io/codevember-2026/01/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361268\">https://news.ycombinator.com/item?id=50361268</a></p>\n<p>Points: 324</p>\n<p># Comments: 83</p>",
-        "pubDate": "Wed, 04 Nov 2026 03:40:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50361268"
+        "title": "From wild to mild: Friendly foxes show changes in brain region",
+        "link": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+        "description": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region\">https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369527\">https://news.ycombinator.com/item?id=50369527</a></p>\n<p>Points: 34</p>\n<p># Comments: 6</p>",
+        "pubDate": "Wed, 04 Nov 2026 18:24:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50369527"
       },
       {
-        "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-        "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-        "description": "<p>Article URL: <a href=\"https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients\">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361154\">https://news.ycombinator.com/item?id=50361154</a></p>\n<p>Points: 94</p>\n<p># Comments: 34</p>",
-        "pubDate": "Wed, 04 Nov 2026 03:20:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50361154"
+        "title": "Conductor is joining Meta",
+        "link": "https://www.conductor.build/announcement",
+        "description": "<p>Article URL: <a href=\"https://www.conductor.build/announcement\">https://www.conductor.build/announcement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369503\">https://news.ycombinator.com/item?id=50369503</a></p>\n<p>Points: 71</p>\n<p># Comments: 127</p>",
+        "pubDate": "Wed, 04 Nov 2026 18:22:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50369503"
       },
       {
-        "title": "Arrows to arrows, categories to queries (2025)",
-        "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-        "description": "<p>Article URL: <a href=\"https://reasonablypolymorphic.com/blog/arrows-to-arrows/\">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361107\">https://news.ycombinator.com/item?id=50361107</a></p>\n<p>Points: 65</p>\n<p># Comments: 5</p>",
-        "pubDate": "Wed, 04 Nov 2026 03:11:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50361107"
+        "title": "A new Go API for JSON",
+        "link": "https://go.dev/blog/jsonv2",
+        "description": "<p>Article URL: <a href=\"https://go.dev/blog/jsonv2\">https://go.dev/blog/jsonv2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369106\">https://news.ycombinator.com/item?id=50369106</a></p>\n<p>Points: 188</p>\n<p># Comments: 79</p>",
+        "pubDate": "Wed, 04 Nov 2026 17:52:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50369106"
       },
       {
-        "title": "Giant canyon on Mars is still tectonically active",
-        "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-        "description": "<p>Article URL: <a href=\"https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today\">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50360573\">https://news.ycombinator.com/item?id=50360573</a></p>\n<p>Points: 115</p>\n<p># Comments: 23</p>",
-        "pubDate": "Wed, 04 Nov 2026 01:40:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50360573"
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "link": "https://news.ycombinator.com/item?id=50368804",
+        "description": "<p>Hi HN! I'm Luke from Kino (<a href=\"https://kino.ai\">https://kino.ai</a>). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at <a href=\"https://kino.ai/walkthrough-video\">https://kino.ai/walkthrough-video</a> and our launch video (made entirely with Kino!) at <a href=\"https://kino.ai/launch-video\">https://kino.ai/launch-video</a><p>Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny edits either in words or in quick one-off UIs, you can’t refer to footage shared across your devices, and feedback from teammates comes as screenshots on Slack.<p>Kino is code-first. All editing, all motion graphics, all dragging of timeline items around, all teammate comments, and all 3D scenes are expressed as code, built on Remotion. This was hard to get right, as we found ourselves building a what-you-see-is-what-you-get editor for React, which we then turned into a video editor. For our launch video I told Claude-with-Kino to find a macOS Leopard install disk and reskin our whole video to match.<p>Kino is also fully collaborative and real-time, so you can see your teammates' cursors and exactly which part of the timeline they’re currently watching. For our launch video I had 5+ agents editing the timeline concurrently while my friend Donald had his swarm working a few minutes further down. Donald had one agent rotoscoping to make our visual effects work, I had an LLM color grading all media via our LUT support, and we both made tiny tweaks to the timeline along the way.<p>To make this code-first editor work with video footage, everything gets transcribed, embedded, described, and face-detected. You can scrub your footage locally after you drag it in, but we upload a low-res proxy so your teammates and cloud inference can see it. This local scrubbing plus custom pro media decoders means you can drag a 250GB ProRes clip from your new iPhone right into your Kino timeline. We built custom decoders for professional codecs such as ProRes, BRAW, R3D, and more (see my extremely successful nine point HN post <a href=\"https://news.ycombinator.com/item?id=50198052\">https://news.ycombinator.com/item?id=50198052</a>). None of the performance we’re getting would have been possible before WebCodecs and libraries like Mediabunny.<p>I grew up making YouTube videos, and during my undergrad at MIT I co-directed a 3.5 hour archival footage documentary on the history of my school and technological development in America (<a href=\"https://regressions.net\" rel=\"nofollow\">https://regressions.net</a>). Much of the work was logging footage, managing hard drives, manually syncing Premiere project state, and planning our movie in a spreadsheet.<p>Our first launch in 2023 proclaimed that Kino was \"Silicon Valley meets Hollywood.\" It was more like Palantir for Hollywood; we ran bespoke on-prem Kino deployments with our team of forward deployed engineers on shows like Survivor and A24's Beef. It was a rush, but it felt like the slowest way to improve video editing for the whole world. Bound by the Avid Media Composer and strict studio security rules, we couldn't touch frontier models, and we couldn't make editors >10x faster. So in 2025, we rebuilt Kino as a true editor, and we took a bet on coding-as-editing.<p>Everything in Kino has a URL: projects, clips, footage, comments and replies, even a single frame and the line of code that draws it. Projects and media living in one place and everything being addressable means that your agents and team have a single, editable source of truth for video production. At a lower level, I now paste Kino links into my agent constantly, whether it’s making sure Codex knows exactly which timeline item (among thousands) I am referring to or which teammate’s comment needs fixing.<p>We have teams managing their whole company’s media in Kino, spinning up agents to make new videos every day, then using review links to flag issues. One founder ships ads like this: each day he uses Kino's YouTube support to find b-roll he is allowed to use, he edits something, his co-founder leaves notes such as “we need to use this clip instead” and his agent can then apply them. Full-time filmmakers are also using Kino. They tend to resemble “toxenmaxxer” software developers, where 15+ agents iterate on a single project, each trusting Kino as the source of truth for timeline state, graphics, media, everything.<p>The full editor is free, including unlimited imports and exports, real-time collaboration and MCP access for your own agent. Pro is $25 per editor per month and adds unlimited MCP tool calls, share links, more storage, YouTube search, and the ability to edit alongside your team. You can download it at <a href=\"https://kino.ai\">https://kino.ai</a>. We have not yet released Kino for the pure web browser, just Electron for now.<p>If you make videos personally, if you have ProRes media and you want to try to break Kino, if you have legacy video editor projects to bring in, or if you want to make more content for your company, we'd love to hear how Kino works for you.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50368804\">https://news.ycombinator.com/item?id=50368804</a></p>\n<p>Points: 61</p>\n<p># Comments: 26</p>",
+        "pubDate": "Wed, 04 Nov 2026 17:31:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50368804"
       },
       {
-        "title": "C++26 Disapproved",
-        "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-        "description": "<p>Article URL: <a href=\"https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/\">https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50360164\">https://news.ycombinator.com/item?id=50360164</a></p>\n<p>Points: 360</p>\n<p># Comments: 256</p>",
-        "pubDate": "Wed, 04 Nov 2026 00:33:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50360164"
+        "title": "Progress on provable inference for large language models",
+        "link": "https://www.anthropic.com/research/provable-inference",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/provable-inference\">https://www.anthropic.com/research/provable-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50368626\">https://news.ycombinator.com/item?id=50368626</a></p>\n<p>Points: 160</p>\n<p># Comments: 78</p>",
+        "pubDate": "Wed, 04 Nov 2026 17:17:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50368626"
       },
       {
-        "title": "The Internals of PostgreSQL",
-        "link": "https://www.interdb.jp/pg/index.html",
-        "description": "<p>Article URL: <a href=\"https://www.interdb.jp/pg/index.html\">https://www.interdb.jp/pg/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358702\">https://news.ycombinator.com/item?id=50358702</a></p>\n<p>Points: 317</p>\n<p># Comments: 23</p>",
-        "pubDate": "Tue, 03 Nov 2026 21:51:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50358702"
+        "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections\">https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367125\">https://news.ycombinator.com/item?id=50367125</a></p>\n<p>Points: 428</p>\n<p># Comments: 149</p>",
+        "pubDate": "Wed, 04 Nov 2026 15:38:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50367125"
       },
       {
-        "title": "Safari introduces Adaptive Dark Mode in 27.3",
-        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-        "description": "<p>Article URL: <a href=\"https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358562\">https://news.ycombinator.com/item?id=50358562</a></p>\n<p>Points: 465</p>\n<p># Comments: 244</p>",
-        "pubDate": "Tue, 03 Nov 2026 21:39:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50358562"
+        "title": "Kimi K3.1 Pro model weights are out",
+        "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "description": "<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K3.1-Pro\">https://huggingface.co/moonshotai/Kimi-K3.1-Pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366999\">https://news.ycombinator.com/item?id=50366999</a></p>\n<p>Points: 312</p>\n<p># Comments: 85</p>",
+        "pubDate": "Wed, 04 Nov 2026 15:30:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50366999"
       },
       {
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "link": "https://uncracked.city",
-        "description": "<p>To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live.<p>As of today: it's free on Android, the iOS version is still waiting to be reviewed by Apple. It's available in six popular languages, but adding more languages is just a matter of time and demand.My long term vision if it takes off: weekly cases, private parties like a team-building escape game, an MCP so a game master can build their own scenario from ChatGPT or Claude, and maybe tourism offices since players travel the world.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358352\">https://news.ycombinator.com/item?id=50358352</a></p>\n<p>Points: 91</p>\n<p># Comments: 42</p>",
-        "pubDate": "Tue, 03 Nov 2026 21:20:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50358352"
+        "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+        "link": "https://pcdealcheck.com/",
+        "description": "<p>I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpful. <a href=\"https://www.youtube.com/watch?v=Tpft--x3WlI\" rel=\"nofollow\">https://www.youtube.com/watch?v=Tpft--x3WlI</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366929\">https://news.ycombinator.com/item?id=50366929</a></p>\n<p>Points: 84</p>\n<p># Comments: 59</p>",
+        "pubDate": "Wed, 04 Nov 2026 15:25:33 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50366929"
       },
       {
-        "title": "How I use AI (Oct 2026)",
-        "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-        "description": "<p>Article URL: <a href=\"https://ben.stolovitz.com/posts/how-use-ai-oct-2026/\">https://ben.stolovitz.com/posts/how-use-ai-oct-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355767\">https://news.ycombinator.com/item?id=50355767</a></p>\n<p>Points: 209</p>\n<p># Comments: 247</p>",
-        "pubDate": "Tue, 03 Nov 2026 18:11:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50355767"
+        "title": "Evergreen: A Provably Safe Systems Language",
+        "link": "https://evergreenlang.net",
+        "description": "<p>Article URL: <a href=\"https://evergreenlang.net\">https://evergreenlang.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366919\">https://news.ycombinator.com/item?id=50366919</a></p>\n<p>Points: 96</p>\n<p># Comments: 82</p>",
+        "pubDate": "Wed, 04 Nov 2026 15:25:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50366919"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-04T14:21:30.435Z",
+  "lastUpdated": "2026-11-04T23:32:22.847Z",
   "stats": {
     "feeds": 2,
     "articles": 20
