@@ -5,52 +5,122 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-05T19:49:33.527Z"
+      "lastFetched": "2026-11-06T06:18:11.385Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-05T19:49:53.263Z"
+      "lastFetched": "2026-11-06T06:18:30.817Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "How to Lie With Statistics (1954) [pdf]",
-        "link": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
-        "description": "<p>Article URL: <a href=\"https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf\">https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50382594\">https://news.ycombinator.com/item?id=50382594</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
-        "pubDate": "Thu, 05 Nov 2026 18:29:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50382594"
+        "title": "How accurately did science fiction stories predict AI?",
+        "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+        "description": "<p>Article URL: <a href=\"https://jamesyu.org/science-fiction-predictions-of-ai/\">https://jamesyu.org/science-fiction-predictions-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388263\">https://news.ycombinator.com/item?id=50388263</a></p>\n<p>Points: 17</p>\n<p># Comments: 16</p>",
+        "pubDate": "Fri, 06 Nov 2026 04:36:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50388263"
       },
       {
-        "title": "NTS: Authenticated Time at Meta",
-        "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-        "description": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/\">https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50382525\">https://news.ycombinator.com/item?id=50382525</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
-        "pubDate": "Thu, 05 Nov 2026 18:24:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50382525"
+        "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+        "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+        "description": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388122\">https://news.ycombinator.com/item?id=50388122</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+        "pubDate": "Fri, 06 Nov 2026 04:17:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50388122"
       },
       {
-        "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026\">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50382179\">https://news.ycombinator.com/item?id=50382179</a></p>\n<p>Points: 117</p>\n<p># Comments: 112</p>",
-        "pubDate": "Thu, 05 Nov 2026 18:00:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50382179"
+        "title": "Pwn.college",
+        "link": "https://pwn.college/",
+        "description": "<p>Article URL: <a href=\"https://pwn.college/\">https://pwn.college/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387796\">https://news.ycombinator.com/item?id=50387796</a></p>\n<p>Points: 64</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 06 Nov 2026 03:27:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50387796"
+      },
+      {
+        "title": "Nvidia Kubernetes Engine (NVKE)",
+        "link": "https://github.com/dsx-ai-factory/nvke",
+        "description": "<p>Article URL: <a href=\"https://github.com/dsx-ai-factory/nvke\">https://github.com/dsx-ai-factory/nvke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387738\">https://news.ycombinator.com/item?id=50387738</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+        "pubDate": "Fri, 06 Nov 2026 03:16:26 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50387738"
+      },
+      {
+        "title": "Closed AI models dominate the price-performance frontier",
+        "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+        "description": "<p>Article URL: <a href=\"https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/\">https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387546\">https://news.ycombinator.com/item?id=50387546</a></p>\n<p>Points: 48</p>\n<p># Comments: 36</p>",
+        "pubDate": "Fri, 06 Nov 2026 02:49:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50387546"
+      },
+      {
+        "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+        "link": "https://github.com/matthewmrichter/mooftcp",
+        "description": "<p>Article URL: <a href=\"https://github.com/matthewmrichter/mooftcp\">https://github.com/matthewmrichter/mooftcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386789\">https://news.ycombinator.com/item?id=50386789</a></p>\n<p>Points: 33</p>\n<p># Comments: 20</p>",
+        "pubDate": "Fri, 06 Nov 2026 00:54:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50386789"
+      },
+      {
+        "title": "Inkling 2 Small",
+        "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-small/\">https://thinkingmachines.ai/news/inkling-2-small/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386338\">https://news.ycombinator.com/item?id=50386338</a></p>\n<p>Points: 147</p>\n<p># Comments: 53</p>",
+        "pubDate": "Fri, 06 Nov 2026 00:00:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50386338"
+      },
+      {
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "description": "<p>Article URL: <a href=\"https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385870\">https://news.ycombinator.com/item?id=50385870</a></p>\n<p>Points: 237</p>\n<p># Comments: 109</p>",
+        "pubDate": "Thu, 05 Nov 2026 23:09:57 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50385870"
+      },
+      {
+        "title": "Claude Code sends your email address to websites",
+        "link": "https://github.com/anthropics/claude-code/issues/107757",
+        "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/107757\">https://github.com/anthropics/claude-code/issues/107757</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385272\">https://news.ycombinator.com/item?id=50385272</a></p>\n<p>Points: 836</p>\n<p># Comments: 275</p>",
+        "pubDate": "Thu, 05 Nov 2026 22:17:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50385272"
+      },
+      {
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "description": "<p>Article URL: <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-83844\">https://www.cve.org/CVERecord?id=CVE-2026-83844</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50384233\">https://news.ycombinator.com/item?id=50384233</a></p>\n<p>Points: 433</p>\n<p># Comments: 163</p>",
+        "pubDate": "Thu, 05 Nov 2026 20:43:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50384233"
+      },
+      {
+        "title": "Search for everyone",
+        "link": "https://kagi.com/changelog#11820",
+        "description": "<p>Article URL: <a href=\"https://kagi.com/changelog#11820\">https://kagi.com/changelog#11820</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383740\">https://news.ycombinator.com/item?id=50383740</a></p>\n<p>Points: 625</p>\n<p># Comments: 322</p>",
+        "pubDate": "Thu, 05 Nov 2026 20:03:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50383740"
+      },
+      {
+        "title": "Goodbye from Salon",
+        "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+        "description": "<p>Article URL: <a href=\"https://www.salon.com/2026/11/05/goodbye-from-salon/\">https://www.salon.com/2026/11/05/goodbye-from-salon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383739\">https://news.ycombinator.com/item?id=50383739</a></p>\n<p>Points: 538</p>\n<p># Comments: 196</p>",
+        "pubDate": "Thu, 05 Nov 2026 20:03:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50383739"
+      },
+      {
+        "title": "Pangram Image 1.0",
+        "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+        "description": "<p>Article URL: <a href=\"https://www.pangram.com/blog/introducing-pangram-image-1-0\">https://www.pangram.com/blog/introducing-pangram-image-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383294\">https://news.ycombinator.com/item?id=50383294</a></p>\n<p>Points: 87</p>\n<p># Comments: 38</p>",
+        "pubDate": "Thu, 05 Nov 2026 19:27:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50383294"
+      },
+      {
+        "title": "The Hackintosh Reborn",
+        "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+        "description": "<p>Article URL: <a href=\"https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/\">https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383057\">https://news.ycombinator.com/item?id=50383057</a></p>\n<p>Points: 271</p>\n<p># Comments: 132</p>",
+        "pubDate": "Thu, 05 Nov 2026 19:08:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50383057"
       },
       {
         "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
         "link": "https://github.com/rivet-dev/rivet",
-        "description": "<p>Hey HN, this is Nathan and Nicholas from Rivet (<a href=\"https://rivet.dev\">https://rivet.dev</a>) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.<p>Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle.<p>It's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable.<p>Here’s a video walkthrough: <a href=\"https://www.youtube.com/watch?v=3Ev6I7DOV9c\" rel=\"nofollow\">https://www.youtube.com/watch?v=3Ev6I7DOV9c</a><p>When we went through YC in 2023, we were building infrastructure for multiplayer games like Diep and Krunker. This involved heavily optimizing high-throughput matchmaking, real-time player messages, and blitz scaling. Through that process, we spent a lot of time on workloads where Postgres couldn't keep up with our throughput. We started out by hacking together Lua scripts on top of Redis, but this became too cumbersome to maintain and upgrade. This led us to extend our game server orchestrator to support what we call Rivet Actors today: many lightweight workers with in-memory state and durable storage. By using actors, we were able to serve tens of millions of monthly active users.<p>As agents grew in popularity, it became clear that running agents in sandboxes is inefficient. Sandboxes are expensive, mostly idle, and slow to start. Developers started using actors because they are far more memory efficient (72 KB baseline for actors vs 512 MB for a minimal sandbox) and fast to start (4.9 ms p99 for actors vs 1.7 s p99 for sandboxes).<p>For example, Amp is using Rivet to orchestrate multiplayer agents. They originally tried to build on Cloudflare Durable Objects, but couldn’t launch because of the platform’s limitations and unresponsive support. They migrated to Rivet Actors in a weekend and deploy on-prem. Rivet’s flexible architecture lets them adapt it to their own use cases without being constrained by a framework or the memory, storage, and runtime limits of Cloudflare Durable Objects.<p>Under the hood, Rivet is backed by S3 while maintaining SSD speeds.<p>Why S3? Previously, Rivet ran on FoundationDB. However, we were surprised to find that companies are storing orders of magnitude more data on Rivet Actors than in Postgres, such as large session transcripts, agent artifacts, and full POSIX filesystems. As their data grew, they had to start paying for SSDs that sat mostly idle with old transcripts. This led us to double down on S3 as our primary storage medium without sacrificing performance. This choice means that data stored on Rivet is 10× cheaper than on EBS gp3 while maintaining SSD speeds.<p>It’s not as simple as writing data straight to S3. Lots of PUTs for tiny blobs of data are slow and expensive. Instead, we use an SSD tier to optimize speed and cost:<p>When you write data to an actor’s SQLite database, the write is acknowledged once SSDs in 2 of 3 availability zones have it. Then, the data is batched to S3 in the background. This means that S3 is never on the write path, which lowers latency and cost. When reading data or waking an actor, Rivet reads from SSDs if already cached and falls back to S3 if not. SSD caches can be tuned to meet your needs, giving you configurable tiered storage for your actors.<p>This architecture lets Rivet provide 1.07 ms durable writes (3 AZ, p99), 1.36 ms reads (p99), and 138 ms reads from object storage (p99).<p>We’ve spent a lot of time making sure that Rivet can run wherever you need it. Self-hosting requires deploying a single Rust binary with S3 as the only dependency, Rivet Cloud lets you deploy dedicated clusters on AWS or GCP in any region, and BYOC lets us deploy Rivet to your VPC without having to operate it yourself. Rivet also runs identically in local dev as in production, since Rivet is a lightweight binary that runs anywhere<p>Rivet Actors can be written in TypeScript or Rust. Out of the box, they support agents (Pi Durable), workflows, real-time, multiplayer, running AI-generated code, Durable Streams, and integrations with tools like Vercel’s Eve and Turso. See all of our available guides, or point your agent at them: <a href=\"https://rivet.dev/docs/#guides\">https://rivet.dev/docs/#guides</a><p>Try it out now, by reading our quickstart guides (<a href=\"https://rivet.dev/docs/\">https://rivet.dev/docs/</a>) or ask your agent: “Run npx skills add rivet-dev/skills, then build a multiplayer chat agent and run it locally.”<p>We’d love to get feedback on your experience with Rivet! We’re deeply invested in making Rivet an easy-to-self-host, flexible, and efficient way to run agentic workloads.<p>GitHub: <a href=\"https://github.com/rivet-dev/rivet\" rel=\"nofollow\">https://github.com/rivet-dev/rivet</a><p>Architecture: <a href=\"https://rivet.dev/docs/architecture/\">https://rivet.dev/docs/architecture/</a><p>Benchmarks: <a href=\"https://rivet.dev/docs/benchmarking/\">https://rivet.dev/docs/benchmarking/</a><p>Self-hosting: <a href=\"https://rivet.dev/docs/deploy/self-host/\">https://rivet.dev/docs/deploy/self-host/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381687\">https://news.ycombinator.com/item?id=50381687</a></p>\n<p>Points: 32</p>\n<p># Comments: 18</p>",
+        "description": "<p>Hey HN, this is Nathan and Nicholas from Rivet (<a href=\"https://rivet.dev\">https://rivet.dev</a>) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.<p>Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle.<p>It's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable.<p>Here’s a video walkthrough: <a href=\"https://www.youtube.com/watch?v=3Ev6I7DOV9c\" rel=\"nofollow\">https://www.youtube.com/watch?v=3Ev6I7DOV9c</a><p>When we went through YC in 2023, we were building infrastructure for multiplayer games like Diep and Krunker. This involved heavily optimizing high-throughput matchmaking, real-time player messages, and blitz scaling. Through that process, we spent a lot of time on workloads where Postgres couldn't keep up with our throughput. We started out by hacking together Lua scripts on top of Redis, but this became too cumbersome to maintain and upgrade. This led us to extend our game server orchestrator to support what we call Rivet Actors today: many lightweight workers with in-memory state and durable storage. By using actors, we were able to serve tens of millions of monthly active users.<p>As agents grew in popularity, it became clear that running agents in sandboxes is inefficient. Sandboxes are expensive, mostly idle, and slow to start. Developers started using actors because they are far more memory efficient (72 KB baseline for actors vs 512 MB for a minimal sandbox) and fast to start (4.9 ms p99 for actors vs 1.7 s p99 for sandboxes).<p>For example, Amp is using Rivet to orchestrate multiplayer agents. They originally tried to build on Cloudflare Durable Objects, but couldn’t launch because of the platform’s limitations and unresponsive support. They migrated to Rivet Actors in a weekend and deploy on-prem. Rivet’s flexible architecture lets them adapt it to their own use cases without being constrained by a framework or the memory, storage, and runtime limits of Cloudflare Durable Objects.<p>Under the hood, Rivet is backed by S3 while maintaining SSD speeds.<p>Why S3? Previously, Rivet ran on FoundationDB. However, we were surprised to find that companies are storing orders of magnitude more data on Rivet Actors than in Postgres, such as large session transcripts, agent artifacts, and full POSIX filesystems. As their data grew, they had to start paying for SSDs that sat mostly idle with old transcripts. This led us to double down on S3 as our primary storage medium without sacrificing performance. This choice means that data stored on Rivet is 10× cheaper than on EBS gp3 while maintaining SSD speeds.<p>It’s not as simple as writing data straight to S3. Lots of PUTs for tiny blobs of data are slow and expensive. Instead, we use an SSD tier to optimize speed and cost:<p>When you write data to an actor’s SQLite database, the write is acknowledged once SSDs in 2 of 3 availability zones have it. Then, the data is batched to S3 in the background. This means that S3 is never on the write path, which lowers latency and cost. When reading data or waking an actor, Rivet reads from SSDs if already cached and falls back to S3 if not. SSD caches can be tuned to meet your needs, giving you configurable tiered storage for your actors.<p>This architecture lets Rivet provide 1.07 ms durable writes (3 AZ, p99), 1.36 ms reads (p99), and 138 ms reads from object storage (p99).<p>We’ve spent a lot of time making sure that Rivet can run wherever you need it. Self-hosting requires deploying a single Rust binary with S3 as the only dependency, Rivet Cloud lets you deploy dedicated clusters on AWS or GCP in any region, and BYOC lets us deploy Rivet to your VPC without having to operate it yourself. Rivet also runs identically in local dev as in production, since Rivet is a lightweight binary that runs anywhere<p>Rivet Actors can be written in TypeScript or Rust. Out of the box, they support agents (Pi Durable), workflows, real-time, multiplayer, running AI-generated code, Durable Streams, and integrations with tools like Vercel’s Eve and Turso. See all of our available guides, or point your agent at them: <a href=\"https://rivet.dev/docs/#guides\">https://rivet.dev/docs/#guides</a><p>Try it out now, by reading our quickstart guides (<a href=\"https://rivet.dev/docs/\">https://rivet.dev/docs/</a>) or ask your agent: “Run npx skills add rivet-dev/skills, then build a multiplayer chat agent and run it locally.”<p>We’d love to get feedback on your experience with Rivet! We’re deeply invested in making Rivet an easy-to-self-host, flexible, and efficient way to run agentic workloads.<p>GitHub: <a href=\"https://github.com/rivet-dev/rivet\" rel=\"nofollow\">https://github.com/rivet-dev/rivet</a><p>Architecture: <a href=\"https://rivet.dev/docs/architecture/\">https://rivet.dev/docs/architecture/</a><p>Benchmarks: <a href=\"https://rivet.dev/docs/benchmarking/\">https://rivet.dev/docs/benchmarking/</a><p>Self-hosting: <a href=\"https://rivet.dev/docs/deploy/self-host/\">https://rivet.dev/docs/deploy/self-host/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381687\">https://news.ycombinator.com/item?id=50381687</a></p>\n<p>Points: 88</p>\n<p># Comments: 46</p>",
         "pubDate": "Thu, 05 Nov 2026 17:17:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=50381687"
-      },
-      {
-        "title": "Nasdaq plummets 4% into correction territory",
-        "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-        "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html\">https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381623\">https://news.ycombinator.com/item?id=50381623</a></p>\n<p>Points: 93</p>\n<p># Comments: 60</p>",
-        "pubDate": "Thu, 05 Nov 2026 17:11:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50381623"
       },
       {
         "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
@@ -62,105 +132,35 @@
       {
         "title": "Window Sweaters",
         "link": "https://github.com/saragordic/window-sweaters",
-        "description": "<p>Article URL: <a href=\"https://github.com/saragordic/window-sweaters\">https://github.com/saragordic/window-sweaters</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381383\">https://news.ycombinator.com/item?id=50381383</a></p>\n<p>Points: 89</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/saragordic/window-sweaters\">https://github.com/saragordic/window-sweaters</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381383\">https://news.ycombinator.com/item?id=50381383</a></p>\n<p>Points: 287</p>\n<p># Comments: 92</p>",
         "pubDate": "Thu, 05 Nov 2026 16:50:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=50381383"
       },
       {
-        "title": "My psychophysics as a bilateral cochlear implant user",
-        "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-        "description": "<p>Article URL: <a href=\"https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\">https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381033\">https://news.ycombinator.com/item?id=50381033</a></p>\n<p>Points: 107</p>\n<p># Comments: 25</p>",
-        "pubDate": "Thu, 05 Nov 2026 16:21:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50381033"
-      },
-      {
         "title": "The Stacks Project, Formalized in Lean",
         "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
-        "description": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p>\n<p>Points: 40</p>\n<p># Comments: 8</p>",
+        "description": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p>\n<p>Points: 82</p>\n<p># Comments: 23</p>",
         "pubDate": "Thu, 05 Nov 2026 16:16:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=50380979"
       },
       {
         "title": "Motorola Signature 27 with GrapheneOS support",
         "link": "https://motorolanews.com/motorola-signature-27-2/",
-        "description": "<p>Article URL: <a href=\"https://motorolanews.com/motorola-signature-27-2/\">https://motorolanews.com/motorola-signature-27-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380810\">https://news.ycombinator.com/item?id=50380810</a></p>\n<p>Points: 242</p>\n<p># Comments: 147</p>",
+        "description": "<p>Article URL: <a href=\"https://motorolanews.com/motorola-signature-27-2/\">https://motorolanews.com/motorola-signature-27-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380810\">https://news.ycombinator.com/item?id=50380810</a></p>\n<p>Points: 442</p>\n<p># Comments: 321</p>",
         "pubDate": "Thu, 05 Nov 2026 16:01:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50380810"
       },
       {
         "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
         "link": "https://github.com/AGGIB/Stroq",
-        "description": "<p>Article URL: <a href=\"https://github.com/AGGIB/Stroq\">https://github.com/AGGIB/Stroq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380704\">https://news.ycombinator.com/item?id=50380704</a></p>\n<p>Points: 33</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/AGGIB/Stroq\">https://github.com/AGGIB/Stroq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380704\">https://news.ycombinator.com/item?id=50380704</a></p>\n<p>Points: 80</p>\n<p># Comments: 28</p>",
         "pubDate": "Thu, 05 Nov 2026 15:54:41 +0000",
         "guid": "https://news.ycombinator.com/item?id=50380704"
-      },
-      {
-        "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-        "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-        "description": "<p>Article URL: <a href=\"https://kadhar.dev/blog/multi-agent-systems-from-scratch\">https://kadhar.dev/blog/multi-agent-systems-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380658\">https://news.ycombinator.com/item?id=50380658</a></p>\n<p>Points: 41</p>\n<p># Comments: 17</p>",
-        "pubDate": "Thu, 05 Nov 2026 15:51:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50380658"
-      },
-      {
-        "title": "We can do better than line-buffered output",
-        "link": "https://nullprogram.com/blog/2026/11/05/",
-        "description": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2026/11/05/\">https://nullprogram.com/blog/2026/11/05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380268\">https://news.ycombinator.com/item?id=50380268</a></p>\n<p>Points: 58</p>\n<p># Comments: 4</p>",
-        "pubDate": "Thu, 05 Nov 2026 15:25:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50380268"
-      },
-      {
-        "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-        "link": "https://nordstjernen.org/",
-        "description": "<p>Article URL: <a href=\"https://nordstjernen.org/\">https://nordstjernen.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380170\">https://news.ycombinator.com/item?id=50380170</a></p>\n<p>Points: 31</p>\n<p># Comments: 18</p>",
-        "pubDate": "Thu, 05 Nov 2026 15:17:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50380170"
-      },
-      {
-        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-        "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-        "description": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379704\">https://news.ycombinator.com/item?id=50379704</a></p>\n<p>Points: 410</p>\n<p># Comments: 68</p>",
-        "pubDate": "Thu, 05 Nov 2026 14:44:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50379704"
-      },
-      {
-        "title": "September in Servo: <progress>, rounded rectangles, and more",
-        "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-        "description": "<p>Article URL: <a href=\"https://servo.org/blog/2026/11/05/september-in-servo/\">https://servo.org/blog/2026/11/05/september-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379576\">https://news.ycombinator.com/item?id=50379576</a></p>\n<p>Points: 133</p>\n<p># Comments: 27</p>",
-        "pubDate": "Thu, 05 Nov 2026 14:34:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50379576"
-      },
-      {
-        "title": "MCP Explained",
-        "link": "https://mcp-explained.com/",
-        "description": "<p>Article URL: <a href=\"https://mcp-explained.com/\">https://mcp-explained.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379249\">https://news.ycombinator.com/item?id=50379249</a></p>\n<p>Points: 176</p>\n<p># Comments: 95</p>",
-        "pubDate": "Thu, 05 Nov 2026 14:08:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50379249"
-      },
-      {
-        "title": "I wish tech companies knew more about me",
-        "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-        "description": "<p>Article URL: <a href=\"https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me\">https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378942\">https://news.ycombinator.com/item?id=50378942</a></p>\n<p>Points: 163</p>\n<p># Comments: 156</p>",
-        "pubDate": "Thu, 05 Nov 2026 13:40:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50378942"
-      },
-      {
-        "title": "Discord is ditching Electron and its new app uses less RAM",
-        "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-        "description": "<p>Article URL: <a href=\"https://www.theverge.com/news/1027379/discord-ditching-electron-web-app\">https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378625\">https://news.ycombinator.com/item?id=50378625</a></p>\n<p>Points: 277</p>\n<p># Comments: 229</p>",
-        "pubDate": "Thu, 05 Nov 2026 13:05:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50378625"
-      },
-      {
-        "title": "Download your favourite YouTube videos",
-        "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-        "description": "<p>Article URL: <a href=\"https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/\">https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378571\">https://news.ycombinator.com/item?id=50378571</a></p>\n<p>Points: 194</p>\n<p># Comments: 85</p>",
-        "pubDate": "Thu, 05 Nov 2026 13:00:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50378571"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-05T19:49:53.263Z",
+  "lastUpdated": "2026-11-06T06:18:30.817Z",
   "stats": {
     "feeds": 2,
     "articles": 20
