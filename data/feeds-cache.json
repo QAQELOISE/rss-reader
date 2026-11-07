@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-07T12:50:39.324Z"
+      "lastFetched": "2026-11-07T21:42:32.291Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-07T12:50:59.463Z"
+      "lastFetched": "2026-11-07T21:42:52.093Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Shadow of the Sun",
+        "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+        "description": "<p>Article URL: <a href=\"https://mattlakeman.org/2021/07/27/shadow-of-the-sun/\">https://mattlakeman.org/2021/07/27/shadow-of-the-sun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408104\">https://news.ycombinator.com/item?id=50408104</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 07 Nov 2026 21:11:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50408104"
+      },
+      {
+        "title": "Show HN: Where Were We",
+        "link": "https://wherewerewe.app/",
+        "description": "<p>A little web game I made as an anniversary present for my wife.<p>Upload vacation photos and make them into a game.<p>WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408082\">https://news.ycombinator.com/item?id=50408082</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sat, 07 Nov 2026 21:08:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50408082"
+      },
+      {
+        "title": "What I run on my $10 USD OpenStick homelab",
+        "link": "https://blog.bosscher.ch/posts/openstick/",
+        "description": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 173</p>\n<p># Comments: 41</p>",
+        "pubDate": "Sat, 07 Nov 2026 18:12:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406670"
+      },
+      {
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "link": "https://hunch.net/?p=13764006",
+        "description": "<p><a href=\"https://archive.is/AaY5O\" rel=\"nofollow\">https://archive.is/AaY5O</a><p><a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\" rel=\"nofollow\">https://businessexaminer.ca/victoria-articles/item/microsoft...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406563\">https://news.ycombinator.com/item?id=50406563</a></p>\n<p>Points: 237</p>\n<p># Comments: 136</p>",
+        "pubDate": "Sat, 07 Nov 2026 18:02:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406563"
+      },
+      {
+        "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+        "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+        "description": "<p>Article URL: <a href=\"https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor\">https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406502\">https://news.ycombinator.com/item?id=50406502</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sat, 07 Nov 2026 17:54:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406502"
+      },
+      {
+        "title": "Five memorable books about programming (2008)",
+        "link": "https://prog21.dadgum.com/19.html",
+        "description": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406319\">https://news.ycombinator.com/item?id=50406319</a></p>\n<p>Points: 53</p>\n<p># Comments: 25</p>",
+        "pubDate": "Sat, 07 Nov 2026 17:30:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406319"
+      },
+      {
+        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+        "link": "https://github.com/hedgerow-dev/coldframe",
+        "description": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.<p>Things that were fun to get right:<p>- Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes.<p>- Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities.<p>- Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real.<p>Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io.<p>Feedback welcome, especially from anyone who has seen these devices in the field!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406292\">https://news.ycombinator.com/item?id=50406292</a></p>\n<p>Points: 135</p>\n<p># Comments: 32</p>",
+        "pubDate": "Sat, 07 Nov 2026 17:27:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406292"
+      },
+      {
+        "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+        "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+        "description": "<p>Article URL: <a href=\"https://maxxbench.unlap.ai/research/why-maxxbench/\">https://maxxbench.unlap.ai/research/why-maxxbench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406222\">https://news.ycombinator.com/item?id=50406222</a></p>\n<p>Points: 121</p>\n<p># Comments: 31</p>",
+        "pubDate": "Sat, 07 Nov 2026 17:19:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406222"
+      },
+      {
+        "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+        "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you\">https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406111\">https://news.ycombinator.com/item?id=50406111</a></p>\n<p>Points: 220</p>\n<p># Comments: 139</p>",
+        "pubDate": "Sat, 07 Nov 2026 17:06:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50406111"
+      },
+      {
+        "title": "How long can life wait?",
+        "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+        "description": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/how-long-can-life-wait\">https://mceglowski.substack.com/p/how-long-can-life-wait</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405789\">https://news.ycombinator.com/item?id=50405789</a></p>\n<p>Points: 96</p>\n<p># Comments: 53</p>",
+        "pubDate": "Sat, 07 Nov 2026 16:22:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50405789"
+      },
+      {
+        "title": "Every processor die anyone has photographed and given away",
+        "link": "https://sheets.works/data-viz/cpu-dies",
+        "description": "<p>Article URL: <a href=\"https://sheets.works/data-viz/cpu-dies\">https://sheets.works/data-viz/cpu-dies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405782\">https://news.ycombinator.com/item?id=50405782</a></p>\n<p>Points: 52</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 07 Nov 2026 16:21:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50405782"
+      },
+      {
+        "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+        "link": "https://kevinboone.me/tpwin.html",
+        "description": "<p>Article URL: <a href=\"https://kevinboone.me/tpwin.html\">https://kevinboone.me/tpwin.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405678\">https://news.ycombinator.com/item?id=50405678</a></p>\n<p>Points: 162</p>\n<p># Comments: 90</p>",
+        "pubDate": "Sat, 07 Nov 2026 16:06:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50405678"
+      },
+      {
+        "title": "Terry Pratchett's Study",
+        "link": "https://www.sussi.dk/terry-pratchetts-study",
+        "description": "<p>Article URL: <a href=\"https://www.sussi.dk/terry-pratchetts-study\">https://www.sussi.dk/terry-pratchetts-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405674\">https://news.ycombinator.com/item?id=50405674</a></p>\n<p>Points: 54</p>\n<p># Comments: 12</p>",
+        "pubDate": "Sat, 07 Nov 2026 16:05:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50405674"
+      },
+      {
+        "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+        "description": "<p>Article URL: <a href=\"https://github.com/Video-Rebirth/hyperflow-h3-flash\">https://github.com/Video-Rebirth/hyperflow-h3-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405263\">https://news.ycombinator.com/item?id=50405263</a></p>\n<p>Points: 42</p>\n<p># Comments: 10</p>",
+        "pubDate": "Sat, 07 Nov 2026 15:16:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50405263"
+      },
+      {
+        "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+        "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+        "description": "<p>Article URL: <a href=\"https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf\">https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404747\">https://news.ycombinator.com/item?id=50404747</a></p>\n<p>Points: 46</p>\n<p># Comments: 27</p>",
+        "pubDate": "Sat, 07 Nov 2026 14:18:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50404747"
+      },
+      {
+        "title": "The $8 Linux Computer (2022)",
+        "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+        "description": "<p>Article URL: <a href=\"http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404599\">https://news.ycombinator.com/item?id=50404599</a></p>\n<p>Points: 174</p>\n<p># Comments: 79</p>",
+        "pubDate": "Sat, 07 Nov 2026 14:00:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50404599"
+      },
+      {
         "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
         "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-        "description": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/\">https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403507\">https://news.ycombinator.com/item?id=50403507</a></p>\n<p>Points: 23</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/\">https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403507\">https://news.ycombinator.com/item?id=50403507</a></p>\n<p>Points: 139</p>\n<p># Comments: 152</p>",
         "pubDate": "Sat, 07 Nov 2026 11:11:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50403507"
       },
       {
-        "title": "Upload Your RAM",
-        "link": "https://uploadyourram.org",
-        "description": "<p>Article URL: <a href=\"https://uploadyourram.org\">https://uploadyourram.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403214\">https://news.ycombinator.com/item?id=50403214</a></p>\n<p>Points: 140</p>\n<p># Comments: 86</p>",
-        "pubDate": "Sat, 07 Nov 2026 10:15:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50403214"
-      },
-      {
         "title": "Every Mac comes with an (undocumented) family member classifier",
         "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-        "description": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Points: 172</p>\n<p># Comments: 85</p>",
+        "description": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Points: 513</p>\n<p># Comments: 301</p>",
         "pubDate": "Sat, 07 Nov 2026 09:46:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=50403097"
       },
       {
         "title": "Running a law firm on Free software",
         "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-        "description": "<p>Article URL: <a href=\"https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/\">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403066\">https://news.ycombinator.com/item?id=50403066</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/\">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403066\">https://news.ycombinator.com/item?id=50403066</a></p>\n<p>Points: 208</p>\n<p># Comments: 91</p>",
         "pubDate": "Sat, 07 Nov 2026 09:39:06 +0000",
         "guid": "https://news.ycombinator.com/item?id=50403066"
       },
       {
-        "title": "Port 0: The Port That Does Not Exist",
-        "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-        "description": "<p>Article URL: <a href=\"https://acid.vegas/blog/the-port-that-does-not-exist/\">https://acid.vegas/blog/the-port-that-does-not-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403063\">https://news.ycombinator.com/item?id=50403063</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sat, 07 Nov 2026 09:38:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50403063"
-      },
-      {
         "title": "Need for Speed Underground 2 online in the browser",
         "link": "https://nfsu2.xyz/",
-        "description": "<p>Article URL: <a href=\"https://nfsu2.xyz/\">https://nfsu2.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403052\">https://news.ycombinator.com/item?id=50403052</a></p>\n<p>Points: 98</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://nfsu2.xyz/\">https://nfsu2.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403052\">https://news.ycombinator.com/item?id=50403052</a></p>\n<p>Points: 688</p>\n<p># Comments: 199</p>",
         "pubDate": "Sat, 07 Nov 2026 09:36:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50403052"
-      },
-      {
-        "title": "The Components of Agent Memory",
-        "link": "https://www.anthropic.com/research/components-of-agent-memory",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p>\n<p>Points: 70</p>\n<p># Comments: 36</p>",
-        "pubDate": "Sat, 07 Nov 2026 06:39:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50402212"
-      },
-      {
-        "title": "Asahi Linux Progress Linux 7.3",
-        "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-        "description": "<p>Article URL: <a href=\"https://asahilinux.org/2026/11/progress-report-7-3/\">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401867\">https://news.ycombinator.com/item?id=50401867</a></p>\n<p>Points: 208</p>\n<p># Comments: 172</p>",
-        "pubDate": "Sat, 07 Nov 2026 05:20:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50401867"
-      },
-      {
-        "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-        "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals\">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401740\">https://news.ycombinator.com/item?id=50401740</a></p>\n<p>Points: 126</p>\n<p># Comments: 95</p>",
-        "pubDate": "Sat, 07 Nov 2026 04:54:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50401740"
-      },
-      {
-        "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-        "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-        "description": "<p>Article URL: <a href=\"https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399991\">https://news.ycombinator.com/item?id=50399991</a></p>\n<p>Points: 139</p>\n<p># Comments: 76</p>",
-        "pubDate": "Fri, 06 Nov 2026 23:37:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50399991"
-      },
-      {
-        "title": "Libghostty 1.0",
-        "link": "https://mitchellh.com/writing/libghostty-1-0",
-        "description": "<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p>\n<p>Points: 727</p>\n<p># Comments: 119</p>",
-        "pubDate": "Fri, 06 Nov 2026 23:30:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50399933"
-      },
-      {
-        "title": "AI is dramatically accelerating AI research",
-        "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-        "description": "<p>Article URL: <a href=\"https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397994\">https://news.ycombinator.com/item?id=50397994</a></p>\n<p>Points: 329</p>\n<p># Comments: 291</p>",
-        "pubDate": "Fri, 06 Nov 2026 20:27:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50397994"
-      },
-      {
-        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-        "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-        "description": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 507</p>\n<p># Comments: 121</p>",
-        "pubDate": "Fri, 06 Nov 2026 19:48:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50397429"
-      },
-      {
-        "title": "Firecracker VM Escape: PwnEscape Part 2",
-        "link": "https://pwn.ai/blog/firecracker-escape",
-        "description": "<p>Article URL: <a href=\"https://pwn.ai/blog/firecracker-escape\">https://pwn.ai/blog/firecracker-escape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397219\">https://news.ycombinator.com/item?id=50397219</a></p>\n<p>Points: 254</p>\n<p># Comments: 110</p>",
-        "pubDate": "Fri, 06 Nov 2026 19:33:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50397219"
-      },
-      {
-        "title": "GitHub's new Git storage architecture",
-        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-        "description": "<p>Article URL: <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397099\">https://news.ycombinator.com/item?id=50397099</a></p>\n<p>Points: 163</p>\n<p># Comments: 35</p>",
-        "pubDate": "Fri, 06 Nov 2026 19:24:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50397099"
-      },
-      {
-        "title": "Restaurant Delivery Payment-Skimming Campaign",
-        "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-        "description": "<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\">https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397017\">https://news.ycombinator.com/item?id=50397017</a></p>\n<p>Points: 132</p>\n<p># Comments: 65</p>",
-        "pubDate": "Fri, 06 Nov 2026 19:19:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50397017"
-      },
-      {
-        "title": "Devvm.dev: One VM for every project",
-        "link": "https://devvm.dev/",
-        "description": "<p>Article URL: <a href=\"https://devvm.dev/\">https://devvm.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395450\">https://news.ycombinator.com/item?id=50395450</a></p>\n<p>Points: 163</p>\n<p># Comments: 62</p>",
-        "pubDate": "Fri, 06 Nov 2026 17:30:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50395450"
-      },
-      {
-        "title": "Notes on San Marino",
-        "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-        "description": "<p>Article URL: <a href=\"https://mattlakeman.org/2026/11/05/notes-on-san-marino/\">https://mattlakeman.org/2026/11/05/notes-on-san-marino/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395183\">https://news.ycombinator.com/item?id=50395183</a></p>\n<p>Points: 87</p>\n<p># Comments: 28</p>",
-        "pubDate": "Fri, 06 Nov 2026 17:12:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50395183"
-      },
-      {
-        "title": "First steps in bare-metal programming using UEFI",
-        "link": "https://kevinboone.me/efitest_index.html",
-        "description": "<p>Article URL: <a href=\"https://kevinboone.me/efitest_index.html\">https://kevinboone.me/efitest_index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394855\">https://news.ycombinator.com/item?id=50394855</a></p>\n<p>Points: 230</p>\n<p># Comments: 42</p>",
-        "pubDate": "Fri, 06 Nov 2026 16:50:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50394855"
-      },
-      {
-        "title": "Gemini Omni 1.2 Flash",
-        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 344</p>\n<p># Comments: 233</p>",
-        "pubDate": "Fri, 06 Nov 2026 13:35:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50392118"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-07T12:50:59.463Z",
+  "lastUpdated": "2026-11-07T21:42:52.093Z",
   "stats": {
     "feeds": 2,
     "articles": 20
