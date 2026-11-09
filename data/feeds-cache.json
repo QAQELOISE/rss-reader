@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-08T21:56:13.129Z"
+      "lastFetched": "2026-11-09T05:58:03.000Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-08T21:56:32.661Z"
+      "lastFetched": "2026-11-09T05:58:09.379Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-        "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-        "description": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416801\">https://news.ycombinator.com/item?id=50416801</a></p>\n<p>Points: 178</p>\n<p># Comments: 136</p>",
-        "pubDate": "Sun, 08 Nov 2026 20:26:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50416801"
+        "title": "A Critique of GPUI",
+        "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+        "description": "<p>Article URL: <a href=\"https://blog.zortax.de/posts/a-critique-of-gpui\">https://blog.zortax.de/posts/a-critique-of-gpui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420857\">https://news.ycombinator.com/item?id=50420857</a></p>\n<p>Points: 48</p>\n<p># Comments: 17</p>",
+        "pubDate": "Mon, 09 Nov 2026 03:51:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50420857"
       },
       {
-        "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-        "link": "https://www.spacex.com/launches/starship-flight-15",
-        "description": "<p>Article URL: <a href=\"https://www.spacex.com/launches/starship-flight-15\">https://www.spacex.com/launches/starship-flight-15</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416471\">https://news.ycombinator.com/item?id=50416471</a></p>\n<p>Points: 37</p>\n<p># Comments: 16</p>",
-        "pubDate": "Sun, 08 Nov 2026 19:49:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50416471"
+        "title": "The Qlobe: Rotating Quine (2010)",
+        "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+        "description": "<p>Article URL: <a href=\"http://mamememo.blogspot.com/2010/09/qlobe.html\">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420599\">https://news.ycombinator.com/item?id=50420599</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 09 Nov 2026 03:15:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50420599"
+      },
+      {
+        "title": "A Bit about Email",
+        "link": "https://maurycyz.com/misc/email/",
+        "description": "<p>Article URL: <a href=\"https://maurycyz.com/misc/email/\">https://maurycyz.com/misc/email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420383\">https://news.ycombinator.com/item?id=50420383</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+        "pubDate": "Mon, 09 Nov 2026 02:46:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50420383"
+      },
+      {
+        "title": "RIP, Harvest",
+        "link": "https://aphyr.com/posts/427-rip-harvest",
+        "description": "<p>Article URL: <a href=\"https://aphyr.com/posts/427-rip-harvest\">https://aphyr.com/posts/427-rip-harvest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420035\">https://news.ycombinator.com/item?id=50420035</a></p>\n<p>Points: 226</p>\n<p># Comments: 66</p>",
+        "pubDate": "Mon, 09 Nov 2026 01:58:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50420035"
+      },
+      {
+        "title": "Unlocking any car from X brand in most of the world",
+        "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "description": "<p>Article URL: <a href=\"https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/\">https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50419215\">https://news.ycombinator.com/item?id=50419215</a></p>\n<p>Points: 190</p>\n<p># Comments: 67</p>",
+        "pubDate": "Mon, 09 Nov 2026 00:10:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50419215"
+      },
+      {
+        "title": "I'm not convinced the AI bubble exists",
+        "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "description": "<p>Article URL: <a href=\"https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists\">https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418975\">https://news.ycombinator.com/item?id=50418975</a></p>\n<p>Points: 130</p>\n<p># Comments: 177</p>",
+        "pubDate": "Sun, 08 Nov 2026 23:44:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50418975"
+      },
+      {
+        "title": "When a language's creator and its owners strongly disagree [pdf]",
+        "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "description": "<p>Article URL: <a href=\"https://isocpp.org/files/papers/P4454R0.pdf\">https://isocpp.org/files/papers/P4454R0.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418818\">https://news.ycombinator.com/item?id=50418818</a></p>\n<p>Points: 101</p>\n<p># Comments: 88</p>",
+        "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50418818"
+      },
+      {
+        "title": "Chimera Vocal Synth",
+        "link": "https://chimera-vocal-synth.vercel.app/",
+        "description": "<p>Article URL: <a href=\"https://chimera-vocal-synth.vercel.app/\">https://chimera-vocal-synth.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418182\">https://news.ycombinator.com/item?id=50418182</a></p>\n<p>Points: 156</p>\n<p># Comments: 23</p>",
+        "pubDate": "Sun, 08 Nov 2026 22:36:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50418182"
+      },
+      {
+        "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "link": "https://ketchup3d.github.io/app/",
+        "description": "<p>Article URL: <a href=\"https://ketchup3d.github.io/app/\">https://ketchup3d.github.io/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418176\">https://news.ycombinator.com/item?id=50418176</a></p>\n<p>Points: 351</p>\n<p># Comments: 93</p>",
+        "pubDate": "Sun, 08 Nov 2026 22:35:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50418176"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+        "description": "<p><a href=\"https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\" rel=\"nofollow\">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff...</a>, <a href=\"https://archive.ph/Hxn5h\" rel=\"nofollow\">https://archive.ph/Hxn5h</a><p><a href=\"https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html\" rel=\"nofollow\">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a...</a>, <a href=\"https://archive.ph/atMcp\" rel=\"nofollow\">https://archive.ph/atMcp</a><p><a href=\"https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang\" rel=\"nofollow\">https://www.cnn.com/2026/11/08/business/nvidia-investigation...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418016\">https://news.ycombinator.com/item?id=50418016</a></p>\n<p>Points: 479</p>\n<p># Comments: 514</p>",
+        "pubDate": "Sun, 08 Nov 2026 22:20:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50418016"
+      },
+      {
+        "title": "Ask HN: What are you working on? (November 2026)",
+        "link": "https://news.ycombinator.com/item?id=50417407",
+        "description": "<p>What are you working on? What have you been curious about lately?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50417407\">https://news.ycombinator.com/item?id=50417407</a></p>\n<p>Points: 180</p>\n<p># Comments: 596</p>",
+        "pubDate": "Sun, 08 Nov 2026 21:20:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50417407"
       },
       {
         "title": "The Web Is More Than Enough, by Paul Ford",
         "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-        "description": "<p>Article URL: <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416456\">https://news.ycombinator.com/item?id=50416456</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416456\">https://news.ycombinator.com/item?id=50416456</a></p>\n<p>Points: 108</p>\n<p># Comments: 61</p>",
         "pubDate": "Sun, 08 Nov 2026 19:48:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50416456"
       },
       {
         "title": "How I Fight AI Brain Fry",
         "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-        "description": "<p>Article URL: <a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416363\">https://news.ycombinator.com/item?id=50416363</a></p>\n<p>Points: 89</p>\n<p># Comments: 66</p>",
+        "description": "<p>Article URL: <a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416363\">https://news.ycombinator.com/item?id=50416363</a></p>\n<p>Points: 200</p>\n<p># Comments: 158</p>",
         "pubDate": "Sun, 08 Nov 2026 19:37:42 +0000",
         "guid": "https://news.ycombinator.com/item?id=50416363"
       },
       {
-        "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+        "title": "Outlook.com is rejecting email from domains without DMARC",
         "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-        "description": "<p>Article URL: <a href=\"https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\">https://mailroute.net/blog/outlook-rejecting-email-without-dmarc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416158\">https://news.ycombinator.com/item?id=50416158</a></p>\n<p>Points: 114</p>\n<p># Comments: 96</p>",
+        "description": "<p>Article URL: <a href=\"https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\">https://mailroute.net/blog/outlook-rejecting-email-without-dmarc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416158\">https://news.ycombinator.com/item?id=50416158</a></p>\n<p>Points: 333</p>\n<p># Comments: 246</p>",
         "pubDate": "Sun, 08 Nov 2026 19:20:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50416158"
       },
       {
         "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
         "link": "https://duxlabs.dev/",
-        "description": "<p>Article URL: <a href=\"https://duxlabs.dev/\">https://duxlabs.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416053\">https://news.ycombinator.com/item?id=50416053</a></p>\n<p>Points: 84</p>\n<p># Comments: 31</p>",
+        "description": "<p>Article URL: <a href=\"https://duxlabs.dev/\">https://duxlabs.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416053\">https://news.ycombinator.com/item?id=50416053</a></p>\n<p>Points: 238</p>\n<p># Comments: 74</p>",
         "pubDate": "Sun, 08 Nov 2026 19:08:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=50416053"
       },
       {
         "title": "Playing with the STM32MP2",
         "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-        "description": "<p>Article URL: <a href=\"https://serd.es/2026/11/08/playing-with-stm32mp2.html\">https://serd.es/2026/11/08/playing-with-stm32mp2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416014\">https://news.ycombinator.com/item?id=50416014</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://serd.es/2026/11/08/playing-with-stm32mp2.html\">https://serd.es/2026/11/08/playing-with-stm32mp2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416014\">https://news.ycombinator.com/item?id=50416014</a></p>\n<p>Points: 52</p>\n<p># Comments: 32</p>",
         "pubDate": "Sun, 08 Nov 2026 19:04:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=50416014"
       },
       {
-        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-        "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c\">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415817\">https://news.ycombinator.com/item?id=50415817</a></p>\n<p>Points: 77</p>\n<p># Comments: 85</p>",
-        "pubDate": "Sun, 08 Nov 2026 18:43:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50415817"
-      },
-      {
-        "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-        "link": "https://kevinboone.me/cpmzork.html",
-        "description": "<p>Article URL: <a href=\"https://kevinboone.me/cpmzork.html\">https://kevinboone.me/cpmzork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415750\">https://news.ycombinator.com/item?id=50415750</a></p>\n<p>Points: 19</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sun, 08 Nov 2026 18:33:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50415750"
-      },
-      {
-        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
         "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "description": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=50415628</a></p>\n<p>Points: 421</p>\n<p># Comments: 259</p>",
+        "description": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=50415628</a></p>\n<p>Points: 688</p>\n<p># Comments: 384</p>",
         "pubDate": "Sun, 08 Nov 2026 18:16:07 +0000",
         "guid": "https://news.ycombinator.com/item?id=50415628"
       },
       {
-        "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-        "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-        "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/\">https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415281\">https://news.ycombinator.com/item?id=50415281</a></p>\n<p>Points: 83</p>\n<p># Comments: 17</p>",
-        "pubDate": "Sun, 08 Nov 2026 17:32:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50415281"
-      },
-      {
-        "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-        "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-        "description": "<p>Article URL: <a href=\"https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/\">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415172\">https://news.ycombinator.com/item?id=50415172</a></p>\n<p>Points: 155</p>\n<p># Comments: 54</p>",
-        "pubDate": "Sun, 08 Nov 2026 17:20:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50415172"
-      },
-      {
-        "title": "A Little Snitch for Windows",
-        "link": "https://packethound.app/",
-        "description": "<p>Article URL: <a href=\"https://packethound.app/\">https://packethound.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415135\">https://news.ycombinator.com/item?id=50415135</a></p>\n<p>Points: 65</p>\n<p># Comments: 32</p>",
-        "pubDate": "Sun, 08 Nov 2026 17:16:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50415135"
-      },
-      {
-        "title": "A field guide to CAPTCHA types and how they break",
-        "link": "https://github.com/vsmutok/FuckCaptcha",
-        "description": "<p>Article URL: <a href=\"https://github.com/vsmutok/FuckCaptcha\">https://github.com/vsmutok/FuckCaptcha</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415078\">https://news.ycombinator.com/item?id=50415078</a></p>\n<p>Points: 34</p>\n<p># Comments: 10</p>",
-        "pubDate": "Sun, 08 Nov 2026 17:09:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50415078"
-      },
-      {
         "title": "I'm not a fan of Deno's security model (2024)",
         "link": "https://goldstein.lol/posts/deno-security/",
-        "description": "<p>Article URL: <a href=\"https://goldstein.lol/posts/deno-security/\">https://goldstein.lol/posts/deno-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413769\">https://news.ycombinator.com/item?id=50413769</a></p>\n<p>Points: 72</p>\n<p># Comments: 32</p>",
+        "description": "<p>Article URL: <a href=\"https://goldstein.lol/posts/deno-security/\">https://goldstein.lol/posts/deno-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413769\">https://news.ycombinator.com/item?id=50413769</a></p>\n<p>Points: 96</p>\n<p># Comments: 49</p>",
         "pubDate": "Sun, 08 Nov 2026 14:42:38 +0000",
         "guid": "https://news.ycombinator.com/item?id=50413769"
       },
       {
-        "title": "How to prove equations using diagrams, part 1",
-        "link": "https://www.epatters.org/post/e-graphs-1/",
-        "description": "<p>Article URL: <a href=\"https://www.epatters.org/post/e-graphs-1/\">https://www.epatters.org/post/e-graphs-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412830\">https://news.ycombinator.com/item?id=50412830</a></p>\n<p>Points: 54</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sun, 08 Nov 2026 12:51:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50412830"
-      },
-      {
-        "title": "Petered",
-        "link": "https://aworkinglibrary.com/writing/petered",
-        "description": "<p>Article URL: <a href=\"https://aworkinglibrary.com/writing/petered\">https://aworkinglibrary.com/writing/petered</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412152\">https://news.ycombinator.com/item?id=50412152</a></p>\n<p>Points: 151</p>\n<p># Comments: 90</p>",
-        "pubDate": "Sun, 08 Nov 2026 10:56:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50412152"
-      },
-      {
         "title": "JIT bitmap text rendering for microcontrollers",
         "link": "https://linebender.org/blog/jit-bitmap-text/",
-        "description": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p>\n<p>Points: 88</p>\n<p># Comments: 15</p>",
+        "description": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p>\n<p>Points: 95</p>\n<p># Comments: 20</p>",
         "pubDate": "Sun, 08 Nov 2026 10:42:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50412072"
       },
       {
         "title": "Writing as a thinking tool",
         "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-        "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></p>\n<p>Points: 229</p>\n<p># Comments: 72</p>",
+        "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></p>\n<p>Points: 318</p>\n<p># Comments: 84</p>",
         "pubDate": "Sun, 08 Nov 2026 10:41:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50412067"
-      },
-      {
-        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "link": "https://github.com/synchopate/llama-modchip",
-        "description": "<p>Article URL: <a href=\"https://github.com/synchopate/llama-modchip\">https://github.com/synchopate/llama-modchip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411961\">https://news.ycombinator.com/item?id=50411961</a></p>\n<p>Points: 311</p>\n<p># Comments: 117</p>",
-        "pubDate": "Sun, 08 Nov 2026 10:22:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50411961"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-08T21:56:32.661Z",
+  "lastUpdated": "2026-11-09T05:58:09.380Z",
   "stats": {
     "feeds": 2,
     "articles": 20
