@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-10T14:44:29.275Z"
+      "lastFetched": "2026-11-10T23:07:32.325Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-10T14:44:49.396Z"
+      "lastFetched": "2026-11-10T23:07:40.105Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "The U.S. Is Driving Away Young Scientists",
-        "link": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html\">https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50440668\">https://news.ycombinator.com/item?id=50440668</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-        "pubDate": "Tue, 10 Nov 2026 14:12:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50440668"
+        "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+        "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "description": "<p>Article URL: <a href=\"https://www.vulncheck.com/blog/anthropic-glasswing-november-update\">https://www.vulncheck.com/blog/anthropic-glasswing-november-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50447074\">https://news.ycombinator.com/item?id=50447074</a></p>\n<p>Points: 38</p>\n<p># Comments: 6</p>",
+        "pubDate": "Tue, 10 Nov 2026 22:17:56 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50447074"
       },
       {
-        "title": "Don't buy AR glasses",
-        "link": "https://blog.yaros.ae/dont-buy-ar-glasses/",
-        "description": "<p>Article URL: <a href=\"https://blog.yaros.ae/dont-buy-ar-glasses/\">https://blog.yaros.ae/dont-buy-ar-glasses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439805\">https://news.ycombinator.com/item?id=50439805</a></p>\n<p>Points: 88</p>\n<p># Comments: 85</p>",
-        "pubDate": "Tue, 10 Nov 2026 13:10:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50439805"
+        "title": "rVPN – stealth VPN with end-to-end encryption",
+        "link": "https://rvpn.org/",
+        "description": "<p>Article URL: <a href=\"https://rvpn.org/\">https://rvpn.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446714\">https://news.ycombinator.com/item?id=50446714</a></p>\n<p>Points: 28</p>\n<p># Comments: 22</p>",
+        "pubDate": "Tue, 10 Nov 2026 21:42:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50446714"
+      },
+      {
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/\">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446520\">https://news.ycombinator.com/item?id=50446520</a></p>\n<p>Points: 58</p>\n<p># Comments: 22</p>",
+        "pubDate": "Tue, 10 Nov 2026 21:25:03 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50446520"
+      },
+      {
+        "title": "Six Math Essentials by Terence Tao",
+        "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "description": "<p>Article URL: <a href=\"https://teorth.github.io/tao-web/six-math-essentials.html\">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446246\">https://news.ycombinator.com/item?id=50446246</a></p>\n<p>Points: 70</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50446246"
+      },
+      {
+        "title": "Sherman Anti-Trust Act (1890)",
+        "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+        "description": "<p>Article URL: <a href=\"https://www.archives.gov/milestone-documents/sherman-anti-trust-act\">https://www.archives.gov/milestone-documents/sherman-anti-trust-act</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446219\">https://news.ycombinator.com/item?id=50446219</a></p>\n<p>Points: 49</p>\n<p># Comments: 26</p>",
+        "pubDate": "Tue, 10 Nov 2026 20:56:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50446219"
+      },
+      {
+        "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+        "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+        "description": "<p>Article URL: <a href=\"https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/\">https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50445401\">https://news.ycombinator.com/item?id=50445401</a></p>\n<p>Points: 193</p>\n<p># Comments: 132</p>",
+        "pubDate": "Tue, 10 Nov 2026 19:50:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50445401"
+      },
+      {
+        "title": "What objective is reasoning solving?",
+        "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+        "description": "<p>Article URL: <a href=\"https://alexwang.ai/posts/reasoning-as-pathfinding/\">https://alexwang.ai/posts/reasoning-as-pathfinding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50445013\">https://news.ycombinator.com/item?id=50445013</a></p>\n<p>Points: 73</p>\n<p># Comments: 35</p>",
+        "pubDate": "Tue, 10 Nov 2026 19:25:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50445013"
+      },
+      {
+        "title": "A comprehensive study of how fingerprintable users are",
+        "link": "https://fingerprinting.study/",
+        "description": "<p>Article URL: <a href=\"https://fingerprinting.study/\">https://fingerprinting.study/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50444684\">https://news.ycombinator.com/item?id=50444684</a></p>\n<p>Points: 52</p>\n<p># Comments: 19</p>",
+        "pubDate": "Tue, 10 Nov 2026 19:03:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50444684"
+      },
+      {
+        "title": "Synaptics patent claims stop work on DisplayLink drivers",
+        "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+        "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/\">https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443824\">https://news.ycombinator.com/item?id=50443824</a></p>\n<p>Points: 250</p>\n<p># Comments: 105</p>",
+        "pubDate": "Tue, 10 Nov 2026 18:02:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443824"
+      },
+      {
+        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+        "link": "https://github.com/GoogleChrome/modern-web-guidance",
+        "description": "<p>Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without <span>s everywhere, `<dialog>` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0])<p>Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent <div>+JS based pattern.  We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge.<p>200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves.  (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1]<p>I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your context window. (Or cedeing activation mechanics to MCP dynamic tool search). The skill description is minmaxed for activating on relevant frontend tasks. The RAG work I'm pretty proud of… originally a 500mb native stack down to a ~7MB pure-JS package, ~10ms search on your CPU.<p>We just introduced a deterministic 'legacy-scan' (trained on 30k github repos) to identify old 'n dusted patterns that your agent can modernize. (92% avg precision on held-out repos.)<p>People make a lot of claims about what coding agents are good/bad at. We wanted receipts, so we invested heavily in eval infra [2] to help us hill-climb, but also to identify when knowledge is common enough we can prune our guides. (Ofc, some of the things we thought AI didn't know turned out to be wrong :)  We run codex/claude/agy against 200 tasks without the skill and then with.. In total ~1,700 playwright/AST-based assertions. Agents go from 55% pass unguided to 92% guided.<p>Try it out:<p><pre><code>    DISABLE_TELEMETRY=1 npx modern-web-guidance@latest install\n    DISABLE_TELEMETRY=1 npx modern-web-guidance@latest search \"animate dialog modal\"\n    DISABLE_TELEMETRY=1 npx modern-web-guidance@latest legacy-scan ./src\n</code></pre>\nIf you spot something wrong or weird, give us a holler!<p>Longer write-up on the 1.0:  <a href=\"https://developer.chrome.com/blog/modern-web-guidance-v1\" rel=\"nofollow\">https://developer.chrome.com/blog/modern-web-guidance-v1</a><p>---<p>0: <a href=\"https://news.ycombinator.com/item?id=50416456\">https://news.ycombinator.com/item?id=50416456</a><p>1: <a href=\"https://developer.chrome.com/docs/modern-web-guidance/guides\" rel=\"nofollow\">https://developer.chrome.com/docs/modern-web-guidance/guides</a><p>2: <a href=\"https://googlechrome.github.io/modern-web-guidance-src/\" rel=\"nofollow\">https://googlechrome.github.io/modern-web-guidance-src/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443812\">https://news.ycombinator.com/item?id=50443812</a></p>\n<p>Points: 209</p>\n<p># Comments: 58</p>",
+        "pubDate": "Tue, 10 Nov 2026 18:01:15 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443812"
+      },
+      {
+        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+        "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "description": "<p>Article URL: <a href=\"https://claude.com/resources/articles/sheets-whiteboards-data\">https://claude.com/resources/articles/sheets-whiteboards-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443716\">https://news.ycombinator.com/item?id=50443716</a></p>\n<p>Points: 135</p>\n<p># Comments: 106</p>",
+        "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443716"
+      },
+      {
+        "title": "An Open Field Guide to Inference Engineering",
+        "link": "https://docs.modelplane.ai/guides/inference-guide",
+        "description": "<p>Article URL: <a href=\"https://docs.modelplane.ai/guides/inference-guide\">https://docs.modelplane.ai/guides/inference-guide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443714\">https://news.ycombinator.com/item?id=50443714</a></p>\n<p>Points: 60</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443714"
+      },
+      {
+        "title": "Life on Claude Nine",
+        "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+        "description": "<p>Article URL: <a href=\"https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html\">https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443587\">https://news.ycombinator.com/item?id=50443587</a></p>\n<p>Points: 72</p>\n<p># Comments: 42</p>",
+        "pubDate": "Tue, 10 Nov 2026 17:44:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443587"
+      },
+      {
+        "title": "Val Town is winding down",
+        "link": "https://blog.val.town/winding-down",
+        "description": "<p>Article URL: <a href=\"https://blog.val.town/winding-down\">https://blog.val.town/winding-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443427\">https://news.ycombinator.com/item?id=50443427</a></p>\n<p>Points: 264</p>\n<p># Comments: 67</p>",
+        "pubDate": "Tue, 10 Nov 2026 17:31:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443427"
+      },
+      {
+        "title": "AMD's Zen 6 Family: Feeding the Beast",
+        "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast\">https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443090\">https://news.ycombinator.com/item?id=50443090</a></p>\n<p>Points: 161</p>\n<p># Comments: 60</p>",
+        "pubDate": "Tue, 10 Nov 2026 17:02:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50443090"
+      },
+      {
+        "title": ".name Grandfathered",
+        "link": "https://neil.fraser.name/news/2026/11/10/",
+        "description": "<p>Article URL: <a href=\"https://neil.fraser.name/news/2026/11/10/\">https://neil.fraser.name/news/2026/11/10/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442736\">https://news.ycombinator.com/item?id=50442736</a></p>\n<p>Points: 610</p>\n<p># Comments: 136</p>",
+        "pubDate": "Tue, 10 Nov 2026 16:37:44 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50442736"
+      },
+      {
+        "title": "Blender 5.3 released with Gaussian Splat support",
+        "link": "https://www.blender.org/download/releases/5-3/",
+        "description": "<p>Article URL: <a href=\"https://www.blender.org/download/releases/5-3/\">https://www.blender.org/download/releases/5-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442426\">https://news.ycombinator.com/item?id=50442426</a></p>\n<p>Points: 397</p>\n<p># Comments: 54</p>",
+        "pubDate": "Tue, 10 Nov 2026 16:15:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50442426"
+      },
+      {
+        "title": "Smart home devices should work without the internet",
+        "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+        "description": "<p>Article URL: <a href=\"https://docodethatmatters.com/home-automation-overnight-success/\">https://docodethatmatters.com/home-automation-overnight-success/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50441707\">https://news.ycombinator.com/item?id=50441707</a></p>\n<p>Points: 615</p>\n<p># Comments: 215</p>",
+        "pubDate": "Tue, 10 Nov 2026 15:25:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50441707"
+      },
+      {
+        "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+        "link": "https://tinyvalencia.com/",
+        "description": "<p>Article URL: <a href=\"https://tinyvalencia.com/\">https://tinyvalencia.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50441518\">https://news.ycombinator.com/item?id=50441518</a></p>\n<p>Points: 173</p>\n<p># Comments: 43</p>",
+        "pubDate": "Tue, 10 Nov 2026 15:12:16 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50441518"
       },
       {
         "title": "Ableton Live 13",
         "link": "https://www.ableton.com/en/live/",
-        "description": "<p>Article URL: <a href=\"https://www.ableton.com/en/live/\">https://www.ableton.com/en/live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439695\">https://news.ycombinator.com/item?id=50439695</a></p>\n<p>Points: 80</p>\n<p># Comments: 91</p>",
+        "description": "<p>Article URL: <a href=\"https://www.ableton.com/en/live/\">https://www.ableton.com/en/live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439695\">https://news.ycombinator.com/item?id=50439695</a></p>\n<p>Points: 253</p>\n<p># Comments: 270</p>",
         "pubDate": "Tue, 10 Nov 2026 12:58:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=50439695"
-      },
-      {
-        "title": "Let over Lambda–50 Years of Lisp",
-        "link": "https://letoverlambda.com/",
-        "description": "<p>Article URL: <a href=\"https://letoverlambda.com/\">https://letoverlambda.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439448\">https://news.ycombinator.com/item?id=50439448</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 10 Nov 2026 12:35:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50439448"
-      },
-      {
-        "title": "What's new in the .NET 11 runtime",
-        "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-        "description": "<p>Article URL: <a href=\"https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime\">https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439284\">https://news.ycombinator.com/item?id=50439284</a></p>\n<p>Points: 38</p>\n<p># Comments: 10</p>",
-        "pubDate": "Tue, 10 Nov 2026 12:20:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50439284"
-      },
-      {
-        "title": "AlphaProof Code",
-        "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/introducing-alphaproof-code/\">https://deepmind.google/blog/introducing-alphaproof-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439193\">https://news.ycombinator.com/item?id=50439193</a></p>\n<p>Points: 239</p>\n<p># Comments: 93</p>",
-        "pubDate": "Tue, 10 Nov 2026 12:11:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50439193"
-      },
-      {
-        "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-        "link": "https://github.com/HolyArrs/HolyArrs",
-        "description": "<p>Article URL: <a href=\"https://github.com/HolyArrs/HolyArrs\">https://github.com/HolyArrs/HolyArrs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439000\">https://news.ycombinator.com/item?id=50439000</a></p>\n<p>Points: 75</p>\n<p># Comments: 45</p>",
-        "pubDate": "Tue, 10 Nov 2026 11:51:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50439000"
-      },
-      {
-        "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
-        "link": "https://fakedos.com/",
-        "description": "<p>Article URL: <a href=\"https://fakedos.com/\">https://fakedos.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50438377\">https://news.ycombinator.com/item?id=50438377</a></p>\n<p>Points: 37</p>\n<p># Comments: 23</p>",
-        "pubDate": "Tue, 10 Nov 2026 10:32:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50438377"
-      },
-      {
-        "title": "Queens Public library under ransomware attack e-borrowing suspended",
-        "link": "https://connect.queenslibrary.org/",
-        "description": "<p>Article URL: <a href=\"https://connect.queenslibrary.org/\">https://connect.queenslibrary.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437790\">https://news.ycombinator.com/item?id=50437790</a></p>\n<p>Points: 92</p>\n<p># Comments: 67</p>",
-        "pubDate": "Tue, 10 Nov 2026 09:04:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50437790"
-      },
-      {
-        "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-        "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-        "description": "<p>Article URL: <a href=\"https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/\">https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437752\">https://news.ycombinator.com/item?id=50437752</a></p>\n<p>Points: 103</p>\n<p># Comments: 111</p>",
-        "pubDate": "Tue, 10 Nov 2026 08:59:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50437752"
-      },
-      {
-        "title": "Fireworks AI security breach impacts Notion and their customers",
-        "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-        "description": "<p>Article URL: <a href=\"https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437106\">https://news.ycombinator.com/item?id=50437106</a></p>\n<p>Points: 100</p>\n<p># Comments: 32</p>",
-        "pubDate": "Tue, 10 Nov 2026 07:19:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50437106"
-      },
-      {
-        "title": "ClickHouse Acquires Xata",
-        "link": "https://xata.io/blog/xata-is-joining-clickhouse",
-        "description": "<p>Article URL: <a href=\"https://xata.io/blog/xata-is-joining-clickhouse\">https://xata.io/blog/xata-is-joining-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436706\">https://news.ycombinator.com/item?id=50436706</a></p>\n<p>Points: 66</p>\n<p># Comments: 7</p>",
-        "pubDate": "Tue, 10 Nov 2026 06:14:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50436706"
-      },
-      {
-        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-        "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-        "description": "<p>Article URL: <a href=\"https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/\">https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436640\">https://news.ycombinator.com/item?id=50436640</a></p>\n<p>Points: 464</p>\n<p># Comments: 170</p>",
-        "pubDate": "Tue, 10 Nov 2026 06:01:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50436640"
-      },
-      {
-        "title": "Your TV can see through walls",
-        "link": "https://maurycyz.com/projects/fading/",
-        "description": "<p>Article URL: <a href=\"https://maurycyz.com/projects/fading/\">https://maurycyz.com/projects/fading/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436410\">https://news.ycombinator.com/item?id=50436410</a></p>\n<p>Points: 202</p>\n<p># Comments: 83</p>",
-        "pubDate": "Tue, 10 Nov 2026 05:24:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50436410"
-      },
-      {
-        "title": "Ultorg: The User Interface for Relational Databases",
-        "link": "https://www.ultorg.com/",
-        "description": "<p>Article URL: <a href=\"https://www.ultorg.com/\">https://www.ultorg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50435898\">https://news.ycombinator.com/item?id=50435898</a></p>\n<p>Points: 108</p>\n<p># Comments: 32</p>",
-        "pubDate": "Tue, 10 Nov 2026 03:59:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50435898"
-      },
-      {
-        "title": "Locating the source of a mysterious beep",
-        "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Nov/9/mysterious-beeps/\">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434310\">https://news.ycombinator.com/item?id=50434310</a></p>\n<p>Points: 254</p>\n<p># Comments: 131</p>",
-        "pubDate": "Tue, 10 Nov 2026 00:10:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50434310"
-      },
-      {
-        "title": "Horible public key tricks",
-        "link": "https://maurycyz.com/projects/badcert/",
-        "description": "<p>Article URL: <a href=\"https://maurycyz.com/projects/badcert/\">https://maurycyz.com/projects/badcert/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434264\">https://news.ycombinator.com/item?id=50434264</a></p>\n<p>Points: 203</p>\n<p># Comments: 69</p>",
-        "pubDate": "Tue, 10 Nov 2026 00:07:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50434264"
-      },
-      {
-        "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
-        "link": "https://hannahilea.com/blog/daylight-clock/",
-        "description": "<p>Article URL: <a href=\"https://hannahilea.com/blog/daylight-clock/\">https://hannahilea.com/blog/daylight-clock/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431075\">https://news.ycombinator.com/item?id=50431075</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 09 Nov 2026 20:00:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50431075"
-      },
-      {
-        "title": "USPS now offers official ZIP Code boundary polygons",
-        "link": "https://postalpro.usps.com/zcb",
-        "description": "<p>Article URL: <a href=\"https://postalpro.usps.com/zcb\">https://postalpro.usps.com/zcb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431058\">https://news.ycombinator.com/item?id=50431058</a></p>\n<p>Points: 676</p>\n<p># Comments: 343</p>",
-        "pubDate": "Mon, 09 Nov 2026 19:58:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50431058"
-      },
-      {
-        "title": "E-means: Outperforming k-means in one-tenth the epochs",
-        "link": "https://e-means.github.io/",
-        "description": "<p>Article URL: <a href=\"https://e-means.github.io/\">https://e-means.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429734\">https://news.ycombinator.com/item?id=50429734</a></p>\n<p>Points: 446</p>\n<p># Comments: 56</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:45:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429734"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-10T14:44:49.397Z",
+  "lastUpdated": "2026-11-10T23:07:40.105Z",
   "stats": {
     "feeds": 2,
     "articles": 20
