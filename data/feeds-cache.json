@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-10T01:26:11.798Z"
+      "lastFetched": "2026-11-10T14:44:29.275Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-10T01:26:17.482Z"
+      "lastFetched": "2026-11-10T14:44:49.396Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "The U.S. Is Driving Away Young Scientists",
+        "link": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html\">https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50440668\">https://news.ycombinator.com/item?id=50440668</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+        "pubDate": "Tue, 10 Nov 2026 14:12:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50440668"
+      },
+      {
+        "title": "Don't buy AR glasses",
+        "link": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+        "description": "<p>Article URL: <a href=\"https://blog.yaros.ae/dont-buy-ar-glasses/\">https://blog.yaros.ae/dont-buy-ar-glasses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439805\">https://news.ycombinator.com/item?id=50439805</a></p>\n<p>Points: 88</p>\n<p># Comments: 85</p>",
+        "pubDate": "Tue, 10 Nov 2026 13:10:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50439805"
+      },
+      {
+        "title": "Ableton Live 13",
+        "link": "https://www.ableton.com/en/live/",
+        "description": "<p>Article URL: <a href=\"https://www.ableton.com/en/live/\">https://www.ableton.com/en/live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439695\">https://news.ycombinator.com/item?id=50439695</a></p>\n<p>Points: 80</p>\n<p># Comments: 91</p>",
+        "pubDate": "Tue, 10 Nov 2026 12:58:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50439695"
+      },
+      {
+        "title": "Let over Lambda–50 Years of Lisp",
+        "link": "https://letoverlambda.com/",
+        "description": "<p>Article URL: <a href=\"https://letoverlambda.com/\">https://letoverlambda.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439448\">https://news.ycombinator.com/item?id=50439448</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 10 Nov 2026 12:35:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50439448"
+      },
+      {
+        "title": "What's new in the .NET 11 runtime",
+        "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+        "description": "<p>Article URL: <a href=\"https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime\">https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439284\">https://news.ycombinator.com/item?id=50439284</a></p>\n<p>Points: 38</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 10 Nov 2026 12:20:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50439284"
+      },
+      {
+        "title": "AlphaProof Code",
+        "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/introducing-alphaproof-code/\">https://deepmind.google/blog/introducing-alphaproof-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439193\">https://news.ycombinator.com/item?id=50439193</a></p>\n<p>Points: 239</p>\n<p># Comments: 93</p>",
+        "pubDate": "Tue, 10 Nov 2026 12:11:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50439193"
+      },
+      {
+        "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+        "link": "https://github.com/HolyArrs/HolyArrs",
+        "description": "<p>Article URL: <a href=\"https://github.com/HolyArrs/HolyArrs\">https://github.com/HolyArrs/HolyArrs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439000\">https://news.ycombinator.com/item?id=50439000</a></p>\n<p>Points: 75</p>\n<p># Comments: 45</p>",
+        "pubDate": "Tue, 10 Nov 2026 11:51:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50439000"
+      },
+      {
+        "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+        "link": "https://fakedos.com/",
+        "description": "<p>Article URL: <a href=\"https://fakedos.com/\">https://fakedos.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50438377\">https://news.ycombinator.com/item?id=50438377</a></p>\n<p>Points: 37</p>\n<p># Comments: 23</p>",
+        "pubDate": "Tue, 10 Nov 2026 10:32:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50438377"
+      },
+      {
+        "title": "Queens Public library under ransomware attack e-borrowing suspended",
+        "link": "https://connect.queenslibrary.org/",
+        "description": "<p>Article URL: <a href=\"https://connect.queenslibrary.org/\">https://connect.queenslibrary.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437790\">https://news.ycombinator.com/item?id=50437790</a></p>\n<p>Points: 92</p>\n<p># Comments: 67</p>",
+        "pubDate": "Tue, 10 Nov 2026 09:04:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50437790"
+      },
+      {
+        "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+        "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+        "description": "<p>Article URL: <a href=\"https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/\">https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437752\">https://news.ycombinator.com/item?id=50437752</a></p>\n<p>Points: 103</p>\n<p># Comments: 111</p>",
+        "pubDate": "Tue, 10 Nov 2026 08:59:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50437752"
+      },
+      {
+        "title": "Fireworks AI security breach impacts Notion and their customers",
+        "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+        "description": "<p>Article URL: <a href=\"https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437106\">https://news.ycombinator.com/item?id=50437106</a></p>\n<p>Points: 100</p>\n<p># Comments: 32</p>",
+        "pubDate": "Tue, 10 Nov 2026 07:19:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50437106"
+      },
+      {
+        "title": "ClickHouse Acquires Xata",
+        "link": "https://xata.io/blog/xata-is-joining-clickhouse",
+        "description": "<p>Article URL: <a href=\"https://xata.io/blog/xata-is-joining-clickhouse\">https://xata.io/blog/xata-is-joining-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436706\">https://news.ycombinator.com/item?id=50436706</a></p>\n<p>Points: 66</p>\n<p># Comments: 7</p>",
+        "pubDate": "Tue, 10 Nov 2026 06:14:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50436706"
+      },
+      {
+        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+        "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+        "description": "<p>Article URL: <a href=\"https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/\">https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436640\">https://news.ycombinator.com/item?id=50436640</a></p>\n<p>Points: 464</p>\n<p># Comments: 170</p>",
+        "pubDate": "Tue, 10 Nov 2026 06:01:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50436640"
+      },
+      {
+        "title": "Your TV can see through walls",
+        "link": "https://maurycyz.com/projects/fading/",
+        "description": "<p>Article URL: <a href=\"https://maurycyz.com/projects/fading/\">https://maurycyz.com/projects/fading/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436410\">https://news.ycombinator.com/item?id=50436410</a></p>\n<p>Points: 202</p>\n<p># Comments: 83</p>",
+        "pubDate": "Tue, 10 Nov 2026 05:24:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50436410"
+      },
+      {
+        "title": "Ultorg: The User Interface for Relational Databases",
+        "link": "https://www.ultorg.com/",
+        "description": "<p>Article URL: <a href=\"https://www.ultorg.com/\">https://www.ultorg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50435898\">https://news.ycombinator.com/item?id=50435898</a></p>\n<p>Points: 108</p>\n<p># Comments: 32</p>",
+        "pubDate": "Tue, 10 Nov 2026 03:59:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50435898"
+      },
+      {
+        "title": "Locating the source of a mysterious beep",
+        "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Nov/9/mysterious-beeps/\">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434310\">https://news.ycombinator.com/item?id=50434310</a></p>\n<p>Points: 254</p>\n<p># Comments: 131</p>",
+        "pubDate": "Tue, 10 Nov 2026 00:10:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50434310"
+      },
+      {
         "title": "Horible public key tricks",
         "link": "https://maurycyz.com/projects/badcert/",
-        "description": "<p>Article URL: <a href=\"https://maurycyz.com/projects/badcert/\">https://maurycyz.com/projects/badcert/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434264\">https://news.ycombinator.com/item?id=50434264</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://maurycyz.com/projects/badcert/\">https://maurycyz.com/projects/badcert/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434264\">https://news.ycombinator.com/item?id=50434264</a></p>\n<p>Points: 203</p>\n<p># Comments: 69</p>",
         "pubDate": "Tue, 10 Nov 2026 00:07:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50434264"
       },
       {
-        "title": "Fable 5.2 one-shotted my nephew's dream game",
-        "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-        "description": "<p>Article URL: <a href=\"https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game\">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433659\">https://news.ycombinator.com/item?id=50433659</a></p>\n<p>Points: 97</p>\n<p># Comments: 67</p>",
-        "pubDate": "Mon, 09 Nov 2026 23:08:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50433659"
-      },
-      {
-        "title": "Exact – a new cross platform UI framework by the Expo team",
-        "link": "https://github.com/expo/exact",
-        "description": "<p>Article URL: <a href=\"https://github.com/expo/exact\">https://github.com/expo/exact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433541\">https://news.ycombinator.com/item?id=50433541</a></p>\n<p>Points: 31</p>\n<p># Comments: 14</p>",
-        "pubDate": "Mon, 09 Nov 2026 22:59:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50433541"
-      },
-      {
-        "title": "A year after the 100% AI mandate nobody understands our code",
-        "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-        "description": "<p><a href=\"https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/\" rel=\"nofollow\">https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433079\">https://news.ycombinator.com/item?id=50433079</a></p>\n<p>Points: 100</p>\n<p># Comments: 118</p>",
-        "pubDate": "Mon, 09 Nov 2026 22:19:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50433079"
-      },
-      {
-        "title": "TPU 8tx and TPU 8i Max",
-        "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50432831\">https://news.ycombinator.com/item?id=50432831</a></p>\n<p>Points: 195</p>\n<p># Comments: 43</p>",
-        "pubDate": "Mon, 09 Nov 2026 21:56:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50432831"
-      },
-      {
-        "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-        "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">https://artificialanalysis.ai/models/claude-fable-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431144\">https://news.ycombinator.com/item?id=50431144</a></p>\n<p>Points: 275</p>\n<p># Comments: 196</p>",
-        "pubDate": "Mon, 09 Nov 2026 20:04:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50431144"
+        "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+        "link": "https://hannahilea.com/blog/daylight-clock/",
+        "description": "<p>Article URL: <a href=\"https://hannahilea.com/blog/daylight-clock/\">https://hannahilea.com/blog/daylight-clock/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431075\">https://news.ycombinator.com/item?id=50431075</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 09 Nov 2026 20:00:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50431075"
       },
       {
         "title": "USPS now offers official ZIP Code boundary polygons",
         "link": "https://postalpro.usps.com/zcb",
-        "description": "<p>Article URL: <a href=\"https://postalpro.usps.com/zcb\">https://postalpro.usps.com/zcb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431058\">https://news.ycombinator.com/item?id=50431058</a></p>\n<p>Points: 451</p>\n<p># Comments: 220</p>",
+        "description": "<p>Article URL: <a href=\"https://postalpro.usps.com/zcb\">https://postalpro.usps.com/zcb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431058\">https://news.ycombinator.com/item?id=50431058</a></p>\n<p>Points: 676</p>\n<p># Comments: 343</p>",
         "pubDate": "Mon, 09 Nov 2026 19:58:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=50431058"
       },
       {
-        "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-        "link": "https://parkgraph.com/parking-app-fees",
-        "description": "<p>Article URL: <a href=\"https://parkgraph.com/parking-app-fees\">https://parkgraph.com/parking-app-fees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50430991\">https://news.ycombinator.com/item?id=50430991</a></p>\n<p>Points: 51</p>\n<p># Comments: 31</p>",
-        "pubDate": "Mon, 09 Nov 2026 19:55:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50430991"
-      },
-      {
-        "title": "CUI – Native UI components for C",
-        "link": "https://yappologistic.github.io/CUI/",
-        "description": "<p>Article URL: <a href=\"https://yappologistic.github.io/CUI/\">https://yappologistic.github.io/CUI/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50430621\">https://news.ycombinator.com/item?id=50430621</a></p>\n<p>Points: 146</p>\n<p># Comments: 78</p>",
-        "pubDate": "Mon, 09 Nov 2026 19:35:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50430621"
-      },
-      {
-        "title": "Claude Fable 5.2 and Mythos 5.2",
-        "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429906\">https://news.ycombinator.com/item?id=50429906</a></p>\n<p>Points: 933</p>\n<p># Comments: 558</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:56:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429906"
-      },
-      {
-        "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-        "link": "https://someonewashere.app/",
-        "description": "<p>Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.<p>It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours.<p>I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads.<p>Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429812\">https://news.ycombinator.com/item?id=50429812</a></p>\n<p>Points: 59</p>\n<p># Comments: 23</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:50:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429812"
-      },
-      {
         "title": "E-means: Outperforming k-means in one-tenth the epochs",
         "link": "https://e-means.github.io/",
-        "description": "<p>Article URL: <a href=\"https://e-means.github.io/\">https://e-means.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429734\">https://news.ycombinator.com/item?id=50429734</a></p>\n<p>Points: 264</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://e-means.github.io/\">https://e-means.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429734\">https://news.ycombinator.com/item?id=50429734</a></p>\n<p>Points: 446</p>\n<p># Comments: 56</p>",
         "pubDate": "Mon, 09 Nov 2026 18:45:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50429734"
-      },
-      {
-        "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-        "link": "https://meowdisplay.app/",
-        "description": "<p>Hey HN and Cats, thank you for checking this out!<p>Github:\n<a href=\"https://github.com/raiseCatError/meowdisplay\" rel=\"nofollow\">https://github.com/raiseCatError/meowdisplay</a><p>EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: <a href=\"https://github.com/peetzweg/opendisplay\" rel=\"nofollow\">https://github.com/peetzweg/opendisplay</a>\nwhich provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\".<p>MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing.<p>The website has interactive illustrative demos if you'd like to see the app demonstrated.<p>I think MeowDisplay does a few things differently, some of which I prefer and you might too.<p>Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloating windows: coming in the 2.1 release.<p>Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support. Doesn't sacrifice display space for a trackpad, use all of the phone's screen with your preferred mode.<p>Stage Peek: shows a scrollable and searchable list of your Mac's windows on your phone along with an app drawer when you hold and pull on the left edge of your screen.<p>It's free and open source so you can try it and see if it's for you without having to commit to it or anything.<p>EDIT: I've used MeowDisplay during development whilst I was travelling between cities, left my acbook at home clamshell, powered, external display attached, and used it for small tasks remotely, it was pretty reliable even on a 5G network on a moving bus.<p>Meow,\nJai</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429636\">https://news.ycombinator.com/item?id=50429636</a></p>\n<p>Points: 73</p>\n<p># Comments: 29</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:39:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429636"
-      },
-      {
-        "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-        "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
-        "description": "<p>Article URL: <a href=\"https://www.infineon.com/press-release/2026/infpr202611-028\">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429430\">https://news.ycombinator.com/item?id=50429430</a></p>\n<p>Points: 96</p>\n<p># Comments: 60</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:25:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429430"
-      },
-      {
-        "title": "Google Gemini routes personal Drive files and emails to human annotators",
-        "link": "https://github.com/thisisme6598/gemini_files/",
-        "description": "<p>Article URL: <a href=\"https://github.com/thisisme6598/gemini_files/\">https://github.com/thisisme6598/gemini_files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429426\">https://news.ycombinator.com/item?id=50429426</a></p>\n<p>Points: 383</p>\n<p># Comments: 100</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:24:38 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429426"
-      },
-      {
-        "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-        "link": "https://github.com/Dodaios/ste80-humanizer",
-        "description": "<p>Article URL: <a href=\"https://github.com/Dodaios/ste80-humanizer\">https://github.com/Dodaios/ste80-humanizer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429144\">https://news.ycombinator.com/item?id=50429144</a></p>\n<p>Points: 54</p>\n<p># Comments: 14</p>",
-        "pubDate": "Mon, 09 Nov 2026 18:05:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429144"
-      },
-      {
-        "title": "Our Smallest, Most Efficient Model: Muse Ember",
-        "link": "https://research.meta.ai/blog/muse-ember",
-        "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-ember\">https://research.meta.ai/blog/muse-ember</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429024\">https://news.ycombinator.com/item?id=50429024</a></p>\n<p>Points: 239</p>\n<p># Comments: 99</p>",
-        "pubDate": "Mon, 09 Nov 2026 17:58:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50429024"
-      },
-      {
-        "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-        "link": "https://www.watched.earth",
-        "description": "<p>hey HN, i built this because i wanted to know what had actually photographed my street.<p>type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes.<p>some fun bits:\n- the pass search can't skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed\n- all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame\n- Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, which was a fun one to figure out<p>it only says \"watched\" if a real image exists, and it doesn't store your location.<p>code: <a href=\"https://github.com/dev-Armaan/satellites\" rel=\"nofollow\">https://github.com/dev-Armaan/satellites</a><p>would love feedback, especially on what data sources to add</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428907\">https://news.ycombinator.com/item?id=50428907</a></p>\n<p>Points: 221</p>\n<p># Comments: 42</p>",
-        "pubDate": "Mon, 09 Nov 2026 17:51:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50428907"
-      },
-      {
-        "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-        "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer\">https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428266\">https://news.ycombinator.com/item?id=50428266</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 09 Nov 2026 17:00:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50428266"
-      },
-      {
-        "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-        "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-        "description": "<p>Article URL: <a href=\"https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy\">https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427362\">https://news.ycombinator.com/item?id=50427362</a></p>\n<p>Points: 454</p>\n<p># Comments: 256</p>",
-        "pubDate": "Mon, 09 Nov 2026 16:00:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50427362"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-10T01:26:17.482Z",
+  "lastUpdated": "2026-11-10T14:44:49.397Z",
   "stats": {
     "feeds": 2,
     "articles": 20
