@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-13T06:20:57.827Z"
+      "lastFetched": "2026-11-13T19:31:19.813Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-13T06:21:17.963Z"
+      "lastFetched": "2026-11-13T19:31:24.912Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Scientists claim the universe is twice as old as believed",
-        "link": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-        "description": "<p>Article URL: <a href=\"https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/\">https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478635\">https://news.ycombinator.com/item?id=50478635</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 13 Nov 2026 05:13:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50478635"
+        "title": "The avalanche that hit math is coming for AI development",
+        "link": "https://www.dwarkesh.com/p/rsi",
+        "description": "<p>Article URL: <a href=\"https://www.dwarkesh.com/p/rsi\">https://www.dwarkesh.com/p/rsi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487854\">https://news.ycombinator.com/item?id=50487854</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 13 Nov 2026 18:39:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487854"
       },
       {
-        "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-        "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high\">https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478622\">https://news.ycombinator.com/item?id=50478622</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
-        "pubDate": "Fri, 13 Nov 2026 05:10:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50478622"
+        "title": "Models can now transmit viruses in weight-space",
+        "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+        "description": "<p>Article URL: <a href=\"https://www.alphaxiv.org/abs/2611.weight-space-misfolding\">https://www.alphaxiv.org/abs/2611.weight-space-misfolding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487762\">https://news.ycombinator.com/item?id=50487762</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+        "pubDate": "Fri, 13 Nov 2026 18:33:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487762"
       },
       {
-        "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
-        "link": "https://github.com/pharma2a/pharma2a",
-        "description": "<p>I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478543\">https://news.ycombinator.com/item?id=50478543</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-        "pubDate": "Fri, 13 Nov 2026 04:58:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50478543"
+        "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+        "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+        "description": "<p>Article URL: <a href=\"https://toninoble.com/post/ctrlc-ctrlv-ctrlcve\">https://toninoble.com/post/ctrlc-ctrlv-ctrlcve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487605\">https://news.ycombinator.com/item?id=50487605</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 13 Nov 2026 18:23:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487605"
       },
       {
-        "title": "IceWM",
-        "link": "https://ice-wm.org/",
-        "description": "<p>Article URL: <a href=\"https://ice-wm.org/\">https://ice-wm.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478515\">https://news.ycombinator.com/item?id=50478515</a></p>\n<p>Points: 41</p>\n<p># Comments: 19</p>",
-        "pubDate": "Fri, 13 Nov 2026 04:54:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50478515"
+        "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+        "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/\">https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487522\">https://news.ycombinator.com/item?id=50487522</a></p>\n<p>Points: 60</p>\n<p># Comments: 25</p>",
+        "pubDate": "Fri, 13 Nov 2026 18:18:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487522"
       },
       {
-        "title": "Switcher (2004)",
-        "link": "https://folklore.org/Switcher.html",
-        "description": "<p>Article URL: <a href=\"https://folklore.org/Switcher.html\">https://folklore.org/Switcher.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477714\">https://news.ycombinator.com/item?id=50477714</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
-        "pubDate": "Fri, 13 Nov 2026 03:14:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50477714"
+        "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+        "link": "https://isometricsf.com/",
+        "description": "<p>Technical Write-up: <a href=\"https://www.justinchavez.com/blog/isometric-sf-how/\" rel=\"nofollow\">https://www.justinchavez.com/blog/isometric-sf-how/</a><p>Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley.<p>The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post.<p>Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models.<p>If I did the map with Nano Banana 2 it would have cost around 7k USD!<p>Credit for the idea goes to Isometric NYC.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487228\">https://news.ycombinator.com/item?id=50487228</a></p>\n<p>Points: 39</p>\n<p># Comments: 16</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:58:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487228"
       },
       {
-        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-        "link": "https://brave.com/blog/search-api-agentic-payments/",
-        "description": "<p>Article URL: <a href=\"https://brave.com/blog/search-api-agentic-payments/\">https://brave.com/blog/search-api-agentic-payments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477649\">https://news.ycombinator.com/item?id=50477649</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
-        "pubDate": "Fri, 13 Nov 2026 03:08:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50477649"
+        "title": "After 600 experiments, here's what I discovered about JEPA world models",
+        "link": "https://haddyalchaer.com/jepa",
+        "description": "<p>Article URL: <a href=\"https://haddyalchaer.com/jepa\">https://haddyalchaer.com/jepa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487185\">https://news.ycombinator.com/item?id=50487185</a></p>\n<p>Points: 85</p>\n<p># Comments: 14</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:55:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487185"
       },
       {
-        "title": "Nvidia employees petition to bring back Jensen Huang",
-        "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\">https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477231\">https://news.ycombinator.com/item?id=50477231</a></p>\n<p>Points: 354</p>\n<p># Comments: 269</p>",
-        "pubDate": "Fri, 13 Nov 2026 02:16:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50477231"
+        "title": "OpenAI disbands its robotics team as its general models start running robots",
+        "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "description": "<p>Article URL: <a href=\"https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/\">https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487184\">https://news.ycombinator.com/item?id=50487184</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:55:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50487184"
       },
       {
-        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-        "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-        "description": "<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://news.ycombinator.com/item?id=50475713</a></p>\n<p>Points: 180</p>\n<p># Comments: 42</p>",
-        "pubDate": "Thu, 12 Nov 2026 23:06:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50475713"
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "description": "<p>Article URL: <a href=\"https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths\">https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486748\">https://news.ycombinator.com/item?id=50486748</a></p>\n<p>Points: 170</p>\n<p># Comments: 33</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:30:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486748"
       },
       {
-        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-        "link": "https://unemploymentlabs.com/checkpoint-forensics",
-        "description": "<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 246</p>\n<p># Comments: 65</p>",
-        "pubDate": "Thu, 12 Nov 2026 21:56:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50474883"
+        "title": "Concurrent Shell Command Queues",
+        "link": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+        "description": "<p>Article URL: <a href=\"https://emmer.dev/blog/concurrent-shell-command-queues/\">https://emmer.dev/blog/concurrent-shell-command-queues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486521\">https://news.ycombinator.com/item?id=50486521</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:13:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486521"
       },
       {
-        "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
-        "link": "https://github.com/KoljaB/RealtimeVAD",
-        "description": "<p>Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal.<p>There had to be a method to get this signal closer to what I felt is optimal. My idea was to use a 10 ms energy detector with a threshold that adapts to environment or room noise. Which worked amazingly well. It created more false positives but in my speculative generation pipeline that would not matter. If it's wrong and the user continues speaking I can abort the pipeline fast.<p>I benchmarked my solution over ~3200 turns from my assistant logs and it came out ~110 ms faster initially. Still 100 ms now after some a fix which was needed for quiet speech.<p>I made it public if you want to have a look. If you measure it on your data I really appreciate any feedback. There's a benchmark script in the repo.<p>Thx for reading, have a good day folks.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474586\">https://news.ycombinator.com/item?id=50474586</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-        "pubDate": "Thu, 12 Nov 2026 21:30:57 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50474586"
+        "title": "LibreOffice actually works 365 days a year",
+        "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/LibreOffice/status/2121205272479998268\">https://twitter.com/LibreOffice/status/2121205272479998268</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486482\">https://news.ycombinator.com/item?id=50486482</a></p>\n<p>Points: 520</p>\n<p># Comments: 185</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:09:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486482"
       },
       {
-        "title": "Foundation Models framework",
-        "link": "https://developer.apple.com/foundation-models-framework/",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/foundation-models-framework/\">https://developer.apple.com/foundation-models-framework/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474361\">https://news.ycombinator.com/item?id=50474361</a></p>\n<p>Points: 181</p>\n<p># Comments: 26</p>",
-        "pubDate": "Thu, 12 Nov 2026 21:13:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50474361"
+        "title": "Gnomon. Git for Postgres data, built for agents",
+        "link": "https://github.com/bitsinfra/gnomon",
+        "description": "<p>Article URL: <a href=\"https://github.com/bitsinfra/gnomon\">https://github.com/bitsinfra/gnomon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486480\">https://news.ycombinator.com/item?id=50486480</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:09:52 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486480"
       },
       {
-        "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-        "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-        "description": "<p>Article URL: <a href=\"https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html\">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474311\">https://news.ycombinator.com/item?id=50474311</a></p>\n<p>Points: 147</p>\n<p># Comments: 137</p>",
-        "pubDate": "Thu, 12 Nov 2026 21:09:49 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50474311"
+        "title": "Apify Security Incident",
+        "link": "https://status.apify.com/incidents/sxd1dj5j6749",
+        "description": "<p>Article URL: <a href=\"https://status.apify.com/incidents/sxd1dj5j6749\">https://status.apify.com/incidents/sxd1dj5j6749</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486258\">https://news.ycombinator.com/item?id=50486258</a></p>\n<p>Points: 57</p>\n<p># Comments: 8</p>",
+        "pubDate": "Fri, 13 Nov 2026 16:55:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486258"
       },
       {
-        "title": "Announcement: Conductor Is Back",
-        "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/charlieholtz/status/2120973052024598620\">https://twitter.com/charlieholtz/status/2120973052024598620</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50473888\">https://news.ycombinator.com/item?id=50473888</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
-        "pubDate": "Thu, 12 Nov 2026 20:37:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50473888"
+        "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
+        "link": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+        "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cqdj1ellpd70o\">https://www.bbc.com/news/articles/cqdj1ellpd70o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486178\">https://news.ycombinator.com/item?id=50486178</a></p>\n<p>Points: 55</p>\n<p># Comments: 18</p>",
+        "pubDate": "Fri, 13 Nov 2026 16:50:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486178"
       },
       {
-        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-        "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-        "description": "<p><a href=\"https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/\" rel=\"nofollow\">https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50473190\">https://news.ycombinator.com/item?id=50473190</a></p>\n<p>Points: 200</p>\n<p># Comments: 224</p>",
-        "pubDate": "Thu, 12 Nov 2026 19:51:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50473190"
+        "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+        "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+        "description": "<p>Article URL: <a href=\"https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e\">https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50485295\">https://news.ycombinator.com/item?id=50485295</a></p>\n<p>Points: 143</p>\n<p># Comments: 53</p>",
+        "pubDate": "Fri, 13 Nov 2026 15:52:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50485295"
       },
       {
-        "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-        "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-        "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/\">https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472490\">https://news.ycombinator.com/item?id=50472490</a></p>\n<p>Points: 256</p>\n<p># Comments: 111</p>",
-        "pubDate": "Thu, 12 Nov 2026 19:05:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50472490"
+        "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+        "link": "https://text.npr.org/nx-s1-6029408",
+        "description": "<p>Article URL: <a href=\"https://text.npr.org/nx-s1-6029408\">https://text.npr.org/nx-s1-6029408</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484960\">https://news.ycombinator.com/item?id=50484960</a></p>\n<p>Points: 99</p>\n<p># Comments: 99</p>",
+        "pubDate": "Fri, 13 Nov 2026 15:29:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50484960"
       },
       {
-        "title": "Gemini 4 Hydrogen and Orchestrator",
-        "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-        "description": "<p>Article URL: <a href=\"https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\">https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472260\">https://news.ycombinator.com/item?id=50472260</a></p>\n<p>Points: 372</p>\n<p># Comments: 101</p>",
-        "pubDate": "Thu, 12 Nov 2026 18:52:01 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50472260"
+        "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+        "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+        "description": "<p><a href=\"https://palmfrets.com/\" rel=\"nofollow\">https://palmfrets.com/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484650\">https://news.ycombinator.com/item?id=50484650</a></p>\n<p>Points: 60</p>\n<p># Comments: 43</p>",
+        "pubDate": "Fri, 13 Nov 2026 15:08:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50484650"
       },
       {
-        "title": "Rust 1.100",
-        "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "description": "<p>Article URL: <a href=\"https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\">https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472038\">https://news.ycombinator.com/item?id=50472038</a></p>\n<p>Points: 570</p>\n<p># Comments: 226</p>",
-        "pubDate": "Thu, 12 Nov 2026 18:39:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50472038"
+        "title": "A technical vision for the Haskell ecosystem",
+        "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+        "description": "<p>Article URL: <a href=\"https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078\">https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484235\">https://news.ycombinator.com/item?id=50484235</a></p>\n<p>Points: 129</p>\n<p># Comments: 49</p>",
+        "pubDate": "Fri, 13 Nov 2026 14:43:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50484235"
       },
       {
-        "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-        "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-        "description": "<p>Article URL: <a href=\"https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\">https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471761\">https://news.ycombinator.com/item?id=50471761</a></p>\n<p>Points: 165</p>\n<p># Comments: 30</p>",
-        "pubDate": "Thu, 12 Nov 2026 18:22:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50471761"
+        "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+        "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "description": "<p>Article URL: <a href=\"https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0\">https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484007\">https://news.ycombinator.com/item?id=50484007</a></p>\n<p>Points: 98</p>\n<p># Comments: 22</p>",
+        "pubDate": "Fri, 13 Nov 2026 14:28:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50484007"
       },
       {
-        "title": "Service degradation on Microsoft 365",
-        "link": "https://status.cloud.microsoft/",
-        "description": "<p><a href=\"https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050\" rel=\"nofollow\">https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...</a><p><a href=\"https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/\" rel=\"nofollow\">https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...</a><p><a href=\"https://downdetector.com/status/microsoft-365/\" rel=\"nofollow\">https://downdetector.com/status/microsoft-365/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471731\">https://news.ycombinator.com/item?id=50471731</a></p>\n<p>Points: 698</p>\n<p># Comments: 649</p>",
-        "pubDate": "Thu, 12 Nov 2026 18:20:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50471731"
+        "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+        "link": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets\">https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483959\">https://news.ycombinator.com/item?id=50483959</a></p>\n<p>Points: 41</p>\n<p># Comments: 3</p>",
+        "pubDate": "Fri, 13 Nov 2026 14:25:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50483959"
       },
       {
-        "title": "Gemini 4 Hydrogen",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471431\">https://news.ycombinator.com/item?id=50471431</a></p>\n<p>Points: 503</p>\n<p># Comments: 320</p>",
-        "pubDate": "Thu, 12 Nov 2026 18:01:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50471431"
+        "title": "Why Zig over C for Systems Programming",
+        "link": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+        "description": "<p>Article URL: <a href=\"https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/\">https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483611\">https://news.ycombinator.com/item?id=50483611</a></p>\n<p>Points: 194</p>\n<p># Comments: 155</p>",
+        "pubDate": "Fri, 13 Nov 2026 14:01:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50483611"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-13T06:21:17.963Z",
+  "lastUpdated": "2026-11-13T19:31:24.912Z",
   "stats": {
     "feeds": 2,
     "articles": 20
