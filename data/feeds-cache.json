@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-14T22:14:50.393Z"
+      "lastFetched": "2026-11-15T06:06:27.587Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-14T22:14:59.416Z"
+      "lastFetched": "2026-11-15T06:06:34.225Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "SpaceX Catches the Starship to end Flight 15",
-        "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-        "description": "<p>Article URL: <a href=\"https://x.com/i/broadcasts/2brajgZlOKRMka\">https://x.com/i/broadcasts/2brajgZlOKRMka</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50500963\">https://news.ycombinator.com/item?id=50500963</a></p>\n<p>Points: 221</p>\n<p># Comments: 120</p>",
+        "title": "Show HN: Gawain – Require type hints on all Python variables",
+        "link": "https://github.com/matheuzgomes/gawain",
+        "description": "<p>Yes, i really hate \"dict[str, ANY]\"</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504072\">https://news.ycombinator.com/item?id=50504072</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 15 Nov 2026 04:39:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50504072"
+      },
+      {
+        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "description": "<p>Article URL: <a href=\"https://github.com/Tthanh2k6/turbo-browser-mcp\">https://github.com/Tthanh2k6/turbo-browser-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503930\">https://news.ycombinator.com/item?id=50503930</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 15 Nov 2026 04:09:11 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50503930"
+      },
+      {
+        "title": "Osint Case Studies",
+        "link": "https://osintsearch.org/blog/osint-case-studies",
+        "description": "<p>Article URL: <a href=\"https://osintsearch.org/blog/osint-case-studies\">https://osintsearch.org/blog/osint-case-studies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503731\">https://news.ycombinator.com/item?id=50503731</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sun, 15 Nov 2026 03:33:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50503731"
+      },
+      {
+        "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+        "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+        "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\">https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503588\">https://news.ycombinator.com/item?id=50503588</a></p>\n<p>Points: 43</p>\n<p># Comments: 23</p>",
+        "pubDate": "Sun, 15 Nov 2026 03:05:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50503588"
+      },
+      {
+        "title": "My favourite modern NES games",
+        "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+        "description": "<p>Article URL: <a href=\"https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/\">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503465\">https://news.ycombinator.com/item?id=50503465</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+        "pubDate": "Sun, 15 Nov 2026 02:41:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50503465"
+      },
+      {
+        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+        "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503255\">https://news.ycombinator.com/item?id=50503255</a></p>\n<p>Points: 155</p>\n<p># Comments: 35</p>",
+        "pubDate": "Sun, 15 Nov 2026 02:00:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50503255"
+      },
+      {
+        "title": "Court denies motion to dismiss DRAM price fixing case",
+        "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "description": "<p>Article URL: <a href=\"https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502988\">https://news.ycombinator.com/item?id=50502988</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sun, 15 Nov 2026 01:18:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50502988"
+      },
+      {
+        "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+        "link": "https://bobbiec.github.io/jamaican-font.html",
+        "description": "<p>Article URL: <a href=\"https://bobbiec.github.io/jamaican-font.html\">https://bobbiec.github.io/jamaican-font.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502839\">https://news.ycombinator.com/item?id=50502839</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+        "pubDate": "Sun, 15 Nov 2026 00:56:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50502839"
+      },
+      {
+        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+        "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+        "description": "<p>Article URL: <a href=\"https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501631\">https://news.ycombinator.com/item?id=50501631</a></p>\n<p>Points: 384</p>\n<p># Comments: 192</p>",
+        "pubDate": "Sat, 14 Nov 2026 22:26:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50501631"
+      },
+      {
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "link": "https://retrocomputing.stackexchange.com/questions/17957",
+        "description": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/17957\">https://retrocomputing.stackexchange.com/questions/17957</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501594\">https://news.ycombinator.com/item?id=50501594</a></p>\n<p>Points: 164</p>\n<p># Comments: 66</p>",
+        "pubDate": "Sat, 14 Nov 2026 22:22:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50501594"
+      },
+      {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "link": "https://www.spacex.com/launches/starship-flight-15",
+        "description": "<p><a href=\"https://x.com/SpaceX/status/2121316300702056595\" rel=\"nofollow\">https://x.com/SpaceX/status/2121316300702056595</a><p><a href=\"https://youtu.be/jHlpfNSpBmw?t=3233\" rel=\"nofollow\">https://youtu.be/jHlpfNSpBmw?t=3233</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50500963\">https://news.ycombinator.com/item?id=50500963</a></p>\n<p>Points: 981</p>\n<p># Comments: 664</p>",
         "pubDate": "Sat, 14 Nov 2026 21:22:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=50500963"
       },
       {
-        "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
-        "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
-        "description": "<p>Article URL: <a href=\"https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year\">https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499945\">https://news.ycombinator.com/item?id=50499945</a></p>\n<p>Points: 46</p>\n<p># Comments: 8</p>",
-        "pubDate": "Sat, 14 Nov 2026 19:23:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50499945"
-      },
-      {
-        "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-        "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-        "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499723\">https://news.ycombinator.com/item?id=50499723</a></p>\n<p>Points: 124</p>\n<p># Comments: 53</p>",
-        "pubDate": "Sat, 14 Nov 2026 18:56:47 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50499723"
-      },
-      {
-        "title": "US IRS free online tax filing open source repo (2025)",
-        "link": "https://github.com/IRS-Public/direct-file",
-        "description": "<p>Article URL: <a href=\"https://github.com/IRS-Public/direct-file\">https://github.com/IRS-Public/direct-file</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499083\">https://news.ycombinator.com/item?id=50499083</a></p>\n<p>Points: 122</p>\n<p># Comments: 69</p>",
-        "pubDate": "Sat, 14 Nov 2026 17:48:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50499083"
-      },
-      {
-        "title": "A Family Tree of Software Job Titles",
+        "title": "A family tree of software job titles",
         "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "description": "<p>Article URL: <a href=\"https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/\">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499038\">https://news.ycombinator.com/item?id=50499038</a></p>\n<p>Points: 129</p>\n<p># Comments: 58</p>",
+        "description": "<p>Article URL: <a href=\"https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/\">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499038\">https://news.ycombinator.com/item?id=50499038</a></p>\n<p>Points: 264</p>\n<p># Comments: 130</p>",
         "pubDate": "Sat, 14 Nov 2026 17:45:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50499038"
       },
       {
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "link": "https://www.crissyfield.de/research/lovable-en/",
-        "description": "<p>Article URL: <a href=\"https://www.crissyfield.de/research/lovable-en/\">https://www.crissyfield.de/research/lovable-en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499017\">https://news.ycombinator.com/item?id=50499017</a></p>\n<p>Points: 492</p>\n<p># Comments: 180</p>",
+        "description": "<p>Article URL: <a href=\"https://www.crissyfield.de/research/lovable-en/\">https://www.crissyfield.de/research/lovable-en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499017\">https://news.ycombinator.com/item?id=50499017</a></p>\n<p>Points: 739</p>\n<p># Comments: 295</p>",
         "pubDate": "Sat, 14 Nov 2026 17:43:10 +0000",
         "guid": "https://news.ycombinator.com/item?id=50499017"
       },
       {
-        "title": "Will we put data centers in space?",
-        "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-        "description": "<p>Article URL: <a href=\"https://www.forethought.org/research/will-we-really-put-data-centers-in-space\">https://www.forethought.org/research/will-we-really-put-data-centers-in-space</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498945\">https://news.ycombinator.com/item?id=50498945</a></p>\n<p>Points: 38</p>\n<p># Comments: 110</p>",
-        "pubDate": "Sat, 14 Nov 2026 17:35:33 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50498945"
-      },
-      {
-        "title": "Creating a self booting ZIP archive",
-        "link": "https://goliath32.com/blog/ziphead.html",
-        "description": "<p>Article URL: <a href=\"https://goliath32.com/blog/ziphead.html\">https://goliath32.com/blog/ziphead.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498295\">https://news.ycombinator.com/item?id=50498295</a></p>\n<p>Points: 30</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sat, 14 Nov 2026 16:29:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50498295"
-      },
-      {
-        "title": "How to Create Your Own Decentralized Messenger Protocol",
-        "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
-        "description": "<p>Article URL: <a href=\"https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol\">https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498073\">https://news.ycombinator.com/item?id=50498073</a></p>\n<p>Points: 46</p>\n<p># Comments: 8</p>",
-        "pubDate": "Sat, 14 Nov 2026 16:01:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50498073"
-      },
-      {
         "title": "PyPI's redesigned project pages with clearer security signals are now live",
         "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-        "description": "<p>Article URL: <a href=\"https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497892\">https://news.ycombinator.com/item?id=50497892</a></p>\n<p>Points: 173</p>\n<p># Comments: 78</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497892\">https://news.ycombinator.com/item?id=50497892</a></p>\n<p>Points: 225</p>\n<p># Comments: 97</p>",
         "pubDate": "Sat, 14 Nov 2026 15:40:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50497892"
       },
       {
         "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
         "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "description": "<p>Article URL: <a href=\"https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax\">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497589\">https://news.ycombinator.com/item?id=50497589</a></p>\n<p>Points: 118</p>\n<p># Comments: 7</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax\">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497589\">https://news.ycombinator.com/item?id=50497589</a></p>\n<p>Points: 213</p>\n<p># Comments: 12</p>",
         "pubDate": "Sat, 14 Nov 2026 15:04:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50497589"
       },
       {
-        "title": "Demystifying phone unlocking tools: A technical overview",
-        "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-        "description": "<p>Article URL: <a href=\"https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/\">https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497416\">https://news.ycombinator.com/item?id=50497416</a></p>\n<p>Points: 49</p>\n<p># Comments: 1</p>",
-        "pubDate": "Sat, 14 Nov 2026 14:44:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50497416"
-      },
-      {
-        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "link": "https://github.com/paul-nameless/agweb",
-        "description": "<p>Article URL: <a href=\"https://github.com/paul-nameless/agweb\">https://github.com/paul-nameless/agweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497147\">https://news.ycombinator.com/item?id=50497147</a></p>\n<p>Points: 77</p>\n<p># Comments: 21</p>",
-        "pubDate": "Sat, 14 Nov 2026 14:08:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50497147"
-      },
-      {
-        "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-        "link": "https://github.com/FURSOY/fursoy-cpu",
-        "description": "<p>Article URL: <a href=\"https://github.com/FURSOY/fursoy-cpu\">https://github.com/FURSOY/fursoy-cpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497137\">https://news.ycombinator.com/item?id=50497137</a></p>\n<p>Points: 61</p>\n<p># Comments: 19</p>",
-        "pubDate": "Sat, 14 Nov 2026 14:06:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50497137"
-      },
-      {
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "link": "https://gitlab.com/snipedbywifi/terminactory",
-        "description": "<p>Hey HN readers!<p>I'm snipedbywifi (<a href=\"https://gitlab.com/snipedbywifi\" rel=\"nofollow\">https://gitlab.com/snipedbywifi</a>), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish!<p>The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!)<p>Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features.<p>If anyone actually has this issue / want of a terminal-based game that runs alongside your agents so you don't doomscroll, do you have any suggestions, or additional ideas I could add?<p>It's hosted on GitLab, soo, that's one additional thing i'd like to mention<p>Thanks for reading!! snipedbywifi<p>(p.s. first HN post lol)\n(p.s. p.s. there's a lot of hidden lore in the game, so.. lore-divers? you might like it?)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497132\">https://news.ycombinator.com/item?id=50497132</a></p>\n<p>Points: 117</p>\n<p># Comments: 24</p>",
-        "pubDate": "Sat, 14 Nov 2026 14:05:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50497132"
-      },
-      {
-        "title": "Italy fines Meta $887M over Android users' data access",
-        "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/\">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497009\">https://news.ycombinator.com/item?id=50497009</a></p>\n<p>Points: 277</p>\n<p># Comments: 184</p>",
-        "pubDate": "Sat, 14 Nov 2026 13:48:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50497009"
-      },
-      {
         "title": "KDE: The documentary [video]",
         "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "description": "<p>Article URL: <a href=\"https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c\">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496976\">https://news.ycombinator.com/item?id=50496976</a></p>\n<p>Points: 321</p>\n<p># Comments: 70</p>",
+        "description": "<p>Article URL: <a href=\"https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c\">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496976\">https://news.ycombinator.com/item?id=50496976</a></p>\n<p>Points: 425</p>\n<p># Comments: 91</p>",
         "pubDate": "Sat, 14 Nov 2026 13:43:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=50496976"
       },
       {
-        "title": "A visual explanation of reinforcement learning",
-        "link": "https://aatishb.com/myriad/how-brains-learn/",
-        "description": "<p>Article URL: <a href=\"https://aatishb.com/myriad/how-brains-learn/\">https://aatishb.com/myriad/how-brains-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496885\">https://news.ycombinator.com/item?id=50496885</a></p>\n<p>Points: 94</p>\n<p># Comments: 6</p>",
-        "pubDate": "Sat, 14 Nov 2026 13:31:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50496885"
-      },
-      {
         "title": "Advancing science and engineering with Antigravity's /teamwork",
         "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "description": "<p>Article URL: <a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496811\">https://news.ycombinator.com/item?id=50496811</a></p>\n<p>Points: 138</p>\n<p># Comments: 33</p>",
+        "description": "<p>Article URL: <a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496811\">https://news.ycombinator.com/item?id=50496811</a></p>\n<p>Points: 188</p>\n<p># Comments: 40</p>",
         "pubDate": "Sat, 14 Nov 2026 13:20:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50496811"
       },
       {
-        "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-        "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-        "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again\">https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496602\">https://news.ycombinator.com/item?id=50496602</a></p>\n<p>Points: 394</p>\n<p># Comments: 151</p>",
-        "pubDate": "Sat, 14 Nov 2026 12:45:45 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50496602"
+        "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+        "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+        "description": "<p>Article URL: <a href=\"https://projectzero.google/2026/11/disclosure-policy.html\">https://projectzero.google/2026/11/disclosure-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496051\">https://news.ycombinator.com/item?id=50496051</a></p>\n<p>Points: 217</p>\n<p># Comments: 72</p>",
+        "pubDate": "Sat, 14 Nov 2026 11:13:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50496051"
+      },
+      {
+        "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+        "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html\">https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486880\">https://news.ycombinator.com/item?id=50486880</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
+        "pubDate": "Fri, 13 Nov 2026 17:37:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50486880"
+      },
+      {
+        "title": "500 Lines or Less A 3D Modeller",
+        "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
+        "description": "<p>Article URL: <a href=\"https://aosabook.org/en/500L/a-3d-modeller.html\">https://aosabook.org/en/500L/a-3d-modeller.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483431\">https://news.ycombinator.com/item?id=50483431</a></p>\n<p>Points: 35</p>\n<p># Comments: 4</p>",
+        "pubDate": "Fri, 13 Nov 2026 13:47:42 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50483431"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-14T22:14:59.416Z",
+  "lastUpdated": "2026-11-15T06:06:34.225Z",
   "stats": {
     "feeds": 2,
     "articles": 20
