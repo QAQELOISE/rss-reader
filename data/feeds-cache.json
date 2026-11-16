@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-16T06:05:53.473Z"
+      "lastFetched": "2026-11-16T21:54:33.263Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-16T06:06:02.155Z"
+      "lastFetched": "2026-11-16T21:54:48.436Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-        "link": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
-        "description": "<p>Article URL: <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101\">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50514180\">https://news.ycombinator.com/item?id=50514180</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-        "pubDate": "Mon, 16 Nov 2026 04:53:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50514180"
+        "title": "Spamhaus new email sender requirements in November",
+        "link": "https://www.spamhaus.org/sender-guidelines/",
+        "description": "<p>Article URL: <a href=\"https://www.spamhaus.org/sender-guidelines/\">https://www.spamhaus.org/sender-guidelines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523784\">https://news.ycombinator.com/item?id=50523784</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+        "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50523784"
       },
       {
-        "title": "Stop Filming in Log",
-        "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-        "description": "<p>Article URL: <a href=\"https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/\">https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50514093\">https://news.ycombinator.com/item?id=50514093</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-        "pubDate": "Mon, 16 Nov 2026 04:37:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50514093"
+        "title": "BugMeNot Has Closed",
+        "link": "https://www.bugmenot.com/",
+        "description": "<p>Article URL: <a href=\"https://www.bugmenot.com/\">https://www.bugmenot.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523601\">https://news.ycombinator.com/item?id=50523601</a></p>\n<p>Points: 51</p>\n<p># Comments: 24</p>",
+        "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50523601"
       },
       {
-        "title": "Tell HN: HN is being scraped for emails to scam",
-        "link": "https://news.ycombinator.com/item?id=50513451",
-        "description": "<p>I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make your page private I've had some of those emails suddenly have spam sent to as well. Please be safe everyone!<p>My favorite tells that an email is a scam:\n- Before opening a surprising/suspicious email, hover over the sender name to see the domain the sender came from (don't open the email if it's strange).\n- _If_ you already opened the email, before clicking any links in the email, hover over them to see the domain that the link sends you to.<p>There are dozens more tips but a full article would be required, and these two will prevent you from falling for nearly all of them.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513451\">https://news.ycombinator.com/item?id=50513451</a></p>\n<p>Points: 51</p>\n<p># Comments: 10</p>",
-        "pubDate": "Mon, 16 Nov 2026 02:53:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50513451"
+        "title": "My Quest to push native Three.js quality match AAA Game Engines",
+        "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+        "description": "<p>Article URL: <a href=\"https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs\">https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523291\">https://news.ycombinator.com/item?id=50523291</a></p>\n<p>Points: 30</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 16 Nov 2026 21:07:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50523291"
       },
       {
-        "title": "Qwen4-Max",
-        "link": "https://qwen.ai/blog?id=qwen4-max",
-        "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen4-max\">https://qwen.ai/blog?id=qwen4-max</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513215\">https://news.ycombinator.com/item?id=50513215</a></p>\n<p>Points: 296</p>\n<p># Comments: 99</p>",
-        "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50513215"
+        "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+        "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+        "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/\">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523025\">https://news.ycombinator.com/item?id=50523025</a></p>\n<p>Points: 31</p>\n<p># Comments: 20</p>",
+        "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50523025"
       },
       {
-        "title": "Universal XSS in uBlock Origin from website-driven element picker",
-        "link": "https://iter.ca/post/ubo-uxss/",
-        "description": "<p>Article URL: <a href=\"https://iter.ca/post/ubo-uxss/\">https://iter.ca/post/ubo-uxss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513160\">https://news.ycombinator.com/item?id=50513160</a></p>\n<p>Points: 216</p>\n<p># Comments: 53</p>",
-        "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50513160"
+        "title": "Caltech professor no longer grades homework's because everyone uses AI",
+        "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+        "description": "<p>Article URL: <a href=\"https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11\">https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523022\">https://news.ycombinator.com/item?id=50523022</a></p>\n<p>Points: 33</p>\n<p># Comments: 20</p>",
+        "pubDate": "Mon, 16 Nov 2026 20:47:53 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50523022"
       },
       {
-        "title": "Coles hit by a cybersecurity incident",
-        "link": "https://www.colesgroup.com.au/updates/",
-        "description": "<p>Article URL: <a href=\"https://www.colesgroup.com.au/updates/\">https://www.colesgroup.com.au/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512824\">https://news.ycombinator.com/item?id=50512824</a></p>\n<p>Points: 82</p>\n<p># Comments: 59</p>",
-        "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50512824"
+        "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+        "link": "https://news.ycombinator.com/item?id=50522776",
+        "description": "<p>Hi HN! We’re Arsh and Max, founders of Axonnic (<a href=\"https://axonnic.com\">https://axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href=\"https://youtube.com/shorts/xBrocTc9cfA\" rel=\"nofollow\">https://youtube.com/shorts/xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href=\"https://axonnic.com/benchmarks\">https://axonnic.com/benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href=\"https://axonnic.com\">https://axonnic.com</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522776\">https://news.ycombinator.com/item?id=50522776</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+        "pubDate": "Mon, 16 Nov 2026 20:29:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50522776"
       },
       {
-        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-        "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-        "description": "<p>Article URL: <a href=\"https://forum.torproject.org/t/security-release-0-4-9-17/22454\">https://forum.torproject.org/t/security-release-0-4-9-17/22454</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512441\">https://news.ycombinator.com/item?id=50512441</a></p>\n<p>Points: 97</p>\n<p># Comments: 24</p>",
-        "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50512441"
+        "title": "Chemistry Is Geometry",
+        "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+        "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry\">https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522643\">https://news.ycombinator.com/item?id=50522643</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+        "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50522643"
       },
       {
-        "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-        "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone\">https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512296\">https://news.ycombinator.com/item?id=50512296</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
-        "pubDate": "Mon, 16 Nov 2026 00:03:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50512296"
+        "title": "Rust changed me as a developer",
+        "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+        "description": "<p>Article URL: <a href=\"https://blog.startifact.com/posts/how-rust-changed-me/\">https://blog.startifact.com/posts/how-rust-changed-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522563\">https://news.ycombinator.com/item?id=50522563</a></p>\n<p>Points: 59</p>\n<p># Comments: 20</p>",
+        "pubDate": "Mon, 16 Nov 2026 20:16:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50522563"
       },
       {
-        "title": "What's Next for Nvidia?",
-        "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-        "description": "<p>Article URL: <a href=\"https://steveblank.com/2026/11/15/whats-next-for-nvidia/\">https://steveblank.com/2026/11/15/whats-next-for-nvidia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512235\">https://news.ycombinator.com/item?id=50512235</a></p>\n<p>Points: 166</p>\n<p># Comments: 215</p>",
-        "pubDate": "Sun, 15 Nov 2026 23:55:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50512235"
+        "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+        "link": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+        "description": "<p>Article URL: <a href=\"https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/\">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50521870\">https://news.ycombinator.com/item?id=50521870</a></p>\n<p>Points: 33</p>\n<p># Comments: 3</p>",
+        "pubDate": "Mon, 16 Nov 2026 19:29:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50521870"
       },
       {
-        "title": "Mini.nvim Is Now on Tangled",
-        "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-        "description": "<p>Article URL: <a href=\"https://tangled.org/nvim-mini.org/mini.nvim\">https://tangled.org/nvim-mini.org/mini.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512231\">https://news.ycombinator.com/item?id=50512231</a></p>\n<p>Points: 50</p>\n<p># Comments: 14</p>",
-        "pubDate": "Sun, 15 Nov 2026 23:55:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50512231"
+        "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+        "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "description": "<p>Article URL: <a href=\"https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50521045\">https://news.ycombinator.com/item?id=50521045</a></p>\n<p>Points: 574</p>\n<p># Comments: 438</p>",
+        "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50521045"
       },
       {
-        "title": "Preserving 30 years of Salon journalism",
-        "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-        "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/\">https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511806\">https://news.ycombinator.com/item?id=50511806</a></p>\n<p>Points: 122</p>\n<p># Comments: 35</p>",
-        "pubDate": "Sun, 15 Nov 2026 23:00:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50511806"
+        "title": "Software is breaking down at a systemic level",
+        "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+        "description": "<p>Article URL: <a href=\"https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\">https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520866\">https://news.ycombinator.com/item?id=50520866</a></p>\n<p>Points: 280</p>\n<p># Comments: 172</p>",
+        "pubDate": "Mon, 16 Nov 2026 18:17:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50520866"
       },
       {
-        "title": "Old Bitly links are being hijacked",
-        "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-        "description": "<p>Article URL: <a href=\"https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/\">https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511395\">https://news.ycombinator.com/item?id=50511395</a></p>\n<p>Points: 233</p>\n<p># Comments: 125</p>",
-        "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50511395"
+        "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+        "link": "https://openai.com/index/strengthening-online-child-safety/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/strengthening-online-child-safety/\">https://openai.com/index/strengthening-online-child-safety/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520804\">https://news.ycombinator.com/item?id=50520804</a></p>\n<p>Points: 71</p>\n<p># Comments: 131</p>",
+        "pubDate": "Mon, 16 Nov 2026 18:12:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50520804"
       },
       {
-        "title": "WebGL Flight Simulator with seed generated terrain",
-        "link": "https://baron.by.dai.studio/",
-        "description": "<p>Article URL: <a href=\"https://baron.by.dai.studio/\">https://baron.by.dai.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510296\">https://news.ycombinator.com/item?id=50510296</a></p>\n<p>Points: 112</p>\n<p># Comments: 18</p>",
-        "pubDate": "Sun, 15 Nov 2026 20:20:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50510296"
+        "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+        "link": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+        "description": "<p>Article URL: <a href=\"https://copyrightlately.com/michael-mann-heat-copyright-termination/\">https://copyrightlately.com/michael-mann-heat-copyright-termination/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520518\">https://news.ycombinator.com/item?id=50520518</a></p>\n<p>Points: 59</p>\n<p># Comments: 20</p>",
+        "pubDate": "Mon, 16 Nov 2026 17:52:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50520518"
       },
       {
-        "title": "Handwriting, as a Font",
-        "link": "https://ductus.sorenblank.com",
-        "description": "<p>Article URL: <a href=\"https://ductus.sorenblank.com\">https://ductus.sorenblank.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509972\">https://news.ycombinator.com/item?id=50509972</a></p>\n<p>Points: 203</p>\n<p># Comments: 44</p>",
-        "pubDate": "Sun, 15 Nov 2026 19:42:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50509972"
+        "title": "Aristotle Expands into Rust",
+        "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+        "description": "<p>Article URL: <a href=\"https://www.harmonic.fun/news/aristotle-rust-verification/\">https://www.harmonic.fun/news/aristotle-rust-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520270\">https://news.ycombinator.com/item?id=50520270</a></p>\n<p>Points: 77</p>\n<p># Comments: 43</p>",
+        "pubDate": "Mon, 16 Nov 2026 17:34:41 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50520270"
       },
       {
-        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-        "link": "https://bruceroettgers.eu/blog/protomaps/",
-        "description": "<p>Article URL: <a href=\"https://bruceroettgers.eu/blog/protomaps/\">https://bruceroettgers.eu/blog/protomaps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509837\">https://news.ycombinator.com/item?id=50509837</a></p>\n<p>Points: 255</p>\n<p># Comments: 51</p>",
-        "pubDate": "Sun, 15 Nov 2026 19:26:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50509837"
+        "title": "Grazing sheep in fields with solar arrays",
+        "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+        "description": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains\">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520182\">https://news.ycombinator.com/item?id=50520182</a></p>\n<p>Points: 164</p>\n<p># Comments: 133</p>",
+        "pubDate": "Mon, 16 Nov 2026 17:27:46 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50520182"
       },
       {
-        "title": "Eclipse Mosquitto – An open source MQTT broker",
-        "link": "https://github.com/eclipse-mosquitto/mosquitto",
-        "description": "<p>Article URL: <a href=\"https://github.com/eclipse-mosquitto/mosquitto\">https://github.com/eclipse-mosquitto/mosquitto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509416\">https://news.ycombinator.com/item?id=50509416</a></p>\n<p>Points: 83</p>\n<p># Comments: 30</p>",
-        "pubDate": "Sun, 15 Nov 2026 18:36:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50509416"
+        "title": "Jiff 1.0: A datetime library for Rust",
+        "link": "https://burntsushi.net/jiff/",
+        "description": "<p>Article URL: <a href=\"https://burntsushi.net/jiff/\">https://burntsushi.net/jiff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519744\">https://news.ycombinator.com/item?id=50519744</a></p>\n<p>Points: 249</p>\n<p># Comments: 54</p>",
+        "pubDate": "Mon, 16 Nov 2026 16:53:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50519744"
       },
       {
-        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-        "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-        "description": "<p>Article URL: <a href=\"https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html\">https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509411\">https://news.ycombinator.com/item?id=50509411</a></p>\n<p>Points: 472</p>\n<p># Comments: 200</p>",
-        "pubDate": "Sun, 15 Nov 2026 18:36:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50509411"
+        "title": "Frame – 31.5\" color ePaper display",
+        "link": "https://trmnl.com/blog/introducing-frame",
+        "description": "<p>Article URL: <a href=\"https://trmnl.com/blog/introducing-frame\">https://trmnl.com/blog/introducing-frame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519354\">https://news.ycombinator.com/item?id=50519354</a></p>\n<p>Points: 220</p>\n<p># Comments: 134</p>",
+        "pubDate": "Mon, 16 Nov 2026 16:23:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50519354"
       },
       {
-        "title": "A short explainer on how El Niño works [video]",
-        "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=7_JF3etiAv8\">https://www.youtube.com/watch?v=7_JF3etiAv8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509308\">https://news.ycombinator.com/item?id=50509308</a></p>\n<p>Points: 209</p>\n<p># Comments: 90</p>",
-        "pubDate": "Sun, 15 Nov 2026 18:23:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50509308"
+        "title": "Jolt – Clojure that speaks C",
+        "link": "https://jolt-lang.net/",
+        "description": "<p>Article URL: <a href=\"https://jolt-lang.net/\">https://jolt-lang.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519345\">https://news.ycombinator.com/item?id=50519345</a></p>\n<p>Points: 68</p>\n<p># Comments: 18</p>",
+        "pubDate": "Mon, 16 Nov 2026 16:23:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50519345"
       },
       {
-        "title": "Crows make decisions faster than we can",
-        "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html\">https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509023\">https://news.ycombinator.com/item?id=50509023</a></p>\n<p>Points: 204</p>\n<p># Comments: 145</p>",
-        "pubDate": "Sun, 15 Nov 2026 17:53:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50509023"
+        "title": "First phase of embedded assessments at OpenAI",
+        "link": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/our-first-phase-of-embedded-assessments/\">https://openai.com/index/our-first-phase-of-embedded-assessments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519153\">https://news.ycombinator.com/item?id=50519153</a></p>\n<p>Points: 29</p>\n<p># Comments: 11</p>",
+        "pubDate": "Mon, 16 Nov 2026 16:07:20 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50519153"
       },
       {
-        "title": "Clice v1.0 Released: Welcome to Modern C++",
-        "link": "https://ykiko.me/en/articles/2105384023094834022/",
-        "description": "<p>Article URL: <a href=\"https://ykiko.me/en/articles/2105384023094834022/\">https://ykiko.me/en/articles/2105384023094834022/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50508715\">https://news.ycombinator.com/item?id=50508715</a></p>\n<p>Points: 122</p>\n<p># Comments: 76</p>",
-        "pubDate": "Sun, 15 Nov 2026 17:22:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50508715"
+        "title": "Nvidia was in trouble before the Jensen Huang mess",
+        "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+        "description": "<p>Article URL: <a href=\"https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/\">https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50518567\">https://news.ycombinator.com/item?id=50518567</a></p>\n<p>Points: 209</p>\n<p># Comments: 204</p>",
+        "pubDate": "Mon, 16 Nov 2026 15:24:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50518567"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-16T06:06:02.156Z",
+  "lastUpdated": "2026-11-16T21:54:48.437Z",
   "stats": {
     "feeds": 2,
     "articles": 20
