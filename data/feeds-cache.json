@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-17T07:41:49.398Z"
+      "lastFetched": "2026-11-17T20:45:27.577Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-17T07:42:08.749Z"
+      "lastFetched": "2026-11-17T20:45:47.216Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Tokendoctor – the same Claude Code for up to 38% less",
-        "link": "https://github.com/localixai/tokendoctor",
-        "description": "<p>Article URL: <a href=\"https://github.com/localixai/tokendoctor\">https://github.com/localixai/tokendoctor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526584\">https://news.ycombinator.com/item?id=50526584</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
-        "pubDate": "Tue, 17 Nov 2026 02:19:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50526584"
+        "title": "Web Browser Engineering",
+        "link": "https://browser.engineering/",
+        "description": "<p>Article URL: <a href=\"https://browser.engineering/\">https://browser.engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537290\">https://news.ycombinator.com/item?id=50537290</a></p>\n<p>Points: 33</p>\n<p># Comments: 1</p>",
+        "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50537290"
       },
       {
-        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-        "link": "https://support.apple.com/en-us/149699",
-        "description": "<p>Article URL: <a href=\"https://support.apple.com/en-us/149699\">https://support.apple.com/en-us/149699</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526560\">https://news.ycombinator.com/item?id=50526560</a></p>\n<p>Points: 94</p>\n<p># Comments: 51</p>",
-        "pubDate": "Tue, 17 Nov 2026 02:17:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50526560"
+        "title": "jQuery 4.1.0",
+        "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+        "description": "<p>Article URL: <a href=\"https://github.com/jquery/jquery/releases/tag/4.1.0\">https://github.com/jquery/jquery/releases/tag/4.1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537156\">https://news.ycombinator.com/item?id=50537156</a></p>\n<p>Points: 69</p>\n<p># Comments: 34</p>",
+        "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50537156"
       },
       {
-        "title": "Mem Is Shutting Down",
-        "link": "https://get.mem.ai/blog/mem-is-shutting-down",
-        "description": "<p>Article URL: <a href=\"https://get.mem.ai/blog/mem-is-shutting-down\">https://get.mem.ai/blog/mem-is-shutting-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526537\">https://news.ycombinator.com/item?id=50526537</a></p>\n<p>Points: 48</p>\n<p># Comments: 62</p>",
-        "pubDate": "Tue, 17 Nov 2026 02:13:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50526537"
+        "title": "350 years ago, this man discovered that light has a finite speed",
+        "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+        "description": "<p>Article URL: <a href=\"https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969\">https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536813\">https://news.ycombinator.com/item?id=50536813</a></p>\n<p>Points: 85</p>\n<p># Comments: 17</p>",
+        "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50536813"
       },
       {
-        "title": "Running coding agents without handing them my credentials",
-        "link": "https://blog.antonio.cx/running-agents-with-lend",
-        "description": "<p>Article URL: <a href=\"https://blog.antonio.cx/running-agents-with-lend\">https://blog.antonio.cx/running-agents-with-lend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526152\">https://news.ycombinator.com/item?id=50526152</a></p>\n<p>Points: 99</p>\n<p># Comments: 54</p>",
-        "pubDate": "Tue, 17 Nov 2026 01:18:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50526152"
+        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+        "link": "https://starsling.dev",
+        "description": "<p>We’re Yonas and Daniel and we’re building StarSling (<a href=\"https://starsling.dev\">https://starsling.dev</a>), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.<p>Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost.<p>Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster: <a href=\"https://github.com/better-auth/better-auth/pull/10762\" rel=\"nofollow\">https://github.com/better-auth/better-auth/pull/10762</a>.<p>I previously founded StackShare, which grew to over 1.5M developers. Daniel helped build Netflix's internal developer portal. Last year we started building AI agents for DevOps because shipping code to prod fell way behind agentic coding. We hit the CI bottleneck ourselves as we were building agents. Our own agents shipped so many PRs that at peak our job queues were backed up for hours and our CI bill got close to our inference bill.<p>We now support per-second billing, and just shipped StarSling Disks - persistent disks that give you a 4.9x speedup in dependencies ready over actions/cache. You can see a quick demo of disks in action here : <a href=\"https://www.youtube.com/watch?v=2JrrpRm9Mww\" rel=\"nofollow\">https://www.youtube.com/watch?v=2JrrpRm9Mww</a>.<p>Our CI harness runs a loop that has agents:\n- Analyze your workflows, run logs, and machine telemetry\n- Propose an optimization\n- Test your unchanged workflow side by side the proposed change\n- Deterministically judge that the difference is statistically significant\n- Ship the winner to you as a PR with benchmarks evidence<p>We benchmarked open source repos on our runners and average 10x speedup in wall clock time with 70% less runner time:\n- <a href=\"https://github.com/starsling-demo-org/benchmark-gogs\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-gogs</a> (12.8x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-shellcheck\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-shellcheck</a> (5.5x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-chatwoot\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-chatwoot</a> (3.9x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-transfer.sh\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-transfer.sh</a> (11.7x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-mirotalksfu\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-mirotalksfu</a> (36.4x)<p>Yes, you can do these optimizations yourself with prompts so we’ve released skills for this: <a href=\"https://github.com/starslingdev/skills\" rel=\"nofollow\">https://github.com/starslingdev/skills</a>. The benefit of using our agents is that you don’t need to spend tokens and CI compute finding optimizations yourself.<p>We started building our runners on AWS at the beginning of the year and realized that was too expensive. But at that time there weren’t any cloud providers that could give us the same machines we were getting on AWS, billed per minute (microVMs). So we convinced a handful of sandbox providers to get Zen 5s and started benchmarking them publicly (<a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\" rel=\"nofollow\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a>).<p>We’ve learned that fast infrastructure is table stakes for CI, but it’s not sufficient on its own. To get fast and cost effective CI you need a process that continues making improvements. We turned CI optimizations from OpenAI, Anthropic, Linear and others into playbooks for your agent: <a href=\"https://starsling.dev/ci-playbooks\">https://starsling.dev/ci-playbooks</a>.<p>To try it, give your agent this URL: <a href=\"https://docs.starsling.dev/start\">https://docs.starsling.dev/start</a>. You get 2,000 free minutes. Our agents start opening PRs once you've hit about 10,000 minutes.<p>Today we announced our CI Challenge: if StarSling can't save you at least 10% on your next CI bill, we'll literally give you $1,000. Eligibility and rules here: <a href=\"https://starsling.dev/blog/ci-challenge\">https://starsling.dev/blog/ci-challenge</a>.<p>We’d love your feedback on the headless experience and what you’d like to see improved in your own CI setup!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536468\">https://news.ycombinator.com/item?id=50536468</a></p>\n<p>Points: 26</p>\n<p># Comments: 12</p>",
+        "pubDate": "Tue, 17 Nov 2026 19:01:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50536468"
       },
       {
-        "title": "Why 3dfx 1 cards had such a washed out color output?",
-        "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/id_aa_carmack/status/2122478083319992513\">https://twitter.com/id_aa_carmack/status/2122478083319992513</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50525575\">https://news.ycombinator.com/item?id=50525575</a></p>\n<p>Points: 91</p>\n<p># Comments: 14</p>",
-        "pubDate": "Tue, 17 Nov 2026 00:16:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50525575"
+        "title": "Solid 2.0",
+        "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+        "description": "<p>Article URL: <a href=\"https://www.solidjs.com/blog/solid-2-0-the-long-hold/\">https://www.solidjs.com/blog/solid-2-0-the-long-hold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536387\">https://news.ycombinator.com/item?id=50536387</a></p>\n<p>Points: 89</p>\n<p># Comments: 22</p>",
+        "pubDate": "Tue, 17 Nov 2026 18:56:17 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50536387"
       },
       {
-        "title": "Optimizely compromised, served malware on Zoom, GitLab",
-        "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-        "description": "<p>Article URL: <a href=\"https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\">https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524767\">https://news.ycombinator.com/item?id=50524767</a></p>\n<p>Points: 279</p>\n<p># Comments: 119</p>",
-        "pubDate": "Mon, 16 Nov 2026 23:00:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50524767"
+        "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+        "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+        "description": "<p>Article URL: <a href=\"https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/\">https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536031\">https://news.ycombinator.com/item?id=50536031</a></p>\n<p>Points: 48</p>\n<p># Comments: 39</p>",
+        "pubDate": "Tue, 17 Nov 2026 18:34:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50536031"
       },
       {
-        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "description": "<p>Article URL: <a href=\"https://xusheng.dev/posts/windows-coding-agent-telemetry/\">https://xusheng.dev/posts/windows-coding-agent-telemetry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524736\">https://news.ycombinator.com/item?id=50524736</a></p>\n<p>Points: 513</p>\n<p># Comments: 354</p>",
-        "pubDate": "Mon, 16 Nov 2026 22:58:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50524736"
+        "title": "Phrack 73 Released",
+        "link": "https://phrack.org/issues/73/introduction_md",
+        "description": "<p>Article URL: <a href=\"https://phrack.org/issues/73/introduction_md\">https://phrack.org/issues/73/introduction_md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535992\">https://news.ycombinator.com/item?id=50535992</a></p>\n<p>Points: 107</p>\n<p># Comments: 4</p>",
+        "pubDate": "Tue, 17 Nov 2026 18:31:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50535992"
       },
       {
-        "title": "How to Break into Security, Ptacek Edition (2012)",
-        "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\">https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524225\">https://news.ycombinator.com/item?id=50524225</a></p>\n<p>Points: 101</p>\n<p># Comments: 24</p>",
-        "pubDate": "Mon, 16 Nov 2026 22:19:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50524225"
+        "title": "Advancing computer-use agents for healthcare teams",
+        "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-computer-use-for-healthcare-teams/\">https://openai.com/index/advancing-computer-use-for-healthcare-teams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535898\">https://news.ycombinator.com/item?id=50535898</a></p>\n<p>Points: 16</p>\n<p># Comments: 12</p>",
+        "pubDate": "Tue, 17 Nov 2026 18:26:05 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50535898"
       },
       {
-        "title": "Spamhaus new email sender requirements in November",
-        "link": "https://www.spamhaus.org/sender-guidelines/",
-        "description": "<p>Article URL: <a href=\"https://www.spamhaus.org/sender-guidelines/\">https://www.spamhaus.org/sender-guidelines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523784\">https://news.ycombinator.com/item?id=50523784</a></p>\n<p>Points: 96</p>\n<p># Comments: 86</p>",
-        "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50523784"
+        "title": "MAI Code 2 and Code 2 Flash",
+        "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+        "description": "<p>Article URL: <a href=\"https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535885\">https://news.ycombinator.com/item?id=50535885</a></p>\n<p>Points: 159</p>\n<p># Comments: 75</p>",
+        "pubDate": "Tue, 17 Nov 2026 18:25:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50535885"
       },
       {
-        "title": "BugMeNot has closed",
-        "link": "https://www.bugmenot.com/",
-        "description": "<p>Article URL: <a href=\"https://www.bugmenot.com/\">https://www.bugmenot.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523601\">https://news.ycombinator.com/item?id=50523601</a></p>\n<p>Points: 481</p>\n<p># Comments: 222</p>",
-        "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50523601"
+        "title": "Apple Services Down",
+        "link": "https://developer.apple.com/system-status/",
+        "description": "<p>Article URL: <a href=\"https://developer.apple.com/system-status/\">https://developer.apple.com/system-status/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535238\">https://news.ycombinator.com/item?id=50535238</a></p>\n<p>Points: 445</p>\n<p># Comments: 251</p>",
+        "pubDate": "Tue, 17 Nov 2026 17:47:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50535238"
       },
       {
-        "title": "OpenCode Browse",
-        "link": "https://opencode.ai/product/browse",
-        "description": "<p>Article URL: <a href=\"https://opencode.ai/product/browse\">https://opencode.ai/product/browse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523459\">https://news.ycombinator.com/item?id=50523459</a></p>\n<p>Points: 218</p>\n<p># Comments: 116</p>",
-        "pubDate": "Mon, 16 Nov 2026 21:20:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50523459"
+        "title": "GPT‑6.2 Astra and Sol",
+        "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p>\n<p>Points: 754</p>\n<p># Comments: 462</p>",
+        "pubDate": "Tue, 17 Nov 2026 17:46:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50535230"
       },
       {
-        "title": "My Quest to push native Three.js quality match AAA Game Engines",
-        "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-        "description": "<p>Article URL: <a href=\"https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs\">https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523291\">https://news.ycombinator.com/item?id=50523291</a></p>\n<p>Points: 133</p>\n<p># Comments: 54</p>",
-        "pubDate": "Mon, 16 Nov 2026 21:07:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50523291"
+        "title": "Who Builds the Machines That Build the Machines?",
+        "link": "https://read.corematter.com/p/section-232-us-machine-tools",
+        "description": "<p>Article URL: <a href=\"https://read.corematter.com/p/section-232-us-machine-tools\">https://read.corematter.com/p/section-232-us-machine-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535208\">https://news.ycombinator.com/item?id=50535208</a></p>\n<p>Points: 50</p>\n<p># Comments: 10</p>",
+        "pubDate": "Tue, 17 Nov 2026 17:45:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50535208"
       },
       {
-        "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-        "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-        "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/\">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523025\">https://news.ycombinator.com/item?id=50523025</a></p>\n<p>Points: 123</p>\n<p># Comments: 108</p>",
-        "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50523025"
+        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+        "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf\">https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534631\">https://news.ycombinator.com/item?id=50534631</a></p>\n<p>Points: 153</p>\n<p># Comments: 88</p>",
+        "pubDate": "Tue, 17 Nov 2026 17:12:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50534631"
       },
       {
-        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-        "link": "https://www.cs.cmu.edu/learn/",
-        "description": "<p>Article URL: <a href=\"https://www.cs.cmu.edu/learn/\">https://www.cs.cmu.edu/learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522980\">https://news.ycombinator.com/item?id=50522980</a></p>\n<p>Points: 1289</p>\n<p># Comments: 181</p>",
-        "pubDate": "Mon, 16 Nov 2026 20:43:36 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50522980"
+        "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+        "link": "https://news.ycombinator.com/item?id=50534429",
+        "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534429\">https://news.ycombinator.com/item?id=50534429</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Tue, 17 Nov 2026 17:00:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50534429"
       },
       {
-        "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-        "link": "https://news.ycombinator.com/item?id=50522776",
-        "description": "<p>Hi HN! We’re Arsh and Max, founders of Axonnic (<a href=\"https://axonnic.com\">https://axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href=\"https://youtube.com/shorts/xBrocTc9cfA\" rel=\"nofollow\">https://youtube.com/shorts/xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href=\"https://axonnic.com/benchmarks\">https://axonnic.com/benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href=\"https://axonnic.com\">https://axonnic.com</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522776\">https://news.ycombinator.com/item?id=50522776</a></p>\n<p>Points: 40</p>\n<p># Comments: 20</p>",
-        "pubDate": "Mon, 16 Nov 2026 20:29:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50522776"
+        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+        "link": "https://github.com/RunanywhereAI/trnrt",
+        "description": "<p>Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :)<p>What it does today:<p>- Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router.<p>- Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks.<p>- Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance.<p>We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100/H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory/tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results.<p>But AWS's own stack didn't support the model: vLLM Neuron's latest release did not register any GLM model, and NxDI, AWS's own distributed inference framework, is no longer under active development. We also saw the drop of SGLang Neuron implementation yesterday, but there is no good support for Trn2, which is the only chip available for public use right now.<p>We ran semiAnalysis's AgentX benchmarks, which replays real coding agent sessions:<p>- 1 box served 28.9 RPM(requests per minute) with 32 agents at batch 12 (also known as concurrency)<p>-The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds with a decode of 35.9 tps.<p>Initially, the recurrence in one kda (linear attention) layer was ~2% of the layer's attention time at batch 1, and the rest was projections, transposes and XLA glue between small kernels.<p>So we wrote the megakernel so that it covers the whole layer in 2 kernel dispatch, which made decode 25% faster at batch 8.<p>The sparse attention kernel keep a layer’s working weights in SBUF, distributing weighted streaming across the cores and handling the interchip communication within<p>There’s an approximation in the sparse-attention prefill, affecting about 1.2% of block selections.<p>You can refer to the write-up for the profiling results:<p><a href=\"https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\">https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-mega...</a><p>Please give it a try yourself on a trn2.48xlarge and reproduce the AgentX results by following the steps in docs/RESULTS.md. Happy to collaborate and hear any feedback.<p>Deploying high performant dedicated inference at lab like performance and half the price for open models such as the GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make money. You can talk to us regarding the same at founders@runanywhere.ai.<p>We hope you find this useful. If you are working with Trainium or have experience with NKI kernels, we'd love to get your honest feedback. Feel free to share the models you want support for next, and we welcome any contributions to the repository.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533270\">https://news.ycombinator.com/item?id=50533270</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
+        "pubDate": "Tue, 17 Nov 2026 16:01:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50533270"
       },
       {
-        "title": "Chemistry is Actually Geometry",
-        "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-        "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry\">https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522643\">https://news.ycombinator.com/item?id=50522643</a></p>\n<p>Points: 200</p>\n<p># Comments: 101</p>",
-        "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50522643"
+        "title": "NSA Internal Network Down",
+        "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/\">https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533089\">https://news.ycombinator.com/item?id=50533089</a></p>\n<p>Points: 321</p>\n<p># Comments: 189</p>",
+        "pubDate": "Tue, 17 Nov 2026 15:50:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50533089"
       },
       {
-        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-        "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-        "description": "<p>Article URL: <a href=\"https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50521045\">https://news.ycombinator.com/item?id=50521045</a></p>\n<p>Points: 758</p>\n<p># Comments: 633</p>",
-        "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50521045"
+        "title": "Highly classified US national security communications network goes down",
+        "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\">https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532849\">https://news.ycombinator.com/item?id=50532849</a></p>\n<p>Points: 268</p>\n<p># Comments: 259</p>",
+        "pubDate": "Tue, 17 Nov 2026 15:38:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50532849"
       },
       {
-        "title": "Grazing sheep in fields with solar arrays",
-        "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-        "description": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains\">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520182\">https://news.ycombinator.com/item?id=50520182</a></p>\n<p>Points: 258</p>\n<p># Comments: 247</p>",
-        "pubDate": "Mon, 16 Nov 2026 17:27:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50520182"
+        "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+        "link": "https://alloyhtml.com/example.html",
+        "description": "<p>Article URL: <a href=\"https://alloyhtml.com/example.html\">https://alloyhtml.com/example.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532385\">https://news.ycombinator.com/item?id=50532385</a></p>\n<p>Points: 146</p>\n<p># Comments: 23</p>",
+        "pubDate": "Tue, 17 Nov 2026 15:07:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50532385"
       },
       {
-        "title": "Jiff 1.0: A datetime library for Rust",
-        "link": "https://burntsushi.net/jiff/",
-        "description": "<p>Article URL: <a href=\"https://burntsushi.net/jiff/\">https://burntsushi.net/jiff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519744\">https://news.ycombinator.com/item?id=50519744</a></p>\n<p>Points: 365</p>\n<p># Comments: 81</p>",
-        "pubDate": "Mon, 16 Nov 2026 16:53:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50519744"
+        "title": "What is the best harness for each model?",
+        "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+        "description": "<p>Article URL: <a href=\"https://runta.com/blog/introducing-frontierharness-eval-v1-1/\">https://runta.com/blog/introducing-frontierharness-eval-v1-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532191\">https://news.ycombinator.com/item?id=50532191</a></p>\n<p>Points: 278</p>\n<p># Comments: 100</p>",
+        "pubDate": "Tue, 17 Nov 2026 14:53:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50532191"
       },
       {
-        "title": "Frame – 31.5\" color ePaper display",
-        "link": "https://trmnl.com/blog/introducing-frame",
-        "description": "<p>Article URL: <a href=\"https://trmnl.com/blog/introducing-frame\">https://trmnl.com/blog/introducing-frame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519354\">https://news.ycombinator.com/item?id=50519354</a></p>\n<p>Points: 381</p>\n<p># Comments: 269</p>",
-        "pubDate": "Mon, 16 Nov 2026 16:23:22 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50519354"
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530163\">https://news.ycombinator.com/item?id=50530163</a></p>\n<p>Points: 1030</p>\n<p># Comments: 515</p>",
+        "pubDate": "Tue, 17 Nov 2026 11:45:51 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50530163"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-17T07:42:08.749Z",
+  "lastUpdated": "2026-11-17T20:45:47.216Z",
   "stats": {
     "feeds": 2,
     "articles": 20
