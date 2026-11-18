@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-17T20:45:27.577Z"
+      "lastFetched": "2026-11-18T07:05:12.213Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-17T20:45:47.216Z"
+      "lastFetched": "2026-11-18T07:05:31.868Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Web Browser Engineering",
+        "title": "Why Fibonacci?",
+        "link": "https://www.evilgeniuslabs.org/why-fibonacci",
+        "description": "<p>Article URL: <a href=\"https://www.evilgeniuslabs.org/why-fibonacci\">https://www.evilgeniuslabs.org/why-fibonacci</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542264\">https://news.ycombinator.com/item?id=50542264</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 18 Nov 2026 05:35:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50542264"
+      },
+      {
+        "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+        "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+        "description": "<p>Article URL: <a href=\"https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/\">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542135\">https://news.ycombinator.com/item?id=50542135</a></p>\n<p>Points: 178</p>\n<p># Comments: 23</p>",
+        "pubDate": "Wed, 18 Nov 2026 05:11:30 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50542135"
+      },
+      {
+        "title": "Hex: Voice Dictation",
+        "link": "https://anoma.ly/hex/",
+        "description": "<p>Article URL: <a href=\"https://anoma.ly/hex/\">https://anoma.ly/hex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541897\">https://news.ycombinator.com/item?id=50541897</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+        "pubDate": "Wed, 18 Nov 2026 04:30:22 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50541897"
+      },
+      {
+        "title": "Why is Gemini 4 Carbon taking so long?",
+        "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+        "description": "<p>Article URL: <a href=\"https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/\">https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541790\">https://news.ycombinator.com/item?id=50541790</a></p>\n<p>Points: 37</p>\n<p># Comments: 19</p>",
+        "pubDate": "Wed, 18 Nov 2026 04:14:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50541790"
+      },
+      {
+        "title": "Claude was trained on protein sequences at scale",
+        "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+        "description": "<p>Article URL: <a href=\"http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/\">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541619\">https://news.ycombinator.com/item?id=50541619</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+        "pubDate": "Wed, 18 Nov 2026 03:47:43 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50541619"
+      },
+      {
+        "title": "H-1B Executive Actions in 2026 [pdf]",
+        "link": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+        "description": "<p>Article URL: <a href=\"https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf\">https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541550\">https://news.ycombinator.com/item?id=50541550</a></p>\n<p>Points: 27</p>\n<p># Comments: 28</p>",
+        "pubDate": "Wed, 18 Nov 2026 03:37:35 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50541550"
+      },
+      {
+        "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+        "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541538\">https://news.ycombinator.com/item?id=50541538</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Wed, 18 Nov 2026 03:35:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50541538"
+      },
+      {
+        "title": "Cerebras Disaggregated Inference",
+        "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+        "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540472\">https://news.ycombinator.com/item?id=50540472</a></p>\n<p>Points: 63</p>\n<p># Comments: 15</p>",
+        "pubDate": "Wed, 18 Nov 2026 00:56:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50540472"
+      },
+      {
+        "title": "ID.me terms required for IRS sign-in",
+        "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+        "description": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540437\">https://news.ycombinator.com/item?id=50540437</a></p>\n<p>Points: 291</p>\n<p># Comments: 124</p>",
+        "pubDate": "Wed, 18 Nov 2026 00:51:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50540437"
+      },
+      {
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "link": "https://revscope.co/blog/search-seo-geo-2026/",
+        "description": "<p>Article URL: <a href=\"https://revscope.co/blog/search-seo-geo-2026/\">https://revscope.co/blog/search-seo-geo-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540178\">https://news.ycombinator.com/item?id=50540178</a></p>\n<p>Points: 287</p>\n<p># Comments: 213</p>",
+        "pubDate": "Wed, 18 Nov 2026 00:17:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50540178"
+      },
+      {
+        "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+        "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+        "description": "<p>Article URL: <a href=\"https://wiki.archiveteam.org/index.php/Apple_Discussions\">https://wiki.archiveteam.org/index.php/Apple_Discussions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50539747\">https://news.ycombinator.com/item?id=50539747</a></p>\n<p>Points: 158</p>\n<p># Comments: 53</p>",
+        "pubDate": "Tue, 17 Nov 2026 23:32:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50539747"
+      },
+      {
+        "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+        "link": "https://github.com/microsoft/onnxruntime",
+        "description": "<p>Article URL: <a href=\"https://github.com/microsoft/onnxruntime\">https://github.com/microsoft/onnxruntime</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50539610\">https://news.ycombinator.com/item?id=50539610</a></p>\n<p>Points: 253</p>\n<p># Comments: 59</p>",
+        "pubDate": "Tue, 17 Nov 2026 23:18:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50539610"
+      },
+      {
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+        "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/quad9-withdrawal-from-france/\">https://blog.cloudflare.com/quad9-withdrawal-from-france/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538994\">https://news.ycombinator.com/item?id=50538994</a></p>\n<p>Points: 457</p>\n<p># Comments: 144</p>",
+        "pubDate": "Tue, 17 Nov 2026 22:13:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50538994"
+      },
+      {
+        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+        "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+        "description": "<p>Article URL: <a href=\"https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\">https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538303\">https://news.ycombinator.com/item?id=50538303</a></p>\n<p>Points: 147</p>\n<p># Comments: 191</p>",
+        "pubDate": "Tue, 17 Nov 2026 21:16:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50538303"
+      },
+      {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "link": "https://calif.io/java4shell/",
+        "description": "<p>Article URL: <a href=\"https://calif.io/java4shell/\">https://calif.io/java4shell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538240\">https://news.ycombinator.com/item?id=50538240</a></p>\n<p>Points: 767</p>\n<p># Comments: 201</p>",
+        "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50538240"
+      },
+      {
+        "title": "Tencent Hy4 Flash",
+        "link": "https://hy.tencent.ai/research/hy4-flash",
+        "description": "<p>Article URL: <a href=\"https://hy.tencent.ai/research/hy4-flash\">https://hy.tencent.ai/research/hy4-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538184\">https://news.ycombinator.com/item?id=50538184</a></p>\n<p>Points: 101</p>\n<p># Comments: 14</p>",
+        "pubDate": "Tue, 17 Nov 2026 21:06:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50538184"
+      },
+      {
+        "title": "Web Browser Engineering (2021)",
         "link": "https://browser.engineering/",
-        "description": "<p>Article URL: <a href=\"https://browser.engineering/\">https://browser.engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537290\">https://news.ycombinator.com/item?id=50537290</a></p>\n<p>Points: 33</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"https://browser.engineering/\">https://browser.engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537290\">https://news.ycombinator.com/item?id=50537290</a></p>\n<p>Points: 153</p>\n<p># Comments: 20</p>",
         "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
         "guid": "https://news.ycombinator.com/item?id=50537290"
       },
       {
         "title": "jQuery 4.1.0",
         "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-        "description": "<p>Article URL: <a href=\"https://github.com/jquery/jquery/releases/tag/4.1.0\">https://github.com/jquery/jquery/releases/tag/4.1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537156\">https://news.ycombinator.com/item?id=50537156</a></p>\n<p>Points: 69</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/jquery/jquery/releases/tag/4.1.0\">https://github.com/jquery/jquery/releases/tag/4.1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537156\">https://news.ycombinator.com/item?id=50537156</a></p>\n<p>Points: 302</p>\n<p># Comments: 159</p>",
         "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=50537156"
       },
       {
-        "title": "350 years ago, this man discovered that light has a finite speed",
+        "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
         "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-        "description": "<p>Article URL: <a href=\"https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969\">https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536813\">https://news.ycombinator.com/item?id=50536813</a></p>\n<p>Points: 85</p>\n<p># Comments: 17</p>",
+        "description": "<p>Article URL: <a href=\"https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969\">https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536813\">https://news.ycombinator.com/item?id=50536813</a></p>\n<p>Points: 309</p>\n<p># Comments: 90</p>",
         "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=50536813"
       },
       {
         "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
         "link": "https://starsling.dev",
-        "description": "<p>We’re Yonas and Daniel and we’re building StarSling (<a href=\"https://starsling.dev\">https://starsling.dev</a>), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.<p>Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost.<p>Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster: <a href=\"https://github.com/better-auth/better-auth/pull/10762\" rel=\"nofollow\">https://github.com/better-auth/better-auth/pull/10762</a>.<p>I previously founded StackShare, which grew to over 1.5M developers. Daniel helped build Netflix's internal developer portal. Last year we started building AI agents for DevOps because shipping code to prod fell way behind agentic coding. We hit the CI bottleneck ourselves as we were building agents. Our own agents shipped so many PRs that at peak our job queues were backed up for hours and our CI bill got close to our inference bill.<p>We now support per-second billing, and just shipped StarSling Disks - persistent disks that give you a 4.9x speedup in dependencies ready over actions/cache. You can see a quick demo of disks in action here : <a href=\"https://www.youtube.com/watch?v=2JrrpRm9Mww\" rel=\"nofollow\">https://www.youtube.com/watch?v=2JrrpRm9Mww</a>.<p>Our CI harness runs a loop that has agents:\n- Analyze your workflows, run logs, and machine telemetry\n- Propose an optimization\n- Test your unchanged workflow side by side the proposed change\n- Deterministically judge that the difference is statistically significant\n- Ship the winner to you as a PR with benchmarks evidence<p>We benchmarked open source repos on our runners and average 10x speedup in wall clock time with 70% less runner time:\n- <a href=\"https://github.com/starsling-demo-org/benchmark-gogs\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-gogs</a> (12.8x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-shellcheck\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-shellcheck</a> (5.5x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-chatwoot\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-chatwoot</a> (3.9x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-transfer.sh\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-transfer.sh</a> (11.7x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-mirotalksfu\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-mirotalksfu</a> (36.4x)<p>Yes, you can do these optimizations yourself with prompts so we’ve released skills for this: <a href=\"https://github.com/starslingdev/skills\" rel=\"nofollow\">https://github.com/starslingdev/skills</a>. The benefit of using our agents is that you don’t need to spend tokens and CI compute finding optimizations yourself.<p>We started building our runners on AWS at the beginning of the year and realized that was too expensive. But at that time there weren’t any cloud providers that could give us the same machines we were getting on AWS, billed per minute (microVMs). So we convinced a handful of sandbox providers to get Zen 5s and started benchmarking them publicly (<a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\" rel=\"nofollow\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a>).<p>We’ve learned that fast infrastructure is table stakes for CI, but it’s not sufficient on its own. To get fast and cost effective CI you need a process that continues making improvements. We turned CI optimizations from OpenAI, Anthropic, Linear and others into playbooks for your agent: <a href=\"https://starsling.dev/ci-playbooks\">https://starsling.dev/ci-playbooks</a>.<p>To try it, give your agent this URL: <a href=\"https://docs.starsling.dev/start\">https://docs.starsling.dev/start</a>. You get 2,000 free minutes. Our agents start opening PRs once you've hit about 10,000 minutes.<p>Today we announced our CI Challenge: if StarSling can't save you at least 10% on your next CI bill, we'll literally give you $1,000. Eligibility and rules here: <a href=\"https://starsling.dev/blog/ci-challenge\">https://starsling.dev/blog/ci-challenge</a>.<p>We’d love your feedback on the headless experience and what you’d like to see improved in your own CI setup!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536468\">https://news.ycombinator.com/item?id=50536468</a></p>\n<p>Points: 26</p>\n<p># Comments: 12</p>",
+        "description": "<p>We’re Yonas and Daniel and we’re building StarSling (<a href=\"https://starsling.dev\">https://starsling.dev</a>), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.<p>Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost.<p>Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster: <a href=\"https://github.com/better-auth/better-auth/pull/10762\" rel=\"nofollow\">https://github.com/better-auth/better-auth/pull/10762</a>.<p>I previously founded StackShare, which grew to over 1.5M developers. Daniel helped build Netflix's internal developer portal. Last year we started building AI agents for DevOps because shipping code to prod fell way behind agentic coding. We hit the CI bottleneck ourselves as we were building agents. Our own agents shipped so many PRs that at peak our job queues were backed up for hours and our CI bill got close to our inference bill.<p>We now support per-second billing, and just shipped StarSling Disks - persistent disks that give you a 4.9x speedup in dependencies ready over actions/cache. You can see a quick demo of disks in action here : <a href=\"https://www.youtube.com/watch?v=2JrrpRm9Mww\" rel=\"nofollow\">https://www.youtube.com/watch?v=2JrrpRm9Mww</a>.<p>Our CI harness runs a loop that has agents:\n- Analyze your workflows, run logs, and machine telemetry\n- Propose an optimization\n- Test your unchanged workflow side by side the proposed change\n- Deterministically judge that the difference is statistically significant\n- Ship the winner to you as a PR with benchmarks evidence<p>We benchmarked open source repos on our runners and average 10x speedup in wall clock time with 70% less runner time:\n- <a href=\"https://github.com/starsling-demo-org/benchmark-gogs\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-gogs</a> (12.8x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-shellcheck\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-shellcheck</a> (5.5x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-chatwoot\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-chatwoot</a> (3.9x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-transfer.sh\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-transfer.sh</a> (11.7x)\n- <a href=\"https://github.com/starsling-demo-org/benchmark-mirotalksfu\" rel=\"nofollow\">https://github.com/starsling-demo-org/benchmark-mirotalksfu</a> (36.4x)<p>Yes, you can do these optimizations yourself with prompts so we’ve released skills for this: <a href=\"https://github.com/starslingdev/skills\" rel=\"nofollow\">https://github.com/starslingdev/skills</a>. The benefit of using our agents is that you don’t need to spend tokens and CI compute finding optimizations yourself.<p>We started building our runners on AWS at the beginning of the year and realized that was too expensive. But at that time there weren’t any cloud providers that could give us the same machines we were getting on AWS, billed per minute (microVMs). So we convinced a handful of sandbox providers to get Zen 5s and started benchmarking them publicly (<a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\" rel=\"nofollow\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a>).<p>We’ve learned that fast infrastructure is table stakes for CI, but it’s not sufficient on its own. To get fast and cost effective CI you need a process that continues making improvements. We turned CI optimizations from OpenAI, Anthropic, Linear and others into playbooks for your agent: <a href=\"https://starsling.dev/ci-playbooks\">https://starsling.dev/ci-playbooks</a>.<p>To try it, give your agent this URL: <a href=\"https://docs.starsling.dev/start\">https://docs.starsling.dev/start</a>. You get 2,000 free minutes. Our agents start opening PRs once you've hit about 10,000 minutes.<p>Today we announced our CI Challenge: if StarSling can't save you at least 10% on your next CI bill, we'll literally give you $1,000. Eligibility and rules here: <a href=\"https://starsling.dev/blog/ci-challenge\">https://starsling.dev/blog/ci-challenge</a>.<p>We’d love your feedback on the headless experience and what you’d like to see improved in your own CI setup!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536468\">https://news.ycombinator.com/item?id=50536468</a></p>\n<p>Points: 64</p>\n<p># Comments: 37</p>",
         "pubDate": "Tue, 17 Nov 2026 19:01:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50536468"
-      },
-      {
-        "title": "Solid 2.0",
-        "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-        "description": "<p>Article URL: <a href=\"https://www.solidjs.com/blog/solid-2-0-the-long-hold/\">https://www.solidjs.com/blog/solid-2-0-the-long-hold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536387\">https://news.ycombinator.com/item?id=50536387</a></p>\n<p>Points: 89</p>\n<p># Comments: 22</p>",
-        "pubDate": "Tue, 17 Nov 2026 18:56:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50536387"
-      },
-      {
-        "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-        "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-        "description": "<p>Article URL: <a href=\"https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/\">https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536031\">https://news.ycombinator.com/item?id=50536031</a></p>\n<p>Points: 48</p>\n<p># Comments: 39</p>",
-        "pubDate": "Tue, 17 Nov 2026 18:34:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50536031"
-      },
-      {
-        "title": "Phrack 73 Released",
-        "link": "https://phrack.org/issues/73/introduction_md",
-        "description": "<p>Article URL: <a href=\"https://phrack.org/issues/73/introduction_md\">https://phrack.org/issues/73/introduction_md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535992\">https://news.ycombinator.com/item?id=50535992</a></p>\n<p>Points: 107</p>\n<p># Comments: 4</p>",
-        "pubDate": "Tue, 17 Nov 2026 18:31:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50535992"
-      },
-      {
-        "title": "Advancing computer-use agents for healthcare teams",
-        "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-computer-use-for-healthcare-teams/\">https://openai.com/index/advancing-computer-use-for-healthcare-teams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535898\">https://news.ycombinator.com/item?id=50535898</a></p>\n<p>Points: 16</p>\n<p># Comments: 12</p>",
-        "pubDate": "Tue, 17 Nov 2026 18:26:05 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50535898"
-      },
-      {
-        "title": "MAI Code 2 and Code 2 Flash",
-        "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-        "description": "<p>Article URL: <a href=\"https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535885\">https://news.ycombinator.com/item?id=50535885</a></p>\n<p>Points: 159</p>\n<p># Comments: 75</p>",
-        "pubDate": "Tue, 17 Nov 2026 18:25:13 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50535885"
-      },
-      {
-        "title": "Apple Services Down",
-        "link": "https://developer.apple.com/system-status/",
-        "description": "<p>Article URL: <a href=\"https://developer.apple.com/system-status/\">https://developer.apple.com/system-status/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535238\">https://news.ycombinator.com/item?id=50535238</a></p>\n<p>Points: 445</p>\n<p># Comments: 251</p>",
-        "pubDate": "Tue, 17 Nov 2026 17:47:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50535238"
-      },
-      {
-        "title": "GPT‑6.2 Astra and Sol",
-        "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p>\n<p>Points: 754</p>\n<p># Comments: 462</p>",
-        "pubDate": "Tue, 17 Nov 2026 17:46:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50535230"
-      },
-      {
-        "title": "Who Builds the Machines That Build the Machines?",
-        "link": "https://read.corematter.com/p/section-232-us-machine-tools",
-        "description": "<p>Article URL: <a href=\"https://read.corematter.com/p/section-232-us-machine-tools\">https://read.corematter.com/p/section-232-us-machine-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535208\">https://news.ycombinator.com/item?id=50535208</a></p>\n<p>Points: 50</p>\n<p># Comments: 10</p>",
-        "pubDate": "Tue, 17 Nov 2026 17:45:39 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50535208"
-      },
-      {
-        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-        "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf\">https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534631\">https://news.ycombinator.com/item?id=50534631</a></p>\n<p>Points: 153</p>\n<p># Comments: 88</p>",
-        "pubDate": "Tue, 17 Nov 2026 17:12:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50534631"
-      },
-      {
-        "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-        "link": "https://news.ycombinator.com/item?id=50534429",
-        "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534429\">https://news.ycombinator.com/item?id=50534429</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Tue, 17 Nov 2026 17:00:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50534429"
-      },
-      {
-        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-        "link": "https://github.com/RunanywhereAI/trnrt",
-        "description": "<p>Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :)<p>What it does today:<p>- Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router.<p>- Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks.<p>- Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance.<p>We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100/H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory/tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results.<p>But AWS's own stack didn't support the model: vLLM Neuron's latest release did not register any GLM model, and NxDI, AWS's own distributed inference framework, is no longer under active development. We also saw the drop of SGLang Neuron implementation yesterday, but there is no good support for Trn2, which is the only chip available for public use right now.<p>We ran semiAnalysis's AgentX benchmarks, which replays real coding agent sessions:<p>- 1 box served 28.9 RPM(requests per minute) with 32 agents at batch 12 (also known as concurrency)<p>-The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds with a decode of 35.9 tps.<p>Initially, the recurrence in one kda (linear attention) layer was ~2% of the layer's attention time at batch 1, and the rest was projections, transposes and XLA glue between small kernels.<p>So we wrote the megakernel so that it covers the whole layer in 2 kernel dispatch, which made decode 25% faster at batch 8.<p>The sparse attention kernel keep a layer’s working weights in SBUF, distributing weighted streaming across the cores and handling the interchip communication within<p>There’s an approximation in the sparse-attention prefill, affecting about 1.2% of block selections.<p>You can refer to the write-up for the profiling results:<p><a href=\"https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\">https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-mega...</a><p>Please give it a try yourself on a trn2.48xlarge and reproduce the AgentX results by following the steps in docs/RESULTS.md. Happy to collaborate and hear any feedback.<p>Deploying high performant dedicated inference at lab like performance and half the price for open models such as the GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make money. You can talk to us regarding the same at founders@runanywhere.ai.<p>We hope you find this useful. If you are working with Trainium or have experience with NKI kernels, we'd love to get your honest feedback. Feel free to share the models you want support for next, and we welcome any contributions to the repository.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533270\">https://news.ycombinator.com/item?id=50533270</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
-        "pubDate": "Tue, 17 Nov 2026 16:01:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50533270"
-      },
-      {
-        "title": "NSA Internal Network Down",
-        "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/\">https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533089\">https://news.ycombinator.com/item?id=50533089</a></p>\n<p>Points: 321</p>\n<p># Comments: 189</p>",
-        "pubDate": "Tue, 17 Nov 2026 15:50:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50533089"
-      },
-      {
-        "title": "Highly classified US national security communications network goes down",
-        "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-        "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\">https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532849\">https://news.ycombinator.com/item?id=50532849</a></p>\n<p>Points: 268</p>\n<p># Comments: 259</p>",
-        "pubDate": "Tue, 17 Nov 2026 15:38:28 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50532849"
-      },
-      {
-        "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-        "link": "https://alloyhtml.com/example.html",
-        "description": "<p>Article URL: <a href=\"https://alloyhtml.com/example.html\">https://alloyhtml.com/example.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532385\">https://news.ycombinator.com/item?id=50532385</a></p>\n<p>Points: 146</p>\n<p># Comments: 23</p>",
-        "pubDate": "Tue, 17 Nov 2026 15:07:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50532385"
-      },
-      {
-        "title": "What is the best harness for each model?",
-        "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-        "description": "<p>Article URL: <a href=\"https://runta.com/blog/introducing-frontierharness-eval-v1-1/\">https://runta.com/blog/introducing-frontierharness-eval-v1-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532191\">https://news.ycombinator.com/item?id=50532191</a></p>\n<p>Points: 278</p>\n<p># Comments: 100</p>",
-        "pubDate": "Tue, 17 Nov 2026 14:53:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50532191"
-      },
-      {
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-        "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530163\">https://news.ycombinator.com/item?id=50530163</a></p>\n<p>Points: 1030</p>\n<p># Comments: 515</p>",
-        "pubDate": "Tue, 17 Nov 2026 11:45:51 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50530163"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-17T20:45:47.216Z",
+  "lastUpdated": "2026-11-18T07:05:31.868Z",
   "stats": {
     "feeds": 2,
     "articles": 20
