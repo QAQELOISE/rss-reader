@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-18T20:21:19.000Z"
+      "lastFetched": "2026-11-19T07:05:43.422Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-18T20:21:39.033Z"
+      "lastFetched": "2026-11-19T07:06:03.107Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+        "link": "https://kapteko.com/15-million-webservers/",
+        "description": "<p>Article URL: <a href=\"https://kapteko.com/15-million-webservers/\">https://kapteko.com/15-million-webservers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556533\">https://news.ycombinator.com/item?id=50556533</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+        "pubDate": "Thu, 19 Nov 2026 05:56:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50556533"
+      },
+      {
+        "title": "Unreal Tournament 2004 in the Browser",
+        "link": "https://ut2004.dev/",
+        "description": "<p>Article URL: <a href=\"https://ut2004.dev/\">https://ut2004.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554935\">https://news.ycombinator.com/item?id=50554935</a></p>\n<p>Points: 136</p>\n<p># Comments: 58</p>",
+        "pubDate": "Thu, 19 Nov 2026 01:29:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50554935"
+      },
+      {
+        "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+        "link": "https://arxiv.org/abs/2607.29378",
+        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29378\">https://arxiv.org/abs/2607.29378</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554908\">https://news.ycombinator.com/item?id=50554908</a></p>\n<p>Points: 42</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 19 Nov 2026 01:27:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50554908"
+      },
+      {
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "description": "<p>Article URL: <a href=\"https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/\">https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554374\">https://news.ycombinator.com/item?id=50554374</a></p>\n<p>Points: 209</p>\n<p># Comments: 67</p>",
+        "pubDate": "Thu, 19 Nov 2026 00:29:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50554374"
+      },
+      {
+        "title": "We need smart people who give a shit",
+        "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+        "description": "<p>Article URL: <a href=\"https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/\">https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554045\">https://news.ycombinator.com/item?id=50554045</a></p>\n<p>Points: 441</p>\n<p># Comments: 225</p>",
+        "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50554045"
+      },
+      {
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "description": "<p>Article URL: <a href=\"https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/\">https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554038\">https://news.ycombinator.com/item?id=50554038</a></p>\n<p>Points: 197</p>\n<p># Comments: 62</p>",
+        "pubDate": "Wed, 18 Nov 2026 23:52:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50554038"
+      },
+      {
+        "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+        "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+        "description": "<p>Article URL: <a href=\"https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open\">https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554009\">https://news.ycombinator.com/item?id=50554009</a></p>\n<p>Points: 48</p>\n<p># Comments: 11</p>",
+        "pubDate": "Wed, 18 Nov 2026 23:49:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50554009"
+      },
+      {
+        "title": "Anthropic prices initial public offering",
+        "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">https://www.anthropic.com/news/anthropic-prices-initial-public-offering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553843\">https://news.ycombinator.com/item?id=50553843</a></p>\n<p>Points: 144</p>\n<p># Comments: 124</p>",
+        "pubDate": "Wed, 18 Nov 2026 23:30:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50553843"
+      },
+      {
+        "title": "LLM assisted reverse engineering",
+        "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "description": "<p>Article URL: <a href=\"https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553225\">https://news.ycombinator.com/item?id=50553225</a></p>\n<p>Points: 158</p>\n<p># Comments: 38</p>",
+        "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50553225"
+      },
+      {
+        "title": "Gemini 4 Neon",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50552424\">https://news.ycombinator.com/item?id=50552424</a></p>\n<p>Points: 705</p>\n<p># Comments: 597</p>",
+        "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50552424"
+      },
+      {
+        "title": "DaisyRose-27B",
         "link": "https://www.radixark.com/blog/daisyrose-27b",
-        "description": "<p>Article URL: <a href=\"https://www.radixark.com/blog/daisyrose-27b\">https://www.radixark.com/blog/daisyrose-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551046\">https://news.ycombinator.com/item?id=50551046</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+        "description": "<p>Article URL: <a href=\"https://www.radixark.com/blog/daisyrose-27b\">https://www.radixark.com/blog/daisyrose-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551046\">https://news.ycombinator.com/item?id=50551046</a></p>\n<p>Points: 184</p>\n<p># Comments: 59</p>",
         "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50551046"
       },
       {
         "title": "Genie 4 is now available",
         "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50550415\">https://news.ycombinator.com/item?id=50550415</a></p>\n<p>Points: 80</p>\n<p># Comments: 59</p>",
+        "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50550415\">https://news.ycombinator.com/item?id=50550415</a></p>\n<p>Points: 231</p>\n<p># Comments: 156</p>",
         "pubDate": "Wed, 18 Nov 2026 18:49:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=50550415"
       },
       {
-        "title": "The Magic of Partial Evaluation",
-        "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-        "description": "<p>Article URL: <a href=\"https://jimmyhmiller.com/magic-of-partial-evaluation\">https://jimmyhmiller.com/magic-of-partial-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50550096\">https://news.ycombinator.com/item?id=50550096</a></p>\n<p>Points: 37</p>\n<p># Comments: 3</p>",
-        "pubDate": "Wed, 18 Nov 2026 18:29:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50550096"
-      },
-      {
-        "title": "Scottish HTTP Codes",
-        "link": "https://underwood.network/http/scots.html",
-        "description": "<p>Article URL: <a href=\"https://underwood.network/http/scots.html\">https://underwood.network/http/scots.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50550062\">https://news.ycombinator.com/item?id=50550062</a></p>\n<p>Points: 148</p>\n<p># Comments: 27</p>",
-        "pubDate": "Wed, 18 Nov 2026 18:26:19 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50550062"
-      },
-      {
         "title": "Advancing chip design with OpenAI models",
         "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
-        "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-chip-design-with-our-models/\">https://openai.com/index/advancing-chip-design-with-our-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549493\">https://news.ycombinator.com/item?id=50549493</a></p>\n<p>Points: 64</p>\n<p># Comments: 20</p>",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-chip-design-with-our-models/\">https://openai.com/index/advancing-chip-design-with-our-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549493\">https://news.ycombinator.com/item?id=50549493</a></p>\n<p>Points: 197</p>\n<p># Comments: 125</p>",
         "pubDate": "Wed, 18 Nov 2026 17:45:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=50549493"
       },
       {
-        "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-        "link": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
-        "description": "<p>Article URL: <a href=\"https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats\">https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549438\">https://news.ycombinator.com/item?id=50549438</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
-        "pubDate": "Wed, 18 Nov 2026 17:41:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50549438"
-      },
-      {
         "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
         "link": "https://news.ycombinator.com/item?id=50549188",
-        "description": "<p>Hi HN, we're Ary and Maria, co-founders of Maritime (<a href=\"https://maritime.sh\">https://maritime.sh</a>). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.<p>Demo: <a href=\"https://www.youtube.com/watch?v=lCWMdBQ96rY\" rel=\"nofollow\">https://www.youtube.com/watch?v=lCWMdBQ96rY</a><p>There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is:<p>You buy Hetzner/OVH Cloud bare metal servers, use Firecracker to slice the servers up into VMs, sell those VMs with low margins.<p>It’s a bit of an oversimplification, but the point is it’s a narrow solution to a fairly difficult problem.<p>We talked to a couple hundred companies that are building AI agents. From personal assistants and coding agents to specialized healthcare agents, and the main pattern we saw was that even after choosing a sandbox provider, you still have to build additional infrastructure just to get things working. These were the primary points of friction:<p>1. Agent lifecycle management.<p>There’s a lot that you have to build in order to properly give your agents VMs: things like sleep/wake, persistent storage, triggers, scheduling, per-user routing and spend caps, health monitoring, failure recovery, and deploying updates across thousands of VMs without downtime.\nThere are so many of these small sandbox management tasks that companies have to build and maintain themselves, and they add up.<p>2. Custom environments.<p>Production agents have varying needs. Some agents need Windows applications. Others need Android, browsers with persistent sessions, custom operating system images, preinstalled desktop software and applications, or specific dependencies.\nSome agents need access to private networks to interact with customer-specific things on prem, or residential IPs, or the ability to restrict network access completely.<p>3. Cost optimization.<p>If you’re selling a personal assistant for $20/month, a sandbox that costs $0.04/hour comes out to roughly $29/month if you keep it running continuously, not including LLM inference, storage, etc. There is a way to combat this though, which is to optimize sandbox usage with auto-snapshotting, making things event-driven, mounting S3 buckets to agent environments via FUSE for cheap storage, cold-tiering snapshots, etc. All roads lead to… building more infrastructure.<p>So what did we build differently?<p>We give each agent its own isolated, persistent microVM and a configurable environment. On top of the compute, we built a lot of composable services: provisioning, persistent state, sleep/wake orchestration, triggers, schedule creation, monitoring, network configuration, updates, rollbacks, recovery, per-agent spend tracking, login handoffs, all the things you’d need for production agents.<p>We also spent a huge amount of time optimizing cost. A lot of thought was put into things such as scale-to-zero, copy-on-write over shared base images, compressed memory snapshots, hot/warm/cold snapshot and disk tiering, and other optimizations while balancing these with performance metrics like latency.<p>As a result, Maritime costs $1 for a 2gb RAM agent per month (unlimited usage for that $1), with additional resources available as needed.<p>Maria was a visiting lecturer at MIT and did research at Project NANDA on agent infrastructure. Ary did research on agent coordination protocols at the same lab. We started Maritime together this March because of all the issues we faced with trying to deploy agents to the cloud during our research.<p>We want your feedback.<p>If you're building an agent product, what did you have to build on top of sandboxes to make them work? We want to know about all the workarounds and weird things you’ve had to build.<p>Are there things you’ve tried to build with VMs but couldn’t? Does Maritime fit your needs? Is there a feature we’re missing that would make us more enticing?<p>Happy to answer any questions in the comments.<p><a href=\"https://maritime.sh\">https://maritime.sh</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549188\">https://news.ycombinator.com/item?id=50549188</a></p>\n<p>Points: 26</p>\n<p># Comments: 22</p>",
+        "description": "<p>Hi HN, we're Ary and Maria, co-founders of Maritime (<a href=\"https://maritime.sh\">https://maritime.sh</a>). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.<p>Demo: <a href=\"https://www.youtube.com/watch?v=lCWMdBQ96rY\" rel=\"nofollow\">https://www.youtube.com/watch?v=lCWMdBQ96rY</a><p>There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is:<p>You buy Hetzner/OVH Cloud bare metal servers, use Firecracker to slice the servers up into VMs, sell those VMs with low margins.<p>It’s a bit of an oversimplification, but the point is it’s a narrow solution to a fairly difficult problem.<p>We talked to a couple hundred companies that are building AI agents. From personal assistants and coding agents to specialized healthcare agents, and the main pattern we saw was that even after choosing a sandbox provider, you still have to build additional infrastructure just to get things working. These were the primary points of friction:<p>1. Agent lifecycle management.<p>There’s a lot that you have to build in order to properly give your agents VMs: things like sleep/wake, persistent storage, triggers, scheduling, per-user routing and spend caps, health monitoring, failure recovery, and deploying updates across thousands of VMs without downtime.\nThere are so many of these small sandbox management tasks that companies have to build and maintain themselves, and they add up.<p>2. Custom environments.<p>Production agents have varying needs. Some agents need Windows applications. Others need Android, browsers with persistent sessions, custom operating system images, preinstalled desktop software and applications, or specific dependencies.\nSome agents need access to private networks to interact with customer-specific things on prem, or residential IPs, or the ability to restrict network access completely.<p>3. Cost optimization.<p>If you’re selling a personal assistant for $20/month, a sandbox that costs $0.04/hour comes out to roughly $29/month if you keep it running continuously, not including LLM inference, storage, etc. There is a way to combat this though, which is to optimize sandbox usage with auto-snapshotting, making things event-driven, mounting S3 buckets to agent environments via FUSE for cheap storage, cold-tiering snapshots, etc. All roads lead to… building more infrastructure.<p>So what did we build differently?<p>We give each agent its own isolated, persistent microVM and a configurable environment. On top of the compute, we built a lot of composable services: provisioning, persistent state, sleep/wake orchestration, triggers, schedule creation, monitoring, network configuration, updates, rollbacks, recovery, per-agent spend tracking, login handoffs, all the things you’d need for production agents.<p>We also spent a huge amount of time optimizing cost. A lot of thought was put into things such as scale-to-zero, copy-on-write over shared base images, compressed memory snapshots, hot/warm/cold snapshot and disk tiering, and other optimizations while balancing these with performance metrics like latency.<p>As a result, Maritime costs $1 for a 2gb RAM agent per month (unlimited usage for that $1), with additional resources available as needed.<p>Maria was a visiting lecturer at MIT and did research at Project NANDA on agent infrastructure. Ary did research on agent coordination protocols at the same lab. We started Maritime together this March because of all the issues we faced with trying to deploy agents to the cloud during our research.<p>We want your feedback.<p>If you're building an agent product, what did you have to build on top of sandboxes to make them work? We want to know about all the workarounds and weird things you’ve had to build.<p>Are there things you’ve tried to build with VMs but couldn’t? Does Maritime fit your needs? Is there a feature we’re missing that would make us more enticing?<p>Happy to answer any questions in the comments.<p><a href=\"https://maritime.sh\">https://maritime.sh</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549188\">https://news.ycombinator.com/item?id=50549188</a></p>\n<p>Points: 51</p>\n<p># Comments: 44</p>",
         "pubDate": "Wed, 18 Nov 2026 17:26:28 +0000",
         "guid": "https://news.ycombinator.com/item?id=50549188"
       },
       {
-        "title": "CrossPoint Reader",
-        "link": "https://crosspointreader.com",
-        "description": "<p>Article URL: <a href=\"https://crosspointreader.com\">https://crosspointreader.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548991\">https://news.ycombinator.com/item?id=50548991</a></p>\n<p>Points: 42</p>\n<p># Comments: 19</p>",
-        "pubDate": "Wed, 18 Nov 2026 17:14:31 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50548991"
-      },
-      {
-        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-        "link": "https://news.ycombinator.com/item?id=50548660",
-        "description": "<p>Hi HN, we're Shane, Sam, and Abhi.<p>Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: <a href=\"https://news.ycombinator.com/item?id=43103073\">https://news.ycombinator.com/item?id=43103073</a>. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.<p>Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.<p>At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.<p>There's a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that's @-taggable in Slack.<p>Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).<p>When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI.<p>We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead.<p>You can get started with `npm create factory`.<p>It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think!<p><a href=\"https://factory.mastra.ai\">https://factory.mastra.ai</a><p><a href=\"https://github.com/mastra-ai/template-factory\" rel=\"nofollow\">https://github.com/mastra-ai/template-factory</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548660\">https://news.ycombinator.com/item?id=50548660</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
-        "pubDate": "Wed, 18 Nov 2026 16:53:42 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50548660"
-      },
-      {
-        "title": "RFC 2675: IPv6 Jumbograms",
-        "link": "https://www.rfc-editor.org/info/rfc2675/",
-        "description": "<p>Article URL: <a href=\"https://www.rfc-editor.org/info/rfc2675/\">https://www.rfc-editor.org/info/rfc2675/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548214\">https://news.ycombinator.com/item?id=50548214</a></p>\n<p>Points: 25</p>\n<p># Comments: 24</p>",
-        "pubDate": "Wed, 18 Nov 2026 16:22:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50548214"
-      },
-      {
         "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
         "link": "https://rshekhar.com/voyager/",
-        "description": "<p>Voyager 1 reached one light-day from Earth today.<p>On the site you can:<p>- see where both Voyagers are right now<p>- open a nuclear battery to its 24 plutonium spheres<p>- go into the data computer, down to a single memory chip<p>- see how the Golden Record's cover explains how to play it<p>- watch how Voyager 1 was fixed by radio<p>- see which dish on Earth is listening to them, live<p>I also made a 4-minute film from it: <a href=\"https://www.youtube.com/watch?v=kpzsRo-c1_A\" rel=\"nofollow\">https://www.youtube.com/watch?v=kpzsRo-c1_A</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548161\">https://news.ycombinator.com/item?id=50548161</a></p>\n<p>Points: 86</p>\n<p># Comments: 21</p>",
+        "description": "<p>Voyager 1 reached one light-day from Earth today.<p>On the site you can:<p>- see where both Voyagers are right now<p>- open a nuclear battery to its 24 plutonium spheres<p>- go into the data computer, down to a single memory chip<p>- see how the Golden Record's cover explains how to play it<p>- watch how Voyager 1 was fixed by radio<p>- see which dish on Earth is listening to them, live<p>I also made a 4-minute film from it: <a href=\"https://www.youtube.com/watch?v=kpzsRo-c1_A\" rel=\"nofollow\">https://www.youtube.com/watch?v=kpzsRo-c1_A</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548161\">https://news.ycombinator.com/item?id=50548161</a></p>\n<p>Points: 183</p>\n<p># Comments: 46</p>",
         "pubDate": "Wed, 18 Nov 2026 16:18:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=50548161"
       },
       {
-        "title": "SuperEMeans: Making e-means 3× faster",
-        "link": "https://www.lkuffo.com/superemeans/",
-        "description": "<p>Article URL: <a href=\"https://www.lkuffo.com/superemeans/\">https://www.lkuffo.com/superemeans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548038\">https://news.ycombinator.com/item?id=50548038</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 18 Nov 2026 16:09:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50548038"
-      },
-      {
         "title": "Seven new models at scalable price-performance",
         "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
-        "description": "<p>Article URL: <a href=\"https://microsoft.ai/news/microsoft-ignite-2026/\">https://microsoft.ai/news/microsoft-ignite-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548021\">https://news.ycombinator.com/item?id=50548021</a></p>\n<p>Points: 303</p>\n<p># Comments: 192</p>",
+        "description": "<p>Article URL: <a href=\"https://microsoft.ai/news/microsoft-ignite-2026/\">https://microsoft.ai/news/microsoft-ignite-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548021\">https://news.ycombinator.com/item?id=50548021</a></p>\n<p>Points: 511</p>\n<p># Comments: 338</p>",
         "pubDate": "Wed, 18 Nov 2026 16:08:24 +0000",
         "guid": "https://news.ycombinator.com/item?id=50548021"
       },
       {
-        "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-        "link": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-        "description": "<p>Article URL: <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-99312\">https://www.cve.org/CVERecord?id=CVE-2026-99312</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548004\">https://news.ycombinator.com/item?id=50548004</a></p>\n<p>Points: 142</p>\n<p># Comments: 84</p>",
-        "pubDate": "Wed, 18 Nov 2026 16:06:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50548004"
-      },
-      {
         "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
         "link": "https://exitpath-ruddy.vercel.app/",
-        "description": "<p>Article URL: <a href=\"https://exitpath-ruddy.vercel.app/\">https://exitpath-ruddy.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547980\">https://news.ycombinator.com/item?id=50547980</a></p>\n<p>Points: 90</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://exitpath-ruddy.vercel.app/\">https://exitpath-ruddy.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547980\">https://news.ycombinator.com/item?id=50547980</a></p>\n<p>Points: 200</p>\n<p># Comments: 60</p>",
         "pubDate": "Wed, 18 Nov 2026 16:04:43 +0000",
         "guid": "https://news.ycombinator.com/item?id=50547980"
       },
       {
         "title": "AI agents ask better questions than KPMG accountants in audit trial",
         "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-        "description": "<p>Article URL: <a href=\"https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547777\">https://news.ycombinator.com/item?id=50547777</a></p>\n<p>Points: 166</p>\n<p># Comments: 84</p>",
+        "description": "<p>Article URL: <a href=\"https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547777\">https://news.ycombinator.com/item?id=50547777</a></p>\n<p>Points: 441</p>\n<p># Comments: 189</p>",
         "pubDate": "Wed, 18 Nov 2026 15:49:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50547777"
       },
       {
         "title": "Inside Deutsche Bank",
         "link": "https://www.inside-db.com/",
-        "description": "<p>Article URL: <a href=\"https://www.inside-db.com/\">https://www.inside-db.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547620\">https://news.ycombinator.com/item?id=50547620</a></p>\n<p>Points: 358</p>\n<p># Comments: 133</p>",
+        "description": "<p>Article URL: <a href=\"https://www.inside-db.com/\">https://www.inside-db.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547620\">https://news.ycombinator.com/item?id=50547620</a></p>\n<p>Points: 641</p>\n<p># Comments: 206</p>",
         "pubDate": "Wed, 18 Nov 2026 15:38:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=50547620"
       },
       {
-        "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+        "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
         "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-        "description": "<p>Article URL: <a href=\"https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view\">https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547583\">https://news.ycombinator.com/item?id=50547583</a></p>\n<p>Points: 111</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view\">https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547583\">https://news.ycombinator.com/item?id=50547583</a></p>\n<p>Points: 166</p>\n<p># Comments: 104</p>",
         "pubDate": "Wed, 18 Nov 2026 15:35:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50547583"
-      },
-      {
-        "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-        "link": "https://nginx2root.com/",
-        "description": "<p>Article URL: <a href=\"https://nginx2root.com/\">https://nginx2root.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547423\">https://news.ycombinator.com/item?id=50547423</a></p>\n<p>Points: 85</p>\n<p># Comments: 13</p>",
-        "pubDate": "Wed, 18 Nov 2026 15:24:17 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50547423"
-      },
-      {
-        "title": "Unauthenticated remote code execution in Nginx",
-        "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-        "description": "<p>Article URL: <a href=\"https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities\">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547374\">https://news.ycombinator.com/item?id=50547374</a></p>\n<p>Points: 690</p>\n<p># Comments: 278</p>",
-        "pubDate": "Wed, 18 Nov 2026 15:19:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50547374"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-18T20:21:39.033Z",
+  "lastUpdated": "2026-11-19T07:06:03.107Z",
   "stats": {
     "feeds": 2,
     "articles": 20
