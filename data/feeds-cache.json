@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-19T20:25:53.301Z"
+      "lastFetched": "2026-11-20T06:57:12.510Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-19T20:25:53.526Z"
+      "lastFetched": "2026-11-20T06:57:31.903Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Jujutsu Primer",
+        "link": "https://ethanlowman.com/posts/jj-primer/",
+        "description": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://news.ycombinator.com/item?id=50570628</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+        "pubDate": "Fri, 20 Nov 2026 05:46:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50570628"
+      },
+      {
+        "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+        "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+        "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117645038299496084\">https://grapheneos.social/@GrapheneOS/117645038299496084</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570479\">https://news.ycombinator.com/item?id=50570479</a></p>\n<p>Points: 174</p>\n<p># Comments: 27</p>",
+        "pubDate": "Fri, 20 Nov 2026 05:21:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50570479"
+      },
+      {
+        "title": "FFmpeg 9.1 'Gauss'",
+        "link": "https://ffmpeg.org/download.html#release_9.1",
+        "description": "<p>Article URL: <a href=\"https://ffmpeg.org/download.html#release_9.1\">https://ffmpeg.org/download.html#release_9.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569998\">https://news.ycombinator.com/item?id=50569998</a></p>\n<p>Points: 43</p>\n<p># Comments: 9</p>",
+        "pubDate": "Fri, 20 Nov 2026 04:02:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50569998"
+      },
+      {
+        "title": "GIMP now has UI tests",
+        "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+        "description": "<p>Article URL: <a href=\"https://www.gimp.org/news/2026/11/16/gimp-ui-tests/\">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569985\">https://news.ycombinator.com/item?id=50569985</a></p>\n<p>Points: 74</p>\n<p># Comments: 74</p>",
+        "pubDate": "Fri, 20 Nov 2026 04:00:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50569985"
+      },
+      {
+        "title": "PostgreSQL 19",
+        "link": "https://www.postgresql.org/docs/release/19.0/",
+        "description": "<p>Article URL: <a href=\"https://www.postgresql.org/docs/release/19.0/\">https://www.postgresql.org/docs/release/19.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569890\">https://news.ycombinator.com/item?id=50569890</a></p>\n<p>Points: 75</p>\n<p># Comments: 2</p>",
+        "pubDate": "Fri, 20 Nov 2026 03:45:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50569890"
+      },
+      {
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "description": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\">https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569516\">https://news.ycombinator.com/item?id=50569516</a></p>\n<p>Points: 55</p>\n<p># Comments: 7</p>",
+        "pubDate": "Fri, 20 Nov 2026 02:43:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50569516"
+      },
+      {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "link": "https://github.com/openssl/openssl/pull/33652",
+        "description": "<p>Article URL: <a href=\"https://github.com/openssl/openssl/pull/33652\">https://github.com/openssl/openssl/pull/33652</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569226\">https://news.ycombinator.com/item?id=50569226</a></p>\n<p>Points: 143</p>\n<p># Comments: 77</p>",
+        "pubDate": "Fri, 20 Nov 2026 02:01:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50569226"
+      },
+      {
+        "title": "Vint Cerf on why TCP/IP was never patented",
+        "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+        "description": "<p>Article URL: <a href=\"https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\">https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568861\">https://news.ycombinator.com/item?id=50568861</a></p>\n<p>Points: 79</p>\n<p># Comments: 24</p>",
+        "pubDate": "Fri, 20 Nov 2026 01:06:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50568861"
+      },
+      {
+        "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+        "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+        "description": "<p>Article URL: <a href=\"https://www.databricks.com/blog/postgresql-19-available-lakebase\">https://www.databricks.com/blog/postgresql-19-available-lakebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568643\">https://news.ycombinator.com/item?id=50568643</a></p>\n<p>Points: 48</p>\n<p># Comments: 19</p>",
+        "pubDate": "Fri, 20 Nov 2026 00:37:31 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50568643"
+      },
+      {
+        "title": "ChatGPT for SNES",
+        "link": "https://www.bxfoundry.com/chatgpt_snes/",
+        "description": "<p>Article URL: <a href=\"https://www.bxfoundry.com/chatgpt_snes/\">https://www.bxfoundry.com/chatgpt_snes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568548\">https://news.ycombinator.com/item?id=50568548</a></p>\n<p>Points: 49</p>\n<p># Comments: 14</p>",
+        "pubDate": "Fri, 20 Nov 2026 00:25:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50568548"
+      },
+      {
+        "title": "RegExr: Temporarily Offline",
+        "link": "https://regexr.com/",
+        "description": "<p>Article URL: <a href=\"https://regexr.com/\">https://regexr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50567374\">https://news.ycombinator.com/item?id=50567374</a></p>\n<p>Points: 70</p>\n<p># Comments: 36</p>",
+        "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50567374"
+      },
+      {
+        "title": "Synology Security Advisory",
+        "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+        "description": "<p>Article URL: <a href=\"https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\">https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50567209\">https://news.ycombinator.com/item?id=50567209</a></p>\n<p>Points: 134</p>\n<p># Comments: 100</p>",
+        "pubDate": "Thu, 19 Nov 2026 22:13:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50567209"
+      },
+      {
+        "title": "Rebuilding my local voice assistant pipeline",
+        "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+        "description": "<p>Article URL: <a href=\"https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\">https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50566261\">https://news.ycombinator.com/item?id=50566261</a></p>\n<p>Points: 95</p>\n<p># Comments: 14</p>",
+        "pubDate": "Thu, 19 Nov 2026 20:57:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50566261"
+      },
+      {
         "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
         "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lwfewYL7X0o\">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564366\">https://news.ycombinator.com/item?id=50564366</a></p>\n<p>Points: 15</p>\n<p># Comments: 16</p>",
+        "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lwfewYL7X0o\">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564366\">https://news.ycombinator.com/item?id=50564366</a></p>\n<p>Points: 97</p>\n<p># Comments: 191</p>",
         "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
         "guid": "https://news.ycombinator.com/item?id=50564366"
       },
       {
         "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
         "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-        "description": "<p>Article URL: <a href=\"https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564159\">https://news.ycombinator.com/item?id=50564159</a></p>\n<p>Points: 40</p>\n<p># Comments: 14</p>",
+        "description": "<p>Article URL: <a href=\"https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564159\">https://news.ycombinator.com/item?id=50564159</a></p>\n<p>Points: 252</p>\n<p># Comments: 139</p>",
         "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
         "guid": "https://news.ycombinator.com/item?id=50564159"
       },
       {
         "title": "Claude solves two open problems in the physics of black holes",
         "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 205</p>\n<p># Comments: 69</p>",
+        "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 458</p>\n<p># Comments: 218</p>",
         "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
         "guid": "https://news.ycombinator.com/item?id=50563148"
       },
       {
         "title": "Pancreatic cancer halted by virus injection in three patients",
-        "link": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-        "description": "<p>Article URL: <a href=\"https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/\">https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563066\">https://news.ycombinator.com/item?id=50563066</a></p>\n<p>Points: 130</p>\n<p># Comments: 13</p>",
+        "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+        "description": "<p><a href=\"https://archive.ph/2Et0x\" rel=\"nofollow\">https://archive.ph/2Et0x</a><p><a href=\"https://clinicaltrials.gov/study/NCT06693986\" rel=\"nofollow\">https://clinicaltrials.gov/study/NCT06693986</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563066\">https://news.ycombinator.com/item?id=50563066</a></p>\n<p>Points: 721</p>\n<p># Comments: 114</p>",
         "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
         "guid": "https://news.ycombinator.com/item?id=50563066"
       },
       {
-        "title": "Anthropic hits $2T in Nasdaq debut",
+        "title": "Anthropic’s Nasdaq debut",
         "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-        "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562754\">https://news.ycombinator.com/item?id=50562754</a></p>\n<p>Points: 475</p>\n<p># Comments: 737</p>",
+        "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562754\">https://news.ycombinator.com/item?id=50562754</a></p>\n<p>Points: 1043</p>\n<p># Comments: 2058</p>",
         "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
         "guid": "https://news.ycombinator.com/item?id=50562754"
       },
       {
-        "title": "Chrome AI features wasting much bandwidth",
-        "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-        "description": "<p>Article URL: <a href=\"https://perishablepress.com/chrome-ai-wasting-much-bandwidth/\">https://perishablepress.com/chrome-ai-wasting-much-bandwidth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562636\">https://news.ycombinator.com/item?id=50562636</a></p>\n<p>Points: 89</p>\n<p># Comments: 28</p>",
-        "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50562636"
-      },
-      {
         "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
         "link": "https://github.com/onlook-dev/onlook/",
-        "description": "<p>Hey HN, I'm Daniel, founder of Onlook (<a href=\"https://github.com/onlook-dev/onlook\" rel=\"nofollow\">https://github.com/onlook-dev/onlook</a> and onlook.com).<p>Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community.<p>Here’s a demo video: (<a href=\"https://youtu.be/BogcYWf4siM\" rel=\"nofollow\">https://youtu.be/BogcYWf4siM</a>)<p>If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to rebuild.<p>We built Onlook because we believe there needs to be a developer tool that works the way designers do.<p>More and more, designers are expected to work in code. Designers think by seeing, drafting, arranging variations, using references, and remixing ideas. That’s why the canvas has been the signature feature of design tools because it genuinely is useful for how messy the creative process is. Most of the challenge of using engineering tools for design work is that the first half of starting a project often takes mental bandwidth in of itself (What branch am I on? What page was that last exploration on?) and the second half is constrained by configuring your coded design to present itself (prompting design tools on top of what you’ve built or making temporary navigation for that specific state).<p>Some of you may remember our earlier Show HNs (July 2024: <a href=\"https://news.ycombinator.com/item?id=40904862\">https://news.ycombinator.com/item?id=40904862</a>, August 2024: <a href=\"https://news.ycombinator.com/item?id=41390449\">https://news.ycombinator.com/item?id=41390449</a>, May 2025: <a href=\"https://news.ycombinator.com/item?id=44127653\">https://news.ycombinator.com/item?id=44127653</a>). Since then, we built a web version (too early), then a Storybook-native build (a mistake). We noticed that our desktop product from July 2024 was still getting hundreds of downloads a month despite zero promotion, so we decided to rebuild it for the new era of designers working in code.<p>How it works…<p>Onlook shines at exploring tons of ideas at once. Ask it to lay out every flow in your product, show every state of a component, or riff on ten versions of one screen. Your designs all show up side by side on an infinite canvas, with each frame as a real webview running your actual app with real data. Not as a mockup, but the real deal.<p>When we built this editor, we had an epiphany that it could be a new kind of IDE for design. Design tools used to be limited to a proprietary setup or closed schema, but now you can push and pull the medium of code to get whatever result you want, so why not give agents an infinite canvas of browsers and see what they do? It turns out, the agents can figure out how to better present coded work by adjusting the urls of browser frames and arranging and resizing them on the canvas.<p>The concept is simple, but it requires a lot of product thinking. For example, because all of the frames on the canvas share a single browser session, and Chromium only allows six connections per host per session, ten frames of the same app end up fighting over limited connections. So, we had to plan around that, and there are still tons of things we need to do to make the canvas ultra performant.<p>Onlook is an Electron app where you can import a repo from GitHub or upload a local folder. Then, Onlook creates a git worktree, starts your dev server, and has the agent sort out missing dependencies or other requirements. You never open a terminal and everything the agent does is a normal git diff that can go to GitHub as a PR. We inject a small script into each frame that draws selection outlines and reads the page, so that way you can click an element, say \"make this a card layout,\" and the agent knows exactly what \"this\" is.<p>This time we didn't build our own agent. Onlook runs Claude Code or Codex on your own subscription, and we turn whatever the agent emits into one typed event log and draw the UI from that in our own chat interface. On top of that we give the agent a bespoke set of design-specific tools, from arranging frames on the canvas, to making suggestions, to generating multiple iterations of a selection – which is especially useful because the agent decides how to get the app into a state that you need based on your prompt.<p>We also have our own Artifacts which are quick HTML sketches that live in the editor, but outside your repo. They’re almost like components in other design tools in that they can be carried and edited across every project but are detached from the project with no network access. As an example, you can ask the agent to turn your interface into an Artifact, and use it as a reference for another exploration, or download it as HTML and send it to a coworker as an interactive export of something you have in progress. I frequently go back to the artifacts I’ve made as visual snippets when I need new ideas or need to borrow something that’s already been built.<p>The desktop editor is free (you can download it from our website at onlook.com) and open source under Apache-2.0, and we'll eventually offer a paid cloud product for teams.<p>We'd love to hear which repos work and which don't, what you try to do on the canvas, and what's missing. We’re so excited for this to be a new way for designers to work in code!<p>The Onlook team (Joel - thebrubaker and Kris - krisodd), and I will be here all day!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562320\">https://news.ycombinator.com/item?id=50562320</a></p>\n<p>Points: 52</p>\n<p># Comments: 49</p>",
+        "description": "<p>Hey HN, I'm Daniel, founder of Onlook (<a href=\"https://github.com/onlook-dev/onlook\" rel=\"nofollow\">https://github.com/onlook-dev/onlook</a> and onlook.com).<p>Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community.<p>Here’s a demo video: (<a href=\"https://youtu.be/BogcYWf4siM\" rel=\"nofollow\">https://youtu.be/BogcYWf4siM</a>)<p>If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to rebuild.<p>We built Onlook because we believe there needs to be a developer tool that works the way designers do.<p>More and more, designers are expected to work in code. Designers think by seeing, drafting, arranging variations, using references, and remixing ideas. That’s why the canvas has been the signature feature of design tools because it genuinely is useful for how messy the creative process is. Most of the challenge of using engineering tools for design work is that the first half of starting a project often takes mental bandwidth in of itself (What branch am I on? What page was that last exploration on?) and the second half is constrained by configuring your coded design to present itself (prompting design tools on top of what you’ve built or making temporary navigation for that specific state).<p>Some of you may remember our earlier Show HNs (July 2024: <a href=\"https://news.ycombinator.com/item?id=40904862\">https://news.ycombinator.com/item?id=40904862</a>, August 2024: <a href=\"https://news.ycombinator.com/item?id=41390449\">https://news.ycombinator.com/item?id=41390449</a>, May 2025: <a href=\"https://news.ycombinator.com/item?id=44127653\">https://news.ycombinator.com/item?id=44127653</a>). Since then, we built a web version (too early), then a Storybook-native build (a mistake). We noticed that our desktop product from July 2024 was still getting hundreds of downloads a month despite zero promotion, so we decided to rebuild it for the new era of designers working in code.<p>How it works…<p>Onlook shines at exploring tons of ideas at once. Ask it to lay out every flow in your product, show every state of a component, or riff on ten versions of one screen. Your designs all show up side by side on an infinite canvas, with each frame as a real webview running your actual app with real data. Not as a mockup, but the real deal.<p>When we built this editor, we had an epiphany that it could be a new kind of IDE for design. Design tools used to be limited to a proprietary setup or closed schema, but now you can push and pull the medium of code to get whatever result you want, so why not give agents an infinite canvas of browsers and see what they do? It turns out, the agents can figure out how to better present coded work by adjusting the urls of browser frames and arranging and resizing them on the canvas.<p>The concept is simple, but it requires a lot of product thinking. For example, because all of the frames on the canvas share a single browser session, and Chromium only allows six connections per host per session, ten frames of the same app end up fighting over limited connections. So, we had to plan around that, and there are still tons of things we need to do to make the canvas ultra performant.<p>Onlook is an Electron app where you can import a repo from GitHub or upload a local folder. Then, Onlook creates a git worktree, starts your dev server, and has the agent sort out missing dependencies or other requirements. You never open a terminal and everything the agent does is a normal git diff that can go to GitHub as a PR. We inject a small script into each frame that draws selection outlines and reads the page, so that way you can click an element, say \"make this a card layout,\" and the agent knows exactly what \"this\" is.<p>This time we didn't build our own agent. Onlook runs Claude Code or Codex on your own subscription, and we turn whatever the agent emits into one typed event log and draw the UI from that in our own chat interface. On top of that we give the agent a bespoke set of design-specific tools, from arranging frames on the canvas, to making suggestions, to generating multiple iterations of a selection – which is especially useful because the agent decides how to get the app into a state that you need based on your prompt.<p>We also have our own Artifacts which are quick HTML sketches that live in the editor, but outside your repo. They’re almost like components in other design tools in that they can be carried and edited across every project but are detached from the project with no network access. As an example, you can ask the agent to turn your interface into an Artifact, and use it as a reference for another exploration, or download it as HTML and send it to a coworker as an interactive export of something you have in progress. I frequently go back to the artifacts I’ve made as visual snippets when I need new ideas or need to borrow something that’s already been built.<p>The desktop editor is free (you can download it from our website at onlook.com) and open source under Apache-2.0, and we'll eventually offer a paid cloud product for teams.<p>We'd love to hear which repos work and which don't, what you try to do on the canvas, and what's missing. We’re so excited for this to be a new way for designers to work in code!<p>The Onlook team (Joel - thebrubaker and Kris - krisodd), and I will be here all day!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562320\">https://news.ycombinator.com/item?id=50562320</a></p>\n<p>Points: 109</p>\n<p># Comments: 74</p>",
         "pubDate": "Thu, 19 Nov 2026 16:34:04 +0000",
         "guid": "https://news.ycombinator.com/item?id=50562320"
       },
       {
-        "title": "Fuck Your AI Safeguards",
-        "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-        "description": "<p>Article URL: <a href=\"https://ounapuu.ee/posts/2026/11/19/unsafeguards/\">https://ounapuu.ee/posts/2026/11/19/unsafeguards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562262\">https://news.ycombinator.com/item?id=50562262</a></p>\n<p>Points: 253</p>\n<p># Comments: 90</p>",
-        "pubDate": "Thu, 19 Nov 2026 16:30:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50562262"
-      },
-      {
         "title": "UK government forced to admit it issued Apple a secret encryption order",
         "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-        "description": "<p>Article URL: <a href=\"https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/\">https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562113\">https://news.ycombinator.com/item?id=50562113</a></p>\n<p>Points: 277</p>\n<p># Comments: 133</p>",
+        "description": "<p>Article URL: <a href=\"https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/\">https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562113\">https://news.ycombinator.com/item?id=50562113</a></p>\n<p>Points: 604</p>\n<p># Comments: 268</p>",
         "pubDate": "Thu, 19 Nov 2026 16:21:03 +0000",
         "guid": "https://news.ycombinator.com/item?id=50562113"
-      },
-      {
-        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-        "link": "https://cornholenews.news",
-        "description": "<p>Article URL: <a href=\"https://cornholenews.news\">https://cornholenews.news</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50561515\">https://news.ycombinator.com/item?id=50561515</a></p>\n<p>Points: 118</p>\n<p># Comments: 59</p>",
-        "pubDate": "Thu, 19 Nov 2026 15:38:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50561515"
-      },
-      {
-        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-        "link": "https://thedataexchange.media/pete-warden-moonshine/",
-        "description": "<p>Article URL: <a href=\"https://thedataexchange.media/pete-warden-moonshine/\">https://thedataexchange.media/pete-warden-moonshine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50561508\">https://news.ycombinator.com/item?id=50561508</a></p>\n<p>Points: 164</p>\n<p># Comments: 153</p>",
-        "pubDate": "Thu, 19 Nov 2026 15:38:12 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50561508"
-      },
-      {
-        "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-        "link": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-        "description": "<p>Article URL: <a href=\"https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/\">https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50561170\">https://news.ycombinator.com/item?id=50561170</a></p>\n<p>Points: 47</p>\n<p># Comments: 22</p>",
-        "pubDate": "Thu, 19 Nov 2026 15:13:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50561170"
-      },
-      {
-        "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
-        "link": "https://maccus.fr/en/cooling-overtaking-heating/",
-        "description": "<p>Article URL: <a href=\"https://maccus.fr/en/cooling-overtaking-heating/\">https://maccus.fr/en/cooling-overtaking-heating/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50560955\">https://news.ycombinator.com/item?id=50560955</a></p>\n<p>Points: 120</p>\n<p># Comments: 83</p>",
-        "pubDate": "Thu, 19 Nov 2026 14:57:14 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50560955"
-      },
-      {
-        "title": "Everything you need to survive and rebuild society",
-        "link": "https://lastbook.org/",
-        "description": "<p>Article URL: <a href=\"https://lastbook.org/\">https://lastbook.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50560822\">https://news.ycombinator.com/item?id=50560822</a></p>\n<p>Points: 272</p>\n<p># Comments: 152</p>",
-        "pubDate": "Thu, 19 Nov 2026 14:47:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50560822"
-      },
-      {
-        "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-        "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-        "description": "<p>Article URL: <a href=\"https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/\">https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50559719\">https://news.ycombinator.com/item?id=50559719</a></p>\n<p>Points: 159</p>\n<p># Comments: 40</p>",
-        "pubDate": "Thu, 19 Nov 2026 13:18:11 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50559719"
-      },
-      {
-        "title": "Unblockable communication with gravity",
-        "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.aee0802\">https://www.science.org/doi/10.1126/sciadv.aee0802</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50559179\">https://news.ycombinator.com/item?id=50559179</a></p>\n<p>Points: 91</p>\n<p># Comments: 33</p>",
-        "pubDate": "Thu, 19 Nov 2026 12:22:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50559179"
-      },
-      {
-        "title": "Someone reported java4shell bug in September 2026",
-        "link": "https://github.com/openjdk/jdk/pull/32781",
-        "description": "<p>Article URL: <a href=\"https://github.com/openjdk/jdk/pull/32781\">https://github.com/openjdk/jdk/pull/32781</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50558906\">https://news.ycombinator.com/item?id=50558906</a></p>\n<p>Points: 253</p>\n<p># Comments: 69</p>",
-        "pubDate": "Thu, 19 Nov 2026 11:47:03 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50558906"
-      },
-      {
-        "title": "How the European Commission rolled out Matrix to more than 40k staff",
-        "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-        "description": "<p>Article URL: <a href=\"https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/\">https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50558533\">https://news.ycombinator.com/item?id=50558533</a></p>\n<p>Points: 596</p>\n<p># Comments: 280</p>",
-        "pubDate": "Thu, 19 Nov 2026 10:58:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50558533"
-      },
-      {
-        "title": "What's New in PHP 8.6",
-        "link": "https://www.php.net/releases/8.6/en.php",
-        "description": "<p>Article URL: <a href=\"https://www.php.net/releases/8.6/en.php\">https://www.php.net/releases/8.6/en.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557870\">https://news.ycombinator.com/item?id=50557870</a></p>\n<p>Points: 242</p>\n<p># Comments: 118</p>",
-        "pubDate": "Thu, 19 Nov 2026 09:27:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50557870"
-      },
-      {
-        "title": "SSD prices may begin to decline in the latter half of 2027",
-        "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-        "description": "<p>Article URL: <a href=\"https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html\">https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557716\">https://news.ycombinator.com/item?id=50557716</a></p>\n<p>Points: 277</p>\n<p># Comments: 218</p>",
-        "pubDate": "Thu, 19 Nov 2026 09:05:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50557716"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-19T20:25:53.526Z",
+  "lastUpdated": "2026-11-20T06:57:31.903Z",
   "stats": {
     "feeds": 2,
     "articles": 20
