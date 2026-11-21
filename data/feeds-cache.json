@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-21T06:52:51.059Z"
+      "lastFetched": "2026-11-21T19:02:07.685Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-21T06:53:10.590Z"
+      "lastFetched": "2026-11-21T19:02:27.411Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "description": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p>\n<p>Points: 43</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 21 Nov 2026 18:02:19 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50591853"
+      },
+      {
+        "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+        "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists\">https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591835\">https://news.ycombinator.com/item?id=50591835</a></p>\n<p>Points: 79</p>\n<p># Comments: 72</p>",
+        "pubDate": "Sat, 21 Nov 2026 17:59:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50591835"
+      },
+      {
+        "title": "PostgreSQL Extensions in Go",
+        "link": "https://jespino.github.io/gopgext/",
+        "description": "<p>Article URL: <a href=\"https://jespino.github.io/gopgext/\">https://jespino.github.io/gopgext/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591260\">https://news.ycombinator.com/item?id=50591260</a></p>\n<p>Points: 52</p>\n<p># Comments: 1</p>",
+        "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50591260"
+      },
+      {
+        "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+        "link": "https://math.mit.edu/~drew/grh/",
+        "description": "<p>Article URL: <a href=\"https://math.mit.edu/~drew/grh/\">https://math.mit.edu/~drew/grh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590441\">https://news.ycombinator.com/item?id=50590441</a></p>\n<p>Points: 29</p>\n<p># Comments: 2</p>",
+        "pubDate": "Sat, 21 Nov 2026 15:54:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50590441"
+      },
+      {
+        "title": "Show HN: Zero C#, Power of C# without any GC",
+        "link": "https://onurgumus.github.io/zero-csharp/index.html",
+        "description": "<p>Article URL: <a href=\"https://onurgumus.github.io/zero-csharp/index.html\">https://onurgumus.github.io/zero-csharp/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590279\">https://news.ycombinator.com/item?id=50590279</a></p>\n<p>Points: 61</p>\n<p># Comments: 43</p>",
+        "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50590279"
+      },
+      {
+        "title": "Lean verification of the Riemann Hypothesis",
+        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "description": "<p>Article URL: <a href=\"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589618\">https://news.ycombinator.com/item?id=50589618</a></p>\n<p>Points: 491</p>\n<p># Comments: 391</p>",
+        "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50589618"
+      },
+      {
+        "title": "Detonating a pile of lead azide",
+        "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50588982\">https://news.ycombinator.com/item?id=50588982</a></p>\n<p>Points: 365</p>\n<p># Comments: 229</p>",
+        "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50588982"
+      },
+      {
+        "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+        "link": "https://simple-bench.com/",
+        "description": "<p>Article URL: <a href=\"https://simple-bench.com/\">https://simple-bench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50588916\">https://news.ycombinator.com/item?id=50588916</a></p>\n<p>Points: 131</p>\n<p># Comments: 114</p>",
+        "pubDate": "Sat, 21 Nov 2026 13:16:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50588916"
+      },
+      {
+        "title": "My monitor was cutting my download speed by 75%",
+        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "description": "<p>Article URL: <a href=\"https://blog.tymscar.com/posts/studiodisplayethernet/\">https://blog.tymscar.com/posts/studiodisplayethernet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587875\">https://news.ycombinator.com/item?id=50587875</a></p>\n<p>Points: 310</p>\n<p># Comments: 161</p>",
+        "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50587875"
+      },
+      {
+        "title": "RCE in Gnupg",
+        "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "description": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587208\">https://news.ycombinator.com/item?id=50587208</a></p>\n<p>Points: 180</p>\n<p># Comments: 58</p>",
+        "pubDate": "Sat, 21 Nov 2026 08:32:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50587208"
+      },
+      {
+        "title": "Surprisingly Adorable Insect Portraits",
+        "link": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+        "description": "<p>Article URL: <a href=\"https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/\">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586648\">https://news.ycombinator.com/item?id=50586648</a></p>\n<p>Points: 127</p>\n<p># Comments: 26</p>",
+        "pubDate": "Sat, 21 Nov 2026 06:44:14 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50586648"
+      },
+      {
         "title": "ClawDOS – An AI coding agent for DOS",
         "link": "http://ricapar.net/ClawDOS/",
-        "description": "<p>Article URL: <a href=\"http://ricapar.net/ClawDOS/\">http://ricapar.net/ClawDOS/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586292\">https://news.ycombinator.com/item?id=50586292</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+        "description": "<p>Article URL: <a href=\"http://ricapar.net/ClawDOS/\">http://ricapar.net/ClawDOS/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586292\">https://news.ycombinator.com/item?id=50586292</a></p>\n<p>Points: 138</p>\n<p># Comments: 43</p>",
         "pubDate": "Sat, 21 Nov 2026 05:38:01 +0000",
         "guid": "https://news.ycombinator.com/item?id=50586292"
       },
       {
-        "title": "BlackBlaze now explicitly states selling your data for advertisement",
-        "link": "https://www.backblaze.com/company/policy/privacy",
-        "description": "<p>Article URL: <a href=\"https://www.backblaze.com/company/policy/privacy\">https://www.backblaze.com/company/policy/privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50585593\">https://news.ycombinator.com/item?id=50585593</a></p>\n<p>Points: 140</p>\n<p># Comments: 39</p>",
-        "pubDate": "Sat, 21 Nov 2026 03:23:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50585593"
-      },
-      {
         "title": "Clojure will affect the way you think about programming (2017)",
         "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-        "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/\">https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50585376\">https://news.ycombinator.com/item?id=50585376</a></p>\n<p>Points: 42</p>\n<p># Comments: 10</p>",
+        "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/\">https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50585376\">https://news.ycombinator.com/item?id=50585376</a></p>\n<p>Points: 176</p>\n<p># Comments: 80</p>",
         "pubDate": "Sat, 21 Nov 2026 02:40:39 +0000",
         "guid": "https://news.ycombinator.com/item?id=50585376"
       },
       {
-        "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-        "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-        "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/fighting-back-against-deep-fakes\">https://spectrum.ieee.org/fighting-back-against-deep-fakes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50584429\">https://news.ycombinator.com/item?id=50584429</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
-        "pubDate": "Sat, 21 Nov 2026 00:33:40 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50584429"
-      },
-      {
-        "title": "Serious cyberattack thought backed by wealthy operators",
-        "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-        "description": "<p>Article URL: <a href=\"https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411\">https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583856\">https://news.ycombinator.com/item?id=50583856</a></p>\n<p>Points: 60</p>\n<p># Comments: 31</p>",
-        "pubDate": "Fri, 20 Nov 2026 23:29:30 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50583856"
-      },
-      {
-        "title": "Sir Brian May adds new dimension to Hera asteroid",
-        "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-        "description": "<p>Article URL: <a href=\"https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid\">https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583768\">https://news.ycombinator.com/item?id=50583768</a></p>\n<p>Points: 81</p>\n<p># Comments: 17</p>",
-        "pubDate": "Fri, 20 Nov 2026 23:19:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50583768"
-      },
-      {
         "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
         "link": "https://news.ycombinator.com/item?id=50583761",
-        "description": "<p>I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.<p>In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.<p>At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?<p>If you have an alternative path (something completely different from SWE or SWE adjacent) that pays \"well\", I would like to hear.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583761\">https://news.ycombinator.com/item?id=50583761</a></p>\n<p>Points: 78</p>\n<p># Comments: 81</p>",
+        "description": "<p>I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.<p>In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.<p>At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?<p>If you have an alternative path (something completely different from SWE or SWE adjacent) that pays \"well\", I would like to hear.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583761\">https://news.ycombinator.com/item?id=50583761</a></p>\n<p>Points: 484</p>\n<p># Comments: 525</p>",
         "pubDate": "Fri, 20 Nov 2026 23:18:32 +0000",
         "guid": "https://news.ycombinator.com/item?id=50583761"
       },
       {
         "title": "NINLIVE: The Nine Inch Nails live archive",
         "link": "https://ninlive.com/",
-        "description": "<p>Article URL: <a href=\"https://ninlive.com/\">https://ninlive.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583274\">https://news.ycombinator.com/item?id=50583274</a></p>\n<p>Points: 209</p>\n<p># Comments: 54</p>",
+        "description": "<p>Article URL: <a href=\"https://ninlive.com/\">https://ninlive.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583274\">https://news.ycombinator.com/item?id=50583274</a></p>\n<p>Points: 331</p>\n<p># Comments: 90</p>",
         "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
         "guid": "https://news.ycombinator.com/item?id=50583274"
       },
       {
-        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-        "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-        "description": "<p>Article URL: <a href=\"https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\">https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583117\">https://news.ycombinator.com/item?id=50583117</a></p>\n<p>Points: 31</p>\n<p># Comments: 9</p>",
-        "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50583117"
-      },
-      {
-        "title": "Show HN: OpenComputer – an open source alternative to Devin",
-        "link": "https://github.com/diggerhq/opencomputer",
-        "description": "<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).<p>Two other choices:<p>- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.\n- Session files are backed up to a repo after every turn, so any session can resume on another VM.<p>We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.<p>Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3].<p>[1]: <a href=\"https://docs.opencomputer.dev/getting-started/architecture\" rel=\"nofollow\">https://docs.opencomputer.dev/getting-started/architecture</a>\n[2]: <a href=\"https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/\" rel=\"nofollow\">https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/</a>\n[3]: <a href=\"https://x.com/IgorZIJ/status/2121309785882591711\" rel=\"nofollow\">https://x.com/IgorZIJ/status/2121309785882591711</a>\n[4]: <a href=\"https://app.opencomputer.dev\" rel=\"nofollow\">https://app.opencomputer.dev</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581403\">https://news.ycombinator.com/item?id=50581403</a></p>\n<p>Points: 95</p>\n<p># Comments: 24</p>",
-        "pubDate": "Fri, 20 Nov 2026 20:19:56 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50581403"
-      },
-      {
         "title": "Inkling 2 Mini",
         "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 874</p>\n<p># Comments: 162</p>",
+        "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 1264</p>\n<p># Comments: 255</p>",
         "pubDate": "Fri, 20 Nov 2026 20:12:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50581260"
       },
       {
-        "title": "And yet, it moves",
-        "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-        "description": "<p>Article URL: <a href=\"https://signoregalilei.com/2026/11/20/and-yet-it-moves/\">https://signoregalilei.com/2026/11/20/and-yet-it-moves/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581177\">https://news.ycombinator.com/item?id=50581177</a></p>\n<p>Points: 131</p>\n<p># Comments: 82</p>",
-        "pubDate": "Fri, 20 Nov 2026 20:07:55 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50581177"
-      },
-      {
-        "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-        "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-        "description": "<p>Article URL: <a href=\"https://www.masteringemacs.org/article/announcing-dreamcoder\">https://www.masteringemacs.org/article/announcing-dreamcoder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581110\">https://news.ycombinator.com/item?id=50581110</a></p>\n<p>Points: 174</p>\n<p># Comments: 40</p>",
-        "pubDate": "Fri, 20 Nov 2026 20:03:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50581110"
-      },
-      {
-        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-        "link": "https://scottaaronson.blog/?p=10344",
-        "description": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=10344\">https://scottaaronson.blog/?p=10344</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581084\">https://news.ycombinator.com/item?id=50581084</a></p>\n<p>Points: 266</p>\n<p># Comments: 238</p>",
-        "pubDate": "Fri, 20 Nov 2026 20:03:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50581084"
-      },
-      {
-        "title": "Winedroid – run Android apps without Android (WASM demo)",
-        "link": "https://winedroid.soham.sh/demo/",
-        "description": "<p>Article URL: <a href=\"https://winedroid.soham.sh/demo/\">https://winedroid.soham.sh/demo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50580536\">https://news.ycombinator.com/item?id=50580536</a></p>\n<p>Points: 127</p>\n<p># Comments: 36</p>",
-        "pubDate": "Fri, 20 Nov 2026 19:30:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50580536"
-      },
-      {
         "title": "Hurried Announcement: Alessandro Masullo GRH",
         "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-        "description": "<p>Related: <i>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50574968\">https://news.ycombinator.com/item?id=50574968</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579568\">https://news.ycombinator.com/item?id=50579568</a></p>\n<p>Points: 1850</p>\n<p># Comments: 852</p>",
+        "description": "<p>Related: <i>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50574968\">https://news.ycombinator.com/item?id=50574968</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579568\">https://news.ycombinator.com/item?id=50579568</a></p>\n<p>Points: 2323</p>\n<p># Comments: 1118</p>",
         "pubDate": "Fri, 20 Nov 2026 18:33:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=50579568"
       },
       {
         "title": "We promoted developers into architects without informing them",
         "link": "https://manidoraisamy.com/developer-to-architect.html",
-        "description": "<p>Article URL: <a href=\"https://manidoraisamy.com/developer-to-architect.html\">https://manidoraisamy.com/developer-to-architect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579331\">https://news.ycombinator.com/item?id=50579331</a></p>\n<p>Points: 378</p>\n<p># Comments: 219</p>",
+        "description": "<p>Article URL: <a href=\"https://manidoraisamy.com/developer-to-architect.html\">https://manidoraisamy.com/developer-to-architect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579331\">https://news.ycombinator.com/item?id=50579331</a></p>\n<p>Points: 543</p>\n<p># Comments: 296</p>",
         "pubDate": "Fri, 20 Nov 2026 18:17:51 +0000",
         "guid": "https://news.ycombinator.com/item?id=50579331"
       },
       {
-        "title": "Vibecoding an inference chip",
-        "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "description": "<p>Article URL: <a href=\"https://ankitg.me/blog/vibecoding-inference-chip/\">https://ankitg.me/blog/vibecoding-inference-chip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579297\">https://news.ycombinator.com/item?id=50579297</a></p>\n<p>Points: 133</p>\n<p># Comments: 54</p>",
-        "pubDate": "Fri, 20 Nov 2026 18:15:16 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50579297"
-      },
-      {
         "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
         "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578358\">https://news.ycombinator.com/item?id=50578358</a></p>\n<p>Points: 398</p>\n<p># Comments: 164</p>",
+        "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578358\">https://news.ycombinator.com/item?id=50578358</a></p>\n<p>Points: 513</p>\n<p># Comments: 221</p>",
         "pubDate": "Fri, 20 Nov 2026 17:21:36 +0000",
         "guid": "https://news.ycombinator.com/item?id=50578358"
       },
       {
-        "title": "Language Models Can Rewrite Their Own Weights",
-        "link": "https://arxiv.org/abs/2611.21885",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2611.21885\">https://arxiv.org/abs/2611.21885</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50577265\">https://news.ycombinator.com/item?id=50577265</a></p>\n<p>Points: 384</p>\n<p># Comments: 116</p>",
-        "pubDate": "Fri, 20 Nov 2026 16:29:06 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50577265"
+        "title": "I'm quite pleased by the tech architecture of my art website",
+        "link": "https://klauria.tech/klauria-art/",
+        "description": "<p>Article URL: <a href=\"https://klauria.tech/klauria-art/\">https://klauria.tech/klauria-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50577991\">https://news.ycombinator.com/item?id=50577991</a></p>\n<p>Points: 80</p>\n<p># Comments: 15</p>",
+        "pubDate": "Fri, 20 Nov 2026 17:03:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50577991"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-21T06:53:10.590Z",
+  "lastUpdated": "2026-11-21T19:02:27.412Z",
   "stats": {
     "feeds": 2,
     "articles": 20
