@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-22T06:25:24.889Z"
+      "lastFetched": "2026-11-22T19:26:08.404Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-22T06:25:32.613Z"
+      "lastFetched": "2026-11-22T19:26:15.238Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
+        "title": "Perplexity and Intelligence",
+        "link": "https://openai.com/index/perplexity-and-intelligence/",
+        "description": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p>\n<p>Points: 188</p>\n<p># Comments: 134</p>",
+        "pubDate": "Sun, 22 Nov 2026 17:06:27 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50601525"
+      },
+      {
+        "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+        "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+        "description": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html\">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600677\">https://news.ycombinator.com/item?id=50600677</a></p>\n<p>Points: 107</p>\n<p># Comments: 91</p>",
+        "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50600677"
+      },
+      {
+        "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+        "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+        "description": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/\">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600622\">https://news.ycombinator.com/item?id=50600622</a></p>\n<p>Points: 55</p>\n<p># Comments: 14</p>",
+        "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50600622"
+      },
+      {
+        "title": "Open Social Web Alliance",
+        "link": "https://osw-alliance.net/en/",
+        "description": "<p>Article URL: <a href=\"https://osw-alliance.net/en/\">https://osw-alliance.net/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600511\">https://news.ycombinator.com/item?id=50600511</a></p>\n<p>Points: 151</p>\n<p># Comments: 148</p>",
+        "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50600511"
+      },
+      {
+        "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+        "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+        "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/\">https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600435\">https://news.ycombinator.com/item?id=50600435</a></p>\n<p>Points: 78</p>\n<p># Comments: 38</p>",
+        "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50600435"
+      },
+      {
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "link": "https://github.com/gulivan/worker755",
+        "description": "<p>Article URL: <a href=\"https://github.com/gulivan/worker755\">https://github.com/gulivan/worker755</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50599762\">https://news.ycombinator.com/item?id=50599762</a></p>\n<p>Points: 172</p>\n<p># Comments: 44</p>",
+        "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50599762"
+      },
+      {
+        "title": "Testing Terraform with AWS Emulator",
+        "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+        "description": "<p>Article URL: <a href=\"https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/\">https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50599309\">https://news.ycombinator.com/item?id=50599309</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+        "pubDate": "Sun, 22 Nov 2026 13:00:36 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50599309"
+      },
+      {
+        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "link": "https://simonwillison.net/2026/Nov/21/muru/",
+        "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Nov/21/muru/\">https://simonwillison.net/2026/Nov/21/muru/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597959\">https://news.ycombinator.com/item?id=50597959</a></p>\n<p>Points: 54</p>\n<p># Comments: 9</p>",
+        "pubDate": "Sun, 22 Nov 2026 09:57:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50597959"
+      },
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "description": "<p>Article URL: <a href=\"https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597612\">https://news.ycombinator.com/item?id=50597612</a></p>\n<p>Points: 617</p>\n<p># Comments: 693</p>",
+        "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50597612"
+      },
+      {
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+        "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596960\">https://news.ycombinator.com/item?id=50596960</a></p>\n<p>Points: 83</p>\n<p># Comments: 11</p>",
+        "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50596960"
+      },
+      {
+        "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+        "link": "https://github.com/EL4CTEO/fast-anything",
+        "description": "<p>Article URL: <a href=\"https://github.com/EL4CTEO/fast-anything\">https://github.com/EL4CTEO/fast-anything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596155\">https://news.ycombinator.com/item?id=50596155</a></p>\n<p>Points: 152</p>\n<p># Comments: 112</p>",
+        "pubDate": "Sun, 22 Nov 2026 04:10:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50596155"
+      },
+      {
         "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
         "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-        "description": "<p>Article URL: <a href=\"https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\">https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596133\">https://news.ycombinator.com/item?id=50596133</a></p>\n<p>Points: 210</p>\n<p># Comments: 104</p>",
+        "description": "<p>Article URL: <a href=\"https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\">https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596133\">https://news.ycombinator.com/item?id=50596133</a></p>\n<p>Points: 1024</p>\n<p># Comments: 612</p>",
         "pubDate": "Sun, 22 Nov 2026 04:04:56 +0000",
         "guid": "https://news.ycombinator.com/item?id=50596133"
       },
       {
-        "title": "Together.ai: Prompt Leakage for Requests",
-        "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-        "description": "<p>Article URL: <a href=\"https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026\">https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595816\">https://news.ycombinator.com/item?id=50595816</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
-        "pubDate": "Sun, 22 Nov 2026 03:07:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50595816"
-      },
-      {
-        "title": "The Most Popular Car Colors in America",
-        "link": "https://www.iseecars.com/most-popular-car-colors-study",
-        "description": "<p>Article URL: <a href=\"https://www.iseecars.com/most-popular-car-colors-study\">https://www.iseecars.com/most-popular-car-colors-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595725\">https://news.ycombinator.com/item?id=50595725</a></p>\n<p>Points: 20</p>\n<p># Comments: 28</p>",
-        "pubDate": "Sun, 22 Nov 2026 02:47:18 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50595725"
-      },
-      {
         "title": "Data Processing Incidents on Inference Providers",
         "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-        "description": "<p>Article URL: <a href=\"https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595554\">https://news.ycombinator.com/item?id=50595554</a></p>\n<p>Points: 83</p>\n<p># Comments: 30</p>",
+        "description": "<p>Article URL: <a href=\"https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595554\">https://news.ycombinator.com/item?id=50595554</a></p>\n<p>Points: 257</p>\n<p># Comments: 88</p>",
         "pubDate": "Sun, 22 Nov 2026 02:14:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=50595554"
       },
       {
         "title": "The Mythology of Conscious AI",
         "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-        "description": "<p>Article URL: <a href=\"https://www.noemamag.com/the-mythology-of-conscious-ai/\">https://www.noemamag.com/the-mythology-of-conscious-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595537\">https://news.ycombinator.com/item?id=50595537</a></p>\n<p>Points: 24</p>\n<p># Comments: 53</p>",
+        "description": "<p>Article URL: <a href=\"https://www.noemamag.com/the-mythology-of-conscious-ai/\">https://www.noemamag.com/the-mythology-of-conscious-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595537\">https://news.ycombinator.com/item?id=50595537</a></p>\n<p>Points: 140</p>\n<p># Comments: 393</p>",
         "pubDate": "Sun, 22 Nov 2026 02:10:02 +0000",
         "guid": "https://news.ycombinator.com/item?id=50595537"
       },
       {
-        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-        "link": "https://github.com/ItsNotRexed/Leonida",
-        "description": "<p>Article URL: <a href=\"https://github.com/ItsNotRexed/Leonida\">https://github.com/ItsNotRexed/Leonida</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595168\">https://news.ycombinator.com/item?id=50595168</a></p>\n<p>Points: 114</p>\n<p># Comments: 75</p>",
-        "pubDate": "Sun, 22 Nov 2026 00:57:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50595168"
-      },
-      {
         "title": "Sandwich Simulator",
         "link": "https://stulle.app/",
-        "description": "<p>Article URL: <a href=\"https://stulle.app/\">https://stulle.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594911\">https://news.ycombinator.com/item?id=50594911</a></p>\n<p>Points: 129</p>\n<p># Comments: 52</p>",
+        "description": "<p>Article URL: <a href=\"https://stulle.app/\">https://stulle.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594911\">https://news.ycombinator.com/item?id=50594911</a></p>\n<p>Points: 484</p>\n<p># Comments: 167</p>",
         "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
         "guid": "https://news.ycombinator.com/item?id=50594911"
       },
       {
+        "title": "A Better Vocabulary for Testing",
+        "link": "https://alperenkeles.com/posts/vocab-for-testing/",
+        "description": "<p>Article URL: <a href=\"https://alperenkeles.com/posts/vocab-for-testing/\">https://alperenkeles.com/posts/vocab-for-testing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594182\">https://news.ycombinator.com/item?id=50594182</a></p>\n<p>Points: 60</p>\n<p># Comments: 16</p>",
+        "pubDate": "Sat, 21 Nov 2026 22:15:39 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50594182"
+      },
+      {
         "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
         "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-        "description": "<p>Article URL: <a href=\"https://github.com/sebaandrada-cell/PcapAnalyzer\">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594132\">https://news.ycombinator.com/item?id=50594132</a></p>\n<p>Points: 96</p>\n<p># Comments: 9</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/sebaandrada-cell/PcapAnalyzer\">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594132\">https://news.ycombinator.com/item?id=50594132</a></p>\n<p>Points: 157</p>\n<p># Comments: 20</p>",
         "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
         "guid": "https://news.ycombinator.com/item?id=50594132"
       },
       {
-        "title": "Advice for the next 100 Rust GUIs",
-        "link": "https://linebender.org/blog/next-100-guis/",
-        "description": "<p>Article URL: <a href=\"https://linebender.org/blog/next-100-guis/\">https://linebender.org/blog/next-100-guis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593737\">https://news.ycombinator.com/item?id=50593737</a></p>\n<p>Points: 126</p>\n<p># Comments: 33</p>",
-        "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50593737"
-      },
-      {
-        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-        "link": "https://tasklet.ai/careers",
-        "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers\">https://tasklet.ai/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593679\">https://news.ycombinator.com/item?id=50593679</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Sat, 21 Nov 2026 21:11:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50593679"
-      },
-      {
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "link": "https://www.pandex.io",
-        "description": "<p>Article URL: <a href=\"https://www.pandex.io\">https://www.pandex.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593481\">https://news.ycombinator.com/item?id=50593481</a></p>\n<p>Points: 60</p>\n<p># Comments: 11</p>",
-        "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50593481"
-      },
-      {
-        "title": "Upload2Shell (CVE-2026-125396)",
-        "link": "https://pwn.ai/upload2shell",
-        "description": "<p>Article URL: <a href=\"https://pwn.ai/upload2shell\">https://pwn.ai/upload2shell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50592097\">https://news.ycombinator.com/item?id=50592097</a></p>\n<p>Points: 103</p>\n<p># Comments: 46</p>",
-        "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50592097"
-      },
-      {
         "title": "Inkling-2-Mini in 5.4 GB Memory",
         "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "description": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p>\n<p>Points: 421</p>\n<p># Comments: 106</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p>\n<p>Points: 550</p>\n<p># Comments: 131</p>",
         "pubDate": "Sat, 21 Nov 2026 18:02:19 +0000",
         "guid": "https://news.ycombinator.com/item?id=50591853"
       },
       {
-        "title": "PostgreSQL Extensions in Go",
-        "link": "https://jespino.github.io/gopgext/",
-        "description": "<p>Article URL: <a href=\"https://jespino.github.io/gopgext/\">https://jespino.github.io/gopgext/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591260\">https://news.ycombinator.com/item?id=50591260</a></p>\n<p>Points: 134</p>\n<p># Comments: 23</p>",
-        "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50591260"
-      },
-      {
-        "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-        "link": "https://math.mit.edu/~drew/grh/",
-        "description": "<p>Article URL: <a href=\"https://math.mit.edu/~drew/grh/\">https://math.mit.edu/~drew/grh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590441\">https://news.ycombinator.com/item?id=50590441</a></p>\n<p>Points: 107</p>\n<p># Comments: 38</p>",
-        "pubDate": "Sat, 21 Nov 2026 15:54:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50590441"
-      },
-      {
-        "title": "Show HN: Zero C# – C# without a runtime or GC",
-        "link": "https://onurgumus.github.io/zero-csharp/index.html",
-        "description": "<p>Article URL: <a href=\"https://onurgumus.github.io/zero-csharp/index.html\">https://onurgumus.github.io/zero-csharp/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590279\">https://news.ycombinator.com/item?id=50590279</a></p>\n<p>Points: 148</p>\n<p># Comments: 104</p>",
-        "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50590279"
-      },
-      {
         "title": "Lean verification of the Riemann Hypothesis",
         "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "description": "<p>Article URL: <a href=\"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589618\">https://news.ycombinator.com/item?id=50589618</a></p>\n<p>Points: 938</p>\n<p># Comments: 797</p>",
+        "description": "<p>Article URL: <a href=\"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589618\">https://news.ycombinator.com/item?id=50589618</a></p>\n<p>Points: 1184</p>\n<p># Comments: 979</p>",
         "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
         "guid": "https://news.ycombinator.com/item?id=50589618"
       },
       {
         "title": "Detonating a pile of lead azide",
         "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50588982\">https://news.ycombinator.com/item?id=50588982</a></p>\n<p>Points: 579</p>\n<p># Comments: 377</p>",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50588982\">https://news.ycombinator.com/item?id=50588982</a></p>\n<p>Points: 686</p>\n<p># Comments: 418</p>",
         "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
         "guid": "https://news.ycombinator.com/item?id=50588982"
-      },
-      {
-        "title": "My monitor was cutting my download speed by 75%",
-        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-        "description": "<p>Article URL: <a href=\"https://blog.tymscar.com/posts/studiodisplayethernet/\">https://blog.tymscar.com/posts/studiodisplayethernet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587875\">https://news.ycombinator.com/item?id=50587875</a></p>\n<p>Points: 545</p>\n<p># Comments: 264</p>",
-        "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50587875"
-      },
-      {
-        "title": "GnuPG Security Advisory for GPGME",
-        "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-        "description": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587208\">https://news.ycombinator.com/item?id=50587208</a></p>\n<p>Points: 247</p>\n<p># Comments: 98</p>",
-        "pubDate": "Sat, 21 Nov 2026 08:32:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50587208"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-22T06:25:32.613Z",
+  "lastUpdated": "2026-11-22T19:26:15.238Z",
   "stats": {
     "feeds": 2,
     "articles": 20
