@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-25T21:33:11.856Z"
+      "lastFetched": "2026-11-26T07:59:17.673Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-25T21:33:26.092Z"
+      "lastFetched": "2026-11-26T07:59:37.348Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-        "link": "https://danprice.ai/blog/opus-symphony",
-        "description": "<p>Article URL: <a href=\"https://danprice.ai/blog/opus-symphony\">https://danprice.ai/blog/opus-symphony</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50646662\">https://news.ycombinator.com/item?id=50646662</a></p>\n<p>Points: 35</p>\n<p># Comments: 36</p>",
-        "pubDate": "Wed, 25 Nov 2026 19:57:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50646662"
+        "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+        "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+        "description": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real\">https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652370\">https://news.ycombinator.com/item?id=50652370</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 26 Nov 2026 07:05:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50652370"
+      },
+      {
+        "title": "Moat: Your OpenRouter Replacement",
+        "link": "https://commandcode.ai/moat",
+        "description": "<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+        "pubDate": "Thu, 26 Nov 2026 06:32:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50652184"
+      },
+      {
+        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+        "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+        "description": "<p>Article URL: <a href=\"https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651719\">https://news.ycombinator.com/item?id=50651719</a></p>\n<p>Points: 58</p>\n<p># Comments: 7</p>",
+        "pubDate": "Thu, 26 Nov 2026 05:12:59 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50651719"
+      },
+      {
+        "title": "Qualcomm's Oryon 3 Reaches the Top",
+        "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top\">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651158\">https://news.ycombinator.com/item?id=50651158</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
+        "pubDate": "Thu, 26 Nov 2026 03:43:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50651158"
+      },
+      {
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "description": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2125784147889393806\">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651117\">https://news.ycombinator.com/item?id=50651117</a></p>\n<p>Points: 181</p>\n<p># Comments: 91</p>",
+        "pubDate": "Thu, 26 Nov 2026 03:36:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50651117"
+      },
+      {
+        "title": "Minipg: PostgreSQL as a Single Executable",
+        "link": "https://progrium.github.io/minipg/",
+        "description": "<p>Article URL: <a href=\"https://progrium.github.io/minipg/\">https://progrium.github.io/minipg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50650892\">https://news.ycombinator.com/item?id=50650892</a></p>\n<p>Points: 90</p>\n<p># Comments: 14</p>",
+        "pubDate": "Thu, 26 Nov 2026 03:00:48 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50650892"
+      },
+      {
+        "title": "Tell HN: Lots of Ask HNs again",
+        "link": "https://news.ycombinator.com/item?id=50649864",
+        "description": "<p>There have been questions about why the /ask page (<a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a>) was running dry of Ask HNs - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href=\"https://news.ycombinator.com/item?id=49984484\">https://news.ycombinator.com/item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?</i> - <a href=\"https://news.ycombinator.com/item?id=50280719\">https://news.ycombinator.com/item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. \"Ask HN\" is the conventional name but it means text posts. The title can also start with \"Tell HN\" or nothing in particular. They're just posts which were submitted without a URL.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649864\">https://news.ycombinator.com/item?id=50649864</a></p>\n<p>Points: 239</p>\n<p># Comments: 87</p>",
+        "pubDate": "Thu, 26 Nov 2026 00:43:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50649864"
+      },
+      {
+        "title": "Collection of preserved UI style guides",
+        "link": "https://aresluna.org/ui-style-guides/",
+        "description": "<p>Article URL: <a href=\"https://aresluna.org/ui-style-guides/\">https://aresluna.org/ui-style-guides/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649834\">https://news.ycombinator.com/item?id=50649834</a></p>\n<p>Points: 135</p>\n<p># Comments: 16</p>",
+        "pubDate": "Thu, 26 Nov 2026 00:40:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50649834"
+      },
+      {
+        "title": "Bare Metal Qwen",
+        "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "description": "<p>Article URL: <a href=\"https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648365\">https://news.ycombinator.com/item?id=50648365</a></p>\n<p>Points: 134</p>\n<p># Comments: 30</p>",
+        "pubDate": "Wed, 25 Nov 2026 22:15:34 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50648365"
+      },
+      {
+        "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+        "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+        "description": "<p>Article URL: <a href=\"https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648323\">https://news.ycombinator.com/item?id=50648323</a></p>\n<p>Points: 88</p>\n<p># Comments: 12</p>",
+        "pubDate": "Wed, 25 Nov 2026 22:12:25 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50648323"
+      },
+      {
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "link": "https://github.com/lsernau/grh-lean",
+        "description": "<p>Article URL: <a href=\"https://github.com/lsernau/grh-lean\">https://github.com/lsernau/grh-lean</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648050\">https://news.ycombinator.com/item?id=50648050</a></p>\n<p>Points: 425</p>\n<p># Comments: 216</p>",
+        "pubDate": "Wed, 25 Nov 2026 21:48:10 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50648050"
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "description": "<p><a href=\"https://archive.ph/pcUgy\" rel=\"nofollow\">https://archive.ph/pcUgy</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647673\">https://news.ycombinator.com/item?id=50647673</a></p>\n<p>Points: 332</p>\n<p># Comments: 286</p>",
+        "pubDate": "Wed, 25 Nov 2026 21:18:02 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50647673"
+      },
+      {
+        "title": "Slow Ubuntu security response times",
+        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "description": "<p>Article URL: <a href=\"https://www.openwall.com/lists/oss-security/2026/11/25/9\">https://www.openwall.com/lists/oss-security/2026/11/25/9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647181\">https://news.ycombinator.com/item?id=50647181</a></p>\n<p>Points: 264</p>\n<p># Comments: 116</p>",
+        "pubDate": "Wed, 25 Nov 2026 20:38:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50647181"
+      },
+      {
+        "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+        "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+        "description": "<p>Article URL: <a href=\"https://opensec.in/blog/nfs2root-cve-2026-99362\">https://opensec.in/blog/nfs2root-cve-2026-99362</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647161\">https://news.ycombinator.com/item?id=50647161</a></p>\n<p>Points: 128</p>\n<p># Comments: 45</p>",
+        "pubDate": "Wed, 25 Nov 2026 20:35:50 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50647161"
       },
       {
         "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
         "link": "https://scottaaronson.blog/?p=10379",
-        "description": "<p>See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?id=50637220</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50646108\">https://news.ycombinator.com/item?id=50646108</a></p>\n<p>Points: 463</p>\n<p># Comments: 324</p>",
+        "description": "<p>See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?id=50637220</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50646108\">https://news.ycombinator.com/item?id=50646108</a></p>\n<p>Points: 1379</p>\n<p># Comments: 1203</p>",
         "pubDate": "Wed, 25 Nov 2026 19:11:27 +0000",
         "guid": "https://news.ycombinator.com/item?id=50646108"
       },
       {
-        "title": "Britain's ghost stations",
-        "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-        "description": "<p><a href=\"https://archive.ph/pfVdX\" rel=\"nofollow\">https://archive.ph/pfVdX</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50645074\">https://news.ycombinator.com/item?id=50645074</a></p>\n<p>Points: 57</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 25 Nov 2026 17:43:46 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50645074"
-      },
-      {
         "title": "The polynomial Hirsch conjecture is false [pdf]",
         "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644980\">https://news.ycombinator.com/item?id=50644980</a></p>\n<p>Points: 71</p>\n<p># Comments: 11</p>",
+        "description": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644980\">https://news.ycombinator.com/item?id=50644980</a></p>\n<p>Points: 152</p>\n<p># Comments: 41</p>",
         "pubDate": "Wed, 25 Nov 2026 17:34:34 +0000",
         "guid": "https://news.ycombinator.com/item?id=50644980"
       },
       {
         "title": "1Password Security Incident",
         "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "description": "<p>Article URL: <a href=\"https://1password.com/blog/update-on-nov-2026-security-incident\">https://1password.com/blog/update-on-nov-2026-security-incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644817\">https://news.ycombinator.com/item?id=50644817</a></p>\n<p>Points: 775</p>\n<p># Comments: 320</p>",
+        "description": "<p>Article URL: <a href=\"https://1password.com/blog/update-on-nov-2026-security-incident\">https://1password.com/blog/update-on-nov-2026-security-incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644817\">https://news.ycombinator.com/item?id=50644817</a></p>\n<p>Points: 1371</p>\n<p># Comments: 578</p>",
         "pubDate": "Wed, 25 Nov 2026 17:18:26 +0000",
         "guid": "https://news.ycombinator.com/item?id=50644817"
       },
       {
         "title": "Deriving Black-Scholes",
         "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-        "description": "<p>Article URL: <a href=\"https://david.alvarezrosa.com/posts/deriving-black-scholes/\">https://david.alvarezrosa.com/posts/deriving-black-scholes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644814\">https://news.ycombinator.com/item?id=50644814</a></p>\n<p>Points: 44</p>\n<p># Comments: 34</p>",
+        "description": "<p>Article URL: <a href=\"https://david.alvarezrosa.com/posts/deriving-black-scholes/\">https://david.alvarezrosa.com/posts/deriving-black-scholes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644814\">https://news.ycombinator.com/item?id=50644814</a></p>\n<p>Points: 68</p>\n<p># Comments: 46</p>",
         "pubDate": "Wed, 25 Nov 2026 17:18:15 +0000",
         "guid": "https://news.ycombinator.com/item?id=50644814"
       },
       {
-        "title": "Investigating degraded experiences across GitHub products",
-        "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-        "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/qn8mfv6q5hlx\">https://www.githubstatus.com/incidents/qn8mfv6q5hlx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50643720\">https://news.ycombinator.com/item?id=50643720</a></p>\n<p>Points: 172</p>\n<p># Comments: 91</p>",
-        "pubDate": "Wed, 25 Nov 2026 15:59:23 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50643720"
-      },
-      {
-        "title": "In C++, = default and {} are not the same constructor",
-        "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-        "description": "<p>Article URL: <a href=\"https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/\">https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50643199\">https://news.ycombinator.com/item?id=50643199</a></p>\n<p>Points: 84</p>\n<p># Comments: 144</p>",
-        "pubDate": "Wed, 25 Nov 2026 15:20:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50643199"
-      },
-      {
-        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-        "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-        "description": "<p>Article URL: <a href=\"https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts\">https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50643129\">https://news.ycombinator.com/item?id=50643129</a></p>\n<p>Points: 377</p>\n<p># Comments: 93</p>",
-        "pubDate": "Wed, 25 Nov 2026 15:14:32 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50643129"
-      },
-      {
-        "title": "Rumors swirling that labs might have cracked Factoring in P",
-        "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-        "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/\">https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50643065\">https://news.ycombinator.com/item?id=50643065</a></p>\n<p>Points: 397</p>\n<p># Comments: 284</p>",
-        "pubDate": "Wed, 25 Nov 2026 15:08:44 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50643065"
-      },
-      {
         "title": "I checked Clojure's core with Lean and found unreported bugs",
         "link": "https://s.conao3.com/blog/2026/e4f733",
-        "description": "<p>Article URL: <a href=\"https://s.conao3.com/blog/2026/e4f733\">https://s.conao3.com/blog/2026/e4f733</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642939\">https://news.ycombinator.com/item?id=50642939</a></p>\n<p>Points: 140</p>\n<p># Comments: 51</p>",
+        "description": "<p>Article URL: <a href=\"https://s.conao3.com/blog/2026/e4f733\">https://s.conao3.com/blog/2026/e4f733</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642939\">https://news.ycombinator.com/item?id=50642939</a></p>\n<p>Points: 216</p>\n<p># Comments: 74</p>",
         "pubDate": "Wed, 25 Nov 2026 14:56:52 +0000",
         "guid": "https://news.ycombinator.com/item?id=50642939"
       },
       {
-        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-        "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-        "description": "<p>Article URL: <a href=\"https://github.com/google-research/google-research/tree/master/cogentic_research_papers\">https://github.com/google-research/google-research/tree/master/cogentic_research_papers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642086\">https://news.ycombinator.com/item?id=50642086</a></p>\n<p>Points: 393</p>\n<p># Comments: 305</p>",
-        "pubDate": "Wed, 25 Nov 2026 13:33:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50642086"
-      },
-      {
-        "title": "Hazel (YC W24) Is Hiring a Product Designer",
-        "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-        "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract\">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50641323\">https://news.ycombinator.com/item?id=50641323</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-        "pubDate": "Wed, 25 Nov 2026 12:00:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50641323"
-      },
-      {
-        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-        "link": "https://github.com/xoxorwr/pw-loudness-eq",
-        "description": "<p>Article URL: <a href=\"https://github.com/xoxorwr/pw-loudness-eq\">https://github.com/xoxorwr/pw-loudness-eq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50641171\">https://news.ycombinator.com/item?id=50641171</a></p>\n<p>Points: 293</p>\n<p># Comments: 163</p>",
-        "pubDate": "Wed, 25 Nov 2026 11:34:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50641171"
-      },
-      {
-        "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
-        "link": "https://arxiv.org/abs/2611.31286",
-        "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2611.31286\">https://arxiv.org/abs/2611.31286</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50639929\">https://news.ycombinator.com/item?id=50639929</a></p>\n<p>Points: 60</p>\n<p># Comments: 84</p>",
-        "pubDate": "Wed, 25 Nov 2026 08:23:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50639929"
-      },
-      {
-        "title": "Smart people who give a shit use tools",
-        "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
-        "description": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools\">https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50639698\">https://news.ycombinator.com/item?id=50639698</a></p>\n<p>Points: 207</p>\n<p># Comments: 167</p>",
-        "pubDate": "Wed, 25 Nov 2026 07:46:43 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50639698"
-      },
-      {
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "link": "https://gpu-demo-gallery.pages.dev/",
-        "description": "<p>Article URL: <a href=\"https://gpu-demo-gallery.pages.dev/\">https://gpu-demo-gallery.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638503\">https://news.ycombinator.com/item?id=50638503</a></p>\n<p>Points: 318</p>\n<p># Comments: 69</p>",
-        "pubDate": "Wed, 25 Nov 2026 04:31:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50638503"
-      },
-      {
-        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-        "link": "https://buttons.joshwcomeau.com/",
-        "description": "<p>Article URL: <a href=\"https://buttons.joshwcomeau.com/\">https://buttons.joshwcomeau.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638032\">https://news.ycombinator.com/item?id=50638032</a></p>\n<p>Points: 797</p>\n<p># Comments: 127</p>",
-        "pubDate": "Wed, 25 Nov 2026 03:23:07 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50638032"
-      },
-      {
-        "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-        "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-        "description": "<p>Article URL: <a href=\"https://rida.dev/blog/bypassing-ios-safari-60-fps-limit\">https://rida.dev/blog/bypassing-ios-safari-60-fps-limit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637890\">https://news.ycombinator.com/item?id=50637890</a></p>\n<p>Points: 421</p>\n<p># Comments: 134</p>",
-        "pubDate": "Wed, 25 Nov 2026 03:04:37 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50637890"
-      },
-      {
-        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-        "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-        "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being\">https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637686\">https://news.ycombinator.com/item?id=50637686</a></p>\n<p>Points: 423</p>\n<p># Comments: 186</p>",
-        "pubDate": "Wed, 25 Nov 2026 02:34:21 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50637686"
+        "title": "How did pinwheel calculators work?",
+        "link": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+        "description": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/how-did-pinwheel-calculators-work\">https://blog.coredump.cx/p/how-did-pinwheel-calculators-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637448\">https://news.ycombinator.com/item?id=50637448</a></p>\n<p>Points: 62</p>\n<p># Comments: 4</p>",
+        "pubDate": "Wed, 25 Nov 2026 02:00:08 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50637448"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-25T21:33:26.092Z",
+  "lastUpdated": "2026-11-26T07:59:37.348Z",
   "stats": {
     "feeds": 2,
     "articles": 20
