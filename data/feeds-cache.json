@@ -5,162 +5,162 @@
       "title": "Hacker News Front Page",
       "url": "https://hnrss.org/frontpage",
       "group": "科技",
-      "lastFetched": "2026-11-26T07:59:17.673Z"
+      "lastFetched": "2026-11-26T21:21:05.648Z"
     },
     {
       "id": "feed_2",
       "title": "Simon Willison's Blog",
       "url": "https://simonwillison.net/atom/everything/",
       "group": "科技",
-      "lastFetched": "2026-11-26T07:59:37.348Z"
+      "lastFetched": "2026-11-26T21:21:25.541Z"
     }
   ],
   "articles": {
     "https://hnrss.org/frontpage": [
       {
-        "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-        "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-        "description": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real\">https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652370\">https://news.ycombinator.com/item?id=50652370</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
-        "pubDate": "Thu, 26 Nov 2026 07:05:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50652370"
+        "title": "The USA as a Civilizations-esque map",
+        "link": "https://karpathy.ai/usaciv/",
+        "description": "<p>Article URL: <a href=\"https://karpathy.ai/usaciv/\">https://karpathy.ai/usaciv/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658997\">https://news.ycombinator.com/item?id=50658997</a></p>\n<p>Points: 57</p>\n<p># Comments: 38</p>",
+        "pubDate": "Thu, 26 Nov 2026 19:53:58 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50658997"
       },
       {
-        "title": "Moat: Your OpenRouter Replacement",
+        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "link": "https://github.com/eisenzopf/rvoip",
+        "description": "<p>Article URL: <a href=\"https://github.com/eisenzopf/rvoip\">https://github.com/eisenzopf/rvoip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658632\">https://news.ycombinator.com/item?id=50658632</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50658632"
+      },
+      {
+        "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+        "link": "https://bui.preetham.top/charts/",
+        "description": "<p>Article URL: <a href=\"https://bui.preetham.top/charts/\">https://bui.preetham.top/charts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658193\">https://news.ycombinator.com/item?id=50658193</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+        "pubDate": "Thu, 26 Nov 2026 18:37:24 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50658193"
+      },
+      {
+        "title": "Show HN: Fuck_data_brokers.py",
+        "link": "https://github.com/gary23w/f-ck_data_brokers",
+        "description": "<p>Article URL: <a href=\"https://github.com/gary23w/f-ck_data_brokers\">https://github.com/gary23w/f-ck_data_brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658191\">https://news.ycombinator.com/item?id=50658191</a></p>\n<p>Points: 96</p>\n<p># Comments: 13</p>",
+        "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50658191"
+      },
+      {
+        "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+        "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+        "description": "<p>Article URL: <a href=\"https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr\">https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658170\">https://news.ycombinator.com/item?id=50658170</a></p>\n<p>Points: 31</p>\n<p># Comments: 12</p>",
+        "pubDate": "Thu, 26 Nov 2026 18:35:37 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50658170"
+      },
+      {
+        "title": "George Whitesides, 1939-2026",
+        "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+        "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/george-whitesides-1939-2026\">https://www.science.org/content/blog-post/george-whitesides-1939-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657936\">https://news.ycombinator.com/item?id=50657936</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
+        "pubDate": "Thu, 26 Nov 2026 18:13:07 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50657936"
+      },
+      {
+        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657645\">https://news.ycombinator.com/item?id=50657645</a></p>\n<p>Points: 137</p>\n<p># Comments: 57</p>",
+        "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50657645"
+      },
+      {
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "link": "https://github.com/antonpictures/youtube-punisher",
+        "description": "<p>Article URL: <a href=\"https://github.com/antonpictures/youtube-punisher\">https://github.com/antonpictures/youtube-punisher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657530\">https://news.ycombinator.com/item?id=50657530</a></p>\n<p>Points: 131</p>\n<p># Comments: 190</p>",
+        "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50657530"
+      },
+      {
+        "title": "AMD Specific Patches for Llama.cpp",
+        "link": "https://devnull.land/amd-specific-llama-cpp",
+        "description": "<p>Article URL: <a href=\"https://devnull.land/amd-specific-llama-cpp\">https://devnull.land/amd-specific-llama-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657265\">https://news.ycombinator.com/item?id=50657265</a></p>\n<p>Points: 194</p>\n<p># Comments: 50</p>",
+        "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50657265"
+      },
+      {
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "link": "https://github.com/rxliuli/sim-drop",
+        "description": "<p>Hi HN, I made a small macOS utility for my own iOS simulator workflow.<p>I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto the window at all.<p>SimDrop puts every running iOS simulator in Finder's sidebar (under Locations) with two folders:<p>- Downloads/ (Files app > On My iPhone > Downloads)\n- Photos and Videos/ (the simulator's Photos library)<p>Simulators appear when they boot and disappear when they shut down. Everything is also reachable from the terminal under ~/Library/CloudStorage/SimDrop-SimDrop/.<p>A couple of caveats up front:\n- Dragging moves files by default (same as iCloud Drive, because it uses File Provider on the startup volume)—hold Option to copy.\n- macOS 15+ and iOS simulators only (not physical devices).<p>It's free, open source (GPL-3.0), signed and notarized, and installable via Homebrew:<p><pre><code>  brew install --cask rxliuli/tap/sim-drop\n</code></pre>\nJust sharing in case others run into the same friction—feedback or PRs welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657070\">https://news.ycombinator.com/item?id=50657070</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+        "pubDate": "Thu, 26 Nov 2026 16:51:38 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50657070"
+      },
+      {
+        "title": "NP_R ≠ PAR_R",
+        "link": "https://github.com/samueleverett01/bss-permanent-separations",
+        "description": "<p>Article URL: <a href=\"https://github.com/samueleverett01/bss-permanent-separations\">https://github.com/samueleverett01/bss-permanent-separations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657059\">https://news.ycombinator.com/item?id=50657059</a></p>\n<p>Points: 122</p>\n<p># Comments: 145</p>",
+        "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50657059"
+      },
+      {
+        "title": "Kagi Watch",
+        "link": "https://kagi.com/watch",
+        "description": "<p>Article URL: <a href=\"https://kagi.com/watch\">https://kagi.com/watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50656862\">https://news.ycombinator.com/item?id=50656862</a></p>\n<p>Points: 72</p>\n<p># Comments: 105</p>",
+        "pubDate": "Thu, 26 Nov 2026 16:28:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50656862"
+      },
+      {
+        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "link": "https://michidk.github.io/sidebyside/",
+        "description": "<p>Article URL: <a href=\"https://michidk.github.io/sidebyside/\">https://michidk.github.io/sidebyside/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50656036\">https://news.ycombinator.com/item?id=50656036</a></p>\n<p>Points: 87</p>\n<p># Comments: 23</p>",
+        "pubDate": "Thu, 26 Nov 2026 15:00:06 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50656036"
+      },
+      {
+        "title": "Tell HN: Happy Thanksgiving",
+        "link": "https://news.ycombinator.com/item?id=50655664",
+        "description": "<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655664\">https://news.ycombinator.com/item?id=50655664</a></p>\n<p>Points: 512</p>\n<p># Comments: 128</p>",
+        "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50655664"
+      },
+      {
+        "title": "Head of Software Engineering – NOX Metals",
+        "link": "https://news.ycombinator.com/item?id=50654353",
+        "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654353\">https://news.ycombinator.com/item?id=50654353</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+        "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50654353"
+      },
+      {
+        "title": "Nextcloud Office Desktop app",
+        "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+        "description": "<p>Article URL: <a href=\"https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654289\">https://news.ycombinator.com/item?id=50654289</a></p>\n<p>Points: 371</p>\n<p># Comments: 186</p>",
+        "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50654289"
+      },
+      {
+        "title": "Intel One Mono font (2023)",
+        "link": "https://github.com/intel/intel-one-mono",
+        "description": "<p>Article URL: <a href=\"https://github.com/intel/intel-one-mono\">https://github.com/intel/intel-one-mono</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653667\">https://news.ycombinator.com/item?id=50653667</a></p>\n<p>Points: 411</p>\n<p># Comments: 228</p>",
+        "pubDate": "Thu, 26 Nov 2026 10:11:01 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50653667"
+      },
+      {
+        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+        "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "description": "<p>Article URL: <a href=\"https://techstackups.com/articles/google-workspace-ai-agents-mcp/\">https://techstackups.com/articles/google-workspace-ai-agents-mcp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653477\">https://news.ycombinator.com/item?id=50653477</a></p>\n<p>Points: 146</p>\n<p># Comments: 159</p>",
+        "pubDate": "Thu, 26 Nov 2026 09:44:23 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50653477"
+      },
+      {
+        "title": "OpenAI may be in cost control mode",
+        "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "description": "<p>Article URL: <a href=\"https://micjm.com/blog/openai-is-in-cost-control-mode/\">https://micjm.com/blog/openai-is-in-cost-control-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652527\">https://news.ycombinator.com/item?id=50652527</a></p>\n<p>Points: 103</p>\n<p># Comments: 107</p>",
+        "pubDate": "Thu, 26 Nov 2026 07:33:12 +0000",
+        "guid": "https://news.ycombinator.com/item?id=50652527"
+      },
+      {
+        "title": "Moat: OpenRouter replacement",
         "link": "https://commandcode.ai/moat",
-        "description": "<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+        "description": "<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 217</p>\n<p># Comments: 126</p>",
         "pubDate": "Thu, 26 Nov 2026 06:32:48 +0000",
         "guid": "https://news.ycombinator.com/item?id=50652184"
-      },
-      {
-        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-        "description": "<p>Article URL: <a href=\"https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651719\">https://news.ycombinator.com/item?id=50651719</a></p>\n<p>Points: 58</p>\n<p># Comments: 7</p>",
-        "pubDate": "Thu, 26 Nov 2026 05:12:59 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50651719"
-      },
-      {
-        "title": "Qualcomm's Oryon 3 Reaches the Top",
-        "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
-        "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top\">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651158\">https://news.ycombinator.com/item?id=50651158</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
-        "pubDate": "Thu, 26 Nov 2026 03:43:24 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50651158"
-      },
-      {
-        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-        "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-        "description": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2125784147889393806\">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651117\">https://news.ycombinator.com/item?id=50651117</a></p>\n<p>Points: 181</p>\n<p># Comments: 91</p>",
-        "pubDate": "Thu, 26 Nov 2026 03:36:58 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50651117"
-      },
-      {
-        "title": "Minipg: PostgreSQL as a Single Executable",
-        "link": "https://progrium.github.io/minipg/",
-        "description": "<p>Article URL: <a href=\"https://progrium.github.io/minipg/\">https://progrium.github.io/minipg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50650892\">https://news.ycombinator.com/item?id=50650892</a></p>\n<p>Points: 90</p>\n<p># Comments: 14</p>",
-        "pubDate": "Thu, 26 Nov 2026 03:00:48 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50650892"
-      },
-      {
-        "title": "Tell HN: Lots of Ask HNs again",
-        "link": "https://news.ycombinator.com/item?id=50649864",
-        "description": "<p>There have been questions about why the /ask page (<a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a>) was running dry of Ask HNs - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href=\"https://news.ycombinator.com/item?id=49984484\">https://news.ycombinator.com/item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?</i> - <a href=\"https://news.ycombinator.com/item?id=50280719\">https://news.ycombinator.com/item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. \"Ask HN\" is the conventional name but it means text posts. The title can also start with \"Tell HN\" or nothing in particular. They're just posts which were submitted without a URL.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649864\">https://news.ycombinator.com/item?id=50649864</a></p>\n<p>Points: 239</p>\n<p># Comments: 87</p>",
-        "pubDate": "Thu, 26 Nov 2026 00:43:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50649864"
-      },
-      {
-        "title": "Collection of preserved UI style guides",
-        "link": "https://aresluna.org/ui-style-guides/",
-        "description": "<p>Article URL: <a href=\"https://aresluna.org/ui-style-guides/\">https://aresluna.org/ui-style-guides/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649834\">https://news.ycombinator.com/item?id=50649834</a></p>\n<p>Points: 135</p>\n<p># Comments: 16</p>",
-        "pubDate": "Thu, 26 Nov 2026 00:40:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50649834"
-      },
-      {
-        "title": "Bare Metal Qwen",
-        "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-        "description": "<p>Article URL: <a href=\"https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648365\">https://news.ycombinator.com/item?id=50648365</a></p>\n<p>Points: 134</p>\n<p># Comments: 30</p>",
-        "pubDate": "Wed, 25 Nov 2026 22:15:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50648365"
-      },
-      {
-        "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-        "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-        "description": "<p>Article URL: <a href=\"https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648323\">https://news.ycombinator.com/item?id=50648323</a></p>\n<p>Points: 88</p>\n<p># Comments: 12</p>",
-        "pubDate": "Wed, 25 Nov 2026 22:12:25 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50648323"
-      },
-      {
-        "title": "Much shorter version of GRH Lean verification from Anthropic",
-        "link": "https://github.com/lsernau/grh-lean",
-        "description": "<p>Article URL: <a href=\"https://github.com/lsernau/grh-lean\">https://github.com/lsernau/grh-lean</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648050\">https://news.ycombinator.com/item?id=50648050</a></p>\n<p>Points: 425</p>\n<p># Comments: 216</p>",
-        "pubDate": "Wed, 25 Nov 2026 21:48:10 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50648050"
-      },
-      {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "description": "<p><a href=\"https://archive.ph/pcUgy\" rel=\"nofollow\">https://archive.ph/pcUgy</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647673\">https://news.ycombinator.com/item?id=50647673</a></p>\n<p>Points: 332</p>\n<p># Comments: 286</p>",
-        "pubDate": "Wed, 25 Nov 2026 21:18:02 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50647673"
-      },
-      {
-        "title": "Slow Ubuntu security response times",
-        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-        "description": "<p>Article URL: <a href=\"https://www.openwall.com/lists/oss-security/2026/11/25/9\">https://www.openwall.com/lists/oss-security/2026/11/25/9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647181\">https://news.ycombinator.com/item?id=50647181</a></p>\n<p>Points: 264</p>\n<p># Comments: 116</p>",
-        "pubDate": "Wed, 25 Nov 2026 20:38:00 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50647181"
-      },
-      {
-        "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-        "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-        "description": "<p>Article URL: <a href=\"https://opensec.in/blog/nfs2root-cve-2026-99362\">https://opensec.in/blog/nfs2root-cve-2026-99362</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647161\">https://news.ycombinator.com/item?id=50647161</a></p>\n<p>Points: 128</p>\n<p># Comments: 45</p>",
-        "pubDate": "Wed, 25 Nov 2026 20:35:50 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50647161"
-      },
-      {
-        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "link": "https://scottaaronson.blog/?p=10379",
-        "description": "<p>See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?id=50637220</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50646108\">https://news.ycombinator.com/item?id=50646108</a></p>\n<p>Points: 1379</p>\n<p># Comments: 1203</p>",
-        "pubDate": "Wed, 25 Nov 2026 19:11:27 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50646108"
-      },
-      {
-        "title": "The polynomial Hirsch conjecture is false [pdf]",
-        "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-        "description": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644980\">https://news.ycombinator.com/item?id=50644980</a></p>\n<p>Points: 152</p>\n<p># Comments: 41</p>",
-        "pubDate": "Wed, 25 Nov 2026 17:34:34 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50644980"
-      },
-      {
-        "title": "1Password Security Incident",
-        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "description": "<p>Article URL: <a href=\"https://1password.com/blog/update-on-nov-2026-security-incident\">https://1password.com/blog/update-on-nov-2026-security-incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644817\">https://news.ycombinator.com/item?id=50644817</a></p>\n<p>Points: 1371</p>\n<p># Comments: 578</p>",
-        "pubDate": "Wed, 25 Nov 2026 17:18:26 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50644817"
-      },
-      {
-        "title": "Deriving Black-Scholes",
-        "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-        "description": "<p>Article URL: <a href=\"https://david.alvarezrosa.com/posts/deriving-black-scholes/\">https://david.alvarezrosa.com/posts/deriving-black-scholes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644814\">https://news.ycombinator.com/item?id=50644814</a></p>\n<p>Points: 68</p>\n<p># Comments: 46</p>",
-        "pubDate": "Wed, 25 Nov 2026 17:18:15 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50644814"
-      },
-      {
-        "title": "I checked Clojure's core with Lean and found unreported bugs",
-        "link": "https://s.conao3.com/blog/2026/e4f733",
-        "description": "<p>Article URL: <a href=\"https://s.conao3.com/blog/2026/e4f733\">https://s.conao3.com/blog/2026/e4f733</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642939\">https://news.ycombinator.com/item?id=50642939</a></p>\n<p>Points: 216</p>\n<p># Comments: 74</p>",
-        "pubDate": "Wed, 25 Nov 2026 14:56:52 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50642939"
-      },
-      {
-        "title": "How did pinwheel calculators work?",
-        "link": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
-        "description": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/how-did-pinwheel-calculators-work\">https://blog.coredump.cx/p/how-did-pinwheel-calculators-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637448\">https://news.ycombinator.com/item?id=50637448</a></p>\n<p>Points: 62</p>\n<p># Comments: 4</p>",
-        "pubDate": "Wed, 25 Nov 2026 02:00:08 +0000",
-        "guid": "https://news.ycombinator.com/item?id=50637448"
       }
     ],
     "https://simonwillison.net/atom/everything/": []
   },
-  "lastUpdated": "2026-11-26T07:59:37.348Z",
+  "lastUpdated": "2026-11-26T21:21:25.541Z",
   "stats": {
     "feeds": 2,
     "articles": 20
